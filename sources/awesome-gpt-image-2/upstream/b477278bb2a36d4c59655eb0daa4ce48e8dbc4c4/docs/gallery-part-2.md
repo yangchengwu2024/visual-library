@@ -1,4 +1,6 @@
-> [返回 README 首页](../README.md) | [画廊总览](./gallery.md) | [上一册：例 1-165](./gallery-part-1.md)
+> [原始文本](gallery-part-2.md.original.txt) | [主画廊](../../../../../docs/gallery.md)
+
+> [返回 README 首页](../../../../../README.md) | [画廊总览](../../../../../docs/gallery.md) | [上一册：例 1-165](./gallery-part-1.md)
 
 ## 🖼️ 魔法画廊 (Part 2)
 
@@ -6,7 +8,7 @@
 
 ### 例 166：十二黄金圣斗士卡牌合集
 
-![十二黄金圣斗士卡牌合集](../data/images/case166.jpg)
+![十二黄金圣斗士卡牌合集](../../../../../images/208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce.jpg)
 
 **来源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046476566537080849)
 
@@ -26,7 +28,7 @@ Generate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the c
 
 ### 例 167：大唐玄武门之变的朋友圈
 
-![大唐玄武门之变的朋友圈](../data/images/case167.jpg)
+![大唐玄武门之变的朋友圈](../../../../../images/e80f1e924fba33de19d1cf9ef772545b337f0b629b4bf0dab0144d30be28e005.jpg)
 
 **来源：** [@Tz\_2022](https://x.com/Tz_2022/status/2046523491940225366)
 
@@ -46,7 +48,7 @@ WeChat Moments of the Xuanwu Gate Incident
 
 ### 例 168：手写中西药方图片
 
-![手写中西药方图片](../data/images/case168.jpg)
+![手写中西药方图片](../../../../../images/61c5870953563a42ab9baeccd54f9c23968fdefab12afc8d86976e5ce4a0ed3c.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046514998965371144)
 
@@ -66,7 +68,7 @@ Generate an image of a handwritten traditional Chinese medicine or Western medic
 
 ### 例 171：信息图可视化设计
 
-![百件A字头物品矩阵图](../data/images/case171.jpg)
+![百件A字头物品矩阵图](../../../../../images/bfae9ec18587b5b70faaf201275648f253d9b3873cac63ffa047e85b173944af.jpg)
 
 **来源：** [@umesh\_ai](https://x.com/umesh_ai/status/2046510988367945983)
 
@@ -86,7 +88,7 @@ create an image with 10x10 grid of objects that have the names starting with let
 
 ### 例 172：赛博科幻桃太郎主视觉图
 
-![赛博科幻桃太郎主视觉图](../data/images/case172.jpg)
+![赛博科幻桃太郎主视觉图](../../../../../images/f9987e825041081338864dc499979ab199b7982c96d1e34544a0e475d8163869.jpg)
 
 **来源：** [@SSSS\_CRYPTOMAN](https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761)
 
@@ -106,7 +108,7 @@ Design a key visual for a fictional animation. The theme is "Sci-Fi Momotaro". D
 
 ### 例 173：银河繁星点缀的冰蓝襦裙
 
-![银河繁星点缀的冰蓝襦裙](../data/images/case173.jpg)
+![银河繁星点缀的冰蓝襦裙](../../../../../images/dc5487f4fc7f40e1cb9c25f7eb9464afe3c6851b0d1875bacb7cdc9f0e4e5cfb.jpg)
 
 **来源：** [@fdtreesky](https://x.com/fdtreesky/status/2046508731090018331)
 
@@ -132,7 +134,7 @@ Composition and lens: Uses 85mm golden portrait lens effect, f/1.8 large apertur
 
 ### 例 174：唐朝贵妇遛粉色马甲异形工笔画
 
-![唐朝贵妇遛粉色马甲异形工笔画](../data/images/case174.jpg)
+![唐朝贵妇遛粉色马甲异形工笔画](../../../../../images/2a3906d0f26568190cdbc5be1257fac61afe559d2f2a220fdb230da1c3eadef4.jpg)
 
 **来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
@@ -164,7 +166,7 @@ Background features peonies and butterflies.
 
 ### 例 175：封面排版设计图
 
-![高端AI演示平台封面设计](../data/images/case175.jpg)
+![高端AI演示平台封面设计](../../../../../images/3614ca30899bd62956de104b4e75eca1a681582504e916544b5405adac6e5b46.jpg)
 
 **来源：** [@cellier\_](https://x.com/cellier_/status/2046615173411262959)
 
@@ -262,7 +264,7 @@ English only
 
 ### 例 176：苏轼被贬首日朋友圈曝光
 
-![苏轼被贬首日朋友圈曝光](../data/images/case176.jpg)
+![苏轼被贬首日朋友圈曝光](../../../../../images/ffa1892fa496cee7fcb0aa61e3cb05940eab91df4d5ad4174ec81f5955f3bd4f.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
@@ -282,7 +284,7 @@ Su Shi's first day of exile Xiaohongshu screenshot
 
 ### 例 177：吉利银河暗黑中控界面
 
-![吉利银河暗黑中控界面](../data/images/case177.jpg)
+![吉利银河暗黑中控界面](../../../../../images/28e849446f94972a7005a770c750e3d986d2532221dfd1cc7f064105248c7a6d.jpg)
 
 **来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
@@ -302,7 +304,7 @@ Help me generate a central control interface of Geely Galaxy M9, size 21:9, dark
 
 ### 例 178：亚马逊详情图设计
 
-![亚马逊详情图设计](../data/images/case178.jpg)
+![亚马逊详情图设计](../../../../../images/f4f97c2b80ef76dfc9fc310212373da8fda254ee760ed9575d7e05f9f3bc7dc0.jpg)
 
 **来源：** [@xin\_pai88825](https://x.com/xin_pai88825/status/2046576100592201946)
 
@@ -322,7 +324,7 @@ Generate a set of Amazon A+= detail images
 
 ### 例 179：蒸汽朋克射手座解剖图谱
 
-![蒸汽朋克射手座解剖图谱](../data/images/case179.jpg)
+![蒸汽朋克射手座解剖图谱](../../../../../images/702b1dfe1a029106c7c0605874a5cef45daeb52f8c01fcf9124b25087468c653.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046574334572212694)
 
@@ -342,7 +344,7 @@ Generate a set of Amazon A+= detail images
 
 ### 例 180：荒诞超现实女装大叔海报
 
-![荒诞超现实女装大叔海报](../data/images/case180.jpg)
+![荒诞超现实女装大叔海报](../../../../../images/8d4a5db50a1acafd90999078aa51f648f76c78cd3b85076c2892333524029f33.jpg)
 
 **来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046499177916682600)
 
@@ -362,7 +364,7 @@ A movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing
 
 ### 例 181：潮流视角重塑精致商品广告
 
-![潮流视角重塑精致商品广告](../data/images/case181.jpg)
+![潮流视角重塑精致商品广告](../../../../../images/95dcbf5d48184c61c5b452f68d0aae9968e5a083fa8c465f79e494095834ded5.jpg)
 
 **来源：** [@genel\_ai](https://x.com/genel_ai/status/2046498264774791514)
 
@@ -383,7 +385,7 @@ Please redesign this product advertisement from the perspective of a professiona
 
 ### 例 182：千禧年日系校园喜剧场景
 
-![千禧年日系校园喜剧场景](../data/images/case182.jpg)
+![千禧年日系校园喜剧场景](../../../../../images/9968f5a5d3f772ce1211f4a8bf6632bfa6b2402a016379063642704aa9e4aa39.jpg)
 
 **来源：** [@UminekoStudio](https://x.com/UminekoStudio/status/2046488248256806981)
 
@@ -403,7 +405,7 @@ Please redesign this product advertisement from the perspective of a professiona
 
 ### 例 183：一张中文健身信息图
 
-![一张中文健身信息图](../data/images/case183.jpg)
+![一张中文健身信息图](../../../../../images/8e53d7f91b44cad49a2ab136f59acc4b49d744e2c911c7a00ce9db62f96219c7.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046560406760505727)
 
@@ -507,7 +509,7 @@ Please redesign this product advertisement from the perspective of a professiona
 
 ### 例 184：杜甫朋友圈吐槽茅屋被掀翻
 
-![杜甫朋友圈吐槽茅屋被掀翻](../data/images/case184.jpg)
+![杜甫朋友圈吐槽茅屋被掀翻](../../../../../images/35ae2b11bbfa0e4ceb2620974135af3e5e344d126bcf014656da236890cacb67.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
@@ -527,7 +529,7 @@ Du Fu posting on WeChat Moments complaining about his roof being blown away by t
 
 ### 例 185：武则天发微博自拍太魔性了
 
-![武则天发微博自拍太魔性了](../data/images/case185.jpg)
+![武则天发微博自拍太魔性了](../../../../../images/8ff47fdb32cfb68315956c544cd3c880a1227baeea20a59b3f88ba636ba1e9d9.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
@@ -547,7 +549,7 @@ Wu Zetian taking a selfie, registering and posting on Weibo.
 
 ### 例 186：品牌视觉识别图
 
-![奇幻RPG百件像素风道具图鉴](../data/images/case186.jpg)
+![奇幻RPG百件像素风道具图鉴](../../../../../images/ad1c8e741a13f2f02a2ec751135b089dc3056e826499c0b8feb5bfe7491912a2.jpg)
 
 **来源：** [@ProperPrompter](https://x.com/ProperPrompter/status/2046534215311970694)
 
@@ -591,7 +593,7 @@ Show each tile as a centered item sprite on a clean background square, rendered 
 
 ### 例 187：韩系极简氛围感少女写真
 
-![韩系极简氛围感少女写真](../data/images/case187.jpg)
+![韩系极简氛围感少女写真](../../../../../images/faaed3e09304a1fe77a990586f44268c534d03c6e9d816b97cdd8dc079092c8d.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046434670724907395)
 
@@ -611,7 +613,7 @@ Show each tile as a centered item sprite on a clean background square, rendered 
 
 ### 例 188：暗黑极简头像网站视觉设计
 
-![暗黑极简头像网站视觉设计](../data/images/case188.jpg)
+![暗黑极简头像网站视觉设计](../../../../../images/64fd0fa474df08f621c26e99d8e279094a4cec9a7912f3b668e14b96cb1d2ec2.jpg)
 
 **来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046556758521573546)
 
@@ -631,7 +633,7 @@ In the style of ABCD (a black cover design), design a VI system for Tu Ni Tai Me
 
 ### 例 189：清新夏日女装连衣裙电商展示
 
-![清新夏日女装连衣裙电商展示](../data/images/case189.jpg)
+![清新夏日女装连衣裙电商展示](../../../../../images/920ec4931f2929b5ed37b4ef674310725061182b175af9103aabb99ab110095e.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
@@ -651,7 +653,7 @@ Summer women's dress e-commerce detail image
 
 ### 例 190：全自动咖啡机产品展示
 
-![全自动咖啡机产品展示](../data/images/case190.jpg)
+![全自动咖啡机产品展示](../../../../../images/74305836dcc20ce8c94440581e86fb671d48240a04c25e92b6ca9fe2540906be.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
@@ -671,7 +673,7 @@ Fully automatic coffee machine e-commerce detail image
 
 ### 例 191：史诗级科幻电影海报设计
 
-![史诗级科幻电影海报设计](../data/images/case191.jpg)
+![史诗级科幻电影海报设计](../../../../../images/ff8e7082e72b59d1bcd770ef3f59b69bfa8e71d91ed8c274b544ba81511c751d.jpg)
 
 **来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046514205529088501)
 
@@ -691,7 +693,7 @@ Create a Science fiction movie poster
 
 ### 例 192：电商商品展示图
 
-![未来科技感AI智能眼镜详情页](../data/images/case192.jpg)
+![未来科技感AI智能眼镜详情页](../../../../../images/9b37ba8f5da1bc956c895c2cbacbd48eedc13cd174934063aac22fd7197d65ce.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
@@ -711,7 +713,7 @@ AI smart glasses e-commerce detail image
 
 ### 例 193：千手观音化身打工人
 
-![千手观音化身打工人](../data/images/case193.jpg)
+![千手观音化身打工人](../../../../../images/6e25981c28e6d11fb4c826b8c617a5843ff2ab65295718cfeac8ca7857955b63.jpg)
 
 **来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046565555025367392)
 
@@ -743,7 +745,7 @@ The golden aura behind the head is made of spinning clock gears.
 
 ### 例 194：健身蛋白粉电商详情页
 
-![健身蛋白粉电商详情页](../data/images/case194.jpg)
+![健身蛋白粉电商详情页](../../../../../images/5e22bc354c6111749add5c42bc3be9330d64d960cb032005466c0ad0e9b44775.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046544209117634735)
 
@@ -763,7 +765,7 @@ Fitness protein powder e-commerce detail image
 
 ### 例 195：超写实与水墨的梦幻融合
 
-![超写实与水墨的梦幻融合](../data/images/case195.jpg)
+![超写实与水墨的梦幻融合](../../../../../images/cbdaef93b549d47c55c6bb2cb87b38d488dce7493b4c1d17ed41bec9268c1a95.jpg)
 
 **来源：** [@johnAGI168](https://x.com/johnAGI168/status/2046596103919767857)
 
@@ -823,7 +825,7 @@ Aspect ratio: 3:4
 
 ### 例 196：试卷上的涂鸦巨龙
 
-![试卷上的涂鸦巨龙](../data/images/case196.jpg)
+![试卷上的涂鸦巨龙](../../../../../images/d9788e831eb492e741228009501c42d3d28ea4077e19973509d1c3faf231549b.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046539797578330152)
 
@@ -900,7 +902,7 @@ masterpiece, ultra detailed
 
 ### 例 197：英雄联盟特朗普中路对决哈梅内伊
 
-![英雄联盟特朗普中路对决哈梅内伊](../data/images/case197.jpg)
+![英雄联盟特朗普中路对决哈梅内伊](../../../../../images/7a3112af6ca5fecdecffe97400f35e9e6a033192e977f9659464f3e19bbc663f.jpg)
 
 **来源：** [@underwoodxie96](https://x.com/underwoodxie96/status/2046529342415790275)
 
@@ -920,7 +922,7 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 ### 例 198：苍白陶瓷娃娃沙滩仰视
 
-![苍白陶瓷娃娃沙滩仰视](../data/images/case198.jpg)
+![苍白陶瓷娃娃沙滩仰视](../../../../../images/7ad148ac6142609aa4658828243a342d7768e12f1a26338cf9011f375f97d9ee.jpg)
 
 **来源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046584217656570035)
 
@@ -1002,7 +1004,7 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 ### 例 199：超写实海滩高角度手机自拍
 
-![超写实海滩高角度手机自拍](../data/images/case199.jpg)
+![超写实海滩高角度手机自拍](../../../../../images/49812c219bda2aefd8839af6e4ac567aa520664aecf79748e0993126e6800c20.jpg)
 
 **来源：** [@IamEmily2050](https://x.com/IamEmily2050/status/2046602266627465534)
 
@@ -1138,7 +1140,7 @@ Help me generate a screenshot of Trump versus Khamenei in the mid lane in League
 
 ### 例 200：热度爆表的美女内衣直播间
 
-![热度爆表的美女内衣直播间](../data/images/case200.jpg)
+![热度爆表的美女内衣直播间](../../../../../images/784d7f65ef32503f6db9cfb0165f0cef026897dbe2891026798367c1790cd38a.jpg)
 
 **来源：** [@xiaohu](https://x.com/xiaohu/status/2046536551681954207)
 
@@ -1158,7 +1160,7 @@ Generate a screenshot of a Douyin live stream featuring a beautiful woman live s
 
 ### 例 201：三甲医院真实门诊处方笺
 
-![三甲医院真实门诊处方笺](../data/images/case201.jpg)
+![三甲医院真实门诊处方笺](../../../../../images/2d075243d660416c0b45dae18c9a00eaa546dea0d0300689f0c79e2922cd9a58.jpg)
 
 **来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2046546317766500834)
 
@@ -1178,7 +1180,7 @@ An outpatient prescription sheet from a Grade 3A hospital, doctor's illegible ha
 
 ### 例 202：宅男必看绝美二次元少女
 
-![宅男必看绝美二次元少女](../data/images/case202.jpg)
+![宅男必看绝美二次元少女](../../../../../images/d8dc4fe6fff78aff6e6c1474d41cc65cefca9af2fedbd3f54a3b2890f1400c19.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
@@ -1198,7 +1200,7 @@ Generate high-quality beautiful girl (otaku must-have)
 
 ### 例 203：杠精视角的独特文案创意
 
-![杠精视角的独特文案创意](../data/images/case203.jpg)
+![杠精视角的独特文案创意](../../../../../images/3327eb03d0db404a2e76e22f37cab708814fff3b09f94cd97fc65a5f916fe8e4.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
@@ -1218,7 +1220,7 @@ Troll perspective copywriting + GPT Image 2
 
 ### 例 204：智能动画分镜生成器
 
-![智能动画分镜生成器](../data/images/case204.jpg)
+![智能动画分镜生成器](../../../../../images/e77853140dde1417794ce5a225e1093d9c4cb24d0f3e4a6a44932a5ee1909700.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
@@ -1238,7 +1240,7 @@ Generate an animation storyboard generator
 
 ### 例 205：皇宫深处的御用快递驿站
 
-![皇宫深处的御用快递驿站](../data/images/case205.jpg)
+![皇宫深处的御用快递驿站](../../../../../images/a00da2e3de91c41b8126ad2ecb4bf27ddc80cf4cf326798fe8259749029cf3ff.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046596222505361866)
 
@@ -1258,7 +1260,7 @@ Generate an ancient imperial palace × express delivery station
 
 ### 例 206：国风工笔八仙长卷插画
 
-![国风工笔八仙长卷插画](../data/images/case206.jpg)
+![国风工笔八仙长卷插画](../../../../../images/1744dbf7b19ac5dddbada2193004df26e2371718f04a4e19545a77397d5ad39d.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046559605074076112)
 
@@ -1278,7 +1280,7 @@ Generate an ancient imperial palace × express delivery station
 
 ### 例 207：黑神话潘金莲绝美游戏封面
 
-![黑神话潘金莲绝美游戏封面](../data/images/case207.jpg)
+![黑神话潘金莲绝美游戏封面](../../../../../images/af6dd087db1f32553bf22f6b6a1a9de632f967379a14158bb128775e7c8d1216.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046576160952443082)
 
@@ -1298,7 +1300,7 @@ Generate a game introduction screen for Black Myth: Pan Jinlian, the character i
 
 ### 例 208：樱花树下害羞双马尾少女
 
-![樱花树下害羞双马尾少女](../data/images/case208.jpg)
+![樱花树下害羞双马尾少女](../../../../../images/23a3311a9613cb37113de3c7738736d026999a35a1cefc626dc652b516def737.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2046593124646928397)
 
@@ -1346,7 +1348,7 @@ Proportion: 16:9 (mobile wallpaper) Quality: 8K, ultra-fine, rich in details
 
 ### 例 209：神话三国枪战世界
 
-![神话三国枪战世界](../data/images/case209.jpg)
+![神话三国枪战世界](../../../../../images/805315e32aaa1b8fffab7da96b2f4f7eb40832162c50b04413f93f32853fbc28.jpg)
 
 **来源：** [@op7418](https://x.com/op7418/status/2046519666047426967)
 
@@ -1366,7 +1368,7 @@ Imitating the style of Valorant, generate a Three Kingdoms mythological FPS game
 
 ### 例 210：萌系大模型训练图解
 
-![萌系大模型训练图解](../data/images/case210.jpg)
+![萌系大模型训练图解](../../../../../images/7e764e544091ead3df77e2ece536b613062c81bd71402c5b99163d518a5ab3ad.jpg)
 
 **来源：** [@op7418](https://x.com/op7418/status/2046502136973001143)
 
@@ -1386,7 +1388,7 @@ Cute explanation of the large language model training process
 
 ### 例 211：天坛古建拆解全图
 
-![天坛古建拆解全图](../data/images/case211.jpg)
+![天坛古建拆解全图](../../../../../images/b60d448aa795808ea2ce4cb6f11683169e864b9ced6a2a85f5ff613f1211a87c.jpg)
 
 **来源：** [@TanShilong](https://x.com/TanShilong/status/2046524996013662380)
 
@@ -1406,7 +1408,7 @@ Generate an architectural exploded view of the Temple of Heaven, with detailed a
 
 ### 例 212：专业设计师打造角色写真集
 
-![专业设计师打造角色写真集](../data/images/case212.jpg)
+![专业设计师打造角色写真集](../../../../../images/14864d5130c1e2a03035b446ca64f9eed63f869af0981c14d06c21bc0ed25aca.jpg)
 
 **来源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2046492817804099794)
 
@@ -1434,7 +1436,7 @@ Adding prompts according to your preferences will make it more colorful and rich
 
 ### 例 213：金瓶梅古风开放世界游戏截图
 
-![金瓶梅古风开放世界游戏截图](../data/images/case213.jpg)
+![金瓶梅古风开放世界游戏截图](../../../../../images/59009b5e77b72d3dea360945375f347f1e9798e89b2bd1d6c9347cf42b20a455.jpg)
 
 **来源：** [@op7418](https://x.com/op7418/status/2046520509651886451)
 
@@ -1454,7 +1456,7 @@ Help me generate a screenshot of an ancient ARPG MMO open-world game themed arou
 
 ### 例 214：绘制金瓶梅知识图谱
 
-![绘制金瓶梅知识图谱](../data/images/case214.jpg)
+![绘制金瓶梅知识图谱](../../../../../images/122dafe424ab3d5bc994f831d9c6b80ee2e52ea344bf9d643db0efc6fbcd4354.jpg)
 
 **来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2046252164717416641)
 
@@ -1530,7 +1532,7 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 ### 例 215：西方艺术演进像素博物馆
 
-![西方艺术演进像素博物馆](../data/images/case215.jpg)
+![西方艺术演进像素博物馆](../../../../../images/01807a2e9654a7f5139e24a1462293776e397a72b1f1bf0e9d275951e04caf09.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX/status/2046172416716759171)
 
@@ -1554,7 +1556,7 @@ Create an ultra-high-detail isometric pixel art timeline illustration (3:4, 4K),
 
 ### 例 216：雅致图案四款时尚单品设计
 
-![雅致图案四款时尚单品设计](../data/images/case216.png)
+![雅致图案四款时尚单品设计](../../../../../images/c9e1f6cebfdd755f81713bd4a6364b5c2bea2d0b53adbd46460ed50c2210f15a.png)
 
 **来源：** [@aiehon\_aya](https://x.com/aiehon_aya/status/2046348182301683954)
 
@@ -1574,7 +1576,7 @@ Use the patterns in the attached image, crafted by professional designers to cre
 
 ### 例 217：昏暗室内纯真少女的意外回眸
 
-![昏暗室内纯真少女的意外回眸](../data/images/case217.jpg)
+![昏暗室内纯真少女的意外回眸](../../../../../images/c62b0c7b6e469a9e6e59e0901423a10e44d4b7db9461ade1defc79596f5ddd75.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046190539213885806)
 
@@ -1614,7 +1616,7 @@ Use the patterns in the attached image, crafted by professional designers to cre
 
 ### 例 218：绘制科学百科知识图谱
 
-![绘制科学百科知识图谱](../data/images/case218.jpg)
+![绘制科学百科知识图谱](../../../../../images/b185a16f4bcff6a7332609c4b2a522a709b8a8548d80d57c8cec85e6dea8a890.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX)
 
@@ -1746,7 +1748,7 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 ### 例 219：韩系偶像九宫格写真集
 
-![韩系偶像九宫格写真集](../data/images/case219.jpg)
+![韩系偶像九宫格写真集](../../../../../images/0384f557045843858a5e7618867e511f06d2d2a24b9ac6100d63030797303fbf.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046151898621993364)
 
@@ -1766,7 +1768,7 @@ Overall Composition: Extremely dense with information, organized into 6-8 struct
 
 ### 例 220：鎏金广州塔的东方奇幻海报
 
-![鎏金广州塔的东方奇幻海报](../data/images/case220.jpg)
+![鎏金广州塔的东方奇幻海报](../../../../../images/40ea70728e0ebc61f236aee716cf4c69f8d89947d6d1531a0689acfbd2d6a75e.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046243132774494607)
 
@@ -1794,7 +1796,7 @@ Flat illustration, Oriental fantasy style high-end city poster design, vertical 
 
 ### 例 221：窗边日系胶片女孩
 
-![窗边日系胶片女孩](../data/images/case221.jpg)
+![窗边日系胶片女孩](../../../../../images/18b9cc80326f8e9a40898a9373d302d78473f3e92dfc51033e732dd9a948cbb7.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046115431144902732)
 
@@ -1814,7 +1816,7 @@ Analog 35mm film photography, soft airy Japanese-style aesthetic, gentle diffuse
 
 ### 例 222：精致模块化科普百科图鉴
 
-![精致模块化科普百科图鉴](../data/images/case222.jpg)
+![精致模块化科普百科图鉴](../../../../../images/94759b2e0ef6e05f9329e98ea36443cd9993de1727bee190dd12ff653a574fea.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046231542817497392)
 
@@ -1870,7 +1872,7 @@ Please do not make it into an ordinary commercial promotional poster. It must hi
 
 ### 例 223：春日禅意水墨群山海报
 
-![春日禅意水墨群山海报](../data/images/case223.jpg)
+![春日禅意水墨群山海报](../../../../../images/8daebb3786f06c1251749f76e3fae43c948a7341cbcf9dfd9d7f0ce0f48457a8.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2046215276249993720)
 
@@ -1929,7 +1931,7 @@ restrained cold and warm contrast, cinematic light and shadow, high-end art post
 
 ### 例 224：机甲少女立于废弃海城
 
-![机甲少女立于废弃海城](../data/images/case224.jpg)
+![机甲少女立于废弃海城](../../../../../images/b9571de9cb6481ca05e94223bc29c352a92c76a9ac8bdc860908558354f00661.jpg)
 
 **来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2046144801071079612)
 
@@ -1954,7 +1956,7 @@ A mecha girl mid-teens, pale skin smudged with soot and salt spray, sharp amber 
 
 ### 例 225：大师级真迹复刻
 
-![大师级真迹复刻](../data/images/case225.jpg)
+![大师级真迹复刻](../../../../../images/66125a68271db4e4d09fb123977e0e7ee62e8b558e472a38afce58cba9a83d71.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046201836525302032)
 
@@ -1974,7 +1976,7 @@ Help me generate xxxx authentic picture
 
 ### 例 226：古风明朝帝王群像长卷
 
-![古风明朝帝王群像长卷](../data/images/case226.jpg)
+![古风明朝帝王群像长卷](../../../../../images/b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045071977279635962)
 
@@ -1994,7 +1996,7 @@ Based on the style of the uploaded image, generate portraits of the emperors of 
 
 ### 例 227：哔哩哔哩户晨风直播截图
 
-![哔哩哔哩户晨风直播截图](../data/images/case227.jpg)
+![哔哩哔哩户晨风直播截图](../../../../../images/d20a6cc3f2ba71ccf0c733b78a4dce55329aa28e82d00974b5536e5d5fd45f64.jpg)
 
 **来源：** [@austinit](https://x.com/austinit/status/2044994519649997183)
 
@@ -2014,7 +2016,7 @@ A 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chen
 
 ### 例 228：完美匹配的海报广告图
 
-![完美匹配的海报广告图](../data/images/case228.jpg)
+![完美匹配的海报广告图](../../../../../images/85ed62573f98005ae827735b81c6c7692d884223c691cdb7fe9c9746b55bd6d9.jpg)
 
 **来源：** [@Kashiko\_AIart](https://x.com/Kashiko_AIart/status/2045787856292151322)
 
@@ -2034,7 +2036,7 @@ Generate an advertising image that perfectly matches this image. There should be
 
 ### 例 229：琉璃透明画眉鸟飞舞羊城墨卷
 
-![琉璃透明画眉鸟飞舞羊城墨卷](../data/images/case229.jpg)
+![琉璃透明画眉鸟飞舞羊城墨卷](../../../../../images/c2951bf3891cdf5c0ac2ab1d89c37300202ae301754a019ab4a72b9b0694305e.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045873940883808523)
 
@@ -2124,7 +2126,7 @@ ratio 9:16
 
 ### 例 230：极简国潮鎏金广州塔海报
 
-![极简国潮鎏金广州塔海报](../data/images/case230.jpg)
+![极简国潮鎏金广州塔海报](../../../../../images/823f44c7407b2bec626627a10c32ae60fae78c488f7fb327ace8831c51ce1188.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045744531686166878)
 
@@ -2184,7 +2186,7 @@ Overall style: Guochao high-end illustration / brand poster-level texture / 8K /
 
 ### 例 231：疾风起狂草艺术字体设计
 
-![疾风起狂草艺术字体设计](../data/images/case231.jpg)
+![疾风起狂草艺术字体设计](../../../../../images/974f3b52992689a846ca7cc0453e64f8b9d645bb6872d7962abae032a010376c.jpg)
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/rising-wind-calligraphy-art)
 
@@ -2216,7 +2218,7 @@ Pure black background as the base, perfectly fitting the passionate atmosphere, 
 
 ### 例 232：兰亭集序书法帖意境图
 
-![兰亭集序书法帖意境图](../data/images/case232.jpg)
+![兰亭集序书法帖意境图](../../../../../images/76b0700e43c2ef29d78cc7d4fd179f6d6718ded7a7c1b6bb0dc4fdeec838ee0c.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045137549149286858)
 
@@ -2236,7 +2238,7 @@ Combining the content from Wang Xizhi's "Lantingji Xu", generate a calligraphy c
 
 ### 例 233：蒙娜丽莎畅饮可乐的趣味油画
 
-![蒙娜丽莎畅饮可乐的趣味油画](../data/images/case233.jpg)
+![蒙娜丽莎畅饮可乐的趣味油画](../../../../../images/eab2895a5c9275db8a02336eb9dc6d3febb439b0a6c6e6790ce060ef59f9b030.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045058142858555733)
 
@@ -2256,7 +2258,7 @@ Generate an oil painting of Mona Lisa drinking cola.
 
 ### 例 234：朱元璋登基后的推特主页
 
-![朱元璋登基后的推特主页](../data/images/case234.jpg)
+![朱元璋登基后的推特主页](../../../../../images/393d4240ac8bf8ff0d3704bd0a9bdff90a1331e47f1b6ff1d659e0cd5d832c21.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045021302315249738)
 
@@ -2276,7 +2278,7 @@ Create an X post page of Zhu Yuanzhang after his ascension to the throne in the 
 
 ### 例 235：治愈系助眠指南九宫格
 
-![治愈系助眠指南九宫格](../data/images/case235.jpg)
+![治愈系助眠指南九宫格](../../../../../images/8aa72b98ff349ea4845f760d5669ebd9c2d2a281358d18458030e99b95518389.jpg)
 
 **来源：** [@austinit](https://x.com/austinit/status/2046037688969769346)
 
@@ -2414,7 +2416,7 @@ High definition, premium layout, magazine feel, realistically publishable, new m
 
 ### 例 236：粤超联赛国潮风邀请函海报
 
-![粤超联赛国潮风邀请函海报](../data/images/case236.jpg)
+![粤超联赛国潮风邀请函海报](../../../../../images/2f8ac13f21c897961418461837f20ea249da791af47164a353b966560c89a9d2.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045772039521542202)
 
@@ -2462,7 +2464,7 @@ The overall layout is balanced, has a high-end brand poster texture, extremely d
 
 ### 例 237：夏日柑橘苏打高转化广告图
 
-![夏日柑橘苏打高转化广告图](../data/images/case237.jpg)
+![夏日柑橘苏打高转化广告图](../../../../../images/e4c7b2b461413b69a9c71fd7b0497eecaf8e29e817d9f6c0f81ca9aebd2e2ab3.jpg)
 
 **来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045852114673635507)
 
@@ -2482,7 +2484,7 @@ Image generation: Product advertising photo, Seasonal product suitable for summe
 
 ### 例 238：星云巨鲤与小人的奇幻对话
 
-![星云巨鲤与小人的奇幻对话](../data/images/case238.jpg)
+![星云巨鲤与小人的奇幻对话](../../../../../images/de2e562cb457eff2c906428d7d7799117a3ce89bf3b400f85789b8a65760ca4c.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045875219307655337)
 
@@ -2504,7 +2506,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 ### 例 239：刘亦菲抖音直播畅聊中
 
-![刘亦菲抖音直播畅聊中](../data/images/case239.jpg)
+![刘亦菲抖音直播畅聊中](../../../../../images/9c582e80c73dbd62bb7433d820c5682180efbbaa2b67472cc132c19854ebb8ad.jpg)
 
 **来源：** [@alanblogsooo](https://x.com/alanblogsooo/status/2044784762594918516)
 
@@ -2524,7 +2526,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 ### 例 240：胶片闪光灯下的球场少女
 
-![胶片闪光灯下的球场少女](../data/images/case240.jpg)
+![胶片闪光灯下的球场少女](../../../../../images/d32a146d9c4f9104f5b7f81e54514265ac0aaf8c9307a2cef46fb79e6d3b3914.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045052982728016131)
 
@@ -2544,7 +2546,7 @@ A surrealist digital illustration style, adopting a low-angle upward perspective
 
 ### 例 241：关键人物关系图谱
 
-![关键人物关系图谱](../data/images/case241.jpg)
+![关键人物关系图谱](../../../../../images/7547990006cd9345362e27d58b7ac08799e5bd10987192da864de2266ba39e96.jpg)
 
 **来源：** [@yihui\_indie](https://x.com/yihui_indie/status/2045179926270361890)
 
@@ -2564,7 +2566,7 @@ Please generate a key character relationship diagram for "XXX".
 
 ### 例 242：绝美国风工笔画书签设计
 
-![绝美国风工笔画书签设计](../data/images/case242.jpg)
+![绝美国风工笔画书签设计](../../../../../images/787e9adde8bad7f2b289adca2b868ecd6850f53aea6faf1cbee9ede8b39c9667.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2584,7 +2586,7 @@ Generate a series of design drafts for Gongbi painting bookmarks.
 
 ### 例 243：定制专属风格界面设计系统
 
-![定制专属风格界面设计系统](../data/images/case243.jpg)
+![定制专属风格界面设计系统](../../../../../images/db84b73bbb27635c4eeae6e633f04a87f42ee1c0d9f4c97093c989b44ebf9f13.jpg)
 
 **来源：** [@stark\_nico99](https://x.com/stark_nico99/status/2045836554451706125)
 
@@ -2604,7 +2606,7 @@ Generate a UI design system for me in xx style, including web pages, mobile, car
 
 ### 例 244：杜蕾斯茶颜悦色联名海报设计
 
-![杜蕾斯茶颜悦色联名海报设计](../data/images/case244.jpg)
+![杜蕾斯茶颜悦色联名海报设计](../../../../../images/6d8833f0f4d15ccb7d469951ef4bbb09f4eb1ed189c2510696acece731adf3a3.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2624,7 +2626,7 @@ Design a set of promotional materials for a Durex and Chayan Yuese co-branding c
 
 ### 例 245：马斯克专属篆刻印章设计
 
-![马斯克专属篆刻印章设计](../data/images/case245.jpg)
+![马斯克专属篆刻印章设计](../../../../../images/e0a3f4e59e10003b8bfe8dc5bfbdc1ccefc2910a7fbd5f32a734e04ac84b3fde.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2644,7 +2646,7 @@ Design a set of seal carving stamps for "Elon Musk"
 
 ### 例 246：黑白线稿勾勒的上海风情
 
-![黑白线稿勾勒的上海风情](../data/images/case246.jpg)
+![黑白线稿勾勒的上海风情](../../../../../images/92b5ddf1b9477b112f2a6de1a2ddd060427906229371a9b46c51b616c5e6db5d.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2664,7 +2666,7 @@ Design a Shanghai postcard in black line art style.
 
 ### 例 247：运动健身图标字体设计
 
-![运动健身图标字体设计](../data/images/case247.jpg)
+![运动健身图标字体设计](../../../../../images/5c36819a12b807c77ea0162f4ca799e062ad6e0ce2919b239a7547dec1e2b86b.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2684,7 +2686,7 @@ Generate a set of iconfont for a sports app
 
 ### 例 248：景德镇青花瓷全景解说图谱
 
-![景德镇青花瓷全景解说图谱](../data/images/case248.jpg)
+![景德镇青花瓷全景解说图谱](../../../../../images/3b967342a6d7bd7747983f6e1d5b2cdfba4a56df1cebc553b776de2f49b5586e.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2045764695827562686)
 
@@ -2704,7 +2706,7 @@ Generate a detailed explanatory diagram of Jingdezhen blue and white porcelain, 
 
 ### 例 249：美女举牌感谢大哥打赏大火箭
 
-![美女举牌感谢大哥打赏大火箭](../data/images/case249.jpg)
+![美女举牌感谢大哥打赏大火箭](../../../../../images/5eef3b2aa2ee92e95a03c79a486d70bb5ada3b7f334a0070b44718220c447cae.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
@@ -2724,7 +2726,7 @@ Generate a screenshot of a TikTok live stream, a beautiful woman is live streami
 
 ### 例 250：小王子与星舰的浪漫联名
 
-![小王子与星舰的浪漫联名](../data/images/case250.jpg)
+![小王子与星舰的浪漫联名](../../../../../images/7a555e745d4ce3d218755f9dacbb1c61de6bf0a71b726f0993b7bad202737bf9.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2744,7 +2746,7 @@ Design a postcard co-branded by The Little Prince and SpaceX
 
 ### 例 251：言叶之庭春雨绿意单日历
 
-![言叶之庭春雨绿意单日历](../data/images/case251.jpg)
+![言叶之庭春雨绿意单日历](../../../../../images/f3556070e896ee2502677fc7b1ccdb8949819b61ad4491e41d12c2af576368ef.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2764,7 +2766,7 @@ Generate a single-day calendar for The Garden of Words on April 19, 2026
 
 ### 例 252：五一劳动节手举牌创意设计集
 
-![五一劳动节手举牌创意设计集](../data/images/case252.jpg)
+![五一劳动节手举牌创意设计集](../../../../../images/2ff6d852e958b55065e5c2af8936dccf35803dc7749be30f8e6426936126922d.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2784,7 +2786,7 @@ Generate a series of hand-held sign designs for May Day Labor Day
 
 ### 例 253：2026谷雨节气唯美海报设计
 
-![2026谷雨节气唯美海报设计](../data/images/case253.jpg)
+![2026谷雨节气唯美海报设计](../../../../../images/5b0011e2c34528db423512e81e08e32a2e1a96925aaf3630bee52a360b233765.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2804,7 +2806,7 @@ Generate a poster for the Guyu solar term in 2026
 
 ### 例 254：奔赴山海胶片感海报
 
-![奔赴山海胶片感海报](../data/images/case254.jpg)
+![奔赴山海胶片感海报](../../../../../images/8eda4d63afbca7cca5b7e30fcf1358099d1ee43c74ce1713ecc7b4d431b6165f.jpg)
 
 **来源：** [@akokoi1](https://x.com/akokoi1/status/2045693939584516441)
 
@@ -2824,7 +2826,7 @@ Design a poster with the theme of "running towards the mountains and seas" in a 
 
 ### 例 255：瑜伽裤女主播展示身材曲线
 
-![瑜伽裤女主播展示身材曲线](../data/images/case255.jpg)
+![瑜伽裤女主播展示身材曲线](../../../../../images/40416fa5b8a3cb985b7ca1a31db991e34e3ca23070b7e2d738763f573ce01d6a.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
@@ -2844,7 +2846,7 @@ Mobile vertical screen interface, short video live streaming platform style, a y
 
 ### 例 256：抖音直播间的绝美女主播
 
-![抖音直播间的绝美女主播](../data/images/case256.jpg)
+![抖音直播间的绝美女主播](../../../../../images/db7cc4a9054d38498913c468dc45f9df8ec0c2552a451cabc8f4dcad83cf2531.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
@@ -2864,7 +2866,7 @@ Generate a screenshot of a Douyin livestream, inside there is a beautiful woman 
 
 ### 例 257：抖音汉服美女直播带货截图
 
-![抖音汉服美女直播带货截图](../data/images/case257.jpg)
+![抖音汉服美女直播带货截图](../../../../../images/7515304f9f9843df42a3ef293b77c8fc69905bf1794ed0e6284ad9feccf95b1a.jpg)
 
 **来源：** [@joshesye](https://x.com/joshesye/status/2044796366950703316)
 
@@ -2884,7 +2886,7 @@ Generate a screenshot of a Douyin live stream, featuring a beautiful woman weari
 
 ### 例 258：快手直播离婚预告手机截图
 
-![快手直播离婚预告手机截图](../data/images/case258.jpg)
+![快手直播离婚预告手机截图](../../../../../images/5aac07293d5b3c24cae2ee904280fdfe5b63a66da9b5dd72c8a0562ac605d8cd.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
@@ -2904,7 +2906,7 @@ Generate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone s
 
 ### 例 259：精致女孩背后的网贷真相
 
-![精致女孩背后的网贷真相](../data/images/case259.jpg)
+![精致女孩背后的网贷真相](../../../../../images/250f56b26ed8f61800c723fe99187890d354051b46e5cc57a511b81cdecfb5e0.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
@@ -2924,7 +2926,7 @@ Generate Xiaohongshu content screenshot, theme: Behind every exquisite girl ther
 
 ### 例 260：社媒界面截图
 
-![抖音AI低价引流爆款截图](../data/images/case260.jpg)
+![抖音AI低价引流爆款截图](../../../../../images/a6f5428fcc4baf6cac6b71f83ddd8783ba5c69b248a0ef6b4f3d9fe061e06d4e.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
@@ -2944,7 +2946,7 @@ Generate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 t
 
 ### 例 261：智能视频生成器暗黑界面设计
 
-![智能视频生成器暗黑界面设计](../data/images/case261.jpg)
+![智能视频生成器暗黑界面设计](../../../../../images/e5a3e9c254f741bfa20f93309e6e9e5e7f0c203cc27ce02d578d0452f3bbe786.jpg)
 
 **来源：** [@austinit](https://x.com/austinit/status/2044968740782272596)
 
@@ -2964,7 +2966,7 @@ Render a professional iOS APP homepage UI image, the theme is AI Video Generator
 
 ### 例 262：苹果园远观库克发布新机
 
-![苹果园远观库克发布新机](../data/images/case262.jpg)
+![苹果园远观库克发布新机](../../../../../images/2fab70fe75202910d04ed90edc5658fdf3b237d6df054fcb5b6425353b9b222c.jpg)
 
 **来源：** [@austinit](https://x.com/patrickassale/status/2044687244368441742)
 
@@ -2984,7 +2986,7 @@ Amateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presen
 
 ### 例 263：唯美二次元角色介绍网页
 
-![唯美二次元角色介绍网页](../data/images/case263.jpg)
+![唯美二次元角色介绍网页](../../../../../images/c039fdfb69ef2de0153fe0e6d7eda98441a73a9a9d22da7854ae6c5a2a556996.jpg)
 
 **来源：** [@09lyco](https://x.com/09lyco/status/2045281845391323175)
 
@@ -3030,7 +3032,7 @@ Catchphrase: "Dialogue here"
 
 ### 例 264：美妆产品广告图
 
-![Z世代Y2K平价美妆广告图](../data/images/case264.jpg)
+![Z世代Y2K平价美妆广告图](../../../../../images/0a811232d916ea9427a8da642fda422a8d35850747b3b42030bfe3c70fa3d137.jpg)
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045378877363798279)
 
@@ -3050,7 +3052,7 @@ Cute Y2K style affordable cosmetics advertising image designed for Gen Z. Using 
 
 ### 例 265：日式潮流广告四联画
 
-![日式潮流广告四联画](../data/images/case265.jpg)
+![日式潮流广告四联画](../../../../../images/6b5714fa566049b8c9940d4e32f8453e6fcc5fc5fe529e5051d874033f7a622a.jpg)
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta/status/2045253072289767815)
 
@@ -3070,7 +3072,7 @@ Generate four fictional Japanese advertisement images, covering different types 
 
 ### 例 266：桌面上的黑色圆珠笔手写笔记
 
-![桌面上的黑色圆珠笔手写笔记](../data/images/case266.jpg)
+![桌面上的黑色圆珠笔手写笔记](../../../../../images/db8129aee5895ca0cdc891cfe728de2a74d5551e4742322c44acc344d2658e63.jpg)
 
 **来源：** [@patrickassale](https://x.com/patrickassale/status/2044569086013718958)
 
@@ -3090,7 +3092,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 例 267：宋朝文人的赛博朋友圈
 
-![宋朝文人的赛博朋友圈](../data/images/case267.jpg)
+![宋朝文人的赛博朋友圈](../../../../../images/78c865e9d57b4234063d5f39b1a826df03a19770df2f6273ac0a0e0e30e4d1cf.jpg)
 
 **来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045385588065313057)
 
@@ -3110,7 +3112,7 @@ Amateur photo of an open notebook lying flat, filled with handwritten notes in b
 
 ### 例 268：威化岛回军前夕李成桂动态
 
-![威化岛回军前夕李成桂动态](../data/images/case268.jpg)
+![威化岛回军前夕李成桂动态](../../../../../images/b16588ae3f740105d26cf686d46d2acc8704548bdc021912ebc9abb15c23f9f4.jpg)
 
 **来源：** [@SKA\_Neotype](https://x.com/SKA_Neotype/status/2044637900978217334)
 
@@ -3130,7 +3132,7 @@ Please create an X page of King Taejo Yi Seong-gye (right before carrying out th
 
 ### 例 269：拒绝盲目催婚的暖心视频号截图
 
-![拒绝盲目催婚的暖心视频号截图](../data/images/case269.jpg)
+![拒绝盲目催婚的暖心视频号截图](../../../../../images/71657fe95cafda225efbaa669acc9542096f0e2c79d9ad15471713ee2ceb9e52.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045373105041007013)
 
@@ -3150,7 +3152,7 @@ Generate a screenshot of WeChat Channels content, theme: middle-aged and elderly
 
 ### 例 270：信息图可视化设计
 
-![官方角色设定资料图鉴](../data/images/case270.jpg)
+![官方角色设定资料图鉴](../../../../../images/804a6dd79b6a236c64755ec6c9baad39be68c43136f277c4d73f6a4cefa7eb59.jpg)
 
 **来源：** \[OpenNana]\(]\(<https://x.com/Toshi_nyaruo_AI/status/2045025277538107420>)
 
@@ -3183,7 +3185,7 @@ High resolution, professional concept art style
 
 ### 例 271：人物角色设定图
 
-![GPT图像生成惊艳角色立绘](../data/images/case271.jpg)
+![GPT图像生成惊艳角色立绘](../../../../../images/dfee0a1f4bbb7a3316c605b96dc08369736f3e28b367d92ae641e839607a7d0f.jpg)
 
 **来源：** [@tsubaki\_ew](https://x.com/tsubaki_ew/status/2045259289993048284)
 
@@ -3203,7 +3205,7 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 
 ### 例 272：日式温泉旅馆人像
 
-![日式温泉旅馆人像](../data/images/case272.jpg)
+![日式温泉旅馆人像](../../../../../images/61e640ee3ecd7f57c01fd571f25847be3ed74f6193c97c8f7581b9e5f436b3e0.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045092449803284923)
 
@@ -3219,7 +3221,7 @@ I borrowed it and tried making a character sheet using the rumored GPT-Image-2 A
 
 ### 例 273：橙红渐变中的孤独剪影
 
-![橙红渐变中的孤独剪影](../data/images/case273.jpg)
+![橙红渐变中的孤独剪影](../../../../../images/491ee2579b34804401d62702b08e9d604b2569a3f5facc29758ae38481356c46.jpg)
 
 **来源：** [@iam\_miharbi](https://x.com/iam_miharbi/status/2045151354679665101)
 
@@ -3239,7 +3241,7 @@ Generate a cinematic minimal portrait of a solitary man standing in an intense o
 
 ### 例 274：成都吃货暴走手绘美食地图
 
-![成都吃货暴走手绘美食地图](../data/images/case274.jpg)
+![成都吃货暴走手绘美食地图](../../../../../images/2aaa5d5cc2e4ce9586bc642b2bec3182cfbb94f30772ba3a6d8b3ad070b494f1.jpg)
 
 **来源：** [@Panda20230902](https://x.com/Panda20230902/status/2045396918965285111)
 
@@ -3259,7 +3261,7 @@ A hand-drawn style city food map themed around Chengdu. The background is a bird
 
 ### 例 275：一张采用分层蒙太奇构图的电影海报
 
-![一张采用分层蒙太奇构图的电影海报](../data/images/case275.jpg)
+![一张采用分层蒙太奇构图的电影海报](../../../../../images/5425550543473987994c82b0307e88f9eca38436cbd1d30f088e94e08c7c09ab.jpg)
 
 **来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will/status/2045440101359198302)
 
@@ -3309,7 +3311,7 @@ negative: "flat lighting, untextured surfaces, symmetrical composition, empty bo
 
 ### 例 276：红绸幻化壮阔国潮羊城
 
-![红绸幻化壮阔国潮羊城](../data/images/case276.jpg)
+![红绸幻化壮阔国潮羊城](../../../../../images/397e78e29682f4a50fcf0557e01fa1e31cab95ae8209caceae077fbca140f14c.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
@@ -3341,7 +3343,7 @@ Beautiful and generous typography, clear and complete handwriting, aspect ratio 
 
 ### 例 277：奢华魅力黑人女性海滨摄影
 
-![奢华魅力黑人女性海滨摄影](../data/images/case277.jpg)
+![奢华魅力黑人女性海滨摄影](../../../../../images/bde223c3e6f99e11048269e1607bfc5b834fcbc11bb6aa111a52d1d323393b35.jpg)
 
 **来源：** [@patrickassale](https://x.com/patrickassale/status/2044581766309060765)
 
@@ -3361,7 +3363,7 @@ Luxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy van
 
 ### 例 278：阿马尔菲海岸复古旅行海报
 
-![阿马尔菲海岸复古旅行海报](../data/images/case278.jpg)
+![阿马尔菲海岸复古旅行海报](../../../../../images/98e2b80fb7eaa6e82a16da72a11b14302ffed6a7133e694db827b17f47475433.jpg)
 
 **来源：** [@WolfRiccardo](https://x.com/WolfRiccardo/status/2044562722491121718)
 
@@ -3381,7 +3383,7 @@ Modern pencil illustration of Vintage travel poster illustration of the Amalfi C
 
 ### 例 279：裂痕里的水墨东方山水画卷
 
-![裂痕里的水墨东方山水画卷](../data/images/case279.jpg)
+![裂痕里的水墨东方山水画卷](../../../../../images/dcb0d52352b8d21cad1bbdf4ce20e1e3a31ae9c5ccbdd95c9549d80fadf20e74.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045368305079447853)
 
@@ -3409,7 +3411,7 @@ Minimalist neo-Chinese aesthetic style, the picture uses an elegant grayish-whit
 
 ### 例 280：封面排版设计图
 
-![涂鸦速写风AI建造者大师](../data/images/case280.jpg)
+![涂鸦速写风AI建造者大师](../../../../../images/1d647e1dcab1b038fe29a159bd4cc18781e938685fa4ef3d554884b0c5327f6e.jpg)
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/graffiti-sketch-ai-builder-master)
 
@@ -3429,7 +3431,7 @@ Express [an awesome AI builder] in a graffiti sketch style, overall presenting a
 
 ### 例 281：赛博朋克科幻曼荼罗
 
-![赛博朋克科幻曼荼罗](../data/images/case281.jpg)
+![赛博朋克科幻曼荼罗](../../../../../images/0a994b7e5b57f669b061bab9f176b41b79dc85374b0425e686260d77972c4531.jpg)
 
 **来源：** [@4WEB1](https://x.com/4WEB1/status/2045390207072256179)
 
@@ -3465,7 +3467,7 @@ Draw a near-future sci-fi version of a mandala
 
 ### 例 282：温柔治愈系二次元手机截图
 
-![温柔治愈系二次元手机截图](../data/images/case282.jpg)
+![温柔治愈系二次元手机截图](../../../../../images/5c4b80a644db88e8b06afdc9c31ea163f0a0e7b60f5cb6b7749e9657080d027c.jpg)
 
 **来源：** [@Zoulinshen](https://x.com/Zoulinshen/status/2045082518089810073)
 
@@ -3485,7 +3487,7 @@ Generate a portrait mobile phone screenshot style image, with an overall aspect 
 
 ### 例 283：小恶魔莉莉香超任游戏海报
 
-![小恶魔莉莉香超任游戏海报](../data/images/case283.jpg)
+![小恶魔莉莉香超任游戏海报](../../../../../images/a5149c117a6f2f42b5d0b6d28bef288a8e5ceb21b580fc4ca85b10b684663b77.jpg)
 
 **来源：** [@lilimliliychan](https://x.com/lilimliliychan/status/2045114760937804187)
 
@@ -3507,7 +3509,7 @@ this quality without any detailed explanation spells is amazing!
 
 ### 例 284：温馨卧室里的少女自拍
 
-![温馨卧室里的少女自拍](../data/images/case284.jpg)
+![温馨卧室里的少女自拍](../../../../../images/22ad7b4b9afecd6bb6a566bb20e5b74b6e8a5dbe159d0d56608ef952f506d1d9.jpg)
 
 **来源：** [@Shinning1010](https://x.com/Shinning1010/status/2045002808903020962)
 
@@ -3528,7 +3530,7 @@ Negative Prompts: no extra limbs, no deformed hands, no blur, no noise, no water
 
 ### 例 285：真实动漫画面快照
 
-![真实动漫画面快照](../data/images/case285.jpg)
+![真实动漫画面快照](../../../../../images/541b61a873849b50ddef5c7bb990df94fd25a2ce0dfbe87d8527a96525b0c42b.jpg)
 
 **来源：** [@Thereallo1026](https://x.com/Thereallo1026/status/2044241997163311569)
 
@@ -3548,7 +3550,7 @@ Show me the attached image as a snapshot from an actual anime
 
 ### 例 286：珠江新城剪纸璀璨夜景
 
-![珠江新城剪纸璀璨夜景](../data/images/case286.jpg)
+![珠江新城剪纸璀璨夜景](../../../../../images/703995e29d057ebdbe20fabff23d64efdb6e3fe72901218c4d4f3c9573087c6a.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045527750606487877)
 
@@ -3572,7 +3574,7 @@ Paper-cut art inspired by the modern urban landscape of Zhujiang New Town, throu
 
 ### 例 287：不知火舞的小红书主页
 
-![不知火舞的小红书主页](../data/images/case287.jpg)
+![不知火舞的小红书主页](../../../../../images/751554743f0c93b5c538f093d737e108d6577a9dd43792f9956398e4af56ba61.jpg)
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
@@ -3592,7 +3594,7 @@ Generate a screenshot of Mai Shiranui's Xiaohongshu homepage
 
 ### 例 288：抖音美女直播间界面设计
 
-![抖音美女直播间界面设计](../data/images/case288.jpg)
+![抖音美女直播间界面设计](../../../../../images/dbf0b18b7d6d57ae6ea6ed7a37705ae17c58948b663c35baa19d4915caa4dba7.jpg)
 
 **来源：** [@msjiaozhu](https://x.com/msjiaozhu/status/2045470160576999812)
 
@@ -3612,7 +3614,7 @@ Generate a TikTok live stream interface, the content is a beautiful woman live s
 
 ### 例 289：直播界面设计图
 
-![特朗普金正恩抖音直播打PK](../data/images/case289.jpg)
+![特朗普金正恩抖音直播打PK](../../../../../images/fc5ad0a23e81ac41f47660cf73043b50058577ae7414db8e0cc21a06afbbe7c0.jpg)
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
@@ -3632,7 +3634,7 @@ Generate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok liv
 
 ### 例 290：古风诗人镭射典藏卡牌
 
-![古风诗人镭射典藏卡牌](../data/images/case290.jpg)
+![古风诗人镭射典藏卡牌](../../../../../images/4a0b94f1d5fcd6a656ea93ea2b48466b5852cc2da91a883462f52142a560b703.jpg)
 
 **来源：** [@TanShilong](https://x.com/TanShilong/status/2045435090923356415)
 
@@ -3652,7 +3654,7 @@ Design a set of game cards for ancient Chinese poets, classified by SSR SR R gra
 
 ### 例 291：极致奢华的弹珠店梦幻宣传单
 
-![极致奢华的弹珠店梦幻宣传单](../data/images/case291.jpg)
+![极致奢华的弹珠店梦幻宣传单](../../../../../images/a50a226f1ea23e0d5c6f24bee57116a539d9ffd77ba8d2fd734231f2b73c8a47.jpg)
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer)
 
@@ -3672,7 +3674,7 @@ Create a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. 
 
 ### 例 292：明朝登基宝玉的推文页面
 
-![明朝登基宝玉的推文页面](../data/images/case292.jpg)
+![明朝登基宝玉的推文页面](../../../../../images/2f25a50a8c6ccda29a764bccfce00d0e659d6922bcd9ff55630a4a1bda14482d.jpg)
 
 **来源：** [@tuzi\_ai](https://x.com/tuzi_ai/status/2045193918736736365)
 
@@ -3692,7 +3694,7 @@ Create a new X post page illustrated for Baoyu (refer to the homepage and some p
 
 ### 例 293：聚焦人工智能的校园日报
 
-![聚焦人工智能的校园日报](../data/images/case293.jpg)
+![聚焦人工智能的校园日报](../../../../../images/bdc3a16fee876bc8e00d1071342d2fa9e9e09bd39f6751f7595ac1d586cbb187.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
@@ -3712,7 +3714,7 @@ Generate a campus daily newspaper, theme AI education
 
 ### 例 294：精美潮汕菜馆菜单图
 
-![精美潮汕菜馆菜单图](../data/images/case294.jpg)
+![精美潮汕菜馆菜单图](../../../../../images/d8cb0013f67f46b51507fc8134f8e5718b5c6efc2ff14a63d03bf9bf70daa4ab.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
@@ -3732,7 +3734,7 @@ Generate a Teochew restaurant menu image.
 
 ### 例 295：复古传统老黄历二零二六年四月十八
 
-![复古传统老黄历二零二六年四月十八](../data/images/case295.jpg)
+![复古传统老黄历二零二六年四月十八](../../../../../images/1db3ac51a3ae386e7de8340375d97ce995e67491225a531b6dc944f7fcf11559.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
@@ -3752,7 +3754,7 @@ Generate an old almanac for April 18, 2026
 
 ### 例 296：博物馆级中文拆解信息图鉴
 
-![博物馆级中文拆解信息图鉴](../data/images/case296.jpg)
+![博物馆级中文拆解信息图鉴](../../../../../images/044a4acffc3c172401fb3d44333ca13926f79473b31f03cea745bd9dd6f3760e.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2045504669401653414)
 
@@ -3802,7 +3804,7 @@ Avoid: poster feel, studio portrait feel, e-commerce feel, anime feel, cosplay f
 
 ### 例 297：手写食谱变身杂志级跨页
 
-![手写食谱变身杂志级跨页](../data/images/case297.jpg)
+![手写食谱变身杂志级跨页](../../../../../images/21c21e0c02822cfd499befd24bb303d15a06b807c58d1408162bc2959fd86ed3.jpg)
 
 **来源：** [@maxescu](https://x.com/maxescu/status/2045203839910056014)
 
@@ -3826,7 +3828,7 @@ Handwritten Recipe → Professional Cookbook Page Upload a messy handwritten fam
 
 ### 例 298：梦幻波士顿春季城市海报
 
-![梦幻波士顿春季城市海报](../data/images/case298.jpg)
+![梦幻波士顿春季城市海报](../../../../../images/9b9ae9d95db5d0ebb6fa09645313a656ce59bbc75c48bda0a6b6ea1220e377b7.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045358053831172358)
 
@@ -3846,7 +3848,7 @@ A striking Spring 2026 city poster for Boston with an elegant celebratory mood a
 
 ### 例 299：极简留白涂鸦手绘草图
 
-![极简留白涂鸦手绘草图](../data/images/case299.jpg)
+![极简留白涂鸦手绘草图](../../../../../images/a05e33c55ca2e2a48ef02767915cee4092b1dbf5f454d4502e4ab7ba3c5e4180.jpg)
 
 **来源：** [@VoxcatAI](https://x.com/VoxcatAI/status/2045131503001342302)
 
@@ -3873,7 +3875,7 @@ Express [Subject/Theme] in a graffiti sketch style, presenting an overall visual
 
 ### 例 300：黑板上的出师表全文
 
-![黑板上的出师表全文](../data/images/case300.jpg)
+![黑板上的出师表全文](../../../../../images/fe36e6fca05fc786f4a77271cd8c91b7d811d4847f8774635cb3fd2cece9e010.jpg)
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
@@ -3894,7 +3896,7 @@ Generate image: The full text of Chu Shi Biao handwritten on a classroom blackbo
 
 ### 例 301：终结者机器人淘宝详情页
 
-![终结者机器人淘宝详情页](../data/images/case301.jpg)
+![终结者机器人淘宝详情页](../../../../../images/f26cd44b4a24e3f77f9063842cc5412bfa59d6d66ec6f0468c4816d8c2e4a14e.jpg)
 
 **来源：** [@rionaifantasy](https://x.com/rionaifantasy/status/2045356799751303194)
 
@@ -3924,7 +3926,7 @@ functions and usage scenarios
 
 ### 例 302：九位大师的机械键盘设计图鉴
 
-![九位大师的机械键盘设计图鉴](../data/images/case302.jpg)
+![九位大师的机械键盘设计图鉴](../../../../../images/52781896541da62d236c885281a02590550c92dd48ea46d4bcda52fd8df825d5.jpg)
 
 **来源：** [@TanShilong](https://x.com/TanShilong/status/2045148649869692982)
 
@@ -3944,7 +3946,7 @@ A nine-grid image showing the same group of objects designed by nine contemporar
 
 ### 例 303：人教版三年级语文课本内页
 
-![人教版三年级语文课本内页](../data/images/case303.jpg)
+![人教版三年级语文课本内页](../../../../../images/a7f1647abfac9d164c7c312a88c4bd836af0e3aadc7da21a6a20fe75e745dc50.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2044824800909054181)
 
@@ -3964,7 +3966,7 @@ Generate a page from the PEP (People's Education Press) primary school third-gra
 
 ### 例 304：荧光蓝穷奇新中式山水画
 
-![荧光蓝穷奇新中式山水画](../data/images/case304.jpg)
+![荧光蓝穷奇新中式山水画](../../../../../images/71e028a31fb63e624cb680ebcefa0a4a99b2dbe7c329e86c7a199213d72c77ea.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045506567735558336)
 
@@ -3996,7 +3998,7 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 
 ### 例 305：深夜便利店里的性感霓虹少女
 
-![深夜便利店里的性感霓虹少女](../data/images/case305.jpg)
+![深夜便利店里的性感霓虹少女](../../../../../images/7298bd89630a492bb3143d0aef018d54eba7e80c4e463a2d08be558bc709f2bd.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2045167461147042202)
 
@@ -4016,7 +4018,7 @@ Dreamy and aesthetic scene where cold and warm lights intertwine, strong light a
 
 ### 例 306：官方角色设定资料卡
 
-![官方角色设定资料卡](../data/images/case306.jpg)
+![官方角色设定资料卡](../../../../../images/45cd1673c5a8dfc42b816f38eece20d5fb60878e5148c85b67ff7f1633590e8f.jpg)
 
 **来源：** [@MANISH1027512](https://x.com/MANISH1027512/status/2045013913901867334)
 
@@ -4046,7 +4048,7 @@ Based on this character and background, please create a character reference shee
 
 ### 例 307：红绸舞动千年商都广州
 
-![红绸舞动千年商都广州](../data/images/case307.jpg)
+![红绸舞动千年商都广州](../../../../../images/397e78e29682f4a50fcf0557e01fa1e31cab95ae8209caceae077fbca140f14c.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai/status/2045332620352119274)
 
@@ -4078,7 +4080,7 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 
 ### 例 308：抖音直播截图画面
 
-![抖音直播截图画面](../data/images/case308.jpg)
+![抖音直播截图画面](../../../../../images/aa7a70c9d121ea8780e08ae8c38f1c1727241f149ae4726b46bf53efe715d95c.jpg)
 
 **来源：** [@\_FORAB](https://x.com/_FORAB/status/2044744023261519920)
 
@@ -4098,7 +4100,7 @@ The typography is beautiful and generous, the handwriting is clear and complete,
 
 ### 例 309：创意树叶拼贴构成的角色画像
 
-![创意树叶拼贴构成的角色画像](../data/images/case309.jpg)
+![创意树叶拼贴构成的角色画像](../../../../../images/fde45da90ff24cdd9a3860dea5fa12cfb40e828e122a7c84d18c8fa040881da2.jpg)
 
 **来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2032019839070716170)
 
@@ -4131,7 +4133,7 @@ realistic leaf textures,
 
 ### 例 310：零食品牌技术分解图
 
-![零食品牌技术分解图](../data/images/case310.jpg)
+![零食品牌技术分解图](../../../../../images/86a409aa979a8e68ce31c09dddd2d7d6e3d4c77d3e10d53521c0e3fe343cfc71.jpg)
 
 **来源：** [@TechieBySA](https://x.com/TechieBySA/status/2031795709243019280)
 
@@ -4187,7 +4189,7 @@ Output: 1080×1080, ultra-crisp, social-feed optimized, no watermark.​​​�
 
 ### 例 311：晨曦薰衣草田梦幻少女三联画
 
-![晨曦薰衣草田梦幻少女三联画](../data/images/case311.jpg)
+![晨曦薰衣草田梦幻少女三联画](../../../../../images/aacff25e8bb277069277a99150d313070f99b3ca69d7fd74f291aa66fa5b3abc.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2028417667846341062)
 
@@ -4213,7 +4215,7 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 ### 例 312：鲜艳霓虹光影下的动感苏打水飞溅商业海报
 
-![鲜艳霓虹光影下的动感苏打水飞溅商业海报](../data/images/case312.jpg)
+![鲜艳霓虹光影下的动感苏打水飞溅商业海报](../../../../../images/18e5f86e69921e53234f3a376f1d7c35b5df413ef9c535c9361e21e5dc210d62.jpg)
 
 **来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028388808320819277)
 
@@ -4237,7 +4239,7 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 ### 例 313：电商商品展示设计
 
-![梦幻蓝紫烟雾环绕的NUBELLA奢华护肤软管](../data/images/case313.jpg)
+![梦幻蓝紫烟雾环绕的NUBELLA奢华护肤软管](../../../../../images/566fffea984e07b74d6fff298ab3711d4ee046e5e78ccd50d927a1ba9f5bdd71.jpg)
 
 **来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027903683154088431)
 
@@ -4377,7 +4379,7 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 ### 例 314：红蓝光影下的未来都市双重曝光青年
 
-![红蓝光影下的未来都市双重曝光青年](../data/images/case314.jpg)
+![红蓝光影下的未来都市双重曝光青年](../../../../../images/4403c1fdb228f41976926b6c0b886f17c05650e4531ae7b4993de8d94a0ee38d.jpg)
 
 **来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2028045894088630679)
 
@@ -4411,7 +4413,7 @@ Bottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel
 
 ### 例 315：棘龙巨口中的酷飒少女与史前奇观
 
-![棘龙巨口中的酷飒少女与史前奇观](../data/images/case315.jpg)
+![棘龙巨口中的酷飒少女与史前奇观](../../../../../images/32926e355df8492d3b0363853fa1bb7ac8d674774576faf7b23210cab29bec7b.jpg)
 
 **来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2028087254757867560)
 
@@ -4439,7 +4441,7 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 
 ### 例 316：冲破次元壁的写实漫画跑者
 
-![冲破次元壁的写实漫画跑者](../data/images/case316.jpg)
+![冲破次元壁的写实漫画跑者](../../../../../images/7a7f3a5e255f4ebdc0e2fd7db93a6168d5bd205f3055a8d1089eab7d7223aa59.jpg)
 
 **来源：** [@Fujimoto\_hina](https://x.com/Fujimoto_hina/status/2027748030825500722)
 
@@ -4463,7 +4465,7 @@ Lighting is cinematic and natural, with diffused daylight illuminating the scene
 
 ### 例 317：震撼视觉的深红影棚广角美妆大片
 
-![震撼视觉的深红影棚广角美妆大片](../data/images/case317.jpg)
+![震撼视觉的深红影棚广角美妆大片](../../../../../images/1505debc9e8258e5b589a55d40321f023292b1cae2f6fc5b48002e98bcad11f9.jpg)
 
 **来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
@@ -4493,7 +4495,7 @@ Lighting: punchy commercial lighting with defined highlights and reflections, cr
 
 ### 例 318：珊瑚色极简影棚时尚商业大片
 
-![珊瑚色极简影棚时尚商业大片](../data/images/case318.jpg)
+![珊瑚色极简影棚时尚商业大片](../../../../../images/1505debc9e8258e5b589a55d40321f023292b1cae2f6fc5b48002e98bcad11f9.jpg)
 
 **来源：** [@Maercihh](https://x.com/Maercihh/status/2026941078885310750)
 
@@ -4518,7 +4520,7 @@ Lighting: bright commercial studio lighting, soft shadows, glossy highlights on 
 
 ### 例 319：鸟群织就的梦幻高定时装秀
 
-![鸟群织就的梦幻高定时装秀](../data/images/case319.jpg)
+![鸟群织就的梦幻高定时装秀](../../../../../images/175418d041c8b13c57570bf41f859d03714f56c0892be52cb3ea5b3487d63fc8.jpg)
 
 **来源：** [@MrDasOnX](https://x.com/MrDasOnX/status/2026284342549340190)
 
@@ -4538,7 +4540,7 @@ A playful high-fashion runway scene featuring a confident woman walking a luxury
 
 ### 例 320：冰火双雄背靠背史诗电影海报
 
-![冰火双雄背靠背史诗电影海报](../data/images/case320.jpg)
+![冰火双雄背靠背史诗电影海报](../../../../../images/195186e47eb9eef5f81b489de0c398a88b796f2124b770892b5e5f5127fd9ce4.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2025972876554510482)
 
@@ -4558,7 +4560,7 @@ A dramatic cinematic poster-style portrait of two epic fantasy warriors standing
 
 ### 例 321：都市落日时尚大片
 
-![都市落日时尚大片](../data/images/case321.jpg)
+![都市落日时尚大片](../../../../../images/2f308e9f2446dfd5ffeb9bf50bb002fdd79d9e46b3d3bb83fd96f8c1701f0a62.jpg)
 
 **来源：** [OpenNana](https://opennana.com/awesome-prompt-gallery/urban-sunset-fashion-silhouette)
 
@@ -4602,7 +4604,7 @@ Shot on a full-frame cinema camera, 85mm lens, f/1.8, ultra-realistic detail, hi
 
 ### 例 322：街头炫瓶男模
 
-![街头炫瓶男模](../data/images/case322.jpg)
+![街头炫瓶男模](../../../../../images/c6535979f7b26217c872ee158ef2745e18fe4a6189699eeefb127c010b7ba5a7.jpg)
 
 **来源：** [@ecommartinez](https://x.com/ecommartinez/status/2017311074551533921)
 
@@ -4622,7 +4624,7 @@ Professional photo, a guy, a 30-year-old Russian model (reference image), is fac
 
 ### 例 323：应用界面样机图
 
-![超真实3D INS广告大片](../data/images/case323.jpg)
+![超真实3D INS广告大片](../../../../../images/a431fd1b32c8662694b4cef1df333899993ff0782d5f90f574e17193ba843856.jpg)
 
 **来源：** [@Mystveil7](https://x.com/Mystveil7/status/2015776042989039997)
 
@@ -4708,7 +4710,7 @@ Looks like a real product photoshoot, not AI art
 
 ### 例 324：复古巴士上的红风衣女郎
 
-![复古巴士上的红风衣女郎](../data/images/case324.jpg)
+![复古巴士上的红风衣女郎](../../../../../images/ac3eba6ce5375852aa70d1900679d1ece1cdd032111e3c3502cc4f4648e3a0d8.jpg)
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2015337737860403283)
 
@@ -4728,7 +4730,7 @@ A stylish young woman sitting on the front edge of an old vintage bus, wearing a
 
 ### 例 325：皮克斯风阳光少年
 
-![皮克斯风阳光少年](../data/images/case325.jpg)
+![皮克斯风阳光少年](../../../../../images/6de4332154d9888d602538ea49a02b7c9ca29abf75a0c2bf6861e5a741b58187.jpg)
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2013473309485343120)
 
@@ -4748,7 +4750,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 ### 例 326：红蓝撞色高跟诱惑
 
-![红蓝撞色高跟诱惑](../data/images/case326.jpg)
+![红蓝撞色高跟诱惑](../../../../../images/ac169651db69e21b81febc93926222cd29dea976a74e962bd8ef858f705ed021.jpg)
 
 **来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2012437899955097836)
 
@@ -4854,7 +4856,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 ### 例 327：沉香玫瑰悬浮幻景
 
-![沉香玫瑰悬浮幻景](../data/images/case327.jpg)
+![沉香玫瑰悬浮幻景](../../../../../images/c0fd2c6ca486280a0f4dd9c2b3164cf562794297243530b2363001170ee27bc2.jpg)
 
 **来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2011334627290726746)
 
@@ -5104,7 +5106,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 ### 例 328：俯拍巨女城景自拍
 
-![俯拍巨女城景自拍](../data/images/case328.jpg)
+![俯拍巨女城景自拍](../../../../../images/97ba5c11d439761781cb5d2857ba6258d276409221fb6c7195f71ca1d1a20fc3.jpg)
 
 **来源：** [@saniaspeaks\_](https://x.com/saniaspeaks_/status/2009834337043394622)
 
@@ -5304,7 +5306,7 @@ A stylized 3D cartoon portrait of a young man with short brown hair and expressi
 
 ### 例 329：烬甲猎鹰者与燃翼神禽
 
-![烬甲猎鹰者与燃翼神禽](../data/images/case329.jpg)
+![烬甲猎鹰者与燃翼神禽](../../../../../images/dbb9252e59063ee5765138270e940b1cc5f85763f67aaacd6703c55d7ad8b6ca.jpg)
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2008896649901535342)
 
@@ -5324,7 +5326,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 330：月下美女直播画面
 
-![月下美女直播画面](../data/images/case330.png)
+![月下美女直播画面](../../../../../images/71bf9061a89be884f4173c8d043b73318e0cfb63b95c78085ad7bbe429c9383a.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5340,7 +5342,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 331：西安手绘水彩城市地图
 
-![西安手绘水彩城市地图](../data/images/case331.png)
+![西安手绘水彩城市地图](../../../../../images/c078cff6148d0dde79705230844aae29ccc92316fc2681a130cd1dd40c4a0914.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5356,7 +5358,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 332：茶π产品宣传海报
 
-![茶π产品宣传海报](../data/images/case332.png)
+![茶π产品宣传海报](../../../../../images/51e954c6693d4151bc81138bf7968b0d12d96035950c975707c66d424d529381.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5372,7 +5374,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 333：AI 眼镜爆炸拆解图
 
-![AI 眼镜爆炸拆解图](../data/images/case333.png)
+![AI 眼镜爆炸拆解图](../../../../../images/0427bad3742cc29d34d4d863cc486ec874c2b20fe627afbd52d8bc9e717201c3.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5388,7 +5390,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 334：RAG 技术详解图
 
-![RAG 技术详解图](../data/images/case334.png)
+![RAG 技术详解图](../../../../../images/8f2f6183902e2af7cc3f69bd310f37af15e21d521b790aeff5225daa7b752b5f.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5404,7 +5406,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 335：朋友圈截图生成
 
-![朋友圈截图生成](../data/images/case335.png)
+![朋友圈截图生成](../../../../../images/48037dfa7b0b5aa88cdd5ee4d53962682ade1bb60f5a7d3bb486ce98cf1c079a.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5420,7 +5422,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 336：个人网页视觉设计
 
-![个人网页视觉设计](../data/images/case336.png)
+![个人网页视觉设计](../../../../../images/1b3e1c3e3b1a2b10226dc9659ee7b17ba3227222d4edc3dae75e8d506e982295.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5436,7 +5438,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 337：《短歌行》诗词意境图
 
-![短歌行诗词意境图](../data/images/case337.png)
+![短歌行诗词意境图](../../../../../images/93d385e53573d92b1792b678b735f534875b83b56ed2baf888cd2e4fa3acea0b.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5452,7 +5454,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 338：《赤壁怀古》长卷图
 
-![赤壁怀古长卷图](../data/images/case338.png)
+![赤壁怀古长卷图](../../../../../images/c53f6175c8d7b9da56f4e91928017d00811965f749224695360cc9f7b877aef6.png)
 
 **来源：** 苍何原创实测（公众号文章《我逆向了 329 条 GPT-Image2 提示词模板，全部开源！》）
 
@@ -5472,7 +5474,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 339：Apple 风格自然科普海报
 
-![Apple风格自然科普海报](../data/images/case339.jpg)
+![Apple风格自然科普海报](../../../../../images/d037ecc4476845da73dd267253762699fe30206d9091b87a9dd14f12678dc642.jpg)
 
 **来源：** [@berryxia](https://x.com/berryxia/status/2048251413147644100)
 
@@ -5582,7 +5584,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 340：彼岸花丛中的红妆女子
 
-![彼岸花丛中的红妆女子](../data/images/case340.png)
+![彼岸花丛中的红妆女子](../../../../../images/b5400d0e43dd73b8d594bd0943522777a60679aba7a8cceb5e1143017d281c4d.png)
 
 **来源：** [@xiaofenggan](https://x.com/xiaofenggan)
 
@@ -5600,7 +5602,7 @@ A cinematic fantasy scene of a fierce female use image for face reference warrio
 
 ### 例 341：AP Calculus 学习表信息图
 
-![AP Calculus 学习表信息图](../data/images/case341.jpg)
+![AP Calculus 学习表信息图](../../../../../images/a8e0c2d57a2c4cdd0dbbab23a7914016c219bd706ebdb430b837b506afba2c3d.jpg)
 
 **来源：** [@hqmank](https://x.com/hqmank/status/2048587150544028084)
 
@@ -5618,7 +5620,7 @@ Please create a mathematical visualization infographic about "[math concept / to
 
 ### 例 342：四季包装 Campaign 宫格
 
-![四季包装 Campaign 宫格](../data/images/case342.jpg)
+![四季包装 Campaign 宫格](../../../../../images/370f8d49944934cbb4b2cc8bed833b501db74e2b9bf02b804cd881b0d1cf8d9c.jpg)
 
 **来源：** [@SRKDAN](https://x.com/SRKDAN/status/2048582939504431195)
 
@@ -5641,7 +5643,7 @@ Swap: [ITEM] / [MATERIAL] / [LABEL STYLE]
 
 ### 例 343：高定时尚杂志封面
 
-![高定时尚杂志封面](../data/images/case343.jpg)
+![高定时尚杂志封面](../../../../../images/1154fd7068711708393ec8af647cb63f2f6e4a1e42610232961c580707775086.jpg)
 
 **来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2048573343066992919)
 
@@ -5671,7 +5673,7 @@ Ultra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy
 
 ### 例 344：NOIR 街头服饰 Campaign
 
-![NOIR 街头服饰 Campaign](../data/images/case344.jpg)
+![NOIR 街头服饰 Campaign](../../../../../images/035022a432aabbc4e8b03b73bf0c2bb152bfafea7bb2b9dd77b872a194fb50e2.jpg)
 
 **来源：** [@Daniel_adsss](https://x.com/Daniel_adsss/status/2048542581638701446)
 
@@ -5689,7 +5691,7 @@ Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern street
 
 ### 例 345：法新浪潮撕纸电影海报
 
-![法新浪潮撕纸电影海报](../data/images/case345.jpg)
+![法新浪潮撕纸电影海报](../../../../../images/d933e8b783ee80637af7da3d031544177e5720ffac334e406923862069c675c5.jpg)
 
 **来源：** [@bananaprompts](https://x.com/bananaprompts/status/2048541390900994476) / [Banana Prompts](https://www.bananaprompts.xyz/prompts/70d54231-f0ee-4a50-9dfc-26156b72f819)
 
@@ -5711,7 +5713,7 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 ### 例 346：立体刺绣小鸟花枝
 
-![立体刺绣小鸟花枝](../data/images/case346.jpg)
+![立体刺绣小鸟花枝](../../../../../images/f5b4a6aeea2b73c430344c1edfe4ab24bef1ebba2045f4163423c4a00fe01527.jpg)
 
 **来源：** [@dotey](https://x.com/dotey/status/2048529821706195442)
 
@@ -5729,7 +5731,7 @@ The final result should feel cinematic, intellectual, rebellious, and editorial 
 
 ### 例 347：4×4 动作分解参考表
 
-![4×4 动作分解参考表](../data/images/case347.jpg)
+![4×4 动作分解参考表](../../../../../images/4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23.jpg)
 
 **来源：** [@oggii_0](https://x.com/oggii_0/status/2048614158699217302)
 
@@ -5769,7 +5771,7 @@ No background scenery, no color tones, no additional characters, no complex back
 
 ### 例 348：胡须风格分析海报
 
-![胡须风格分析海报](../data/images/case348.jpg)
+![胡须风格分析海报](../../../../../images/2ae02fa82f29f0e8c58379bf5ef0179c571615228d97f95b3194abf10671dece.jpg)
 
 **来源：** [@RizwanAly07](https://x.com/RizwanAly07/status/2048610196302250019)
 
@@ -5787,7 +5789,7 @@ Create a premium “BEARD STYLE ANALYSIS” poster featuring the same man from t
 
 ### 例 349：运动时尚三联 Campaign
 
-![运动时尚三联 Campaign](../data/images/case349.jpg)
+![运动时尚三联 Campaign](../../../../../images/436fe1d18b358061b43d83005ee2a5418491f39578dbc5c2bfccf7b473d5118f.jpg)
 
 **来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2048606301039820821)
 
@@ -5811,7 +5813,7 @@ Consistent color grading, dark green and white palette, sharp details, cinematic
 
 ### 例 350：足球球员数据涂鸦海报
 
-![足球球员数据涂鸦海报](../data/images/case350.jpg)
+![足球球员数据涂鸦海报](../../../../../images/88786fb7711b218c63941b35d4b943c199fb16da7d63732fa22589ad272815f1.jpg)
 
 **来源：** [@ryanpp27](https://x.com/ryanpp27/status/2048602248524214542)
 
@@ -5845,7 +5847,7 @@ Important: all stats must be realistic and proportional to the player's real car
 
 ### 例 351：健身品牌力量 Campaign
 
-![健身品牌力量 Campaign](../data/images/case351.jpg)
+![健身品牌力量 Campaign](../../../../../images/82335180b7ceee545a48e3ba1528c4d55375a6c7ef8f3394b48031bc753a3293.jpg)
 
 **来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2048601383545577614)
 
@@ -5863,7 +5865,7 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 
 ### 例 352：西楚霸王国风暗黑海报
 
-![西楚霸王国风暗黑海报](../data/images/case352.jpg)
+![西楚霸王国风暗黑海报](../../../../../images/a80f153d83d5b8c03125e03ded76e1fd325f7f1860547bc87f32964c92c93beb.jpg)
 
 **来源：** [@stellimbris](https://x.com/stellimbris/status/2048633434961072617) / [提示词回复](https://x.com/stellimbris/status/2048775687188709575)
 
@@ -5879,7 +5881,7 @@ Cinematic fitness campaign, oversized dumbbell placed diagonally like a statemen
 
 ### 例 353：品牌口红推荐报告信息图
 
-![品牌口红推荐报告信息图](../data/images/case353.jpg)
+![品牌口红推荐报告信息图](../../../../../images/7a02c35d093976d4d5ef26290f6023c7c60278f3987199d5dad21f2a2ee754ea.jpg)
 
 **来源：** [@liyue_ai](https://x.com/liyue_ai/status/2048667226195317219)
 
@@ -6025,7 +6027,7 @@ Tom Ford：
 
 ### 例 354：Logo 与品牌身份系统提示词合集
 
-![Logo 与品牌身份系统提示词合集](../data/images/case354.jpg)
+![Logo 与品牌身份系统提示词合集](../../../../../images/2f889229ccd41f32649fd88e8ecee133bfdb6553c868420defb82ba82766c51d.jpg)
 
 **来源：** [@wanerfu](https://x.com/wanerfu/status/2048659924822184026)
 
@@ -6166,7 +6168,7 @@ Tom Ford：
 
 ### 例 355：概念字体海报 Prompt
 
-![概念字体海报 Prompt](../data/images/case355.jpg)
+![概念字体海报 Prompt](../../../../../images/f9ac45416e60558523f45fb0d6fc39a73f8aabe656ae734b837d28a9ba4ccf35.jpg)
 
 **来源：** [@dotey](https://x.com/dotey/status/2048793351290327381) / [Credit @xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2048443572119330853)
 
@@ -6208,7 +6210,7 @@ INPUT_TEXT：Phoenix Rebirth
 
 ### 例 356：过度思考超现实街头 Campaign
 
-![过度思考超现实街头 Campaign](../data/images/case356.jpg)
+![过度思考超现实街头 Campaign](../../../../../images/3533fc9d836f0c741d0b5b4fa93862758c621fb395e01bcce8eea3425a3c8931.jpg)
 
 **来源：** [@AIwithAliya](https://x.com/AIwithAliya/status/2049044716642316758)
 
@@ -6242,7 +6244,7 @@ Mood: introspective, emotional weight, identity, self-awareness, quiet confidenc
 
 ### 例 357：鱼眼镜面复古咖啡馆人像
 
-![鱼眼镜面复古咖啡馆人像](../data/images/case357.jpg)
+![鱼眼镜面复古咖啡馆人像](../../../../../images/3197f2d3801bfe93a211f40125a9d90ba02221b34326851f26b143475b8955be.jpg)
 
 **来源：** [@harboriis](https://x.com/harboriis/status/2049044698900361241)
 
@@ -6258,7 +6260,7 @@ A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquo
 
 ### 例 358：草莓能量饮料商业广告
 
-![草莓能量饮料商业广告](../data/images/case358.jpg)
+![草莓能量饮料商业广告](../../../../../images/7ec179da856b27e3037e885b784ab18090fe8ffffc9d1f63765ceae60d7ec34d.jpg)
 
 **来源：** [@SPEEDAI07](https://x.com/SPEEDAI07/status/2049043627163435040)
 
@@ -6276,7 +6278,7 @@ Bright cinematic lighting with dramatic highlights and motion effects. Vibrant o
 
 ### 例 359：水墨双重曝光人物海报
 
-![水墨双重曝光人物海报](../data/images/case359.jpg)
+![水墨双重曝光人物海报](../../../../../images/934c9df892511d4d15ad61c851165a743ca2adb11d38e4d9a88b06cdb49a6651.jpg)
 
 **来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2049002279051895243)
 
@@ -6329,7 +6331,7 @@ OUTPUT:
 
 ### 例 360：长发造型分析信息图
 
-![长发造型分析信息图](../data/images/case360.jpg)
+![长发造型分析信息图](../../../../../images/c91915f50664ba3ca11961f90b0ea81f08accf09b321dfe4499e9814eace1063.jpg)
 
 **来源：** [@Gemalpha_88](https://x.com/Gemalpha_88/status/2048918707343401034)
 
@@ -6387,7 +6389,7 @@ High resolution, 4K
 
 ### 例 361：手机爆炸拆解图
 
-![手机爆炸拆解图](../data/images/case361.jpg)
+![手机爆炸拆解图](../../../../../images/039834badf59050ce4ea43df3feabe3772c8dcf1b8bf84b9f37c04b390527f3a.jpg)
 
 **来源：** [@Ankit_patel211](https://x.com/Ankit_patel211/status/2048834306379075759)
 
@@ -6403,7 +6405,7 @@ Create a 3D Insane detailed exploded assembly drawing of [subject or object]
 
 ### 例 362：抹茶品牌触点系统视觉板
 
-![抹茶品牌触点系统视觉板](../data/images/case362.jpg)
+![抹茶品牌触点系统视觉板](../../../../../images/98602c5ee9033e5d80c656abc5409391b181f4d207f43e404d49a1057a2034ce.jpg)
 
 **来源：** [@Preda2005](https://x.com/Preda2005/status/2049846981271699685)
 
@@ -6463,7 +6465,7 @@ Ultra-detailed, realistic, clean, aesthetic, and highly shareable.
 
 ### 例 363：磁场铁粉 Logo 物理成像
 
-![磁场铁粉 Logo 物理成像](../data/images/case363.jpg)
+![磁场铁粉 Logo 物理成像](../../../../../images/9723e2f8be141421202d24d8c000047073678e73bdac8aa59dff9e0964f48d89.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2049835482331357460)
 
@@ -6526,7 +6528,7 @@ Cinematic yet grounded realism.
 
 ### 例 364：奢华个人色彩档案信息图
 
-![奢华个人色彩档案信息图](../data/images/case364.jpg)
+![奢华个人色彩档案信息图](../../../../../images/2cb36e67b0c52cbd172d635e8e6cf8ae5748edf43a559c6176b20dae69f29912.jpg)
 
 **来源：** [@meng\_dagg695](https://x.com/meng_dagg695/status/2049822844918575586)
 
@@ -6555,7 +6557,7 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 
 ### 例 365：科学家收藏级玩具发布板
 
-![科学家收藏级玩具发布板](../data/images/case365.jpg)
+![科学家收藏级玩具发布板](../../../../../images/e48c5e3f43cd53d892e2c75252ec4b3579357ff6cbc7c77ce4dcd54ba0253d7e.jpg)
 
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2049766203392921897)
 
@@ -6571,7 +6573,7 @@ RENDER SPECS: Ultra-photorealistic, 8K, editorial magazine print quality, warm n
 
 ### 例 366：咖啡馆写实照片与 2D 涂鸦叠加
 
-![咖啡馆写实照片与 2D 涂鸦叠加](../data/images/case366.jpg)
+![咖啡馆写实照片与 2D 涂鸦叠加](../../../../../images/4278726e63a38855daa582ca507007d3c9e8cebba3ddf830ec494f5571037380.jpg)
 
 **来源：** [@Jawad\_Rahman\_](https://x.com/Jawad_Rahman_/status/2049796647237066971)
 
@@ -6595,7 +6597,7 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 ### 例 367：VELORA 奢华香水广告海报
 
-![VELORA 奢华香水广告海报](../data/images/case367.jpg)
+![VELORA 奢华香水广告海报](../../../../../images/0d481899ba6e0dd23ec7c751efd462e1e9c1d1358603670f45864c693a6ecc8e.jpg)
 
 **来源：** [@akkiwani703](https://x.com/akkiwani703/status/2049778680969437564)
 
@@ -6680,7 +6682,7 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 ### 例 368：印度餐厅菜单改造宣传图
 
-![印度餐厅菜单改造宣传图](../data/images/case368.jpg)
+![印度餐厅菜单改造宣传图](../../../../../images/2e2860ad743a641bbf6b60088999f77852f170ee7c234e73e1b35adf36111450.jpg)
 
 **来源：** [@Johnson998877](https://x.com/Johnson998877/status/2050354965110268123)
 
@@ -6696,7 +6698,7 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 ### 例 369：明洞旅游区域地图
 
-![明洞旅游区域地图](../data/images/case369.jpg)
+![明洞旅游区域地图](../../../../../images/6ec4ac6965e2f9e48326ea06c1ec4786c57d6d3efa282719dd10e4bebee08a77.jpg)
 
 **来源：** [@so\_ainsight](https://x.com/so_ainsight/status/2050354639036654048)
 
@@ -6712,7 +6714,7 @@ Style: mix of photorealism and vibrant cartoon illustration, pop-art aesthetic, 
 
 ### 例 370：Crumple Chair 概念沙发研发板
 
-![Crumple Chair 概念沙发研发板](../data/images/case370.jpg)
+![Crumple Chair 概念沙发研发板](../../../../../images/7f2777310baa28dc5b9c712f1a55bcbf4d4ef4f3722b5a875353e8443a8fb24e.jpg)
 
 **来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2050281206139461780)
 
@@ -6738,7 +6740,7 @@ Stage 5: Final Prototyping & Material Finish Textural Replication: Apply a matte
 
 ### 例 371：Scrapbook 真人图与迷你分身
 
-![Scrapbook 真人图与迷你分身](../data/images/case371.jpg)
+![Scrapbook 真人图与迷你分身](../../../../../images/1f070ed7254af5878a56b1d5af88b27d4842397fe379227cb8fdfd7a72a57540.jpg)
 
 **来源：** [@Kashberg\_0](https://x.com/Kashberg_0/status/2050272100884340783)
 
@@ -6766,7 +6768,7 @@ The final result must look like the SAME original image enhanced with mini alter
 
 ### 例 372：可爱角色设定表
 
-![可爱角色设定表](../data/images/case372.jpg)
+![可爱角色设定表](../../../../../images/6104fda892b6edfa720de99c5fc594efbb1c4821cdcd4911a2736b51e17d4cc4.jpg)
 
 **来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050152865566708134)
 
@@ -6801,7 +6803,7 @@ High quality, clean background, soft lighting.
 
 ### 例 373：高端肉类海鲜品牌英雄图
 
-![高端肉类海鲜品牌英雄图](../data/images/case373.jpg)
+![高端肉类海鲜品牌英雄图](../../../../../images/116ce21ef7753e164435fb1ecfe4c7a8ea807f5b4a24cebba306a668ad9043b4.jpg)
 
 **来源：** [@xpg0970](https://x.com/xpg0970/status/2050108279385419965)
 
@@ -6832,7 +6834,7 @@ High quality, clean background, soft lighting.
 
 ### 例 374：彩色潦草小狗线条风格重绘
 
-![彩色潦草小狗线条风格重绘](../data/images/case374.jpg)
+![彩色潦草小狗线条风格重绘](../../../../../images/12bcd64730e24e90093d458bdacaf27d0402cc950fb3238f0d431ea9e4fa3acb.jpg)
 
 **来源：** [@berryxia](https://x.com/berryxia/status/2050226420681757102)
 
@@ -6848,7 +6850,7 @@ High quality, clean background, soft lighting.
 
 ### 例 375：古希腊三哲时间轴城市图
 
-![古希腊三哲时间轴城市图](../data/images/case375.jpg)
+![古希腊三哲时间轴城市图](../../../../../images/1f5d4eccd0a56ccdda65299185a702d2588aab7e88e1664c41deebe7c4552de5.jpg)
 
 **来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2050713034503409874)
 
@@ -6866,7 +6868,7 @@ High quality, clean background, soft lighting.
 
 ### 例 376：泼洒抹茶街头手机照片
 
-![泼洒抹茶街头手机照片](../data/images/case376.jpg)
+![泼洒抹茶街头手机照片](../../../../../images/01ae067d4ba353c757bce9855b1141d27558b332bcf158a87a5f96d57ee7dad4.jpg)
 
 **来源：** [@Shinning1010](https://x.com/Shinning1010/status/2050693240253214894) / [提示词回复](https://x.com/Shinning1010/status/2050693246247207087)
 
@@ -6885,7 +6887,7 @@ cartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, ov
 
 ### 例 377：樱花咖啡户外人像
 
-![樱花咖啡户外人像](../data/images/case377.jpg)
+![樱花咖啡户外人像](../../../../../images/584ed6c93cf43cf1fee949af08336652c9e11d4e3373299043ae22513e1fed8b.jpg)
 
 **来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2050677614168391716)
 
@@ -6915,7 +6917,7 @@ Negative: front-facing, eye contact, close-up, cropped body, mini/short skirt, i
 
 ### 例 378：高端 3D 收藏玩具头像
 
-![高端 3D 收藏玩具头像](../data/images/case378.jpg)
+![高端 3D 收藏玩具头像](../../../../../images/ec8bffa0e3e9634e42f4c741fc9f78761bf4b0cdd98621c52f805438c16b4e2f.jpg)
 
 **来源：** [@Genematicai](https://x.com/Genematicai/status/2050654848216109429) / [提示词回复 1](https://x.com/Genematicai/status/2050654987135656043) / [提示词回复 2](https://x.com/Genematicai/status/2050655151120429464)
 
@@ -6933,7 +6935,7 @@ Smooth matte vinyl finish. Soft studio lighting, clean black background. Ultra-s
 
 ### 例 379：品牌人格漫画信息图
 
-![品牌人格漫画信息图](../data/images/case379.jpg)
+![品牌人格漫画信息图](../../../../../images/5e50065e5292623799d184949e9156d9102be610b20a2d5ceecb31cd8830cad8.jpg)
 
 **来源：** [@CallumGrey](https://x.com/CallumGrey/status/2051293342139584922) / [PhotoGPT prompt](https://www.photogptai.com/community-gallery/media/0d2fcf15-6ab2-48d3-04b3-71f58b296000)
 
@@ -7094,7 +7096,7 @@ NOT:
 
 ### 例 380：冠状病毒尺度缩放科学信息图
 
-![冠状病毒尺度缩放科学信息图](../data/images/case380.jpg)
+![冠状病毒尺度缩放科学信息图](../../../../../images/291d0e7337558500d959f02f0e169a5011db31b43dc74ea39c61992bab5f40cf.jpg)
 
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051288232613351571)
 
@@ -7110,7 +7112,7 @@ instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infograp
 
 ### 例 381：90 年代公寓场景参考板
 
-![90 年代公寓场景参考板](../data/images/case381.jpg)
+![90 年代公寓场景参考板](../../../../../images/785c9dd11aa4a5eb8a092a223ad18eaf87ccaf035be83ec919cb81a29f315707.jpg)
 
 **来源：** [@Iancu_ai](https://x.com/Iancu_ai/status/2051287273581203888) / [提示词回复](https://x.com/Iancu_ai/status/2051287283140096253)
 
@@ -7144,7 +7146,7 @@ instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infograp
 
 ### 例 382：春日花田三联竖版写真拼贴
 
-![春日花田三联竖版写真拼贴](../data/images/case382.jpg)
+![春日花田三联竖版写真拼贴](../../../../../images/1e54baa324d17a983f93549ea8ac1c9185ab7da020bef317026a464e7b728ab9.jpg)
 
 **来源：** [@frametheory058](https://x.com/frametheory058/status/2051294907214844249)
 
@@ -7175,7 +7177,7 @@ Style tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, cand
 
 ### 例 383：AI 日常生活 iPhone 抓拍
 
-![AI 日常生活 iPhone 抓拍](../data/images/case383.jpg)
+![AI 日常生活 iPhone 抓拍](../../../../../images/3707cea4e6c29dd76f8b12b8eaaa11ab5d67bcb78cbfcc5ca627f78f524e1411.jpg)
 
 **来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2051292618248904809)
 
@@ -7194,7 +7196,7 @@ The photo should have slight motion blur, with uneven, natural lighting.
 
 ### 例 384：十国传统服饰时尚拼贴
 
-![十国传统服饰时尚拼贴](../data/images/case384.jpg)
+![十国传统服饰时尚拼贴](../../../../../images/a42186a48624baca73cdb436a3daf074de66b55187361dd9525a4186cfbe6bd2.jpg)
 
 **来源：** [@amynys](https://x.com/amynys/status/2051287229532639677)
 
@@ -7234,7 +7236,7 @@ Style: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting
 
 ### 例 385：青岛啤酒灵感女装系列
 
-![青岛啤酒灵感女装系列](../data/images/case385.jpg)
+![青岛啤酒灵感女装系列](../../../../../images/c270b773080670404231864bf8179ba6e0f801a8fe261eec1933c7b9e3f88e03.jpg)
 
 **来源：** [@Popcraft_ai](https://x.com/Popcraft_ai/status/2051142270381170754)
 
@@ -7252,7 +7254,7 @@ Inspired by Tsingtao (China beer)🍺
 
 ### 例 386：品牌包络产品广告
 
-![品牌包络产品广告](../data/images/case386.jpg)
+![品牌包络产品广告](../../../../../images/e875d5d15bd061341d6154123613ed1d822312299619a8728843af200489c460.jpg)
 
 **来源：** [@SRKDAN](https://x.com/SRKDAN/status/2051482047248560393) / [提示词回复](https://x.com/SRKDAN/status/2051482048729166109)
 
@@ -7277,7 +7279,7 @@ Swap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]
 
 ### 例 387：Netflix 首页主视觉 UI
 
-![Netflix 首页主视觉 UI](../data/images/case387.jpg)
+![Netflix 首页主视觉 UI](../../../../../images/a0a368ef36a77513c94fdcf2d4cacfd2e8d54073b1504bdbd3db89a7ccf9383d.jpg)
 
 **来源：** [@aimikoda](https://x.com/aimikoda/status/2051420440451801240)
 
@@ -7293,7 +7295,7 @@ Create a Netflix homepage UI featuring a main hero film with its title and still
 
 ### 例 388：1980s Claude 复古杂志广告
 
-![1980s Claude 复古杂志广告](../data/images/case388.jpg)
+![1980s Claude 复古杂志广告](../../../../../images/5c3c7755f09bfd1d20c2429e4a1ce7be9c2f08d2523eaf0fc601d8cac345837d.jpg)
 
 **来源：** [@Shinning1010](https://x.com/Shinning1010/status/2051410804805599436) / [提示词回复](https://x.com/Shinning1010/status/2051410812829335959)
 
@@ -7352,7 +7354,7 @@ modern laptop, smartphone, flat design, minimalism, futuristic 2020s interface, 
 
 ### 例 389：Transparent Labs Hydrate 健身补剂 Campaign
 
-![Transparent Labs Hydrate 健身补剂 Campaign](../data/images/case389.jpg)
+![Transparent Labs Hydrate 健身补剂 Campaign](../../../../../images/b68ba48425dafea5fe530b2f811a3507a4fadb882126257dbece3b97de670031.jpg)
 
 **来源：** [@amynys](https://x.com/amynys/status/2051409591137972606)
 
@@ -7382,7 +7384,7 @@ Hyper realistic textures, polished commercial retouching, premium sports nutriti
 
 ### 例 390：羊毛毡国家微缩世界
 
-![羊毛毡国家微缩世界](../data/images/case390.jpg)
+![羊毛毡国家微缩世界](../../../../../images/a1723c725b4cdfc82afff601679b562810d7ee3d3425a052017299edece3c3da.jpg)
 
 **来源：** [@volkan_iras](https://x.com/volkan_iras/status/2051403524966141980) / [提示词回复](https://x.com/volkan_iras/status/2051403530590638325)
 
@@ -7440,7 +7442,7 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 ### 例 391：四国文化锚点服装设计宫格
 
-![四国文化锚点服装设计宫格](../data/images/case391.jpg)
+![四国文化锚点服装设计宫格](../../../../../images/de139221ecbacc2dde11925958c9f56657f909470a2d4f8f3b413c42b698639d.jpg)
 
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2051428657571279137)
 
@@ -7456,7 +7458,7 @@ A single, cohesive felt diorama world that instantly conveys the identity and at
 
 ### 例 392：头发里的微型城市
 
-![头发里的微型城市](../data/images/case392.jpg)
+![头发里的微型城市](../../../../../images/fc1b68d09237d8c355ff47ee14bae209dc3474dc747fff06ce78c7d613698834.jpg)
 
 **来源：** [@krafterlab](https://x.com/krafterlab/status/2051399740986740986)
 
@@ -7472,7 +7474,7 @@ Macro photograph of a miniature city hidden in human hair, clearly on a real hum
 
 ### 例 393：Y2K 金色时刻人像
 
-![Y2K 金色时刻人像](../data/images/case393.jpg)
+![Y2K 金色时刻人像](../../../../../images/4365d327c050a5e02a210c2cdefe772e047059377a5f42eb74966386ad7a7817.jpg)
 
 **来源：** [@SiliconBarbie_](https://x.com/SiliconBarbie_/status/2051475105403040014)
 
@@ -7488,7 +7490,7 @@ candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kis
 
 ### 例 394：中世纪村庄双精灵冒险者
 
-![中世纪村庄双精灵冒险者](../data/images/case394.jpg)
+![中世纪村庄双精灵冒险者](../../../../../images/86ba02fb0f2568a69fc062578db7c5e8dc8a95f53694d66e1e5df072e38a092d.jpg)
 
 **来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
@@ -7504,7 +7506,7 @@ Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game
 
 ### 例 395：骑士法师大战石像魔像
 
-![骑士法师大战石像魔像](../data/images/case395.jpg)
+![骑士法师大战石像魔像](../../../../../images/7fa0c58de2a999eaf8a513a48d2c35735133691e13700df19d3f34145478c004.jpg)
 
 **来源：** [@RamonVi25791296](https://x.com/RamonVi25791296/status/2051568239142973832) / [Felo prompt](https://felo.ai/en/gpt-image-2-prompts)
 
@@ -7520,7 +7522,7 @@ Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argu
 
 ### 例 396：龙类物种复古百科海报
 
-![龙类物种复古百科海报](../data/images/case396.jpg)
+![龙类物种复古百科海报](../../../../../images/1eb4b190c8379f6ed9f855b10573649f5883572c8f2e570c72cf84d552fbfc97.jpg)
 
 **来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2052237839119835280)
 
@@ -7573,7 +7575,7 @@ Ultra detailed.
 
 ### 例 397：街舞角色设定参考图
 
-![街舞角色设定参考图](../data/images/case397.jpg)
+![街舞角色设定参考图](../../../../../images/c99958555add55227020541db59c833b6232f234af150cd4ad5dc403b113a7ae.jpg)
 
 **来源：** [@ChangningL29508](https://x.com/ChangningL29508/status/2052229452080591276)
 
@@ -7589,7 +7591,7 @@ Ultra detailed.
 
 ### 例 398：8 套日常穿搭编辑拼贴
 
-![8 套日常穿搭编辑拼贴](../data/images/case398.jpg)
+![8 套日常穿搭编辑拼贴](../../../../../images/c6354e4ca51cb20182226f75ef8035c8398210ee189e8b3994a463afb0b9f0ba.jpg)
 
 **来源：** [@aiwithaly](https://x.com/aiwithaly/status/2052218645951205463)
 
@@ -7605,7 +7607,7 @@ Create a freeform fashion-editorial collage of me in 8 distinct full-body casual
 
 ### 例 399：唱片公司楼梯间写真人像
 
-![唱片公司楼梯间写真人像](../data/images/case399.jpg)
+![唱片公司楼梯间写真人像](../../../../../images/cbd1ea1352df7cdafb28d3b12c9e897d4a110408b528dabe9a15bdc720cac58a.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2052217544388546827)
 
@@ -7638,7 +7640,7 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 
 ### 例 400：多风格签名选择海报
 
-![多风格签名选择海报](../data/images/case400.png)
+![多风格签名选择海报](../../../../../images/c6fa4bc02df08fd5d731d729f0c780b7a449cffb43f57002ad6b92ffe56fe906.png)
 
 **来源：** [GitHub prompt](https://github.com/zaizhi-1112/ai-image-extension-playbook/blob/main/signature-image-prompts-gpt-image-2.md) / [@liyue_ai](https://x.com/liyue_ai)
 
@@ -7738,7 +7740,7 @@ Add small white handwriting signature text "BubbleBrain" on the bottom right cor
 
 ### 例 401：Lost in 国家旅行海报拼贴
 
-![Lost in 国家旅行海报拼贴](../data/images/case401.jpg)
+![Lost in 国家旅行海报拼贴](../../../../../images/e2cf9f43c87975adf7c937aad4ec6feeec63305685399e2eb074f097bce393f3.jpg)
 
 **来源：** [@SadiaMalik182](https://x.com/SadiaMalik182) / [aiiStudio prompt](https://aiistudio.com/prompt/2052388203395514683/lost-in-country-travel-poster-collage)
 
@@ -7754,7 +7756,7 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 ### 例 402：3D 小红书个人资料卡
 
-![3D 小红书个人资料卡](../data/images/case402.jpg)
+![3D 小红书个人资料卡](../../../../../images/aa5e28b22fb0ca0f58ecdd04bba0dd1c953a444306fedb6f48f5612c1b17cc35.jpg)
 
 **来源：** [@MrGafish](https://x.com/MrGafish/status/2052323461268467860)
 
@@ -7770,7 +7772,7 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 ### 例 403：小红书数字破屏 3D 女孩
 
-![小红书数字破屏 3D 女孩](../data/images/case403.jpg)
+![小红书数字破屏 3D 女孩](../../../../../images/921ebd6932d3eb6a15a2b18e6c4660d893ed4e053990c9ddf196f950c074bbf2.jpg)
 
 **来源：** [@MrGafish](https://x.com/MrGafish/status/2052632520563528051) / [补发提示词](https://x.com/MrGafish/status/2052682279257026631)
 
@@ -7792,7 +7794,7 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 ### 例 404：豪华社媒破屏商业广告
 
-![豪华社媒破屏商业广告](../data/images/case404.jpg)
+![豪华社媒破屏商业广告](../../../../../images/c9c9f727f60d88ee94011d94143a7c8ab260d1c623ae79b1e64c36cfe818a1c8.jpg)
 
 **来源：** [@you1873118](https://x.com/you1873118/status/2052624395932455061)
 
@@ -7816,7 +7818,7 @@ Create a stylized travel poster / graphic collage for [country]. The main subjec
 
 ### 例 405：可爱纸艺风照片重绘
 
-![可爱纸艺风照片重绘](../data/images/case405.jpg)
+![可爱纸艺风照片重绘](../../../../../images/c7be04ea2b085b3aff3ed94cec3fdba70ca786f41eda181ec93a07a730fd5520.jpg)
 
 **来源：** [@oggii_0](https://x.com/oggii_0/status/2052609040539328759)
 
@@ -7832,7 +7834,7 @@ Recreate this image in a paper craft style, simplifying the details to make them
 
 ### 例 406：巨型游戏手柄街头 Campaign
 
-![巨型游戏手柄街头 Campaign](../data/images/case406.jpg)
+![巨型游戏手柄街头 Campaign](../../../../../images/62808ad94d3928a61841825eaee72a361a68150c9877f384d8e79a8b8bc1c2b2.jpg)
 
 **来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2052973449107349725)
 
@@ -7854,7 +7856,7 @@ Environment: seamless studio backdrop with glossy floor reflections, high-end co
 
 ### 例 407：Neuro-AI 混合系统信息图
 
-![Neuro-AI 混合系统信息图](../data/images/case407.jpg)
+![Neuro-AI 混合系统信息图](../../../../../images/22d5c7f414a40d6175ebdcdaef2a4082cbd57eaf66605a2b25a4d2d92c794d6e.jpg)
 
 **来源：** [@YaZoraiz](https://x.com/YaZoraiz/status/2052968427514708371)
 
@@ -7901,7 +7903,7 @@ Style:
 
 ### 例 408：Cozy Academia 学习手记
 
-![Cozy Academia 学习手记](../data/images/case408.jpg)
+![Cozy Academia 学习手记](../../../../../images/b8589e36061b6af1f2a74d6ea923d242389dea4e0b6bbf084cd0dc33274a44b9.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2052969695406325875)
 
@@ -7917,7 +7919,7 @@ Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying 
 
 ### 例 409：拙劣 MS Paint 风重绘
 
-![拙劣 MS Paint 风重绘](../data/images/case409.jpg)
+![拙劣 MS Paint 风重绘](../../../../../images/7d85ba10f29fb36d6205632d55c5eda3e48a9111a39f36d7deaa19ec13ae719e.jpg)
 
 **来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2052969749878059362)
 
@@ -7933,7 +7935,7 @@ Please redraw the attached image in the most clumsy, messy, and hopelessly pathe
 
 ### 例 410：夸张动漫风主体重绘
 
-![夸张动漫风主体重绘](../data/images/case410.jpg)
+![夸张动漫风主体重绘](../../../../../images/3edbe1e5a25753d5253ff0248f8e22b62b7923049fb8e815bb7a4108254c9fed.jpg)
 
 **来源：** [@Zyrellix](https://x.com/Zyrellix/status/2052766810500649197)
 
@@ -7949,7 +7951,7 @@ Create a trending anime art style image from the uploaded subject. Use confident
 
 ### 例 411：极简建筑地标海报
 
-![极简建筑地标海报](../data/images/case411.jpg)
+![极简建筑地标海报](../../../../../images/eb5f442eaa86840faaa40c7000a47d433ecacd0904b7a3587d578463606b7a99.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2053084576520573269)
 
@@ -7965,7 +7967,7 @@ Design a luxury minimalist poster centered on a famous architectural landmark of
 
 ### 例 412：彩色按钮时尚 Campaign
 
-![彩色按钮时尚 Campaign](../data/images/case412.jpg)
+![彩色按钮时尚 Campaign](../../../../../images/69286fd9ebf676114e28caac9a56465d55a36a0a6131a46711ab5e4019ee6cc9.jpg)
 
 **来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2053082199436759258)
 
@@ -7992,7 +7994,7 @@ Hyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury ca
 
 ### 例 413：当代舞现场 Storyboard
 
-![当代舞现场 Storyboard](../data/images/case413.jpg)
+![当代舞现场 Storyboard](../../../../../images/2a6ed867365874b2203f1c5613c56e0e5baaee76739c299b53272e49fb56a631.jpg)
 
 **来源：** [@ogbenniasamuel2](https://x.com/ogbenniasamuel2/status/2053088572031250799)
 
@@ -8024,7 +8026,7 @@ End with one overwhelming final movement pose beneath a harsh isolated spotlight
 
 ### 例 414：室内晨间写实摄影
 
-![室内晨间写实摄影](../data/images/case414.jpg)
+![室内晨间写实摄影](../../../../../images/dd72d7f330c906696e8806267d3819a08b2e3934ae46bc234200dcba224df037.jpg)
 
 **来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2053078195482632421)
 
@@ -8043,7 +8045,7 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 
 ### 例 415：东方神话人物志百科海报
 
-![东方神话人物志百科海报](../data/images/case415.jpg)
+![东方神话人物志百科海报](../../../../../images/c61cdc489139f4abcba1422668ae38db45990ef499cc169281efa1cb4bc18e85.jpg)
 
 **来源：** [@TanLuAI](https://x.com/TanLuAI/status/2053073436122243364)
 
@@ -8112,7 +8114,7 @@ Soft directional morning light from a side window, cool-to-warm transition acros
 
 ### 例 416：Earth Signs 角色 Scrapbook
 
-![Earth Signs 角色 Scrapbook](../data/images/case416.jpg)
+![Earth Signs 角色 Scrapbook](../../../../../images/5d4aef8f43a1d579786c75e89cb03a90790f2b10e0207fb2c3dda5ad6a5cae09.jpg)
 
 **来源：** [@ZaraIrahh](https://x.com/ZaraIrahh/status/2053075976469512686)
 
@@ -8179,7 +8181,7 @@ Eye-level or slightly above, medium full-body or 3/4 framing, 35mm or 50mm lifes
 
 ### 例 417：复古印尼猫薄荷广告
 
-![复古印尼猫薄荷广告](../data/images/case417.jpg)
+![复古印尼猫薄荷广告](../../../../../images/8600d0b1042ebf1f0f1fc1efe6d4838084f178af1187368ca2e013c8508c9c8d.jpg)
 
 **来源：** [@NyaiiBubu](https://x.com/NyaiiBubu/status/2053075349424992532)
 
@@ -8195,7 +8197,7 @@ Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s pape
 
 ### 例 418：中世纪城市旅行海报
 
-![中世纪城市旅行海报](../data/images/case418.jpg)
+![中世纪城市旅行海报](../../../../../images/7053f9d43c6342a31df27f6077c4dd3b570895e46200079c513de79899ce61c7.jpg)
 
 **来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2053523890744545437)
 
@@ -8214,7 +8216,7 @@ Text: Bold sans-serif "[CITY NAME]" at top in cream, with the local language nam
 
 ### 例 419：可颂烘焙流程 Storyboard
 
-![可颂烘焙流程 Storyboard](../data/images/case419.jpg)
+![可颂烘焙流程 Storyboard](../../../../../images/b5b83e4423af8550ed50bc9251e3fe3e397822f8b5936162ef1a1ff11c92777f.jpg)
 
 **来源：** [@TechieBySA](https://x.com/TechieBySA/status/2053523784481554759)
 
@@ -8256,7 +8258,7 @@ BAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamina
 
 ### 例 420：红跑道低角度夏日人像
 
-![红跑道低角度夏日人像](../data/images/case420.jpg)
+![红跑道低角度夏日人像](../../../../../images/37d0d5b77ec8baf63fca2de03746771c0bdfbf6ad87c4ced94052bc7dc7092a9.jpg)
 
 **来源：** [@Shinning1010](https://x.com/Shinning1010/status/2053521749967352285)
 
@@ -8276,7 +8278,7 @@ watermark, logo, text, caption, signature, AI label, extra fingers, deformed han
 
 ### 例 421：iPhone 屏幕遮脸创意人像
 
-![iPhone 屏幕遮脸创意人像](../data/images/case421.jpg)
+![iPhone 屏幕遮脸创意人像](../../../../../images/a0e47b696f4566b6a9c7c4ad204876e630b469a3b077ad2c938e864f55c07af8.jpg)
 
 **来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2053535379618423118)
 
@@ -8292,7 +8294,7 @@ Ultra-realistic creative portrait taken with an iPhone, identity accurately pres
 
 ### 例 422：冬季生存惊悚 Storyboard
 
-![冬季生存惊悚 Storyboard](../data/images/case422.jpg)
+![冬季生存惊悚 Storyboard](../../../../../images/9aa59241174ab583b6292cc08343833183422531e0815ea4e594437c5a25a256.jpg)
 
 **来源：** [@zulkarnaimx](https://x.com/zulkarnaimx/status/2053723774680535538)
 
@@ -8476,7 +8478,7 @@ Cinematography notes:
 
 ### 例 423：日系手绘涂鸦半身插画
 
-![日系手绘涂鸦半身插画](../data/images/case423.jpg)
+![日系手绘涂鸦半身插画](../../../../../images/c69dc47fe46de4d33165bd9ed619fbb51fe5677bc611bdec637115bd95bee18d.jpg)
 
 **来源：** [@heyfatema](https://x.com/heyfatema/status/2053703602246668607)
 
@@ -8492,7 +8494,7 @@ Generate an illustration of "me" as you imagine it. Features include a Japanese 
 
 ### 例 424：FMCG 棒棒糖霓虹广告
 
-![FMCG 棒棒糖霓虹广告](../data/images/case424.jpg)
+![FMCG 棒棒糖霓虹广告](../../../../../images/ab5986a6edd6ca7bd9c3d60c10045d30bb687de1d16bbe207895f41c61369a2e.jpg)
 
 **来源：** [@Diplomeme](https://x.com/Diplomeme/status/2054061713583219149) / [Prompt reply](https://x.com/Diplomeme/status/2054061980240224476)
 
@@ -8539,7 +8541,7 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
 
 ### 例 425：黑白时尚人像拼贴海报
 
-![黑白时尚人像拼贴海报](../data/images/case425.jpg)
+![黑白时尚人像拼贴海报](../../../../../images/cf59dca191194f1e77c9138a510df79eb748998a31d6c6f373ae7c65d84898fe.jpg)
 
 **来源：** [@XSydneyFan](https://x.com/XSydneyFan/status/2054054476429009086)
 
@@ -8558,7 +8560,7 @@ Shot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG 
 
 ### 例 426：日韩咖啡馆情侣写真
 
-![日韩咖啡馆情侣写真](../data/images/case426.jpg)
+![日韩咖啡馆情侣写真](../../../../../images/2684c21c697188a5ebf08167037e2b10b23905dd77b867a3229454e40e483d56.jpg)
 
 **来源：** [@sha_zdiii](https://x.com/sha_zdiii/status/2054047328420634927)
 
@@ -8582,7 +8584,7 @@ Color palette should focus on [color theme] tones. Style inspired by viral Pinte
 
 ### 例 427：9-frame 时尚人像拼贴
 
-![9-frame 时尚人像拼贴](../data/images/case427.jpg)
+![9-frame 时尚人像拼贴](../../../../../images/5521ac8187f788ef95e003a5625b93e17695a87214b35c97af47b55ca89a2511.jpg)
 
 **来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2054046866497573214)
 
@@ -8614,7 +8616,7 @@ Background minimal white studio backdrop. Photobooth-style collage layout with b
 
 ### 例 428：F1 直播转播围场截图
 
-![F1 直播转播围场截图](../data/images/case428.jpg)
+![F1 直播转播围场截图](../../../../../images/3965e91ffe3d4470bf0cc6532d21627c4f82b2789dfef45e1f7d4f454b0113fd.jpg)
 
 **来源：** [@bigwonbots](https://x.com/bigwonbots/status/2054573714012787059)
 
@@ -8633,7 +8635,7 @@ Team staff (in generic kit), headsets, garage screens, and generic race equipmen
 
 ### 例 429：韩国便利店粉色 Hoodie 人像
 
-![韩国便利店粉色 Hoodie 人像](../data/images/case429.jpg)
+![韩国便利店粉色 Hoodie 人像](../../../../../images/3cba70718f5579e8db9210ae12235b672d69d8c5d30e3f79d20df4c0982527f1.jpg)
 
 **来源：** [@john_my07](https://x.com/john_my07/status/2054573350199111928)
 
@@ -8649,7 +8651,7 @@ Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean wom
 
 ### 例 430：铅笔素描时尚编辑插画
 
-![铅笔素描时尚编辑插画](../data/images/case430.jpg)
+![铅笔素描时尚编辑插画](../../../../../images/9f8b17209aa89b7a1f0e1523641bd1d396df5b5103c2c7cf7fad453090a1ca34.jpg)
 
 **来源：** [@harboriis](https://x.com/harboriis/status/2054573031343931418)
 
@@ -8667,7 +8669,7 @@ Aspect ratio is 9:16
 
 ### 例 431：城市文字旅行海报
 
-![城市文字旅行海报](../data/images/case431.jpg)
+![城市文字旅行海报](../../../../../images/24a27185f629beb302ebeb10429e3e5060ba89b87be951a05eeaf13f5522cdfb.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2054563354899857757)
 
@@ -8717,7 +8719,7 @@ QUALITY: 8K ultra-detailed, print-ready, razor-sharp vector edges, flawless typo
 
 ### 例 432：大堡礁复古旅行海报
 
-![大堡礁复古旅行海报](../data/images/case432.jpg)
+![大堡礁复古旅行海报](../../../../../images/b0aecc8dbb55c431840193b395234be06dcce240e59593dd021f3789454f5ae7.jpg)
 
 **来源：** [@jzaib4269](https://x.com/jzaib4269/status/2055487295734620522)
 
@@ -8746,7 +8748,7 @@ Mood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. 
 
 ### 例 433：韩国城市水彩旅行插画
 
-![韩国城市水彩旅行插画](../data/images/case433.jpg)
+![韩国城市水彩旅行插画](../../../../../images/2f1f1c8872aa6d1cfcfe468713491b827f9558f4af22e66bcb6344c02796770d.jpg)
 
 **来源：** [@Taaruk_](https://x.com/Taaruk_/status/2055492435862773978)
 
@@ -8762,7 +8764,7 @@ Dreamy watercolor travel illustration of a peaceful Korean city street, hand-pai
 
 ### 例 434：东京街头胶片人像
 
-![东京街头胶片人像](../data/images/case434.jpg)
+![东京街头胶片人像](../../../../../images/dd391dffeec73e8311e53a9d9175e28d458116e7e5a021e3083861e3d983d1a8.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2055491616392052887)
 
@@ -8778,7 +8780,7 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 
 ### 例 435：层叠纸雕情侣插画
 
-![层叠纸雕情侣插画](../data/images/case435.jpg)
+![层叠纸雕情侣插画](../../../../../images/bf0968651037c235f9316b36d7c3bcfe64f2ec04299b6456a255407f7bd04f23.jpg)
 
 **来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2055368240885641323)
 
@@ -8832,7 +8834,7 @@ film photography, candid street snapshot aesthetic, razor-sharp focus on subject
 
 ### 例 436：数码相机屏幕怀旧人像
 
-![数码相机屏幕怀旧人像](../data/images/case436.jpg)
+![数码相机屏幕怀旧人像](../../../../../images/e73ddb8391f9b474568375bc2ae8e542724f264ab4cfe09aeb66c7f750e9c609.jpg)
 
 **来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2055876982630686956)
 
@@ -8858,7 +8860,7 @@ Shot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the ea
 
 ### 例 437：面部美学分析报告
 
-![面部美学分析报告](../data/images/case437.jpg)
+![面部美学分析报告](../../../../../images/1efd660fe12ae3961d2dacf230b57908e412c9c3ad0cbe17388816ce19af6391.jpg)
 
 **来源：** [@saniaspeaks_](https://x.com/saniaspeaks_/status/2055857787637522908)
 
@@ -8896,7 +8898,7 @@ Ultra-detailed, sharp UI design, realistic portrait adaptation, sophisticated ed
 
 ### 例 438：珠宝微缩城市广告海报
 
-![珠宝微缩城市广告海报](../data/images/case438.jpg)
+![珠宝微缩城市广告海报](../../../../../images/da754ce2372298262678a4b40caf0bdc7664b70652a1353d120913e96db0442a.jpg)
 
 **来源：** [@Umar__786Ai](https://x.com/Umar__786Ai/status/2055664244138349055)
 
@@ -8912,7 +8914,7 @@ Create a hyper-detailed luxury advertising poster in a cinematic miniature-world
 
 ### 例 439：赛博黑客角色设定表
 
-![赛博黑客角色设定表](../data/images/case439.jpg)
+![赛博黑客角色设定表](../../../../../images/b4c871d8351d7396f4523b8d8821a72a8ef700ef01a17e00fabc226e90997b58.jpg)
 
 **来源：** [@Kashberg_0](https://x.com/Kashberg_0/status/2055865126335762902)
 
@@ -8932,7 +8934,7 @@ Highly polished cel shading, crisp lineart, soft glow effects, intricate clothin
 
 ### 例 440：手机拍摄 FaceTime 工作屏幕
 
-![手机拍摄 FaceTime 工作屏幕](../data/images/case440.jpg)
+![手机拍摄 FaceTime 工作屏幕](../../../../../images/37cea37e9a3199c424acac966d1ec9709720d455ad36f6ed4d5d308db2fb881b.jpg)
 
 **来源：** [@kaanakz](https://x.com/kaanakz/status/2056290465503171000)
 
@@ -8948,7 +8950,7 @@ Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio
 
 ### 例 441：WILDCAMP 巨型帐篷广告海报
 
-![WILDCAMP 巨型帐篷广告海报](../data/images/case441.jpg)
+![WILDCAMP 巨型帐篷广告海报](../../../../../images/fb5ef1b7468d3c03a2188687fb8edd25a1d309680761d2e63d5619825b26eb11.jpg)
 
 **来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056258909334306897)
 
@@ -8964,7 +8966,7 @@ An outdoor adventure advertisement poster featuring a rugged bearded man in full
 
 ### 例 442：舒适发廊插画
 
-![舒适发廊插画](../data/images/case442.jpg)
+![舒适发廊插画](../../../../../images/dd23775ceb7c267cc85a446f5b4c62392769a2caeb2e0bf4aa5d959e1301a0be.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2056293543753503126)
 
@@ -8980,7 +8982,7 @@ A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a
 
 ### 例 443：塔可爆炸拆解信息图
 
-![塔可爆炸拆解信息图](../data/images/case443.jpg)
+![塔可爆炸拆解信息图](../../../../../images/ac5352395e25f0dc342928357d8a88c2f4f524e9d56263804233a213805984a3.jpg)
 
 **来源：** [@Strength04_X](https://x.com/Strength04_X/status/2056018963084226866)
 
@@ -9012,7 +9014,7 @@ Ultra-detailed food textures, premium commercial aesthetic, 8K.
 
 ### 例 444：迪斯科镜面 3D App 图标
 
-![迪斯科镜面 3D App 图标](../data/images/case444.jpg)
+![迪斯科镜面 3D App 图标](../../../../../images/e617751b6dc766bc3000443e0acf493408cb9fe2899d336316262414208f0502.jpg)
 
 **来源：** [@vista8](https://x.com/vista8/status/2056308962778296715)
 
@@ -9032,7 +9034,7 @@ A premium 3D app icon for 【Product Name】, rounded square tile, glossy glass 
 
 ### 例 445：旅游照水墨明信片
 
-![旅游照水墨明信片](../data/images/case445.jpg)
+![旅游照水墨明信片](../../../../../images/60c2b30f0a9010e7268b43707ee2f447cad76ca12b7ae0b2f89b995a92ee37c3.jpg)
 
 **来源：** [@zhgqthomas](https://x.com/zhgqthomas/status/2056633723366568387)
 
@@ -9048,7 +9050,7 @@ Create a dreamy watercolor travel illustration style from the attached photo. Us
 
 ### 例 446：低多边形纸艺男士肖像
 
-![低多边形纸艺男士肖像](../data/images/case446.jpg)
+![低多边形纸艺男士肖像](../../../../../images/2795bd9c56888b27e6802bcfe771b7ddb48cbfc2cf3b7ccdf82e9fb455cb4554.jpg)
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2056953102755115162)
 
@@ -9064,7 +9066,7 @@ Create a highly detailed low-poly papercraft portrait of a stylish young man, de
 
 ### 例 447：现代地铁工程信息图
 
-![现代地铁工程信息图](../data/images/case447.jpg)
+![现代地铁工程信息图](../../../../../images/cd9aefc9d37e514392196209fb48e25010795481e4be3e26ca56b1ee3efdcaba.jpg)
 
 **来源：** [@j\_smeaton99](https://x.com/j_smeaton99/status/2056950969083343077)
 
@@ -9166,7 +9168,7 @@ The final result should resemble a professionally published railway infrastructu
 
 ### 例 448：1942 空战街机电影城
 
-![1942 空战街机电影城](../data/images/case448.jpg)
+![1942 空战街机电影城](../../../../../images/b57e910a8507b3c01a72c1c9fe043a6c7e30dfba3aee8f7a76d7215bfdc50bea.jpg)
 
 **来源：** [@Xaroon\_x](https://x.com/Xaroon_x/status/2056940561148363010)
 
@@ -9217,7 +9219,7 @@ cinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion bl
 
 ### 例 449：奢华机械腕表技术图鉴
 
-![奢华机械腕表技术图鉴](../data/images/case449.jpg)
+![奢华机械腕表技术图鉴](../../../../../images/76a0e9280c6d7abb11e1bd8067f52843f036d918770aa009b5d8065166ad3c3a.jpg)
 
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2056928396991488312)
 
@@ -9264,7 +9266,7 @@ class Haute_Horlogerie_DNA:
 
 ### 例 450：烛光侧室写实摄影
 
-![烛光侧室写实摄影](../data/images/case450.jpg)
+![烛光侧室写实摄影](../../../../../images/5766e0d120a55a026704f5deded0b8e42a26dcf93dd8572a24846ebada9dbd69.jpg)
 
 **来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2056926887344042382)
 
@@ -9286,7 +9288,7 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 
 ### 例 451：韩国海滩日落时尚人像
 
-![韩国海滩日落时尚人像](../data/images/case451.jpg)
+![韩国海滩日落时尚人像](../../../../../images/dfb55dc9a124e0ee702e4846e2a41828fa2cbe61f863445c331e2abed9f4ef95.jpg)
 
 **来源：** [@MrGafish](https://x.com/MrGafish/status/2057107670226870577)
 
@@ -9302,7 +9304,7 @@ Single candle — warm amber-orange, directional and fragile. It carves the left
 
 ### 例 452：极简童话手绘儿童插画
 
-![极简童话手绘儿童插画](../data/images/case452.jpg)
+![极简童话手绘儿童插画](../../../../../images/f54089d2c2713e4c523fd3406d36cf671a07a60551cc8975d145d122145df4ce.jpg)
 
 **来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2057073936295399551)
 
@@ -9320,7 +9322,7 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 
 ### 例 453：企业级商用画册视觉系统
 
-![企业级商用画册视觉系统](../data/images/case453.jpg)
+![企业级商用画册视觉系统](../../../../../images/e0bfb87118cfb50004940dd5b84b242705b785650ad3568f182ebf5808574036.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2056974720893939950)
 
@@ -9367,7 +9369,7 @@ Stylize the clothing in a playful storybook way with simplified shapes and gentl
 
 ### 例 454：旅行美食薯片广告海报
 
-![旅行美食薯片广告海报](../data/images/case454.jpg)
+![旅行美食薯片广告海报](../../../../../images/d3e6d3a867c92bf1344164d473b8dc2c1a8c49f657d7344822e74c88141e4186.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2057282710469767241)
 
@@ -9413,7 +9415,7 @@ Composition rules:
 
 ### 例 455：巨型舒适洞洞鞋 Campaign
 
-![巨型舒适洞洞鞋 Campaign](../data/images/case455.jpg)
+![巨型舒适洞洞鞋 Campaign](../../../../../images/19d3c4956c75248dc723781060c88486d3f125b9eb6d170ee40cf94043f66277.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2057281549851377866)
 
@@ -9439,7 +9441,7 @@ Style: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper
 
 ### 例 456：历史事件 2x2 可视化地图
 
-![历史事件 2x2 可视化地图](../data/images/case456.jpg)
+![历史事件 2x2 可视化地图](../../../../../images/0f9b0c47fc5941152eeb29a4a1e4748a6a55fd26f927955b04b26466740488ba.jpg)
 
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057277698607599692)
 
@@ -9464,7 +9466,7 @@ Render_Target =
 
 ### 例 457：运动轨迹舞者光绘海报
 
-![运动轨迹舞者光绘海报](../data/images/case457.jpg)
+![运动轨迹舞者光绘海报](../../../../../images/a30ec6794d54736e0a20c7c816f457a7ccf81f1b97fc64e011e61d4e8b015d3a.jpg)
 
 **来源：** [@Gdgtify](https://x.com/Gdgtify/status/2057741253127594118)
 
@@ -9502,7 +9504,7 @@ function render_kinesphere ($ dancer, $ movement)
 
 ### 例 458：巴黎秋季时装插画
 
-![巴黎秋季时装插画](../data/images/case458.jpg)
+![巴黎秋季时装插画](../../../../../images/50fa2ff0a36cdc61bb8f3e1335b951d6073b39b507d3b77996bbd876be59687e.jpg)
 
 **来源：** [@heyfatema](https://x.com/heyfatema/status/2057745100365787170)
 
@@ -9518,7 +9520,7 @@ Full-body fashion illustration of a young woman walking down a Parisian street i
 
 ### 例 459：品牌奶茶 KV 概念海报
 
-![品牌奶茶 KV 概念海报](../data/images/case459.jpg)
+![品牌奶茶 KV 概念海报](../../../../../images/bd4602fc685e62ee55607d716670f461b2d8892df2e4873ad6f1b628140dfa61.jpg)
 
 **来源：** [@liyue_ai](https://x.com/liyue_ai/status/2057739678485495885) / [提示词回复](https://x.com/liyue_ai/status/2057739894261518670)
 
@@ -9793,7 +9795,7 @@ KV类型：{产品英雄KV}
 
 ### 例 460：棋盘低角度奢华男装 Campaign
 
-![棋盘低角度奢华男装 Campaign](../data/images/case460.jpg)
+![棋盘低角度奢华男装 Campaign](../../../../../images/be6d1e61239b1647798adb1b66d024989e16d10e89f8acb6e4b133cc8b8ec9fe.jpg)
 
 **来源：** [@harboriis](https://x.com/harboriis/status/2058414859658956888)
 
@@ -9809,7 +9811,7 @@ Ultra-realistic luxury fashion campaign poster shot from a dramatic low-angle pe
 
 ### 例 461：家庭旅行纸雕拼贴
 
-![家庭旅行纸雕拼贴](../data/images/case461.jpg)
+![家庭旅行纸雕拼贴](../../../../../images/8ea78cc4a6f2f917acf7bc174bc0528ae89304a82936b25cde920e72f9408106.jpg)
 
 **来源：** [@Taaruk_](https://x.com/Taaruk_/status/2058400056722731079)
 
@@ -9825,7 +9827,7 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 ### 例 462：复古日系迷你橡皮商品包装
 
-![复古日系迷你橡皮商品包装](../data/images/case462.jpg)
+![复古日系迷你橡皮商品包装](../../../../../images/ce7f781dac0bb01ce6a77cb3ea39c727553d709960d9141ba5348c786c6540d0.jpg)
 
 **来源：** [@ZetoGroovin](https://x.com/ZetoGroovin/status/2058408514247410003)
 
@@ -9867,7 +9869,7 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 ### 例 463：黑色吊带袜单款图鉴展示
 
-![黑色吊带袜单款图鉴展示](../data/images/case463.jpg)
+![黑色吊带袜单款图鉴展示](../../../../../images/bd1decd6e8e2c9487894f981f8c2d4162f5679d8b92595658c872e50f9aa756c.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2058175014168396245) / [提示词回复](https://x.com/MrLarus/status/2058175145328394441)
 
@@ -9952,7 +9954,7 @@ Adorable kawaii family travel collage, combining four different scenes in one co
 
 ### 例 464：高雄水彩拼贴旅行海报
 
-![高雄水彩拼贴旅行海报](../data/images/case464.jpg)
+![高雄水彩拼贴旅行海报](../../../../../images/757410dfe7288ce10ec13135e6c3990684d11ff3146144cdfea85364ab196e12.jpg)
 
 **来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2058372965641662876)
 
@@ -9980,7 +9982,7 @@ Style: Modern travel poster meets watercolor painting, airy and atmospheric, ble
 
 ### 例 465：逆光美背女性情绪写真
 
-![逆光美背女性情绪写真](../data/images/case465.jpg)
+![逆光美背女性情绪写真](../../../../../images/c99dd36ca9c7233c08578a5db5ba21add7dbdbf6196ece4e952b08beda819381.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2058131948904599860) / [提示词回复](https://x.com/MrLarus/status/2058132915150639425)
 
@@ -10031,7 +10033,7 @@ Style: Modern travel poster meets watercolor painting, airy and atmospheric, ble
 
 ### 例 466：鱼市追猫 CCD 街拍
 
-![鱼市追猫 CCD 街拍](../data/images/case466.jpg)
+![鱼市追猫 CCD 街拍](../../../../../images/5e5d6a4c509686e9394e3c2f3d4b20296130031a790568ffb33dd5246b58cacb.jpg)
 
 **来源：** [@mehvishs25](https://x.com/mehvishs25/status/2058375167550845263)
 
@@ -10077,7 +10079,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 ### 例 467：泳装杂志九宫格广告页
 
-![泳装杂志九宫格广告页](../data/images/case467.jpg)
+![泳装杂志九宫格广告页](../../../../../images/b5a445eec1370114ee83e4b7d2d82855148529a6bb167ca82fa25a494f364d96.jpg)
 
 **来源：** [@Adam38363368936](https://x.com/Adam38363368936/status/2058859338211656051)
 
@@ -10093,7 +10095,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 ### 例 468：霓虹涂鸦展会自拍
 
-![霓虹涂鸦展会自拍](../data/images/case468.jpg)
+![霓虹涂鸦展会自拍](../../../../../images/b9b02ae65880e643bdd230d1feb750c208047b9cd5892d38bfda45938da82cbf.jpg)
 
 **来源：** [@drmrzhong](https://x.com/drmrzhong/status/2058774378960257437)
 
@@ -10121,7 +10123,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 ### 例 469：导览式科普绘本
 
-![导览式科普绘本](../data/images/case469.jpg)
+![导览式科普绘本](../../../../../images/0d63ea96b6f5be08ae0c9ff8040eeb90597d116bebf9958680b5171ed6c7b12d.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2058773446167773521) / [提示词回复](https://x.com/MrLarus/status/2058773784664920233)
 
@@ -10204,7 +10206,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 ### 例 470：本地生活小店异形展架
 
-![本地生活小店异形展架](../data/images/case470.jpg)
+![本地生活小店异形展架](../../../../../images/cb6bf17353068dad598f2de69ae549f8436ea48ef9bff5e6d34ed8ed3b9d32d5.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2059248197910827364) / [提示词回复](https://x.com/MrLarus/status/2058431837534343283)
 
@@ -10346,7 +10348,7 @@ Ultra-raw candid energy, messy composition, humorous accidental masterpiece aest
 
 ### 例 471：花簪和服动漫肖像
 
-![花簪和服动漫肖像](../data/images/case471.jpg)
+![花簪和服动漫肖像](../../../../../images/2f71aa26b2a73d0420aaef93f3414a4a9020a78db8dc4914de344b3aadd3b648.jpg)
 
 **来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2059133066694779343)
 
@@ -10362,7 +10364,7 @@ Ultra-detailed anime-style portrait of a young girl with large expressive eyes, 
 
 ### 例 472：上海地铁站台晨光
 
-![上海地铁站台晨光](../data/images/case472.jpg)
+![上海地铁站台晨光](../../../../../images/17a4d3c7aedd03b563c8ce6e90f5d7c6d0e0f0766407e04f9dc368a972c98320.jpg)
 
 **来源：** [@ToroJushiAi](https://x.com/ToroJushiAi/status/2059452471127240959)
 
@@ -10381,7 +10383,7 @@ Cool overhead fluorescent lighting with a slight greenish cast, flat frontal ill
 
 ### 例 473：ROGUE VIPER 游戏概念设定板
 
-![ROGUE VIPER 游戏概念设定板](../data/images/case473.jpg)
+![ROGUE VIPER 游戏概念设定板](../../../../../images/5c45b9c8011e3f34abc38ee54723533197e4ffa620c68b4cf8fc1e1c31886a82.jpg)
 
 **来源：** [@KimAkiyama81](https://x.com/KimAkiyama81/status/2059394334378566063)
 
@@ -10438,7 +10440,7 @@ Photorealistic only throughout the entire sheet. No anime, no cartoon, no styliz
 
 ### 例 474：四城极简旅行海报系列
 
-![四城极简旅行海报系列](../data/images/case474.jpg)
+![四城极简旅行海报系列](../../../../../images/6e78abf6c2c9890785d03f1b83c4de582ae80293e8dc7f8b5381cc3fab2910d8.jpg)
 
 **来源：** [@Taaruk_](https://x.com/Taaruk_/status/2059188921096085888)
 
@@ -10454,7 +10456,7 @@ Minimalist flat travel poster illustration series of iconic destinations around 
 
 ### 例 475：企鹅造型包装结构板
 
-![企鹅造型包装结构板](../data/images/case475.jpg)
+![企鹅造型包装结构板](../../../../../images/61ffe2cbcc2bac37eeb2b73cf40b8a057148bdbc080ab16e2354043fac4ed653.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2059305097897914664) / [full prompt](https://aiistudio.com/prompt/2039679180775063573)
 
@@ -10470,7 +10472,7 @@ Using the attached image, create an illustration sheet of professional industria
 
 ### 例 476：早安拿铁微缩女孩
 
-![早安拿铁微缩女孩](../data/images/case476.jpg)
+![早安拿铁微缩女孩](../../../../../images/553efd168adfa76068590bcf75bbcb707fda10fb429b297a7017b248addd6c2c.jpg)
 
 **来源：** [@Zyrellix](https://x.com/Zyrellix/status/2059443447602561444)
 
@@ -10486,7 +10488,7 @@ Create ultra-fine highly detailed 3D realistic miniature chibi-like cute girl, w
 
 ### 例 477：Instagram 餐桌俯拍创意
 
-![Instagram 餐桌俯拍创意](../data/images/case477.jpg)
+![Instagram 餐桌俯拍创意](../../../../../images/52ae24a367112908455240a20bc594a24cd4382f3b95b3c3cb3b5b497116a49e.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060210845225980366) / [full prompt](https://aiistudio.com/prompt/2045009725218226475)
 
@@ -10509,7 +10511,7 @@ The center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, d
 
 ### 例 478：夹层式品牌编辑海报
 
-![夹层式品牌编辑海报](../data/images/case478.jpg)
+![夹层式品牌编辑海报](../../../../../images/8b649dbb80ed769bb3d50bbbab14b3199eb87b28e5ffae4df09abd770342b9fd.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2060000278657839398) / [full prompt](https://aiistudio.com/prompt/2040806718523748627)
 
@@ -10547,7 +10549,7 @@ STEP 5, MINIMALIST BRANDING:
 
 ### 例 479：杂志纸艺拼贴重绘
 
-![杂志纸艺拼贴重绘](../data/images/case479.jpg)
+![杂志纸艺拼贴重绘](../../../../../images/2c2dfce4d68f752fbb3f2c370d8839af09ed5b8f4175c49041e25cb1cfe99fb4.jpg)
 
 **来源：** [@oggii_0](https://x.com/oggii_0/status/2060212097083146644)
 
@@ -10563,7 +10565,7 @@ Transform the uploaded image into a minimalist illustration in a magazine collag
 
 ### 例 480：粉丝速写本角色页
 
-![粉丝速写本角色页](../data/images/case480.jpg)
+![粉丝速写本角色页](../../../../../images/701de29e951863e30e83cd5b5ccccbf4a9bf487685d3af7f9765f7d5791c970b.jpg)
 
 **来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2060211436232786357)
 
@@ -10580,7 +10582,7 @@ White background. No grid, no order. Pure chaos energy. With (any color) aesthet
 
 ### 例 481：韩系春日 scrapbook 海报
 
-![韩系春日 scrapbook 海报](../data/images/case481.jpg)
+![韩系春日 scrapbook 海报](../../../../../images/05612df4063d4b1aecd9f09d59da826c0995a18543aa269c0279dddc85fc06da.jpg)
 
 **来源：** [@Taaruk_](https://x.com/Taaruk_/status/2060214163591614900)
 
@@ -10596,7 +10598,7 @@ Cute Korean spring aesthetic scrapbook poster, dreamy K-fashion portrait, soft b
 
 ### 例 482：自我凝视超现实 Campaign
 
-![自我凝视超现实 Campaign](../data/images/case482.jpg)
+![自我凝视超现实 Campaign](../../../../../images/dc9ebff4a784f918e392e759ded6d63e8a9580e99249a93190c9f3c3a47c52c5.jpg)
 
 **来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2060207260685791267)
 
@@ -10628,7 +10630,7 @@ Mood: introspective, mental weight, identity, self-awareness.
 
 ### 例 483：都市飞鸟街头肖像
 
-![都市飞鸟街头肖像](../data/images/case483.jpg)
+![都市飞鸟街头肖像](../../../../../images/3bcb891d933925f2f457335f214a6362f1b904ef342a7ab2e0d312776c628ca1.jpg)
 
 **来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2060216757797978245)
 
@@ -10644,7 +10646,7 @@ A stylish cinematic portrait of a confident young woman leaning casually against
 
 ### 例 484：霓虹涂鸦黑白人像
 
-![霓虹涂鸦黑白人像](../data/images/case484.jpg)
+![霓虹涂鸦黑白人像](../../../../../images/dfe9ba68c4b5f76702dd4e3f7430e1f4a5ea3d61f8a8d3ef051dbf4362b963f1.jpg)
 
 **来源：** [@harboriis](https://x.com/harboriis/status/2060208419811074350)
 
@@ -10660,7 +10662,7 @@ High-contrast black-and-white urban portrait of a curly-haired bearded man in a 
 
 ### 例 485：时尚目录电商拼贴
 
-![时尚目录电商拼贴](../data/images/case485.jpg)
+![时尚目录电商拼贴](../../../../../images/babbd02cdd611c7afb61fd89a9a987f66f8f22d6b320bd802cdfacfee53ff786.jpg)
 
 **来源：** [@Mind_Boticni](https://x.com/Mind_Boticni/status/2061310969192870028)
 
@@ -10676,7 +10678,7 @@ Stylish fashion catalog shoot blending streetwear and luxury branding. Female mo
 
 ### 例 486：RCB 冠军混合媒介海报
 
-![RCB 冠军混合媒介海报](../data/images/case486.jpg)
+![RCB 冠军混合媒介海报](../../../../../images/58dd1309462d39ca2202d6c38458f6aa9c661aefc6848ceea249fdf5a5953c32.jpg)
 
 **来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2061305471492096301)
 
@@ -10706,7 +10708,7 @@ Premium championship poster design, trending Behance artwork, sports magazine co
 
 ### 例 487：法式药妆商业分镜封面
 
-![法式药妆商业分镜封面](../data/images/case487.jpg)
+![法式药妆商业分镜封面](../../../../../images/9f364db079d7fbf6854f003853e5ef9803f8c8ecb8f992675e2a4936a5cc82e0.jpg)
 
 **来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2061300623530942922)
 
@@ -10742,7 +10744,7 @@ Soft elegant premium skincare music throughout: gentle piano, airy ambient pads,
 
 ### 例 488：屋顶球场日落人像
 
-![屋顶球场日落人像](../data/images/case488.jpg)
+![屋顶球场日落人像](../../../../../images/b1bd4cd7518c8e24d8b1f23b42a7bf7a182cf461d04c752e57bc2693e574d747.jpg)
 
 **来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2061313477696954522)
 
@@ -10758,7 +10760,7 @@ Ultra-realistic, high-quality portrait of a stylish young South Asian woman stan
 
 ### 例 489：城市地图微缩旅行海报
 
-![城市地图微缩旅行海报](../data/images/case489.jpg)
+![城市地图微缩旅行海报](../../../../../images/0853e379b5358d179003a446a1bff5174e217e2c21a43b3e5579f378121f694c.jpg)
 
 **来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2062358269172101240)
 
@@ -10780,7 +10782,7 @@ Aspect ratio 1:1.
 
 ### 例 490：双重曝光时尚肖像
 
-![双重曝光时尚肖像](../data/images/case490.jpg)
+![双重曝光时尚肖像](../../../../../images/4da3f24319e3f0f99b6dc3b62f7b9de014cd66eacaa8202055e6f30e71ccb914.jpg)
 
 **来源：** [@Anaya_Ai12](https://x.com/Anaya_Ai12/status/2062191518975508678)
 
@@ -10800,7 +10802,7 @@ Ultra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazi
 
 ### 例 491：Y2K 高楼浴室镜面自拍
 
-![Y2K 高楼浴室镜面自拍](../data/images/case491.jpg)
+![Y2K 高楼浴室镜面自拍](../../../../../images/f3c6b0ac039f8311ae89e226324feb4e23945732e0cf970a6df79e1d5ce88087.jpg)
 
 **来源：** [@jzaib4269](https://x.com/jzaib4269/status/2062184740849930384)
 
@@ -10822,7 +10824,7 @@ Camera: direct flash, compact digital camera, 35mm equivalent, harsh lighting, s
 
 ### 例 492：黑色高定酒店套房写真
 
-![黑色高定酒店套房写真](../data/images/case492.jpg)
+![黑色高定酒店套房写真](../../../../../images/855cdb36a2263fd939bf1ddef267e4c8a7f18dcebe959574ecdb22053b55a1b3.jpg)
 
 **来源：** [@xRahultripathi](https://x.com/xRahultripathi/status/2062100757923733617)
 
@@ -10874,7 +10876,7 @@ Vertical 9:16.
 
 ### 例 493：东京旅行 13 格视频封面
 
-![东京旅行 13 格视频封面](../data/images/case493.jpg)
+![东京旅行 13 格视频封面](../../../../../images/b32516e91a24fd7d9bceb3908d9b6e0264f81885f46ca7f7a254a9f507f81f12.jpg)
 
 **来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062383568253505904)
 
@@ -10908,7 +10910,7 @@ Young female travel vlogger exploring Tokyo across 13 candid moments in a grid c
 
 ### 例 494：电动巴士工程信息图
 
-![电动巴士工程信息图](../data/images/case494.jpg)
+![电动巴士工程信息图](../../../../../images/6a09781954d8031352db523b449120bf1f36958977dc539db933b6da6035ef24.jpg)
 
 **来源：** [@j_smeaton99](https://x.com/j_smeaton99/status/2062365258984177766)
 
@@ -11024,7 +11026,7 @@ The final result should resemble a professionally published transportation-engin
 
 ### 例 495：巴黎街头故事书插画
 
-![巴黎街头故事书插画](../data/images/case495.jpg)
+![巴黎街头故事书插画](../../../../../images/268e2cfc0e23c45ae0a376abf83b9e1ccbb935256c3a43a3ce6317fd209d0c57.jpg)
 
 **来源：** [@MissDelulu9](https://x.com/MissDelulu9/status/2062376738500526347)
 
@@ -11040,7 +11042,7 @@ Portrait illustration in a storybook style featuring a young adult woman explori
 
 ### 例 496：水雕品牌 Logo 六宫格
 
-![水雕品牌 Logo 六宫格](../data/images/case496.jpg)
+![水雕品牌 Logo 六宫格](../../../../../images/093ee67b50ef24fe226956e845405c4d24f7ef1eb4aca4798e70c0f037000738.jpg)
 
 **来源：** [@AIwithSynthia](https://x.com/AIwithSynthia/status/2062521441141088599)
 
@@ -11056,7 +11058,7 @@ Create a premium 3x2 grid collage of iconic global brand logos recreated entirel
 
 ### 例 497：单色水彩城市旅行海报
 
-![单色水彩城市旅行海报](../data/images/case497.jpg)
+![单色水彩城市旅行海报](../../../../../images/36c803609cf850c726b8d8e42cbf4646415917789709f35a3fe63e8bef082146.jpg)
 
 **来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2062564327140503787)
 
@@ -11080,7 +11082,7 @@ Handcrafted watercolor illustration, architectural sketch aesthetic, serene urba
 
 ### 例 498：铅笔画背景 3D 分身
 
-![铅笔画背景 3D 分身](../data/images/case498.jpg)
+![铅笔画背景 3D 分身](../../../../../images/ebabe7bffee87868be343c5dba2e356b12906b8da8aaa14487b457541777b7ff.jpg)
 
 **来源：** [@AIwithkhan](https://x.com/AIwithkhan/status/2062567518389391540)
 
@@ -11098,7 +11100,7 @@ Add a 3D Pixar style render of [foto] standing casually infront of the giant han
 
 ### 例 499：极简精品店全身时尚写真
 
-![极简精品店全身时尚写真](../data/images/case499.jpg)
+![极简精品店全身时尚写真](../../../../../images/da241674a82ff836cc0624db8ba71c5a2f8be5d244b57c4b6217d789744459fb.jpg)
 
 **来源：** [@john_my07](https://x.com/john_my07/status/2062579742759649486)
 
@@ -11114,7 +11116,7 @@ A full-body editorial fashion photograph of a beautiful young woman with the sam
 
 ### 例 500：梦幻花冠仙境肖像
 
-![梦幻花冠仙境肖像](../data/images/case500.jpg)
+![梦幻花冠仙境肖像](../../../../../images/be69fefe97c7077f208675042a56f8452ef9113a3f68bced2dd2cb57cf26d2fc.jpg)
 
 **来源：** [@HaniaAi12](https://x.com/HaniaAi12/status/2062696495741391006)
 
@@ -11132,7 +11134,7 @@ The scene is bathed in soft diffused morning light, creating a luminous glow aro
 
 ### 例 501：夏日牵手回眸电影肖像
 
-![夏日牵手回眸电影肖像](../data/images/case501.jpg)
+![夏日牵手回眸电影肖像](../../../../../images/d717d5a8ba14665b1c1a28eb2bb4fda48b7c3e86256f61fee46d621e92c80361.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063247373388992790)
 
@@ -11162,7 +11164,7 @@ Avoid: over-smoothing, plastic skin, CG look, anime look, wig look, stiff expres
 
 ### 例 502：黑桃国王递归扑克牌
 
-![黑桃国王递归扑克牌](../data/images/case502.jpg)
+![黑桃国王递归扑克牌](../../../../../images/2ac16418c01bc0d48cbce90c4119647727757c2e645c88023418ae4719e8b30f.jpg)
 
 **来源：** [@Professor_134](https://x.com/Professor_134/status/2063244295977800057)
 
@@ -11221,7 +11223,7 @@ The final image should feel like the cover of a legendary fantasy card game wher
 
 ### 例 503：霓虹设计师 3D 海报
 
-![霓虹设计师 3D 海报](../data/images/case503.jpg)
+![霓虹设计师 3D 海报](../../../../../images/8e5ebb28c26bfc4f4cd71165b9b59bbbd0c31921fdcbcf740d74066b1b2f72b0.jpg)
 
 **来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2063240283786187251)
 
@@ -11241,7 +11243,7 @@ Include a collectible chibi mini-figure version of the character standing beside
 
 ### 例 504：粗糙涂鸦人像改图
 
-![粗糙涂鸦人像改图](../data/images/case504.jpg)
+![粗糙涂鸦人像改图](../../../../../images/4191bc7acabdd90bba46b097ac4e1aac9dc45cfdd47422145f3f8e98acd4d10a.jpg)
 
 **来源：** [@Shorelyn_](https://x.com/Shorelyn_/status/2063235707632533954)
 
@@ -11259,7 +11261,7 @@ Create exaggerated facial features with awkward proportions, uneven eyes, oversi
 
 ### 例 505：夜间手机光沙发肖像
 
-![夜间手机光沙发肖像](../data/images/case505.jpg)
+![夜间手机光沙发肖像](../../../../../images/8f32e9fe21de127e95d1d78ad1a62bffe2f8a05a3cc2ef753c6aca8d4982e79a.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2063231612478017579)
 
@@ -11277,7 +11279,7 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 
 ### 例 506：可爱发卡图文人像海报
 
-![可爱发卡图文人像海报](../data/images/case506.jpg)
+![可爱发卡图文人像海报](../../../../../images/191785c8652fb63b91e3edfb060b99fe4a8a633c9cbbadfffcf2428d680142cd.jpg)
 
 **来源：** [@xiaoxiaodong01](https://x.com/xiaoxiaodong01/status/2062924832917029248)
 
@@ -11297,7 +11299,7 @@ Shot in a vertical 3:4 frame at slightly above eye level, medium close-up to thr
 
 ### 例 507：暖调钩织角色玩偶
 
-![暖调钩织角色玩偶](../data/images/case507.jpg)
+![暖调钩织角色玩偶](../../../../../images/8ab3eceb7ba067520f7a4ab99e4f8c2fb970b306a08b2eddb3c89733414999f2.jpg)
 
 **来源：** [@azed_ai](https://x.com/azed_ai/status/2067925399947067728)
 
@@ -11313,7 +11315,7 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 ### 例 508：木漏日庭院俯拍猫咪人像
 
-![木漏日庭院俯拍猫咪人像](../data/images/case508.jpg)
+![木漏日庭院俯拍猫咪人像](../../../../../images/6d6afff367c93124d560117a61743eac1cb9f7aade0d780409d6439e4d1c7545.jpg)
 
 **来源：** [@ohmuyi](https://x.com/ohmuyi/status/2067930690977779942)
 
@@ -11329,7 +11331,7 @@ A handcrafted crochet doll of a [subject], made with soft yarn textures and intr
 
 ### 例 509：涂鸦拉衣奔跑棚拍
 
-![涂鸦拉衣奔跑棚拍](../data/images/case509.jpg)
+![涂鸦拉衣奔跑棚拍](../../../../../images/3659c9eee8edbb900d3d7c67b4a87576ac83a03a90ab78e24c72c61dfc24ffda.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071929275897491491)
 
@@ -11345,7 +11347,7 @@ A playful, high-key studio portrait of [subject] running joyfully across a seaml
 
 ### 例 510：Bichon Shop 拟物 App 图标
 
-![Bichon Shop 拟物 App 图标](../data/images/case510.jpg)
+![Bichon Shop 拟物 App 图标](../../../../../images/f2422d47e1ecc53ce285088b36b574c8c082784759a07ec3fb3e8da0545be3ec.jpg)
 
 **来源：** [@iamaiistudio](https://x.com/iamaiistudio/status/2071923809788285125) / [full prompt](https://aiistudio.com/prompt/i2h-061/bichon-shop)
 
@@ -11361,7 +11363,7 @@ A macOS app icon for an app named 'Bichon Shop'. A single squircle icon with smo
 
 ### 例 511：城市名地标排版旅行海报
 
-![城市名地标排版旅行海报](../data/images/case511.jpg)
+![城市名地标排版旅行海报](../../../../../images/cfdecfee76d725ba586e9d02a35d38ef53ca45d6a6c0c4e6bc233062df83dc6a.jpg)
 
 **来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2071819124708438092)
 
@@ -11381,7 +11383,7 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 
 ### 例 512：Brutalist Freestyle 角色设定表
 
-![Brutalist Freestyle 角色设定表](../data/images/case512.jpg)
+![Brutalist Freestyle 角色设定表](../../../../../images/4d73dc08d7116f0026753e0f58459aea7166bf45ecbb9bf38847a5cab3989a4f.jpg)
 
 **来源：** [@ShamsAmin56](https://x.com/ShamsAmin56/status/2071590431725670517)
 
@@ -11403,7 +11405,7 @@ Professional production sheet layout.  Extremely clean linework.  Cinematic conc
 
 ### 例 513：单色点缀旅行手账插画
 
-![单色点缀旅行手账插画](../data/images/case513.jpg)
+![单色点缀旅行手账插画](../../../../../images/f9ec3da74470962b67f6e8afb0ba8a97ee62a3c6ae380c6f006c1ca6a4b39166.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2071779087396606433)
 
@@ -11419,7 +11421,7 @@ Create a charming editorial travel illustration of {DESTINATION} in a simple han
 
 ### 例 514：硬边现代艺术人像
 
-![硬边现代艺术人像](../data/images/case514.jpg)
+![硬边现代艺术人像](../../../../../images/5610ebf70ed1ecb30833693d085162542a8ae7bc11589f2cc18b92e316e7aa34.jpg)
 
 **来源：** [@SimplyAnnisa](https://x.com/SimplyAnnisa/status/2071783914595897555)
 
@@ -11436,7 +11438,7 @@ dutch angle, stray cat tail --ar 9:16
 
 ### 例 515：Guadalajara 复古电影旅行海报
 
-![Guadalajara 复古电影旅行海报](../data/images/case515.jpg)
+![Guadalajara 复古电影旅行海报](../../../../../images/be4689e9f05cebe53ddb547b00489d12e763aa931ca748b02aa112ab03b737c4.jpg)
 
 **来源：** [@MiMundoConIA](https://x.com/MiMundoConIA/status/2077046470335938826)
 
@@ -11457,7 +11459,7 @@ dutch angle, stray cat tail --ar 9:16
 
 ### 例 516：工业橡胶管品牌造型渲染
 
-![工业橡胶管品牌造型渲染](../data/images/case516.jpg)
+![工业橡胶管品牌造型渲染](../../../../../images/ef9120dc2799bed66e3368f2ebd12ea35ab85e66fcb76e0949e4d3802ea3df55.jpg)
 
 **来源：** [@Just_sharon7](https://x.com/Just_sharon7/status/2077034244988150062)
 
@@ -11473,7 +11475,7 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 ### 例 517：杯内鱼眼夏日冰饮广告
 
-![杯内鱼眼夏日冰饮广告](../data/images/case517.jpg)
+![杯内鱼眼夏日冰饮广告](../../../../../images/cce7e417ee8fe7d8ab4999587d9c42c3103d9ade5fcf8d33ae741dc1a9bfa4f7.jpg)
 
 **来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036659028484375) / [full prompt](https://lovimg.com/image-prompts/7369/item-313)
 
@@ -11511,7 +11513,7 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 ### 例 518：花田风动夏日人像
 
-![花田风动夏日人像](../data/images/case518.jpg)
+![花田风动夏日人像](../../../../../images/ad46b009fdcc484d7497d3bcb70183ac2fb0fee3fc17e0218752206ce2157e8f.jpg)
 
 **来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036746198618336) / [full prompt](https://lovimg.com/image-prompts/7376/item-314)
 
@@ -11549,7 +11551,7 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 ### 例 519：薄荷玫瑰香水电商图
 
-![薄荷玫瑰香水电商图](../data/images/case519.jpg)
+![薄荷玫瑰香水电商图](../../../../../images/6bd251eebe92529cfd1ee870b8c903bc928d8837fc4a619337be0b5ae3d69daf.jpg)
 
 **来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077036313832996893) / [full prompt](https://lovimg.com/image-prompts/7391/100)
 
@@ -11565,7 +11567,7 @@ Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thi
 
 ### 例 520：月面宇航员 T 恤图形
 
-![月面宇航员 T 恤图形](../data/images/case520.jpg)
+![月面宇航员 T 恤图形](../../../../../images/4bdf38349c3629e5ece08722935597c4d0c3e71d6b922c9ce71ae5a37be8aca1.jpg)
 
 **来源：** [@lovimg_com](https://x.com/lovimg_com/status/2077035644254363972) / [full prompt](https://lovimg.com/image-prompts/7401/a-graphic-illustration-centered-on-a-dark-navy-blue-t-shi)
 
@@ -11581,7 +11583,7 @@ A graphic illustration centered on a dark navy blue t-shirt, depicting an astron
 
 ### 例 521：青花敦煌刺绣四拼风格海报
 
-![青花敦煌刺绣四拼风格海报](../data/images/case521.jpg)
+![青花敦煌刺绣四拼风格海报](../../../../../images/5069d2d7e0e9b3d7e0c9bb359348d91e240fdfa706177884e95a2122682a8d2d.jpg)
 
 **来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090310144190218272)
 
@@ -11607,7 +11609,7 @@ A graphic illustration centered on a dark navy blue t-shirt, depicting an astron
 
 ### 例 522：儿童故事书手绘头像
 
-![儿童故事书手绘头像](../data/images/case522.jpg)
+![儿童故事书手绘头像](../../../../../images/bbffcfa2d5f68f9d2ea62b29393697ffd443fa3cc75abe68afd08a4ef3660ee0.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2090321208441262454)
 
@@ -11651,7 +11653,7 @@ Final feeling: the same person lovingly redrawn as an extremely cute, warm, whol
 
 ### 例 523：曼哈顿公园水彩旅行插画
 
-![曼哈顿公园水彩旅行插画](../data/images/case523.jpg)
+![曼哈顿公园水彩旅行插画](../../../../../images/8aae8ada81d5518d972a910ce3b6efbfd063d0f794d071b8fb9d63ecd5047441.jpg)
 
 **来源：** [@Taaruk_](https://x.com/Taaruk_/status/2090307485374578755)
 
@@ -11667,7 +11669,7 @@ Create a vertical editorial travel illustration inspired by vintage European tra
 
 ### 例 524：纸雕拼贴乡野人像
 
-![纸雕拼贴乡野人像](../data/images/case524.jpg)
+![纸雕拼贴乡野人像](../../../../../images/38e199a0f03c61d18ffcb78ef972ee5563e3122df1ee38d7fdef88c019bfedaf.jpg)
 
 **来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2090297565732585554)
 
@@ -11763,7 +11765,7 @@ Vertical 4:5 portrait composition, full-body framing, ultra-detailed, high resol
 
 ### 例 525：酒红棚拍男士时尚肖像
 
-![酒红棚拍男士时尚肖像](../data/images/case525.jpg)
+![酒红棚拍男士时尚肖像](../../../../../images/f631f4102e84a102619e6adc9db70189e5d3af644f5a3c319a25fc128d29311d.jpg)
 
 **来源：** [@iamsofiaijaz](https://x.com/iamsofiaijaz/status/2090294894187413883)
 
@@ -11783,7 +11785,7 @@ Extremely detailed natural skin texture, individual beard hairs, realistic pores
 
 ### 例 526：体积激光黑场海报
 
-![体积激光黑场海报](../data/images/case526.jpg)
+![体积激光黑场海报](../../../../../images/c375726792f1d86f7e66f466242771853621be671ad1e3df9ba4dfb606086e99.jpg)
 
 **来源：** [@zhidawang219555](https://x.com/zhidawang219555/status/2090246237094310178)
 
@@ -11799,7 +11801,7 @@ Extremely detailed natural skin texture, individual beard hairs, realistic pores
 
 ### 例 527：Rio 旅行票据纸雕立体海报
 
-![Rio 旅行票据纸雕立体海报](../data/images/case527.jpg)
+![Rio 旅行票据纸雕立体海报](../../../../../images/fe22ae11fed9d5ff1fc20abefd80c137a560c1b21e3775f32c89c6a6a89be226.jpg)
 
 **来源：** [@john_my07](https://x.com/john_my07/status/2091408386466214031)
 
@@ -11825,7 +11827,7 @@ The final image should feel like a premium collectible Rio de Janeiro travel pos
 
 ### 例 528：圣诞街景 Chibi 真实背景人像
 
-![圣诞街景 Chibi 真实背景人像](../data/images/case528.jpg)
+![圣诞街景 Chibi 真实背景人像](../../../../../images/a713b5fd2b55dc7b3935c75b969deb926a9294ff9a7862fbecd348d5f92a3ba0.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2091401764360896762)
 
@@ -11847,7 +11849,7 @@ Cinematic composition, natural perspective, soft evening lighting, warm Christma
 
 ### 例 529：云朵气球山脊旅行人像
 
-![云朵气球山脊旅行人像](../data/images/case529.jpg)
+![云朵气球山脊旅行人像](../../../../../images/fed444fdb35f50c058fa40625b06e80d0727214bf3a5c36b7d809f24d24827bb.jpg)
 
 **来源：** [@AiwithLariab](https://x.com/AiwithLariab/status/2091394735416160715)
 
@@ -11914,7 +11916,7 @@ Preserve the exact identity from @image1. Do not change the person's recognizabl
 
 ### 例 530：实拍背景涂鸦人物替换
 
-![实拍背景涂鸦人物替换](../data/images/case530.jpg)
+![实拍背景涂鸦人物替换](../../../../../images/569fc121ba82d2db731c341f2889ca2e3726c7d7a47cd0a5a9ed3ee64f7825c0.jpg)
 
 **来源：** [@Emmma__0](https://x.com/Emmma__0/status/2091391958128251286)
 
@@ -11993,7 +11995,7 @@ Avoid full-image illustration, background doodling, realistic anatomy, anime, ma
 
 ### 例 531：水晶框国家旅行广告海报
 
-![水晶框国家旅行广告海报](../data/images/case531.jpg)
+![水晶框国家旅行广告海报](../../../../../images/73e5062ffad5eb4d254537512dd8a9c04cf9223a87027641dfaaa7d932558d45.jpg)
 
 **来源：** [@Taaruk_](https://x.com/Taaruk_/status/2091391283063361558)
 
@@ -12009,7 +12011,7 @@ Create a luxurious, dreamy country travel-art collection in the exact visual lan
 
 ### 例 532：六宫格柠檬饮料微缩广告
 
-![六宫格柠檬饮料微缩广告](../data/images/case532.jpg)
+![六宫格柠檬饮料微缩广告](../../../../../images/da0294912cd02ddc180aadb419095c9d72e06fd90f5f002c76869c461a9905c9.jpg)
 
 **来源：** [@ou_zhen599](https://x.com/ou_zhen599/status/2091160215928574397)
 
@@ -12070,7 +12072,7 @@ copied text, Chinese text, existing brand names, cartoon style, toy-like figure,
 
 ### 例 533：手绘涂鸦时尚人物插画
 
-![手绘涂鸦时尚人物插画](../data/images/case533.jpg)
+![手绘涂鸦时尚人物插画](../../../../../images/e8a9ad17a108dfaf19b6d782b0e621a3ab4a7c24af2afdb8ed06e434ebc14b06.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2092473965927334071)
 
@@ -12111,7 +12113,7 @@ Preserve the important details of the reference image while converting everythin
 
 ### 例 534：红光干扰实验编辑人像海报
 
-![红光干扰实验编辑人像海报](../data/images/case534.jpg)
+![红光干扰实验编辑人像海报](../../../../../images/4f73a13f971f8ceb683bbe590398dfab2e0bce954bc1127bb01842acef8b350e.jpg)
 
 **来源：** [@Goodmanprotocol](https://x.com/Goodmanprotocol/status/2092471662126211143)
 
@@ -12159,7 +12161,7 @@ Keep the overall treatment medium in scale, refined, adaptable, and universally 
 
 ### 例 535：同一人脸十二款发型 Lookbook
 
-![同一人脸十二款发型 Lookbook](../data/images/case535.jpg)
+![同一人脸十二款发型 Lookbook](../../../../../images/bd3a0e76ad2bf080037219cd6eb09c5498d496a18f58fde9142a55483a22248a.jpg)
 
 **来源：** [@Ciri_ai](https://x.com/Ciri_ai/status/2092452220768002400)
 
@@ -12203,7 +12205,7 @@ Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspec
 
 ### 例 536：春日樱花回眸电影人像
 
-![春日樱花回眸电影人像](../data/images/case536.jpg)
+![春日樱花回眸电影人像](../../../../../images/9f9259271b4cf6234c5433fd33263458e6f73726e22859373d083f814be82d3d.jpg)
 
 **来源：** [@SheBuildsAI_](https://x.com/SheBuildsAI_/status/2092431090095149533)
 
@@ -12235,7 +12237,7 @@ Each panel clearly numbered 1 to 12 in the top-left corner. Overall output aspec
 
 ### 例 537：地下档案馆暗黑概念海报
 
-![地下档案馆暗黑概念海报](../data/images/case537.jpg)
+![地下档案馆暗黑概念海报](../../../../../images/fce0bc791620458ecf7b1d734ea5b8e23b577515dae36b701bce588f36db6872.jpg)
 
 **来源：** [@PromptSin](https://x.com/PromptSin/status/2092390329890849163)
 
@@ -12262,7 +12264,7 @@ Avoid: visible letters or runes, portrait close-up, split face, black substance 
 
 ### 例 538：橡皮章旅行田野笔记海报
 
-![橡皮章旅行田野笔记海报](../data/images/case538.jpg)
+![橡皮章旅行田野笔记海报](../../../../../images/cd049146075c22d730e10b33ba9445ccf7ad75918695499594d340cd3d8875d4.jpg)
 
 **来源：** [@MahnoorAi12](https://x.com/MahnoorAi12/status/2092221482139349307)
 
@@ -12412,7 +12414,7 @@ Obvious dividing lines, circular seals, postage-stamp borders, perforations, wax
 
 ### 例 539：粗粝手绘搭档肖像海报
 
-![粗粝手绘搭档肖像海报](../data/images/case539.jpg)
+![粗粝手绘搭档肖像海报](../../../../../images/8042851d503917add0e9759e5d1b0ffec44f0dfbd127f1fb1b65c09809f7da75.jpg)
 
 **来源：** [@kingofdairyque](https://x.com/kingofdairyque/status/2093279729717780736)
 
@@ -12428,7 +12430,7 @@ Raw sketchy graphic portrait poster of [HUMAN] wearing [CLOTHING], half-body and
 
 ### 例 540：梦幻未来城市编辑艺术海报
 
-![梦幻未来城市编辑艺术海报](../data/images/case540.jpg)
+![梦幻未来城市编辑艺术海报](../../../../../images/52a7342838e71a5466adae11fa6453dd2fdc2e09aed22e88ba8e0e4cc0a7981d.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2093230701986672924)
 
@@ -12444,7 +12446,7 @@ Create a visually unforgettable editorial art poster of a dreamlike futuristic w
 
 ### 例 541：50/50 混合媒介回忆卡
 
-![50/50 混合媒介回忆卡](../data/images/case541.jpg)
+![50/50 混合媒介回忆卡](../../../../../images/829125af0ed13c593a04678947d797509b30fcc5e933e7b47ed512df72dbb3eb.jpg)
 
 **来源：** [@Sairah_0](https://x.com/Sairah_0/status/2093212900160868430)
 
@@ -12466,7 +12468,7 @@ Create a quiet, nostalgic Morandi-style aesthetic with generous negative space. 
 
 ### 例 542：黑白排版侧脸肖像海报
 
-![黑白排版侧脸肖像海报](../data/images/case542.jpg)
+![黑白排版侧脸肖像海报](../../../../../images/56ed00beb54c1149c378e734674bed0be46a411b2c178dcc5efa41228225609d.jpg)
 
 **来源：** [@HustleXR](https://x.com/HustleXR/status/2093206386012230000)
 
@@ -12482,7 +12484,7 @@ High-contrast black and white typographic portrait poster of [HUMAN], shown in s
 
 ### 例 543：旅行纪念珐琅徽章
 
-![旅行纪念珐琅徽章](../data/images/case543.jpg)
+![旅行纪念珐琅徽章](../../../../../images/c698d4efea6789557d328b043f40c63549658494be5a30b9c1d210e2ae80be93.jpg)
 
 **来源：** [@Emmma__0](https://x.com/Emmma__0/status/2093194689222705645)
 
@@ -12508,7 +12510,7 @@ Avoid: black silhouette figure, blacked-out face, dark featureless head, portrai
 
 ### 例 544：幼儿词汇拆解学习卡
 
-![幼儿词汇拆解学习卡](../data/images/case544.jpg)
+![幼儿词汇拆解学习卡](../../../../../images/b05ee7b4a8dc5e374154621dcac07b7cabcab369fb284e3938a5bfea700af4e8.jpg)
 
 **来源：** [@Naiknelofar788](https://x.com/Naiknelofar788/status/2092993830220120231)
 

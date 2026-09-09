@@ -17,9 +17,14 @@ def validate(root):
         files += 1
         if digest and hashlib.sha256(path.read_bytes()).hexdigest() != digest:
             errors.append('Hash mismatch: ' + name)
-    for manifest in (root / 'sources').glob('*/upstream/*/manifest.json'):
+    manifests = list((root / 'sources').glob('*/upstream/*/manifest.json'))
+    if (root / 'notices/manifest.json').is_file():
+        manifests.append(root / 'notices/manifest.json')
+    for manifest in manifests:
         data = json.loads(manifest.read_text(encoding='utf-8'))
         for entry in data['files']:
+            check(entry['path'], entry['sha256'])
+        for entry in data.get('rendered_files', []) + data.get('media_files', []):
             check(entry['path'], entry['sha256'])
     templates_file = root / 'indexes/templates.json'
     if not templates_file.is_file():
@@ -64,7 +69,11 @@ def validate(root):
                 errors.append('Template document missing: ' + str(template.get('id')))
             if template.get('cover'):
                 check(template['cover'], template.get('cover_sha256'))
-    return {'status': 'PASS' if not errors else 'FAIL', 'files_checked': files, 'errors': errors}
+    from archive_image_views import check_images
+    image_check = check_images(root)
+    errors.extend('Broken image reference: ' + str(item) for item in image_check['errors'])
+    return {'status': 'PASS' if not errors else 'FAIL', 'files_checked': files,
+            'image_references_checked': image_check['count'], 'errors': errors}
 
 
 if __name__ == '__main__':

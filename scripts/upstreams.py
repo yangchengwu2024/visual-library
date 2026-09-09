@@ -301,6 +301,13 @@ def run(root, mode='sync', source_ids=None, selected_ids=None, revisions=None, r
                     validate_images(records)
                     import_mode = 'snapshot' if source['scope']['kind'] == 'all' and not selected_ids else 'append'
                     outcome = library.import_records(stage, records, {'name': identifier, 'url': source['url']}, revision, mode=import_mode)
+                    snapshot = stage / 'sources' / identifier / 'upstream' / revision
+                    if (snapshot / 'manifest.json').is_file():
+                        from archive_media import repair_source
+                        if source['adapter'] == 'freestylefly':
+                            repair_source(stage, snapshot, source, source_dir=downloads / 'source')
+                        else:
+                            repair_source(stage, snapshot, source, get_file=Downloader(source, revision, downloads).get_file)
                     template_catalog.rebuild_templates(stage)
                     library.rebuild(stage)
                     valid, archived = library.validate(stage), validate_archive.validate(stage)

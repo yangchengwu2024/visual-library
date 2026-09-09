@@ -1,14 +1,16 @@
+> [原始文本](README.md.original.txt) | [主画廊](../../../../docs/gallery.md)
+
 <div align="center">
 
-<img src="images/logo.jpg"  alt="输入图片"> 
+<img src="../../../_media/195cab1f59aaff88f3a8af1fca44ba2dda7dee23bd0c5333f304e047b270cb57.jpg"  alt="输入图片"> 
 
-[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)
-[![Chinese](https://img.shields.io/badge/Chinese-Click_to_View-orange)](README.md)
-[![English](https://img.shields.io/badge/English-Click_to_View-yellow)](README_en.md)
-[![Japanese](https://img.shields.io/badge/日本語-クリックして表示-green)](README_ja.md)
-[![Korean](https://img.shields.io/badge/한국어-눌러서_보기-blue)](README_kr.md)
-[![Spanish](https://img.shields.io/badge/Español-Ver_Traducción-blueviolet)](README_es.md)
-[![Turkish](https://img.shields.io/badge/Türkçe-Görüntülemek_için_Tıklayın-red)](README_tr.md)
+[![License: CC BY 4.0](../../../_media/632a4166db121cbc74659105383a3e0ecbb52ac5f33cea7dd43dc6daaf932a52.svg)](LICENSE)
+[![Chinese](../../../_media/3f9282b56471ede9b5634a0b3c06becb982901d1bc4f6700cd5ba4f2c06fcbb4.svg)](README.md)
+[![English](../../../_media/08a8ed35dffc7a0902ff4b9947c995e6465a23b247cfd70a597a1b94ce59d7a7.svg)](README_en.md)
+[![Japanese](../../../_media/104ba21cb15f0c1e48f17d0b501828ea0ec339d63bb07236730ce5231b9cc3cd.svg)](README_ja.md)
+[![Korean](../../../_media/b092af432b27fac027bc0385e0eab97509fd4c7a81fba3e483cced04198b7e36.svg)](README_kr.md)
+[![Spanish](../../../_media/da6ea58e49d21cff3d02010335cdf6e2792c5838ba9fb8717ad20f65196de065.svg)](README_es.md)
+[![Turkish](../../../_media/8ff5644eb991c985be52c9a4f166a3840c11d0f63f4d87719352f7d324a94039.svg)](README_tr.md)
 
 </div>
 
@@ -24,8 +26,8 @@
 
 > [!NOTE]
 > 我们提出 Nano-consistent-150k——首个基于 Nano-Banana 构建、规模超过 150k 的高质量数据集，专为在多样而复杂的编辑场景中保持人物身份一致性而设计。其一大特点是卓越的身份一致性：针对同一人像，我们在多种任务与指令下提供了 35 种以上不同的编辑结果。以一致的人物身份为锚点，该数据集使得围绕同一主体在多种编辑任务、指令与模态之间无缝衔接的交错（interleaved）数据构建成为可能。
-<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='https://img.shields.io/badge/🌐 Website-Blog-orange' height="25"></a>
-<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='https://img.shields.io/badge/%F0%9F%A4%97%20Hugging%20Face-Dataset-yellow' height="25"></a>
+<a href='https://picotrex.github.io/Awesome-Nano-Banana-images/'><img src='../../../_media/955baf2492365c82b0744af42a6f07fd8389d5835a1b3db1189886baaaac8871.svg' height="25"></a>
+<a href='https://huggingface.co/datasets/Yejy53/Nano-consistent-150k'><img src='../../../_media/e873fe8e277fd80e1e4d9c84c3cb43ca46050d8893d2d336ff610f7daee31d15.svg' height="25"></a>
 
 ## 📰 News
 
@@ -216,7 +218,7 @@
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case1/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/0a000bd5c3a69df782ea46a9e1133f155c34510eff2f7f55eecee8ef2ecb32b9.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -238,7 +240,7 @@
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case2/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/f99458b43e1176014755a7d9b253e581c7a3e57bb1b6f4cfb4274f8a6eb7fa70.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -251,7 +253,7 @@
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case3/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/8fefd2432217da084617abaa4cc2dcf2742b4f7977f8a7e8fb0f429cb729b60f.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图片作为人物对象
 
@@ -344,7 +346,7 @@
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case4/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/e5d9aa5ff4090c4958fd966a90e6b4dda93f37a243ce4f24a1a2eada5dade5cd.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -357,7 +359,7 @@
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case5/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/7b65ca125a485569a5ff130df7510c5e6190d2f7bc427d997baa01b76e38bdb6.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传文章/文字作为生成PPT的内容
 
@@ -392,7 +394,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case6/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b0e35d7acdda5f4b090caf3972e45750965d73806c9ef4bde4670bc3b924ad6f.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传人物图片作为参考图
 
@@ -429,7 +431,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/pro_case7/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/040cf148960d114f4bcf26eeefc00d6804f8ebed55ce7da7356645458030b5a5.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -444,7 +446,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case8/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/e996bfa2667c62ea80c604508d2b5cd5b2990f70b8a3d6f9881bfabdda57d24b.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -457,7 +459,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/pro_case9/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/2ab8d7e4326df73636a7e1b54b829c443e79512f0431dc824002beddf31ec7b4.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -472,7 +474,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case10/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/4fff19001cd5d35280b38ee0f5a5a21c39d4bbde5bdcdc60211ee51fefa52c6b.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张城市参考图片
 
@@ -487,7 +489,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case11/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6d56f7c01df404e0f46340b8d78da137c07a6d9aaabb3b21cba367563f4f0986.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -503,7 +505,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case12/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/a8de50cb163284c531b616613ce1dfb6fd11de941db55242d6ced5a4af7f2a65.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -518,7 +520,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case13/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../../images/9906c83f8d723d767ca9da5719372fb501dc2e3c56d90651ae8f3d5f9c98b0fa.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -538,7 +540,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case14/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/1a973d214ad5d3501257ed39681031c39e5659e2d63ae3203849bef387d4c139.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -553,7 +555,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/pro_case15/input.jpg" width="200" alt="输入图片"> | <img src="images/pro_case15/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../../images/6bdd7a0d88d6496bfdb3bdb83b6e203d6a59b1cdab1e0fcafd6d4e22491450dc.jpg" width="200" alt="输入图片"> | <img src="../../../../images/8a910801a8df64a02da7aaf464b98bb6f6a1d83c7f20aa9d7a4ebf04d8dc8551.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -568,7 +570,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case16/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/90574c3e3a64c1581ea7dcf9fa0eb565bf654a75854c80a0a5cf533dd63947a6.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -583,7 +585,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case17/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/641340c142e0e7628bd8939c063ef12c4457304fd835242f8db17f5b95e3828b.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -598,7 +600,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case18/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ff39bcdde10be9ecc1a23885265315f92b22f187ede24ed3528548978a460805.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -614,7 +616,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case19/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/29b1e511bb97dbe57d852d5d39e4dec5559c2026008f1a79fb55b8e1fc8020a5.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -627,7 +629,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case20/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b9f77f3db4228ef02873a59fb2ca95879140528c0073c044cc417df0385c84d4.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -640,7 +642,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case21/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/d91fc710741bff16ce8d9a3eea052609b640777068e1a9b2e44fa770cd2df727.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -656,7 +658,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case22/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ced0b47814da36c9d20afb5ef04542b56eb9b5c4a7bdb38d761d32f60b5a00a1.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -669,7 +671,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case23/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/d31c19b4021132fb5c2e25d25c1690012ace81b2b804d210f20d585b5f11f071.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -682,7 +684,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/pro_case24/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/8dfd5d18f9118ee6bf33bab1ab0b59f4b06588c6729d86a7577bcca056ae4493.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -695,7 +697,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case25/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/e68c1d3dc504d57596296ae088102f836ed8013dd2659aeaf606dfde5b7c053c.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -708,7 +710,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case26/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../../images/dd50b48744aca48af4d6c63508ecdd16dc0b130007bdff31ac049c40f0d6db51.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -724,7 +726,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case27/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/04a8a84388d29e53dd60bfe0c36163a1149d450c1e9a4324b461cf3720322808.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -737,7 +739,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/pro_case28/input.jpg" width="200" alt="输入图片"> | <img src="images/pro_case28/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../../images/34cedeaca2e3af6f7831d9cc5bf5058f44d4bde8284bd6a73da31ef0d31bd4ac.jpg" width="200" alt="输入图片"> | <img src="../../../../images/e7c7366af77add187d65f409caaf8855747c4e14cfa232572f893d3bcdc9dc0c.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -752,7 +754,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case29/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/52caa901014717b6425190f1652d4466296d572ddeecdbe6e42adbab92eb7df6.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -767,7 +769,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case30/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/d173b61de50227e13f3c7c4717b426dcf0df3e2e3c062b9ec47822030ac4298e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传wikipedia链接
 
@@ -785,7 +787,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/pro_case31/input.jpg" width="200" alt="输入图片"> | <img src="images/pro_case31/output.jpg" width="200" alt="输出结果"> |
+| <img src="../../../_media/f04184e7373bdfe6256aab7bdf0970800e75e49688d2f1f2406c991acca0e655.png" width="200" alt="输入图片"> | <img src="../../../_media/5b9d3c1ae70faed6e1164a4d2c535a59832806a4c745fe7e8ad9a034128701f6.png" width="200" alt="输出结果"> |
 
 **输入:** 需上传一张google map图片
 
@@ -800,7 +802,7 @@ PPT的具体风格应该为请“Anthropic/Claude 风格”的“温暖学术人
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case32/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/eb2cf4f7a590927b322da9c962d57a73d0ba5daa5de2b1214b200df499e9f702.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -842,7 +844,7 @@ X（X 标志）：[X 用户名，例如 @dotey]
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case33/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ba69706e3d61000bba8aebb962d011441882a4efabd38642ddd58fd44e270bd6.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张图片
 
@@ -883,7 +885,7 @@ X（X 标志）：[X 用户名，例如 @dotey]
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case34/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/85cb6db6929f285966c296af6a514dffbe38b7f6513abaf87cbb9d4fc11c6206.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片作为生成吉祥物的对象
 
@@ -996,7 +998,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case35/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../../images/7ba928208579a0fdc9a55a766645050ede838d6092f0c1cb3da7b56305402764.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1012,7 +1014,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case36/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/96fd9d847249a879b2a4e9a0b66fc9d53ea53f36c000a19dce2a9998f2a5379b.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1028,7 +1030,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case37/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/905164f3834bdc4bf386269adc720e38d40e1181bc57f81eb82ec9feb3518426.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1056,7 +1058,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case38/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/3d76c73fd48e7262be508a6ecf8f3cd18930a51b2f809e44a14466913f5c21f4.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1072,7 +1074,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case39/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ccafef7aab3ef9790dca9e45126b3e309a48e198c32dee055415286e07e36221.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1085,7 +1087,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/pro_case40/input.jpg" width="200" alt="输入图片"> | <img src="images/pro_case40/output.jpg" width="200" alt="输出结果"> |
+| <img src="../../../_media/9b086b280cd572404235700b5de39ed48617ad28632ee762b6390d32a565bb89.png" width="200" alt="输入图片"> | <img src="../../../_media/7f2f1d073e6be6923d74f0a9b476e972113c67873b0f3a96e974ac65a757bc19.png" width="200" alt="输出结果"> |
 
 **提示词:**
 
@@ -1098,7 +1100,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case41/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/4fc50a521443695b9deaec1f958da33304b60d9ef7bdfa45897e80844770954e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张人物参考图片
 
@@ -1144,7 +1146,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/pro_case42/input.jpg" width="200" alt="输入图片"> | <img src="images/pro_case42/output.jpg" width="200" alt="输出结果"> |
+| <img src="../../../_media/676c04508cc3d169e4c2d2babbc0f0e8bdb284fc8b44fc64151283c6a61a3dc0.png" width="200" alt="输入图片"> | <img src="../../../_media/a0b00e361f00b430b33a86675f47f2a7ab6b999a72f563cbad489ca4ab313fc6.png" width="200" alt="输出结果"> |
 
 **提示词:**
 
@@ -1250,7 +1252,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case43/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6aebac1bb08a268543738635f40ef461a967e90405db21447040c1551d49d5fd.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -1267,7 +1269,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case44/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/9213ab21b1bcffc71c43caff3c25f5ff62a3112e93df509a932d619eace0d288.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -1289,7 +1291,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case45/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b14a96ffb61114e02b4905b0704f336ac28cdf02f1d2d808553d84276004489d.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片
 
@@ -1309,7 +1311,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case46/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/eae49ccacc8465706b7c96cf18adcadd66b92329e96b7c6b98607105b8136448.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1322,7 +1324,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case47/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/91f1670cf453a3b1eadf8774fac195afee115a97422fb54c973ee8d402c0f36a.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1340,7 +1342,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/pro_case48/input.jpg" width="200" alt="输入图片"> | <img src="images/pro_case48/output.jpg" width="200" alt="输出结果"> |
+| <img src="../../../_media/a5dc1b47495ddff5a30085deecfbf0633dd6b862db04748400991d97d1298af8.png" width="200" alt="输入图片"> | <img src="../../../_media/0c4ff9310dd214b7a5aff9b42641e6fdf031713d40d8aceecefb27375c3554e5.png" width="200" alt="输出结果"> |
 
 **输入:** 需上传一张google卫星视角参考图片
 
@@ -1418,7 +1420,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case49/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6a032a8a203422133f4dfe285df092b854e960ed12eb81127ec3da00fb57da17.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1431,7 +1433,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case50/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/23c5bc3df412d62f3deeb78aae942e9779ae3a0c65b5cb9cc0a57fc7bd004021.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1467,7 +1469,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case51/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../../images/9d95cb479e1b2e86b48ee6099ce230b76a0d619c71b420b9f514a095ca8c10d1.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -1487,7 +1489,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/pro_case52/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/88094f8f173492a6526ea3410424fcc09aa4cf65e09585a663bdeb35027cc5ce.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张睡眠质量数据截图
 
@@ -1534,7 +1536,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case1/input0.jpg" width="200" alt="输入图片"> | <img src="images/case1/output0.jpg" width="200" alt="输出结果"> |
+| <img src="../../../_media/7f1944b009a65dba1682a97267e2b140ecff27ddf2ef9eae1359d1d8c64620ce.jpg" width="200" alt="输入图片"> | <img src="../../../_media/3d90d9c3ced045dbdb328e0ccaf9efd90d68b8afc12e1775a681a9c508013d0f.jpg" width="200" alt="输出结果"> |
 
 **输入:** 需上传一张参考图片作为生成手办的对象
 
@@ -1549,9 +1551,9 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case2/input.jpg" width="300" alt="输入图片">  | <img src="images/case2/output.jpg" width="300" alt="输出结果">  |
-| <img src="images/case2/input3.jpg" width="300" alt="输入图片"> | <img src="images/case2/output3.jpg" width="300" alt="输出结果"> |
-| <img src="images/case2/input2.jpg" width="300" alt="输入图片"> | <img src="images/case2/output2.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/1a157dff97e8154d112029fa5d463110db0c8fa694db7e2d1911158755771bb1.png" width="300" alt="输入图片">  | <img src="../../../_media/7a6023697f2aa5d574f72c2b27235dfecfdcd309ed9c760600632e9d5f12a531.png" width="300" alt="输出结果">  |
+| <img src="../../../_media/295bdf2685c71236850e0cef2d4c8132c82c4f6df3323453e15f85bdb4bd78e4.jpg" width="300" alt="输入图片"> | <img src="../../../_media/0d38dce11e3638b8a97b76723f691960097e76f47a79c4b2ace7953a9464fff3.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/244c02fbab23e1e2c66882e12c9ac73da776c7b1c0982326ec2626a9c3fc48d5.jpg" width="300" alt="输入图片"> | <img src="../../../_media/59eef9b61260219c28025665fab38cfbf50e0fc01b964d17a1f17bc263446ac4.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需要上传一张包含红色箭头的google maps图像
 
@@ -1568,7 +1570,7 @@ A：角色外观参考
 
 |                              输出                              |
 | :------------------------------------------------------------: |
-| <img src="images/case3/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/c449de0b86420a98068bd95193f10a1c70c27ace75d01375ed8cbcf4a66dee1d.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -1586,8 +1588,8 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case4/input.jpg" width="300" alt="输入图片">  | <img src="images/case4/output.jpg" width="300" alt="输出结果">  |
-| <img src="images/case4/input2.jpg" width="300" alt="输入图片"> | <img src="images/case4/output2.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/710edcb642d816d9cb98d9e99f79aef964790f1a18aa527a3337cc17897e5605.png" width="300" alt="输入图片">  | <img src="../../../_media/48b2d610fe0130bd858711e06a67122f3f0aa6647e6f8f91f6172a68804fc39c.png" width="300" alt="输出结果">  |
+| <img src="../../../_media/0b63d937713eef5e3313c9603c1d7c12b8e384130f2c031856c2554248ff5969.png" width="300" alt="输入图片"> | <img src="../../../_media/b18eeb4d00c342b9df02bdb70c10bc86dbcbd5c73e1f020f143e404859a96d88.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张包含对应物体的图像
 
@@ -1605,7 +1607,7 @@ A：角色外观参考
 
 |                             输入                              |                              输出                              |
 | :-----------------------------------------------------------: | :------------------------------------------------------------: |
-| <img src="images/case5/input.jpg" width="300" alt="输入图片"> | <img src="images/case5/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/5eaeeb8b008504fbf25c60b7c40769a7e8a88c55907cc880fcc7030465dd3fbf.png" width="300" alt="输入图片"> | <img src="../../../_media/c2b61823ab1bf8012bf1b20c11ab2841855870fcf6b1d4ac865ac0959c36e2b4.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物的照片
@@ -1630,7 +1632,7 @@ A：角色外观参考
 
 |                             输入                              |                              输出                              |
 | :-----------------------------------------------------------: | :------------------------------------------------------------: |
-| <img src="images/case6/input.jpg" width="300" alt="输入图片"> | <img src="images/case6/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/35eb6bc72170a2f2a91aefdbced80546fea1d8de26ec8cb03c370cbfd3fa04e2.png" width="300" alt="输入图片"> | <img src="../../../_media/39412de79384ea30078b185de13571af4ef63132a59c351b26a67f79ddf888dd.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传多个参考图
@@ -1649,7 +1651,7 @@ A：角色外观参考
 
 |                             输入                              |                              输出                              |
 | :-----------------------------------------------------------: | :------------------------------------------------------------: |
-| <img src="images/case7/input.jpg" width="300" alt="输入图片"> | <img src="images/case7/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/7a8d6e910cce35fb49bda82ab742313c43116d3686283dbf7c9c5a694b73c911.png" width="300" alt="输入图片"> | <img src="../../../_media/d840c24afd3fc237391791df22c6ff9e996aba34817c89b2f7d9abb892bba527.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张需要进行修正的图像
@@ -1665,7 +1667,7 @@ A：角色外观参考
 
 |                             输入                              |                              输出                              |
 | :-----------------------------------------------------------: | :------------------------------------------------------------: |
-| <img src="images/case8/input.jpg" width="300" alt="输入图片"> | <img src="images/case8/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/39d1c135468a1dce20a7d051e86d9ba0cb1420f8ce2ce8018e3ce0386cadef69.jpg" width="300" alt="输入图片"> | <img src="../../../_media/b49e7f2d88b913483bd36743236a1a39707e45636cf46b3533c9cb280cb25b42.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传角色的图像以及手绘草图
@@ -1681,7 +1683,7 @@ A：角色外观参考
 
 |                             输入                              |                              输出                              |
 | :-----------------------------------------------------------: | :------------------------------------------------------------: |
-| <img src="images/case9/input.jpg" width="300" alt="输入图片"> | <img src="images/case9/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/7e34643f3be30941e9c5dc1df2cba5db21e88edb632c0e11232074b63d1a5c2c.png" width="300" alt="输入图片"> | <img src="../../../_media/c14051a14fdf17e614751a47ca249213affd94d9479b11d73043af7e574ffc05.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张地面上拍摄的照片
@@ -1697,7 +1699,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case10/input.jpg" width="300" alt="输入图片"> | <img src="images/case10/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ef9c813af88d624ef851ed3b85154d10673d2a80b80a05752dfe64ed3bacd2c7.png" width="300" alt="输入图片"> | <img src="../../../_media/60e671a134a4b4d3c7858cb67f1a1f3b0146c6cabfbc1d9f9ec86f43ba694fb5.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张贴纸参考图以及一张人物图像
@@ -1713,7 +1715,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case11/input.jpg" width="300" alt="输入图片"> | <img src="images/case11/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/dfb480087229bf11a80e464c203613ace437cace09aeb0262fdcfd1d225c6330.png" width="300" alt="输入图片"> | <img src="../../../_media/bd9e08249ad76a0cadade6dcbd1fa30fc0e8e9f49bc770260610c00beb60f264.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张插画图像
@@ -1729,7 +1731,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case12/input.jpg" width="300" alt="输入图片"> | <img src="images/case12/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/dfb480087229bf11a80e464c203613ace437cace09aeb0262fdcfd1d225c6330.png" width="300" alt="输入图片"> | <img src="../../../_media/91b05099b44aab4960ab93ee2ef0fba34d2f345b37f253841870ee36ee937a02.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张角色参考图像
@@ -1755,7 +1757,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case13/input.jpg" width="300" alt="输入图片"> | <img src="images/case13/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/7a6c3a676c6e8d21c803154b653f6c648a4cddf9e57c669ca176d24cabe5fe91.png" width="300" alt="输入图片"> | <img src="../../../_media/eef66baca5a4936328f21781c5a61a3ac145bf96955ded14e2718bc8ca183190.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张线稿图和一张色卡图
@@ -1771,7 +1773,7 @@ A：角色外观参考
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case14/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ba1a05fec67f563c4ba1c6afe3af8c58568a415a14322a31c9f2343aa619f476.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一段博客/文章
@@ -1792,7 +1794,7 @@ A：角色外观参考
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case15/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6060ee895e11f9974240800563be312b8afc68f442db4a84d9a094ef2bea0d1e.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张需要更换发型的人像图片
@@ -1808,7 +1810,7 @@ A：角色外观参考
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case16/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/551b51d03504fdc00002a1c1a8c986923dca09ff1fe5e8daae7ca0c7f306b30a.png" width="300" alt="输出结果"> |
 
 > [!CAUTION]
 > 标注结果中存在较多错误 ⚠️。请注意，Nano-Banana 的标注结果并非完全正确，在使用时务必仔细核实信息的准确性。
@@ -1827,7 +1829,7 @@ A：角色外观参考
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case17/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b93971bd15ca6a248e0e07dfae1d516320076f8d02d7ff557fbea8a048833ff0.png" width="300" alt="输出结果"> |
 
 **输入：** 需上传一张参考图像
 
@@ -1842,9 +1844,9 @@ A：角色外观参考
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case18/input1.jpg" width="300" alt="输入图片"> | <img src="images/case18/output1.jpg" width="300" alt="输出结果"> |
-| <img src="images/case18/input2.jpg" width="300" alt="输入图片"> | <img src="images/case18/output2.jpg" width="300" alt="输出结果"> |
-| <img src="images/case18/input3.jpg" width="300" alt="输入图片"> | <img src="images/case18/output3.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/fd7c5edf00ee74ad457f4a3b0e824c46253926f7a3c65dd15ed6e416afa298e5.png" width="300" alt="输入图片"> | <img src="../../../_media/7034e3426e753eea9699fe466f49711d4e750c31ec8bb31cc061ec1001720401.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/a0e11bfa468566242504f66c13d91867dca3bee12734bb514f66fa14e7ce03c1.png" width="300" alt="输入图片"> | <img src="../../../_media/fb2b3e831eca1678cc169e33d5fa101d382f1031b1ac8be4f1f2939aaab775f4.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/572d012ce3feacb739baeccdd0f8467bcd7afd47be642c79dac0710eebad5a38.png" width="300" alt="输入图片"> | <img src="../../../_media/d2f55ff8ab11a1b5a0683a76eb24381076fae93aca1a8b395e8358763ea8179e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张带有多种食材的照片
 
@@ -1859,7 +1861,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case19/input.jpg" width="300" alt="输入图片"> | <img src="images/case19/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/cb0e91f515bcff3841f2e450aa750bf1c2c680795b56fc773847d4dd93268fde.png" width="300" alt="输入图片"> | <img src="../../../_media/c3fc152ee1d10b1362fe527c10d2303c4100a29e3cfd9d759e45b0d22ad7a029.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一道数学类的题目
@@ -1875,7 +1877,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case20/input.jpg" width="300" alt="输入图片"> | <img src="images/case20/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/2bbe5e640d1e714c47567304cfeed681ac9d6f3fca093a084feea02513515cce.png" width="300" alt="输入图片"> | <img src="../../../_media/5a12ef4a8420d52ff42227f337ea4747a38faafc0c50892b6caa923ef25f5311.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张老旧、需要修复的照片
@@ -1891,7 +1893,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case21/input.jpg" width="300" alt="输入图片"> | <img src="images/case21/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6245b34845593328dcf4f4b757a6592770209291e0f25006635ed74def5528ee.png" width="300" alt="输入图片"> | <img src="../../../_media/70d977b9b75bce30693d1ae4192f236b2837c59cdb1c62faa5e661213f9815b6.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物图片和服装图片
@@ -1907,7 +1909,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case22/input.jpg" width="300" alt="输入图片"> | <img src="images/case22/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/930743e36298f3ae2188375c20c8d172055d62207f6e2e26464dfdfb077e2254.png" width="300" alt="输入图片"> | <img src="../../../_media/1dbc79d9a85190dd3bc913ae50c096424deece89859af2c7075e8b26673517fb.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传人物图像和衣服图像
@@ -1923,7 +1925,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case23/input.jpg" width="300" alt="输入图片"> | <img src="images/case23/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/869dedcfd6e30e78c608397a7ccdd9570280e1e3f65388ece67e491469034b32.png" width="300" alt="输入图片"> | <img src="../../../_media/00b3b9f786f4a3ca3d44e045ca8762ee9bddd0771c6431b0c958e9f06cbbd43d.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -1935,11 +1937,11 @@ A：角色外观参考
 ```
 
 <!-- 例 24: 电影分镜（by @GeminiApp） -->
-### 例 24: 电影分镜（by [@GeminiApp](@GeminiApp)）
+### 例 24: 电影分镜（by [@GeminiApp](https://x.com/GeminiApp)）
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case24/input.jpg" width="300" alt="输入图片"> | <img src="images/case24/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6c5aae56122f471fecd1ef4bfee80f4ac235695db8f2407699bb5a9b35bfa370.png" width="300" alt="输入图片"> | <img src="../../../_media/b470833070c3aceb0a0a50b2ed419c99b7e2e6586922ebb6adffae6126c8dc2c.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -1955,7 +1957,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case25/input.jpg" width="300" alt="输入图片"> | <img src="images/case25/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/276264420688effdf1acffdf28429afb168235d6889619554b8cf842cf2f6e95.png" width="300" alt="输入图片"> | <img src="../../../_media/51c400a0cc20de67805c6023f2389bca0e5d62a3f89aaa224858c4d3033fa29f.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -1971,7 +1973,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case26/input.jpg" width="300" alt="输入图片"> | <img src="images/case26/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/5caae067c4e85aeca830aea62ff3ff7791c063352b4548676d96fcb321fc1857.jpg" width="300" alt="输入图片"> | <img src="../../../_media/d389fcff7114cbbea6b8a43c07c2f8f76302fef20bac27d32aa43ad3eef1a360.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传线稿图和参考图像
@@ -1987,7 +1989,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case27/input.jpg" width="300" alt="输入图片"> | <img src="images/case27/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/2d23d0547e1e0e1cc623a58e86ffe6dc5f9d2936ee442ca12bb2d3b33446d0d7.jpg" width="300" alt="输入图片"> | <img src="../../../_media/8817008ceba937d2df1d4f2fdc3e51266380314b0e32127b2cb24ef0be468cac.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传参考图像
@@ -2003,8 +2005,8 @@ A：角色外观参考
 
 |                               输出                               |
 | :--------------------------------------------------------------: |
-| <img src="images/case28/output.jpg" width="300" alt="输出结果">  |
-| <img src="images/case28/output1.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b2a1f7feda78fb3375e4522c710125db91b873c4a57e83083af92a569e83a9c4.jpg" width="300" alt="输出结果">  |
+| <img src="../../../_media/f186acf286d1d1a22a7d5ec776dd4208624d3fbb69a24817f94daa43f89657aa.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2017,7 +2019,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case29/input.jpg" width="300" alt="输入图片"> | <img src="images/case29/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/2ff382124263d50f53b1ea73ce8d0724d671e7972b26d6ec34f82c0a31b02b05.jpg" width="300" alt="输入图片"> | <img src="../../../_media/a8a2a42c72c3231f5750f386e27429d34b7d7f69ff8b52fb4e7be065f0d1301e.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -2032,8 +2034,8 @@ A：角色外观参考
 
 |                               输出                               |
 | :--------------------------------------------------------------: |
-| <img src="images/case30/output.jpg" width="300" alt="输出结果">  |
-| <img src="images/case30/output1.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/13293d49b71cb0472560db17b654d41a9caa9013e674808b9c9f318866d32a09.jpg" width="300" alt="输出结果">  |
+| <img src="../../../_media/5bb6c58609442a5fc0e44c95032c10842df073c5e2d80d32b128002323d8c059.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -2048,7 +2050,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case31/input.jpg" width="300" alt="输入图片"> | <img src="images/case31/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/9db07d4df54c449bc0bb1766244bc9f7883fc6a831b665d00fde30fa55eadc40.jpg" width="300" alt="输入图片"> | <img src="../../../_media/04c221d078a9797f9bdb3ae5ee95052b81d117023c6d82c748e539a0ff4da66b.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -2063,7 +2065,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case32/input.jpg" width="300" alt="输入图片"> | <img src="images/case32/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/9db07d4df54c449bc0bb1766244bc9f7883fc6a831b665d00fde30fa55eadc40.jpg" width="300" alt="输入图片"> | <img src="../../../_media/7b864d912c7c5893ec9f6103cd4e3632b3b7d1de024b8c4f6bae318cf866fdd2.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传参考图像
 
@@ -2081,7 +2083,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case33/input.jpg" width="300" alt="输入图片"> | <img src="images/case33/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/e1e256fdac11da25386bedbbdf923ca0b7e3372d1f5fb628d1df8907024c4d44.jpg" width="300" alt="输入图片"> | <img src="../../../_media/09f946e125d0043d5ddeacbd052a7ebf209f2de4b4764ce8c23bf82d4458b3b8.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传地图的参考图像
 
@@ -2096,7 +2098,7 @@ A：角色外观参考
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case34/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/78524b4ec1011b39ba3bfc453dc2d6c5db6d50561a4104891a623e9c48e22510.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图和一张表情参考图
@@ -2112,7 +2114,7 @@ A：角色外观参考
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case35/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/033237431011ae0d29b720e4020c091d5c1cbd8af1fac827ea8701c63a3477e0.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -2128,7 +2130,7 @@ A：角色外观参考
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case36/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/0473553ee7d7272922c87916d25b91e8738c4223a1792f6313bbca3100b0be94.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像和一张妆造参考图片
@@ -2144,7 +2146,7 @@ A：角色外观参考
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case37/input.jpg" width="300" alt="输入图片"> | <img src="images/case37/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/8957e8461e1256e1f4d5224c825a45a8b2a77befa7a0dbbf9c4f64ad7d038a0a.jpg" width="300" alt="输入图片"> | <img src="../../../_media/182e14f54e4019395b1ed40146eb450a46d43d3e82d539311b3eef14e0c9845d.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -2161,7 +2163,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case38/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/f4d0bdee9845b09226c5952e2fbf3b277ebb37b488a4f21ee2140976e8b86edf.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2177,7 +2179,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case39/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/60e6fa208b8dd929d734a7c4fc7c342c4dd2535f8aacb228cfb939bb75f5c96c.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2193,7 +2195,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case40/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ce894fe685c27c95ae7f9280a871a28e582adae13d2073112f4cde357c2adbb9.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -2209,7 +2211,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case41/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/21d479bfabfef86094dc29daab3fa4c8e05688b0faa1a700b0d569d6e1d846cf.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张物品参考图像和一张包装参考图片
@@ -2225,7 +2227,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case42/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/9012bbe9825c20317a645e3cd16fccf9e785d37dce27b3a655e43e45dd665810.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像和一张滤镜/材质参考图片
@@ -2244,7 +2246,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case43/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/f4b4480e748e72a0d1ad5dcef6dcb670427a78c7db7c4dffa938b0c8525673c2.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像和一张脸型参考图片
@@ -2260,7 +2262,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case44/case.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/af96e0ac0b5fa004e7d86614addd4789cb8c6d52738b42e3cbac88ed91a8987c.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像和一张光影参考图片
@@ -2276,7 +2278,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case45/input.jpg" width="300" alt="输入图片"> | <img src="images/case45/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b68cbf2b7ced5f8e5fc7bb941173ff70fc06b57efa0f2cac600a81aa57277f93.jpg" width="300" alt="输入图片"> | <img src="../../../_media/c31ba02567fd1b4dbaf32169a6b7d562afa7080a551023b9e016a039564b2ef4.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2292,7 +2294,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case46/input.jpg" width="300" alt="输入图片"> | <img src="images/case46/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b68cbf2b7ced5f8e5fc7bb941173ff70fc06b57efa0f2cac600a81aa57277f93.jpg" width="300" alt="输入图片"> | <img src="../../../_media/828ef13e2214eac3f2f666278ab6057c777621e381fbd3b0bb3ae830a8471666.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2308,7 +2310,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case47/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/8cdd5b5b1030f27be4746da37306a8831299d7a16da0a909a4d801f8e338e69e.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2321,7 +2323,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case48/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/bbda5a78ff0eaf50301053821fb0443777da0310c9c5833eb015282102ae7c5f.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张食物参考图像
 
@@ -2336,7 +2338,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case49/input.jpg" width="300" alt="输入图片"> | <img src="images/case49/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/e0a6f4a3fb69b8857a96f8ff31bb1cab0e8a08ff5dd44fc0439b409a1718af33.jpg" width="300" alt="输入图片"> | <img src="../../../_media/712f26c0b0120eaf93e7a63de58f4e41a6f530bdc3a25b7efa8f8103dbd39207.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2354,7 +2356,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case50/input.jpg" width="300" alt="输入图片"> | <img src="images/case50/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6031026927fa144233e1b5c4c3de4473ba9a691d7f2c64d51f2a0b91bbf00c49.jpg" width="300" alt="输入图片"> | <img src="../../../_media/6a1fdb160371fd3d9ef74d259572402d0e224b9eebc8557227e9df4b59902ffd.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张带有未知棋盘格信息的参考图像
 
@@ -2369,7 +2371,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case51/input.jpg" width="300" alt="输入图片"> | <img src="images/case51/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/90b0d3e4c5373a69f2a4bf9be0e3f33f19e6367d4e4479f07492d33829ff7aaa.jpg" width="300" alt="输入图片"> | <img src="../../../_media/faea44027e250e1c8b7775662a598d0d9f183a02459eeab0d92d5ff50f56e8e3.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张古代的参考图像
 
@@ -2384,7 +2386,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case52/input.jpg" width="300" alt="输入图片"> | <img src="images/case52/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/eef1378d8f0093b4cbe431f024716c52767889d139af647cbf95d7c02e6a7c37.jpg" width="300" alt="输入图片"> | <img src="../../../_media/3deb0e7a2c7e0f9e268717e5b1cc2702128255b073b9592ce7b151b3173dd237.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2399,7 +2401,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case53/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/f7ec33c81ffb1355fa375abdcc1e46c456addf5618b1241b98019e15e78eeb9d.jpg" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2415,7 +2417,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case54/input.jpg" width="300" alt="输入图片"> | <img src="images/case54/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/283a675c2e784e3766e489c17f6360cc52cb308dd562a2489728025cf7d0ad14.jpg" width="300" alt="输入图片"> | <img src="../../../_media/c383933783865dc5823b840bc9d794fac8856a311860759da688b4128eef97b2.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2430,7 +2432,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case55/input.jpg" width="300" alt="输入图片"> | <img src="images/case55/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/283a675c2e784e3766e489c17f6360cc52cb308dd562a2489728025cf7d0ad14.jpg" width="300" alt="输入图片"> | <img src="../../../_media/9651f701bc97219a1d3195a9f402fe4eb9e4b950ce881792502bbef99c2296d0.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2445,7 +2447,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                                                              输入                                                              |                              输出                               |
 | :----------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case56/input.jpg" width="200" alt="输入图片"> <img src="images/case56/input2.jpg" width="200" alt="输入图片"> | <img src="images/case56/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/fcb3404252e9febd392092b48bf06b4a17dd31b0713c8667b8a7a60aa2b96bb7.jpg" width="200" alt="输入图片"> <img src="../../../_media/154d03bff84ec96b4a945e063846ae237ea0887582defb0d05acb5104b07b478.jpg" width="200" alt="输入图片"> | <img src="../../../_media/03492a7110cfef345f25f6f2fc11f475ef8acbadb33b24ef3b1d9e4f245eeb73.jpg" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像和场景构图参考图像
@@ -2455,7 +2457,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case57/input.jpg" width="300" alt="输入图片"> | <img src="images/case57/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6fe36ecbc834c1ffde0d84f90fe1d653b81741486f1adf248c88fffbd6582b5a.png" width="300" alt="输入图片"> | <img src="../../../_media/79941b17de08bc61a41abdf99b81711f6084e0275e71b1a3ff2cc5189f477bec.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2470,7 +2472,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case58/input.jpg" width="300" alt="输入图片"> | <img src="images/case58/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/d2a99ea2772cd1a0d74baea2f4fa16a1a0ebb7907e10f0b7b1c1025ab4131788.png" width="300" alt="输入图片"> | <img src="../../../_media/0c5a3cc7274fa35a703a170a20c4bf7e813b643ab6d0155bd10e1e18e974344a.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张线稿参考图像
 
@@ -2485,7 +2487,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case59/input.jpg" width="300" alt="输入图片"> | <img src="images/case59/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/651cca6ac722651f4f46bd0ad24d2f66c534e7f25db80f3cf9a706e46572798f.png" width="300" alt="输入图片"> | <img src="../../../_media/4678653cdf0ea203dc22a3d1afc626a5b5319bba792ae25e26da811fe9b8d945.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张google map参考图像
 
@@ -2500,7 +2502,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                           示例                            |
 | :-------------------------------------------------------: |
-| <img src="images/case60/case.jpg" width="300" alt="示例"> |
+| <img src="../../../_media/b5a07058e6fd9b4da175b5d1198ae9638d348926d1c453639625d3c4ed613b0b.png" width="300" alt="示例"> |
 
 
 **输入:** 需上传一张参考图像和一张材质球图像
@@ -2516,7 +2518,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case61/input.jpg" width="300" alt="输入图片"> | <img src="images/case61/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/98ba72a0a1b02d417156f70b233c996bb6cd42886d8053b7adff9d36642a51b0.png" width="300" alt="输入图片"> | <img src="../../../_media/4512fdb6400aa42c7b22bf98b9c27468e6ba7465cc334940fc1ec070b4206d9a.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张平面参考图像
@@ -2532,7 +2534,7 @@ Analyze this image. Use red pen to denote where you can improve
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case62/input.jpg" width="300" alt="输入图片"> | <img src="images/case62/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/577ecb8fb34969a1ed4c7f710770f05810b1c1aeffdfe0f07a81a80677173511.png" width="300" alt="输入图片"> | <img src="../../../_media/c4329b9b4ba21b4f55f1afbfb5888549c1d157031ca33e6d88b98547aec8f604.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2551,7 +2553,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case63/input.jpg" width="300" alt="输入图片"> | <img src="images/case63/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/2671134d30cf74797804006a47a613d1c8a67154f0e5be42c252d6bbd42f05d8.png" width="300" alt="输入图片"> | <img src="../../../_media/136eee52ecf676d65eac117d270b1e806c3112b396544f7e251fd1a0d88e01bc.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -2571,7 +2573,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case64/input.jpg" width="300" alt="输入图片"> | <img src="images/case64/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/0343e723f2d58f081dff0541824f3cd481fad5a846f5f23cb9becdd57831a33c.png" width="300" alt="输入图片"> | <img src="../../../_media/600b2afafc4a21e96286c32eaa1ed00f01a01757977a13ff4bb4accc01a8bb2e.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2587,7 +2589,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                           示例                            |
 | :-------------------------------------------------------: |
-| <img src="images/case65/case.jpg" width="300" alt="示例"> |
+| <img src="../../../_media/2a54b468516c6238e517a6278789368662d29c41d86fee1dac2af610d348b64d.png" width="300" alt="示例"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2603,7 +2605,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                           示例                            |
 | :-------------------------------------------------------: |
-| <img src="images/case66/case.jpg" width="300" alt="示例"> |
+| <img src="../../../_media/e258b243fe060056728f08ac49530d0847dc9dc2bb06ad7f3b5d3d00a40f5173.png" width="300" alt="示例"> |
 
 **提示词:**
 
@@ -2616,7 +2618,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case67/input.jpg" width="300" alt="输入图片"> | <img src="images/case67/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/ad6d09531fd618d2a4225b9a4b4558616cb9e1ece59496f889365dc39688cdd1.png" width="300" alt="输入图片"> | <img src="../../../_media/f8fcad6df8b219adecfd06e1537bab8ee7e4b0f53261c35bae5a712fc8eb2723.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2632,7 +2634,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case68/input.jpg" width="300" alt="输入图片"> | <img src="images/case68/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/49771eb88f132e50c244f8e623cd42f6ff3a6d08fd076d59f9fa4d4c6483af7f.png" width="300" alt="输入图片"> | <img src="../../../_media/bf36879e0ef10264dd0c46d57e1a19fd205e4b24f64ce03dd27327343d12aa73.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -2648,7 +2650,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case69/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/f0181be3c7cf866ae97766256986bd51c93fe069b71d200bf414863828271ef6.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2692,7 +2694,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case70/input.png" width="300" alt="输入图片"> | <img src="images/case70/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/9be5ec357e156293c82adead597f76a7a92a7fa1f1595da606f7e6feeffb1933.png" width="300" alt="输入图片"> | <img src="../../../_media/49d094da2d534cdd0ba028cade14cd3220cf0ab2b7442a1b94cb12606d33a02e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张人物参考图像
 
@@ -2707,7 +2709,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case71/input.png" width="300" alt="输入图片"> | <img src="images/case71/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/55019823fe18bd3a8d101efa59d20c849e6bd6c426bd040de0ca77e17b19edd7.png" width="300" alt="输入图片"> | <img src="../../../_media/26a375e5f8cd5ee7b8942c3e30d285a73c7cae926b950fd8e666525bbaad326f.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张遥感图像
 
@@ -2722,7 +2724,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case72/input.png" width="300" alt="输入图片"> | <img src="images/case72/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/5590306c3fd51dac9090d259ec8c17234a0e7420887ee155cfbb87edd88541d9.png" width="300" alt="输入图片"> | <img src="../../../_media/ebfe5c273bc23d36ee8f5300dabf0b85e108b69151ced50a0802f00b104344e4.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张模型的图像
 
@@ -2737,7 +2739,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case73/input.jpg" width="300" alt="输入图片"> | <img src="images/case73/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/b6014fd86275331fdc9fc21ee11f13458de6c8836e27b9e5b5155cf4e98124e7.jpg" width="300" alt="输入图片"> | <img src="../../../_media/1e6b38c2544345152e73877279be706658c19a395bdc0ac7e293cdeec9de6760.jpg" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张汉堡的图像
 
@@ -2752,7 +2754,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case74/input.png" width="300" alt="输入图片"> | <img src="images/case74/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/9d26c1481f5985b35e300277048204b5bcd31598ff54eb579e54d939a21bf116.png" width="300" alt="输入图片"> | <img src="../../../_media/b23dae61d746c0866812b009983a03868da70dba9270376a9db279a357814c91.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2767,7 +2769,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case75/input.png" width="300" alt="输入图片"> | <img src="images/case75/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/eb0b7ad98a7232e523791812ac730524ccaa360280df48238b0325853e8e0960.png" width="300" alt="输入图片"> | <img src="../../../_media/2b072472d2b520b32a1bd4f71e469fb5f0e9dfa2060e4d63647e629fab1482fe.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2782,7 +2784,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case76/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/fa927011d94721d6b451157755b856bb8cc03c6c47910b0de65c90a4c08db27c.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -2795,7 +2797,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case77/input.png" width="300" alt="输入图片"> | <img src="images/case77/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/c9f687ac4715033e57967065175be0c49253f41b11f57a934fbafc1ec96d4582.png" width="300" alt="输入图片"> | <img src="../../../_media/3495f625fbed59df3e7a5278089e25361d4e3046643938e59dae06c01b616987.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2812,7 +2814,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case78/input.png" width="300" alt="输入图片"> | <img src="images/case78/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/f1fcba1847b97db007cd22f4ef822302f2b782f3d00d8c3c76978a0665db0869.png" width="300" alt="输入图片"> | <img src="../../../_media/48612f5a8e4e638c1a0cffa35fc64c8487d17c4568da55d6ae6141ae26bfc1cb.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2829,7 +2831,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case79/input.png" width="300" alt="输入图片"> | <img src="images/case79/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/214303857d107b6ccf2327d4c13d407a35ffb5a0818b77c9a71eefe32baadfbc.png" width="300" alt="输入图片"> | <img src="../../../_media/216cc533678e94b56f24a501b5d38cb7f9b3ff8d87f1953cb2dcb4719a840887.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2844,7 +2846,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case80/input.png" width="300" alt="输入图片"> | <img src="images/case80/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/938903155857275e5582301446711b2842c538dc162dd924a69897d73d01f5d2.png" width="300" alt="输入图片"> | <img src="../../../_media/4b56a6725394886425d1b03da7a376b0489839f57825de81c626a961410de8b0.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2859,7 +2861,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case81/input.png" width="300" alt="输入图片"> | <img src="images/case81/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/283ecb156ad875b930429195b0c9b2219ff9d243543593cc5d78af0dfed9c510.png" width="300" alt="输入图片"> | <img src="../../../_media/f57cf25d65bb34986d17bf286a52a39d5b387a4576922e452767245d888e0d43.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2879,7 +2881,7 @@ RAW-ISO [100] - [F28-1/200 24mm] 设置
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case82/input.png" width="300" alt="输入图片"> | <img src="images/case82/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/d34ccbc07596d8adab946ae60e426c593ed43c0af0b536a7a009bda8e8c23b72.png" width="300" alt="输入图片"> | <img src="../../../_media/9d236259093bea5222773b3f45c3e5601035f6144538097d5d2171b6771fa73e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2923,7 +2925,7 @@ Q版人偶（原作变形版）
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case83/input.png" width="300" alt="输入图片"> | <img src="images/case83/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/ba3f75a8bd75932587067a98571a6a30a6f8a66f79ed1e2c75d8f6e6d44b4ddd.png" width="300" alt="输入图片"> | <img src="../../../_media/e224ad116fa9873e1c4de7177c63db90580e24bf2353adc579d0ec8cb2fbb023.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2973,7 +2975,7 @@ Cosplayer 和角色周边
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case84/input.png" width="300" alt="输入图片"> | <img src="images/case84/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/28011dda77d701bfcd0047c4fbb1fef72c03cb7a3260581c65538dbcd233a965.png" width="300" alt="输入图片"> | <img src="../../../_media/b1048f20ef763e43431e80d14d1267522a48f5dadfb623d71e48e8ff5a5ee8b6.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -2988,7 +2990,7 @@ Cosplayer 和角色周边
 
 |                              示例                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case85/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/8c2a900e23d6940aae5481463bedbfe280136d79ae9f9b64373070d026466a89.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3020,7 +3022,7 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 
 |                              示例                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case86/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/7824f965a48311b7c69b80c99a12b523ec935ad6125417527f5039bc3b68b022.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3037,7 +3039,7 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case87/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/31fc12177e8186e8dd0e885d558e787a80b039a1fa83220992c55afbaa1ce572.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -3050,7 +3052,7 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 
 |                              示例                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case88/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/e8f0e50ac369ec923c48a3165db68c668588cb1a180dc13b778dbedca6ac6856.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3065,7 +3067,7 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case89/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/9ae50172ce574a2a2bd642878a4b14bd82edd2c1de176cc6c4e36c02850a6050.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -3080,7 +3082,7 @@ DoD：整个场馆将是一个围绕参考图像主题的当代艺术作品，�
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case90/input.png" width="300" alt="输入图片"> | <img src="images/case90/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/b5a375165fa655d5c7841ef37cee0d0e433c6ec6674f7de839adcc2906f88057.png" width="300" alt="输入图片"> | <img src="../../../_media/34efd7fc8173b7517c27075851904ba7afcb657ab3d5b7579afc761541333703.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3103,7 +3105,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case91/input.png" width="300" alt="输入图片"> | <img src="images/case91/output.png" width="300" alt="输出结果"> |
+| <img src="../../../_media/5abf853ae6d240051c29a7cd15c5fe62b20f0f2b33efb9c0d7d41daaff79a610.png" width="300" alt="输入图片"> | <img src="../../../_media/b3f005e617f6b59272114d017cce8e4c1221d084f9fa45e7f3e10f0b37fb9797.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3122,7 +3124,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case92/input.jpg" width="300" alt="输入图片"> | <img src="images/case92/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/4a82e158dfc81d1e695dea418b48b05e568d02fce724a31a4c03854f086e5b5b.png" width="300" alt="输入图片"> | <img src="../../../_media/b83b50a0a88eee8f35f79a9a44b28006d208a5278f71336bc9c89685714c61df.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3176,7 +3178,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case93/case.jpg" width="300" alt="输入图片"> |
+| <img src="../../../_media/b5f50e2e588078bd61b0df2930f17df93810ca97cf446c30c38889d36739782e.png" width="300" alt="输入图片"> |
 
 **提示词:**
 
@@ -3194,7 +3196,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case94/output.jpg" width="300" alt="输入图片"> |
+| <img src="../../../_media/6338993b563a166b9227145cffe09d64412825b115c85d5ff03136fe9e2c4f27.png" width="300" alt="输入图片"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3238,7 +3240,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case95/input.jpg" width="300" alt="输入图片"> | <img src="images/case95/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/99c1cd29dc692450aa791d46f2390251d7ee21d08b3a7f6a169b3a2d94779986.png" width="300" alt="输入图片"> | <img src="../../../_media/86c5312293aff7224bd11590dd320f1bd386c788b8fcb4470f056931b49fb376.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3259,7 +3261,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                              |                              输出                               |
 | :------------------------------------------------------------: | :-------------------------------------------------------------: |
-| <img src="images/case96/input.jpg" width="300" alt="输入图片"> | <img src="images/case96/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/6e782e5b9465abd541b23452f27268f2cdf753e06688364a6a50d1bd4d151621.png" width="300" alt="输入图片"> | <img src="../../../_media/f97b3c37a96f87746b12445842c1f9883c4d8ec9060481205f7994bb9776e87e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3280,7 +3282,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                             示例                              |
 | :-----------------------------------------------------------: |
-| <img src="images/case97/case.jpg" width="300" alt="输入图片"> |
+| <img src="../../../_media/0e455bd6f6f8469828b19a4ad38aa707c542a0155dd35c13ccdff64219a3493a.png" width="300" alt="输入图片"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3295,7 +3297,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case98/output.jpg" width="300" alt="输入图片"> |
+| <img src="../../../_media/d8e7383d05538becdc78110605498642ceae12814a0263df99c35bc13d08dfa6.png" width="300" alt="输入图片"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3328,7 +3330,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输出                               |
 | :-------------------------------------------------------------: |
-| <img src="images/case99/output.jpg" width="300" alt="输入图片"> |
+| <img src="../../../_media/5e6c05bde34d234c511fbb71b539e6797218d7cd7f940d1ee89770b9532142d4.png" width="300" alt="输入图片"> |
 
 **输入:** 需上传一张X账户参考图像
 
@@ -3343,7 +3345,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case100/input.jpg" width="300" alt="输入图片"> | <img src="images/case100/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/82fea0aa402848e136117e1b048e8a54e5a6589eed9234e09e7c4793bdd1331c.png" width="300" alt="输入图片"> | <img src="../../../_media/9a41ee6d7258aa72c37931e50c1ab8810c3495deebf98253e1ac4014d834f71e.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3358,7 +3360,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case101/input.jpg" width="300" alt="输入图片"> | <img src="images/case101/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/5fb29f3f47bd2cf8233ed14d7e1afb5b0f6b258c9e5c45b60ae04371fbca2e0e.png" width="300" alt="输入图片"> | <img src="../../../_media/0344bd7e26233d53afc9344d7cec57d82f68a8966493304debc7db07252fe0bf.png" width="300" alt="输出结果"> |
 
 **输入:** 需上传一张参考图像
 
@@ -3376,7 +3378,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                               输出                               |
 | :--------------------------------------------------------------: |
-| <img src="images/case102/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/71e85059d8fd6c2629d6ba1e48aeac706c75140e685a18bacf51c179078b5994.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -3396,7 +3398,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case103/input.jpg" width="300" alt="输入图片"> | <img src="images/case103/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/c76bed8df680b8b60eb8b39bf83b7f3b084ac915ab6b8f3bbf440c89aa100405.png" width="300" alt="输入图片"> | <img src="../../../_media/41a635096223412fb8efd771100bb723373232cc804d4658f659928daafe0c86.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -3418,7 +3420,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                               输出                               |
 | :--------------------------------------------------------------: |
-| <img src="images/case104/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/38125080ffeb5a4c09c8441a450d5f3a940d4dde497df587d6bbc405ec2650d4.png" width="300" alt="输出结果"> |
 
 **提示词:**
 
@@ -3448,7 +3450,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case105/input.jpg" width="300" alt="输入图片"> | <img src="images/case105/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/5943860ea1b1314c1139672c24ae8e3a66231adcd0c41e988582da15e78959a0.png" width="300" alt="输入图片"> | <img src="../../../_media/36bc96d42f3af6dccd657325f2c39ce19507af177fc35b9e18e4c77f311fd8ae.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -3474,7 +3476,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case106/input.jpg" width="300" alt="输入图片"> | <img src="images/case106/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/81f3fc159c77538ee9924e2331e1a4a694100f3e60fee906ea13394ab3135e29.png" width="300" alt="输入图片"> | <img src="../../../_media/ae572c7dc8cadd2d019906f6cff347af7a78e1fbcff81ca5b5bdcb5cb8579096.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张包含文字的参考图像
@@ -3490,7 +3492,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                              输入                               |                               输出                               |
 | :-------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case107/input.jpg" width="300" alt="输入图片"> | <img src="images/case107/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/0c6f1c5e6f775b06bebe9aefa20401b7cdc8493856457593862e04b1185bb833.png" width="300" alt="输入图片"> | <img src="../../../_media/d2d7ab7b926e5916dbdd8275ec00d9c63a8a725ca9f4367069abe53fa538a1b1.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张参考图像
@@ -3514,7 +3516,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                                                               输入                                                                |                               输出                               |
 | :-------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------: |
-| <img src="images/case108/input1.jpg" width="200" alt="输入图片"> <img src="images/case108/input2.jpg" width="200" alt="输入图片"> | <img src="images/case108/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/716e87881562a077a94e514157f76de4d78bbb78f202956fb280a49aea27e83f.png" width="200" alt="输入图片"> <img src="../../../_media/6ea97f5af766446837d6b79a1a7e84e877907e5c1abdf6a36e7d92f0b72adf2f.png" width="200" alt="输入图片"> | <img src="../../../_media/281e499f2382753daa878c10269a2af0a57c0fbd8275cdaebc25a969ecb637ec.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张表情参考图和人物参考图像
@@ -3530,7 +3532,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                               输出                               |
 | :--------------------------------------------------------------: |
-| <img src="images/case109/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/7ce4fd913ef2864ea07cfc89b0f4280c7df22aafd04f583b5bd2edb4cfc428ad.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -3563,7 +3565,7 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 |                               输出                               |
 | :--------------------------------------------------------------: |
-| <img src="images/case110/output.jpg" width="300" alt="输出结果"> |
+| <img src="../../../_media/f615fe45c293cfaa01aef5aceb115f54ff4368ebbcc2eb85c078d721a9bb08d4.png" width="300" alt="输出结果"> |
 
 
 **输入:** 需上传一张人物参考图像
@@ -3665,4 +3667,4 @@ Vtuber的表情和姿势可以与原图有所差异。请让Vtuber手持游戏�
 
 我们收集的案例无法覆盖所有可能的应用场景，如果大家有其他更有意思的发现🔍，欢迎大家与我们联系以展示更多创意📧！
 
-[![Star History Chart](https://api.star-history.com/svg?repos=PicoTrex/Awesome-Nano-Banana-images&type=Date)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)
+[![Star History Chart](../../../_media/23d88777a018f8d0d34181a55e8f405c43f5cb316a652cd9e8257e230fa0678a.svg)](https://www.star-history.com/#PicoTrex/Awesome-Nano-Banana-images&Date)

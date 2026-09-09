@@ -98,7 +98,7 @@
       "bytes": 1917
     },
     {
-      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/gpt-image-1/NOTICE-openai.md",
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/gpt-image-1/NOTICE-openai.md.original.txt",
       "source_path": "gpt-image-1/NOTICE-openai.md",
       "sha256": "39023cb262d3c56b2f19e7534b776992194a21fe7e39177c1e891efe3c33d492",
       "bytes": 457
@@ -109,5 +109,14 @@
       "sha256": "9d245ca7d995c58609161a47fbf73ab72b7ff0d8d2f4c310133dd956d4c6b01e",
       "bytes": 19078
     }
-  ]
+  ],
+  "rendered_files": [
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/gpt-image-1/NOTICE-openai.md",
+      "sha256": "223f9a50c3cf2e85314cafbd269a10220d960c845bef6996b282e4e64bc0d40d",
+      "bytes": 552,
+      "original_path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/gpt-image-1/NOTICE-openai.md.original.txt"
+    }
+  ],
+  "media_files": []
 }

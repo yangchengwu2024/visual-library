@@ -1,4 +1,6 @@
-> [返回 README 首页](../README.md) | [完整画廊总览](./gallery.md) | [提示词模板](./templates.md)
+> [原始文本](disclaimer.md.original.txt) | [主画廊](../../../../../docs/gallery.md)
+
+> [返回 README 首页](../../../../../README.md) | [完整画廊总览](../../../../../docs/gallery.md) | [提示词模板](./templates.md)
 
 ## 致谢与来源声明
 
@@ -21,10 +23,10 @@
 
 ## Star 趋势图
 
-[![Star History Chart](https://api.star-history.com/svg?repos=freestylefly/awesome-gpt-image-2&type=Date)](https://star-history.com/#freestylefly/awesome-gpt-image-2&Date)
+[![Star History Chart](../../../../_media/9e8adc228ddb8e68998d875376e5f5c5f1bffab6c4e5f6ed87546ed40bc8518f.svg)](https://star-history.com/#freestylefly/awesome-gpt-image-2&Date)
 
 ## 公众号与交流群
 
 微信搜 **苍何** 或扫描下方二维码关注苍何公众号。加入 GPT-Image2 交流群，请关注后回复：**gpt-image-2交流群**。
 
-![苍何微信交流群二维码](../data/images/wechat-community.jpg)
+![苍何微信交流群二维码](../../../../_media/d77c06f916a5d6737596264432d031a70bac8c77214bb98b3328a3d5ef5c5270.jpg)

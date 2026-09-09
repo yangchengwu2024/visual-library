@@ -170,6 +170,9 @@ def sync(root, source_dir=None, revision=None, force=False):
     with library_lock(root):
         archive_documents(root, source_dir, revision)
         result = import_records(root, records, {'name': SOURCE, 'url': 'https://github.com/' + UPSTREAM}, revision, lock=False)
+        from archive_media import repair_source
+        repair_source(root, root / 'sources' / SOURCE / 'upstream' / revision,
+                      {'id': SOURCE, 'repository': UPSTREAM}, source_dir=source_dir)
     return dict(result, status='PARTIAL' if result.get('pending') else 'SYNCED', revision=revision, upstream_cases=len(payload['cases']))
 
 

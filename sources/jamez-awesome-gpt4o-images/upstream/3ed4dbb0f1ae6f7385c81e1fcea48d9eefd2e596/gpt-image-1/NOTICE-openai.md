@@ -1,3 +1,5 @@
+> [原始文本](NOTICE-openai.md.original.txt) | [主画廊](../../../../../docs/gallery.md)
+
 # Third-Party Notice – OpenAI Official Examples
 
 The files `gpt-image-1-en.md`, `gpt-image-1.md` and every image under

@@ -26,7 +26,7 @@
 
 ## 配置方式
 
-Python 3.12+与Git。创建独立虚拟环境并安装`requirements-mcp.txt`；把scripts中的serve_mcp.py、mcp_library.py、library.py、validate_archive.py作为同一套安装文件保存。不要只复制入口而遗漏依赖脚本。
+Python 3.12+与Git。创建独立虚拟环境并安装`requirements-mcp.txt`；把scripts中的serve_mcp.py、mcp_library.py、library.py、validate_archive.py、archive_image_views.py作为同一套安装文件保存。不要只复制入口而遗漏依赖脚本。
 
 Codex的MCP配置使用STDIO，command指向该虚拟环境Python，args为`["-B", "安装目录/scripts/serve_mcp.py"]`。启动超时建议180秒，工具超时60秒；enabled_tools仅包含上述四项。无需GitHub写入凭证（当前仓库公开）。
 

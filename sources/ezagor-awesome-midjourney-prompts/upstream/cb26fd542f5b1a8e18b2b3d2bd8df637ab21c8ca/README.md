@@ -1,3 +1,5 @@
+> [原始文本](README.md.original.txt) | [主画廊](../../../../docs/gallery.md)
+
 # Starting a New Life with Midjourney: Secrets to Generating AI Images
 
 
@@ -8,7 +10,7 @@ It’s a milestone moment for me, and I want to share this opportunity with you.
 
 
 
-![Ezagor_I_will_write_a_medium_blog_about_midjourney _Represent_y_ad123492-d73f-46ab-b6dc-fe5c50301357](https://user-images.githubusercontent.com/45847677/220786502-4eb6bcd4-374d-47cd-a22f-1365029d4d23.png)
+![Ezagor_I_will_write_a_medium_blog_about_midjourney _Represent_y_ad123492-d73f-46ab-b6dc-fe5c50301357](../../../_media/3fa786f6fe74063afd6d6a782bff392577353a2783b482b1468b4f67b7e920c8.png)
 
 
 Have you ever heard of Midjourney? It’s an incredible tool that allows you to generate unique, high-quality AI images in just a few clicks. But, for many people, the idea of generating AI images can be intimidating. What should you write? What kind of image should you aim for? It’s natural to have questions, but don’t let that stop you from experiencing the magic of Midjourney.
@@ -48,7 +50,7 @@ I have +7 years’ experience of the development. I can make app, dApp, web3 sit
 ```
 /imagine prompt:a wise old fire elf, hair made of fire, with a magical staff, resting on a log. Skottie Young comic artwork.
 ```
-![image](https://user-images.githubusercontent.com/45847677/220786955-c5d06d49-1614-4ea4-bdc1-dc3710293512.png)
+![image](../../../../images/43e86981fd76c58abef634cf07cbe04d4a30464456103ea2bacadbcd70bed7bc.png)
 
 
 
@@ -57,130 +59,130 @@ I have +7 years’ experience of the development. I can make app, dApp, web3 sit
 /imagine prompt:8-bit ascii-art
 ```
 
-![image](https://user-images.githubusercontent.com/45847677/220787067-3ec8ec1f-d309-4234-a2dd-55687dbbdc0e.png)
+![image](../../../../images/c0946f4a2e6dfce1f38ef00a473cd51fbe5bbcda0f4c47d5705dfc204803971c.png)
 
 
 * indigenogoth Malachite
 ```
 /imagine prompt:indigenogoth Malachite
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png)
+![image](../../../../images/b829f943b313a2135dff7a21f36f34b8f591019786b4d46c763b5652319d04f7.png)
 
 * geisha malachite and yellow, bioluminescent filigree, beautiful, bloomcore indigenogoth
 ```
 /imagine prompt:geisha malachite and yellow, bioluminescent filigree, beautiful, bloomcore indigenogoth
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787201-45f96bd7-18a0-4895-a014-4ef4516e3893.png)
+![image](../../../_media/7dbdd66bddfa4de95a9ddb38914f6907e34631e83d17062d792d9f55dcfc243b.png)
 
 * angry face made of electronic components and PCB circuits
 ```
 /imagine prompt:angry face made of electronic components and PCB circuits
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png)
+![image](../../../../images/02448ccf0ae3f3a44daff8aa3f7226ba110668690062943c512830ef9ffd953f.png)
 
 * amazing shapes very abstract that look cool, colorful , 2D , pop style , modern, amazing, oh yes!
 ```
 /imagine prompt:amazing shapes very abstract that look cool, colorful , 2D , pop style , modern, amazing, oh yes!
 ```
 
-![image](https://user-images.githubusercontent.com/45847677/220787508-ee36fda4-c2a8-4330-9850-14549c3f8801.png)
+![image](../../../_media/345a91e1233a3e17cd305ef1ca7819416fbf2d87be5c2d3bcf7eda5cda2e1dcb.png)
 
 * VOGUE magazine cover, MALACHITE-punk inspired by a fusion of Gustave Klimt + Jean-Baptiste Monge
 ```
 /imagine prompt:VOGUE magazine cover, MALACHITE-punk inspired by a fusion of Gustave Klimt + Jean-Baptiste Monge
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787565-2ab86152-7f02-4828-8152-b4ccf036dfbc.png)
+![image](../../../_media/c771b1b4a2c06190688a6317929484d123a2fd9f0e97f60fc0f159fa0df1582b.png)
 
 
 * amazing colorful stained-glass mozaic with front portrait of darth vaidor in star wars theme, back light, malachite, 32k
 ```
 /imagine prompt:amazing colorful stained-glass mozaic with front portrait of darth vaidor in star wars theme, back light, malachite, 32k
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787855-987ccf3b-9590-4663-bda2-64860444eec8.png)
+![image](../../../_media/ab87647dd00c125c786725155cf4a51363394ee2de72cc13273a461b45c59d4a.png)
 
 * dusty malachite endless see, child playing with a lobster, radioactive loneliness in teh mornig light, misty
 ```
 /imagine prompt:dusty malachite endless see, child playing with a lobster, radioactive loneliness in teh mornig light, misty
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787911-2f0ab73f-7ad1-42dd-9d54-be0092fb5787.png)
+![image](../../../_media/8a1bb288e2e7724793c46cb99eed577e938492f4f27bc229bc6e4a09cb061081.png)
 
 * black and white adult coloring book illustration, cute wolf cubs playing, nature
 ```
 /imagine prompt:black and white adult coloring book illustration, cute wolf cubs playing, nature
 ```
-![image](https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png)
+![image](../../../../images/de165d53991c9f6a14b8d69e03d235598e7f64d6b693bb90786510ddaa06049a.png)
 
 * illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks
 ```
 /imagine prompt:illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png)
+![image](../../../../images/5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b.png)
 
 * macro photography of particles, realistic, 8k
 ```
 /imagine prompt:macro photography of particles, realistic, 8k
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788092-0a85bce7-969e-47e1-860d-96380c88c4ff.png)
+![image](../../../../images/3000e33b983202c7ea5ebf2a9c086a3c9bc1279c12b719517199fd6c007d0a54.png)
 
 * A malachite Fabergé egg
 ```
 /imagine prompt:A malachite Fabergé egg
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788137-0d55729e-9f0d-4229-a223-89b61d23bb32.png)
+![image](../../../_media/9940f488e5a80c831e6d89543e943cbb92b66cf422b403823adc9f9cfad34259.png)
 
 * cyborg fusion of vinyl record, atoms, nanotubes haute couture, motion capture, minimalistic, by Issey Miyake
 ```
 /imagine prompt:cyborg fusion of vinyl record, atoms, nanotubes haute couture, motion capture, minimalistic, by Issey Miyake
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788207-3ccadf34-0f8d-4f0e-bcea-9b22838126a2.png)
+![image](../../../_media/ce5adabf9e7322471ca461aade33f30b1fcb8aee46f8885098df4d7355a9969f.png)
 
 * digital collage of human lungs made of anormous amount of green garden and meadow leafs
 ```
 /imagine prompt:digital collage of human lungs made of anormous amount of green garden and meadow leafs
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788264-a402fdbc-a202-45f9-af4d-e338d46c229e.png)
+![image](../../../../images/c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc.png)
 
 * panda staying up at night
 ```
 /imagine prompt:panda staying up at night
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788309-dbd7364c-2bc5-4ace-8adc-abcd34dcaabb.png)
+![image](../../../_media/84b6d07d4b8a5331248b14cc09402d3c25890be017e957d81e7e46f4dc477851.png)
 
 * ghost ship, foggy night with moon lighting up the sky
 ```
 /imagine prompt:ghost ship, foggy night with moon lighting up the sky
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788376-ce28ae65-0003-4ce2-9a69-c1f320d44d5c.png)
+![image](../../../_media/2831eacc2d3db24fb1cc25661cf914e87c56898aca441c89f339f2eba828d886.png)
 
 * “Pagan poetry”
 ```
 /imagine prompt:“Pagan poetry”
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788431-aaa94eb8-f2f8-42e4-9dfc-87871c316db5.png)
+![image](../../../_media/ae9d35be4328ce14cce38e017f698727b35d6f62e85e0e8fffb79cfd8f64c831.png)
 
 * Illustration of Winnie-the-Pooh like samurai by E.H. Shepard in pastel colors, dark background, malachite
 ```
 /imagine prompt:Illustration of Winnie-the-Pooh like samurai by E.H. Shepard in pastel colors, dark background, malachite
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788504-aed74e5d-b961-492a-90a7-4795c678cfb5.png)
+![image](../../../_media/4fbe04ca81772e167d5c5fe00a3ca93058cd1b28313b0684dff7cc4da1bf742d.png)
 
 * cute samurai cat
 ```
 /imagine prompt:cute samurai cat
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788566-8b2d0261-ce84-4db4-b710-4922d182d1d5.png)
+![image](../../../_media/9503c314ab18c457cd22d4b6f336e6ccb4f29d36786163bc7fb91f0343c2c3dc.png)
 
 * volkswagen, transporter, futuristic, glow, light flare, camping
 ```
 /imagine prompt:volkswagen, transporter, futuristic, glow, light flare, camping
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788612-cfc6dd21-a373-48f0-8b9c-5ff78dfdd1f8.png)
+![image](../../../_media/e7be95562110e7f285c2509bed0a3d16dac86ea446ee35031f8bec6b390d7a04.png)
 
 * demon of Midjourney
 ```
 /imagine prompt:demon of Midjourney
 ```
-![image](https://user-images.githubusercontent.com/45847677/220788665-aa04b93e-9f55-4318-8905-c9558c6e11a4.png)
+![image](../../../_media/75f9312f41a841df367f6d260ec0c0ec9c1d8b18cbe2850096bce514fd7c8203.png)
 
 
 

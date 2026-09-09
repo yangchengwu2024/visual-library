@@ -1,0 +1,30 @@
+{
+  "files": [
+    {
+      "bytes": 2073,
+      "path": "notices/upstream-disclaimer.md.original.txt",
+      "sha256": "acb1e6b8f0bfa58ff5964ce749a65af20269a8f57bb9d3b4aa849ba55e161e43",
+      "source_path": "upstream-disclaimer.md"
+    }
+  ],
+  "rendered_files": [
+    {
+      "path": "notices/upstream-disclaimer.md",
+      "sha256": "18a9c5eb889922c39edcb005b37447de479d1cb1e56bb154f3e9c1ae323fc012",
+      "bytes": 2230,
+      "original_path": "notices/upstream-disclaimer.md.original.txt"
+    }
+  ],
+  "media_files": [
+    {
+      "path": "sources/_media/9e8adc228ddb8e68998d875376e5f5c5f1bffab6c4e5f6ed87546ed40bc8518f.svg",
+      "sha256": "9e8adc228ddb8e68998d875376e5f5c5f1bffab6c4e5f6ed87546ed40bc8518f",
+      "bytes": 65074
+    },
+    {
+      "path": "sources/_media/d77c06f916a5d6737596264432d031a70bac8c77214bb98b3328a3d5ef5c5270.jpg",
+      "sha256": "d77c06f916a5d6737596264432d031a70bac8c77214bb98b3328a3d5ef5c5270",
+      "bytes": 193425
+    }
+  ]
+}

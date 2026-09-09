@@ -1,4 +1,6 @@
-> [返回 README 首页](../README.md) | [画廊总览](./gallery.md) | [下一册：例 166-476](./gallery-part-2.md)
+> [原始文本](gallery-part-1.md.original.txt) | [主画廊](../../../../../docs/gallery.md)
+
+> [返回 README 首页](../../../../../README.md) | [画廊总览](../../../../../docs/gallery.md) | [下一册：例 166-476](./gallery-part-2.md)
 
 <a name="section-gallery"></a>
 
@@ -10,7 +12,7 @@
 
 ### 例 1：信息图可视化设计
 
-![城市生命系统图谱 / Urban Metabolism Atlas](../data/images/case1.jpg)
+![城市生命系统图谱 / Urban Metabolism Atlas](../../../../../images/eed45ad06a5db696df983c369aa2cc29dfcb406debd5c3623b0eaa9bd03daf61.jpg)
 
 **来源：** 小红书号insight\_express
 
@@ -26,7 +28,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 2：社媒界面截图
 
-![Ailln AI](../data/images/case2.jpg)
+![Ailln AI](../../../../../images/e63059194f98d6dfff159dedbe8855d090904776f8252e5684d7620636c11ca7.jpg)
 
 **来源：** 小红书号4264014889
 
@@ -52,7 +54,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 3：足球主题电影海报
 
-![足球主题电影海报](../data/images/case3.jpg)
+![足球主题电影海报](../../../../../images/905838214eb6cc12c94952579b533ca703a041b7bb4103c2e88153208322c577.jpg)
 
 **来源：** 未提供
 
@@ -68,7 +70,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 4：老干妈风味
 
-![老干妈风味](../data/images/case4.jpg)
+![老干妈风味](../../../../../images/2a44bc56c74eb18ca663bf5eee1a1a84a3d5f36f86c7c81a341a7ef4426061b9.jpg)
 
 **来源：** 小红书号989137706
 
@@ -84,7 +86,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 5：主题海报版式设计
 
-![根据【XXX主题】自动生成一张收藏版史诗叙事海报：...](../data/images/case5.jpg)
+![根据【XXX主题】自动生成一张收藏版史诗叙事海报：...](../../../../../images/beae747181dc84193682f3da4f6684cff15a32c68758d21d61c565f5efbb88ea.jpg)
 
 **来源：** 小红书号6455654397
 
@@ -100,7 +102,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 6：插画艺术创作图
 
-![参考图是角色人设图，为参考图的少女绘制一副日系唯美...](../data/images/case6.jpg)
+![参考图是角色人设图，为参考图的少女绘制一副日系唯美...](../../../../../images/3bc16c60d2b3427cbe3343dc51fae567abb79b1c2924192ace2128d1dd5c7196.jpg)
 
 **来源：** 小红书号yi\_xiao\_jiu
 
@@ -119,7 +121,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 7：应用界面样机图
 
-![生成一张竖版手机截图风格的图片，整体比例接近 9:...](../data/images/case7.jpg)
+![生成一张竖版手机截图风格的图片，整体比例接近 9:...](../../../../../images/4191ee91bcfbf65bcd10dcec97e95fa96c3a72faa190b8cd17c7c5b53746f4a3.jpg)
 
 **来源：** 小红书号944846927
 
@@ -135,7 +137,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 8：科普百科图
 
-![科普百科图](../data/images/case8.jpg)
+![科普百科图](../../../../../images/28fe9c2947cecaa7bea0798637ccf7c443cbd6f02414918ecea0f32c293d0b5e.jpg)
 
 **来源：** 小红书号1055699679
 
@@ -164,7 +166,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 9：主题海报版式设计
 
-![2026中国城市系列宣传海报，主题为【北京】。现代...](../data/images/case9.jpg)
+![2026中国城市系列宣传海报，主题为【北京】。现代...](../../../../../images/cf4d66b852a85e56c18306d3e1199df8797e1180bfb837aaf8be9996135ae883.jpg)
 
 **来源：** 小红书号z890738050
 
@@ -180,7 +182,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 10：主题海报版式设计
 
-![生成八十年代宣传画，标语“热烈庆祝GPT-Imag...](../data/images/case10.jpg)
+![生成八十年代宣传画，标语“热烈庆祝GPT-Imag...](../../../../../images/c4a34020d2988480dffb7ba06ceddab09f80590007a3b0a661d5622e304016c5.jpg)
 
 **来源：** 小红书号2202716350
 
@@ -196,7 +198,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 11：一张手绘风格的城市美食地图，以台州为主题
 
-![一张手绘风格的城市美食地图，以台州为主题。画面以鸟...](../data/images/case11.jpg)
+![一张手绘风格的城市美食地图，以台州为主题。画面以鸟...](../../../../../images/7f42e4dddbe94070d684c15bed5689a0a94f6ac462cc3e5f0f3c4a96a2c93a64.jpg)
 
 **来源：** 小红书号510244722
 
@@ -212,7 +214,7 @@ Vertical 9:16 isometric cutaway infographic "城市生命系统图谱 / Urban Me
 
 ### 例 13：信息图可视化设计
 
-![A realistic photo of a Ch...](../data/images/case13.jpg)
+![A realistic photo of a Ch...](../../../../../images/b37abba16f256a98a9d18dd64dda5c9960b763b78d8e516354dff4a8703b227f.jpg)
 
 **来源：** 小红书号94156710894
 
@@ -228,7 +230,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ### 例 14：信息图可视化设计
 
-![视觉设计规格描述：画幅比 9:16（竖版手机信息图...](../data/images/case14.jpg)
+![视觉设计规格描述：画幅比 9:16（竖版手机信息图...](../../../../../images/46ff3923a99f405ab87f2d00e05e64d129c3f64879c0b25da9ee490088143075.jpg)
 
 **来源：** 小红书号Roy\_Jay
 
@@ -244,7 +246,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ### 例 15：主题海报版式设计
 
-![生成一张海报图片，图片人物是一个19岁的中国少女，...](../data/images/case15.jpg)
+![生成一张海报图片，图片人物是一个19岁的中国少女，...](../../../../../images/faef5bf43ec783cbc9d3b3d46e30b09cfbb05c47ce313ebbeb5aa2715fb37284.jpg)
 
 **来源：** 小红书号1005414639
 
@@ -260,7 +262,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ### 例 16：主题海报版式设计
 
-![生成高完成度史诗感艺术海报，双重曝光构图，米白色背...](../data/images/case16.jpg)
+![生成高完成度史诗感艺术海报，双重曝光构图，米白色背...](../../../../../images/08ae9b161cef0b0c8b74e5e1c8049982e46a2945b766c665e071e5dfe8013ee2.jpg)
 
 **来源：** 小红书号2692926140
 
@@ -276,7 +278,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ### 例 17：界面交互设计图
 
-![type](../data/images/case17.jpg)
+![type](../../../../../images/97e848f6ad45cdd5b2c9f62c43725953afdcd52f3f2c261ec5869de92a730e85.jpg)
 
 **来源：** [@wory37303852](https://x.com/wory37303852)
 
@@ -326,7 +328,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ### 例 18：信息图可视化设计
 
-![type](../data/images/case18.jpg)
+![type](../../../../../images/d5ac4d50a3309dc0411f36f07a1d89aff73a60597f78c8534b66eb7190d9382b.jpg)
 
 **来源：** [@mm\_zzm44854](https://x.com/mm_zzm44854)
 
@@ -376,7 +378,7 @@ A realistic photo of a Chinese high school math exam paper, printed inblack and 
 
 ### 例 19：信息图可视化设计
 
-![format](../data/images/case19.jpg)
+![format](../../../../../images/ae055aecfc7cc0b25ccf5d0d1ac06dacfd98b67f560c079edc2cedcd103a0de5.jpg)
 
 **来源：** [@yammamon](https://x.com/yammamon)
 
@@ -392,7 +394,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ### 例 20：信息图可视化设计
 
-![format](../data/images/case20.jpg)
+![format](../../../../../images/d1e1422e33801ca5bf7d0f6601ff90d3b149b4884e82998eeed50180e5e868c3.jpg)
 
 **来源：** [@yammamon](https://x.com/yammamon)
 
@@ -408,7 +410,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ### 例 21：直播界面设计图
 
-![type](../data/images/case21.jpg)
+![type](../../../../../images/748f3854ab3e5d319e9f85df4a7834b63811b143c6badc60db58b2ebfcb52873.jpg)
 
 **来源：** [@sjbbxhz](https://x.com/sjbbxhz)
 
@@ -470,7 +472,7 @@ Create an explanatory slide ({argument name="format" default="ponchi-e diagram"}
 
 ### 例 22：插画艺术风格创作
 
-![action type](../data/images/case22.jpg)
+![action type](../../../../../images/49ee6eec972f7e5327f06f4808579651912f5609d16b3e748c666f689c9b5d3a.jpg)
 
 **来源：** [@Tanemomi\_Ver2](https://x.com/Tanemomi_Ver2)
 
@@ -486,7 +488,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ### 例 23：信息图可视化设计
 
-![type](../data/images/case23.jpg)
+![type](../../../../../images/b5d39f7c4ecb3f14e5dc65bbf19299a85e62b3a62ffc408a1691b5e238263e05.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX)
 
@@ -542,7 +544,7 @@ An anime-style illustration of a {argument name="action type" default="high-impa
 
 ### 例 24：漫画分镜叙事设计
 
-![character](../data/images/case24.jpg)
+![character](../../../../../images/15fee6b99bcf38e6d35054dbd0faca758fe5e7b876ea5f979230c55cb4bf1f35.jpg)
 
 **来源：** [@wewe50770964683](https://x.com/wewe50770964683)
 
@@ -558,7 +560,7 @@ Genshin Impact {argument name="character" default="Raiden Shogun"} cosplay selfi
 
 ### 例 25：综合应用场景图
 
-![reference](../data/images/case25.jpg)
+![reference](../../../../../images/9d47e83bf420b44c8716c4fb74df1adcd2955e28acda15c92096aa8942305301.jpg)
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
@@ -574,7 +576,7 @@ create a minecraft skin inspired by {argument name="reference" default="my look"
 
 ### 例 26：建筑空间场景图
 
-![subject description](../data/images/case26.jpg)
+![subject description](../../../../../images/2a1813550c2584e416c1332b64c4add51c532a12fcc1ca4168ba188ad87d64ad.jpg)
 
 **来源：** [@ecooai](https://x.com/ecooai)
 
@@ -590,7 +592,7 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 
 ### 例 27：人物角色设定图
 
-![type](../data/images/case27.jpg)
+![type](../../../../../images/6d1507e98bfca12b38739c6d16adbb616f8ca7531e14396efde9658abe28f934.jpg)
 
 **来源：** [@anemone\_sd](https://x.com/anemone_sd)
 
@@ -630,7 +632,7 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 
 ### 例 28：写实摄影风格创作
 
-![type](../data/images/case28.jpg)
+![type](../../../../../images/ac70c27946c9ebd6f624dcda387b3b259490a40cec0ca7f7d6b312a45abe9762.jpg)
 
 **来源：** [@frankfu1688](https://x.com/frankfu1688)
 
@@ -672,7 +674,7 @@ A vintage 35mm film photograph of a {argument name="subject description" default
 
 ### 例 29：电影感叙事场景图
 
-![style](../data/images/case29.jpg)
+![style](../../../../../images/79851f09455b30192c3b6460daae938152a5763b0f172fb7daef3024c15013f1.jpg)
 
 **来源：** [@danieldmai](https://x.com/danieldmai)
 
@@ -688,7 +690,7 @@ Using REFERENCE_0, transform the subject's appearance to a {argument name="style
 
 ### 例 30：写实摄影风格图
 
-![subject](../data/images/case30.jpg)
+![subject](../../../../../images/ad6df359bc57d9c08324ad1d15016d92b4cecf2e6b3557a73e74107be71c97eb.jpg)
 
 **来源：** [@opc\_8838](https://x.com/opc_8838)
 
@@ -704,7 +706,7 @@ Express [{argument name="subject" default="a powerful AI builder"}] in a graffit
 
 ### 例 31：人像写实摄影图
 
-![hair color](../data/images/case31.jpg)
+![hair color](../../../../../images/c0a47b7abb26350076e9d17a4a81dce8aedaaeb551e925fae1e0022d46451065.jpg)
 
 **来源：** [@jun\_kongo](https://x.com/jun_kongo)
 
@@ -720,7 +722,7 @@ A highly detailed, photorealistic anime-style portrait of a young woman crouchin
 
 ### 例 32：插画艺术创作图
 
-![type](../data/images/case32.jpg)
+![type](../../../../../images/66e408c5f2d18fc7fbe65e9a8c77c944d4706653635ff5019c3cbcbe7e7410c7.jpg)
 
 **来源：** [@austinit](https://x.com/austinit)
 
@@ -757,7 +759,7 @@ A highly detailed, photorealistic anime-style portrait of a young woman crouchin
 
 ### 例 33：电商商品展示设计
 
-![subject](../data/images/case33.jpg)
+![subject](../../../../../images/388a3870fedb258e9832ab262398f3836285a3c3f3c0f8ee1f2da1e39eec67fd.jpg)
 
 **来源：** [@yurunekofree](https://x.com/yurunekofree)
 
@@ -773,7 +775,7 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 
 ### 例 34：插画艺术创作图
 
-![type](../data/images/case34.jpg)
+![type](../../../../../images/a90b9b2b1eb38e73a5f2f19a4f734f8fa0275571ffdfa17cc9b2d9acdf8c9947.jpg)
 
 **来源：** [@Ryan\_Suo](https://x.com/Ryan_Suo)
 
@@ -830,7 +832,7 @@ A 3D render of a cute kawaii {argument name="subject" default="cloud"} character
 
 ### 例 35：人像写实摄影图
 
-![photography style](../data/images/case35.jpg)
+![photography style](../../../../../images/f02c69a445ef9247ac2dbfab9530b9b451b06b97c38d8545a5e5bdfb0d6afbf1.jpg)
 
 **来源：** [@kazmaendo](https://x.com/kazmaendo)
 
@@ -846,7 +848,7 @@ A {argument name="photography style" default="photorealistic portrait with shall
 
 ### 例 36：品牌徽标设计图
 
-![ball color](../data/images/case36.jpg)
+![ball color](../../../../../images/62fcb6b04e6c4de1f7119a6541114e6b95f0ff2c2d86869393c900ae55cf5c46.jpg)
 
 **来源：** [@mirochill](https://x.com/mirochill)
 
@@ -862,7 +864,7 @@ A photorealistic selfie of a young man with short wavy dark hair and light stubb
 
 ### 例 37：综合应用场景图
 
-![quantity](../data/images/case37.jpg)
+![quantity](../../../../../images/d2e54872dba8d77d570ff3dfd514c3bf35c04081c52855c5ec1c53ba94ffa0da.jpg)
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta)
 
@@ -878,7 +880,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 
 ### 例 38：综合应用场景图
 
-![quantity](../data/images/case38.jpg)
+![quantity](../../../../../images/916b68689b3ed5bb5a49cb45a42557371154b114a7b9a00f88359fe7b53e1303.jpg)
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta)
 
@@ -894,7 +896,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 
 ### 例 39：综合应用场景图
 
-![quantity](../data/images/case39.jpg)
+![quantity](../../../../../images/675cf2020d5028209786e3d1cf3b13baa21168b15bf13a7096186eccf127d001.jpg)
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta)
 
@@ -910,7 +912,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 
 ### 例 40：综合应用场景图
 
-![quantity](../data/images/case40.jpg)
+![quantity](../../../../../images/04f881c36fe7e4261c58f1673ee49114fe2694f919540f29768869b819aaa6af.jpg)
 
 **来源：** [@midori\_tatsuta](https://x.com/midori_tatsuta)
 
@@ -926,7 +928,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 
 ### 例 41：插画艺术风格创作
 
-![type](../data/images/case41.jpg)
+![type](../../../../../images/5ca8f9d6da5c6f4a3be6cf163501aca693e94cc8109ac4bfdfd553ee959b8b1f.jpg)
 
 **来源：** [@wtry1102](https://x.com/wtry1102)
 
@@ -942,7 +944,7 @@ Create {argument name="quantity" default="24"} LINE stickers of {argument name="
 
 ### 例 42：写实摄影风格图
 
-![subject](../data/images/case42.jpg)
+![subject](../../../../../images/1d647e1dcab1b038fe29a159bd4cc18781e938685fa4ef3d554884b0c5327f6e.jpg)
 
 **来源：** [@blanplan](https://x.com/blanplan)
 
@@ -958,7 +960,7 @@ Express {argument name="subject" default="a powerful AI builder"} in a graffiti 
 
 ### 例 43：插画艺术创作图
 
-![type](../data/images/case43.jpg)
+![type](../../../../../images/8634fd6e51faeef157e773a22f1aa2c8549c3f9a41d9b4cfa7b0d16115329549.jpg)
 
 **来源：** [@stark\_nico99](https://x.com/stark_nico99)
 
@@ -995,7 +997,7 @@ Express {argument name="subject" default="a powerful AI builder"} in a graffiti 
 
 ### 例 44：古风历史题材图
 
-![dynasty](../data/images/case44.jpg)
+![dynasty](../../../../../images/b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai)
 
@@ -1011,7 +1013,7 @@ Generate avatars of various emperors from the {argument name="dynasty" default="
 
 ### 例 45：人像写实摄影图
 
-![subject description](../data/images/case45.jpg)
+![subject description](../../../../../images/45142a1b195aea37e7c31bf1911d4add5e248f29ebd4f3cca82510e3e864a2d5.jpg)
 
 **来源：** [@AoYe999](https://x.com/AoYe999)
 
@@ -1027,7 +1029,7 @@ A striking black and white close-up portrait of a {argument name="subject descri
 
 ### 例 46：建筑空间场景图
 
-![hair color](../data/images/case46.jpg)
+![hair color](../../../../../images/053d5711c13e84b8049ba57d558a4660d0fabe8af0468f705fb77c312e89098a.jpg)
 
 **来源：** [@lakeside529](https://x.com/lakeside529)
 
@@ -1043,7 +1045,7 @@ A highly detailed, realistic photograph of a young East Asian woman sitting in a
 
 ### 例 47：建筑空间场景图
 
-![type](../data/images/case47.jpg)
+![type](../../../../../images/d330b451aa6900ae4a781c7f044a67fe877eba8b85b5e1f510579e8d43f71745.jpg)
 
 **来源：** [@makaneko\_AI](https://x.com/makaneko_AI)
 
@@ -1154,7 +1156,7 @@ A highly detailed, realistic photograph of a young East Asian woman sitting in a
 
 ### 例 48：直播界面设计图
 
-![celebrity](../data/images/case48.jpg)
+![celebrity](../../../../../images/a126ff24e44e0172790725ab541eea2b21b726a4f92ff1f1d5d72a5b610d9f74.jpg)
 
 **来源：** [@kylegeeks](https://x.com/kylegeeks)
 
@@ -1170,7 +1172,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 
 ### 例 49：直播界面设计图
 
-![celebrity](../data/images/case49.jpg)
+![celebrity](../../../../../images/456436ac2f6f95e36166b812c5e84eb98d2ff585f065461af69e077e5ca11042.jpg)
 
 **来源：** [@kylegeeks](https://x.com/kylegeeks)
 
@@ -1186,7 +1188,7 @@ A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where 
 
 ### 例 50：建筑空间场景图
 
-![atmosphere](../data/images/case50.jpg)
+![atmosphere](../../../../../images/aa4ea1d4236d6c8ad66869312b1ad2c51af78e83101b773c0e6d6617c7cf9e2a.jpg)
 
 **来源：** [@nomen\_machine](https://x.com/nomen_machine)
 
@@ -1202,7 +1204,7 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 
 ### 例 51：信息图可视化设计
 
-![type](../data/images/case51.jpg)
+![type](../../../../../images/5bc3fce7ab2e021ab87ff089a03343e70bead7241b33b851b6768706010ae374.jpg)
 
 **来源：** [@yyyole](https://x.com/yyyole)
 
@@ -1259,7 +1261,7 @@ A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argu
 
 ### 例 52：写实摄影风格图
 
-![marker color](../data/images/case52.jpg)
+![marker color](../../../../../images/f690823cac904c5564a598184e24891cd658e553561b60dfa20f03317360fba1.jpg)
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
@@ -1275,7 +1277,7 @@ A realistic photograph of a whiteboard with a highly detailed {argument name="ma
 
 ### 例 53：室内空间渲染图
 
-![{argument name=](../data/images/case53.jpg)
+![{argument name=](../../../../../images/3ccc35b5539b6aad543896dae4eb66a18d59c80261c330a756eea713e1ac9dd2.jpg)
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
@@ -1291,7 +1293,7 @@ A vintage, late 90s amateur flash photograph of a young man repairing an arcade 
 
 ### 例 54：人物角色设定图
 
-![type](../data/images/case54.jpg)
+![type](../../../../../images/359d0ee933c59b635ccee3b271a000f8b730836329dc019d93f8a4dc20df2a4e.jpg)
 
 **来源：** [@fukumy\_ai](https://x.com/fukumy_ai)
 
@@ -1398,7 +1400,7 @@ A vintage, late 90s amateur flash photograph of a young man repairing an arcade 
 
 ### 例 55：信息图可视化设计
 
-![dish name](../data/images/case55.jpg)
+![dish name](../../../../../images/8ccac29014109cbef4598985150f52908a5dbd0cdf443966a94c467e6b26a269.jpg)
 
 **来源：** [@Kurt\_Rousey466](https://x.com/Kurt_Rousey466)
 
@@ -1414,7 +1416,7 @@ Help me create a detailed production flowchart for the dish {argument name="dish
 
 ### 例 56：写实摄影风格创作
 
-![subject aesthetic](../data/images/case56.jpg)
+![subject aesthetic](../../../../../images/04edd1669a0a3e658de452181cec6d46fbc1cd93b3b7aeee89311e157ed566d0.jpg)
 
 **来源：** [@danieldmai](https://x.com/danieldmai)
 
@@ -1430,7 +1432,7 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
 
 ### 例 57：界面交互设计图
 
-![type](../data/images/case57.jpg)
+![type](../../../../../images/ce0802b2f8c15758397d0f125ed1636e38dfa1878fd757022f2853072aa8ecba.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai)
 
@@ -1484,7 +1486,7 @@ A candid, realistic photograph of a young {argument name="subject aesthetic" def
 
 ### 例 58：主题海报版式设计
 
-![city](../data/images/case58.jpg)
+![city](../../../../../images/40ea70728e0ebc61f236aee716cf4c69f8d89947d6d1531a0689acfbd2d6a75e.jpg)
 
 **来源：** [@liyue\_ai](https://x.com/liyue_ai)
 
@@ -1508,7 +1510,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 59：主题海报版式设计
 
-![type](../data/images/case59.jpg)
+![type](../../../../../images/640a0151073c890d40bca8a3a0fe23fc62510068b2e2512d61ea738abceb74a8.jpg)
 
 **来源：** [@X64zzotSKCGtYmt](https://x.com/X64zzotSKCGtYmt)
 
@@ -1571,7 +1573,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 60：漫画分镜叙事设计
 
-![type](../data/images/case60.jpg)
+![type](../../../../../images/81423b67291e37ca9ca98bcc159c3ecbf69452e1640bec3e121ba2ecdd3d46bc.jpg)
 
 **来源：** [@Gc\_qube](https://x.com/Gc_qube)
 
@@ -1622,7 +1624,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 61：主题海报版式设计
 
-![type](../data/images/case61.jpg)
+![type](../../../../../images/a8590a8bf974d93cdd92718cd5154320ce156047b96a4bed9673bc2a844ae040.jpg)
 
 **来源：** [@masapark95](https://x.com/masapark95)
 
@@ -1696,7 +1698,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 62：插画艺术风格创作
 
-![type](../data/images/case62.jpg)
+![type](../../../../../images/aa4673a841c997132e352085c7e2133f6b78a3e5b4294fff3af98edd31dbe4ee.jpg)
 
 **来源：** [@masapark95](https://x.com/masapark95)
 
@@ -1770,7 +1772,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 63：主题海报版式设计
 
-![type](../data/images/case63.jpg)
+![type](../../../../../images/bac7dca772133db6953a22e580b01cf552d3141fdb7387072f6f13b81cb056a7.jpg)
 
 **来源：** [@masapark95](https://x.com/masapark95)
 
@@ -1786,7 +1788,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 64：信息图可视化设计
 
-![type](../data/images/case64.jpg)
+![type](../../../../../images/7ef7932878316a47e7ecf5332ebb3beaa96f30edfb2c3d39b816ed32949a2d39.jpg)
 
 **来源：** [@j\_zou93](https://x.com/j_zou93)
 
@@ -1802,7 +1804,7 @@ Integrated text and layout: Centered Songti font at the top reads "{argument nam
 
 ### 例 65：信息图可视化设计
 
-![{argument name=](../data/images/case65.jpg)
+![{argument name=](../../../../../images/f52af8c034e44fac9440e1368b2e77b4b78ce87e9a7c95e4e5969dcc56e3d653.jpg)
 
 **来源：** [@GeekCatX](https://x.com/GeekCatX)
 
@@ -1837,7 +1839,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 66：信息图可视化设计
 
-![type](../data/images/case66.jpg)
+![type](../../../../../images/585c2e72b541042778b2e5a73cb622f70176f1e16bd6158eb37105fda3cf73c5.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -1928,7 +1930,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 67：信息图可视化设计
 
-![type](../data/images/case67.jpg)
+![type](../../../../../images/dcdaddb09ecc2d5ba9de8e5f355e979a71f199987f8953e242db05a663b9e554.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -1977,7 +1979,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 68：信息图可视化设计
 
-![type](../data/images/case68.jpg)
+![type](../../../../../images/01740253361bf7beb66f4277b1b59bd1e0d630a3c15f468bdfb5283eecd93798.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -2032,7 +2034,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 69：信息图可视化设计
 
-![type](../data/images/case69.jpg)
+![type](../../../../../images/333c45b9da86fae6685637b98bc8377f16adcf97ada94535f186fc8645243942.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -2087,7 +2089,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 70：信息图可视化设计
 
-![type](../data/images/case70.jpg)
+![type](../../../../../images/d0e47196f79af0cab2d9c96c9495b87788d39285582a383ac7a9861c7c053d37.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -2181,7 +2183,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 71：关系图谱信息图
 
-![type](../data/images/case71.jpg)
+![type](../../../../../images/258b0b0d09a7235cff65effe20dd30eb938fae618076e20472ec57ce8d0e0c21.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -2283,7 +2285,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 72：信息图可视化设计
 
-![type](../data/images/case72.jpg)
+![type](../../../../../images/c700c6e36f9c7a379d92ebd4655bd3581ab80c7d2f2cff07ed93912a4401e705.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -2326,7 +2328,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 73：信息图可视化设计
 
-![type](../data/images/case73.jpg)
+![type](../../../../../images/a9fbef77478680ca3997fa0e80c96c792a4e1162bef89f74e581ed6565922a56.jpg)
 
 **来源：** [@hx831126](https://x.com/hx831126)
 
@@ -2394,7 +2396,7 @@ Bottom Summary: `The balance between being in the world and being out of the wor
 
 ### 例 74：关系图谱信息图
 
-![Popular Science Encyclopedia Image](../data/images/case74.jpg)
+![Popular Science Encyclopedia Image](../../../../../images/43c4f0a649596d0f82ba88b50073119d382c1537e363c34d7f1e4c84049ec3b9.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -2427,7 +2429,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ### 例 75：关系图谱信息图
 
-![Popular Science Encyclopedia Image](../data/images/case75.jpg)
+![Popular Science Encyclopedia Image](../../../../../images/636f7dd2a4992c0b04764afddebf5f4cd435abde67ec84b0ffd619b12256c8cc.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -2460,7 +2462,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ### 例 76：关系图谱信息图
 
-![Popular Science Encyclopedia Image](../data/images/case76.jpg)
+![Popular Science Encyclopedia Image](../../../../../images/a486424a97f4bdf25082e3ea5b811d13e26ae9bdbfeefde3d1072e5a13ca322a.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -2493,7 +2495,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 
 ### 例 77：关系图谱信息图
 
-![Popular Science Encyclopedia Image](../data/images/case77.jpg)
+![Popular Science Encyclopedia Image](../../../../../images/20aa9533a94031e2f5cce83bad6928ae7ec01058f42636cffbc100d5897abe16.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -2529,7 +2531,7 @@ Please do not make it a regular commercial promotional poster. Highlight the fea
 Transform the...]\(<https://x.com/WOZ1Tx2JZ3kCeBj/status/2046343828739911683>)
 
 ![\[CORE TASK\]
-Transform the...](../data/images/case78.jpg)
+Transform the...](../../../../../images/f5a8377aa9e5ed1a38a695559201600044ce5e41ef0c49313d1652c20d447f06.jpg)
 
 **来源：** [@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
 
@@ -2680,7 +2682,7 @@ beautiful anatomy
 Transform the...]\(<https://x.com/WOZ1Tx2JZ3kCeBj/status/2046343828739911683>)
 
 ![\[CORE TASK\]
-Transform the...](../data/images/case79.jpg)
+Transform the...](../../../../../images/31621e1dcbb287c2e48749c049a9037793a4a6548a579d5cb76c17e5108d4568.jpg)
 
 **来源：** [@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
 
@@ -2831,7 +2833,7 @@ beautiful anatomy
 Transform the...]\(<https://x.com/WOZ1Tx2JZ3kCeBj/status/2046343828739911683>)
 
 ![\[CORE TASK\]
-Transform the...](../data/images/case80.jpg)
+Transform the...](../../../../../images/832478abc22b47c7aeaced7525afe43ddd45fa6e5b90b3cc8f9e056d1429b910.jpg)
 
 **来源：** [@WOZ1Tx2JZ3kCeBj](https://x.com/WOZ1Tx2JZ3kCeBj)
 
@@ -2979,7 +2981,7 @@ beautiful anatomy
 
 ### 例 81：写实摄影风格图
 
-![type](../data/images/case81.jpg)
+![type](../../../../../images/1132b72fb1579f50725f1487a9d7ea7495dfda656cdf9a18dc21981eb3fed1fe.jpg)
 
 **来源：** [@HumanOS\_v2](https://x.com/HumanOS_v2)
 
@@ -3036,7 +3038,7 @@ beautiful anatomy
 
 ### 例 82：信息图可视化设计
 
-![type](../data/images/case82.jpg)
+![type](../../../../../images/1132b72fb1579f50725f1487a9d7ea7495dfda656cdf9a18dc21981eb3fed1fe.jpg)
 
 **来源：** [@HumanOS\_v2](https://x.com/HumanOS_v2)
 
@@ -3094,7 +3096,7 @@ beautiful anatomy
 
 ### 例 83：信息图可视化设计
 
-![type](../data/images/case83.jpg)
+![type](../../../../../images/680fc6a9f045f5600b3e0e4ba7e216f7ebc662aa0364b51f209f84b8340e1b3c.jpg)
 
 **来源：** [@NumeroBTC](https://x.com/NumeroBTC)
 
@@ -3143,7 +3145,7 @@ beautiful anatomy
 
 ### 例 84：关系图谱信息图
 
-![theme](../data/images/case84.jpg)
+![theme](../../../../../images/95f134925463e83ac3554df6a992e704f67185ba9de85b6d70e4c86c7bc9b902.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
 
@@ -3177,7 +3179,7 @@ The final product should satisfy:
 
 ### 例 85：关系图谱信息图
 
-![theme](../data/images/case85.jpg)
+![theme](../../../../../images/5047f244eceb1feb8f8330d64834970bb44aefee23e0bc38e1ba5a2166676271.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
 
@@ -3211,7 +3213,7 @@ The final product should satisfy:
 
 ### 例 86：关系图谱信息图
 
-![theme](../data/images/case86.jpg)
+![theme](../../../../../images/4a5db344e6b8c25a614acea1dac95d44264de3a18bc581da73c8734da2ce1ac8.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
 
@@ -3245,7 +3247,7 @@ The final product should satisfy:
 
 ### 例 87：关系图谱信息图
 
-![theme](../data/images/case87.jpg)
+![theme](../../../../../images/4ffdf7dfb53681961c0c801070e3298189688d8e3f17a91b33a4b06d59e32ddd.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus)
 
@@ -3279,7 +3281,7 @@ The final product should satisfy:
 
 ### 例 88：信息图可视化设计
 
-![theme](../data/images/case88.jpg)
+![theme](../../../../../images/5abda058f8c65692d9c4dcec977dd3b2435c6fb76e056f333c364d8533a21461.jpg)
 
 **来源：** [@A9Quant](https://x.com/A9Quant)
 
@@ -3346,7 +3348,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 ### 例 89：信息图可视化设计
 
-![theme](../data/images/case89.jpg)
+![theme](../../../../../images/8c0bc5af8b5daf8723d6eeb7951f6c8a106c12e10939cf92ae24772da259b4fb.jpg)
 
 **来源：** [@A9Quant](https://x.com/A9Quant)
 
@@ -3413,7 +3415,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 ### 例 90：信息图可视化设计
 
-![theme](../data/images/case90.jpg)
+![theme](../../../../../images/e30e1497d0e4fcfe7a7638deb765058eeea43af2d17db86d9cc12ef2c771d989.jpg)
 
 **来源：** [@A9Quant](https://x.com/A9Quant)
 
@@ -3480,7 +3482,7 @@ Naturally add the author signature in the bottom corner: @a9quant
 
 ### 例 91：游戏界面截图
 
-![{argument name=](../data/images/case91.jpg)
+![{argument name=](../../../../../images/8b50a7972298f6c8c1227376652ea5338e1563bd8700e28ad36bed80c3bd5594.jpg)
 
 **来源：** [@wolfaidev](https://x.com/wolfaidev)
 
@@ -3496,7 +3498,7 @@ A highly detailed, realistic first-person video game screenshot of a next-genera
 
 ### 例 92：视频封面界面图
 
-![hair color](../data/images/case92.jpg)
+![hair color](../../../../../images/d1c3bfaa2c895fc3631a2bf4dfb397a5493a3f70c31bd8d78af9e1a40af00aec.jpg)
 
 **来源：** [@Yuupapa\_free](https://x.com/Yuupapa_free)
 
@@ -3512,7 +3514,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ### 例 93：插画艺术风格创作
 
-![type](../data/images/case93.jpg)
+![type](../../../../../images/30aa8696001823fd7a36fc0d6e72547dd44792fdb994ff77bd7836b87867f710.jpg)
 
 **来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
 
@@ -3570,7 +3572,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ### 例 94：绘画艺术风格图
 
-![type](../data/images/case94.jpg)
+![type](../../../../../images/441f4e2b2438b41bc3c7688c3da7e1e0890a44807620ca898966e167e1a95f4d.jpg)
 
 **来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
 
@@ -3633,7 +3635,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ### 例 95：品牌视觉识别图
 
-![type](../data/images/case95.jpg)
+![type](../../../../../images/78e532d9f2a06181ea1daa6d8893a6dfdae55dac617a1fb0888b9c87f24216bc.jpg)
 
 **来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
 
@@ -3675,7 +3677,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ### 例 96：主题海报版式设计
 
-![type](../data/images/case96.jpg)
+![type](../../../../../images/7c87bab9c9fa8527be63b469e99a66a788acb9ecf53422939eeb2a7decf0810f.jpg)
 
 **来源：** [@sayaka\_aiart](https://x.com/sayaka_aiart)
 
@@ -3725,7 +3727,7 @@ An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She 
 
 ### 例 97：综合应用场景图
 
-![thumbnail type](../data/images/case97.jpg)
+![thumbnail type](../../../../../images/e88bbebcafb808368093e7af690cdc65c36d9816a2bbfd66d541413f379fd030.jpg)
 
 **来源：** [@kawai\_design](https://x.com/kawai_design)
 
@@ -3741,7 +3743,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 
 ### 例 98：主题海报版式设计
 
-![type](../data/images/case98.jpg)
+![type](../../../../../images/09a6fd19b52aeee5d054f911318397c1571c46da514554fea926ee5b62603779.jpg)
 
 **来源：** [@wtry1102](https://x.com/wtry1102)
 
@@ -3798,7 +3800,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 
 ### 例 99：界面交互设计图
 
-![type](../data/images/case99.jpg)
+![type](../../../../../images/15ae45557aa7d40c53b849d3d318d1b3a49dcd0cea27dc235398b25414d81b6e.jpg)
 
 **来源：** [@naga\_zyashin](https://x.com/naga_zyashin)
 
@@ -3857,7 +3859,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 
 ### 例 100：主题海报版式设计
 
-![type](../data/images/case100.jpg)
+![type](../../../../../images/7fe13c5b2ad8951e8be925c177fe6eecf4f787c5bcee52e18b38082f77671f01.jpg)
 
 **来源：** [@naga\_zyashin](https://x.com/naga_zyashin)
 
@@ -3933,7 +3935,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 
 ### 例 101：界面交互设计图
 
-![type](../data/images/case101.jpg)
+![type](../../../../../images/18ea336b81a5fba435baddad6c9ed2468b135a0230ee3a311458b5bc29d0bbde.jpg)
 
 **来源：** [@naga\_zyashin](https://x.com/naga_zyashin)
 
@@ -3992,7 +3994,7 @@ Create a high-quality Japanese {argument name="thumbnail type" default="webinar 
 
 ### 例 102：信息图可视化设计
 
-![performance description](../data/images/case102.jpg)
+![performance description](../../../../../images/088c3381e5cef027015451cc08e60b7fbc8802c40ec535bfbc0e0692086634a1.jpg)
 
 **来源：** [@maxescu](https://x.com/maxescu)
 
@@ -4008,7 +4010,7 @@ Search the web for {argument name="performance description" default="this week�
 
 ### 例 103：视频封面界面图
 
-![pianist](../data/images/case103.jpg)
+![pianist](../../../../../images/3d5b9cf3d8d61052778e888adc1e4c316c6015f21479f389225043933838cedb.jpg)
 
 **来源：** [@bowowwoaaa2](https://x.com/bowowwoaaa2)
 
@@ -4024,7 +4026,7 @@ Search the web for {argument name="performance description" default="this week�
 
 ### 例 104：界面交互设计图
 
-![type](../data/images/case104.jpg)
+![type](../../../../../images/cacffc1e195e328fbbaf6348b1d72c1091fd04b8b0d64f46ecc25f44c4302e99.jpg)
 
 **来源：** [@marouane53](https://x.com/marouane53)
 
@@ -4065,7 +4067,7 @@ Search the web for {argument name="performance description" default="this week�
 
 ### 例 105：动漫插画创作图
 
-![hair color](../data/images/case105.jpg)
+![hair color](../../../../../images/58ab6a9eb12b6b6c24bb2b572aa411d42531d360503473cac234ed4030f71f40.jpg)
 
 **来源：** [@Yuupapa\_free](https://x.com/Yuupapa_free)
 
@@ -4081,7 +4083,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 ### 例 106：应用界面样机图
 
-![type](../data/images/case106.jpg)
+![type](../../../../../images/6cf7e77367cede7ca9d3d615fc7365c284b1dd09f170081cf16b3dd61576bf56.jpg)
 
 **来源：** [@abdiisan](https://x.com/abdiisan)
 
@@ -4161,7 +4163,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 ### 例 107：应用界面样机图
 
-![type](../data/images/case107.jpg)
+![type](../../../../../images/c0688386dfed6bef6c8a95467be51f8fba362fa7e40f04749a5cea8e3af8de43.jpg)
 
 **来源：** [@tehno\_maniak](https://x.com/tehno_maniak)
 
@@ -4177,7 +4179,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 ### 例 108：综合应用场景图
 
-![subject](../data/images/case108.jpg)
+![subject](../../../../../images/01f8b86c17252ac4ed1c493c60c4822878e109f71dc6b7c2b4f1aafcc544012b.jpg)
 
 **来源：** [@underwoodxie96](https://x.com/underwoodxie96)
 
@@ -4193,7 +4195,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 ### 例 109：综合应用场景图
 
-![subject](../data/images/case109.jpg)
+![subject](../../../../../images/66ba7fbb193802736159eae88e979fa4ba87a86aae6d831957d2f5e3820d4193.jpg)
 
 **来源：** [@underwoodxie96](https://x.com/underwoodxie96)
 
@@ -4209,7 +4211,7 @@ A high-energy VTuber thumbnail illustration of a smiling anime girl with {argume
 
 ### 例 110：视频封面界面图
 
-![topic](../data/images/case110.jpg)
+![topic](../../../../../images/5c9b6c3166bc091860c868a50129de53ae96af2515db2cc1e58692959bff5bc4.jpg)
 
 **来源：** [@TlanoAI](https://x.com/TlanoAI)
 
@@ -4225,7 +4227,7 @@ Thumbnail for a YouTube unboxing video, a video of {argument name="topic" defaul
 
 ### 例 111：视频封面界面图
 
-![overall mood](../data/images/case111.jpg)
+![overall mood](../../../../../images/cd79480ca1e0f635842c6fe87f51af147e90f10182297d70cf0b4dcfdd30e80c.jpg)
 
 **来源：** [@mirochill](https://x.com/mirochill)
 
@@ -4241,7 +4243,7 @@ A YouTube thumbnail-style collage for a {argument name="overall mood" default="d
 
 ### 例 112：信息图可视化设计
 
-![Generate a 12-grid card i...](../data/images/case112.jpg)
+![Generate a 12-grid card i...](../../../../../images/208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce.jpg)
 
 **来源：** [@songguoxiansen](https://x.com/songguoxiansen)
 
@@ -4257,7 +4259,7 @@ Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with eac
 
 ### 例 113：动漫插画创作图
 
-![hair color](../data/images/case113.jpg)
+![hair color](../../../../../images/5bbad66b7bb76fff5b994efc071f4cab81511e31d28003ca800e4cf297a3278e.jpg)
 
 **来源：** [@REd8358](https://x.com/REd8358)
 
@@ -4273,7 +4275,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 
 ### 例 114：插画艺术创作图
 
-![type](../data/images/case114.jpg)
+![type](../../../../../images/7c32eb5f21ea74153a9130d3ebcf6235f4c056a0815c726ff60e0f07310cd32d.jpg)
 
 **来源：** [@kaikaitheaiguy](https://x.com/kaikaitheaiguy)
 
@@ -4360,7 +4362,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 
 ### 例 115：品牌视觉识别图
 
-![type](../data/images/case115.jpg)
+![type](../../../../../images/6d4751aa1167dc68d95a628a105ab57e5595d65f618ed663e3adcee6ca2298e5.jpg)
 
 **来源：** [@onofumi\_AI](https://x.com/onofumi_AI)
 
@@ -4442,7 +4444,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 
 ### 例 116：主题海报版式设计
 
-![type](../data/images/case116.jpg)
+![type](../../../../../images/8721fe5bf029d2ab5d02e2408c37f58cdd4e60421812bb04c5368cc3d0c84721.jpg)
 
 **来源：** [@gamemangaanime](https://x.com/gamemangaanime)
 
@@ -4481,7 +4483,7 @@ A highly detailed anime illustration of a fierce female warrior with long flowin
 
 ### 例 117：主题海报版式设计
 
-![patient character](../data/images/case117.jpg)
+![patient character](../../../../../images/08a27c3ee0b6a21b9ced0c8e5bf9a91037ebd2195acaf1eab0f3ba6bdc2b3ea1.jpg)
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
@@ -4497,7 +4499,7 @@ A humorous 3D cartoon illustration of a therapy session in a cozy office. On the
 
 ### 例 118：漫画分镜叙事设计
 
-![A high-contrast, black-an...](../data/images/case118.jpg)
+![A high-contrast, black-an...](../../../../../images/bd2f5d540fce72004591ba9d1e2d777ad867192a0ab8a0b2baa72a08e4b1f6ea.jpg)
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
@@ -4513,7 +4515,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 ### 例 119：主题海报版式设计
 
-![type](../data/images/case119.jpg)
+![type](../../../../../images/8f5f1129aa15e1e877f5a32c36b15d4d20c502ee33a37f8f6e5345edccfe1b03.jpg)
 
 **来源：** [@old\_pgmrs\_will](https://x.com/old_pgmrs_will)
 
@@ -4593,7 +4595,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 ### 例 120：建筑空间场景图
 
-![hair color](../data/images/case120.jpg)
+![hair color](../../../../../images/809990b45791fd5f476c941d704225c799f7c325c058fd59662f0fbc86c81934.jpg)
 
 **来源：** [@UNIBRACITY](https://x.com/UNIBRACITY)
 
@@ -4609,7 +4611,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 ### 例 121：建筑空间场景图
 
-![type](../data/images/case121.jpg)
+![type](../../../../../images/3a788ef89540158a7cddb5fcffe0403e76e9379a908cf757bc9132af85e43855.jpg)
 
 **来源：** [@loilokoji](https://x.com/loilokoji)
 
@@ -4662,7 +4664,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 ### 例 122：主题海报版式设计
 
-![type](../data/images/case122.jpg)
+![type](../../../../../images/73e7aa0226dc35da0ca3957b4bab414422d9d3467608873650692ad189f20bc0.jpg)
 
 **来源：** [@pcneko\_lab](https://x.com/pcneko_lab)
 
@@ -4730,7 +4732,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 ### 例 123：插画艺术创作图
 
-![type](../data/images/case123.jpg)
+![type](../../../../../images/f01d5ecac5ecc1e3435279f88a816f03117285c48395d1429c3dd798c133ffe3.jpg)
 
 **来源：** [@Luvune](https://x.com/Luvune)
 
@@ -4803,7 +4805,7 @@ A dynamic anime illustration of a girl with spiky {argument name="hair color" de
 
 ### 例 124：主题海报版式设计
 
-![main character outfit](../data/images/case124.jpg)
+![main character outfit](../../../../../images/41a43476b5e4195740af44dde42f2298ad0b0312e5d0031b616a31b60533b71c.jpg)
 
 **来源：** [@koshian\_to](https://x.com/koshian_to)
 
@@ -4819,7 +4821,7 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 
 ### 例 125：电商商品展示设计
 
-![type](../data/images/case125.jpg)
+![type](../../../../../images/3cf76caefe90fe74df1285a04299e810e77653b6d1b19ed85721adfb09101e2c.jpg)
 
 **来源：** [@Gc\_qube](https://x.com/Gc_qube)
 
@@ -4857,7 +4859,7 @@ An anime-style key visual poster for a fictional slice-of-life anime. In the for
 
 ### 例 126：插画艺术风格创作
 
-![man's hair color](../data/images/case126.jpg)
+![man's hair color](../../../../../images/e6681540f3433f523af31dc48f84496ea2668ae0a4b17a2a29b651c26f72e508.jpg)
 
 **来源：** [@taira\_renta](https://x.com/taira_renta)
 
@@ -4873,7 +4875,7 @@ An anime-style light novel cover illustration featuring two characters in an int
 
 ### 例 127：建筑空间场景图
 
-![type](../data/images/case127.jpg)
+![type](../../../../../images/5c8d33ad3603ea789ec8b3cc45dc644fa391a6b72956ffbfcc8b2dbbc8a6c485.jpg)
 
 **来源：** [@studiomasakaki](https://x.com/studiomasakaki)
 
@@ -4946,7 +4948,7 @@ An anime-style light novel cover illustration featuring two characters in an int
 
 ### 例 128：建筑空间场景渲染
 
-![type](../data/images/case128.jpg)
+![type](../../../../../images/fd552c41de5cf14a73884bce084686b3f0f1f139be304703b25fa275a0ca67f1.jpg)
 
 **来源：** [@masapark95](https://x.com/masapark95)
 
@@ -4986,7 +4988,7 @@ An anime-style light novel cover illustration featuring two characters in an int
 
 ### 例 129：绘画艺术风格图
 
-![character appearance](../data/images/case129.png)
+![character appearance](../../../../../images/b3069c3661785c82a54c1ae80ee1ca5210186aebdd6645b73667ab4491f739b4.png)
 
 **来源：** [@TlanoVRC](https://x.com/TlanoVRC)
 
@@ -5002,7 +5004,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 130：界面交互设计图
 
-![type](../data/images/case130.jpg)
+![type](../../../../../images/daa9e8b6c87cc62e59a42230ed13723f3c698b48b99a1ba1094d24d7a0175769.jpg)
 
 **来源：** [@chi\_vc\_](https://x.com/chi_vc_)
 
@@ -5066,7 +5068,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 131：界面交互设计图
 
-![type](../data/images/case131.jpg)
+![type](../../../../../images/f0603f0296866d341edaa772b5d949f45b58d024038c597a84f06a0a9f2c72b4.jpg)
 
 **来源：** [@IndieDevHailey](https://x.com/IndieDevHailey)
 
@@ -5149,7 +5151,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 132：界面交互设计图
 
-![type](../data/images/case132.jpg)
+![type](../../../../../images/5ce6eb1298f4df7c8551f1ec3e0ab5a47f1e8aa053f5624904484c731a12f066.jpg)
 
 **来源：** [@Colin\_Leeee](https://x.com/Colin_Leeee)
 
@@ -5250,7 +5252,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 133：界面交互设计图
 
-![type](../data/images/case133.jpg)
+![type](../../../../../images/1827967610f6f3363cd8f4ca2526f123dc22fd04faf37ee04e2c629b008aafb9.jpg)
 
 **来源：** [@yyyole](https://x.com/yyyole)
 
@@ -5366,7 +5368,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 134：界面交互设计图
 
-![type](../data/images/case134.jpg)
+![type](../../../../../images/7d11b36a7be012203be87d9e4af038d65be53d4822c5d2280b362d87a3567f35.jpg)
 
 **来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
 
@@ -5428,7 +5430,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 135：应用界面样机图
 
-![type](../data/images/case135.jpg)
+![type](../../../../../images/aa0cbea5840623a04560007f030b1bbd975cc1a23a15038d67bf4094eb990973.jpg)
 
 **来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
 
@@ -5495,7 +5497,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 136：品牌视觉识别图
 
-![type](../data/images/case136.jpg)
+![type](../../../../../images/80be9805896940016b79d23d68f75f9980923870d754359d1c7c55472f70e10d.jpg)
 
 **来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
 
@@ -5551,7 +5553,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 137：界面交互设计图
 
-![type](../data/images/case137.jpg)
+![type](../../../../../images/7e3c08d4b4735579296f3df1ecb75e94a19cc8ab9f0268a6bed859743bc68fd1.jpg)
 
 **来源：** [@ryuya\_\_31](https://x.com/ryuya__31)
 
@@ -5621,7 +5623,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 138：封面排版设计图
 
-![type](../data/images/case138.jpg)
+![type](../../../../../images/352fd42fe75a75c6bfc6f39cc4b41a25e7ee8005819ca74d4d063ba80b4cfaf1.jpg)
 
 **来源：** [@aiehon\_aya](https://x.com/aiehon_aya)
 
@@ -5686,7 +5688,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 139：主题海报版式设计
 
-![type](../data/images/case139.jpg)
+![type](../../../../../images/9f8770e4f37249b39312ba4f98df57ff3df34073f7c17c599396bb6e174feaef.jpg)
 
 **来源：** [@nakazakifam](https://x.com/nakazakifam)
 
@@ -5757,7 +5759,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 140：主题海报版式设计
 
-![type](../data/images/case140.jpg)
+![type](../../../../../images/0c0d471105e34a82d86b9a84c4a5737d5944e0363b7bb60c683145ba08e00588.jpg)
 
 **来源：** [@AutoIntelliMode](https://x.com/AutoIntelliMode)
 
@@ -5773,7 +5775,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 141：电商商品展示设计
 
-![type](../data/images/case141.jpg)
+![type](../../../../../images/0b7ef229f6e6be668b8cffad217a2ecbb9c01e66ca231530943d720ed6ae6012.jpg)
 
 **来源：** [@takadtmnu](https://x.com/takadtmnu)
 
@@ -5858,7 +5860,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 142：写实摄影风格创作
 
-![type](../data/images/case142.jpg)
+![type](../../../../../images/0b6f8e6f2b89f1425c00314504d2163dbef8627bec6834948f9a93c88383d8a0.jpg)
 
 **来源：** [@anemone\_sd](https://x.com/anemone_sd)
 
@@ -5911,7 +5913,7 @@ A watercolor illustration of a children's picture book cover. The main subject i
 
 ### 例 143：品牌徽标设计图
 
-![{argument name=](../data/images/case143.jpg)
+![{argument name=](../../../../../images/528609836e8c6f99e91c0cd27ae98f7078d067c51e1f01f3821eaafd4ff41c20.jpg)
 
 **来源：** [@Gc\_qube](https://x.com/Gc_qube)
 
@@ -5927,7 +5929,7 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 
 ### 例 144：主题海报版式设计
 
-![brand name](../data/images/case144.jpg)
+![brand name](../../../../../images/5dc31375e55cc0ceb8a8c64e6ee285f9242691c04b16d3142c80b60b32f02db3.jpg)
 
 **来源：** [@panchaaan\_2](https://x.com/panchaaan_2)
 
@@ -5943,7 +5945,7 @@ A luxurious cosmetic product advertisement featuring a single elegant glass jar 
 
 ### 例 145：综合应用场景图
 
-![platform](../data/images/case145.jpg)
+![platform](../../../../../images/2b090f2eb2a95d4bcd99f5d3a1b0609b5cedd889a668aaf37afefe184a3abb15.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -5959,7 +5961,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ### 例 146：综合应用场景图
 
-![platform](../data/images/case146.jpg)
+![platform](../../../../../images/b59e4fee310125ade43b0a4e76fc4b98bb7479ce54a8c827efdb537daaf9a0ad.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -5975,7 +5977,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ### 例 147：综合应用场景图
 
-![platform](../data/images/case147.jpg)
+![platform](../../../../../images/e3542611ae1e6bacf25ee2a9a22bae2fe1fd07300b76a4da512c34f8b500b018.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -5991,7 +5993,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ### 例 148：综合应用场景图
 
-![platform](../data/images/case148.jpg)
+![platform](../../../../../images/bbd3ea5a87b18c1bb9ffe6ee42d44325c80d6b5a92dccfa05da0c0c5acbfe9fe.jpg)
 
 **来源：** [@alanlovelq](https://x.com/alanlovelq)
 
@@ -6007,7 +6009,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ### 例 149：直播界面设计图
 
-![type](../data/images/case149.jpg)
+![type](../../../../../images/174013e5bf73577bda6bd51ff75442e49e75c3ffa8f18141a5ed0e8777c25ee4.jpg)
 
 **来源：** [@JCutcut47692](https://x.com/JCutcut47692)
 
@@ -6088,7 +6090,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 ### 例 150：品牌徽标设计图
 
-![product name](../data/images/case150.jpg)
+![product name](../../../../../images/a3f4551bbf0e5b3da5eeb5d2a6c0125a193879c74cc8e2ea4b0512ca3a5698a4.jpg)
 
 **来源：** [@highball\_cho](https://x.com/highball_cho)
 
@@ -6104,7 +6106,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ### 例 151：界面交互设计图
 
-![type](../data/images/case151.jpg)
+![type](../../../../../images/ccc5e3a4cef1fb9f71dd2f5df02d1c74f5e50b6ff59c0727487a5738feced3fe.jpg)
 
 **来源：** [@kitune\_fire45](https://x.com/kitune_fire45)
 
@@ -6173,7 +6175,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ### 例 152：直播界面设计图
 
-![type](../data/images/case152.jpg)
+![type](../../../../../images/31a97b99db7b5407e1d33185001749913b116e98e2a923d240605c9deb093ce2.jpg)
 
 **来源：** [@coder\_left](https://x.com/coder_left)
 
@@ -6246,7 +6248,7 @@ A bright, summery commercial product photography shot featuring a refreshing bev
 
 ### 例 153：主题海报版式设计
 
-![main headline](../data/images/case153.jpg)
+![main headline](../../../../../images/474705c23c90590d159b7a5ee142e7c230405a41b9fa150f9d4086d4400da6a7.jpg)
 
 **来源：** [@xzjken](https://x.com/xzjken)
 
@@ -6262,7 +6264,7 @@ Using REFERENCE_0 as the base style and preserving the central chicken illustrat
 
 ### 例 154：写实摄影风格创作
 
-![car model and color](../data/images/case154.jpg)
+![car model and color](../../../../../images/02ccfc5e2839bec10c32fa1a6c653df1260e74e34921d0c60654ada0d11c9b00.jpg)
 
 **来源：** [@AlwaveNazca](https://x.com/AlwaveNazca)
 
@@ -6278,7 +6280,7 @@ A photorealistic, high-resolution commercial photograph of a {argument name="car
 
 ### 例 155：人物角色设定图
 
-![items](../data/images/case155.jpg)
+![items](../../../../../images/89a561d8c53038fca592e5eae7f3f6a00153d6dbdb3ff00e35a398fec6ee10f3.jpg)
 
 **来源：** [@wtry1102](https://x.com/wtry1102)
 
@@ -6294,7 +6296,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 
 ### 例 156：应用界面样机图
 
-![type](../data/images/case156.jpg)
+![type](../../../../../images/e117fe70e4a744cac2d4ece6c424d897c97846f66418b775e6eb22013cb67ea7.jpg)
 
 **来源：** [@linxiaobei888](https://x.com/linxiaobei888)
 
@@ -6376,7 +6378,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 
 ### 例 157：电商商品展示设计
 
-![type](../data/images/case157.jpg)
+![type](../../../../../images/f1c4733a4408d7e3ff48e64550e4dd1f46f9c3686db4095ac4e8fb7c44fef892.jpg)
 
 **来源：** [@AmberPromptai](https://x.com/AmberPromptai)
 
@@ -6450,7 +6452,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 
 ### 例 158：界面交互设计图
 
-![type](../data/images/case158.jpg)
+![type](../../../../../images/f1892eac3598463c11f96d2bc9aa3553dd55fa7ca69f55e66217d4f5ac5ac817.jpg)
 
 **来源：** [@coconut\_256](https://x.com/coconut_256)
 
@@ -6542,7 +6544,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 
 ### 例 159：界面交互设计图
 
-![type](../data/images/case159.jpg)
+![type](../../../../../images/f10853519f482f0a1b376d1a397f53322ab984d467ee4ad3998cc5a8eb575ced.jpg)
 
 **来源：** [@onlyhuman028](https://x.com/onlyhuman028)
 
@@ -6624,7 +6626,7 @@ Create {argument name="items" default="fan goods"} for a standard {argument name
 
 ### 例 160：品牌吉祥物设定图
 
-![device](../data/images/case160.jpg)
+![device](../../../../../images/793454400635b2933aaf54c95c905d6d4dac21ab1da1ac3915b5626047ca47f2.jpg)
 
 **来源：** [@TanShilong](https://x.com/TanShilong)
 
@@ -6640,7 +6642,7 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 
 ### 例 161：应用界面样机图
 
-![type](../data/images/case161.jpg)
+![type](../../../../../images/60acfa0bdc6501522b12637c7da2f20ef5ebaa50b910c34c1911b752003f557c.jpg)
 
 **来源：** [@DanDaniDaniel01](https://x.com/DanDaniDaniel01)
 
@@ -6700,7 +6702,7 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 
 ### 例 162：人物角色设定图
 
-![voice](../data/images/case162.jpg)
+![voice](../../../../../images/52335b62be22e4096e03d7e893e6cd23b486b980162c6b283ce1cc3754a7fcfa.jpg)
 
 **来源：** [@nicdunz](https://x.com/nicdunz)
 
@@ -6718,7 +6720,7 @@ Generate a set of icons for {argument name="device" default="vintage electronic 
 
 ### 例 163：诗仙李白月下直播起舞
 
-![诗仙李白月下直播起舞](../data/images/case163.jpg)
+![诗仙李白月下直播起舞](../../../../../images/6b1a52d618ec416734aa2a9603f8d2408b0fb9e78c58e780f594e9095a28af56.jpg)
 
 **来源：** [@MrLarus](https://x.com/MrLarus/status/2046585220393324553)
 
@@ -6738,7 +6740,7 @@ Li Bai dancing under the moon during a Douyin livestream
 
 ### 例 164：特朗普太空直播间破千万
 
-![特朗普太空直播间破千万](../data/images/case164.jpg)
+![特朗普太空直播间破千万](../../../../../images/b92e5b0ae772563b1c065eb85829ed8c5c4d84f313ee303d867ab8ae5d0bdd36.jpg)
 
 **来源：** [@songguoxiansen](https://x.com/songguoxiansen/status/2046478609238626569)
 
@@ -6758,7 +6760,7 @@ A 9:16 vertical screen screenshot of a Douyin live stream, space live stream sty
 
 ### 例 165：清冷佳人夜市烧烤三刀流
 
-![清冷佳人夜市烧烤三刀流](../data/images/case165.jpg)
+![清冷佳人夜市烧烤三刀流](../../../../../images/da09e7f535b06dbf47a89e183f48a00ba969fb6ef45fb35c87955123a7a1947e.jpg)
 
 **来源：** [@BubbleBrain](https://x.com/BubbleBrain/status/2046564674112831920)
 
