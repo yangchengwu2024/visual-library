@@ -5,7 +5,7 @@
 
 [打开完整画廊](docs/gallery.md) · [提示词模板](docs/templates.md)
 
-原图文案例 555 · 风格参考 8。待复核 477；缺少必要输入图 5。
+原图文案例 554 · 风格参考 9。待复核 31；缺少必要输入图 7。
 
 [按模型浏览](docs/models/index.md) · [艺术家、流派与材质](docs/topics/index.md) · [复核说明](docs/collection-status.md) · [PDF关键词补遗](docs/pdf-keywords.md)
 
