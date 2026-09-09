@@ -1,0 +1,52 @@
+{
+  "case_id": "case-ezagor-awesome-midjourney-prompts-indigenogoth-malachite-38bbfda619f7",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "style",
+        "portrait"
+      ]
+    },
+    "styles": [
+      "style",
+      "人像"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png"
+        }
+      ],
+      "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+      "source": "ezagor-awesome-midjourney-prompts",
+      "source_category": "插画与艺术",
+      "source_id": "indigenogoth-malachite",
+      "source_tags": {
+        "scenes": [],
+        "styles": [
+          "style",
+          "portrait"
+        ]
+      },
+      "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+      "title": "indigenogoth 孔雀石风格参考",
+      "upstream_url": "https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png",
+      "version": "v1"
+    }
+  ],
+  "title": "indigenogoth 孔雀石风格参考",
+  "title_aliases": [
+    "indigenogoth 孔雀石风格参考"
+  ]
+}

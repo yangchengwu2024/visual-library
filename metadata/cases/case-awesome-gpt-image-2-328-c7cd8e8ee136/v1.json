@@ -1,0 +1,121 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [
+    "forced perspective",
+    "强制透视"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "明确需要人像和佳能产品两种输入，不能仅提供人像即宣称齐全。归档只有成图，原佳能产品版本与独立输入未知；复用时须补人像及产品图。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "forced perspective",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        3887,
+        3905
+      ],
+      "quote": "and_perspective\": {\n    \"effect\": \"forced perspective\",\n    \"subject_scale\": \"the woman appears extremely giant\","
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "强制透视",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        1139,
+        1143
+      ],
+      "quote": "and_perspective\": {\n    \"effect\": \"强制透视\",\n    \"subject_scale\": \"女性呈现极度巨大\",\n    \"buildings_scale\": \""
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        313,
+        315
+      ],
+      "quote": " \"alter_hair\": false,\n    \"alter_gender\": false,\n    \"notes\": \"保留上传参考图像中完全一致的脸部特征、皮肤纹理、头发、眼镜、年龄和性别。禁止合成皮肤或雕塑感。\"\n  },\n  \"subject\": {\n    \"gender\": \"女性\",\n    \"capture_method\": \"由主体本人拍摄的自拍\",\n    \"pose\": {\n      \"selfie_arm\": {\n        \"desc"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        315,
+        318
+      ],
+      "quote": "alter_hair\": false,\n    \"alter_gender\": false,\n    \"notes\": \"保留上传参考图像中完全一致的脸部特征、皮肤纹理、头发、眼镜、年龄和性别。禁止合成皮肤或雕塑感。\"\n  },\n  \"subject\": {\n    \"gender\": \"女性\",\n    \"capture_method\": \"由主体本人拍摄的自拍\",\n    \"pose\": {\n      \"selfie_arm\": {\n        \"descrip"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        1652,
+        1654
+      ],
+      "quote": "ons\": \"禁止奇幻或戏剧性照明\"\n  },\n  \"product_rules\": {\n    \"usage\": \"完全按提供的上传佳能产品使用\",\n    \"distortion\": \"无\",\n    \"logo\": \"保持不变\",\n    \"appearance\": \"仅有自然反射和真实高光\"\n  },\n  \"camera_quality\": {\n    \"realism\": \"最大照片真实感\",\n    \"depth\": \"前景、主体与背景清晰分离\",\n    "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        2524,
+        2532
+      ],
+      "quote": " features, skin texture, hair, glasses, age, and gender from the uploaded reference image. No synthetic skin or sculptural look.\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"capture_method\": \"selfie taken by the subject herself\",\n    \"pos"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        2533,
+        2548
+      ],
+      "quote": ", skin texture, hair, glasses, age, and gender from the uploaded reference image. No synthetic skin or sculptural look.\"\n  },\n  \"subject\": {\n    \"gender\": \"female\",\n    \"capture_method\": \"selfie taken by the subject herself\",\n    \"pose\": {\n      \"sel"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.json#prompt",
+      "span": [
+        3139,
+        3147
+      ],
+      "quote": "on\": \"the other arm fully extended toward the camera holding the attached Canon camera\",\n        \"importance\": \"product is closest to the camera and visually dominant\"\n      },\n      \"head\": {\n        \"tilt\": \"slightly tilted toward the selfie"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/97ba5c11d439761781cb5d2857ba6258d276409221fb6c7195f71ca1d1a20fc3.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "97ba5c11d439761781cb5d2857ba6258d276409221fb6c7195f71ca1d1a20fc3"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 5103,
+      "image_links": [
+        "../data/images/case328.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

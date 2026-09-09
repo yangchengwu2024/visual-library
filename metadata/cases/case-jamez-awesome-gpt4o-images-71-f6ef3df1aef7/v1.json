@@ -1,0 +1,89 @@
+{
+  "archived_source_manifest": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note.",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "creation_tool": "GPT-4o",
+    "date": "2025-05-24",
+    "image_author": "terry623",
+    "image_author_link": "https://github.com/terry623",
+    "license": "CC-BY-4.0",
+    "notes": "Prompt quoted verbatim; image fully regenerated via GPT-4o.",
+    "prompt_author": "terry623",
+    "prompt_author_link": "https://github.com/terry623",
+    "source_links": [],
+    "title": "迷你 Cyberpunk 傾斜移軸景觀",
+    "title_en": "Miniature Cyberpunk Tilt-Shift Landscape"
+  },
+  "evidence": [
+    {
+      "prompt_field": "prompt",
+      "type": "case_yaml",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml"
+    },
+    {
+      "creation_tool": "GPT-4o",
+      "type": "attribution",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/ATTRIBUTION.yml"
+    },
+    {
+      "checked_at": "2026-09-09",
+      "image_sha256": "668e457e0c845208d479dc842ac945ed58864b80aa1ca517410872d449220b63",
+      "note": "实际看图：俯视霓虹微缩街区、玩具车、暖冷色对比及明显选择焦点符合主旨。无法从图证明高解析度CG管线或大量视觉笑点；GPT-4o仅为作者声明。",
+      "type": "visual_review"
+    },
+    {
+      "image_sha256": "668e457e0c845208d479dc842ac945ed58864b80aa1ca517410872d449220b63",
+      "prompt_sha256": "8b1db61996d42a41a5c6a48b6c9af86126a91129ec6bdfeaf171e4053c69edb8",
+      "reviewed_content_unchanged": true,
+      "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+      "type": "snapshot_check"
+    }
+  ],
+  "materials": [],
+  "model_family": "gpt-image",
+  "model_version": "GPT-4o",
+  "movements": [
+    "Cyberpunk"
+  ],
+  "original_category": "Architecture",
+  "record_type": "case",
+  "review_note": "实际看图：俯视霓虹微缩街区、玩具车、暖冷色对比及明显选择焦点符合主旨。无法从图证明高解析度CG管线或大量视觉笑点；GPT-4o仅为作者声明。",
+  "review_status": "verified",
+  "source_details": {
+    "case": {
+      "alt_text": "從上方俯瞰的超高細節迷你 Cyberpunk 景觀，採用傾斜移軸鏡頭效果",
+      "alt_text_en": "Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect",
+      "author": "terry623",
+      "author_link": "https://github.com/terry623",
+      "image": "example_cyberpunk_tilt_shift_miniature.jpg",
+      "prompt": "從上方俯瞰的超高細節迷你【Cyberpunk】景觀，採用傾斜移軸鏡頭效果。場景中充滿如玩具般的元素，全部以高解析度 CG 呈現。光線戲劇化，營造出大片的氛圍，色彩鮮明，對比強烈，強調景深效果與擬真微觀視角，使觀者仿佛俯瞰一個玩具世界般的迷你現實，畫面中包含大量視覺笑點與極具重複觀看價值的細節設計\n",
+      "prompt_en": "A highly detailed miniature [Cyberpunk] landscape viewed from above, using a tilt-shift lens effect. The scene is filled with toy-like elements, all rendered in high-resolution CG. Dramatic lighting creates a cinematic atmosphere, with vivid colors and strong contrast, emphasizing depth of field and a realistic micro-perspective, making the viewer feel as if overlooking a toy world. The image contains many visual jokes and details worth repeated viewing.\n",
+      "prompt_note": "可替換提示詞中的【Cyberpunk】為其他風格或場景，如「未來城市」、「蒸汽朋克」、「中世紀村莊」等。\n",
+      "prompt_note_en": "You can replace [Cyberpunk] in the prompt with other styles or scenes, such as \"Futuristic City\", \"Steampunk\", \"Medieval Village\", etc.\n",
+      "reference_note": "",
+      "reference_note_en": "",
+      "source_links": [],
+      "submitter": "terry623",
+      "submitter_link": "https://github.com/terry623",
+      "title": "迷你 Cyberpunk 傾斜移軸景觀",
+      "title_en": "Miniature Cyberpunk Tilt-Shift Landscape"
+    },
+    "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/ATTRIBUTION.yml",
+    "model_claim": "GPT-4o",
+    "model_snapshot": null,
+    "prompt_field": "prompt",
+    "prompt_origin": "exact upstream YAML field"
+  },
+  "techniques": [
+    "tilt shift",
+    "high angle",
+    "shallow depth of field"
+  ]
+}

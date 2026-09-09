@@ -1,0 +1,82 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "Y2K"
+  ],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "Y2K",
+      "source": "cases/case-awesome-gpt-image-2-466-fe94a295f286/v1.json#prompt",
+      "span": [
+        1492,
+        1495
+      ],
+      "quote": "sion.\n\nStyling:\nRandomized layered Y2K Tokyo streetwear inspired by chaotic Shibuya nightlife fash"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-466-fe94a295f286/v1.json#prompt",
+      "span": [
+        8,
+        16
+      ],
+      "quote": "Use the uploaded reference image as the exact identity base for the main subject. Preserve their authentic facial structure, recognizable appearance, hairstyle, body proportions, skin te"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-466-fe94a295f286/v1.json#prompt",
+      "span": [
+        17,
+        32
+      ],
+      "quote": "Use the uploaded reference image as the exact identity base for the main subject. Preserve their authentic facial structure, recognizable appearance, hairstyle, body proportions, skin texture, and overa"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-466-fe94a295f286/v1.json#prompt",
+      "span": [
+        289,
+        303
+      ],
+      "quote": "consistency. Completely ignore any unrelated background from the original image.\n\nCreate a hyper-chaotic early-2000s Japanese digicam snapshot aesthetic with raw paparazzi energy and accidental comedy.\n\nScene: the subject is sprinting wildly through"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/5e5d6a4c509686e9394e3c2f3d4b20296130031a790568ffb33dd5246b58cacb.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "5e5d6a4c509686e9394e3c2f3d4b20296130031a790568ffb33dd5246b58cacb"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 10030,
+      "image_links": [
+        "../data/images/case466.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

@@ -1,0 +1,113 @@
+{
+  "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+  "files": [
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/ATTRIBUTION.yml",
+      "source_path": "cases/25/ATTRIBUTION.yml",
+      "sha256": "45005b51fe2c9fe5b4257f92db3c803ba3f87183e31870f1cb29b672ed603903",
+      "bytes": 402
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/case.yml",
+      "source_path": "cases/25/case.yml",
+      "sha256": "c1847330a0ca94902124b22a425d3ddcd57cc5d34d6b42e18d7d9a0dd7fbc7ed",
+      "bytes": 4158
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/ATTRIBUTION.yml",
+      "source_path": "cases/52/ATTRIBUTION.yml",
+      "sha256": "5abca1c219c60d2c4527c9968687bd0f812f75b834d6ccc02994a4757e5e824b",
+      "bytes": 422
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/case.yml",
+      "source_path": "cases/52/case.yml",
+      "sha256": "dd1ed655a81d366be6c185c99a76737b6794dc0e8f3d9ccfd9e16075e6792353",
+      "bytes": 1392
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/ATTRIBUTION.yml",
+      "source_path": "cases/64/ATTRIBUTION.yml",
+      "sha256": "56d08326da069f58762c6e2c228a49a8cead94c4ef0e15152239f23a2abbc902",
+      "bytes": 424
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/case.yml",
+      "source_path": "cases/64/case.yml",
+      "sha256": "bfc32f8f37d7fd081bd20ae2cff11b60dc4a0fd02cfa14a0265169d5532ce8e1",
+      "bytes": 2804
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/ATTRIBUTION.yml",
+      "source_path": "cases/66/ATTRIBUTION.yml",
+      "sha256": "ffb07ff7d2c6e1059175b3ab813cbf9e96940b070ec6854631ac61810dba70dc",
+      "bytes": 412
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/case.yml",
+      "source_path": "cases/66/case.yml",
+      "sha256": "f12c69d6f8b24064e8e4f69d35e8f9340689607c03a74773b29755fef36cf780",
+      "bytes": 1490
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/ATTRIBUTION.yml",
+      "source_path": "cases/71/ATTRIBUTION.yml",
+      "sha256": "5b4bce46bb2bf135ef01cbe65d0e0caac55d8c21cc684f533a5f3c4d9ca0ab6f",
+      "bytes": 381
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml",
+      "source_path": "cases/71/case.yml",
+      "sha256": "a3d468411646b6c90e9f182c976b346cf6a268472d9a111f987d57555ce2017b",
+      "bytes": 1745
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/ATTRIBUTION.yml",
+      "source_path": "cases/84/ATTRIBUTION.yml",
+      "sha256": "1c5e3958245f48574c2a0a00a211ccda51de42a66bab03f51219ff8a599c3bbf",
+      "bytes": 416
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/case.yml",
+      "source_path": "cases/84/case.yml",
+      "sha256": "b8b41cb7ce0e22a3ff11e424dee7e45e859fa31f8b3343fcb0136b198e73b846",
+      "bytes": 1845
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/ATTRIBUTION.yml",
+      "source_path": "cases/86/ATTRIBUTION.yml",
+      "sha256": "abe9b5d800794a59b44010a3ea9a6cb5355434859051e523ca7cb2cc42eba8f2",
+      "bytes": 418
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/case.yml",
+      "source_path": "cases/86/case.yml",
+      "sha256": "e2eb12fdf8a8469b1108af4c8299690f483930ab3884fc0ec4b8f8c8e1eadf3e",
+      "bytes": 2251
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/88/ATTRIBUTION.yml",
+      "source_path": "cases/88/ATTRIBUTION.yml",
+      "sha256": "0d5d99e71f20fbc375881132aefcebe9d10b97cfb0652a722ccef5be2a15ec67",
+      "bytes": 459
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/88/case.yml",
+      "source_path": "cases/88/case.yml",
+      "sha256": "2a68593039d7da6da3b516bcc32e6700de3baa63909b562fe7deb47b5751bde6",
+      "bytes": 1917
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/gpt-image-1/NOTICE-openai.md",
+      "source_path": "gpt-image-1/NOTICE-openai.md",
+      "sha256": "39023cb262d3c56b2f19e7534b776992194a21fe7e39177c1e891efe3c33d492",
+      "bytes": 457
+    },
+    {
+      "path": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/LICENSE",
+      "source_path": "LICENSE",
+      "sha256": "9d245ca7d995c58609161a47fbf73ab72b7ff0d8d2f4c310133dd956d4c6b01e",
+      "bytes": 19078
+    }
+  ]
+}

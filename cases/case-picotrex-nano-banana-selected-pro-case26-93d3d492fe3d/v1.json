@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-09T08:25:48+00:00",
+  "assets": [
+    {
+      "bytes": 1506281,
+      "path": "images/dd50b48744aca48af4d6c63508ecdd16dc0b130007bdff31ac049c40f0d6db51.jpg",
+      "role": "output",
+      "sha256": "dd50b48744aca48af4d6c63508ecdd16dc0b130007bdff31ac049c40f0d6db51",
+      "source_path": "images/pro_case26/output.jpg"
+    }
+  ],
+  "case_id": "case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4896d92e2fd30915cd0efba31a52b3694a6138fc19b010f7bfb2fd8e7e0f6ca6",
+  "model": "Nano Banana Pro",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "一幅气势恢宏、细节丰富的传统中国水墨彩绘手卷，绘于古旧绢本之上，完美地模仿了张择端名作《清明上河图》的艺术风格、笔法和散点透视。\n中心场景：俯瞰熙熙攘攘的现代芝加哥河滨。画面焦点是巨大的钢制开启桥（杜萨布尔桥/密歇根大道桥），桥上车水马龙，无数汽车、黄色出租车和芝加哥交通管理局（CTA）公交车穿梭其间，所有景象均以精准的传统笔触描绘。\n环境细节：下方的芝加哥河上，现代建筑风格的游船、水上出租车和皮划艇穿梭其间。河岸两侧林立着风格各异的芝加哥摩天大楼（形似箭牌大厦和论坛报大厦），以传统的“界画”建筑绘画技法绘制而成。背景中可见高架铁路和正在行驶的“L”型列车。\n人类活动：河滨步道和桥边的人行道上挤满了数百个身着现代休闲服饰的小人。他们有的在慢跑，有的在用智能手机拍照，有的在街头小吃摊（热狗摊）前排队，有的在遛狗。整个场景细节丰富，略显杂乱，并以柔和的复古大地色调呈现。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "images/pro_case26/output.jpg"
+      }
+    ],
+    "attribution": {
+      "collector": "PicoTrex/Awesome-Nano-Banana-images",
+      "creator_as_credited": "@dotey",
+      "creator_url": "https://x.com/dotey",
+      "original_source": "https://x.com/dotey/status/1992469131438719122?s=20"
+    },
+    "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+    "license_status": "source_collection_declaration_retained",
+    "revision": "2558bf0bb825be150c5d1aeab918cd90004882d3",
+    "rights": {
+      "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+      "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。",
+      "independent_ownership_verified": false,
+      "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+      "scope": "selected public-source prompt and image archive with attribution"
+    },
+    "source": "picotrex-nano-banana-selected",
+    "source_category": "插画与艺术",
+    "source_id": "pro_case26",
+    "source_tags": {
+      "scenes": [
+        "城市",
+        "芝加哥河滨"
+      ],
+      "styles": [
+        "中国水墨彩绘",
+        "古旧绢本",
+        "界画"
+      ]
+    },
+    "source_url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+    "title": "清明上河图风格图像",
+    "upstream_url": "https://x.com/dotey/status/1992469131438719122?s=20"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "清明上河图风格图像",
+  "version": "v1"
+}

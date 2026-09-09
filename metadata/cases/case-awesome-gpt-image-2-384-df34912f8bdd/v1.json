@@ -1,0 +1,73 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [
+    "collage"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "collage",
+      "source": "cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.json#prompt",
+      "span": [
+        130,
+        137
+      ],
+      "quote": "sthetic, ultra-realistic cinematic collage featuring the exact same beautiful young woman from the ref"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.json#prompt",
+      "span": [
+        194,
+        209
+      ],
+      "quote": " collage featuring the exact same beautiful young woman from the reference image, shown in 10 different poses within one single image layout (5x2 grid style). Each frame represents a different country’s traditional cultural dress, styled in a modern,"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.json#prompt",
+      "span": [
+        762,
+        777
+      ],
+      "quote": " and toned physique — exactly matching the woman in the provided reference photo.\n\nDesign details:\n\nEach of the 10 frames shows this same woman in different traditional outfits inspired by the following countries: Suriname, Guyana, Puerto Rico, Spain"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/a42186a48624baca73cdb436a3daf074de66b55187361dd9525a4186cfbe6bd2.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "a42186a48624baca73cdb436a3daf074de66b55187361dd9525a4186cfbe6bd2"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 7193,
+      "image_links": [
+        "../data/images/case384.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

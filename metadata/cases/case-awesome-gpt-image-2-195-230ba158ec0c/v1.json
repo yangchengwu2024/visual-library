@@ -1,0 +1,86 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "水墨"
+  ],
+  "materials": [
+    "fabric",
+    "ink"
+  ],
+  "techniques": [
+    "水墨"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "水墨",
+      "source": "cases/case-awesome-gpt-image-2-195-230ba158ec0c/v1.json#prompt",
+      "span": [
+        31,
+        33
+      ],
+      "quote": "[中文]\n一张动态的混合媒体摄影作品，将超写实肖像与传统的中国水墨插画相融合。\n\n中心人物是一位具有柔和短波波头短发造型的照片般逼真的年轻亚洲女性。她的妆容自然且极简，表情平静而温柔。她"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-195-230ba158ec0c/v1.json#prompt",
+      "span": [
+        1117,
+        1123
+      ],
+      "quote": "e outfit with clean lines and soft fabric, conveying purity and minimalism without revealing details."
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-195-230ba158ec0c/v1.json#prompt",
+      "span": [
+        639,
+        642
+      ],
+      "quote": "rtraiture with traditional Chinese ink illustration.\n\nThe central figure is a photorealistic young"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "水墨",
+      "source": "cases/case-awesome-gpt-image-2-195-230ba158ec0c/v1.json#prompt",
+      "span": [
+        31,
+        33
+      ],
+      "quote": "[中文]\n一张动态的混合媒体摄影作品，将超写实肖像与传统的中国水墨插画相融合。\n\n中心人物是一位具有柔和短波波头短发造型的照片般逼真的年轻亚洲女性。她的妆容自然且极简，表情平静而温柔。她"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 762,
+      "image_links": [
+        "../data/images/case195.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

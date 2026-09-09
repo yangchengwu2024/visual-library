@@ -1,0 +1,85 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "glass",
+    "玻璃"
+  ],
+  "techniques": [
+    "double exposure",
+    "双重曝光"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "glass",
+      "source": "cases/case-awesome-gpt-image-2-314-79b969430666/v1.json#prompt",
+      "span": [
+        887,
+        892
+      ],
+      "quote": "tract digital scratches, fractured glass textures, and light leaks overlaying the face for a dramati"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "玻璃",
+      "source": "cases/case-awesome-gpt-image-2-314-79b969430666/v1.json#prompt",
+      "span": [
+        144,
+        146
+      ],
+      "quote": "。深蓝色和鲜艳红色的强烈对比，象征着冲突与力量。抽象的数字划痕、碎裂的玻璃纹理和漏光效果覆盖在面部，营造出戏剧性的效果。干净的白色背景，超精细的灯光，专业电影海报风格，高对比度，清晰聚焦，8K分"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "double exposure",
+      "source": "cases/case-awesome-gpt-image-2-314-79b969430666/v1.json#prompt",
+      "span": [
+        492,
+        507
+      ],
+      "quote": "mpt\": \"A hyper-realistic cinematic double exposure portrait of a young man in side profile, intense focused ex"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "双重曝光",
+      "source": "cases/case-awesome-gpt-image-2-314-79b969430666/v1.json#prompt",
+      "span": [
+        33,
+        37
+      ],
+      "quote": "[中文]\n{\n  \"prompt\": \"一位年轻男子的超写实电影级双重曝光侧脸肖像，表情专注强烈，皮肤纹理细节丰富，眼神锐利。他的面部与从剪影中浮现的未来主义城市天际线无缝融合，摩天大楼和城市建"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 4376,
+      "image_links": [
+        "../data/images/case314.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

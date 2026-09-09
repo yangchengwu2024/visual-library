@@ -1,0 +1,77 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "金属"
+  ],
+  "techniques": [
+    "强制透视"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-404-e928a882fa32/v1.json#prompt",
+      "span": [
+        254,
+        256
+      ],
+      "quote": "高端影响者营销美学。\n\n明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "强制透视",
+      "source": "cases/case-awesome-gpt-image-2-404-e928a882fa32/v1.json#prompt",
+      "span": [
+        116,
+        120
+      ],
+      "quote": "的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。\n\n构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-404-e928a882fa32/v1.json#prompt",
+      "span": [
+        34,
+        36
+      ],
+      "quote": "动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。\n\n构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/c9c9f727f60d88ee94011d94143a7c8ab260d1c623ae79b1e64c36cfe818a1c8.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "c9c9f727f60d88ee94011d94143a7c8ab260d1c623ae79b1e64c36cfe818a1c8"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 7791,
+      "image_links": [
+        "../data/images/case404.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

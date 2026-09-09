@@ -1,0 +1,60 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "surrealist",
+    "超现实主义"
+  ],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "surrealist",
+      "source": "cases/case-awesome-gpt-image-2-238-59b7ff00aca7/v1.json#prompt",
+      "span": [
+        158,
+        168
+      ],
+      "quote": "烈的大小对比，氛围空灵又梦幻。比例9:16\n\n[English]\nA surrealist digital illustration style, adopting a low-angle upward per"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "超现实主义",
+      "source": "cases/case-awesome-gpt-image-2-238-59b7ff00aca7/v1.json#prompt",
+      "span": [
+        7,
+        12
+      ],
+      "quote": "[中文]\n一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。\n画面"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 2481,
+      "image_links": [
+        "../data/images/case238.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

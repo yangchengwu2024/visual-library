@@ -1,0 +1,54 @@
+{
+  "archived_source_manifest": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "README明确标注并逐图实看",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "collector": "PicoTrex/Awesome-Nano-Banana-images",
+    "creator_as_credited": "@neyric_w",
+    "creator_url": "https://x.com/neyric_w",
+    "original_source": "https://x.com/neyric_w/status/1997912720709124562?s=20"
+  },
+  "evidence": [
+    {
+      "kind": "source_section",
+      "locator": "Nano Banana Pro / 例 51 / images/pro_case51/",
+      "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md"
+    },
+    {
+      "kind": "original_source",
+      "note": "由README归属链接保存；本轮未独立读取原帖。",
+      "url": "https://x.com/neyric_w/status/1997912720709124562?s=20"
+    },
+    {
+      "files": [
+        "images/pro_case51/output.jpg"
+      ],
+      "kind": "visual_review",
+      "note": "实看路飞纸艺小人、站立折脚、镂空纸轮廓、木桌和手写经典台词，与原词相符。原prompt保留姿势/台词占位符，图是源作者选定内容的示例，不补造具体生成参数；角色及商标权不由源库许可转让。",
+      "reviewed_on": "2026-09-09"
+    }
+  ],
+  "materials": [
+    "paper",
+    "wood"
+  ],
+  "model_family": "nano-banana",
+  "model_version": "Nano Banana Pro",
+  "movements": [],
+  "original_category": "材质风格",
+  "record_type": "case",
+  "review_note": "实看路飞纸艺小人、站立折脚、镂空纸轮廓、木桌和手写经典台词，与原词相符。原prompt保留姿势/台词占位符，图是源作者选定内容的示例，不补造具体生成参数；角色及商标权不由源库许可转让。",
+  "review_status": "verified",
+  "techniques": [
+    "paper cutting",
+    "folding",
+    "hand drawing"
+  ]
+}

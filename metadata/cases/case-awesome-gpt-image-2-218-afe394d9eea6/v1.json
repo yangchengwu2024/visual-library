@@ -1,0 +1,85 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "纸张"
+  ],
+  "techniques": [
+    "linework",
+    "剖面"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.json#prompt",
+      "span": [
+        1983,
+        1988
+      ],
+      "quote": "llustration on a retro, aged beige paper background. Delicate linework. Intricately complex and prof"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "纸张",
+      "source": "cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.json#prompt",
+      "span": [
+        164,
+        166
+      ],
+      "quote": "大王乌贼 / 列奥纳多・达・芬奇 / 红杉树】\n风格：采用复古泛黄米色纸张背景，绘制精细工整的科学插画；线条细腻精致，整体繁复专业、严谨考究。\n核心视觉要求\n主体逼真 3D 效果\n位于画面视觉中"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "linework",
+      "source": "cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.json#prompt",
+      "span": [
+        2010,
+        2018
+      ],
+      "quote": "d beige paper background. Delicate linework. Intricately complex and professional.\n\nKey Visual Requirem"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "剖面",
+      "source": "cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.json#prompt",
+      "span": [
+        847,
+        849
+      ],
+      "quote": "块结构（参考示例）\nA. 人物类\n模块 1：解剖结构与骨骼系统（含放大剖面图示）\n模块 2：生理运作机制（如循环系统、神经系统）\n模块 3：生平背景与时间线（核心成就）\n模块 4：主要贡献图解（"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 1613,
+      "image_links": [
+        "../data/images/case218.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-212-dd2cd40cdc54/v1.json#prompt",
+      "span": [
+        7,
+        11
+      ],
+      "quote": "[中文]\n请用这个角色制作一本专业设计师打造的照片集。语言为日语。\n\n根据喜好加入提示词会让它更丰富多彩…\n・丰富的场景\n・信息量较多\n\n[English]\nPlease use this character to create a photo book crafted by a professional designer. The language shou"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-212-dd2cd40cdc54/v1.json#prompt",
+      "span": [
+        90,
+        104
+      ],
+      "quote": "集。语言为日语。\n\n根据喜好加入提示词会让它更丰富多彩…\n・丰富的场景\n・信息量较多\n\n[English]\nPlease use this character to create a photo book crafted by a professional designer. The language should be Japanese.\n\nAdding prompts according to your preferences will make it more colorful and "
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/14864d5130c1e2a03035b446ca64f9eed63f869af0981c14d06c21bc0ed25aca.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "14864d5130c1e2a03035b446ca64f9eed63f869af0981c14d06c21bc0ed25aca"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 1405,
+      "image_links": [
+        "../data/images/case212.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

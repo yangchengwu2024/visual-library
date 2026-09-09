@@ -1,0 +1,122 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "cyberpunk"
+  ],
+  "materials": [
+    "wooden",
+    "metallic",
+    "chrome",
+    "plastic",
+    "pencil"
+  ],
+  "techniques": [
+    "halftone"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "cyberpunk",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        3166,
+        3175
+      ],
+      "quote": "alism, futuristic 2020s interface, cyberpunk overload, messy layout, unreadable typography, distorted te"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wooden",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        413,
+        419
+      ],
+      "quote": "computer with chunky keyboard on a wooden desk, green monochrome terminal screen glowing, readable te"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        209,
+        217
+      ],
+      "quote": "Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yellow italic"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "chrome",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        202,
+        208
+      ],
+      "quote": "ading “Introducing Claude!”, large chrome metallic 3D typography with pink and blue reflections, yell"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "plastic",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        3319,
+        3326
+      ],
+      "quote": "rs, bad anatomy, duplicate people, plastic skin, overexposed lighting, low resolution, blurry image, w"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "pencil",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        1344,
+        1350
+      ],
+      "quote": " icons, including a question mark, pencil, light bulb, and clock. Each feature box includes short ret"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "halftone",
+      "source": "cases/case-awesome-gpt-image-2-388-a62074957359/v1.json#prompt",
+      "span": [
+        2797,
+        2805
+      ],
+      "quote": "llustration, glossy print texture, halftone details, nostalgic retro futurism, high saturation, cinemat"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 7292,
+      "image_links": [
+        "../data/images/case388.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

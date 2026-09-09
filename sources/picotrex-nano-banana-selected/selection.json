@@ -1,0 +1,542 @@
+{
+  "source_id": "picotrex-nano-banana-selected",
+  "reviewed_revision": "2558bf0bb825be150c5d1aeab918cd90004882d3",
+  "license_sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+  "entries": [
+    {
+      "source_id": "pro_case13",
+      "prompt_sha256": "74fc99f413b0ac9f9df54354ba7aa79d50d42255646003aa9ea4e53bc022213f",
+      "assets": [
+        {
+          "source_path": "images/pro_case13/output.jpg",
+          "role": "output",
+          "sha256": "9906c83f8d723d767ca9da5719372fb501dc2e3c56d90651ae8f3d5f9c98b0fa"
+        }
+      ],
+      "record_fields": {
+        "category": "材质风格",
+        "styles": [
+          "透明玻璃",
+          "极简产品渲染"
+        ],
+        "scenes": [
+          "产品设计"
+        ],
+        "model": "Nano Banana Pro",
+        "parameters": null,
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "glass",
+            "crystal"
+          ],
+          "techniques": [
+            "refraction",
+            "beveled edges",
+            "product rendering"
+          ],
+          "model_family": "nano-banana",
+          "model_version": "Nano Banana Pro",
+          "record_type": "style_reference",
+          "review_status": "verified",
+          "review_note": "实看为四格玻璃制品展示板，右下是拍立得相机。晶体透明、厚度、倒角和折射对应原词；图为黑背景而原词指定淡米白/浅灰背景，其他三格主体未给独立参数。按材质风格参考保存整个原图，不宣称四格均为这段相机prompt的逐字输出。",
+          "evidence": [
+            {
+              "kind": "source_section",
+              "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+              "locator": "Nano Banana Pro / 例 13 / images/pro_case13/",
+              "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。"
+            },
+            {
+              "kind": "original_source",
+              "url": "https://x.com/ZHO_ZHO_ZHO/status/1992891830208508130?s=20",
+              "note": "由README归属链接保存；本轮未独立读取原帖。"
+            },
+            {
+              "kind": "visual_review",
+              "files": [
+                "images/pro_case13/output.jpg"
+              ],
+              "note": "实看为四格玻璃制品展示板，右下是拍立得相机。晶体透明、厚度、倒角和折射对应原词；图为黑背景而原词指定淡米白/浅灰背景，其他三格主体未给独立参数。按材质风格参考保存整个原图，不宣称四格均为这段相机prompt的逐字输出。",
+              "reviewed_on": "2026-09-09"
+            }
+          ],
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "README明确标注并逐图实看"
+            }
+          ]
+        },
+        "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+        "license_status": "source_collection_declaration_retained",
+        "attribution": {
+          "collector": "PicoTrex/Awesome-Nano-Banana-images",
+          "creator_as_credited": "@ZHO_ZHO_ZHO",
+          "creator_url": "https://x.com/ZHO_ZHO_ZHO",
+          "original_source": "https://x.com/ZHO_ZHO_ZHO/status/1992891830208508130?s=20"
+        },
+        "rights": {
+          "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+          "scope": "selected public-source prompt and image archive with attribution",
+          "independent_ownership_verified": false,
+          "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+          "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+        }
+      }
+    },
+    {
+      "source_id": "pro_case15",
+      "prompt_sha256": "80144f0a822de73e4cb484a82b594aa44b739ab06ba3a4e5020a46ad13a0fb6f",
+      "assets": [
+        {
+          "source_path": "images/pro_case15/input.jpg",
+          "role": "input",
+          "sha256": "6bdd7a0d88d6496bfdb3bdb83b6e203d6a59b1cdab1e0fcafd6d4e22491450dc"
+        },
+        {
+          "source_path": "images/pro_case15/output.jpg",
+          "role": "output",
+          "sha256": "8a910801a8df64a02da7aaf464b98bb6f6a1d83c7f20aa9d7a4ebf04d8dc8551"
+        }
+      ],
+      "record_fields": {
+        "category": "图像编辑",
+        "styles": [
+          "手绘",
+          "等距图"
+        ],
+        "scenes": [
+          "建筑",
+          "街景"
+        ],
+        "model": "Nano Banana Pro",
+        "parameters": null,
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "paper"
+          ],
+          "techniques": [
+            "isometric drawing",
+            "hatching",
+            "photo-to-diagram"
+          ],
+          "model_family": "nano-banana",
+          "model_version": "Nano Banana Pro",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "输入为石拱桥街景照片，输出保留桥、河道和两岸石建筑并改为方格纸上手绘等距示意图。输入输出独立原图齐全；增加了文字标注与推断的不可见结构，不能当测绘准确性证明。",
+          "evidence": [
+            {
+              "kind": "source_section",
+              "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+              "locator": "Nano Banana Pro / 例 15 / images/pro_case15/",
+              "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。"
+            },
+            {
+              "kind": "original_source",
+              "url": "https://x.com/AmirMushich/status/1992704354990907793?s=20",
+              "note": "由README归属链接保存；本轮未独立读取原帖。"
+            },
+            {
+              "kind": "visual_review",
+              "files": [
+                "images/pro_case15/input.jpg",
+                "images/pro_case15/output.jpg"
+              ],
+              "note": "输入为石拱桥街景照片，输出保留桥、河道和两岸石建筑并改为方格纸上手绘等距示意图。输入输出独立原图齐全；增加了文字标注与推断的不可见结构，不能当测绘准确性证明。",
+              "reviewed_on": "2026-09-09"
+            }
+          ],
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "input",
+              "reason": "README明确标注并逐图实看"
+            },
+            {
+              "index": 1,
+              "role": "output",
+              "reason": "README明确标注并逐图实看"
+            }
+          ]
+        },
+        "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+        "license_status": "source_collection_declaration_retained",
+        "attribution": {
+          "collector": "PicoTrex/Awesome-Nano-Banana-images",
+          "creator_as_credited": "@AmirMushich",
+          "creator_url": "https://x.com/AmirMushich",
+          "original_source": "https://x.com/AmirMushich/status/1992704354990907793?s=20"
+        },
+        "rights": {
+          "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+          "scope": "selected public-source prompt and image archive with attribution",
+          "independent_ownership_verified": false,
+          "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+          "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+        }
+      }
+    },
+    {
+      "source_id": "pro_case26",
+      "prompt_sha256": "5c8e7727fd943b80b5fb33373c5432225100b5190090c9c96b9798f8e94fc70e",
+      "assets": [
+        {
+          "source_path": "images/pro_case26/output.jpg",
+          "role": "output",
+          "sha256": "dd50b48744aca48af4d6c63508ecdd16dc0b130007bdff31ac049c40f0d6db51"
+        }
+      ],
+      "record_fields": {
+        "category": "艺术风格",
+        "styles": [
+          "中国水墨彩绘",
+          "古旧绢本",
+          "界画"
+        ],
+        "scenes": [
+          "城市",
+          "芝加哥河滨"
+        ],
+        "model": "Nano Banana Pro",
+        "parameters": null,
+        "metadata": {
+          "artists": [
+            "张择端"
+          ],
+          "movements": [
+            "中国传统绘画"
+          ],
+          "materials": [
+            "aged silk",
+            "ink"
+          ],
+          "techniques": [
+            "散点透视",
+            "界画",
+            "细线描绘"
+          ],
+          "model_family": "nano-banana",
+          "model_version": "Nano Banana Pro",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实看为黄褐绢本长卷、桥梁现代车辆、建筑细线和河岸小人物，符合张择端风格及现代芝加哥重绘意图。未独立核验地理细节与题字；不声称是张择端真作。",
+          "evidence": [
+            {
+              "kind": "source_section",
+              "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+              "locator": "Nano Banana Pro / 例 26 / images/pro_case26/",
+              "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。"
+            },
+            {
+              "kind": "original_source",
+              "url": "https://x.com/dotey/status/1992469131438719122?s=20",
+              "note": "由README归属链接保存；本轮未独立读取原帖。"
+            },
+            {
+              "kind": "visual_review",
+              "files": [
+                "images/pro_case26/output.jpg"
+              ],
+              "note": "实看为黄褐绢本长卷、桥梁现代车辆、建筑细线和河岸小人物，符合张择端风格及现代芝加哥重绘意图。未独立核验地理细节与题字；不声称是张择端真作。",
+              "reviewed_on": "2026-09-09"
+            }
+          ],
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "README明确标注并逐图实看"
+            }
+          ]
+        },
+        "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+        "license_status": "source_collection_declaration_retained",
+        "attribution": {
+          "collector": "PicoTrex/Awesome-Nano-Banana-images",
+          "creator_as_credited": "@dotey",
+          "creator_url": "https://x.com/dotey",
+          "original_source": "https://x.com/dotey/status/1992469131438719122?s=20"
+        },
+        "rights": {
+          "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+          "scope": "selected public-source prompt and image archive with attribution",
+          "independent_ownership_verified": false,
+          "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+          "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+        }
+      }
+    },
+    {
+      "source_id": "pro_case28",
+      "prompt_sha256": "24f9717b601adb9f68f1e1abc1ad4ec47c85b3bba29c1d9bf07481dc6be276ac",
+      "assets": [
+        {
+          "source_path": "images/pro_case28/input.jpg",
+          "role": "input",
+          "sha256": "34cedeaca2e3af6f7831d9cc5bf5058f44d4bde8284bd6a73da31ef0d31bd4ac"
+        },
+        {
+          "source_path": "images/pro_case28/output.jpg",
+          "role": "output",
+          "sha256": "e7c7366af77add187d65f409caaf8855747c4e14cfa232572f893d3bcdc9dc0c"
+        }
+      ],
+      "record_fields": {
+        "category": "图像编辑",
+        "styles": [
+          "粉笔画",
+          "材质转绘"
+        ],
+        "scenes": [
+          "日本教室",
+          "黑板"
+        ],
+        "model": "Nano Banana Pro",
+        "parameters": null,
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "colored chalk",
+            "blackboard"
+          ],
+          "techniques": [
+            "style transfer",
+            "oblique view",
+            "image-to-image"
+          ],
+          "model_family": "nano-banana",
+          "model_version": "Nano Banana Pro",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "输入蓝色兽耳角色插画与输出教室黑板粉笔画均已保存并实看；主要姿势、头发、配色相符，加入侧拍透视、讲台和粉笔颗粒。输出文字为日语近义表达，并非逐字中文“虎来了！”，服装细节有重绘；此例验证图文对应及完整性，不作为严格字符保持成功例。",
+          "evidence": [
+            {
+              "kind": "source_section",
+              "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+              "locator": "Nano Banana Pro / 例 28 / images/pro_case28/",
+              "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。"
+            },
+            {
+              "kind": "original_source",
+              "url": "https://x.com/TlanoAI/status/1991725762504724819?s=20",
+              "note": "由README归属链接保存；本轮未独立读取原帖。"
+            },
+            {
+              "kind": "visual_review",
+              "files": [
+                "images/pro_case28/input.jpg",
+                "images/pro_case28/output.jpg"
+              ],
+              "note": "输入蓝色兽耳角色插画与输出教室黑板粉笔画均已保存并实看；主要姿势、头发、配色相符，加入侧拍透视、讲台和粉笔颗粒。输出文字为日语近义表达，并非逐字中文“虎来了！”，服装细节有重绘；此例验证图文对应及完整性，不作为严格字符保持成功例。",
+              "reviewed_on": "2026-09-09"
+            }
+          ],
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "input",
+              "reason": "README明确标注并逐图实看"
+            },
+            {
+              "index": 1,
+              "role": "output",
+              "reason": "README明确标注并逐图实看"
+            }
+          ]
+        },
+        "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+        "license_status": "source_collection_declaration_retained",
+        "attribution": {
+          "collector": "PicoTrex/Awesome-Nano-Banana-images",
+          "creator_as_credited": "@TlanoAI",
+          "creator_url": "https://x.com/TlanoAI",
+          "original_source": "https://x.com/TlanoAI/status/1991725762504724819?s=20"
+        },
+        "rights": {
+          "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+          "scope": "selected public-source prompt and image archive with attribution",
+          "independent_ownership_verified": false,
+          "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+          "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+        }
+      }
+    },
+    {
+      "source_id": "pro_case35",
+      "prompt_sha256": "20ca34b2efd0d24bf4587daffd0b2402f838b0d1a72b4562ffe630f6f58ba780",
+      "assets": [
+        {
+          "source_path": "images/pro_case35/output.jpg",
+          "role": "output",
+          "sha256": "7ba928208579a0fdc9a55a766645050ede838d6092f0c1cb3da7b56305402764"
+        }
+      ],
+      "record_fields": {
+        "category": "材质风格",
+        "styles": [
+          "微缩模型",
+          "俯视平铺"
+        ],
+        "scenes": [
+          "巴黎",
+          "旅游纪念品"
+        ],
+        "model": "Nano Banana Pro",
+        "parameters": null,
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "miniature model"
+          ],
+          "techniques": [
+            "knolling",
+            "miniature rendering",
+            "top-down composition"
+          ],
+          "model_family": "nano-banana",
+          "model_version": "Nano Banana Pro",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实看巴黎地标微缩磁贴整齐排列，含PARIS纪念牌、天气便签和雨具；对应原词指定的城市地标与天气平铺设计。城市占位符示例为Paris，保存源模板原样；图中日期与天气只是源样例内容，并非当前气象事实。",
+          "evidence": [
+            {
+              "kind": "source_section",
+              "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+              "locator": "Nano Banana Pro / 例 35 / images/pro_case35/",
+              "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。"
+            },
+            {
+              "kind": "original_source",
+              "url": "https://x.com/NanoBanana/status/1995921399207100510?s=20",
+              "note": "由README归属链接保存；本轮未独立读取原帖。"
+            },
+            {
+              "kind": "visual_review",
+              "files": [
+                "images/pro_case35/output.jpg"
+              ],
+              "note": "实看巴黎地标微缩磁贴整齐排列，含PARIS纪念牌、天气便签和雨具；对应原词指定的城市地标与天气平铺设计。城市占位符示例为Paris，保存源模板原样；图中日期与天气只是源样例内容，并非当前气象事实。",
+              "reviewed_on": "2026-09-09"
+            }
+          ],
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "README明确标注并逐图实看"
+            }
+          ]
+        },
+        "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+        "license_status": "source_collection_declaration_retained",
+        "attribution": {
+          "collector": "PicoTrex/Awesome-Nano-Banana-images",
+          "creator_as_credited": "@NanoBanana",
+          "creator_url": "https://x.com/NanoBanana",
+          "original_source": "https://x.com/NanoBanana/status/1995921399207100510?s=20"
+        },
+        "rights": {
+          "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+          "scope": "selected public-source prompt and image archive with attribution",
+          "independent_ownership_verified": false,
+          "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+          "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+        }
+      }
+    },
+    {
+      "source_id": "pro_case51",
+      "prompt_sha256": "4db8ffb92f5386c3af6c476b73ae2a81540522434ac8672653014ca3c615ff6b",
+      "assets": [
+        {
+          "source_path": "images/pro_case51/output.jpg",
+          "role": "output",
+          "sha256": "9d95cb479e1b2e86b48ee6099ce230b76a0d619c71b420b9f514a095ca8c10d1"
+        }
+      ],
+      "record_fields": {
+        "category": "材质风格",
+        "styles": [
+          "纸艺",
+          "手工模型",
+          "卡通"
+        ],
+        "scenes": [
+          "木桌",
+          "角色展示"
+        ],
+        "model": "Nano Banana Pro",
+        "parameters": null,
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "paper",
+            "wood"
+          ],
+          "techniques": [
+            "paper cutting",
+            "folding",
+            "hand drawing"
+          ],
+          "model_family": "nano-banana",
+          "model_version": "Nano Banana Pro",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实看路飞纸艺小人、站立折脚、镂空纸轮廓、木桌和手写经典台词，与原词相符。原prompt保留姿势/台词占位符，图是源作者选定内容的示例，不补造具体生成参数；角色及商标权不由源库许可转让。",
+          "evidence": [
+            {
+              "kind": "source_section",
+              "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+              "locator": "Nano Banana Pro / 例 51 / images/pro_case51/",
+              "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。"
+            },
+            {
+              "kind": "original_source",
+              "url": "https://x.com/neyric_w/status/1997912720709124562?s=20",
+              "note": "由README归属链接保存；本轮未独立读取原帖。"
+            },
+            {
+              "kind": "visual_review",
+              "files": [
+                "images/pro_case51/output.jpg"
+              ],
+              "note": "实看路飞纸艺小人、站立折脚、镂空纸轮廓、木桌和手写经典台词，与原词相符。原prompt保留姿势/台词占位符，图是源作者选定内容的示例，不补造具体生成参数；角色及商标权不由源库许可转让。",
+              "reviewed_on": "2026-09-09"
+            }
+          ],
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "README明确标注并逐图实看"
+            }
+          ]
+        },
+        "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+        "license_status": "source_collection_declaration_retained",
+        "attribution": {
+          "collector": "PicoTrex/Awesome-Nano-Banana-images",
+          "creator_as_credited": "@neyric_w",
+          "creator_url": "https://x.com/neyric_w",
+          "original_source": "https://x.com/neyric_w/status/1997912720709124562?s=20"
+        },
+        "rights": {
+          "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+          "scope": "selected public-source prompt and image archive with attribution",
+          "independent_ownership_verified": false,
+          "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+          "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+        }
+      }
+    }
+  ]
+}

@@ -1,0 +1,60 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "missing_inputs",
+  "review_note": "原文依赖上传图片的风格，归档只有帝王头像结果；缺独立风格输入，不能把结果与原输入自动等同。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-226-abc4e167702b/v1.json#prompt",
+      "span": [
+        7,
+        9
+      ],
+      "quote": "[中文]\n根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字\n\n[English]\nBased on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-226-abc4e167702b/v1.json#prompt",
+      "span": [
+        78,
+        86
+      ],
+      "quote": "格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字\n\n[English]\nBased on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 1973,
+      "image_links": [
+        "../data/images/case226.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

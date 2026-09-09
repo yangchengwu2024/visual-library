@@ -1,0 +1,54 @@
+{
+  "archived_source_manifest": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "README明确标注并逐图实看",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "collector": "PicoTrex/Awesome-Nano-Banana-images",
+    "creator_as_credited": "@ZHO_ZHO_ZHO",
+    "creator_url": "https://x.com/ZHO_ZHO_ZHO",
+    "original_source": "https://x.com/ZHO_ZHO_ZHO/status/1992891830208508130?s=20"
+  },
+  "evidence": [
+    {
+      "kind": "source_section",
+      "locator": "Nano Banana Pro / 例 13 / images/pro_case13/",
+      "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md"
+    },
+    {
+      "kind": "original_source",
+      "note": "由README归属链接保存；本轮未独立读取原帖。",
+      "url": "https://x.com/ZHO_ZHO_ZHO/status/1992891830208508130?s=20"
+    },
+    {
+      "files": [
+        "images/pro_case13/output.jpg"
+      ],
+      "kind": "visual_review",
+      "note": "实看为四格玻璃制品展示板，右下是拍立得相机。晶体透明、厚度、倒角和折射对应原词；图为黑背景而原词指定淡米白/浅灰背景，其他三格主体未给独立参数。按材质风格参考保存整个原图，不宣称四格均为这段相机prompt的逐字输出。",
+      "reviewed_on": "2026-09-09"
+    }
+  ],
+  "materials": [
+    "glass",
+    "crystal"
+  ],
+  "model_family": "nano-banana",
+  "model_version": "Nano Banana Pro",
+  "movements": [],
+  "original_category": "材质风格",
+  "record_type": "style_reference",
+  "review_note": "实看为四格玻璃制品展示板，右下是拍立得相机。晶体透明、厚度、倒角和折射对应原词；图为黑背景而原词指定淡米白/浅灰背景，其他三格主体未给独立参数。按材质风格参考保存整个原图，不宣称四格均为这段相机prompt的逐字输出。",
+  "review_status": "verified",
+  "techniques": [
+    "refraction",
+    "beveled edges",
+    "product rendering"
+  ]
+}

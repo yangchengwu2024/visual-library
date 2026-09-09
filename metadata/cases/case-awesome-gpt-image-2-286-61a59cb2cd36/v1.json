@@ -1,0 +1,121 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "metallic",
+    "foil",
+    "纸艺",
+    "金属"
+  ],
+  "techniques": [
+    "paper-cut",
+    "剪纸"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        287,
+        292
+      ],
+      "quote": "K超高清视觉，细节丰富，真实而富有艺术感染力。\n\n[English]\nPaper-cut art inspired by the modern urban landscape of Zhujiang "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        707,
+        715
+      ],
+      "quote": "ete urban scroll. The picture uses metallic foil or glossy paper material, with delicate light and dark"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "foil",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        716,
+        720
+      ],
+      "quote": " scroll. The picture uses metallic foil or glossy paper material, with delicate light and dark glos"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "纸艺",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        21,
+        23
+      ],
+      "quote": "[中文]\n以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构相"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        108,
+        110
+      ],
+      "quote": "以流畅的线条与结构相连，无孤立部分，构成一幅完整的都市画卷。\n画面采用金属箔或光泽纸材质，表面带有细腻的明暗光泽，在光照下呈现柔和的高光与阴影，仿佛被城市灯光轻轻照亮。\n背景以虚化的珠江新城天际"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "paper-cut",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        287,
+        296
+      ],
+      "quote": "K超高清视觉，细节丰富，真实而富有艺术感染力。\n\n[English]\nPaper-cut art inspired by the modern urban landscape of Zhujiang New "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "剪纸",
+      "source": "cases/case-awesome-gpt-image-2-286-61a59cb2cd36/v1.json#prompt",
+      "span": [
+        20,
+        22
+      ],
+      "quote": "[中文]\n以珠江新城现代都市景观为灵感的剪纸艺术，通过精巧的镂空手法在一整幅纸上，立体刻画广州塔、东西双塔等地标建筑与繁华城景。\n所有建筑与元素均以流畅的线条与结构"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 3547,
+      "image_links": [
+        "../data/images/case286.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

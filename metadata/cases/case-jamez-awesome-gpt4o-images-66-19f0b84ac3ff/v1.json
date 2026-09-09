@@ -1,0 +1,99 @@
+{
+  "archived_source_manifest": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note.",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "creation_tool": "Sora",
+    "date": "2025-05-24",
+    "image_author": "@jamez-bondos",
+    "image_author_link": "https://github.com/jamez-bondos",
+    "license": "CC-BY-4.0",
+    "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+    "prompt_author": "@ZHO_ZHO_ZHO",
+    "prompt_author_link": "https://x.com/ZHO_ZHO_ZHO",
+    "source_links": [
+      {
+        "url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175"
+      }
+    ],
+    "title": "创意丝绸宇宙",
+    "title_en": "Creative Silk Universe"
+  },
+  "evidence": [
+    {
+      "prompt_field": "prompt",
+      "type": "case_yaml",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/case.yml"
+    },
+    {
+      "creation_tool": "Sora",
+      "type": "attribution",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/ATTRIBUTION.yml"
+    },
+    {
+      "checked_at": "2026-09-09",
+      "image_sha256": "7eb62c578306b8a3b791d09ad2d9f9508fe3307f47930535f8f0242b2b19a247",
+      "note": "实际看图：六瓣雪花形白色丝绸物体悬浮在浅灰背景，褶皱、柔和高光、底部投影可见。没有外部输入要求；emoji在prompt中完整保留。",
+      "type": "visual_review"
+    },
+    {
+      "image_sha256": "7eb62c578306b8a3b791d09ad2d9f9508fe3307f47930535f8f0242b2b19a247",
+      "prompt_sha256": "271a9eae03d25ce3abad7105a63dc36ad68363200b9b790fb6a3754963679d96",
+      "reviewed_content_unchanged": true,
+      "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+      "type": "snapshot_check"
+    }
+  ],
+  "materials": [
+    "silk"
+  ],
+  "model_family": "gpt-image",
+  "model_version": null,
+  "movements": [
+    "Surrealism"
+  ],
+  "original_category": "3D Illustration",
+  "record_type": "case",
+  "review_note": "实际看图：六瓣雪花形白色丝绸物体悬浮在浅灰背景，褶皱、柔和高光、底部投影可见。没有外部输入要求；emoji在prompt中完整保留。",
+  "review_status": "verified",
+  "source_details": {
+    "case": {
+      "alt_text": "创意丝绸宇宙",
+      "alt_text_en": "Silk Universe-Creative Universe",
+      "author": "@ZHO_ZHO_ZHO",
+      "author_link": "https://x.com/ZHO_ZHO_ZHO",
+      "image": "example_silk_creation_universe.png",
+      "prompt": "将 {❄️} 变成一个柔软的 3D 丝绸质感物体。整个物体表面包裹着顺滑流动的丝绸面料，带有超现实的褶皱细节、柔和的高光与阴影。该物体轻轻漂浮在干净的浅灰色背景中央，营造出轻盈优雅的氛围。整体风格超现实、触感十足且现代，传递出舒适与精致趣味的感觉。工作室灯光，高分辨率渲染。\n",
+      "prompt_en": "Transform the {❄️} into a soft 3D object with a silk texture. The entire surface of the object is wrapped in smooth and flowing silk fabric, featuring surreal wrinkle details, soft highlights, and shadows. The object gently floats in the center of a clean light gray background, creating a light and elegant atmosphere. The overall style is surreal, tactile, and modern, conveying a sense of comfort and refined playfulness. Studio lighting, high-resolution rendering.\n",
+      "prompt_note": "可替换提示词中的 {❄️} 替换为你的目标值。\n",
+      "prompt_note_en": "You can replace the {❄️} in the prompt words with your target value\n",
+      "reference_note": "",
+      "reference_note_en": "",
+      "source_links": [
+        {
+          "url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175"
+        }
+      ],
+      "submitter": "wowmarcomei",
+      "submitter_link": "https://github.com/wowmarcomei",
+      "title": "创意丝绸宇宙",
+      "title_en": "Creative Silk Universe"
+    },
+    "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/ATTRIBUTION.yml",
+    "model_claim": "Sora",
+    "model_snapshot": null,
+    "prompt_field": "prompt",
+    "prompt_origin": "exact upstream YAML field"
+  },
+  "techniques": [
+    "fabric folds",
+    "floating object",
+    "studio lighting"
+  ]
+}

@@ -1,0 +1,159 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "brutalist"
+  ],
+  "materials": [
+    "stone",
+    "concrete",
+    "steel",
+    "fabric",
+    "rubber",
+    "charcoal"
+  ],
+  "techniques": [
+    "linework"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "原文对上传角色的轮廓/护甲/帽衫有具体保持要求，现存仅角色设定输出。可换自己的设计参考复用，但原角色输入尚不能确认。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "brutalist",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        194,
+        203
+      ],
+      "quote": " geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical streetwear cons"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "stone",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        183,
+        188
+      ],
+      "quote": "ing, helmet geometry, visor shape, stone-like brutalist armor surfaces, black hooded coat, tactical "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "concrete",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        494,
+        502
+      ],
+      "quote": "Brutalist architecture, industrial concrete textures, geometric forms, and minimalist sci-fi design lan"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "steel",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        2312,
+        2317
+      ],
+      "quote": " Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  Focused  Competitive  Confident"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        1684,
+        1690
+      ],
+      "quote": " Body  Coat construction  Buckles  Fabric folds  Armor integration  Mechanical Gloves  Finger articul"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "rubber",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        2159,
+        2165
+      ],
+      "quote": "ric  Matte Black Nylon  Industrial Rubber  Forged Titanium Components  Orange Energy Lighting  COLOR "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "charcoal",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        2278,
+        2286
+      ],
+      "quote": "White  Matte Black  Graphite Gray  Charcoal  Burnt Orange Glow  Dark Steel  EXPRESSION SHEET  Neutral  "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "linework",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        1157,
+        1165
+      ],
+      "quote": "ion sheet layout.  Extremely clean linework.  Cinematic concept art.  Premium graphic design.  No photo"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        8,
+        16
+      ],
+      "quote": "Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, sto"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json#prompt",
+      "span": [
+        17,
+        32
+      ],
+      "quote": "Use the uploaded reference image as the primary character design reference, preserving the overall silhouette, proportions, futuristic apparel layering, helmet geometry, visor shape, stone-like brutalis"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/4d73dc08d7116f0026753e0f58459aea7166bf45ecbb9bf38847a5cab3989a4f.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "4d73dc08d7116f0026753e0f58459aea7166bf45ecbb9bf38847a5cab3989a4f"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11380,
+      "image_links": [
+        "../data/images/case512.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

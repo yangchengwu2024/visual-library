@@ -1,0 +1,23 @@
+{
+  "revision": "2558bf0bb825be150c5d1aeab918cd90004882d3",
+  "files": [
+    {
+      "path": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/LICENSE",
+      "source_path": "LICENSE",
+      "sha256": "c71d239df91726fc519c6eb72d318ec65820627232b2f796219e87dcf35d0ab4",
+      "bytes": 11357
+    },
+    {
+      "path": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+      "source_path": "README.md",
+      "sha256": "0ceec3d505054bf518346c8d2e9b3a316273ca3d63d0511904221297a925de54",
+      "bytes": 189693
+    },
+    {
+      "path": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/README_en.md",
+      "source_path": "README_en.md",
+      "sha256": "3e42a7618c052c32715471531aea9cea08024b2fca3d6da65db2ac2930329083",
+      "bytes": 146050
+    }
+  ]
+}

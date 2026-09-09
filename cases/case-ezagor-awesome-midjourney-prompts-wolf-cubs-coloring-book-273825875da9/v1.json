@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-09-09T08:25:59+00:00",
+  "assets": [
+    {
+      "bytes": 626236,
+      "path": "images/de165d53991c9f6a14b8d69e03d235598e7f64d6b693bb90786510ddaa06049a.png",
+      "role": "output",
+      "sha256": "de165d53991c9f6a14b8d69e03d235598e7f64d6b693bb90786510ddaa06049a",
+      "source_path": "https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png"
+    }
+  ],
+  "case_id": "case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "02442a10fa9e4be4022edaabdbaecc679af4fddda6df6d11c06254ccd6df8823",
+  "model": "Midjourney",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "black and white adult coloring book illustration, cute wolf cubs playing, nature",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png"
+      }
+    ],
+    "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+    "source": "ezagor-awesome-midjourney-prompts",
+    "source_category": "插画与艺术",
+    "source_id": "wolf-cubs-coloring-book",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "illustration",
+        "animals"
+      ]
+    },
+    "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+    "title": "幼狼：黑白涂色书插画",
+    "upstream_url": "https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "幼狼：黑白涂色书插画",
+  "version": "v1"
+}

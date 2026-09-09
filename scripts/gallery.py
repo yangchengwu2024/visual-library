@@ -116,6 +116,64 @@ def _cards(cards):
     return lines
 
 
+
+RECORD_LABELS = {"case": "原图文案例", "style_reference": "风格参考", "keyword_reference": "关键词资料"}
+
+
+def _record_label(entry):
+    kind = entry.get("record_type") or "case"
+    return RECORD_LABELS.get(kind, "其他资料")
+
+
+def _review_label(entry):
+    status = entry.get("review_status") or "needs_review"
+    if entry.get("effective_status") == "missing_inputs" or status == "missing_inputs":
+        return "缺少必要输入图：请先查看详情并补齐参考图"
+    if status in {"needs_review", "untagged", "unknown"}:
+        return "待复核：尚无补充核查，不代表必要输入已齐全"
+    if status in {"verified", "reviewed", "complete"}:
+        return "已记录补充核查结果；以详情中的输入要求为准"
+    return "核查状态：" + str(status)
+
+
+def _summary(entries):
+    counts = {label: sum(_record_label(entry) == label for entry in entries)
+              for label in RECORD_LABELS.values()}
+    other = len(entries) - sum(counts.values())
+    if other:
+        counts["其他资料"] = other
+    pending = sum((entry.get("review_status") or "needs_review") in {"needs_review", "untagged", "unknown"} for entry in entries)
+    missing = sum(entry.get("effective_status") == "missing_inputs" or entry.get("review_status") == "missing_inputs" for entry in entries)
+    return (" · ".join(label + " " + str(count) for label, count in counts.items() if count) +
+            "。待复核 " + str(pending) + "；缺少必要输入图 " + str(missing) +
+            "。")
+
+
+def _facet_pages(entries):
+    pages = {}
+    for document, title, fields in [
+        ("docs/models/index.md", "按模型浏览", [("model_family", "模型")]),
+        ("docs/topics/index.md", "艺术家、流派与材质", [("artists", "艺术家"), ("movements", "流派"), ("materials", "材质"), ("techniques", "技法")])]:
+        lines = _page(title) + ["[返回画廊总览](../gallery.md)", "", "标签用于检索；未标注表示来源或补充标注未提供，并非不适用。", ""]
+        for field, label in fields:
+            groups = {}
+            for entry in entries:
+                values = entry.get(field) or (["unknown"] if field == "model_family" else [])
+                if isinstance(values, str):
+                    values = [values]
+                for value in sorted(set(values)):
+                    groups.setdefault(value, []).append(entry)
+            lines += ["## " + label, ""]
+            if not groups:
+                lines += ["暂无已标注条目。", ""]
+            for value, selected in sorted(groups.items()):
+                lines += ["### " + _text("尚未标注" if value == "unknown" else value) + " · " + str(len(selected)), ""]
+                lines += [_case_link(entry, document) + " — " + _text(_record_label(entry)) + "；" + _text(_review_label(entry)) for entry in selected]
+                lines.append("")
+        pages[document] = "\n".join(lines) + "\n"
+    return pages
+
+
 def _case_card(entry, content, document):
     # Reuse the strict identity validation used for Markdown links.
     _case_link(entry, document)
@@ -131,6 +189,7 @@ def _case_card(entry, content, document):
     numeric = _source_number(entry)
     identifier = (numeric[0] + " #" + numeric[1]) if numeric else entry["case_id"]
     fragments += ["<br><sub>" + _html_text(identifier) + "</sub>"]
+    fragments += ["<br><sub>" + _html_text(_record_label(entry)) + " · " + _html_text(entry.get("model_family") or "模型尚未标注") + "</sub>", "<br><sub>" + _html_text(_review_label(entry)) + "</sub>"]
     return "".join(fragments)
 
 
@@ -141,7 +200,7 @@ def _category_card(spec, document):
     if spec.get("cover"):
         fragments += [anchor + _image(spec["cover"], document, spec["title"], 220) + "</a><br>"]
     fragments += [anchor + "<strong>" + _html_text(spec["title"]) + "</strong></a>",
-                  "<br><sub>" + str(spec["count"]) + " \u4e2a\u6848\u4f8b</sub>"]
+                  "<br><sub>" + str(spec["count"]) + " 条资料</sub>"]
     if spec.get("description"):
         fragments += ["<br>" + _html_text(spec["description"])]
     return "".join(fragments)
@@ -155,7 +214,10 @@ def _contents(root, entries):
         path = root / "cases" / entry["case_id"] / (entry["version"] + ".json")
         content = _read(path, {})
         assets = []
-        for asset in content.get("assets", []):
+        role_overrides = {item["index"]: item["role"] for item in entry.get("asset_roles", []) if "index" in item and "role" in item}
+        for index, original_asset in enumerate(content.get("assets", [])):
+            asset = dict(original_asset)
+            asset["role"] = role_overrides.get(index, asset.get("role", "unknown"))
             relative = asset.get("path")
             if relative:
                 _relative_link(relative, "docs/gallery.md")
@@ -171,9 +233,14 @@ def _contents(root, entries):
 def _case_section(entry, content, document):
     title = _localized(entry.get("title"), entry["case_id"])
     lines = ["## " + _text(title) + " \u00b7 " + _text(entry["version"]), "",
-             _case_link(entry, document), ""]
+             _case_link(entry, document), "",
+             _text(_record_label(entry)) + " · " + _text(entry.get("model_family") or "模型尚未标注"), "",
+             "**" + _text(_review_label(entry)) + "**", ""]
+    if entry.get("review_note"):
+        lines += [_text(entry["review_note"]), ""]
     for asset in content.get("local_assets", []):
-        lines += [_image(asset["path"], document, title, 760), ""]
+        role = {"input": "输入参考图", "output": "输出示例图", "example": "示例图", "reference": "风格参考图"}.get(asset.get("role"), "图片角色尚未确认")
+        lines += ["**" + role + "**", "", _image(asset["path"], document, title, 760), ""]
     prompt = content.get("prompt")
     if isinstance(prompt, str):
         fence = "`" * max(3, max((len(match.group(0)) + 1 for match in re.finditer(r"`+", prompt)), default=3))
@@ -268,9 +335,15 @@ def _readme_content(root, entries, specs, templates, recent, contents):
     lines = [""]
     if (root / "assets" / "banner.svg").is_file():
         lines += ["![\u4e2a\u4eba\u89c6\u89c9\u8d44\u6599\u5e93](assets/banner.svg)", ""]
-    lines += ["**" + str(len(entries)) + " \u4e2a\u6848\u4f8b \u00b7 " + str(len(specs)) + " \u4e2a\u5206\u7c7b \u00b7 " + str(len(templates)) + " \u4e2a\u6a21\u677f**", "",
+    lines += ["**" + str(len(entries)) + " 条资料 \u00b7 " + str(len(specs)) + " \u4e2a\u5206\u7c7b \u00b7 " + str(len(templates)) + " \u4e2a\u6a21\u677f**", "",
               "[\u6253\u5f00\u5b8c\u6574\u753b\u5eca](docs/gallery.md) \u00b7 [\u63d0\u793a\u8bcd\u6a21\u677f](docs/templates.md)", "",
               "### \u5206\u7c7b\u6d4f\u89c8", ""]
+    navigation = "[按模型浏览](docs/models/index.md) · [艺术家、流派与材质](docs/topics/index.md)"
+    if (root / 'docs/collection-status.md').is_file():
+        navigation += " · [复核说明](docs/collection-status.md)"
+    if (root / 'docs/pdf-keywords.md').is_file():
+        navigation += " · [PDF关键词补遗](docs/pdf-keywords.md)"
+    lines[-2:-2] = [_summary(entries), "", navigation, ""]
     lines += _cards([_category_card(spec, "README.md") for spec in specs])
     lines += ["### \u6700\u8fd1\u6536\u5f55", ""]
     lines += _cards([_case_card(entry, contents[entry["case_id"]], "README.md") for entry in recent[:6]])
@@ -295,7 +368,7 @@ def build_gallery(root, catalog):
     specs = _category_specs(root, entries)
     contents = _contents(root, entries)
     style = _read(root / "metadata" / "gallery-style.json", {})
-    pages = {}
+    pages = _facet_pages(entries)
     for spec in specs:
         document = "docs/categories/" + spec["slug"] + ".md"
         selected = [entry for entry in entries if (set(entry.get("categories", [])) & spec["names"] if spec["names"] else not entry.get("categories"))]
@@ -309,21 +382,21 @@ def build_gallery(root, catalog):
             spec["description"] = _localized(configured["description"])
         lines = _page(spec["title"])
         lines += ["[\u8fd4\u56de\u753b\u5eca\u603b\u89c8](../gallery.md)", "",
-                  "\u5171 " + str(len(selected)) + " \u4e2a\u6848\u4f8b\u3002\u70b9\u51fb\u6807\u9898\u67e5\u770b\u672c\u5e93\u56fe\u7247\u4e0e\u5b8c\u6574\u63d0\u793a\u8bcd\u3002", ""]
+                  "\u5171 " + str(len(selected)) + " 条资料\u3002\u70b9\u51fb\u6807\u9898\u67e5\u770b本库图片与原始内容\u3002", ""]
         lines += _cards([_case_card(entry, contents[entry["case_id"]], document) for entry in selected])
         if not selected:
-            lines += ["\u8be5\u5206\u7c7b\u6682\u65e0\u5df2\u6536\u5f55\u6848\u4f8b\u3002"]
+            lines += ["\u8be5\u5206\u7c7b\u6682\u65e0已收录资料\u3002"]
         pages[document] = "\n".join(lines) + "\n"
     chunks = [entries[start:start + PAGE_SIZE] for start in range(0, len(entries), PAGE_SIZE)]
     for number, chunk in enumerate(chunks, 1):
         document = "docs/gallery-part-" + str(number) + ".md"
-        lines = _page("\u5168\u90e8\u6848\u4f8b \u00b7 \u7b2c " + str(number) + " \u518c")
+        lines = _page("全部资料 \u00b7 \u7b2c " + str(number) + " \u518c")
         navigation = ["[\u753b\u5eca\u603b\u89c8](gallery.md)"]
         if number > 1:
             navigation.append("[\u4e0a\u4e00\u518c](gallery-part-" + str(number - 1) + ".md)")
         if number < len(chunks):
             navigation.append("[\u4e0b\u4e00\u518c](gallery-part-" + str(number + 1) + ".md)")
-        lines += [" | ".join(navigation), "", "\u672c\u518c " + str(len(chunk)) + " \u4e2a\u6848\u4f8b\u3002\u6807\u9898\u94fe\u63a5\u56fa\u5b9a\u5230\u6240\u793a\u7248\u672c\u3002", ""]
+        lines += [" | ".join(navigation), "", "\u672c\u518c " + str(len(chunk)) + " 条资料\u3002\u6807\u9898\u94fe\u63a5\u56fa\u5b9a\u5230\u6240\u793a\u7248\u672c\u3002", ""]
         for entry in chunk:
             lines += _case_section(entry, contents[entry["case_id"]], document)
         pages[document] = "\n".join(lines) + "\n"
@@ -352,15 +425,16 @@ def build_gallery(root, catalog):
     pages["docs/templates.md"] = "\n".join(lines) + "\n"
     lines = _page("\u4e2a\u4eba\u89c6\u89c9\u8d44\u6599\u5e93\u753b\u5eca")
     lines += ["[\u8fd4\u56de\u4ed3\u5e93\u9996\u9875](../README.md)", "",
-              "\u5df2\u6536\u5f55 **" + str(len(entries)) + "** \u4e2a\u6848\u4f8b\uff0c**" + str(len(specs)) + "** \u4e2a\u5bfc\u822a\u5206\u7c7b\uff0c**" + str(len(templates)) + "** \u4e2a\u6a21\u677f\u3002", "",
-              "\u6309\u5206\u7c7b\u6216\u5206\u518c\u6d4f\u89c8\uff0c\u70b9\u51fb\u6848\u4f8b\u6807\u9898\u67e5\u770b\u672c\u5e93\u56fe\u7247\u548c\u5b8c\u6574\u539f\u59cb\u63d0\u793a\u8bcd\u3002", "",
+              "\u5df2\u6536\u5f55 **" + str(len(entries)) + "** 条资料\uff0c**" + str(len(specs)) + "** \u4e2a\u5bfc\u822a\u5206\u7c7b\uff0c**" + str(len(templates)) + "** \u4e2a\u6a21\u677f\u3002", "",
+              "\u6309\u5206\u7c7b\u6216\u5206\u518c\u6d4f\u89c8\uff0c\u70b9\u51fb\u6848\u4f8b\u6807\u9898\u67e5\u770b本库图片和原始内容；复用前请查看输入要求与核查状态\u3002", "",
               "[\u63d0\u793a\u8bcd\u6a21\u677f](templates.md)", "", "## \u5206\u7c7b\u6d4f\u89c8", ""]
+    lines[4:4] = [_summary(entries), "", "[按模型浏览](models/index.md) · [艺术家、流派与材质](topics/index.md)", ""]
     lines += _cards([_category_card(spec, "docs/gallery.md") for spec in specs])
-    lines += ["", "## \u5168\u90e8\u6848\u4f8b", "", "\u6bcf\u518c\u6700\u591a " + str(PAGE_SIZE) + " \u4e2a\u6848\u4f8b\uff0c\u4e0b\u5217\u5206\u518c\u5408\u8ba1\u8986\u76d6\u5168\u90e8\u5df2\u6536\u5f55\u6848\u4f8b\u3002", ""]
+    lines += ["", "## 全部资料", "", "\u6bcf\u518c\u6700\u591a " + str(PAGE_SIZE) + " 条资料\uff0c\u4e0b\u5217\u5206\u518c\u5408\u8ba1\u8986\u76d6\u5168\u90e8已收录资料\u3002", ""]
     for number, chunk in enumerate(chunks, 1):
-        lines.append("- [\u7b2c " + str(number) + " \u518c](gallery-part-" + str(number) + ".md)\uff08" + str(len(chunk)) + " \u4e2a\u6848\u4f8b\uff09")
+        lines.append("- [\u7b2c " + str(number) + " \u518c](gallery-part-" + str(number) + ".md)\uff08" + str(len(chunk)) + " 条资料\uff09")
     if not entries:
-        lines += ["\u6682\u65e0\u5df2\u6536\u5f55\u6848\u4f8b\u3002"]
+        lines += ["\u6682\u65e0已收录资料\u3002"]
     lines += ["", "## \u6700\u8fd1\u6536\u5f55", ""]
     recent = sorted(entries, key=lambda entry: (str(entry.get("archived_at", ""))[:10], _sort_key(entry)), reverse=True)[:12]
     lines += _cards([_case_card(entry, contents[entry["case_id"]], "docs/gallery.md") for entry in recent])

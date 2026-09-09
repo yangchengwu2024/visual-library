@@ -1,0 +1,144 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "wood",
+    "wooden",
+    "stone",
+    "glass",
+    "metal",
+    "metallic",
+    "玻璃",
+    "木纹",
+    "金属"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wood",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        4688,
+        4692
+      ],
+      "quote": "          \"material\": \"dark carved wood\",\n              \"shape\": \"square top\",\n              \"detai"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wooden",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        3742,
+        3748
+      ],
+      "quote": " \"background_elements\": [\n        \"wooden shelves filled with spices\",\n        \"sacks and bowls of dr"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "stone",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        3543,
+        3548
+      ],
+      "quote": "tecture\": {\n        \"walls\": \"aged stone walls with visible texture and wear\",\n        \"arches\": \"la"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "glass",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        4338,
+        4343
+      ],
+      "quote": "      \"bottle\": \"transparent clear glass\",\n            \"cap\": \"gold metallic rectangular cap\",\n     "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metal",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        3877,
+        3882
+      ],
+      "quote": "es of herbs\",\n        \"traditional metal lanterns emitting warm yellow light\"\n      ],\n      \"lighti"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        4371,
+        4379
+      ],
+      "quote": "r glass\",\n            \"cap\": \"gold metallic rectangular cap\",\n            \"liquid\": \"light golden perfu"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "玻璃",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        796,
+        798
+      ],
+      "quote": "material\": {\n        \"bottle\": \"透明清玻璃\",\n        \"cap\": \"黄金金属矩形瓶盖\",\n        \"liquid\": \"淡金香水液体\"\n   "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "木纹",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        1946,
+        1948
+      ],
+      "quote": "深棕木片\",\n            \"texture\": \"粗糙纤维木纹\",\n            \"effect\": \"缕缕白烟上升\"\n          }\n        ]\n    "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.json#prompt",
+      "span": [
+        509,
+        511
+      ],
+      "quote": "\n        \"悬挂草药束\",\n        \"散发暖黄光的传统金属灯笼\"\n      ],\n      \"lighting\": {\n        \"primary\": \"柔和金色环境光"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 4853,
+      "image_links": [
+        "../data/images/case327.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "last_success_revision": null,
+  "mappings": {
+    "25": {
+      "case_id": "case-jamez-awesome-gpt4o-images-25-4d9345f3a65a",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "52": {
+      "case_id": "case-jamez-awesome-gpt4o-images-52-38c70ceb2352",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "64": {
+      "case_id": "case-jamez-awesome-gpt4o-images-64-60796c67e3e7",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "66": {
+      "case_id": "case-jamez-awesome-gpt4o-images-66-19f0b84ac3ff",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "71": {
+      "case_id": "case-jamez-awesome-gpt4o-images-71-f6ef3df1aef7",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "84": {
+      "case_id": "case-jamez-awesome-gpt4o-images-84-2d7bc8b0cfb0",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "86": {
+      "case_id": "case-jamez-awesome-gpt4o-images-86-ce808b021985",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "88": {
+      "case_id": "case-jamez-awesome-gpt4o-images-88-0c3dc8b9a1ba",
+      "upstream_present": true,
+      "version": "v1"
+    }
+  },
+  "pending_count": 0,
+  "schema_version": 1,
+  "source": {
+    "name": "jamez-awesome-gpt4o-images",
+    "url": "https://github.com/jamez-bondos/awesome-gpt4o-images"
+  }
+}

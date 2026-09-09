@@ -1,0 +1,98 @@
+{
+  "model_family": "unknown",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "stone",
+    "ink"
+  ],
+  "techniques": [
+    "halftone"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "prompt 的 target_tool 与 target 明示 DALL-E 3 (ChatGPT)，属于目标工具声明，不等于实际生成证明；family 保持 unknown，版本不强行填写。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.json#prompt",
+      "span": [
+        519,
+        524
+      ],
+      "quote": " tones as if printed on aged matte paper stock, a subtle halftone dot pattern visible in the midtone"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "stone",
+      "source": "cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.json#prompt",
+      "span": [
+        1410,
+        1415
+      ],
+      "quote": "und: the grand honey-amber cantera stone neoclassical facade of the Teatro Degollado rising directly"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.json#prompt",
+      "span": [
+        605,
+        608
+      ],
+      "quote": "in the midtones, and a very slight ink bleed at high-contrast edges giving it an authentic vintage"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "halftone",
+      "source": "cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.json#prompt",
+      "span": [
+        541,
+        549
+      ],
+      "quote": "n aged matte paper stock, a subtle halftone dot pattern visible in the midtones, and a very slight ink "
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/be4689e9f05cebe53ddb547b00489d12e763aa931ca748b02aa112ab03b737c4.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "be4689e9f05cebe53ddb547b00489d12e763aa931ca748b02aa112ab03b737c4"
+    },
+    {
+      "kind": "model_conflict",
+      "source": "cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.json#prompt",
+      "quote": "Guadalajara, Mexico\",\n  \"target_tool\": \"DALL-E 3 (ChatGPT)\",\n  \"prompt\": \"Generate a vertical portrait-format movie poster ",
+      "note": "冲突证据不能证明实际生成引擎；model_family=unknown，model_version=null。"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11435,
+      "image_links": [
+        "../data/images/case515.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

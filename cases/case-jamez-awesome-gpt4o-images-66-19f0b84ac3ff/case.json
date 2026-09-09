@@ -1,0 +1,112 @@
+{
+  "case_id": "case-jamez-awesome-gpt4o-images-66-19f0b84ac3ff",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "Object"
+    ],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [
+        "Object"
+      ],
+      "styles": [
+        "Surrealism",
+        "3D"
+      ]
+    },
+    "styles": [
+      "Surrealism",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "cases/66/example_silk_creation_universe.png"
+        }
+      ],
+      "attribution": {
+        "creation_tool": "Sora",
+        "date": "2025-05-24",
+        "image_author": "@jamez-bondos",
+        "image_author_link": "https://github.com/jamez-bondos",
+        "license": "CC-BY-4.0",
+        "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+        "prompt_author": "@ZHO_ZHO_ZHO",
+        "prompt_author_link": "https://x.com/ZHO_ZHO_ZHO",
+        "source_links": [
+          {
+            "url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175"
+          }
+        ],
+        "title": "创意丝绸宇宙",
+        "title_en": "Creative Silk Universe"
+      },
+      "license": "CC-BY-4.0",
+      "license_status": "per-case declaration; third-party prompt rights not independently verified",
+      "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+      "rights": {
+        "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+        "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+        "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+        "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+      },
+      "source": "jamez-awesome-gpt4o-images",
+      "source_category": "插画与艺术",
+      "source_id": "66",
+      "source_metadata": {
+        "case": {
+          "alt_text": "创意丝绸宇宙",
+          "alt_text_en": "Silk Universe-Creative Universe",
+          "author": "@ZHO_ZHO_ZHO",
+          "author_link": "https://x.com/ZHO_ZHO_ZHO",
+          "image": "example_silk_creation_universe.png",
+          "prompt": "将 {❄️} 变成一个柔软的 3D 丝绸质感物体。整个物体表面包裹着顺滑流动的丝绸面料，带有超现实的褶皱细节、柔和的高光与阴影。该物体轻轻漂浮在干净的浅灰色背景中央，营造出轻盈优雅的氛围。整体风格超现实、触感十足且现代，传递出舒适与精致趣味的感觉。工作室灯光，高分辨率渲染。\n",
+          "prompt_en": "Transform the {❄️} into a soft 3D object with a silk texture. The entire surface of the object is wrapped in smooth and flowing silk fabric, featuring surreal wrinkle details, soft highlights, and shadows. The object gently floats in the center of a clean light gray background, creating a light and elegant atmosphere. The overall style is surreal, tactile, and modern, conveying a sense of comfort and refined playfulness. Studio lighting, high-resolution rendering.\n",
+          "prompt_note": "可替换提示词中的 {❄️} 替换为你的目标值。\n",
+          "prompt_note_en": "You can replace the {❄️} in the prompt words with your target value\n",
+          "reference_note": "",
+          "reference_note_en": "",
+          "source_links": [
+            {
+              "url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175"
+            }
+          ],
+          "submitter": "wowmarcomei",
+          "submitter_link": "https://github.com/wowmarcomei",
+          "title": "创意丝绸宇宙",
+          "title_en": "Creative Silk Universe"
+        },
+        "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/ATTRIBUTION.yml",
+        "model_claim": "Sora",
+        "model_snapshot": null,
+        "prompt_field": "prompt",
+        "prompt_origin": "exact upstream YAML field"
+      },
+      "source_tags": {
+        "scenes": [
+          "Object"
+        ],
+        "styles": [
+          "Surrealism",
+          "3D"
+        ]
+      },
+      "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/case.yml",
+      "title": "创意丝绸宇宙",
+      "upstream_url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175",
+      "version": "v1"
+    }
+  ],
+  "title": "创意丝绸宇宙",
+  "title_aliases": [
+    "创意丝绸宇宙"
+  ]
+}

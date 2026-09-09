@@ -1,0 +1,107 @@
+{
+  "archived_at": "2026-09-09T08:25:28+00:00",
+  "assets": [
+    {
+      "bytes": 334943,
+      "path": "images/d31ad551e0447c073a0b05977e0039bf4a10218f61d28a049b92f648184db952.png",
+      "role": "output",
+      "sha256": "d31ad551e0447c073a0b05977e0039bf4a10218f61d28a049b92f648184db952",
+      "source_path": "cases/25/example_minimalist_3d_toilet.png"
+    }
+  ],
+  "case_id": "case-jamez-awesome-gpt4o-images-25-4d9345f3a65a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8fbec49ff8a8aef204cb6b75daaf34e61d6c51e58a620506ea1c6f64a091932e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "使用以下 JSON 配置文件生成一个马桶：\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+  "prompt_variants": {
+    "prompt": "使用以下 JSON 配置文件生成一个马桶：\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+    "prompt_en": "Generate a toilet with the following JSON profile:\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n"
+  },
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "cases/25/example_minimalist_3d_toilet.png"
+      }
+    ],
+    "attribution": {
+      "creation_tool": "Sora",
+      "date": "2025-05-24",
+      "image_author": "@jamez-bondos",
+      "image_author_link": "https://github.com/jamez-bondos",
+      "license": "CC-BY-4.0",
+      "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+      "prompt_author": "@0xdlk",
+      "prompt_author_link": "https://x.com/0xdlk",
+      "source_links": [
+        {
+          "url": "https://x.com/0xdlk/status/1906843247432929642"
+        }
+      ],
+      "title": "极简主义 3D 插画",
+      "title_en": "Minimalist 3D Illustration"
+    },
+    "license": "CC-BY-4.0",
+    "license_status": "per-case declaration; third-party prompt rights not independently verified",
+    "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+    "rights": {
+      "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+      "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+      "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+      "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+    },
+    "source": "jamez-awesome-gpt4o-images",
+    "source_category": "插画与艺术",
+    "source_id": "25",
+    "source_metadata": {
+      "case": {
+        "alt_text": "极简主义 3D 插画",
+        "alt_text_en": "Minimalist 3D Illustration",
+        "author": "@0xdlk",
+        "author_link": "https://x.com/0xdlk",
+        "image": "example_minimalist_3d_toilet.png",
+        "prompt": "使用以下 JSON 配置文件生成一个马桶：\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+        "prompt_en": "Generate a toilet with the following JSON profile:\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+        "prompt_note": "原提示词以 JSON 格式给出，JSON部分未翻译，请参考原文。",
+        "prompt_note_en": "",
+        "reference_note": "",
+        "reference_note_en": "",
+        "source_links": [
+          {
+            "url": "https://x.com/0xdlk/status/1906843247432929642"
+          }
+        ],
+        "submitter": "",
+        "submitter_link": "",
+        "title": "极简主义 3D 插画",
+        "title_en": "Minimalist 3D Illustration"
+      },
+      "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/ATTRIBUTION.yml",
+      "model_claim": "Sora",
+      "model_snapshot": null,
+      "prompt_field": "prompt",
+      "prompt_origin": "exact upstream YAML field"
+    },
+    "source_tags": {
+      "scenes": [
+        "Product"
+      ],
+      "styles": [
+        "Minimalism",
+        "3D"
+      ]
+    },
+    "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/case.yml",
+    "title": "极简主义 3D 插画",
+    "upstream_url": "https://x.com/0xdlk/status/1906843247432929642"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "极简主义 3D 插画",
+  "version": "v1"
+}

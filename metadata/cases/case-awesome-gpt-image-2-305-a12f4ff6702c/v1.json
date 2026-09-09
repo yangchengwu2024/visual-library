@@ -1,0 +1,84 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "glass",
+    "porcelain",
+    "fabric",
+    "玻璃"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "glass",
+      "source": "cases/case-awesome-gpt-image-2-305-a12f4ff6702c/v1.json#prompt",
+      "span": [
+        1695,
+        1700
+      ],
+      "quote": "ve casual leaning pose against the glass door of a 24-hour convenience store at late night, body sli"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "porcelain",
+      "source": "cases/case-awesome-gpt-image-2-305-a12f4ff6702c/v1.json#prompt",
+      "span": [
+        1072,
+        1081
+      ],
+      "quote": "l sharp V-shaped jawline, flawless porcelain skin with cool ivory undertone and visible specular highlig"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-305-a12f4ff6702c/v1.json#prompt",
+      "span": [
+        2454,
+        2460
+      ],
+      "quote": "g, natural hair strands, realistic fabric wrinkles and drape on the oversized shirt and mini skirt, n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "玻璃",
+      "source": "cases/case-awesome-gpt-image-2-305-a12f4ff6702c/v1.json#prompt",
+      "span": [
+        332,
+        334
+      ],
+      "quote": "条极小的黑色百褶迷你裙，赤脚穿着简约的白色拖鞋，在深夜24小时便利店的玻璃门上呈现出诱人随性的倚靠姿势，身体微微拱起，一条腿弯曲，脚搭在门框上，另一条腿伸直，一只手拿着一瓶冰饮，另一只手轻轻拉扯"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 3995,
+      "image_links": [
+        "../data/images/case305.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

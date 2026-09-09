@@ -1,0 +1,109 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "fabric"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        1792,
+        1798
+      ],
+      "quote": "t neckline\n\nopaque non-transparent fabric\n\nfull-length flowing skirt\n\nsimple white closed-toe sneaker"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        387,
+        402
+      ],
+      "quote": " person must remain clearly recognizable and consistent with the reference image. Do not redesign or replace the face.\n\nPOSE & COMPOSITION:\nCreate a full-body vertical portrait of the person standing naturally on a grassy mountain ridge. The body is "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        705,
+        713
+      ],
+      "quote": "ard the viewer. One hand gently holds several long white strings attached to an enormous fluffy white cloud floating directly above the person like a whimsical balloon bouquet. The other hand rests naturally beside the body.\n\nSCENE:\nA breathta"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        87,
+        94
+      ],
+      "quote": "photorealistic outdoor fashion photograph based on the person in @image1.\n\nIDENTITY & FACE:\nPreserve the exact facial identity of the person in @image1. Keep the same face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, hair"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        166,
+        173
+      ],
+      "quote": "TITY & FACE:\nPreserve the exact facial identity of the person in @image1. Keep the same face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and all recognizable facial features. The person must remain c"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        2245,
+        2252
+      ],
+      "quote": "\n\nHAIR:\nKeep the person's original hairstyle and hair color from @image1 as much as possible. Allow a few natural strands of hair to move gently in the mountain breeze.\n\nLIGHTING:\nBright natural midday sunlight, soft atmospheric illumination,"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.json#prompt",
+      "span": [
+        3360,
+        3367
+      ],
+      "quote": " travel photograph.\n\nIMPORTANT:\nPreserve the exact identity from @image1. Do not change the person's recognizable face or facial structure. Keep the outfit completely modest, opaque, and fully covering. Maintain realistic anatomy, natural han"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/fed444fdb35f50c058fa40625b06e80d0727214bf3a5c36b7d809f24d24827bb.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "fed444fdb35f50c058fa40625b06e80d0727214bf3a5c36b7d809f24d24827bb"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11846,
+      "image_links": [
+        "../data/images/case529.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

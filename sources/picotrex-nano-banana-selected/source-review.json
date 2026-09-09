@@ -1,0 +1,48 @@
+{
+  "id": "picotrex-nano-banana-selected",
+  "name": "picotrex-nano-banana-selected",
+  "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+  "revision": "2558bf0bb825be150c5d1aeab918cd90004882d3",
+  "policy": "selected_cases",
+  "approved_scope": {
+    "record_ids": [
+      "pro_case13",
+      "pro_case15",
+      "pro_case26",
+      "pro_case28",
+      "pro_case35",
+      "pro_case51"
+    ],
+    "entry_paths": [
+      "README.md",
+      "LICENSE"
+    ],
+    "mode": "append",
+    "public_archive": true,
+    "new_ids_require_review": true,
+    "changed_selected_ids_require_complete_assets_and_review": true
+  },
+  "license_evidence": {
+    "readme_badge": "[![License: CC BY 4.0](https://img.shields.io/badge/License-CC_BY_4.0-lightgrey.svg)](LICENSE)",
+    "collection_description": "我们收集了Nano-banana/Nano-banana-pro在各个任务场景下生成的令人惊艳的图片和提示词",
+    "source_warning": "我们不能保证所有案例都来自于原始作者，如果对您造成困扰，请随时与我们联系修改。",
+    "files": [
+      "pico/README.md",
+      "pico/README_en.md",
+      "pico/LICENSE"
+    ],
+    "urls": [
+      "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+      "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/LICENSE"
+    ],
+    "interpretation": "仓库本身是图片与prompt集合，未声明仅代码受许可。README CC BY 4.0与LICENSE Apache-2.0名称不一致，保留原状，同时满足署名、许可证副本、保留声明、注明改动、无背书；不推断原作者权利已获独立验证。"
+  },
+  "rights": {
+    "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+    "scope": "selected public-source prompt and image archive with attribution",
+    "independent_ownership_verified": false,
+    "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+    "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。"
+  },
+  "repository": "PicoTrex/Awesome-Nano-Banana-images"
+}

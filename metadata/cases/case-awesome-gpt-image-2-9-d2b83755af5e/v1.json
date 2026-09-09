@@ -1,0 +1,61 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "国潮"
+  ],
+  "materials": [
+    "丝绸"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "国潮",
+      "source": "cases/case-awesome-gpt-image-2-9-d2b83755af5e/v1.json#prompt",
+      "span": [
+        34,
+        36
+      ],
+      "quote": "2026中国城市系列宣传海报，主题为【北京】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "丝绸",
+      "source": "cases/case-awesome-gpt-image-2-9-d2b83755af5e/v1.json#prompt",
+      "span": [
+        70,
+        72
+      ],
+      "quote": "潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-1.md",
+      "line": 163,
+      "image_links": [
+        "../data/images/case9.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

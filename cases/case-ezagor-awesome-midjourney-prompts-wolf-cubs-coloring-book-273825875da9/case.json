@@ -1,0 +1,52 @@
+{
+  "case_id": "case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "illustration",
+        "animals"
+      ]
+    },
+    "styles": [
+      "插画",
+      "animals"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png"
+        }
+      ],
+      "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+      "source": "ezagor-awesome-midjourney-prompts",
+      "source_category": "插画与艺术",
+      "source_id": "wolf-cubs-coloring-book",
+      "source_tags": {
+        "scenes": [],
+        "styles": [
+          "illustration",
+          "animals"
+        ]
+      },
+      "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+      "title": "幼狼：黑白涂色书插画",
+      "upstream_url": "https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png",
+      "version": "v1"
+    }
+  ],
+  "title": "幼狼：黑白涂色书插画",
+  "title_aliases": [
+    "幼狼：黑白涂色书插画"
+  ]
+}

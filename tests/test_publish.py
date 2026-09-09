@@ -37,7 +37,7 @@ class PublisherTests(unittest.TestCase):
             publisher.publish('example/library')
         self.assertEqual(state['clones'], 2)
         self.assertEqual(state['pushes'], 2)
-        self.assertEqual(sum('scripts/sync_upstream.py' in c for c in calls), 2)
+        self.assertEqual(sum('scripts/upstreams.py' in c for c in calls), 2)
         self.assertFalse(any('--force' in c or 'reset' in c or 'rebase' in c for c in calls))
 
     def test_no_change_does_not_commit(self):
@@ -56,7 +56,7 @@ class PublisherTests(unittest.TestCase):
         fake, calls, state = self.fake()
         def failed(args, cwd, env, check=True):
             result = fake(args, cwd, env, check)
-            if 'scripts/sync_upstream.py' in args:
+            if 'scripts/upstreams.py' in args:
                 result.returncode = 1
                 result.stdout = 'pending resource'
             return result

@@ -67,11 +67,11 @@ python -B scripts/library.py similar --case <案例编号>
 
 确认是同一案例的变体后才使用 `group-variant`，旧 ID、版本和个人引用会保留映射。只相似但属于不同创意的案例继续独立保存，不自动删除。
 
-完整状态表示该来源明确提供的提示词及图片已保存；有些提示词要求使用者另提供照片，这不代表上游附带了那张照片。来源未提供的生成参数、模型细分版本、作者信息不补造。
+文件归档状态与复核状态分别保存。案例页显示待复核或缺输入等实际情况，不能把来源有图或原文非空等同全部使用条件齐全。通用输入模板和特定原图缺失分别判断，见[复核说明](collection-status.md)。来源未给的参数、精确模型和作者不补造。
 
 ## 更新维护
 
-首个来源：[awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)。GitHub Actions 每天北京时间约 09:23 检查一次，也可在 Actions 中手动运行 **Sync visual library**。执行在 GitHub 云端，不需要个人电脑开机；GitHub 定时可能延迟，具体以运行记录为准。
+来源按批准范围分级管理，见[上游更新与手动收录](upstreams.md)。GitHub Actions 每天北京时间10:00检查；Actions手动运行默认check只检查，选择sync才执行更新。执行在 GitHub 云端，不需要个人电脑开机；GitHub 定时可能延迟，具体以运行记录为准。
 
 有变化才下载固定上游版本、归档图片和原始文档、导入与生成索引和画廊目录；没有变化不提交。失败不清空旧数据，不将缺图案例标记完整。部分资源缺失时，已取得的图片和其他完整新增仍归档，缺项留待补齐，来源成功版本不提前推进。普通上游删除只改变来源状态，本库已存内容继续可查。
 
@@ -96,3 +96,15 @@ python -B -m unittest discover -s tests -v
 ## MCP入口
 
 支持通过自有只读MCP调用上述资料能力，见[连接与使用说明](mcp.md)。现有图文、版本、来源同步不因启用MCP改变。
+
+## 模型与专题检索
+
+可组合model_family、artist、movement、material、record_type、review_status筛选；中英文材料别名可通用。
+
+```text
+python -B scripts/library.py query --model-family nano-banana --material 玻璃
+python -B scripts/library.py query --model-family midjourney --artist "Skottie Young"
+python -B scripts/library.py query --review-status missing_inputs
+```
+
+原prompt有多个语言字段时完整存入prompt_variants；独立案例页与MCP详情均可读取，翻译变化也保留为新版本。

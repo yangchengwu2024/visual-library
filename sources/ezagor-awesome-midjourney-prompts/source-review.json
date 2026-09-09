@@ -1,0 +1,21 @@
+{
+  "name": "ezagor-awesome-midjourney-prompts",
+  "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts",
+  "type": "github-markdown",
+  "owner": "Ezagor-dev",
+  "repository": "Ezagor-dev/awesome-midjourney-prompts",
+  "branch": "main",
+  "entrypoints": [
+    "README.md",
+    "LICENSE"
+  ],
+  "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+  "license": "CC0-1.0",
+  "license_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+  "license_scope": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee.",
+  "source_tier": "curated",
+  "maintenance_policy": "entrypoints-only",
+  "import_mode": "append",
+  "model_family": "midjourney",
+  "reviewed_at": "2026-09-09"
+}

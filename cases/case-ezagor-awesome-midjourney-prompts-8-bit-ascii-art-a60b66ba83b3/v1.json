@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-09-09T08:25:59+00:00",
+  "assets": [
+    {
+      "bytes": 876079,
+      "path": "images/c0946f4a2e6dfce1f38ef00a473cd51fbe5bbcda0f4c47d5705dfc204803971c.png",
+      "role": "output",
+      "sha256": "c0946f4a2e6dfce1f38ef00a473cd51fbe5bbcda0f4c47d5705dfc204803971c",
+      "source_path": "https://user-images.githubusercontent.com/45847677/220787067-3ec8ec1f-d309-4234-a2dd-55687dbbdc0e.png"
+    }
+  ],
+  "case_id": "case-ezagor-awesome-midjourney-prompts-8-bit-ascii-art-a60b66ba83b3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "78926ac603aad1671478935a5a934b719b6d06d9371fc6d3fecc0b97dc9e0cac",
+  "model": "Midjourney",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "8-bit ascii-art",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "https://user-images.githubusercontent.com/45847677/220787067-3ec8ec1f-d309-4234-a2dd-55687dbbdc0e.png"
+      }
+    ],
+    "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+    "source": "ezagor-awesome-midjourney-prompts",
+    "source_category": "插画与艺术",
+    "source_id": "8-bit-ascii-art",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "style",
+        "pixel art"
+      ]
+    },
+    "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+    "title": "8-bit ASCII风格参考",
+    "upstream_url": "https://user-images.githubusercontent.com/45847677/220787067-3ec8ec1f-d309-4234-a2dd-55687dbbdc0e.png"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "8-bit ASCII风格参考",
+  "version": "v1"
+}

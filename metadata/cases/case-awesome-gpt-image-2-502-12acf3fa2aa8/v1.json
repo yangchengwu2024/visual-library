@@ -1,0 +1,88 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "metallic",
+    "chrome",
+    "steel"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.json#prompt",
+      "span": [
+        2244,
+        2252
+      ],
+      "quote": "c god rays, rich contrast, glowing metallic highlights, subtle magical energy around the Ace of Spades."
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "chrome",
+      "source": "cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.json#prompt",
+      "span": [
+        2350,
+        2356
+      ],
+      "quote": "olor palette:\n•Deep blacks\n•Silver chrome\n•Ivory white\n•Crimson red\n•Antique gold accents\n\nCompositio"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "steel",
+      "source": "cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.json#prompt",
+      "span": [
+        705,
+        710
+      ],
+      "quote": " forged from obsidian and polished steel, intricate embroidered armor, and flowing royal garments de"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.json#prompt",
+      "span": [
+        7,
+        15
+      ],
+      "quote": "Use my uploaded face image as the primary identity reference. Preserve my exact facial identity with extremely high fidelity: identical facial structure, jawline, cheekbones, eye shape,"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/2ac16418c01bc0d48cbce90c4119647727757c2e645c88023418ae4719e8b30f.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "2ac16418c01bc0d48cbce90c4119647727757c2e645c88023418ae4719e8b30f"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11161,
+      "image_links": [
+        "../data/images/case502.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

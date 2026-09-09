@@ -1,0 +1,97 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "wood",
+    "ink",
+    "charcoal"
+  ],
+  "techniques": [
+    "diorama"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-527-52b3df89275e/v1.json#prompt",
+      "span": [
+        130,
+        135
+      ],
+      "quote": "eiro, arranged as a handcrafted 3D paper scene on a warm ivory, slightly textured background.\n\nIn th"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wood",
+      "source": "cases/case-awesome-gpt-image-2-527-52b3df89275e/v1.json#prompt",
+      "span": [
+        1115,
+        1119
+      ],
+      "quote": "physically constructed from paper, wood, plaster, and miniature materials, with convincing depth, c"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-527-52b3df89275e/v1.json#prompt",
+      "span": [
+        1951,
+        1954
+      ],
+      "quote": "esign, tactile paper fibers, faint ink bleed, imperfect hand-drawn lines, warm natural studio ligh"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "charcoal",
+      "source": "cases/case-awesome-gpt-image-2-527-52b3df89275e/v1.json#prompt",
+      "span": [
+        1309,
+        1317
+      ],
+      "quote": "scene, incorporate delicate black, charcoal, and muted sepia hand-drawn travel illustrations on the cre"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "diorama",
+      "source": "cases/case-awesome-gpt-image-2-527-52b3df89275e/v1.json#prompt",
+      "span": [
+        65,
+        72
+      ],
+      "quote": "orealistic miniature travel-poster diorama inspired by Rio de Janeiro, arranged as a handcrafted 3D pa"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11798,
+      "image_links": [
+        "../data/images/case527.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

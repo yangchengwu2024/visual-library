@@ -1,0 +1,84 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "wooden",
+    "porcelain",
+    "fabric"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-272-294a96d5e6d5/v1.json#prompt",
+      "span": [
+        1499,
+        1504
+      ],
+      "quote": " warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wooden",
+      "source": "cases/case-awesome-gpt-image-2-272-294a96d5e6d5/v1.json#prompt",
+      "span": [
+        82,
+        88
+      ],
+      "quote": "sen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, su"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "porcelain",
+      "source": "cases/case-awesome-gpt-image-2-272-294a96d5e6d5/v1.json#prompt",
+      "span": [
+        455,
+        464
+      ],
+      "quote": "l sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-272-294a96d5e6d5/v1.json#prompt",
+      "span": [
+        880,
+        886
+      ],
+      "quote": "and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, ba"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 3202,
+      "image_links": [
+        "../data/images/case272.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

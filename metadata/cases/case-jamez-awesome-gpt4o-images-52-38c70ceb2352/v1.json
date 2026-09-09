@@ -1,0 +1,97 @@
+{
+  "archived_source_manifest": "sources/jamez-awesome-gpt4o-images/upstream/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note.",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "creation_tool": "Sora",
+    "date": "2025-05-24",
+    "image_author": "@jamez-bondos",
+    "image_author_link": "https://github.com/jamez-bondos",
+    "license": "CC-BY-4.0",
+    "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+    "prompt_author": "@egeberkina",
+    "prompt_author_link": "https://x.com/egeberkina",
+    "source_links": [
+      {
+        "url": "https://x.com/egeberkina/status/1912521263085482464"
+      }
+    ],
+    "title": "纸艺风格 Emoji 图标",
+    "title_en": "Paper Craft Style Emoji Icon"
+  },
+  "evidence": [
+    {
+      "prompt_field": "prompt",
+      "type": "case_yaml",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/case.yml"
+    },
+    {
+      "creation_tool": "Sora",
+      "type": "attribution",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/ATTRIBUTION.yml"
+    },
+    {
+      "checked_at": "2026-09-09",
+      "image_sha256": "8a1e5ccc77f4cb68d72d37920f5d83ca5cda8797d2b5048e741c27c95cab9b31",
+      "note": "实际看图：红橙黄多层火焰剪纸、纸面纹理、边缘层叠和柔影明显，主体居中留白。图片背景接近米白，并非数值纯白；不改变原prompt。",
+      "type": "visual_review"
+    },
+    {
+      "image_sha256": "8a1e5ccc77f4cb68d72d37920f5d83ca5cda8797d2b5048e741c27c95cab9b31",
+      "prompt_sha256": "60a62fcfda4d92d40d28359b325bbc84f2f91ab8cafa7db77c8fa677a2d4ded4",
+      "reviewed_content_unchanged": true,
+      "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+      "type": "snapshot_check"
+    }
+  ],
+  "materials": [
+    "paper"
+  ],
+  "model_family": "gpt-image",
+  "model_version": null,
+  "movements": [],
+  "original_category": "Icons",
+  "record_type": "case",
+  "review_note": "实际看图：红橙黄多层火焰剪纸、纸面纹理、边缘层叠和柔影明显，主体居中留白。图片背景接近米白，并非数值纯白；不改变原prompt。",
+  "review_status": "verified",
+  "source_details": {
+    "case": {
+      "alt_text": "纸艺风格的火焰 Emoji 图标",
+      "alt_text_en": "Paper craft style fire emoji icon",
+      "author": "@egeberkina",
+      "author_link": "https://x.com/egeberkina",
+      "image": "example_paper_craft_emoji_fire.png",
+      "prompt": "一个纸艺风格的“🔥”图标，漂浮在纯白背景上。这个表情符号由彩色剪纸手工制作而成，具有可见的纸张纹理、折痕和分层形状。它在下方投下柔和的阴影，营造出轻盈感和立体感。整体设计简洁、有趣、干净，图像居中，周围留有大量留白。使用柔和的影棚光照以突出纸张的质感与边缘。\n",
+      "prompt_en": "A paper craft-style \"🔥\" floating on a pure white background. The emoji is handcrafted from colorful cut paper with visible textures, creases, and layered shapes. It casts a soft drop shadow beneath, giving a sense of lightness and depth. The design is minimal, playful, and clean — centered in the frame with lots of negative space. Use soft studio lighting to highlight the paper texture and edges.\n",
+      "prompt_note": "可将提示词中的 \"🔥\" 替换为其他 Emoji。\n",
+      "prompt_note_en": "The \"🔥\" emoji in the prompt can be replaced with other emojis.\n",
+      "reference_note": "",
+      "reference_note_en": "",
+      "source_links": [
+        {
+          "url": "https://x.com/egeberkina/status/1912521263085482464"
+        }
+      ],
+      "submitter": "",
+      "submitter_link": "",
+      "title": "纸艺风格 Emoji 图标",
+      "title_en": "Paper Craft Style Emoji Icon"
+    },
+    "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/ATTRIBUTION.yml",
+    "model_claim": "Sora",
+    "model_snapshot": null,
+    "prompt_field": "prompt",
+    "prompt_origin": "exact upstream YAML field"
+  },
+  "techniques": [
+    "layered cut paper",
+    "soft shadow",
+    "centered composition"
+  ]
+}

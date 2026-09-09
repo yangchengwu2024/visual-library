@@ -1,0 +1,96 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "mixed",
+      "reason": "截图或前后对照包含多种视觉角色；没有拆成独立源输入文件。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已看图为左侧人像+右侧12种发型对照；左侧疑似输入展示但不是独立原文件，role=mixed。可换新自拍执行模板，未做身份一致性验证。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.json#prompt",
+      "span": [
+        95,
+        110
+      ],
+      "quote": "mns × 4 rows, numbered 1 to 12) showing the SAME person from the reference photo with 12 different hairstyles. This is a hairstyle lookbook. Final image aspect ratio: 4:5 (vertical/portrait).\nTHE ONLY THING THAT CHANGES BETWEEN PANELS IS THE HAIR ON "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.json#prompt",
+      "span": [
+        361,
+        376
+      ],
+      "quote": " style and length only). Everything else stays exactly as in the reference photo.\nIdentity Anchor (Critical)\nThe face must be IDENTICAL to the reference photo in every single panel. Preserve exactly: facial bone structure, jawline, cheekbones, nose s"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.json#prompt",
+      "span": [
+        439,
+        454
+      ],
+      "quote": "to.\nIdentity Anchor (Critical)\nThe face must be IDENTICAL to the reference photo in every single panel. Preserve exactly: facial bone structure, jawline, cheekbones, nose shape, lips, eye shape and spacing, eyebrows, skin tone, skin texture (pores, n"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.json#prompt",
+      "span": [
+        1137,
+        1152
+      ],
+      "quote": "at neutral grey.\n- Hair COLOR stays exactly as it appears in the reference photo in all 12 panels. Only the shape, length and style changes, never the color.\nKeep Identical in Every Panel (Do Not Change)\n- MAKEUP AND SKIN: If the person in the refere"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.json#prompt",
+      "span": [
+        1316,
+        1331
+      ],
+      "quote": "ry Panel (Do Not Change)\n- MAKEUP AND SKIN: If the person in the reference photo wears makeup, replicate it identically in every panel. Same lip color, same eye makeup, same brow grooming. If they wear no makeup, keep all panels makeup-free. Do NOT a"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.json#prompt",
+      "span": [
+        1590,
+        1605
+      ],
+      "quote": "eup between panels.\n- Clothing: the same clothing visible in the reference photo, replicated exactly.\n- Accessories: preserve ALL visible accessories from the reference photo (earrings, necklaces, rings, bracelets, piercings, watch, glasses, etc.). D"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/bd3a0e76ad2bf080037219cd6eb09c5498d496a18f58fde9142a55483a22248a.jpg",
+      "quote": "截图或前后对照包含多种视觉角色；没有拆成独立源输入文件。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "bd3a0e76ad2bf080037219cd6eb09c5498d496a18f58fde9142a55483a22248a"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 12158,
+      "image_links": [
+        "../data/images/case535.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

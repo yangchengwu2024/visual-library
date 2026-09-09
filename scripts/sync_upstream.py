@@ -14,6 +14,7 @@ from urllib.request import Request, urlopen
 import zipfile
 
 from library import import_records, library_lock
+from template_catalog import write_source_templates
 
 UPSTREAM = 'freestylefly/awesome-gpt-image-2'
 SOURCE = 'awesome-gpt-image-2'
@@ -144,7 +145,7 @@ def archive_documents(root, source_dir, revision):
             entry['cover_sha256'] = digest
         entry['document'] = (target / 'docs/templates.md').relative_to(root).as_posix()
         templates.append(entry)
-    put_json(root / 'indexes/templates.json', {'source': SOURCE, 'revision': revision,
+    write_source_templates(root, SOURCE, {'source': SOURCE, 'revision': revision,
         'document': (target / 'docs/templates.md').relative_to(root).as_posix(), 'templates': templates})
 
 

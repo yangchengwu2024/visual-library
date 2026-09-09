@@ -10,7 +10,7 @@
 - 打开刚才那个案例的v1，给我完整原提示词。
 - 看看资料库有哪些分类和提示词模板。
 
-四个工具：`search_cases`（关键词/类别/标签/全文/收藏）、`get_case`（指定版本的完整原文和来源）、`get_case_image`（实际图片内容与原图链接）、`list_catalog`（分类、别名与模板）。关键词和标签为组合匹配，不能把它称为视觉语义搜索；模型/艺术家专用筛选尚未增加。
+四个工具：`search_cases`（关键词/类别/标签/全文/收藏）、`get_case`（指定版本的完整原文和来源）、`get_case_image`（实际图片内容与原图链接）、`list_catalog`（分类、别名与模板）。关键词和标签为组合匹配，不能把它称为视觉语义搜索；已支持model_family、artist、movement、material、record_type、review_status筛选，并显示资料类型和复核状态。
 
 检索先返回轻量结果，再按ID和版本读取图文。每条结果带自有仓库commit；后续传入expected_commit可防重连后换快照。默认最新版本只指当前快照内的最新完整版本，指定不存在的vN会报错，不回退。
 
@@ -43,3 +43,5 @@ MCP不提供收录、删除、自动回源或生成工具。用户要求保存�
 原资料库测试：`python -B -m unittest discover -s tests -v`。
 MCP独立环境测试：`python -B -m unittest discover -s tests_mcp -v`。
 MCP测试依赖只用于独立工作流，不增加原每日同步的运行依赖。
+
+搜索只返回短摘要和定位信息，完整复核证据、图片角色及多语言原文通过get_case读取。新元数据不改写既有vN.json，个人修正优先。

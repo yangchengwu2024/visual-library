@@ -1,0 +1,168 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "wood",
+    "stone",
+    "clay",
+    "metallic",
+    "bronze",
+    "fabric",
+    "satin",
+    "velvet",
+    "linen",
+    "cotton",
+    "ink"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wood",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        1374,
+        1378
+      ],
+      "quote": "Earth-inspired setting with stone, wood, linen, botanicals, dried plants, natural fabrics, rustic-l"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "stone",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        1367,
+        1372
+      ],
+      "quote": "torial Earth-inspired setting with stone, wood, linen, botanicals, dried plants, natural fabrics, ru"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "clay",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        549,
+        553
+      ],
+      "quote": " olive, sage, taupe, mocha, beige, clay, cream, moss, and warm neutrals. Soft-structured elegant si"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        2487,
+        2495
+      ],
+      "quote": "braid wrapped with gold chains and metallic ornaments.\n\nDOODLES + SCRAPBOOK OVERLAY\nHand-drawn earthy s"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "bronze",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        1164,
+        1170
+      ],
+      "quote": "es in taupe, mocha, caramel, muted bronze, olive-brown. Soft liner, champagne-beige highlight, satin "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        2111,
+        2117
+      ],
+      "quote": "twin low ponytails tied with white fabric bands flowing dramatically around the frame.\nVirgo — refine"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "satin",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        724,
+        729
+      ],
+      "quote": "ure. Fabrics: linen, cotton, matte satin, knit, suede-like textures, soft tailoring. Minimal refined"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "velvet",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        1233,
+        1239
+      ],
+      "quote": "hampagne-beige highlight, satin or velvet nude/mocha lips. Overall polished, sensual quiet-luxury aes"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "linen",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        703,
+        708
+      ],
+      "quote": "st, or layered structure. Fabrics: linen, cotton, matte satin, knit, suede-like textures, soft tailo"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "cotton",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        710,
+        716
+      ],
+      "quote": "layered structure. Fabrics: linen, cotton, matte satin, knit, suede-like textures, soft tailoring. Mi"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.json#prompt",
+      "span": [
+        2699,
+        2702
+      ],
+      "quote": "sun doodles, botanical icons. Cozy ink-pen texture.\n\nHandwritten text:\n“EARTH SIGNS”\n“grounded and"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 8111,
+      "image_links": [
+        "../data/images/case416.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

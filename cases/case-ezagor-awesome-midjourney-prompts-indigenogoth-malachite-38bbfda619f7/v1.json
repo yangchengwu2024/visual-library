@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-09-09T08:25:59+00:00",
+  "assets": [
+    {
+      "bytes": 904017,
+      "path": "images/b829f943b313a2135dff7a21f36f34b8f591019786b4d46c763b5652319d04f7.png",
+      "role": "output",
+      "sha256": "b829f943b313a2135dff7a21f36f34b8f591019786b4d46c763b5652319d04f7",
+      "source_path": "https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png"
+    }
+  ],
+  "case_id": "case-ezagor-awesome-midjourney-prompts-indigenogoth-malachite-38bbfda619f7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "836ee814191ffa3c4fcb3bf99747e13ded0b4a73f2dbf4c8ec993d0632753058",
+  "model": "Midjourney",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "indigenogoth Malachite",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png"
+      }
+    ],
+    "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+    "source": "ezagor-awesome-midjourney-prompts",
+    "source_category": "插画与艺术",
+    "source_id": "indigenogoth-malachite",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "style",
+        "portrait"
+      ]
+    },
+    "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+    "title": "indigenogoth 孔雀石风格参考",
+    "upstream_url": "https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "indigenogoth 孔雀石风格参考",
+  "version": "v1"
+}

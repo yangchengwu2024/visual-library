@@ -1,0 +1,85 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "porcelain",
+    "cotton",
+    "plastic"
+  ],
+  "techniques": [
+    "3D render"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "porcelain",
+      "source": "cases/case-awesome-gpt-image-2-199-65091c7ada97/v1.json#prompt",
+      "span": [
+        3237,
+        3246
+      ],
+      "quote": "ve_prompt\": \"anime,\n  doll face,\n  porcelain skin,\n  poreless skin,\n  plastic skin,\n  CGI,\n  3D render,\n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "cotton",
+      "source": "cases/case-awesome-gpt-image-2-199-65091c7ada97/v1.json#prompt",
+      "span": [
+        2084,
+        2090
+      ],
+      "quote": " wears a light blue fitted stretch-cotton top with a very deep wide neckline that reveals pronounced "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "plastic",
+      "source": "cases/case-awesome-gpt-image-2-199-65091c7ada97/v1.json#prompt",
+      "span": [
+        3272,
+        3279
+      ],
+      "quote": "porcelain skin,\n  poreless skin,\n  plastic skin,\n  CGI,\n  3D render,\n  surreal eyes,\n  oversized eyes,"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "3D render",
+      "source": "cases/case-awesome-gpt-image-2-199-65091c7ada97/v1.json#prompt",
+      "span": [
+        3295,
+        3304
+      ],
+      "quote": "ess skin,\n  plastic skin,\n  CGI,\n  3D render,\n  surreal eyes,\n  oversized eyes,\n  fantasy beauty,\n  airb"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 1001,
+      "image_links": [
+        "../data/images/case199.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

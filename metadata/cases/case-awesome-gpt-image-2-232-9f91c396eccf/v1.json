@@ -1,0 +1,53 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [
+    "王羲之"
+  ],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "王羲之/Wang Xizhi 是原文明示的《兰亭集序》作品作者；艺术家标签表示作品引用，不宣称此生成图为其真实作品或笔迹鉴定。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "named_work_author",
+      "source": "cases/case-awesome-gpt-image-2-232-9f91c396eccf/v1.json#prompt",
+      "span": [
+        108,
+        118
+      ],
+      "quote": "ng the content from Wang Xizhi's \"Lantingji Xu\", generate a calligraphy copy image, requiring the im"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/76b0700e43c2ef29d78cc7d4fd179f6d6718ded7a7c1b6bb0dc4fdeec838ee0c.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "76b0700e43c2ef29d78cc7d4fd179f6d6718ded7a7c1b6bb0dc4fdeec838ee0c"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 2215,
+      "image_links": [
+        "../data/images/case232.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

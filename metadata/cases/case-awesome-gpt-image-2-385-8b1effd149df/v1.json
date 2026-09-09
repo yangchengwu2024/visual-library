@@ -1,0 +1,51 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "input",
+      "reason": "唯一图为啤酒罐参考照片，未显示女装输出。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已看图：唯一资产是手持青岛啤酒罐实拍，属于 input，而非提示词要求的女装设计结果。输入参考存在，输出缺失或未归档，不能误报 missing_inputs。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-385-8b1effd149df/v1.json#prompt",
+      "span": [
+        49,
+        61
+      ],
+      "quote": "Inspired by Tsingtao (China beer)🍺\n\n“Inspired by this product, design a set of cool-style women's clothing”"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/c270b773080670404231864bf8179ba6e0f801a8fe261eec1933c7b9e3f88e03.jpg",
+      "quote": "唯一图为啤酒罐参考照片，未显示女装输出。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "c270b773080670404231864bf8179ba6e0f801a8fe261eec1933c7b9e3f88e03"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 7233,
+      "image_links": [
+        "../data/images/case385.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

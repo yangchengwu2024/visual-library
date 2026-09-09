@@ -1,0 +1,112 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "enamel",
+    "linen"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "enamel",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        48,
+        54
+      ],
+      "quote": "rence photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated obj"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "linen",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        1238,
+        1243
+      ],
+      "quote": "\nBackground: flat dark navy coarse linen texture. Badge centered, filling about 60% of the frame.\n\nA"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        9,
+        24
+      ],
+      "quote": "Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.\n\nSubject hierarchy: the defining landscape, terrain or landmark of the phot"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        186,
+        195
+      ],
+      "quote": "ubject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at tru"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        295,
+        304
+      ],
+      "quote": "nd occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject. Preserve the "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        656,
+        665
+      ],
+      "quote": "el color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out t"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-543-06879a313369/v1.json#prompt",
+      "span": [
+        1504,
+        1517
+      ],
+      "quote": "he badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark."
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/c698d4efea6789557d328b043f40c63549658494be5a30b9c1d210e2ae80be93.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "c698d4efea6789557d328b043f40c63549658494be5a30b9c1d210e2ae80be93"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 12481,
+      "image_links": [
+        "../data/images/case543.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

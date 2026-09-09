@@ -1,0 +1,51 @@
+{
+  "last_success_revision": null,
+  "mappings": {
+    "8-bit-ascii-art": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-8-bit-ascii-art-a60b66ba83b3",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "botanical-lungs-collage": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-botanical-lungs-collage-4c32529d0762",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "electronic-components-face": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-electronic-components-face-a893836b6644",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "fire-elf-skottie-young": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-fire-elf-skottie-young-666331e7023c",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "indigenogoth-malachite": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-indigenogoth-malachite-38bbfda619f7",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "macro-particles": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-macro-particles-a9b91b65e451",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "victor-mosquera-style": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-victor-mosquera-style-363d2afe8b06",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "wolf-cubs-coloring-book": {
+      "case_id": "case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9",
+      "upstream_present": true,
+      "version": "v1"
+    }
+  },
+  "pending_count": 0,
+  "schema_version": 1,
+  "source": {
+    "name": "ezagor-awesome-midjourney-prompts",
+    "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts"
+  }
+}

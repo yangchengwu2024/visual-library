@@ -1,0 +1,52 @@
+{
+  "case_id": "case-ezagor-awesome-midjourney-prompts-electronic-components-face-a893836b6644",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "portrait",
+        "material"
+      ]
+    },
+    "styles": [
+      "人像",
+      "material"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png"
+        }
+      ],
+      "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+      "source": "ezagor-awesome-midjourney-prompts",
+      "source_category": "插画与艺术",
+      "source_id": "electronic-components-face",
+      "source_tags": {
+        "scenes": [],
+        "styles": [
+          "portrait",
+          "material"
+        ]
+      },
+      "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+      "title": "电子元件与PCB人脸",
+      "upstream_url": "https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png",
+      "version": "v1"
+    }
+  ],
+  "title": "电子元件与PCB人脸",
+  "title_aliases": [
+    "电子元件与PCB人脸"
+  ]
+}

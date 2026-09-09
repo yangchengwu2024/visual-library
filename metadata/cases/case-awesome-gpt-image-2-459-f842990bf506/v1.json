@@ -1,0 +1,84 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "玻璃",
+    "木质",
+    "金属",
+    "皮革"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "玻璃",
+      "source": "cases/case-awesome-gpt-image-2-459-f842990bf506/v1.json#prompt",
+      "span": [
+        1343,
+        1345
+      ],
+      "quote": ". 品牌包装与材质\n- 自动识别该品牌常见包装与材质语言\n- 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等\n- 产品必须具有真实商业视觉质感\n\n────────────"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "木质",
+      "source": "cases/case-awesome-gpt-image-2-459-f842990bf506/v1.json#prompt",
+      "span": [
+        1698,
+        1700
+      ],
+      "quote": "、清爽材质。\n\n如果是咖啡品牌：\n使用温度、城市生活、松弛氛围、绿色或木质感、晨间陪伴感。\n\n如果是汽车品牌：\n使用道路、速度、未来空间、金属质感、城市夜景、驾驶欲望。\n\n如果是潮流品牌：\n使用"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-459-f842990bf506/v1.json#prompt",
+      "span": [
+        1340,
+        1342
+      ],
+      "quote": "\n\n3. 品牌包装与材质\n- 自动识别该品牌常见包装与材质语言\n- 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等\n- 产品必须具有真实商业视觉质感\n\n─────────"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "皮革",
+      "source": "cases/case-awesome-gpt-image-2-459-f842990bf506/v1.json#prompt",
+      "span": [
+        1352,
+        1354
+      ],
+      "quote": "\n- 自动识别该品牌常见包装与材质语言\n- 如金属、玻璃、磨砂、塑料、皮革、纸盒、极简包装、奢华包装、运动感材质等\n- 产品必须具有真实商业视觉质感\n\n────────────────\n四、KV"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 9517,
+      "image_links": [
+        "../data/images/case459.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

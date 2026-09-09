@@ -1,0 +1,109 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor"
+  ],
+  "techniques": [
+    "linework",
+    "line art",
+    "watercolor washes"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.json#prompt",
+      "span": [
+        1247,
+        1252
+      ],
+      "quote": "olor textures in the sky, delicate paper grain, and subtle watercolor blooms. The paving, street, or"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.json#prompt",
+      "span": [
+        155,
+        158
+      ],
+      "quote": "omatic [COLOR] watercolor and fine ink linework.\n\nAspect ratio: 4:5 vertical composition optimized"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "watercolor",
+      "source": "cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.json#prompt",
+      "span": [
+        19,
+        29
+      ],
+      "quote": "Minimalist vintage watercolor travel poster illustration of [CITY NAME], [COUNTRY], rende"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "linework",
+      "source": "cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.json#prompt",
+      "span": [
+        159,
+        167
+      ],
+      "quote": "ic [COLOR] watercolor and fine ink linework.\n\nAspect ratio: 4:5 vertical composition optimized for post"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "line art",
+      "source": "cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.json#prompt",
+      "span": [
+        1754,
+        1762
+      ],
+      "quote": "chromatic palette, highly detailed line art, elegant travel-poster design, minimalist luxury wall-art s"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "watercolor washes",
+      "source": "cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.json#prompt",
+      "span": [
+        820,
+        837
+      ],
+      "quote": "e, their foliage painted with soft watercolor washes and delicate splatter textures. In the distance, [DISTANT L"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11055,
+      "image_links": [
+        "../data/images/case497.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

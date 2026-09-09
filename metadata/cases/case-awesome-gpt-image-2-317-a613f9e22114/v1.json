@@ -1,0 +1,73 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "fabric"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "可替换人像身份模板。现存图片是两种美妆广告并排展示，不能据此推断原模特输入已存；需要使用者提供人像。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-317-a613f9e22114/v1.json#prompt",
+      "span": [
+        1026,
+        1032
+      ],
+      "quote": "g. Hyper-detailed skin texture and fabric realism."
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-317-a613f9e22114/v1.json#prompt",
+      "span": [
+        23,
+        25
+      ],
+      "quote": "[中文]\n照片级真实感的大胆美妆宣传活动，使用上传的模特作为精确的身份参考。不做面部改变，不做平滑处理。\n场景：深红色饱和的摄影棚环境，具有高对比度的地板图案或光滑表面。\n产品：产品被握持或放置在极其靠近镜头的位置，由于透视关系显得巨大。\n模特姿势：俏皮或自信的微笑，手臂完全伸向相机，手指因广角镜头而略微变形。透过太阳镜的强烈眼神交流或自然凝视。\n相机：超广角 20–28mm 美学，动态"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-317-a613f9e22114/v1.json#prompt",
+      "span": [
+        316,
+        324
+      ],
+      "quote": "皮肤纹理和织物真实感。\n\n[English]\nPhotorealistic bold beauty campaign using uploaded model as exact identity reference. No facial changes, no smoothing.\nScene: deep red saturated studio environment with high-contrast floor pattern or glossy surface.\nProd"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/1505debc9e8258e5b589a55d40321f023292b1cae2f6fc5b48002e98bcad11f9.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "1505debc9e8258e5b589a55d40321f023292b1cae2f6fc5b48002e98bcad11f9"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 4462,
+      "image_links": [
+        "../data/images/case317.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

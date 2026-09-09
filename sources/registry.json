@@ -1,0 +1,155 @@
+{
+  "schema_version": 1,
+  "sources": [
+    {
+      "id": "awesome-gpt-image-2",
+      "repository": "freestylefly/awesome-gpt-image-2",
+      "url": "https://github.com/freestylefly/awesome-gpt-image-2",
+      "branch": "main",
+      "adapter": "freestylefly",
+      "policy": "approved_auto",
+      "scope": {
+        "kind": "all"
+      },
+      "approval": {
+        "date": "2026-09-09",
+        "basis": "User explicitly approved continued automatic archive of this source; existing internal source ID preserved."
+      }
+    },
+    {
+      "id": "jamez-awesome-gpt4o-images",
+      "repository": "jamez-bondos/awesome-gpt4o-images",
+      "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+      "branch": "main",
+      "adapter": "jamez",
+      "policy": "approved_auto",
+      "scope": {
+        "kind": "selected",
+        "ids": [
+          "25",
+          "52",
+          "64",
+          "66",
+          "71",
+          "84",
+          "86",
+          "88"
+        ]
+      },
+      "selection_sha256": "c79b0b3c4e69b06e7c968dba0e88be3ff2d87eb2c907614b03298eadb1485005",
+      "approval": {
+        "date": "2026-09-09",
+        "basis": "User delegated this full implementation and source admission to Codex; selected cases were reviewed for actual prompt/image completeness, source declarations and zero exact overlap. Approval only follows these IDs, not every future upstream addition.",
+        "review": "sources/jamez-awesome-gpt4o-images/source-review.json"
+      }
+    },
+    {
+      "id": "picotrex-nano-banana-selected",
+      "repository": "PicoTrex/Awesome-Nano-Banana-images",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images",
+      "branch": "main",
+      "adapter": "pico",
+      "policy": "approved_auto",
+      "scope": {
+        "kind": "selected",
+        "ids": [
+          "pro_case13",
+          "pro_case15",
+          "pro_case26",
+          "pro_case28",
+          "pro_case35",
+          "pro_case51"
+        ]
+      },
+      "selection_sha256": "d7185d62ce22914a462df608d267a5d547024a1823b864fe30456c3a39cd0975",
+      "approval": {
+        "date": "2026-09-09",
+        "basis": "User delegated this full implementation and source admission to Codex; selected cases were reviewed for actual prompt/image completeness, source declarations and zero exact overlap. Approval only follows these IDs, not every future upstream addition.",
+        "review": "sources/picotrex-nano-banana-selected/source-review.json"
+      }
+    },
+    {
+      "id": "ezagor-awesome-midjourney-prompts",
+      "repository": "Ezagor-dev/awesome-midjourney-prompts",
+      "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts",
+      "branch": "main",
+      "adapter": "ezagor",
+      "policy": "approved_auto",
+      "scope": {
+        "kind": "selected",
+        "ids": [
+          "fire-elf-skottie-young",
+          "8-bit-ascii-art",
+          "indigenogoth-malachite",
+          "electronic-components-face",
+          "wolf-cubs-coloring-book",
+          "victor-mosquera-style",
+          "macro-particles",
+          "botanical-lungs-collage"
+        ]
+      },
+      "selection_sha256": "5cab646152f211986ce30a181f2ccc06ec6f3fac9b5fc7e5fe2baae2f35f56fe",
+      "approval": {
+        "date": "2026-09-09",
+        "basis": "User delegated this full implementation and source admission to Codex; selected cases were reviewed for actual prompt/image completeness, source declarations and zero exact overlap. Approval only follows these IDs, not every future upstream addition.",
+        "review": "sources/ezagor-awesome-midjourney-prompts/source-review.json"
+      }
+    },
+    {
+      "id": "meigen",
+      "url": "https://www.meigen.ai/",
+      "policy": "manual_only",
+      "adapter": null,
+      "reason": "Only user-selected cases; no MeiGen MCP or automatic capture."
+    },
+    {
+      "id": "imaginevid",
+      "url": "https://github.com/imagineVid/Awesome-nano-banana-prompts-and-skills",
+      "policy": "candidate",
+      "adapter": null,
+      "reason": "Not selected for this batch; preserve rights/input/model questions in research."
+    },
+    {
+      "id": "wulfken",
+      "url": "https://github.com/willwulfken/MidJourney-Styles-and-Keywords-Reference",
+      "policy": "candidate",
+      "adapter": null,
+      "reason": "Rights and complete selected assets not approved for public mirror."
+    },
+    {
+      "id": "midlibrary",
+      "url": "https://midlibrary.io/",
+      "policy": "candidate",
+      "adapter": null,
+      "reason": "Reference research only; public replication scope not confirmed."
+    },
+    {
+      "id": "youmind-gpt",
+      "url": "https://github.com/YouMind-OpenLab/awesome-gpt-image-2",
+      "policy": "candidate",
+      "adapter": null,
+      "reason": "Public window and media retrieval need separate acceptance."
+    },
+    {
+      "id": "evolink",
+      "url": "https://github.com/EvoLinkAI/awesome-gpt-image-2-API-and-Prompts",
+      "policy": "manual_only",
+      "adapter": null,
+      "reason": "Known parsing/context issues; individual selection only."
+    },
+    {
+      "id": "pixmind",
+      "url": "https://github.com/Pixmind-io/awesome-midjourney-v7-example-prompts",
+      "policy": "manual_only",
+      "adapter": null,
+      "reason": "Model/image mapping not accepted for automatic archive."
+    },
+    {
+      "id": "mj-pdf-pack",
+      "url": null,
+      "policy": "manual_only",
+      "adapter": null,
+      "reason": "Local PDFs are research/supplement candidates; public permission unresolved; no complete PDF cases admitted."
+    }
+  ]
+}

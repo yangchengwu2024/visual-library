@@ -1,0 +1,60 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "metal",
+    "金属"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metal",
+      "source": "cases/case-awesome-gpt-image-2-164-65bc945ce327/v1.json#prompt",
+      "span": [
+        749,
+        754
+      ],
+      "quote": "htly suspended. He is holding up a metal nameplate fixed to the spacesuit with both hands, and the n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-164-65bc945ce327/v1.json#prompt",
+      "span": [
+        117,
+        119
+      ],
+      "quote": "直播，处于微重力失重状态，身体微微悬浮。他双手举着一块固定在宇航服上的金属铭牌，铭牌上用NASA风格的印刷体写着\"感谢松果先森送的大火箭\"。身后圆形舷窗外可以看到蓝色的地球和深邃的太空。直播界面"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-1.md",
+      "line": 6737,
+      "image_links": [
+        "../data/images/case164.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

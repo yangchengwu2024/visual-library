@@ -1,0 +1,79 @@
+{
+  "case_id": "case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "木桌",
+      "角色展示"
+    ],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [
+        "木桌",
+        "角色展示"
+      ],
+      "styles": [
+        "纸艺",
+        "手工模型",
+        "卡通"
+      ]
+    },
+    "styles": [
+      "纸艺",
+      "手工模型",
+      "卡通"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "images/pro_case51/output.jpg"
+        }
+      ],
+      "attribution": {
+        "collector": "PicoTrex/Awesome-Nano-Banana-images",
+        "creator_as_credited": "@neyric_w",
+        "creator_url": "https://x.com/neyric_w",
+        "original_source": "https://x.com/neyric_w/status/1997912720709124562?s=20"
+      },
+      "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+      "license_status": "source_collection_declaration_retained",
+      "revision": "2558bf0bb825be150c5d1aeab918cd90004882d3",
+      "rights": {
+        "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+        "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。",
+        "independent_ownership_verified": false,
+        "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+        "scope": "selected public-source prompt and image archive with attribution"
+      },
+      "source": "picotrex-nano-banana-selected",
+      "source_category": "插画与艺术",
+      "source_id": "pro_case51",
+      "source_tags": {
+        "scenes": [
+          "木桌",
+          "角色展示"
+        ],
+        "styles": [
+          "纸艺",
+          "手工模型",
+          "卡通"
+        ]
+      },
+      "source_url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+      "title": "人物纸艺剪纸",
+      "upstream_url": "https://x.com/neyric_w/status/1997912720709124562?s=20",
+      "version": "v1"
+    }
+  ],
+  "title": "人物纸艺剪纸",
+  "title_aliases": [
+    "人物纸艺剪纸"
+  ]
+}

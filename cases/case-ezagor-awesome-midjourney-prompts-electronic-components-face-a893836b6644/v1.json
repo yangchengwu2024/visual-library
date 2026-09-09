@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-09-09T08:25:59+00:00",
+  "assets": [
+    {
+      "bytes": 952592,
+      "path": "images/02448ccf0ae3f3a44daff8aa3f7226ba110668690062943c512830ef9ffd953f.png",
+      "role": "output",
+      "sha256": "02448ccf0ae3f3a44daff8aa3f7226ba110668690062943c512830ef9ffd953f",
+      "source_path": "https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png"
+    }
+  ],
+  "case_id": "case-ezagor-awesome-midjourney-prompts-electronic-components-face-a893836b6644",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bd301f3d101d4862f982d2a8f27072b42594f8750df2cafc8b225742dfb946cc",
+  "model": "Midjourney",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "angry face made of electronic components and PCB circuits",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png"
+      }
+    ],
+    "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+    "source": "ezagor-awesome-midjourney-prompts",
+    "source_category": "插画与艺术",
+    "source_id": "electronic-components-face",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "portrait",
+        "material"
+      ]
+    },
+    "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+    "title": "电子元件与PCB人脸",
+    "upstream_url": "https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "电子元件与PCB人脸",
+  "version": "v1"
+}

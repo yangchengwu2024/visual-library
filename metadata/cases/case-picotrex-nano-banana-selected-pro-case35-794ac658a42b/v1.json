@@ -1,0 +1,53 @@
+{
+  "archived_source_manifest": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "README明确标注并逐图实看",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "collector": "PicoTrex/Awesome-Nano-Banana-images",
+    "creator_as_credited": "@NanoBanana",
+    "creator_url": "https://x.com/NanoBanana",
+    "original_source": "https://x.com/NanoBanana/status/1995921399207100510?s=20"
+  },
+  "evidence": [
+    {
+      "kind": "source_section",
+      "locator": "Nano Banana Pro / 例 35 / images/pro_case35/",
+      "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md"
+    },
+    {
+      "kind": "original_source",
+      "note": "由README归属链接保存；本轮未独立读取原帖。",
+      "url": "https://x.com/NanoBanana/status/1995921399207100510?s=20"
+    },
+    {
+      "files": [
+        "images/pro_case35/output.jpg"
+      ],
+      "kind": "visual_review",
+      "note": "实看巴黎地标微缩磁贴整齐排列，含PARIS纪念牌、天气便签和雨具；对应原词指定的城市地标与天气平铺设计。城市占位符示例为Paris，保存源模板原样；图中日期与天气只是源样例内容，并非当前气象事实。",
+      "reviewed_on": "2026-09-09"
+    }
+  ],
+  "materials": [
+    "miniature model"
+  ],
+  "model_family": "nano-banana",
+  "model_version": "Nano Banana Pro",
+  "movements": [],
+  "original_category": "材质风格",
+  "record_type": "case",
+  "review_note": "实看巴黎地标微缩磁贴整齐排列，含PARIS纪念牌、天气便签和雨具；对应原词指定的城市地标与天气平铺设计。城市占位符示例为Paris，保存源模板原样；图中日期与天气只是源样例内容，并非当前气象事实。",
+  "review_status": "verified",
+  "techniques": [
+    "knolling",
+    "miniature rendering",
+    "top-down composition"
+  ]
+}

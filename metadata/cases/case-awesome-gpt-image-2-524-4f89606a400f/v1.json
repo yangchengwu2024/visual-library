@@ -1,0 +1,167 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "cardstock",
+    "wooden",
+    "fabric",
+    "leather"
+  ],
+  "techniques": [
+    "collage",
+    "paper-collage",
+    "diorama"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        39,
+        44
+      ],
+      "quote": "te a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "cardstock",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        2334,
+        2343
+      ],
+      "quote": "ges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wooden",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        1584,
+        1590
+      ],
+      "quote": "y in the foreground\n- rustic white wooden fence behind the girl\n- dreamy pastel sky\n\nSurround the com"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        1290,
+        1296
+      ],
+      "quote": "torial fashion\n- natural realistic fabric folds and texture\n\nEnvironment\n\nCreate a beautiful handcraf"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "leather",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        1158,
+        1165
+      ],
+      "quote": "eam closed-toe shoes\n- small brown leather shoulder bag\n- no revealing clothing\n- no exposed midriff\n-"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "collage",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        45,
+        52
+      ],
+      "quote": "remium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.\n\n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "paper-collage",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        39,
+        52
+      ],
+      "quote": "te a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.\n\n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "diorama",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        53,
+        60
+      ],
+      "quote": "himsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.\n\nUse the "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        85,
+        93
+      ],
+      "quote": "msical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.\n\nUse the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        94,
+        109
+      ],
+      "quote": "ndcrafted paper-collage diorama inspired exactly by the uploaded reference image.\n\nUse the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone,"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.json#prompt",
+      "span": [
+        120,
+        128
+      ],
+      "quote": "orama inspired exactly by the uploaded reference image.\n\nUse the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairlin"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/38e199a0f03c61d18ffcb78ef972ee5563e3122df1ee38d7fdef88c019bfedaf.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "38e199a0f03c61d18ffcb78ef972ee5563e3122df1ee38d7fdef88c019bfedaf"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11666,
+      "image_links": [
+        "../data/images/case524.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

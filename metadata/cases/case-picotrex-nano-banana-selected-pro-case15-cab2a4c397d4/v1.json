@@ -1,0 +1,59 @@
+{
+  "archived_source_manifest": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "README明确标注并逐图实看",
+      "role": "input"
+    },
+    {
+      "index": 1,
+      "reason": "README明确标注并逐图实看",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "collector": "PicoTrex/Awesome-Nano-Banana-images",
+    "creator_as_credited": "@AmirMushich",
+    "creator_url": "https://x.com/AmirMushich",
+    "original_source": "https://x.com/AmirMushich/status/1992704354990907793?s=20"
+  },
+  "evidence": [
+    {
+      "kind": "source_section",
+      "locator": "Nano Banana Pro / 例 15 / images/pro_case15/",
+      "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md"
+    },
+    {
+      "kind": "original_source",
+      "note": "由README归属链接保存；本轮未独立读取原帖。",
+      "url": "https://x.com/AmirMushich/status/1992704354990907793?s=20"
+    },
+    {
+      "files": [
+        "images/pro_case15/input.jpg",
+        "images/pro_case15/output.jpg"
+      ],
+      "kind": "visual_review",
+      "note": "输入为石拱桥街景照片，输出保留桥、河道和两岸石建筑并改为方格纸上手绘等距示意图。输入输出独立原图齐全；增加了文字标注与推断的不可见结构，不能当测绘准确性证明。",
+      "reviewed_on": "2026-09-09"
+    }
+  ],
+  "materials": [
+    "paper"
+  ],
+  "model_family": "nano-banana",
+  "model_version": "Nano Banana Pro",
+  "movements": [],
+  "original_category": "图像编辑",
+  "record_type": "case",
+  "review_note": "输入为石拱桥街景照片，输出保留桥、河道和两岸石建筑并改为方格纸上手绘等距示意图。输入输出独立原图齐全；增加了文字标注与推断的不可见结构，不能当测绘准确性证明。",
+  "review_status": "verified",
+  "techniques": [
+    "isometric drawing",
+    "hatching",
+    "photo-to-diagram"
+  ]
+}

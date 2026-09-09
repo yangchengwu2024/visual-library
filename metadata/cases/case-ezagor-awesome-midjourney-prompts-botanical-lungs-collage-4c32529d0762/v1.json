@@ -1,0 +1,72 @@
+{
+  "archived_source_manifest": "sources/ezagor-awesome-midjourney-prompts/upstream/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "原README中紧随该prompt的示例成图；不是输入参考图。",
+      "role": "output"
+    }
+  ],
+  "evidence": [
+    {
+      "kind": "source-location",
+      "ordinal": 15,
+      "original_command": "/imagine prompt:digital collage of human lungs made of anormous amount of green garden and meadow leafs",
+      "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881",
+      "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase"
+    },
+    {
+      "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee.",
+      "kind": "source-declared-license",
+      "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+      "value": "CC0-1.0"
+    },
+    {
+      "date": "2026-09-09",
+      "height": 512,
+      "kind": "visual-review",
+      "note": "原图为白底绿色叶片、枝脉构成人肺形态；保留原文anormous/leafs拼写与图右上角无法确识的小标记，不裁切改图。",
+      "sha256": "c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc",
+      "width": 640
+    },
+    {
+      "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated.",
+      "job_id": null,
+      "kind": "generation-conditions",
+      "model_claim": "Midjourney Showcase",
+      "profile": null,
+      "seed": null,
+      "sref": null,
+      "sv": null,
+      "sw": null,
+      "version": null
+    },
+    {
+      "approved_content_unchanged": true,
+      "asset_sha256": "c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc",
+      "kind": "bounded-source-sync",
+      "locator": {
+        "label": "digital collage of human lungs made of anormous amount of green garden and meadow leafs",
+        "path": "README.md",
+        "section": "Midjourney Showcase"
+      },
+      "original_command": "/imagine prompt:digital collage of human lungs made of anormous amount of green garden and meadow leafs",
+      "prompt_sha256": "9b6688b05582961a1f97494ff04f963da23a4ef8b389751d62f6bb9e6819b544",
+      "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca"
+    }
+  ],
+  "materials": [
+    "leaves"
+  ],
+  "model_family": "midjourney",
+  "model_version": null,
+  "movements": [],
+  "original_category": "图像案例",
+  "record_type": "case",
+  "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为白底绿色叶片、枝脉构成人肺形态；保留原文anormous/leafs拼写与图右上角无法确识的小标记，不裁切改图。",
+  "review_status": "verified",
+  "techniques": [
+    "digital collage"
+  ]
+}

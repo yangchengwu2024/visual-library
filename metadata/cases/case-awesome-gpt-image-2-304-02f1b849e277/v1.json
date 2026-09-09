@@ -1,0 +1,109 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "Neo-Chinese",
+    "新中式"
+  ],
+  "materials": [
+    "paper",
+    "metallic",
+    "ink",
+    "金属"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "Neo-Chinese",
+      "source": "cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.json#prompt",
+      "span": [
+        316,
+        327
+      ],
+      "quote": "，底部留白，细节清晰。\n\n[English]\nMinimalism, Neo-Chinese style three-dimensional graphic design, at the bottom of th"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "新中式",
+      "source": "cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.json#prompt",
+      "span": [
+        10,
+        13
+      ],
+      "quote": "[中文]\n极简主义，新中式风格立体图形设计，图像下端有楷体中国文字：“东方美学”，“2026/04/18”，署名 “CHINA”，和“\n@LIYU"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.json#prompt",
+      "span": [
+        551,
+        556
+      ],
+      "quote": "ure white matte textured thick art paper, a creative landscape painting full of oriental poetic atmo"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.json#prompt",
+      "span": [
+        902,
+        910
+      ],
+      "quote": " blue lines, 0.5mm ultra-fine gold metallic texture outlining, large strokes of splashed white ink, col"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.json#prompt",
+      "span": [
+        962,
+        965
+      ],
+      "quote": "g, large strokes of splashed white ink, color rendering, red background, romantic and poetic blue "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.json#prompt",
+      "span": [
+        198,
+        200
+      ],
+      "quote": "的姿势，奢华装饰艺术，中国传统纹饰；\n荧光蓝色线条，0.5mm极细金色金属质感勾边，泼白墨大笔触，色彩渲染，红底，蓝色的浪漫诗意视觉；\n冷暖光交织的梦幻唯美场景，强烈的光影对比氛围，花轻舞的时光"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 3963,
+      "image_links": [
+        "../data/images/case304.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

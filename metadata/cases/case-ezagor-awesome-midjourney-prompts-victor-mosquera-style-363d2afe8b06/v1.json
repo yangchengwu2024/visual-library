@@ -1,0 +1,72 @@
+{
+  "archived_source_manifest": "sources/ezagor-awesome-midjourney-prompts/upstream/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/manifest.json",
+  "artists": [
+    "Victor Mosquera"
+  ],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "原README中紧随该prompt的示例成图；不是输入参考图。",
+      "role": "output"
+    }
+  ],
+  "evidence": [
+    {
+      "kind": "source-location",
+      "ordinal": 11,
+      "original_command": "/imagine prompt:illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks",
+      "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881",
+      "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase"
+    },
+    {
+      "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee.",
+      "kind": "source-declared-license",
+      "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+      "value": "CC0-1.0"
+    },
+    {
+      "date": "2026-09-09",
+      "height": 1280,
+      "kind": "visual-review",
+      "note": "原图为青绿与暖金色峡谷神庙、瀑布和巨大面具浮雕；原prompt未指定这个主体，作为姓名+色彩风格参考。紫粉不明显，不鉴定艺术家真作保真度。",
+      "sha256": "5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b",
+      "width": 640
+    },
+    {
+      "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated.",
+      "job_id": null,
+      "kind": "generation-conditions",
+      "model_claim": "Midjourney Showcase",
+      "profile": null,
+      "seed": null,
+      "sref": null,
+      "sv": null,
+      "sw": null,
+      "version": null
+    },
+    {
+      "approved_content_unchanged": true,
+      "asset_sha256": "5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b",
+      "kind": "bounded-source-sync",
+      "locator": {
+        "label": "illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks",
+        "path": "README.md",
+        "section": "Midjourney Showcase"
+      },
+      "original_command": "/imagine prompt:illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks",
+      "prompt_sha256": "c37b40178ac65f3fe95f22be0439a89e7f823efddebe7c9bc169b86db2b5d208",
+      "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca"
+    }
+  ],
+  "materials": [],
+  "model_family": "midjourney",
+  "model_version": null,
+  "movements": [],
+  "original_category": "风格参考",
+  "record_type": "style_reference",
+  "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为青绿与暖金色峡谷神庙、瀑布和巨大面具浮雕；原prompt未指定这个主体，作为姓名+色彩风格参考。紫粉不明显，不鉴定艺术家真作保真度。",
+  "review_status": "verified",
+  "techniques": [
+    "illustration"
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "case_id": "case-jamez-awesome-gpt4o-images-52-38c70ceb2352",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "Icon"
+    ],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [
+        "Icon"
+      ],
+      "styles": [
+        "Paper craft",
+        "Minimalism"
+      ]
+    },
+    "styles": [
+      "Paper craft",
+      "Minimalism"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "cases/52/example_paper_craft_emoji_fire.png"
+        }
+      ],
+      "attribution": {
+        "creation_tool": "Sora",
+        "date": "2025-05-24",
+        "image_author": "@jamez-bondos",
+        "image_author_link": "https://github.com/jamez-bondos",
+        "license": "CC-BY-4.0",
+        "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+        "prompt_author": "@egeberkina",
+        "prompt_author_link": "https://x.com/egeberkina",
+        "source_links": [
+          {
+            "url": "https://x.com/egeberkina/status/1912521263085482464"
+          }
+        ],
+        "title": "纸艺风格 Emoji 图标",
+        "title_en": "Paper Craft Style Emoji Icon"
+      },
+      "license": "CC-BY-4.0",
+      "license_status": "per-case declaration; third-party prompt rights not independently verified",
+      "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+      "rights": {
+        "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+        "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+        "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+        "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+      },
+      "source": "jamez-awesome-gpt4o-images",
+      "source_category": "插画与艺术",
+      "source_id": "52",
+      "source_metadata": {
+        "case": {
+          "alt_text": "纸艺风格的火焰 Emoji 图标",
+          "alt_text_en": "Paper craft style fire emoji icon",
+          "author": "@egeberkina",
+          "author_link": "https://x.com/egeberkina",
+          "image": "example_paper_craft_emoji_fire.png",
+          "prompt": "一个纸艺风格的“🔥”图标，漂浮在纯白背景上。这个表情符号由彩色剪纸手工制作而成，具有可见的纸张纹理、折痕和分层形状。它在下方投下柔和的阴影，营造出轻盈感和立体感。整体设计简洁、有趣、干净，图像居中，周围留有大量留白。使用柔和的影棚光照以突出纸张的质感与边缘。\n",
+          "prompt_en": "A paper craft-style \"🔥\" floating on a pure white background. The emoji is handcrafted from colorful cut paper with visible textures, creases, and layered shapes. It casts a soft drop shadow beneath, giving a sense of lightness and depth. The design is minimal, playful, and clean — centered in the frame with lots of negative space. Use soft studio lighting to highlight the paper texture and edges.\n",
+          "prompt_note": "可将提示词中的 \"🔥\" 替换为其他 Emoji。\n",
+          "prompt_note_en": "The \"🔥\" emoji in the prompt can be replaced with other emojis.\n",
+          "reference_note": "",
+          "reference_note_en": "",
+          "source_links": [
+            {
+              "url": "https://x.com/egeberkina/status/1912521263085482464"
+            }
+          ],
+          "submitter": "",
+          "submitter_link": "",
+          "title": "纸艺风格 Emoji 图标",
+          "title_en": "Paper Craft Style Emoji Icon"
+        },
+        "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/ATTRIBUTION.yml",
+        "model_claim": "Sora",
+        "model_snapshot": null,
+        "prompt_field": "prompt",
+        "prompt_origin": "exact upstream YAML field"
+      },
+      "source_tags": {
+        "scenes": [
+          "Icon"
+        ],
+        "styles": [
+          "Paper craft",
+          "Minimalism"
+        ]
+      },
+      "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/case.yml",
+      "title": "纸艺风格 Emoji 图标",
+      "upstream_url": "https://x.com/egeberkina/status/1912521263085482464",
+      "version": "v1"
+    }
+  ],
+  "title": "纸艺风格 Emoji 图标",
+  "title_aliases": [
+    "纸艺风格 Emoji 图标"
+  ]
+}

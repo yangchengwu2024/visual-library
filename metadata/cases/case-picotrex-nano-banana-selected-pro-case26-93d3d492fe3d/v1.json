@@ -1,0 +1,58 @@
+{
+  "archived_source_manifest": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/manifest.json",
+  "artists": [
+    "张择端"
+  ],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "README明确标注并逐图实看",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "collector": "PicoTrex/Awesome-Nano-Banana-images",
+    "creator_as_credited": "@dotey",
+    "creator_url": "https://x.com/dotey",
+    "original_source": "https://x.com/dotey/status/1992469131438719122?s=20"
+  },
+  "evidence": [
+    {
+      "kind": "source_section",
+      "locator": "Nano Banana Pro / 例 26 / images/pro_case26/",
+      "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md"
+    },
+    {
+      "kind": "original_source",
+      "note": "由README归属链接保存；本轮未独立读取原帖。",
+      "url": "https://x.com/dotey/status/1992469131438719122?s=20"
+    },
+    {
+      "files": [
+        "images/pro_case26/output.jpg"
+      ],
+      "kind": "visual_review",
+      "note": "实看为黄褐绢本长卷、桥梁现代车辆、建筑细线和河岸小人物，符合张择端风格及现代芝加哥重绘意图。未独立核验地理细节与题字；不声称是张择端真作。",
+      "reviewed_on": "2026-09-09"
+    }
+  ],
+  "materials": [
+    "aged silk",
+    "ink"
+  ],
+  "model_family": "nano-banana",
+  "model_version": "Nano Banana Pro",
+  "movements": [
+    "中国传统绘画"
+  ],
+  "original_category": "艺术风格",
+  "record_type": "case",
+  "review_note": "实看为黄褐绢本长卷、桥梁现代车辆、建筑细线和河岸小人物，符合张择端风格及现代芝加哥重绘意图。未独立核验地理细节与题字；不声称是张择端真作。",
+  "review_status": "verified",
+  "techniques": [
+    "散点透视",
+    "界画",
+    "细线描绘"
+  ]
+}

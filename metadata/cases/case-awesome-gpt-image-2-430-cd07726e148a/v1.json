@@ -1,0 +1,133 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "stone",
+    "denim",
+    "lace",
+    "pencil",
+    "charcoal"
+  ],
+  "techniques": [
+    "cross-hatching",
+    "hatching",
+    "linework"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "stone",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        78,
+        83
+      ],
+      "quote": "lish woman sitting gracefully on a stone ledge, posing with one hand near her chin and legs crossed."
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "denim",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        233,
+        238
+      ],
+      "quote": "ite blouse with rolled-up sleeves, denim overalls, and rugged lace-up combat boots. The subject is r"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "lace",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        260,
+        264
+      ],
+      "quote": "leeves, denim overalls, and rugged lace-up combat boots. The subject is rendered in a desaturated, "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "pencil",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        338,
+        344
+      ],
+      "quote": "ed in a desaturated, monochromatic pencil-sketch style with soft cross-hatching and charcoal textures"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "charcoal",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        387,
+        395
+      ],
+      "quote": "style with soft cross-hatching and charcoal textures. In the background, a large, vibrant solid orange "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "cross-hatching",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        368,
+        382
+      ],
+      "quote": "atic pencil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "hatching",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        374,
+        382
+      ],
+      "quote": "encil-sketch style with soft cross-hatching and charcoal textures. In the background, a large, vibrant "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "linework",
+      "source": "cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.json#prompt",
+      "span": [
+        643,
+        651
+      ],
+      "quote": "die-magazine\" aesthetic with sharp linework and soft shading.\n\nAspect ratio is 9:16"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 8648,
+      "image_links": [
+        "../data/images/case430.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

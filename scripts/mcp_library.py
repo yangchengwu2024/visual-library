@@ -6,6 +6,7 @@ fetches upstream, changes snapshot directories, or writes library metadata.
 from __future__ import annotations
 
 import argparse
+from collections import Counter
 import hashlib
 import io
 import json
@@ -72,10 +73,13 @@ class LibrarySnapshot:
         base = "cases/" + case_id + "/" + version
         return {"github_url": self.url(base + ".md"), "json_url": self.url(base + ".json")}
 
-    def search_cases(self, keywords=None, category=None, tags=None, limit=10, full_text=False, favorites=False):
+    def search_cases(self, keywords=None, category=None, tags=None, limit=10, full_text=False, favorites=False, *,
+                     model_family=None, artist=None, movement=None, material=None, record_type=None, review_status=None):
         if isinstance(limit, bool) or not 1 <= limit <= 30:
             raise ValueError("limit must be between 1 and 30")
-        items = library.query(self.root, keywords, category, tags, limit, full_text, favorites)
+        items = library.query(self.root, keywords, category, tags, limit, full_text, favorites,
+                              model_family=model_family, artist=artist, movement=movement, material=material,
+                              record_type=record_type, review_status=review_status)
         for item in items:
             item.update(commit=self.commit, **self.version_links(item["case_id"], item["version"]))
             for version in item.get("versions", []):
@@ -130,7 +134,10 @@ class LibrarySnapshot:
             raise ValueError("Cannot decode snapshot image (" + type(exc).__name__ + ")") from None
         data = out.getvalue()
         metadata = {**self.context(), "case_id": content["case_id"], "version": content["version"],
-                    "image_index": image_index, "sha256": digest, "original_bytes": len(payload),
+                    "record_type": content["record_type"], "review_status": content["review_status"],
+                    "effective_status": content["effective_status"], "review_note": content["review_note"],
+                    "role": asset.get("role"), "role_reason": asset.get("role_reason"),
+                    "image_index": image_index, "role": asset.get("role", "unknown"), "sha256": digest, "original_bytes": len(payload),
                     "original_url": self.url(asset["path"], raw=True), "github_url": self.url(asset["path"]),
                     "original_size": original_size, "preview_size": preview_size,
                     "preview_sha256": hashlib.sha256(data).hexdigest(),
@@ -150,6 +157,8 @@ class LibrarySnapshot:
             if document:
                 template["github_url"] = self.url(document) + "#" + quote(template.get("anchor", ""))
         return {**self.context(), "case_count": len(catalog["cases"]),
+                "record_type_counts": dict(Counter(item.get("record_type", "case") for item in catalog["cases"])),
+                "keyword_references": _public_metadata(library._read(self.root / "indexes/keyword_references.json", {"entries": []})),
                 "taxonomy": _public_metadata(taxonomy), "templates": templates,
                 "catalog_url": self.url("docs/gallery.md")}
 
@@ -166,9 +175,14 @@ def create_server(snapshot_dir, commit, repository_url, snapshot_status="local")
     @server.tool(annotations=readonly)
     def search_cases(keywords: list[str] | None = None, category: str | None = None,
                      tags: list[str] | None = None, limit: int = 10,
-                     full_text: bool = False, favorites: bool = False) -> dict:
+                     full_text: bool = False, favorites: bool = False,
+                     model_family: str | None = None, artist: str | None = None,
+                     movement: str | None = None, material: str | None = None,
+                     record_type: str | None = None, review_status: str | None = None) -> dict:
         """Search archived cases; AND keywords/tags, alias-aware categories, limit 1..30. No visual inference."""
-        return snapshot.search_cases(keywords, category, tags, limit, full_text, favorites)
+        return snapshot.search_cases(keywords, category, tags, limit, full_text, favorites,
+                                     model_family=model_family, artist=artist, movement=movement, material=material,
+                                     record_type=record_type, review_status=review_status)
 
     @server.tool(annotations=readonly)
     def get_case(case_id: str, version: str | None = None, expected_commit: str | None = None) -> dict:

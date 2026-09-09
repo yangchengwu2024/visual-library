@@ -1,0 +1,52 @@
+{
+  "case_id": "case-ezagor-awesome-midjourney-prompts-victor-mosquera-style-363d2afe8b06",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "style",
+        "environment"
+      ]
+    },
+    "styles": [
+      "style",
+      "environment"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png"
+        }
+      ],
+      "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+      "source": "ezagor-awesome-midjourney-prompts",
+      "source_category": "插画与艺术",
+      "source_id": "victor-mosquera-style",
+      "source_tags": {
+        "scenes": [],
+        "styles": [
+          "style",
+          "environment"
+        ]
+      },
+      "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+      "title": "Victor Mosquera插画风格线索",
+      "upstream_url": "https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png",
+      "version": "v1"
+    }
+  ],
+  "title": "Victor Mosquera插画风格线索",
+  "title_aliases": [
+    "Victor Mosquera插画风格线索"
+  ]
+}

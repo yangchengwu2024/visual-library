@@ -1,0 +1,158 @@
+{
+  "date": "2026-09-09",
+  "term_count": 18,
+  "sources": [
+    "100种新艺术家风格.pdf",
+    "Midjourney 各类关键词案例.pdf",
+    "The_Big_Book_of_Prompts-AiTuts.pdf"
+  ],
+  "entries": [
+    {
+      "original_term": "Sergio Aragones",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 2,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "Lucy Grossmith",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 3,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "Jon Klassen",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 4,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "Maud Lewis",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 5,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "Fu Baoshi",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 7,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "--niji 5",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 3,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "--style expressive",
+      "pdf_file": "100种新艺术家风格.pdf",
+      "pdf_page_1_based": 3,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "liquid metal",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 43,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "PVC",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 51,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "screen print",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 26,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "printmaking",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 26,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "sidelighting",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 13,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "light particles",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 13,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "--v 5.1",
+      "pdf_file": "Midjourney 各类关键词案例.pdf",
+      "pdf_page_1_based": 51,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "8-bit pixel art",
+      "pdf_file": "The_Big_Book_of_Prompts-AiTuts.pdf",
+      "pdf_page_1_based": 10,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "16-bit pixel art",
+      "pdf_file": "The_Big_Book_of_Prompts-AiTuts.pdf",
+      "pdf_page_1_based": 10,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "32-bit pixel art",
+      "pdf_file": "The_Big_Book_of_Prompts-AiTuts.pdf",
+      "pdf_page_1_based": 10,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    },
+    {
+      "original_term": "coloring book",
+      "pdf_file": "The_Big_Book_of_Prompts-AiTuts.pdf",
+      "pdf_page_1_based": 63,
+      "text_layer_match": true,
+      "visual_page_reviewed": true,
+      "note": "Term spelling, page locator and source layout checked; usage explanation in Markdown is original commentary, not copied source prose."
+    }
+  ],
+  "document": "docs/pdf-keywords.md",
+  "record_type": "keyword_reference",
+  "note": "Text-only factual reference; not image cases or full PDF archive."
+}

@@ -1,0 +1,107 @@
+{
+  "archived_at": "2026-09-09T08:25:28+00:00",
+  "assets": [
+    {
+      "bytes": 885615,
+      "path": "images/16d7e94662ce205feba7d8848dd1b900bdd1ef068cd6f967edc459a8de95e174.png",
+      "role": "output",
+      "sha256": "16d7e94662ce205feba7d8848dd1b900bdd1ef068cd6f967edc459a8de95e174",
+      "source_path": "cases/86/double_exposure.png"
+    }
+  ],
+  "case_id": "case-jamez-awesome-gpt4o-images-86-ce808b021985",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9ca885e4dfd01b726e7c7e28beb3565966f3af54cd42103cf372e4302558a879",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n",
+  "prompt_variants": {
+    "prompt": "双重曝光，Midjourney 风格，融合、混合、叠加的双重曝光图像，双重曝光风格。一幅由 Yukisakura 创作的杰出杰作，展现了一个奇妙的双重曝光构图，将阿拉贡·阿拉松之子的剪影与生机勃勃春季里中土世界视觉上引人注目、崎岖的地貌和谐地交织在一起。沐浴阳光的松树林、山峰和一匹孤独的马穿过小径的景象从他身形的纹理中向外回响，增添了叙事和孤独的层次感。当简洁分明的单色背景保持着锐利的对比度时，美妙的张力逐渐形成，将所有焦点吸引到层次丰富的双重曝光上。其特点是阿拉贡剪影内部充满活力的全彩色方案，以及用情感的精确性描摹每个轮廓的清晰、刻意的线条。(Detailed:1.45). (Detailed background:1.4).\n",
+    "prompt_en": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n"
+  },
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "cases/86/double_exposure.png"
+      }
+    ],
+    "attribution": {
+      "creation_tool": "Sora",
+      "date": "2025-05-24",
+      "image_author": "@jamez-bondos",
+      "image_author_link": "https://github.com/jamez-bondos",
+      "license": "CC-BY-4.0",
+      "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+      "prompt_author": "rezzycheck (Sora)",
+      "prompt_author_link": "https://sora.com/explore?user=rezzycheck",
+      "source_links": [
+        {
+          "url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw"
+        }
+      ],
+      "title": "双重曝光",
+      "title_en": "Double Exposure"
+    },
+    "license": "CC-BY-4.0",
+    "license_status": "per-case declaration; third-party prompt rights not independently verified",
+    "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+    "rights": {
+      "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+      "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+      "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+      "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+    },
+    "source": "jamez-awesome-gpt4o-images",
+    "source_category": "插画与艺术",
+    "source_id": "86",
+    "source_metadata": {
+      "case": {
+        "alt_text": "双重曝光",
+        "alt_text_en": "Double Exposure",
+        "author": "rezzycheck (Sora)",
+        "author_link": "https://sora.com/explore?user=rezzycheck",
+        "image": "double_exposure.png",
+        "prompt": "双重曝光，Midjourney 风格，融合、混合、叠加的双重曝光图像，双重曝光风格。一幅由 Yukisakura 创作的杰出杰作，展现了一个奇妙的双重曝光构图，将阿拉贡·阿拉松之子的剪影与生机勃勃春季里中土世界视觉上引人注目、崎岖的地貌和谐地交织在一起。沐浴阳光的松树林、山峰和一匹孤独的马穿过小径的景象从他身形的纹理中向外回响，增添了叙事和孤独的层次感。当简洁分明的单色背景保持着锐利的对比度时，美妙的张力逐渐形成，将所有焦点吸引到层次丰富的双重曝光上。其特点是阿拉贡剪影内部充满活力的全彩色方案，以及用情感的精确性描摹每个轮廓的清晰、刻意的线条。(Detailed:1.45). (Detailed background:1.4).\n",
+        "prompt_en": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n",
+        "prompt_note": "中文提示词由英文原文翻译而来，基本能达到预期效果，不过使用英文提示词可能会获得更好的结果。",
+        "prompt_note_en": "",
+        "reference_note": "",
+        "reference_note_en": "",
+        "source_links": [
+          {
+            "url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw"
+          }
+        ],
+        "submitter": "",
+        "submitter_link": "",
+        "title": "双重曝光",
+        "title_en": "Double Exposure"
+      },
+      "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/ATTRIBUTION.yml",
+      "model_claim": "Sora",
+      "model_snapshot": null,
+      "prompt_field": "prompt_en",
+      "prompt_origin": "exact upstream YAML field"
+    },
+    "source_tags": {
+      "scenes": [
+        "Character",
+        "Landscape"
+      ],
+      "styles": [
+        "Double exposure"
+      ]
+    },
+    "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/case.yml",
+    "title": "双重曝光",
+    "upstream_url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "双重曝光",
+  "version": "v1"
+}

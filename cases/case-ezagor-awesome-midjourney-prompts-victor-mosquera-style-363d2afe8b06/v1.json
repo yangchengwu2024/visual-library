@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-09-09T08:25:59+00:00",
+  "assets": [
+    {
+      "bytes": 960257,
+      "path": "images/5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b.png",
+      "role": "output",
+      "sha256": "5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b",
+      "source_path": "https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png"
+    }
+  ],
+  "case_id": "case-ezagor-awesome-midjourney-prompts-victor-mosquera-style-363d2afe8b06",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9c8584483669ce41eb18fd4ba155c3ee8c3bfc75e80935d682a8ec5eedc0b061",
+  "model": "Midjourney",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png"
+      }
+    ],
+    "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+    "source": "ezagor-awesome-midjourney-prompts",
+    "source_category": "插画与艺术",
+    "source_id": "victor-mosquera-style",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "style",
+        "environment"
+      ]
+    },
+    "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+    "title": "Victor Mosquera插画风格线索",
+    "upstream_url": "https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Victor Mosquera插画风格线索",
+  "version": "v1"
+}

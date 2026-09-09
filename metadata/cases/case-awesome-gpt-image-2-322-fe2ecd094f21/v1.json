@@ -1,0 +1,66 @@
+{
+  "model_family": "unknown",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "可替换人像模板需要用户提供模特图；prompt 包含 --v7 --style raw，不能据集合名称确认 GPT-image 生成，实际模型未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-322-fe2ecd094f21/v1.json#prompt",
+      "span": [
+        25,
+        28
+      ],
+      "quote": "[中文]\n专业照片，一位男士，30岁的俄罗斯模特（参考图像），正对着镜头，向相机倾斜，从下往上拍摄，使用广角镜头。男士倾斜着身体，近距离将一瓶饮料展示给镜头，一只手拿着瓶子，紧贴在镜头前。瓶子的标签和方向保持笔直，以便标签清晰可读。他穿着白色运动鞋，一只脚在镜头前方。男士站在街道上，湿漉漉的沥青和飞溅的水花从下方拍出。鲜艳的色彩，电影级灯光，光线从后方打在模特的脸上。--v7 --ar 3:4"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-322-fe2ecd094f21/v1.json#prompt",
+      "span": [
+        278,
+        293
+      ],
+      "quote": "English]\nProfessional photo, a guy, a 30-year-old Russian model (reference image), is facing the lens, tilted towards the camera, angle from below, shot with a wide-angle lens. The guy is tilted and shows a bottle close-up to the camera, a hand with "
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/c6535979f7b26217c872ee158ef2745e18fe4a6189699eeefb127c010b7ba5a7.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "c6535979f7b26217c872ee158ef2745e18fe4a6189699eeefb127c010b7ba5a7"
+    },
+    {
+      "kind": "model_conflict",
+      "source": "cases/case-awesome-gpt-image-2-322-fe2ecd094f21/v1.json#prompt",
+      "quote": "的沥青和飞溅的水花从下方拍出。鲜艳的色彩，电影级灯光，光线从后方打在模特的脸上。--v7 --ar 3:4 --style raw\n\n[English]\nProfessional photo, a guy, a 30-year-old R",
+      "note": "冲突证据不能证明实际生成引擎；model_family=unknown，model_version=null。"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 4601,
+      "image_links": [
+        "../data/images/case322.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

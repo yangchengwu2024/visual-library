@@ -1,0 +1,60 @@
+{
+  "id": "jamez-awesome-gpt4o-images",
+  "name": "jamez-awesome-gpt4o-images",
+  "repo": "jamez-bondos/awesome-gpt4o-images",
+  "url": "https://github.com/jamez-bondos/awesome-gpt4o-images",
+  "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+  "policy": "selective_append",
+  "approved_scope": {
+    "case_ids": [
+      "25",
+      "52",
+      "64",
+      "66",
+      "71",
+      "84",
+      "86",
+      "88"
+    ],
+    "include_paths": [
+      "cases/<approved_id>/case.yml",
+      "cases/<approved_id>/ATTRIBUTION.yml",
+      "cases/<approved_id>/<image>"
+    ],
+    "exclude_paths": [
+      "gpt-image-1/**"
+    ],
+    "mode": "append",
+    "requires_complete_inputs": true
+  },
+  "license": "CC-BY-4.0",
+  "license_evidence": [
+    "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/LICENSE",
+    "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/gpt-image-1/NOTICE-openai.md"
+  ],
+  "license_scope": "Per-case ATTRIBUTION declarations retained. Image authors expressly named; third-party prompts remain attributed quotations; no blanket independent clearance claimed.",
+  "risks": [
+    "Most cases name Sora as tool but omit exact image model; preserve null model_version.",
+    "Third-party prompt author rights are not independently verified by root license.",
+    "Trademark/character/name references are not an endorsement or blanket commercial clearance."
+  ],
+  "adapter_suggestion": {
+    "format": "case YAML plus ATTRIBUTION YAML",
+    "entry": "GitHub commit endpoint; inspect tree diff only after revision changes",
+    "approved_case_ids": [
+      "25",
+      "52",
+      "64",
+      "66",
+      "71",
+      "84",
+      "86",
+      "88"
+    ],
+    "record_id": "cases directory integer id",
+    "prompt": "Use exact parsed YAML string; retain prompt and prompt_en in source_metadata; never concatenate translations.",
+    "assets": "Resolve image strictly inside approved case directory, fetch raw at fixed commit; preserve bytes/hash.",
+    "missing_input_policy": "Reject qualified import if reference_note or prompt requires an input and it is not explicitly supplied with role and provenance.",
+    "notices": "Read root LICENSE and relevant per-case ATTRIBUTION; reject excluded gpt-image-1 paths; fail one source independently."
+  }
+}

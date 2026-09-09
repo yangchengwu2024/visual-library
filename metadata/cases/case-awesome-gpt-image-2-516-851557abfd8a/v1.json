@@ -1,0 +1,61 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "rubber"
+  ],
+  "techniques": [
+    "3D render"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "原文的 {Object} 与 [brand] 为可替换参数，original logo design 表示品牌形态约束，没有强制上传某一特定图片；不据此判定缺输入。此图本轮未看。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "rubber",
+      "source": "cases/case-awesome-gpt-image-2-516-851557abfd8a/v1.json#prompt",
+      "span": [
+        94,
+        100
+      ],
+      "quote": "ct} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible ye"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "3D render",
+      "source": "cases/case-awesome-gpt-image-2-516-851557abfd8a/v1.json#prompt",
+      "span": [
+        41,
+        50
+      ],
+      "quote": " an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing be"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11456,
+      "image_links": [
+        "../data/images/case516.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

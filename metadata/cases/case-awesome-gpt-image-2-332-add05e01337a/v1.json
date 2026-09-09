@@ -1,0 +1,51 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "“帮这个产品生成宣传图”是可替换产品输入模板；现存是茶π广告成图，使用者需要提供要宣传的产品素材。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-332-add05e01337a/v1.json#prompt",
+      "span": [
+        1,
+        5
+      ],
+      "quote": "帮这个产品生成宣传图"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/51e954c6693d4151bc81138bf7968b0d12d96035950c975707c66d424d529381.png",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "51e954c6693d4151bc81138bf7968b0d12d96035950c975707c66d424d529381"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 5355,
+      "image_links": [
+        "../data/images/case332.png"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

@@ -26,15 +26,42 @@ def validate(root):
         errors.append('Template index missing')
     else:
         data = json.loads(templates_file.read_text(encoding='utf-8'))
-        check(data['document'])
-        state_file = root / 'sources' / data['source'] / 'state.json'
-        if state_file.exists():
-            state = json.loads(state_file.read_text(encoding='utf-8'))
-            if state.get('last_attempt_revision') != data['revision']:
-                errors.append('Template index and last attempted source revision disagree')
-        else:
-            errors.append('Template source state missing')
+        aggregate = 'sources' in data
+        sources = data.get('sources', [data])
+        seen = set()
+        for source in sources:
+            source_id = source.get('source', '')
+            if not source_id or source_id in seen or '/' in source_id or '\\' in source_id or '..' in source_id:
+                errors.append('Invalid or duplicate template source')
+                continue
+            seen.add(source_id)
+            if source.get('document'):
+                check(source['document'])
+            state_file = root / 'sources' / source_id / 'state.json'
+            if not state_file.exists():
+                errors.append('Template source state missing: ' + source_id)
+            # A failed or case-only later sync must not invalidate preserved templates.
+            if aggregate:
+                sidecar = root / 'sources' / source_id / 'templates.json'
+                if not sidecar.is_file():
+                    errors.append('Template source sidecar missing: ' + source_id)
+                else:
+                    local = json.loads(sidecar.read_text(encoding='utf-8'))
+                    selected = [row for row in data['templates'] if row.get('source') == source_id]
+                    if local.get('source') != source_id or local.get('revision') != source.get('revision') or local.get('templates') != selected or len(selected) != source.get('count'):
+                        errors.append('Template sidecar and aggregate disagree: ' + source_id)
+        stable_ids = set()
         for template in data['templates']:
+            if aggregate:
+                stable_id = str(template.get('source')) + ':' + str(template.get('id'))
+                if template.get('stable_id') != stable_id or stable_id in stable_ids or template.get('source') not in seen:
+                    errors.append('Invalid or duplicate stable template ID: ' + stable_id)
+                stable_ids.add(stable_id)
+            document = template.get('document') or data.get('document')
+            if document:
+                check(document)
+            else:
+                errors.append('Template document missing: ' + str(template.get('id')))
             if template.get('cover'):
                 check(template['cover'], template.get('cover_sha256'))
     return {'status': 'PASS' if not errors else 'FAIL', 'files_checked': files, 'errors': errors}

@@ -1,0 +1,574 @@
+{
+  "schema_version": 1,
+  "adapter": "ezagor",
+  "scope": "only-selected-eight-ids",
+  "approved_license_sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+  "entries": [
+    {
+      "source_id": "fire-elf-skottie-young",
+      "title": "火焰精灵：Skottie Young漫画线索",
+      "category": "图像案例",
+      "styles": [
+        "character",
+        "illustration"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [
+          "Skottie Young"
+        ],
+        "movements": [],
+        "materials": [],
+        "techniques": [
+          "comic illustration"
+        ],
+        "record_type": "case",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为暖黄底、火焰头发、绿肤精灵坐在木头上；角色显幼态，魔杖未清楚呈现，不能宣称原prompt每一细节均实现。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 1,
+            "original_command": "/imagine prompt:a wise old fire elf, hair made of fire, with a magical staff, resting on a log. Skottie Young comic artwork.",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为暖黄底、火焰头发、绿肤精灵坐在木头上；角色显幼态，魔杖未清楚呈现，不能宣称原prompt每一细节均实现。",
+            "width": 640,
+            "height": 1088,
+            "sha256": "43e86981fd76c58abef634cf07cbe04d4a30464456103ea2bacadbcd70bed7bc"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "a wise old fire elf, hair made of fire, with a magical staff, resting on a log. Skottie Young comic artwork.",
+      "approved_prompt_sha256": "1ad2218eb26c1e17c5f10104ed08eaa30fc3cf7ca4990c36fd75f52e9b3458c4",
+      "approved_asset_sha256": "43e86981fd76c58abef634cf07cbe04d4a30464456103ea2bacadbcd70bed7bc",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220786955-c5d06d49-1614-4ea4-bdc1-dc3710293512.png"
+    },
+    {
+      "source_id": "8-bit-ascii-art",
+      "title": "8-bit ASCII风格参考",
+      "category": "风格参考",
+      "styles": [
+        "style",
+        "pixel art"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [],
+        "movements": [],
+        "materials": [],
+        "techniques": [
+          "8-bit",
+          "ASCII art"
+        ],
+        "record_type": "style_reference",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为深棕底浅青色条纹人形与骷髅，周围似字符纹理；是生成的ASCII视觉风格，不是可复制执行的纯文本ASCII作品。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 2,
+            "original_command": "/imagine prompt:8-bit ascii-art",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为深棕底浅青色条纹人形与骷髅，周围似字符纹理；是生成的ASCII视觉风格，不是可复制执行的纯文本ASCII作品。",
+            "width": 640,
+            "height": 1280,
+            "sha256": "c0946f4a2e6dfce1f38ef00a473cd51fbe5bbcda0f4c47d5705dfc204803971c"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "8-bit ascii-art",
+      "approved_prompt_sha256": "5182ed6c0240b9f54284933bc541896f3bd81298080cca1b96e0efee3346a8fa",
+      "approved_asset_sha256": "c0946f4a2e6dfce1f38ef00a473cd51fbe5bbcda0f4c47d5705dfc204803971c",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220787067-3ec8ec1f-d309-4234-a2dd-55687dbbdc0e.png"
+    },
+    {
+      "source_id": "indigenogoth-malachite",
+      "title": "indigenogoth 孔雀石风格参考",
+      "category": "风格参考",
+      "styles": [
+        "style",
+        "portrait"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [],
+        "movements": [],
+        "materials": [
+          "malachite"
+        ],
+        "techniques": [],
+        "record_type": "style_reference",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为正面女性肖像、青绿饰面与羽饰、暗背景；短词没有指定构图，保存为风格参考，不把模型生成装束当作真实族群服饰证据。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 3,
+            "original_command": "/imagine prompt:indigenogoth Malachite",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为正面女性肖像、青绿饰面与羽饰、暗背景；短词没有指定构图，保存为风格参考，不把模型生成装束当作真实族群服饰证据。",
+            "width": 640,
+            "height": 960,
+            "sha256": "b829f943b313a2135dff7a21f36f34b8f591019786b4d46c763b5652319d04f7"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "indigenogoth Malachite",
+      "approved_prompt_sha256": "19df9139acee703feefb8dbddbf73bfe91ee01d2d714b6de5efbfdca8f18284d",
+      "approved_asset_sha256": "b829f943b313a2135dff7a21f36f34b8f591019786b4d46c763b5652319d04f7",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220787123-1a2b81e7-9cb6-4a94-b1ac-3db1f3cf0274.png"
+    },
+    {
+      "source_id": "electronic-components-face",
+      "title": "电子元件与PCB人脸",
+      "category": "图像案例",
+      "styles": [
+        "portrait",
+        "material"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [],
+        "movements": [],
+        "materials": [
+          "electronic components",
+          "PCB"
+        ],
+        "techniques": [
+          "material transformation"
+        ],
+        "record_type": "case",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为正面暗色愤怒人脸，电路板与元件组成面部纹理，青绿眼睛；文图主题相符。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 5,
+            "original_command": "/imagine prompt:angry face made of electronic components and PCB circuits",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为正面暗色愤怒人脸，电路板与元件组成面部纹理，青绿眼睛；文图主题相符。",
+            "width": 640,
+            "height": 1120,
+            "sha256": "02448ccf0ae3f3a44daff8aa3f7226ba110668690062943c512830ef9ffd953f"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "angry face made of electronic components and PCB circuits",
+      "approved_prompt_sha256": "4381a3a079009be560d729d5672f080d750a0b136c864f717b4ea9b2444d8ec0",
+      "approved_asset_sha256": "02448ccf0ae3f3a44daff8aa3f7226ba110668690062943c512830ef9ffd953f",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220787302-7552d1fa-1fd6-42ca-a586-e54fef50ec06.png"
+    },
+    {
+      "source_id": "wolf-cubs-coloring-book",
+      "title": "幼狼：黑白涂色书插画",
+      "category": "图像案例",
+      "styles": [
+        "illustration",
+        "animals"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [],
+        "movements": [],
+        "materials": [],
+        "techniques": [
+          "coloring book",
+          "line art"
+        ],
+        "record_type": "case",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为两只幼狼与植物边框，黑白线条和灰度毛发细节；幼狼静态摆位，playing未明显表现。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 10,
+            "original_command": "/imagine prompt:black and white adult coloring book illustration, cute wolf cubs playing, nature",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为两只幼狼与植物边框，黑白线条和灰度毛发细节；幼狼静态摆位，playing未明显表现。",
+            "width": 640,
+            "height": 960,
+            "sha256": "de165d53991c9f6a14b8d69e03d235598e7f64d6b693bb90786510ddaa06049a"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "black and white adult coloring book illustration, cute wolf cubs playing, nature",
+      "approved_prompt_sha256": "9d60935beb6129e95766fc6461c800ece162a193ce2fc6585e17c1fe8dbf75c5",
+      "approved_asset_sha256": "de165d53991c9f6a14b8d69e03d235598e7f64d6b693bb90786510ddaa06049a",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220787969-4b4ba5e1-523d-437f-a9ec-06d2e7b790b4.png"
+    },
+    {
+      "source_id": "victor-mosquera-style",
+      "title": "Victor Mosquera插画风格线索",
+      "category": "风格参考",
+      "styles": [
+        "style",
+        "environment"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [
+          "Victor Mosquera"
+        ],
+        "movements": [],
+        "materials": [],
+        "techniques": [
+          "illustration"
+        ],
+        "record_type": "style_reference",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为青绿与暖金色峡谷神庙、瀑布和巨大面具浮雕；原prompt未指定这个主体，作为姓名+色彩风格参考。紫粉不明显，不鉴定艺术家真作保真度。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 11,
+            "original_command": "/imagine prompt:illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为青绿与暖金色峡谷神庙、瀑布和巨大面具浮雕；原prompt未指定这个主体，作为姓名+色彩风格参考。紫粉不明显，不鉴定艺术家真作保真度。",
+            "width": 640,
+            "height": 1280,
+            "sha256": "5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "illustration in the style of Victor Mosquera, ultra-photorealistic, greens, blues, purples, golds, pinks",
+      "approved_prompt_sha256": "c37b40178ac65f3fe95f22be0439a89e7f823efddebe7c9bc169b86db2b5d208",
+      "approved_asset_sha256": "5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220788047-492e6c05-4751-42a7-8ebb-ad5b43fa4c1e.png"
+    },
+    {
+      "source_id": "macro-particles",
+      "title": "粒子微距与浅景深",
+      "category": "图像案例",
+      "styles": [
+        "abstract",
+        "photography"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [],
+        "movements": [],
+        "materials": [
+          "particles"
+        ],
+        "techniques": [
+          "macro photography",
+          "shallow depth of field"
+        ],
+        "record_type": "case",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为球状粒子、液滴状高光、蓝金光点和浅景深；8k是原prompt词，下载实图仅640×640。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 12,
+            "original_command": "/imagine prompt:macro photography of particles, realistic, 8k",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为球状粒子、液滴状高光、蓝金光点和浅景深；8k是原prompt词，下载实图仅640×640。",
+            "width": 640,
+            "height": 640,
+            "sha256": "3000e33b983202c7ea5ebf2a9c086a3c9bc1279c12b719517199fd6c007d0a54"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "macro photography of particles, realistic, 8k",
+      "approved_prompt_sha256": "f5c0bd3d79382fb103c9aa4d8e8cb656e8fe2f73ae8f2a18f00fe179d28bad4a",
+      "approved_asset_sha256": "3000e33b983202c7ea5ebf2a9c086a3c9bc1279c12b719517199fd6c007d0a54",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220788092-0a85bce7-969e-47e1-860d-96380c88c4ff.png"
+    },
+    {
+      "source_id": "botanical-lungs-collage",
+      "title": "绿叶构成肺部：数字拼贴",
+      "category": "图像案例",
+      "styles": [
+        "concept",
+        "illustration"
+      ],
+      "scenes": [],
+      "metadata": {
+        "model_family": "midjourney",
+        "model_version": null,
+        "artists": [],
+        "movements": [],
+        "materials": [
+          "leaves"
+        ],
+        "techniques": [
+          "digital collage"
+        ],
+        "record_type": "case",
+        "review_status": "verified",
+        "review_note": "已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为白底绿色叶片、枝脉构成人肺形态；保留原文anormous/leafs拼写与图右上角无法确识的小标记，不裁切改图。",
+        "evidence": [
+          {
+            "kind": "source-location",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+            "ordinal": 15,
+            "original_command": "/imagine prompt:digital collage of human lungs made of anormous amount of green garden and meadow leafs",
+            "readme_blob_sha": "8653dea42ee246db6a26d76253d1ae9aa5fba881"
+          },
+          {
+            "kind": "source-declared-license",
+            "url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+            "value": "CC0-1.0",
+            "caveat": "Repository declares CC0-1.0 for its work. README embeds all selected images from author account 45847677. Individual image creators and generation job logs are not disclosed; declaration is preserved, not an independent ownership guarantee."
+          },
+          {
+            "kind": "visual-review",
+            "date": "2026-09-09",
+            "note": "原图为白底绿色叶片、枝脉构成人肺形态；保留原文anormous/leafs拼写与图右上角无法确识的小标记，不裁切改图。",
+            "width": 640,
+            "height": 512,
+            "sha256": "c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc"
+          },
+          {
+            "kind": "generation-conditions",
+            "model_claim": "Midjourney Showcase",
+            "version": null,
+            "seed": null,
+            "sref": null,
+            "sv": null,
+            "sw": null,
+            "profile": null,
+            "job_id": null,
+            "input_requirement": "No image URL or image/sref/cref/profile parameter in the disclosed prompt; no required inputs demonstrated."
+          }
+        ],
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "output",
+            "reason": "原README中紧随该prompt的示例成图；不是输入参考图。"
+          }
+        ]
+      },
+      "label": "digital collage of human lungs made of anormous amount of green garden and meadow leafs",
+      "approved_prompt_sha256": "9b6688b05582961a1f97494ff04f963da23a4ef8b389751d62f6bb9e6819b544",
+      "approved_asset_sha256": "c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc",
+      "approved_image_url": "https://user-images.githubusercontent.com/45847677/220788264-a402fdbc-a202-45f9-af4d-e338d46c229e.png"
+    }
+  ]
+}

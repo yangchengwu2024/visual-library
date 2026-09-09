@@ -1,0 +1,60 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "missing_inputs",
+  "review_note": "原文要求保留 REFERENCE_0 中心鸡插画并移动、替换标题；现存图已经是改后汤包标签，未见改前版式原图。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-153-28f64651f549/v1.json#prompt",
+      "span": [
+        95,
+        104
+      ],
+      "quote": "style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the right side. Replace the top text with a large, bold black brush-stroke headline {argument "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-153-28f64651f549/v1.json#prompt",
+      "span": [
+        6,
+        17
+      ],
+      "quote": "Using REFERENCE_0 as the base style and preserving the central chicken illustration, transform the image into a product packaging label for a herbal soup mix. Shift the chicken to the rig"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/474705c23c90590d159b7a5ee142e7c230405a41b9fa150f9d4086d4400da6a7.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "474705c23c90590d159b7a5ee142e7c230405a41b9fa150f9d4086d4400da6a7"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-1.md",
+      "line": 6245,
+      "image_links": [
+        "../data/images/case153.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

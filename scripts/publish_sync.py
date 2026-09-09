@@ -32,24 +32,37 @@ def publish(repository, attempts=3):
             checkout = base_dir / 'repo'
             command(['git', 'clone', '--depth', '1', '--branch', 'main', remote, str(checkout)], base_dir, env)
             base = command(['git', 'rev-parse', 'HEAD'], checkout, env).stdout.strip()
-            outcome = command([sys.executable, '-B', 'scripts/sync_upstream.py'], checkout, env, check=False)
-            if outcome.returncode:
-                raise RuntimeError('Sync incomplete; remote left unchanged. ' + outcome.stdout[-1500:] + outcome.stderr[-1000:])
-            source_result = json.loads(outcome.stdout or '{}')
+            outcome = command([sys.executable, '-B', 'scripts/upstreams.py', 'sync'], checkout, env, check=False)
+            try:
+                source_result = json.loads(outcome.stdout or '{}')
+            except json.JSONDecodeError:
+                raise RuntimeError('Sync process failed; remote left unchanged. ' + outcome.stderr[-1000:])
+            if outcome.returncode and source_result.get('status') != 'FAILED':
+                raise RuntimeError('Sync incomplete; remote left unchanged. ' + outcome.stderr[-1000:])
+            all_failed = source_result.get('status') == 'FAILED'
+            if env.get('GITHUB_STEP_SUMMARY'):
+                with open(env['GITHUB_STEP_SUMMARY'], 'a', encoding='utf-8') as summary:
+                    summary.write('### Visual Library source results\n\n')
+                    for item in source_result.get('sources', []):
+                        summary.write('- ' + item['source'] + ': ' + item['status'] + ' — ' + str(item.get('error', item.get('reason', ''))) + '\n')
             if source_result.get('status') == 'PARTIAL':
                 print('Partial sync: saved available resources; missing resources remain pending.', flush=True)
             command([sys.executable, '-B', 'scripts/library.py', 'validate'], checkout, env)
             command([sys.executable, '-B', 'scripts/validate_archive.py'], checkout, env)
             changed = command(['git', 'status', '--porcelain'], checkout, env).stdout.strip()
             if not changed:
+                if all_failed:
+                    raise RuntimeError('All selected sources failed or remain paused; archive unchanged. See source results.')
                 print(json.dumps({'status': 'UNCHANGED', 'attempt': attempt}))
                 return
             command(['git', 'config', 'user.name', 'github-actions[bot]'], checkout, env)
             command(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], checkout, env)
-            command(['git', 'add', '--', 'cases', 'images', 'indexes', 'sources', 'docs', 'README.md'], checkout, env)
+            command(['git', 'add', '--', 'cases', 'images', 'indexes', 'sources', 'metadata', 'docs', 'README.md'], checkout, env)
             command(['git', 'commit', '-m', 'Sync visual reference archive'], checkout, env)
             pushed = command(['git', 'push', 'origin', 'HEAD:refs/heads/main'], checkout, env, check=False)
             if pushed.returncode == 0:
+                if all_failed:
+                    raise RuntimeError('Source failure states saved; all selected sources failed or remain paused. No unavailable content marked complete.')
                 print(json.dumps({'status': 'PARTIAL_PUSHED' if source_result.get('status') == 'PARTIAL' else 'PUSHED', 'attempt': attempt, 'base': base}))
                 return
             # Never force-push or rebase generated case versions. Recompute from the new base.

@@ -1,0 +1,157 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "plastic",
+    "rubber",
+    "wax",
+    "ink"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "结果左侧是保留照片区域、右侧橡皮章；未归档独立原照。原文 for each photo I upload 明示可替换输入，故不判特定必要输入缺失。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        356,
+        361
+      ],
+      "quote": "hotograph on the left and the aged-paper field-note area on the right. Do not add an obvious dividin"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "plastic",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        5466,
+        5473
+      ],
+      "quote": "ns, cartoon styling, 3D rendering, plastic textures, glossy gradients, excessive saturation, HDR effec"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "rubber",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        0,
+        6
+      ],
+      "quote": "Rubber Stamp Travel Field Notes Poster — Natural Realism Version\n\n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wax",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        5305,
+        5308
+      ],
+      "quote": "stage-stamp borders, perforations, wax seals, sticker layouts, souvenir-card designs, generic trav"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        3355,
+        3358
+      ],
+      "quote": "ould appear as a separate physical ink layer.\n\nMake the print feel genuinely handmade:\n\n- slightly"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        522,
+        530
+      ],
+      "quote": "\nThe left side should occupy roughly 58% of the frame.\n\nKeep the uploaded photograph visually authentic and recognizable. Preserve the original subject, perspective, terrain, architecture, plants, people, spatial relationships, natural light, "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        1850,
+        1858
+      ],
+      "quote": "ge filters, or artificial grunge.\n\nSMALL RUBBER STAMP\n\nStudy the uploaded photograph and identify only the few visual features that make the location immediately recognizable.\n\nReduce them into a compact, imperfect multi-color rubber stamp imp"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        775,
+        784
+      ],
+      "quote": "extures, and overall atmosphere.\n\nDo not redesign or reinterpret the photograph.\n\nOnly apply a very subtle editorial photo treatment: gentle tonal balancing, restrained color grading, slightly softened highlights, and extremely fine natural fil"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        2055,
+        2064
+      ],
+      "quote": "imperfect multi-color rubber stamp impression.\n\nDo not reproduce the photograph element by element.\n\nSimplify aggressively and retain only the most meaningful visual relationships:\n\n- distinctive architecture and silhouette\n- important roof, to"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        3250,
+        3259
+      ],
+      "quote": "slate blue\n- taupe or earthy brown\n\nDo not force these colors if the photograph suggests a different restrained palette.\n\nEach color should appear as a separate physical ink layer.\n\nMake the print feel genuinely handmade:\n\n- slightly uneven pre"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.json#prompt",
+      "span": [
+        4065,
+        4074
+      ],
+      "quote": " amount of text based only on the actual location and imagery in the photograph:\n\nLocation — English name\nNo. — Number\nThree short English keywords\nGregorian calendar year\n\nPlace the text below or beside the stamp within the available whitespac"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/cd049146075c22d730e10b33ba9445ccf7ad75918695499594d340cd3d8875d4.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "cd049146075c22d730e10b33ba9445ccf7ad75918695499594d340cd3d8875d4"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 12261,
+      "image_links": [
+        "../data/images/case538.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

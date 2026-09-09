@@ -1,0 +1,85 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "玻璃",
+    "木纹"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "固定香水瓶外形与原标签需完全保留，使用时必须自供产品原图；现图是布景广告，未见独立瓶图，不能从成品裁切并宣称恢复原始输入。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "玻璃",
+      "source": "cases/case-awesome-gpt-image-2-519-ffd5a3366493/v1.json#prompt",
+      "span": [
+        34,
+        36
+      ],
+      "quote": "100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "木纹",
+      "source": "cases/case-awesome-gpt-image-2-519-ffd5a3366493/v1.json#prompt",
+      "span": [
+        39,
+        41
+      ],
+      "quote": "完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-519-ffd5a3366493/v1.json#prompt",
+      "span": [
+        8,
+        10
+      ],
+      "quote": "100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-519-ffd5a3366493/v1.json#prompt",
+      "span": [
+        11,
+        13
+      ],
+      "quote": "100%完整保留上传的原图香水瓶的全部原始外观细节，瓶身造型、薄荷绿玻璃质感、木纹球形瓶盖、原有标签文字完全不做任何修改；瓶身环绕米色织带，周围簇拥薄荷绿玫瑰和浅绿色植物，冷调渐变浅留白背景，冷调逆光柔焦光影，低饱和度冷清高级色调，景深虚化突出香水主体，超写实C4D质感，轻奢高级ins风，适配竖版电商详情页，2K高清"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/6bd251eebe92529cfd1ee870b8c903bc928d8837fc4a619337be0b5ae3d69daf.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "6bd251eebe92529cfd1ee870b8c903bc928d8837fc4a619337be0b5ae3d69daf"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 11548,
+      "image_links": [
+        "../data/images/case519.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

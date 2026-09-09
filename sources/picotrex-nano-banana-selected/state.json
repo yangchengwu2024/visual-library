@@ -1,0 +1,41 @@
+{
+  "last_success_revision": null,
+  "mappings": {
+    "pro_case13": {
+      "case_id": "case-picotrex-nano-banana-selected-pro-case13-d75720310f38",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "pro_case15": {
+      "case_id": "case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "pro_case26": {
+      "case_id": "case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "pro_case28": {
+      "case_id": "case-picotrex-nano-banana-selected-pro-case28-b00e453b047a",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "pro_case35": {
+      "case_id": "case-picotrex-nano-banana-selected-pro-case35-794ac658a42b",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "pro_case51": {
+      "case_id": "case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393",
+      "upstream_present": true,
+      "version": "v1"
+    }
+  },
+  "pending_count": 0,
+  "schema_version": 1,
+  "source": {
+    "name": "picotrex-nano-banana-selected",
+    "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images"
+  }
+}

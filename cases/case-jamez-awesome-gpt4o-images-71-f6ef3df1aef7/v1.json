@@ -1,0 +1,100 @@
+{
+  "archived_at": "2026-09-09T08:25:28+00:00",
+  "assets": [
+    {
+      "bytes": 214056,
+      "path": "images/668e457e0c845208d479dc842ac945ed58864b80aa1ca517410872d449220b63.jpg",
+      "role": "output",
+      "sha256": "668e457e0c845208d479dc842ac945ed58864b80aa1ca517410872d449220b63",
+      "source_path": "cases/71/example_cyberpunk_tilt_shift_miniature.jpg"
+    }
+  ],
+  "case_id": "case-jamez-awesome-gpt4o-images-71-f6ef3df1aef7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1b5f9a4c633ede9edf4edfd2e1dbfb3983b303b903df85dfa69cc406826b0b11",
+  "model": "GPT-4o",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "從上方俯瞰的超高細節迷你【Cyberpunk】景觀，採用傾斜移軸鏡頭效果。場景中充滿如玩具般的元素，全部以高解析度 CG 呈現。光線戲劇化，營造出大片的氛圍，色彩鮮明，對比強烈，強調景深效果與擬真微觀視角，使觀者仿佛俯瞰一個玩具世界般的迷你現實，畫面中包含大量視覺笑點與極具重複觀看價值的細節設計\n",
+  "prompt_variants": {
+    "prompt": "從上方俯瞰的超高細節迷你【Cyberpunk】景觀，採用傾斜移軸鏡頭效果。場景中充滿如玩具般的元素，全部以高解析度 CG 呈現。光線戲劇化，營造出大片的氛圍，色彩鮮明，對比強烈，強調景深效果與擬真微觀視角，使觀者仿佛俯瞰一個玩具世界般的迷你現實，畫面中包含大量視覺笑點與極具重複觀看價值的細節設計\n",
+    "prompt_en": "A highly detailed miniature [Cyberpunk] landscape viewed from above, using a tilt-shift lens effect. The scene is filled with toy-like elements, all rendered in high-resolution CG. Dramatic lighting creates a cinematic atmosphere, with vivid colors and strong contrast, emphasizing depth of field and a realistic micro-perspective, making the viewer feel as if overlooking a toy world. The image contains many visual jokes and details worth repeated viewing.\n"
+  },
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "cases/71/example_cyberpunk_tilt_shift_miniature.jpg"
+      }
+    ],
+    "attribution": {
+      "creation_tool": "GPT-4o",
+      "date": "2025-05-24",
+      "image_author": "terry623",
+      "image_author_link": "https://github.com/terry623",
+      "license": "CC-BY-4.0",
+      "notes": "Prompt quoted verbatim; image fully regenerated via GPT-4o.",
+      "prompt_author": "terry623",
+      "prompt_author_link": "https://github.com/terry623",
+      "source_links": [],
+      "title": "迷你 Cyberpunk 傾斜移軸景觀",
+      "title_en": "Miniature Cyberpunk Tilt-Shift Landscape"
+    },
+    "license": "CC-BY-4.0",
+    "license_status": "per-case declaration; third-party prompt rights not independently verified",
+    "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+    "rights": {
+      "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+      "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+      "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+      "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+    },
+    "source": "jamez-awesome-gpt4o-images",
+    "source_category": "插画与艺术",
+    "source_id": "71",
+    "source_metadata": {
+      "case": {
+        "alt_text": "從上方俯瞰的超高細節迷你 Cyberpunk 景觀，採用傾斜移軸鏡頭效果",
+        "alt_text_en": "Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect",
+        "author": "terry623",
+        "author_link": "https://github.com/terry623",
+        "image": "example_cyberpunk_tilt_shift_miniature.jpg",
+        "prompt": "從上方俯瞰的超高細節迷你【Cyberpunk】景觀，採用傾斜移軸鏡頭效果。場景中充滿如玩具般的元素，全部以高解析度 CG 呈現。光線戲劇化，營造出大片的氛圍，色彩鮮明，對比強烈，強調景深效果與擬真微觀視角，使觀者仿佛俯瞰一個玩具世界般的迷你現實，畫面中包含大量視覺笑點與極具重複觀看價值的細節設計\n",
+        "prompt_en": "A highly detailed miniature [Cyberpunk] landscape viewed from above, using a tilt-shift lens effect. The scene is filled with toy-like elements, all rendered in high-resolution CG. Dramatic lighting creates a cinematic atmosphere, with vivid colors and strong contrast, emphasizing depth of field and a realistic micro-perspective, making the viewer feel as if overlooking a toy world. The image contains many visual jokes and details worth repeated viewing.\n",
+        "prompt_note": "可替換提示詞中的【Cyberpunk】為其他風格或場景，如「未來城市」、「蒸汽朋克」、「中世紀村莊」等。\n",
+        "prompt_note_en": "You can replace [Cyberpunk] in the prompt with other styles or scenes, such as \"Futuristic City\", \"Steampunk\", \"Medieval Village\", etc.\n",
+        "reference_note": "",
+        "reference_note_en": "",
+        "source_links": [],
+        "submitter": "terry623",
+        "submitter_link": "https://github.com/terry623",
+        "title": "迷你 Cyberpunk 傾斜移軸景觀",
+        "title_en": "Miniature Cyberpunk Tilt-Shift Landscape"
+      },
+      "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/ATTRIBUTION.yml",
+      "model_claim": "GPT-4o",
+      "model_snapshot": null,
+      "prompt_field": "prompt",
+      "prompt_origin": "exact upstream YAML field"
+    },
+    "source_tags": {
+      "scenes": [
+        "City",
+        "Night"
+      ],
+      "styles": [
+        "Cyberpunk",
+        "Miniature"
+      ]
+    },
+    "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml",
+    "title": "迷你 Cyberpunk 傾斜移軸景觀",
+    "upstream_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "迷你 Cyberpunk 傾斜移軸景觀",
+  "version": "v1"
+}

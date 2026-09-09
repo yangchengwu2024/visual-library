@@ -1,0 +1,122 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "水墨"
+  ],
+  "materials": [
+    "paper",
+    "ink",
+    "纸张"
+  ],
+  "techniques": [
+    "halftone",
+    "linework",
+    "水墨"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "水墨",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        292,
+        294
+      ],
+      "quote": "惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        1380,
+        1385
+      ],
+      "quote": "inework and halftone shading. Torn paper edges and debris enhance the illusion of him breaking throu"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        1323,
+        1326
+      ],
+      "quote": "strated in a classic high-contrast ink style with crisp linework and halftone shading. Torn paper "
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "纸张",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        312,
+        314
+      ],
+      "quote": "线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对比，创造出写实与漫画艺术之间的动态混合体"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "halftone",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        1357,
+        1365
+      ],
+      "quote": " ink style with crisp linework and halftone shading. Torn paper edges and debris enhance the illusion o"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "linework",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        1344,
+        1352
+      ],
+      "quote": "high-contrast ink style with crisp linework and halftone shading. Torn paper edges and debris enhance t"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "水墨",
+      "source": "cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.json#prompt",
+      "span": [
+        292,
+        294
+      ],
+      "quote": "惊和喜剧的表情，配有粗体的对话气泡和速度线。漫画分镜采用经典的高对比度水墨风格绘制，线条清晰，网点阴影。撕裂的纸张边缘和碎片增强了他冲破漫画世界的幻觉。全彩色的写实人物与单色的漫画环境形成强烈对"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 4438,
+      "image_links": [
+        "../data/images/case316.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

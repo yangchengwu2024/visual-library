@@ -1,0 +1,66 @@
+{
+  "model_family": "unknown",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "mixed",
+      "reason": "截图或前后对照包含多种视觉角色；没有拆成独立源输入文件。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "聊天截图顶部可见花纹输入缩略区、下方输出；未发现独立花纹原图。通用图案替换模板可由使用者提供新图；截图缩略区不计为已归档独立输入。原文 duct-tape 模型参数与集合名称冲突，实际模型未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.json#prompt",
+      "span": [
+        153,
+        161
+      ],
+      "quote": "uct-tape-1 指定为 duct-tape-2、3。\n\n[English]\nUse the patterns in the attached image, crafted by professional designers to create 4 fashion items, using different color schemes and layout designs, accompanied by outfit effect pictures. Highlight th"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.json#prompt",
+      "span": [
+        422,
+        431
+      ],
+      "quote": "ith an elegant composition. The format is 2:3, hoping to specify the image generation model from duct-tape-1 to duct-tape-2, 3."
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/c9e1f6cebfdd755f81713bd4a6364b5c2bea2d0b53adbd46460ed50c2210f15a.png",
+      "quote": "截图或前后对照包含多种视觉角色；没有拆成独立源输入文件。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "c9e1f6cebfdd755f81713bd4a6364b5c2bea2d0b53adbd46460ed50c2210f15a"
+    },
+    {
+      "kind": "model_conflict",
+      "source": "cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.json#prompt",
+      "quote": "带穿搭效果图。以雅致的构图凸显图案的美感。格式为 2:3，希望将图像生成模型从 duct-tape-1 指定为 duct-tape-2、3。\n\n[English]\nUse the patterns in the attached image, cr",
+      "note": "冲突证据不能证明实际生成引擎；model_family=unknown，model_version=null。"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 1553,
+      "image_links": [
+        "../data/images/case216.png"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

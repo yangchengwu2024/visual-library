@@ -1,0 +1,134 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "steampunk"
+  ],
+  "materials": [
+    "parchment",
+    "paper",
+    "metal",
+    "bronze",
+    "纸张",
+    "金属"
+  ],
+  "techniques": [
+    "line art"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "steampunk",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        6,
+        15
+      ],
+      "quote": "[中文]\n（Steampunk Scientific Illustrator）你是一位专业复古蒸汽朋克解剖图谱设计师，擅长星座机械结构科普海报。根据用"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "parchment",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        1077,
+        1086
+      ],
+      "quote": "sign; The background is distressed parchment/yellowed old paper texture, with natural stains and creases"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        1100,
+        1105
+      ],
+      "quote": " distressed parchment/yellowed old paper texture, with natural stains and creases, creating a vintag"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metal",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        1374,
+        1379
+      ],
+      "quote": "as precision gears, pipelines, and metal skeletons; All icons and illustrations are in hand-drawn li"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "bronze",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        1563,
+        1569
+      ],
+      "quote": "lor tone is warm brown, beige, and bronze, dotted with a small amount of high-contrast colors to high"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "纸张",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        209,
+        211
+      ],
+      "quote": "lation_en}”，采用复古丝带横幅设计；背景为做旧羊皮纸/泛黄旧纸张纹理，带自然污渍与折痕，营造复古科学手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        264,
+        266
+      ],
+      "quote": "手稿质感；中心主体为该星座经典神话形象，内部结构替换为精密齿轮、管线、金属骨骼等蒸汽朋克元素；所有图标与插画为手绘线稿风格，用箭头或连线展示逻辑关系；主色调为暖棕、米黄、古铜色，点缀少量高对比色"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "line art",
+      "source": "cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.json#prompt",
+      "span": [
+        1437,
+        1445
+      ],
+      "quote": "nd illustrations are in hand-drawn line art style, using arrows or connecting lines to show logical rel"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 321,
+      "image_links": [
+        "../data/images/case179.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

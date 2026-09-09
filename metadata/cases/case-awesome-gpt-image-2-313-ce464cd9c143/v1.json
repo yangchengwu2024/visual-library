@@ -1,0 +1,96 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "metallic",
+    "chrome",
+    "satin",
+    "ink",
+    "金属"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "metallic",
+      "source": "cases/case-awesome-gpt-image-2-313-ce464cd9c143/v1.json#prompt",
+      "span": [
+        1643,
+        1651
+      ],
+      "quote": "nt silver\",\n    \"cap\": \"Reflective metallic chrome\",\n    \"position\": \"Vertically centered\"\n  },\n  \"surr"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "chrome",
+      "source": "cases/case-awesome-gpt-image-2-313-ce464cd9c143/v1.json#prompt",
+      "span": [
+        1652,
+        1658
+      ],
+      "quote": "\",\n    \"cap\": \"Reflective metallic chrome\",\n    \"position\": \"Vertically centered\"\n  },\n  \"surrounding"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "satin",
+      "source": "cases/case-awesome-gpt-image-2-313-ce464cd9c143/v1.json#prompt",
+      "span": [
+        1513,
+        1518
+      ],
+      "quote": "e\": \"Squeeze tube\",\n    \"finish\": \"Satin-finish\",\n    \"color\": \"Periwinkle-blue\",\n    \"label\": \"NUBE"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-313-ce464cd9c143/v1.json#prompt",
+      "span": [
+        1754,
+        1757
+      ],
+      "quote": "\": {\n    \"smoke\": {\n      \"type\": \"Ink-like swirling clouds\",\n      \"colors\": [\n        \"Lavender\""
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "金属",
+      "source": "cases/case-awesome-gpt-image-2-313-ce464cd9c143/v1.json#prompt",
+      "span": [
+        318,
+        320
+      ],
+      "quote": "ography\": \"优雅的银色字体\",\n    \"cap\": \"反光金属铬盖\",\n    \"position\": \"垂直居中\"\n  },\n  \"surroundings\": {\n    \"sm"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 4236,
+      "image_links": [
+        "../data/images/case313.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

@@ -1,0 +1,1026 @@
+{
+  "source_id": "jamez-awesome-gpt4o-images",
+  "reviewed_revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+  "entries": [
+    {
+      "source_id": "25",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "8597f1090eb8b27645bed5a72862037bbdfab41a5b0003e2b1f627f7a3c55aaa",
+      "reviewed_asset_sha256": "d31ad551e0447c073a0b05977e0039bf4a10218f61d28a049b92f648184db952",
+      "reviewed_attribution_sha256": "45005b51fe2c9fe5b4257f92db3c803ba3f87183e31870f1cb29b672ed603903",
+      "reviewed_case_sha256": "c1847330a0ca94902124b22a425d3ddcd57cc5d34d6b42e18d7d9a0dd7fbc7ed",
+      "record": {
+        "source_id": "25",
+        "title": "极简主义 3D 插画",
+        "prompt": "使用以下 JSON 配置文件生成一个马桶：\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+        "category": "3D Illustration",
+        "styles": [
+          "Minimalism",
+          "3D"
+        ],
+        "scenes": [
+          "Product"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/case.yml",
+        "upstream_url": "https://x.com/0xdlk/status/1906843247432929642",
+        "model": null,
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/25/example_minimalist_3d_toilet.png"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [
+            "Minimalism"
+          ],
+          "materials": [
+            "matte surface"
+          ],
+          "techniques": [
+            "JSON style profile",
+            "soft lighting",
+            "negative space"
+          ],
+          "model_family": "gpt-image",
+          "model_version": null,
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：米灰马桶、橙色坐垫与按钮、圆润体块、哑光柔影、左下角toilet文字，与JSON配置主要要求相符。未独立复现。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/ATTRIBUTION.yml",
+              "creation_tool": "Sora"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "d31ad551e0447c073a0b05977e0039bf4a10218f61d28a049b92f648184db952",
+              "note": "实际看图：米灰马桶、橙色坐垫与按钮、圆润体块、哑光柔影、左下角toilet文字，与JSON配置主要要求相符。未独立复现。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "极简主义 3D 插画",
+          "title_en": "Minimalist 3D Illustration",
+          "prompt_author": "@0xdlk",
+          "prompt_author_link": "https://x.com/0xdlk",
+          "image_author": "@jamez-bondos",
+          "image_author_link": "https://github.com/jamez-bondos",
+          "source_links": [
+            {
+              "url": "https://x.com/0xdlk/status/1906843247432929642"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "Sora",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via Sora."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "极简主义 3D 插画",
+            "title_en": "Minimalist 3D Illustration",
+            "author": "@0xdlk",
+            "author_link": "https://x.com/0xdlk",
+            "source_links": [
+              {
+                "url": "https://x.com/0xdlk/status/1906843247432929642"
+              }
+            ],
+            "image": "example_minimalist_3d_toilet.png",
+            "alt_text": "极简主义 3D 插画",
+            "alt_text_en": "Minimalist 3D Illustration",
+            "prompt": "使用以下 JSON 配置文件生成一个马桶：\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+            "prompt_en": "Generate a toilet with the following JSON profile:\n{\n  \"art_style_profile\": {\n    \"style_name\": \"Minimalist 3D Illustration\",\n    \"visual_elements\": {\n      \"shape_language\": \"Rounded edges, smooth and soft forms with simplified geometry\",\n      \"colors\": {\n        \"primary_palette\": [\"Soft beige, light gray, warm orange\"],\n        \"accent_colors\": [\"Warm orange for focal elements\"],\n        \"shading\": \"Soft gradients with smooth transitions, avoiding harsh shadows or highlights\"\n      },\n      \"lighting\": {\n        \"type\": \"Soft, diffused lighting\",\n        \"source_direction\": \"Above and slightly to the right\",\n        \"shadow_style\": \"Subtle and diffused, no sharp or high-contrast shadows\"\n      },\n      \"materials\": {\n        \"surface_texture\": \"Matte, smooth surfaces with subtle shading\",\n        \"reflectivity\": \"Low to none, avoiding glossiness\"\n      },\n      \"composition\": {\n        \"object_presentation\": \"Single, central object displayed in isolation with ample negative space\",\n        \"perspective\": \"Slightly angled, giving a three-dimensional feel without extreme depth\",\n        \"background\": \"Solid, muted color that complements the object without distraction\"\n      },\n      \"typography\": {\n        \"font_style\": \"Minimalistic, sans-serif\",\n        \"text_placement\": \"Bottom-left corner with small, subtle text\",\n        \"color\": \"Gray, low-contrast against the background\"\n      },\n      \"rendering_style\": {\n        \"technique\": \"3D render with simplified, low-poly aesthetics\",\n        \"detail_level\": \"Medium detail, focusing on form and color over texture or intricacy\"\n      }\n    },\n    \"purpose\": \"To create clean, aesthetically pleasing visuals that emphasize simplicity, approachability, and modernity.\"\n  }\n}\n",
+            "prompt_note": "原提示词以 JSON 格式给出，JSON部分未翻译，请参考原文。",
+            "prompt_note_en": "",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "",
+            "submitter_link": ""
+          },
+          "prompt_field": "prompt",
+          "model_claim": "Sora",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/25/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "52",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "60a62fcfda4d92d40d28359b325bbc84f2f91ab8cafa7db77c8fa677a2d4ded4",
+      "reviewed_asset_sha256": "8a1e5ccc77f4cb68d72d37920f5d83ca5cda8797d2b5048e741c27c95cab9b31",
+      "reviewed_attribution_sha256": "5abca1c219c60d2c4527c9968687bd0f812f75b834d6ccc02994a4757e5e824b",
+      "reviewed_case_sha256": "dd1ed655a81d366be6c185c99a76737b6794dc0e8f3d9ccfd9e16075e6792353",
+      "record": {
+        "source_id": "52",
+        "title": "纸艺风格 Emoji 图标",
+        "prompt": "一个纸艺风格的“🔥”图标，漂浮在纯白背景上。这个表情符号由彩色剪纸手工制作而成，具有可见的纸张纹理、折痕和分层形状。它在下方投下柔和的阴影，营造出轻盈感和立体感。整体设计简洁、有趣、干净，图像居中，周围留有大量留白。使用柔和的影棚光照以突出纸张的质感与边缘。\n",
+        "category": "Icons",
+        "styles": [
+          "Paper craft",
+          "Minimalism"
+        ],
+        "scenes": [
+          "Icon"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/case.yml",
+        "upstream_url": "https://x.com/egeberkina/status/1912521263085482464",
+        "model": null,
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/52/example_paper_craft_emoji_fire.png"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "paper"
+          ],
+          "techniques": [
+            "layered cut paper",
+            "soft shadow",
+            "centered composition"
+          ],
+          "model_family": "gpt-image",
+          "model_version": null,
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：红橙黄多层火焰剪纸、纸面纹理、边缘层叠和柔影明显，主体居中留白。图片背景接近米白，并非数值纯白；不改变原prompt。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/ATTRIBUTION.yml",
+              "creation_tool": "Sora"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "8a1e5ccc77f4cb68d72d37920f5d83ca5cda8797d2b5048e741c27c95cab9b31",
+              "note": "实际看图：红橙黄多层火焰剪纸、纸面纹理、边缘层叠和柔影明显，主体居中留白。图片背景接近米白，并非数值纯白；不改变原prompt。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "纸艺风格 Emoji 图标",
+          "title_en": "Paper Craft Style Emoji Icon",
+          "prompt_author": "@egeberkina",
+          "prompt_author_link": "https://x.com/egeberkina",
+          "image_author": "@jamez-bondos",
+          "image_author_link": "https://github.com/jamez-bondos",
+          "source_links": [
+            {
+              "url": "https://x.com/egeberkina/status/1912521263085482464"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "Sora",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via Sora."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "纸艺风格 Emoji 图标",
+            "title_en": "Paper Craft Style Emoji Icon",
+            "author": "@egeberkina",
+            "author_link": "https://x.com/egeberkina",
+            "source_links": [
+              {
+                "url": "https://x.com/egeberkina/status/1912521263085482464"
+              }
+            ],
+            "image": "example_paper_craft_emoji_fire.png",
+            "alt_text": "纸艺风格的火焰 Emoji 图标",
+            "alt_text_en": "Paper craft style fire emoji icon",
+            "prompt": "一个纸艺风格的“🔥”图标，漂浮在纯白背景上。这个表情符号由彩色剪纸手工制作而成，具有可见的纸张纹理、折痕和分层形状。它在下方投下柔和的阴影，营造出轻盈感和立体感。整体设计简洁、有趣、干净，图像居中，周围留有大量留白。使用柔和的影棚光照以突出纸张的质感与边缘。\n",
+            "prompt_en": "A paper craft-style \"🔥\" floating on a pure white background. The emoji is handcrafted from colorful cut paper with visible textures, creases, and layered shapes. It casts a soft drop shadow beneath, giving a sense of lightness and depth. The design is minimal, playful, and clean — centered in the frame with lots of negative space. Use soft studio lighting to highlight the paper texture and edges.\n",
+            "prompt_note": "可将提示词中的 \"🔥\" 替换为其他 Emoji。\n",
+            "prompt_note_en": "The \"🔥\" emoji in the prompt can be replaced with other emojis.\n",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "",
+            "submitter_link": ""
+          },
+          "prompt_field": "prompt",
+          "model_claim": "Sora",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/52/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "64",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "b260a12b243f1017031160ef17169731d433de1612cc63ad4e00bfb8037c7000",
+      "reviewed_asset_sha256": "56989056ac6dde248972da538acd877d09fafcf2c60f076f59afa65b57f4ebb0",
+      "reviewed_attribution_sha256": "56d08326da069f58762c6e2c228a49a8cead94c4ef0e15152239f23a2abbc902",
+      "reviewed_case_sha256": "bfc32f8f37d7fd081bd20ae2cff11b60dc4a0fd02cfa14a0265169d5532ce8e1",
+      "record": {
+        "source_id": "64",
+        "title": "蒸汽朋克机械鱼",
+        "prompt": "一个蒸汽朋克风格的机械鱼，身体为黄铜风格，可以清楚的看到其动作时的机械齿轮结构。\n能略微看到它的机械牙齿，整齐并且紧闭，上下牙齿都可以看到。每颗牙齿均呈三角状，材质为金刚石。\n尾鳍为金属丝编织结构，其它部分的鱼鳍是半透明的琥珀色玻璃，其中有一些不太明显的气泡。\n眼睛是多面红宝石，能清晰的看到它反射出来的光泽。\n鱼有身上能清晰的看到\"f-is-h\"字样，其中字母全部为小写，并且注意横线位置。\n图片是正方形的，整个画面中可以看到鱼的全身，在画面正中，鱼头向右，并且有一定的留白画面并不局促，画面的左右留出更多的空间。背景中有淡淡的蒸汽朋克风的齿轮纹理。\n整个鱼看起非常炫酷。这是一张高清图片，整张照片的细节非常丰富，并且有独特的质感与美感。画面不要太暗。\n",
+        "category": "Illustration",
+        "styles": [
+          "Steampunk"
+        ],
+        "scenes": [
+          "Creature",
+          "Design"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/case.yml",
+        "upstream_url": "https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png",
+        "model": "GPT-4o",
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/64/example_steampunk_fish.jpg"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [
+            "Steampunk"
+          ],
+          "materials": [
+            "brass",
+            "amber glass",
+            "ruby",
+            "diamond",
+            "metal wire"
+          ],
+          "techniques": [
+            "exposed gears",
+            "centered composition"
+          ],
+          "model_family": "gpt-image",
+          "model_version": "GPT-4o",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：右向全身机械鱼、黄铜齿轮、红色多面眼睛、琥珀色半透明鳍、f-is-h小写文字符合主旨；尾鳍不像金属丝网、牙齿的金刚石感不明显，不能宣称每项细节都实现。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/ATTRIBUTION.yml",
+              "creation_tool": "GPT-4o"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "56989056ac6dde248972da538acd877d09fafcf2c60f076f59afa65b57f4ebb0",
+              "note": "实际看图：右向全身机械鱼、黄铜齿轮、红色多面眼睛、琥珀色半透明鳍、f-is-h小写文字符合主旨；尾鳍不像金属丝网、牙齿的金刚石感不明显，不能宣称每项细节都实现。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "蒸汽朋克机械鱼",
+          "title_en": "Steampunk Mechanical Fish",
+          "prompt_author": "@f-is-h",
+          "prompt_author_link": "https://github.com/f-is-h",
+          "image_author": "@f-is-h",
+          "image_author_link": "https://github.com/f-is-h",
+          "source_links": [
+            {
+              "url": "https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "GPT-4o",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via GPT-4o."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "蒸汽朋克机械鱼",
+            "title_en": "Steampunk Mechanical Fish",
+            "author": "@f-is-h",
+            "author_link": "https://github.com/f-is-h",
+            "source_links": [
+              {
+                "url": "https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png"
+              }
+            ],
+            "image": "example_steampunk_fish.jpg",
+            "alt_text": "蒸汽朋克机械鱼",
+            "alt_text_en": "Steampunk Mechanical Fish",
+            "prompt": "一个蒸汽朋克风格的机械鱼，身体为黄铜风格，可以清楚的看到其动作时的机械齿轮结构。\n能略微看到它的机械牙齿，整齐并且紧闭，上下牙齿都可以看到。每颗牙齿均呈三角状，材质为金刚石。\n尾鳍为金属丝编织结构，其它部分的鱼鳍是半透明的琥珀色玻璃，其中有一些不太明显的气泡。\n眼睛是多面红宝石，能清晰的看到它反射出来的光泽。\n鱼有身上能清晰的看到\"f-is-h\"字样，其中字母全部为小写，并且注意横线位置。\n图片是正方形的，整个画面中可以看到鱼的全身，在画面正中，鱼头向右，并且有一定的留白画面并不局促，画面的左右留出更多的空间。背景中有淡淡的蒸汽朋克风的齿轮纹理。\n整个鱼看起非常炫酷。这是一张高清图片，整张照片的细节非常丰富，并且有独特的质感与美感。画面不要太暗。\n",
+            "prompt_en": "A steampunk-style mechanical fish with a brass body and clearly visible gear mechanisms when in motion.\nIts mechanical teeth can be slightly seen, neatly arranged and closed, with both upper and lower teeth visible. Each tooth is triangular in shape and made of diamond material.\nThe tail fin has a metal wire mesh structure, while other fins are made of semi-transparent amber-colored glass with some subtle bubbles inside.\nThe eyes are multi-faceted rubies, with clearly visible reflective shine.\nThe fish has \"f-is-h\" text clearly visible on its body, with all lowercase letters and careful attention to the hyphen placement.\nThe image is square, showing the entire fish in the center of the frame, with its head pointing to the right. There is adequate white space around the fish, with more space on the left and right sides. The background has subtle steampunk-style gear patterns.\nThe entire fish looks very cool. This is a high-definition image with extremely rich details and unique texture and aesthetics. The image should not be too dark.\n",
+            "prompt_note": "此图片展示了蒸汽朋克风格与金属材质的精美结合，呈现出精致的机械感和复古未来主义风格。\n",
+            "prompt_note_en": "This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.\n",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "f-is-h",
+            "submitter_link": "https://github.com/f-is-h"
+          },
+          "prompt_field": "prompt",
+          "model_claim": "GPT-4o",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "66",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "271a9eae03d25ce3abad7105a63dc36ad68363200b9b790fb6a3754963679d96",
+      "reviewed_asset_sha256": "7eb62c578306b8a3b791d09ad2d9f9508fe3307f47930535f8f0242b2b19a247",
+      "reviewed_attribution_sha256": "ffb07ff7d2c6e1059175b3ab813cbf9e96940b070ec6854631ac61810dba70dc",
+      "reviewed_case_sha256": "f12c69d6f8b24064e8e4f69d35e8f9340689607c03a74773b29755fef36cf780",
+      "record": {
+        "source_id": "66",
+        "title": "创意丝绸宇宙",
+        "prompt": "将 {❄️} 变成一个柔软的 3D 丝绸质感物体。整个物体表面包裹着顺滑流动的丝绸面料，带有超现实的褶皱细节、柔和的高光与阴影。该物体轻轻漂浮在干净的浅灰色背景中央，营造出轻盈优雅的氛围。整体风格超现实、触感十足且现代，传递出舒适与精致趣味的感觉。工作室灯光，高分辨率渲染。\n",
+        "category": "3D Illustration",
+        "styles": [
+          "Surrealism",
+          "3D"
+        ],
+        "scenes": [
+          "Object"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/case.yml",
+        "upstream_url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175",
+        "model": null,
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/66/example_silk_creation_universe.png"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [
+            "Surrealism"
+          ],
+          "materials": [
+            "silk"
+          ],
+          "techniques": [
+            "fabric folds",
+            "floating object",
+            "studio lighting"
+          ],
+          "model_family": "gpt-image",
+          "model_version": null,
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：六瓣雪花形白色丝绸物体悬浮在浅灰背景，褶皱、柔和高光、底部投影可见。没有外部输入要求；emoji在prompt中完整保留。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/ATTRIBUTION.yml",
+              "creation_tool": "Sora"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "7eb62c578306b8a3b791d09ad2d9f9508fe3307f47930535f8f0242b2b19a247",
+              "note": "实际看图：六瓣雪花形白色丝绸物体悬浮在浅灰背景，褶皱、柔和高光、底部投影可见。没有外部输入要求；emoji在prompt中完整保留。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "创意丝绸宇宙",
+          "title_en": "Creative Silk Universe",
+          "prompt_author": "@ZHO_ZHO_ZHO",
+          "prompt_author_link": "https://x.com/ZHO_ZHO_ZHO",
+          "image_author": "@jamez-bondos",
+          "image_author_link": "https://github.com/jamez-bondos",
+          "source_links": [
+            {
+              "url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "Sora",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via Sora."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "创意丝绸宇宙",
+            "title_en": "Creative Silk Universe",
+            "author": "@ZHO_ZHO_ZHO",
+            "author_link": "https://x.com/ZHO_ZHO_ZHO",
+            "source_links": [
+              {
+                "url": "https://x.com/ZHO_ZHO_ZHO/status/1914864217867608175"
+              }
+            ],
+            "image": "example_silk_creation_universe.png",
+            "alt_text": "创意丝绸宇宙",
+            "alt_text_en": "Silk Universe-Creative Universe",
+            "prompt": "将 {❄️} 变成一个柔软的 3D 丝绸质感物体。整个物体表面包裹着顺滑流动的丝绸面料，带有超现实的褶皱细节、柔和的高光与阴影。该物体轻轻漂浮在干净的浅灰色背景中央，营造出轻盈优雅的氛围。整体风格超现实、触感十足且现代，传递出舒适与精致趣味的感觉。工作室灯光，高分辨率渲染。\n",
+            "prompt_en": "Transform the {❄️} into a soft 3D object with a silk texture. The entire surface of the object is wrapped in smooth and flowing silk fabric, featuring surreal wrinkle details, soft highlights, and shadows. The object gently floats in the center of a clean light gray background, creating a light and elegant atmosphere. The overall style is surreal, tactile, and modern, conveying a sense of comfort and refined playfulness. Studio lighting, high-resolution rendering.\n",
+            "prompt_note": "可替换提示词中的 {❄️} 替换为你的目标值。\n",
+            "prompt_note_en": "You can replace the {❄️} in the prompt words with your target value\n",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "wowmarcomei",
+            "submitter_link": "https://github.com/wowmarcomei"
+          },
+          "prompt_field": "prompt",
+          "model_claim": "Sora",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/66/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "71",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "8b1db61996d42a41a5c6a48b6c9af86126a91129ec6bdfeaf171e4053c69edb8",
+      "reviewed_asset_sha256": "668e457e0c845208d479dc842ac945ed58864b80aa1ca517410872d449220b63",
+      "reviewed_attribution_sha256": "5b4bce46bb2bf135ef01cbe65d0e0caac55d8c21cc684f533a5f3c4d9ca0ab6f",
+      "reviewed_case_sha256": "a3d468411646b6c90e9f182c976b346cf6a268472d9a111f987d57555ce2017b",
+      "record": {
+        "source_id": "71",
+        "title": "迷你 Cyberpunk 傾斜移軸景觀",
+        "prompt": "從上方俯瞰的超高細節迷你【Cyberpunk】景觀，採用傾斜移軸鏡頭效果。場景中充滿如玩具般的元素，全部以高解析度 CG 呈現。光線戲劇化，營造出大片的氛圍，色彩鮮明，對比強烈，強調景深效果與擬真微觀視角，使觀者仿佛俯瞰一個玩具世界般的迷你現實，畫面中包含大量視覺笑點與極具重複觀看價值的細節設計\n",
+        "category": "Architecture",
+        "styles": [
+          "Cyberpunk",
+          "Miniature"
+        ],
+        "scenes": [
+          "City",
+          "Night"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml",
+        "upstream_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml",
+        "model": "GPT-4o",
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/71/example_cyberpunk_tilt_shift_miniature.jpg"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [
+            "Cyberpunk"
+          ],
+          "materials": [],
+          "techniques": [
+            "tilt shift",
+            "high angle",
+            "shallow depth of field"
+          ],
+          "model_family": "gpt-image",
+          "model_version": "GPT-4o",
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：俯视霓虹微缩街区、玩具车、暖冷色对比及明显选择焦点符合主旨。无法从图证明高解析度CG管线或大量视觉笑点；GPT-4o仅为作者声明。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/ATTRIBUTION.yml",
+              "creation_tool": "GPT-4o"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "668e457e0c845208d479dc842ac945ed58864b80aa1ca517410872d449220b63",
+              "note": "实际看图：俯视霓虹微缩街区、玩具车、暖冷色对比及明显选择焦点符合主旨。无法从图证明高解析度CG管线或大量视觉笑点；GPT-4o仅为作者声明。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "迷你 Cyberpunk 傾斜移軸景觀",
+          "title_en": "Miniature Cyberpunk Tilt-Shift Landscape",
+          "prompt_author": "terry623",
+          "prompt_author_link": "https://github.com/terry623",
+          "image_author": "terry623",
+          "image_author_link": "https://github.com/terry623",
+          "source_links": [],
+          "license": "CC-BY-4.0",
+          "creation_tool": "GPT-4o",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via GPT-4o."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "迷你 Cyberpunk 傾斜移軸景觀",
+            "title_en": "Miniature Cyberpunk Tilt-Shift Landscape",
+            "author": "terry623",
+            "author_link": "https://github.com/terry623",
+            "source_links": [],
+            "image": "example_cyberpunk_tilt_shift_miniature.jpg",
+            "alt_text": "從上方俯瞰的超高細節迷你 Cyberpunk 景觀，採用傾斜移軸鏡頭效果",
+            "alt_text_en": "Highly detailed miniature Cyberpunk landscape viewed from above, with tilt-shift lens effect",
+            "prompt": "從上方俯瞰的超高細節迷你【Cyberpunk】景觀，採用傾斜移軸鏡頭效果。場景中充滿如玩具般的元素，全部以高解析度 CG 呈現。光線戲劇化，營造出大片的氛圍，色彩鮮明，對比強烈，強調景深效果與擬真微觀視角，使觀者仿佛俯瞰一個玩具世界般的迷你現實，畫面中包含大量視覺笑點與極具重複觀看價值的細節設計\n",
+            "prompt_en": "A highly detailed miniature [Cyberpunk] landscape viewed from above, using a tilt-shift lens effect. The scene is filled with toy-like elements, all rendered in high-resolution CG. Dramatic lighting creates a cinematic atmosphere, with vivid colors and strong contrast, emphasizing depth of field and a realistic micro-perspective, making the viewer feel as if overlooking a toy world. The image contains many visual jokes and details worth repeated viewing.\n",
+            "prompt_note": "可替換提示詞中的【Cyberpunk】為其他風格或場景，如「未來城市」、「蒸汽朋克」、「中世紀村莊」等。\n",
+            "prompt_note_en": "You can replace [Cyberpunk] in the prompt with other styles or scenes, such as \"Futuristic City\", \"Steampunk\", \"Medieval Village\", etc.\n",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "terry623",
+            "submitter_link": "https://github.com/terry623"
+          },
+          "prompt_field": "prompt",
+          "model_claim": "GPT-4o",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/71/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "84",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "309c3ff2aa6da356179874f8d8b9574671fbc69ac7b7a70635f9a2c6b5be3f62",
+      "reviewed_asset_sha256": "769fb6c1b83b053b87fef131265ff7d0c4927d4c506a5ed9546df28a29445b32",
+      "reviewed_attribution_sha256": "1c5e3958245f48574c2a0a00a211ccda51de42a66bab03f51219ff8a599c3bbf",
+      "reviewed_case_sha256": "b8b41cb7ce0e22a3ff11e424dee7e45e859fa31f8b3343fcb0136b198e73b846",
+      "record": {
+        "source_id": "84",
+        "title": "动物硅胶腕托",
+        "prompt": "创建图片 一个可爱Q版的硅胶护腕托，外形基于【🐼】表情，采用柔软的食品级硅胶材质，表面为亲肤哑光质感，内部填充慢回弹棉，拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现出拥抱手腕的姿势，整体造型圆润软萌，颜色为【🐼】配色，风格治愈可爱，适合办公使用，背景为白色纯色，柔和布光，产品摄影风格，前视角或45度俯视，高清细节，突出硅胶质感与舒适功能\n",
+        "category": "Product Design",
+        "styles": [
+          "Chibi",
+          "Product photography"
+        ],
+        "scenes": [
+          "Office",
+          "Product"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/case.yml",
+        "upstream_url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574",
+        "model": null,
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/84/case.png"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [
+            "silicone",
+            "slow rebound foam"
+          ],
+          "techniques": [
+            "soft lighting",
+            "three quarter view"
+          ],
+          "model_family": "gpt-image",
+          "model_version": null,
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：黑白熊猫腕托、趴卧张臂、哑光柔软外观及白底柔光符合主旨。食品级、内部慢回弹棉和舒适性仅为prompt设定，不能由效果图验证。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/ATTRIBUTION.yml",
+              "creation_tool": "Sora"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "769fb6c1b83b053b87fef131265ff7d0c4927d4c506a5ed9546df28a29445b32",
+              "note": "实际看图：黑白熊猫腕托、趴卧张臂、哑光柔软外观及白底柔光符合主旨。食品级、内部慢回弹棉和舒适性仅为prompt设定，不能由效果图验证。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "动物硅胶腕托",
+          "title_en": "Animal Silicone Wrist Rest",
+          "prompt_author": "@ZHO_ZHO_ZHO",
+          "prompt_author_link": "https://x.com/ZHO_ZHO_ZHO",
+          "image_author": "@jamez-bondos",
+          "image_author_link": "https://github.com/jamez-bondos",
+          "source_links": [
+            {
+              "url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "Sora",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via Sora."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "动物硅胶腕托",
+            "title_en": "Animal Silicone Wrist Rest",
+            "author": "@ZHO_ZHO_ZHO",
+            "author_link": "https://x.com/ZHO_ZHO_ZHO",
+            "source_links": [
+              {
+                "url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574"
+              }
+            ],
+            "image": "case.png",
+            "alt_text": "动物硅胶腕托",
+            "alt_text_en": "Animal Silicone Wrist Rest",
+            "prompt": "创建图片 一个可爱Q版的硅胶护腕托，外形基于【🐼】表情，采用柔软的食品级硅胶材质，表面为亲肤哑光质感，内部填充慢回弹棉，拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现出拥抱手腕的姿势，整体造型圆润软萌，颜色为【🐼】配色，风格治愈可爱，适合办公使用，背景为白色纯色，柔和布光，产品摄影风格，前视角或45度俯视，高清细节，突出硅胶质感与舒适功能\n",
+            "prompt_en": "Create an image of a cute chibi-style silicone wrist rest based on the {🐼} emoji. The wrist rest is made of soft, food-grade silicone with a skin-friendly matte surface. The interior is filled with slow-rebound foam. Designed in a personified cartoon style, the expression is lively, with both arms stretched out as if hugging the user’s wrist while lying on a desk. The overall shape is round, soft, and adorable, featuring the classic {🐼} color scheme. The design is comforting and cute, suitable for office use. The background is a solid white color with soft lighting. Rendered in a product photography style, the angle is either front-facing or at a 45-degree top-down view, showcasing high-definition details and emphasizing the silicone texture and comfort functionality.\n",
+            "prompt_note": "可替换提示词中的【🐼】为其他动物 Emoji。\n",
+            "prompt_note_en": "Replace the {🐼} emoji in the prompt with other animal emojis.\n",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "",
+            "submitter_link": ""
+          },
+          "prompt_field": "prompt",
+          "model_claim": "Sora",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "86",
+      "prompt_field": "prompt_en",
+      "reviewed_prompt_sha256": "4ed25e7d9f8fbcf873dfae0616ee2091820b3b44f72a454e3a5e577be005e7b4",
+      "reviewed_asset_sha256": "16d7e94662ce205feba7d8848dd1b900bdd1ef068cd6f967edc459a8de95e174",
+      "reviewed_attribution_sha256": "abe9b5d800794a59b44010a3ea9a6cb5355434859051e523ca7cb2cc42eba8f2",
+      "reviewed_case_sha256": "e2eb12fdf8a8469b1108af4c8299690f483930ab3884fc0ec4b8f8c8e1eadf3e",
+      "record": {
+        "source_id": "86",
+        "title": "双重曝光",
+        "prompt": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n",
+        "category": "Portrait",
+        "styles": [
+          "Double exposure"
+        ],
+        "scenes": [
+          "Character",
+          "Landscape"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/case.yml",
+        "upstream_url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw",
+        "model": null,
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/86/double_exposure.png"
+          }
+        ],
+        "metadata": {
+          "artists": [
+            "Yukisakura"
+          ],
+          "movements": [],
+          "materials": [],
+          "techniques": [
+            "double exposure",
+            "silhouette",
+            "landscape overlay"
+          ],
+          "model_family": "gpt-image",
+          "model_version": null,
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：阿拉贡侧向人像内叠松林、山峰、小径及骑马者，浅色简洁背景，双重曝光主旨符合。Yukisakura是原prompt的风格引用，非经核验的图作者；Midjourney style也是prompt用语，生成工具署名为Sora，不能归入Midjourney模型。英文prompt原样保存。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/case.yml",
+              "prompt_field": "prompt_en"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/ATTRIBUTION.yml",
+              "creation_tool": "Sora"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "16d7e94662ce205feba7d8848dd1b900bdd1ef068cd6f967edc459a8de95e174",
+              "note": "实际看图：阿拉贡侧向人像内叠松林、山峰、小径及骑马者，浅色简洁背景，双重曝光主旨符合。Yukisakura是原prompt的风格引用，非经核验的图作者；Midjourney style也是prompt用语，生成工具署名为Sora，不能归入Midjourney模型。英文prompt原样保存。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "双重曝光",
+          "title_en": "Double Exposure",
+          "prompt_author": "rezzycheck (Sora)",
+          "prompt_author_link": "https://sora.com/explore?user=rezzycheck",
+          "image_author": "@jamez-bondos",
+          "image_author_link": "https://github.com/jamez-bondos",
+          "source_links": [
+            {
+              "url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "Sora",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via Sora."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "双重曝光",
+            "title_en": "Double Exposure",
+            "author": "rezzycheck (Sora)",
+            "author_link": "https://sora.com/explore?user=rezzycheck",
+            "source_links": [
+              {
+                "url": "https://sora.com/g/gen_01jtc9btfzef080z31v8w9rtbw"
+              }
+            ],
+            "image": "double_exposure.png",
+            "alt_text": "双重曝光",
+            "alt_text_en": "Double Exposure",
+            "prompt": "双重曝光，Midjourney 风格，融合、混合、叠加的双重曝光图像，双重曝光风格。一幅由 Yukisakura 创作的杰出杰作，展现了一个奇妙的双重曝光构图，将阿拉贡·阿拉松之子的剪影与生机勃勃春季里中土世界视觉上引人注目、崎岖的地貌和谐地交织在一起。沐浴阳光的松树林、山峰和一匹孤独的马穿过小径的景象从他身形的纹理中向外回响，增添了叙事和孤独的层次感。当简洁分明的单色背景保持着锐利的对比度时，美妙的张力逐渐形成，将所有焦点吸引到层次丰富的双重曝光上。其特点是阿拉贡剪影内部充满活力的全彩色方案，以及用情感的精确性描摹每个轮廓的清晰、刻意的线条。(Detailed:1.45). (Detailed background:1.4).\n",
+            "prompt_en": "Double exposure, Midjourney style, merging, blending, overlay double exposure image, Double Exposure style, An exceptional masterpiece by Yukisakura revealing a fantastic double exposure composition of Aragorn son of Arathorn's silhouette harmoniously intertwined with the visually striking, rugged landscapes of Middle Earth during a lively spring season. Sun-bathed pine forests, mountain peaks, and a lone horse cutting through the trail echo outward through the fabric of his figure, adding layers of narrative and solitude. Beautiful tension builds as the stark monochrome background maintains razor-sharp contrast, drawing all focus to the richly layered double exposure. Characterized by its vibrant full-color scheme within Aragorn's silhouette and crisp, deliberate lines that trace every contour with emotional precision. (Detailed:1.45). (Detailed background:1.4).\n",
+            "prompt_note": "中文提示词由英文原文翻译而来，基本能达到预期效果，不过使用英文提示词可能会获得更好的结果。",
+            "prompt_note_en": "",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "",
+            "submitter_link": ""
+          },
+          "prompt_field": "prompt_en",
+          "model_claim": "Sora",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/86/ATTRIBUTION.yml"
+        }
+      }
+    },
+    {
+      "source_id": "88",
+      "prompt_field": "prompt",
+      "reviewed_prompt_sha256": "915fb43b9b3db0457b18b7679e682c3332de9ce595ce0e91a130857488faba1e",
+      "reviewed_asset_sha256": "3a329f6ec6cc8a48401625a1cf3e644301d78a4cc2ff3efee2c066dc8c0d0be2",
+      "reviewed_attribution_sha256": "0d5d99e71f20fbc375881132aefcebe9d10b97cfb0652a722ccef5be2a15ec67",
+      "reviewed_case_sha256": "2a68593039d7da6da3b516bcc32e6700de3baa63909b562fe7deb47b5751bde6",
+      "record": {
+        "source_id": "88",
+        "title": "儿童涂色页插画（含彩色参考图）",
+        "prompt": "一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。\n【同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考】\n适合人群：【6-9岁小朋友】\n画面描述：\n【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】\n",
+        "category": "Education",
+        "styles": [
+          "Line art"
+        ],
+        "scenes": [
+          "Children",
+          "Coloring"
+        ],
+        "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/88/case.yml",
+        "upstream_url": "https://x.com/dotey/status/1919522110395080838",
+        "model": null,
+        "parameters": null,
+        "assets": [
+          {
+            "role": "output",
+            "source_path": "cases/88/case.png"
+          }
+        ],
+        "metadata": {
+          "artists": [],
+          "movements": [],
+          "materials": [],
+          "techniques": [
+            "black outline",
+            "inset color reference"
+          ],
+          "model_family": "gpt-image",
+          "model_version": null,
+          "record_type": "case",
+          "review_status": "verified",
+          "review_note": "实际看图：森林独角兽黑线画、右下角完整彩色缩图，图文核心目标相符。彩色参考为输出内嵌元素，不是外部输入；1024×1536不等于已满足8.5×11英寸打印尺寸或DPI。",
+          "asset_roles": [
+            {
+              "index": 0,
+              "role": "output",
+              "reason": "Case YAML image field; viewed actual output; no required external reference in prompt or reference_note."
+            }
+          ],
+          "evidence": [
+            {
+              "type": "case_yaml",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/88/case.yml",
+              "prompt_field": "prompt"
+            },
+            {
+              "type": "attribution",
+              "url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/88/ATTRIBUTION.yml",
+              "creation_tool": "Sora"
+            },
+            {
+              "type": "visual_review",
+              "checked_at": "2026-09-09",
+              "image_sha256": "3a329f6ec6cc8a48401625a1cf3e644301d78a4cc2ff3efee2c066dc8c0d0be2",
+              "note": "实际看图：森林独角兽黑线画、右下角完整彩色缩图，图文核心目标相符。彩色参考为输出内嵌元素，不是外部输入；1024×1536不等于已满足8.5×11英寸打印尺寸或DPI。"
+            }
+          ]
+        },
+        "license": "CC-BY-4.0",
+        "license_status": "per-case declaration; third-party prompt rights not independently verified",
+        "attribution": {
+          "title": "儿童涂色页插画（含彩色参考图）",
+          "title_en": "Children's Coloring Page Illustration (with Color Reference)",
+          "prompt_author": "@dotey",
+          "prompt_author_link": "https://x.com/dotey",
+          "image_author": "@jamez-bondos",
+          "image_author_link": "https://github.com/jamez-bondos",
+          "source_links": [
+            {
+              "url": "https://x.com/dotey/status/1919522110395080838"
+            }
+          ],
+          "license": "CC-BY-4.0",
+          "creation_tool": "Sora",
+          "date": "2025-05-24",
+          "notes": "Prompt quoted verbatim; image fully regenerated via Sora."
+        },
+        "rights": {
+          "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+          "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights.",
+          "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+          "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes."
+        },
+        "source_metadata": {
+          "case": {
+            "title": "儿童涂色页插画（含彩色参考图）",
+            "title_en": "Children's Coloring Page Illustration (with Color Reference)",
+            "author": "@dotey",
+            "author_link": "https://x.com/dotey",
+            "source_links": [
+              {
+                "url": "https://x.com/dotey/status/1919522110395080838"
+              }
+            ],
+            "image": "case.png",
+            "alt_text": "儿童涂色页插画（含彩色参考图）",
+            "alt_text_en": "Children's Coloring Page Illustration (with Color Reference)",
+            "prompt": "一张黑白线描涂色插画，适合直接打印在标准尺寸（8.5x11英寸）的纸张上，无纸张边框。整体插画风格清新简洁，使用清晰流畅的黑色轮廓线条，无阴影、无灰阶、无颜色填充，背景纯白，便于涂色。\n【同时为了方便不会涂色的用户，请在右下角用小图生成一个完整的彩色版本供参考】\n适合人群：【6-9岁小朋友】\n画面描述：\n【一只独角兽在森林的草地上漫步，阳光明媚，蓝天白云】\n",
+            "prompt_en": "A black and white line drawing coloring illustration, suitable for direct printing on standard size (8.5x11 inch) paper, without paper borders. The overall illustration style is fresh and simple, using clear and smooth black outline lines, without shadows, grayscale, or color filling, with a pure white background for easy coloring.\n[At the same time, for the convenience of users who are not good at coloring, please generate a complete colored version in the lower right corner as a small image for reference]\nSuitable for: [6-9 year old children]\nScene description:\n[A unicorn is walking on the grass in the forest, with bright sunshine, blue sky and white clouds]\n",
+            "prompt_note": "可替换提示词中的【】内容，例如适合人群和画面描述。\n",
+            "prompt_note_en": "The content within the brackets [] in the prompt can be replaced, such as the target audience and scene description.\n",
+            "reference_note": "",
+            "reference_note_en": "",
+            "submitter": "",
+            "submitter_link": ""
+          },
+          "prompt_field": "prompt",
+          "model_claim": "Sora",
+          "model_snapshot": null,
+          "prompt_origin": "upstream YAML exact; English original selected for case 86",
+          "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/88/ATTRIBUTION.yml"
+        }
+      }
+    }
+  ],
+  "reviewed_document_sha256": {
+    "LICENSE": "9d245ca7d995c58609161a47fbf73ab72b7ff0d8d2f4c310133dd956d4c6b01e",
+    "gpt-image-1/NOTICE-openai.md": "39023cb262d3c56b2f19e7534b776992194a21fe7e39177c1e891efe3c33d492"
+  }
+}

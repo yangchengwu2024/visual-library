@@ -1,0 +1,113 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "ink",
+    "watercolor"
+  ],
+  "techniques": [
+    "linework",
+    "watercolor washes"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.json#prompt",
+      "span": [
+        322,
+        327
+      ],
+      "quote": "led watercolor texture, soft beige paper texture background, architectural sketch style, vintage tra"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.json#prompt",
+      "span": [
+        132,
+        135
+      ],
+      "quote": "ban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "watercolor",
+      "source": "cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.json#prompt",
+      "span": [
+        16,
+        26
+      ],
+      "quote": "Create a dreamy watercolor travel illustration style from the attached photo. Use hand"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "linework",
+      "source": "cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.json#prompt",
+      "span": [
+        136,
+        144
+      ],
+      "quote": "sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "watercolor washes",
+      "source": "cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.json#prompt",
+      "span": [
+        161,
+        178
+      ],
+      "quote": "icate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brus"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.json#prompt",
+      "span": [
+        62,
+        70
+      ],
+      "quote": "Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush "
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/60c2b30f0a9010e7268b43707ee2f447cad76ca12b7ae0b2f89b995a92ee37c3.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "60c2b30f0a9010e7268b43707ee2f447cad76ca12b7ae0b2f89b995a92ee37c3"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 9031,
+      "image_links": [
+        "../data/images/case445.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

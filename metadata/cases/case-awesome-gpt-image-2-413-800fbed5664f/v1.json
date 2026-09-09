@@ -1,0 +1,89 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [
+    "brutalist"
+  ],
+  "materials": [
+    "fabric",
+    "pencil"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "movements",
+      "value": "brutalist",
+      "source": "cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.json#prompt",
+      "span": [
+        605,
+        614
+      ],
+      "quote": "nce routine inside a massive empty brutalist hall.\n\nThe choreography is aggressive, fluid and constantly"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.json#prompt",
+      "span": [
+        1294,
+        1300
+      ],
+      "quote": "nment minimal: empty space, smoke, fabric motion, harsh light beams and wet floor reflections only.\n\n"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "pencil",
+      "source": "cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.json#prompt",
+      "span": [
+        261,
+        267
+      ],
+      "quote": "ust be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple "
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.json#prompt",
+      "span": [
+        114,
+        129
+      ],
+      "quote": "board focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.\n\nThe actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast ges"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/2a6ed867365874b2203f1c5613c56e0e5baaee76739c299b53272e49fb56a631.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "2a6ed867365874b2203f1c5613c56e0e5baaee76739c299b53272e49fb56a631"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 7991,
+      "image_links": [
+        "../data/images/case413.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

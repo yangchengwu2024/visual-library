@@ -1,0 +1,112 @@
+{
+  "case_id": "case-jamez-awesome-gpt4o-images-64-60796c67e3e7",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "Creature",
+      "Design"
+    ],
+    "source_category": "插画与艺术",
+    "source_tags": {
+      "scenes": [
+        "Creature",
+        "Design"
+      ],
+      "styles": [
+        "Steampunk"
+      ]
+    },
+    "styles": [
+      "Steampunk"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "output",
+          "source_path": "cases/64/example_steampunk_fish.jpg"
+        }
+      ],
+      "attribution": {
+        "creation_tool": "GPT-4o",
+        "date": "2025-05-24",
+        "image_author": "@f-is-h",
+        "image_author_link": "https://github.com/f-is-h",
+        "license": "CC-BY-4.0",
+        "notes": "Prompt quoted verbatim; image fully regenerated via GPT-4o.",
+        "prompt_author": "@f-is-h",
+        "prompt_author_link": "https://github.com/f-is-h",
+        "source_links": [
+          {
+            "url": "https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png"
+          }
+        ],
+        "title": "蒸汽朋克机械鱼",
+        "title_en": "Steampunk Mechanical Fish"
+      },
+      "license": "CC-BY-4.0",
+      "license_status": "per-case declaration; third-party prompt rights not independently verified",
+      "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+      "rights": {
+        "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+        "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+        "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+        "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+      },
+      "source": "jamez-awesome-gpt4o-images",
+      "source_category": "插画与艺术",
+      "source_id": "64",
+      "source_metadata": {
+        "case": {
+          "alt_text": "蒸汽朋克机械鱼",
+          "alt_text_en": "Steampunk Mechanical Fish",
+          "author": "@f-is-h",
+          "author_link": "https://github.com/f-is-h",
+          "image": "example_steampunk_fish.jpg",
+          "prompt": "一个蒸汽朋克风格的机械鱼，身体为黄铜风格，可以清楚的看到其动作时的机械齿轮结构。\n能略微看到它的机械牙齿，整齐并且紧闭，上下牙齿都可以看到。每颗牙齿均呈三角状，材质为金刚石。\n尾鳍为金属丝编织结构，其它部分的鱼鳍是半透明的琥珀色玻璃，其中有一些不太明显的气泡。\n眼睛是多面红宝石，能清晰的看到它反射出来的光泽。\n鱼有身上能清晰的看到\"f-is-h\"字样，其中字母全部为小写，并且注意横线位置。\n图片是正方形的，整个画面中可以看到鱼的全身，在画面正中，鱼头向右，并且有一定的留白画面并不局促，画面的左右留出更多的空间。背景中有淡淡的蒸汽朋克风的齿轮纹理。\n整个鱼看起非常炫酷。这是一张高清图片，整张照片的细节非常丰富，并且有独特的质感与美感。画面不要太暗。\n",
+          "prompt_en": "A steampunk-style mechanical fish with a brass body and clearly visible gear mechanisms when in motion.\nIts mechanical teeth can be slightly seen, neatly arranged and closed, with both upper and lower teeth visible. Each tooth is triangular in shape and made of diamond material.\nThe tail fin has a metal wire mesh structure, while other fins are made of semi-transparent amber-colored glass with some subtle bubbles inside.\nThe eyes are multi-faceted rubies, with clearly visible reflective shine.\nThe fish has \"f-is-h\" text clearly visible on its body, with all lowercase letters and careful attention to the hyphen placement.\nThe image is square, showing the entire fish in the center of the frame, with its head pointing to the right. There is adequate white space around the fish, with more space on the left and right sides. The background has subtle steampunk-style gear patterns.\nThe entire fish looks very cool. This is a high-definition image with extremely rich details and unique texture and aesthetics. The image should not be too dark.\n",
+          "prompt_note": "此图片展示了蒸汽朋克风格与金属材质的精美结合，呈现出精致的机械感和复古未来主义风格。\n",
+          "prompt_note_en": "This image showcases an excellent combination of steampunk style and metallic textures, presenting intricate mechanical details and a retro-futuristic aesthetic.\n",
+          "reference_note": "",
+          "reference_note_en": "",
+          "source_links": [
+            {
+              "url": "https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png"
+            }
+          ],
+          "submitter": "f-is-h",
+          "submitter_link": "https://github.com/f-is-h",
+          "title": "蒸汽朋克机械鱼",
+          "title_en": "Steampunk Mechanical Fish"
+        },
+        "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/ATTRIBUTION.yml",
+        "model_claim": "GPT-4o",
+        "model_snapshot": null,
+        "prompt_field": "prompt",
+        "prompt_origin": "exact upstream YAML field"
+      },
+      "source_tags": {
+        "scenes": [
+          "Creature",
+          "Design"
+        ],
+        "styles": [
+          "Steampunk"
+        ]
+      },
+      "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/64/case.yml",
+      "title": "蒸汽朋克机械鱼",
+      "upstream_url": "https://github.com/f-is-h/f-is-h/blob/main/images/streampank-fish-4.png",
+      "version": "v1"
+    }
+  ],
+  "title": "蒸汽朋克机械鱼",
+  "title_aliases": [
+    "蒸汽朋克机械鱼"
+  ]
+}

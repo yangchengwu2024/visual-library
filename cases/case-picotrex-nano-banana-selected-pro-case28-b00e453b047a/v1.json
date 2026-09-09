@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-09T08:25:48+00:00",
+  "assets": [
+    {
+      "bytes": 1076824,
+      "path": "images/34cedeaca2e3af6f7831d9cc5bf5058f44d4bde8284bd6a73da31ef0d31bd4ac.jpg",
+      "role": "input",
+      "sha256": "34cedeaca2e3af6f7831d9cc5bf5058f44d4bde8284bd6a73da31ef0d31bd4ac",
+      "source_path": "images/pro_case28/input.jpg"
+    },
+    {
+      "bytes": 1791602,
+      "path": "images/e7c7366af77add187d65f409caaf8855747c4e14cfa232572f893d3bcdc9dc0c.jpg",
+      "role": "output",
+      "sha256": "e7c7366af77add187d65f409caaf8855747c4e14cfa232572f893d3bcdc9dc0c",
+      "source_path": "images/pro_case28/output.jpg"
+    }
+  ],
+  "case_id": "case-picotrex-nano-banana-selected-pro-case28-b00e453b047a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6e2ee193ce931532c255fe2dd8e1b568c95dc46260ae557e8ddc72b5bcf38066",
+  "model": "Nano Banana Pro",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "将这幅插图用粉笔在黑板上进行绘画，使用彩色粉笔，从某个角度拍摄了黑板，场景来自日本教室，黑板靠墙放置，老师的桌子在前面，插图旁边用粉笔写着“虎来了！”。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "input",
+        "source_path": "images/pro_case28/input.jpg"
+      },
+      {
+        "role": "output",
+        "source_path": "images/pro_case28/output.jpg"
+      }
+    ],
+    "attribution": {
+      "collector": "PicoTrex/Awesome-Nano-Banana-images",
+      "creator_as_credited": "@TlanoAI",
+      "creator_url": "https://x.com/TlanoAI",
+      "original_source": "https://x.com/TlanoAI/status/1991725762504724819?s=20"
+    },
+    "license": "README: CC BY 4.0; LICENSE: Apache-2.0 (both preserved)",
+    "license_status": "source_collection_declaration_retained",
+    "revision": "2558bf0bb825be150c5d1aeab918cd90004882d3",
+    "rights": {
+      "basis": "依据源图片/提示词集 README CC BY 4.0 声明与仓库 Apache-2.0 LICENSE 归档；两份原声明共同保留，不改写成已澄清的双重授权。",
+      "changes": "原prompt及图片不修改；新增分类、角色与人工审核元数据。",
+      "independent_ownership_verified": false,
+      "limitations": "源库自述无法保证每例都是原作者。许可只及许可方有权授权部分；第三方角色、商标及人物权利不转让。",
+      "scope": "selected public-source prompt and image archive with attribution"
+    },
+    "source": "picotrex-nano-banana-selected",
+    "source_category": "插画与艺术",
+    "source_id": "pro_case28",
+    "source_tags": {
+      "scenes": [
+        "日本教室",
+        "黑板"
+      ],
+      "styles": [
+        "粉笔画",
+        "材质转绘"
+      ]
+    },
+    "source_url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md",
+    "title": "黑板粉笔画",
+    "upstream_url": "https://x.com/TlanoAI/status/1991725762504724819?s=20"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "黑板粉笔画",
+  "version": "v1"
+}

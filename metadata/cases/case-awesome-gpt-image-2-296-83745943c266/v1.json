@@ -1,0 +1,72 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "paper",
+    "silk",
+    "纸张"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "paper",
+      "source": "cases/case-awesome-gpt-image-2-296-83745943c266/v1.json#prompt",
+      "span": [
+        1432,
+        1437
+      ],
+      "quote": "illustrations. The background uses paper textures such as off-white, silk white, and light tea color"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "silk",
+      "source": "cases/case-awesome-gpt-image-2-296-83745943c266/v1.json#prompt",
+      "span": [
+        1466,
+        1470
+      ],
+      "quote": " paper textures such as off-white, silk white, and light tea color, making the overall look premium"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "纸张",
+      "source": "cases/case-awesome-gpt-image-2-296-83745943c266/v1.json#prompt",
+      "span": [
+        223,
+        225
+      ],
+      "quote": "通海报、古风写真、电商详情页或动漫插画。背景采用米白、绢纸白、浅茶色等纸张质感，整体高级、克制、专业、可收藏。\n\n版式固定为：\n- 顶部：中文主标题 + 副标题 + 导语\n- 左侧：结构拆解区，"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 3751,
+      "image_links": [
+        "../data/images/case296.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

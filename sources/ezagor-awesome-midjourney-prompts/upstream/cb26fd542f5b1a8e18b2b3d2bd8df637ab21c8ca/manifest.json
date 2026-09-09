@@ -1,0 +1,17 @@
+{
+  "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+  "files": [
+    {
+      "path": "sources/ezagor-awesome-midjourney-prompts/upstream/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/LICENSE",
+      "source_path": "LICENSE",
+      "sha256": "a2010f343487d3f7618affe54f789f5487602331c0a8d03f49e9a7c547cf0499",
+      "bytes": 7048
+    },
+    {
+      "path": "sources/ezagor-awesome-midjourney-prompts/upstream/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md",
+      "source_path": "README.md",
+      "sha256": "7615ef8c2aa77e6d74d40ab0f35b53b5660e046291d29a4ead30c1754b9052c9",
+      "bytes": 9065
+    }
+  ]
+}

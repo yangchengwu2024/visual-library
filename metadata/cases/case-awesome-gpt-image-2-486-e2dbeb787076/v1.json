@@ -1,0 +1,101 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "fabric",
+    "ink",
+    "watercolor"
+  ],
+  "techniques": [
+    "line art"
+  ],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "output",
+      "reason": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。"
+    }
+  ],
+  "review_status": "verified",
+  "review_note": "已核对原文输入要求与当前示例图；这是通用可替换主体/照片/标志模板，实际执行须由使用者提供相应输入，未发现必须另补某一指定源文件的明确要求。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-486-e2dbeb787076/v1.json#prompt",
+      "span": [
+        823,
+        829
+      ],
+      "quote": "ry accents, highly detailed jersey fabric.\n\nLarge typography on the right side reading:\n\nRCB\nIPL CHAM"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "ink",
+      "source": "cases/case-awesome-gpt-image-2-486-e2dbeb787076/v1.json#prompt",
+      "span": [
+        277,
+        280
+      ],
+      "quote": "atercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, bla"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "watercolor",
+      "source": "cases/case-awesome-gpt-image-2-486-e2dbeb787076/v1.json#prompt",
+      "span": [
+        241,
+        251
+      ],
+      "quote": " portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital paintin"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "techniques",
+      "value": "line art",
+      "source": "cases/case-awesome-gpt-image-2-486-e2dbeb787076/v1.json#prompt",
+      "span": [
+        530,
+        538
+      ],
+      "quote": "aint splatter textures, hand-drawn line art accents, and energetic brushwork.\n\nThe woman has a confiden"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-486-e2dbeb787076/v1.json#prompt",
+      "span": [
+        75,
+        90
+      ],
+      "quote": "iled mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes"
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/58dd1309462d39ca2202d6c38458f6aa9c661aefc6848ceea249fdf5a5953c32.jpg",
+      "quote": "已看图，主体为提示词描述的完成后视觉示例；不从输出内容推定原始输入存在。",
+      "resolution": "contact_sheet_thumbnail",
+      "sha256": "58dd1309462d39ca2202d6c38458f6aa9c661aefc6848ceea249fdf5a5953c32"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 10675,
+      "image_links": [
+        "../data/images/case486.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "archived_at": "2026-09-09T08:25:59+00:00",
+  "assets": [
+    {
+      "bytes": 410365,
+      "path": "images/c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc.png",
+      "role": "output",
+      "sha256": "c6ef31a24c63ba0c88bb992912874f32afaeace2248c8428e281f2da0e6d0ecc",
+      "source_path": "https://user-images.githubusercontent.com/45847677/220788264-a402fdbc-a202-45f9-af4d-e338d46c229e.png"
+    }
+  ],
+  "case_id": "case-ezagor-awesome-midjourney-prompts-botanical-lungs-collage-4c32529d0762",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "637a6f8a3c2fd64263c10c1b8bb7e208bad07ec9fd02d84e58b6e30b0be2c25e",
+  "model": "Midjourney",
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "digital collage of human lungs made of anormous amount of green garden and meadow leafs",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "https://user-images.githubusercontent.com/45847677/220788264-a402fdbc-a202-45f9-af4d-e338d46c229e.png"
+      }
+    ],
+    "revision": "cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca",
+    "source": "ezagor-awesome-midjourney-prompts",
+    "source_category": "插画与艺术",
+    "source_id": "botanical-lungs-collage",
+    "source_tags": {
+      "scenes": [],
+      "styles": [
+        "concept",
+        "illustration"
+      ]
+    },
+    "source_url": "https://github.com/Ezagor-dev/awesome-midjourney-prompts/blob/cb26fd542f5b1a8e18b2b3d2bd8df637ab21c8ca/README.md#midjourney-showcase",
+    "title": "绿叶构成肺部：数字拼贴",
+    "upstream_url": "https://user-images.githubusercontent.com/45847677/220788264-a402fdbc-a202-45f9-af4d-e338d46c229e.png"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "绿叶构成肺部：数字拼贴",
+  "version": "v1"
+}

@@ -23,6 +23,82 @@ from datetime import datetime, timezone
 
 
 SCHEMA_VERSION = 1
+METADATA_ENUMS = {
+    "model_family": {"gpt-image", "nano-banana", "midjourney", "unknown"},
+    "record_type": {"case", "style_reference", "keyword_reference"},
+    "review_status": {"verified", "needs_review", "missing_inputs"},
+}
+METADATA_FIELDS = (*METADATA_ENUMS, "model_version", "artists", "movements", "materials",
+                   "techniques", "asset_roles", "review_note", "evidence")
+
+
+def _metadata_path(root, case_id, version):
+    _case_dir(root, case_id)  # Validate IDs before constructing a sidecar path.
+    return Path(root) / "metadata" / "cases" / case_id / (_version_name(version) + ".json")
+
+
+def _validate_metadata(value):
+    if not isinstance(value, dict):
+        raise TypeError("metadata must be an object")
+    for field, choices in METADATA_ENUMS.items():
+        if field in value and value[field] not in choices:
+            raise ValueError("Invalid metadata " + field)
+    for field in ("artists", "movements", "materials", "techniques"):
+        if field in value and (not isinstance(value[field], list) or
+                               not all(isinstance(item, str) for item in value[field])):
+            raise TypeError("metadata " + field + " must be a list of strings")
+    if "asset_roles" in value:
+        if not isinstance(value["asset_roles"], list):
+            raise TypeError("metadata asset_roles must be a list")
+        for item in value["asset_roles"]:
+            if (not isinstance(item, dict) or isinstance(item.get("index"), bool) or
+                    not isinstance(item.get("index"), int) or item["index"] < 0 or
+                    not isinstance(item.get("role"), str) or not item["role"] or
+                    not isinstance(item.get("reason"), str)):
+                raise ValueError("asset_roles entries require nonnegative index, role and reason")
+    for field in ("model_version", "review_note"):
+        if field in value and value[field] is not None and not isinstance(value[field], str):
+            raise TypeError("metadata " + field + " must be a string or null")
+    return value
+
+
+def _case_metadata(root, case_id, version, personal=None):
+    sidecar = _validate_metadata(_read(_metadata_path(root, case_id, version), {}))
+    result = {"model_family": "unknown", "model_version": None, "artists": [],
+              "movements": [], "materials": [], "techniques": [], "record_type": "case",
+              "asset_roles": [], "review_status": "needs_review", "review_note": "",
+              "evidence": []}
+    result.update({key: copy.deepcopy(value) for key, value in sidecar.items() if key in METADATA_FIELDS})
+    personal = _personal_for(root, case_id) if personal is None else personal
+    corrections = personal.get("corrections", {})
+    # Personal corrections are authoritative; importing sidecars never edits them.
+    overrides = {key: value for key, value in corrections.get("metadata", {}).items() if key in METADATA_FIELDS}
+    overrides.update({key: value for key, value in corrections.items() if key in METADATA_FIELDS})
+    result.update(_validate_metadata(overrides))
+    result["effective_status"] = {"missing_inputs": "missing_inputs", "needs_review": "needs_review",
+                                  "verified": "complete"}[result["review_status"]]
+    return result
+
+
+def _source_evidence(header, version):
+    return [copy.deepcopy(item) for item in header.get("source_aliases", []) if item.get("version") == version]
+
+
+def _source_references(evidence):
+    fields = {"source", "source_id", "source_url", "upstream_url", "revision", "version"}
+    return [{key: value for key, value in source.items() if key in fields} for source in evidence]
+
+
+def _light_entry(root, entry):
+    """Keep search/catalog records small; exact source evidence remains in show()."""
+    item = {key: copy.deepcopy(value) for key, value in entry.items()
+            if key not in {"evidence", "asset_roles", "review_note", "prompt", "prompt_variants"}}
+    item["review_summary"] = " ".join(str(entry.get("review_note") or entry.get("review_summary") or "").split())[:240]
+    item["source_evidence"] = _source_references(entry.get("source_evidence", []))
+    metadata_path = _metadata_path(root, entry["case_id"], entry["version"])
+    item["metadata_path"] = metadata_path.relative_to(root).as_posix() if metadata_path.is_file() else None
+    item["detail_path"] = "cases/" + entry["case_id"] + "/" + entry["version"] + ".json"
+    return item
 
 
 def _now():
@@ -234,6 +310,8 @@ def _fingerprint(content):
         "parameters": content.get("parameters"),
         "assets": [{"sha256": a["sha256"], "role": a.get("role", "example")} for a in content["assets"]],
     }
+    if "prompt_variants" in content:
+        identity["prompt_variants"] = content["prompt_variants"]
     return hashlib.sha256(_json_bytes(identity)).hexdigest()
 
 
@@ -271,6 +349,8 @@ def _difference(previous, current):
     result = []
     if previous["prompt"] != current["prompt"]:
         result.append("original prompt changed")
+    if previous.get("prompt_variants") != current.get("prompt_variants"):
+        result.append("original prompt variants changed")
     if [(a["sha256"], a["role"]) for a in previous["assets"]] != [(a["sha256"], a["role"]) for a in current["assets"]]:
         result.append("asset bytes, order, or roles changed")
     if previous.get("model") != current.get("model"):
@@ -282,6 +362,7 @@ def _difference(previous, current):
 
 def _render_version(root, content):
     directory = _case_dir(root, content["case_id"])
+    metadata = _case_metadata(root, content["case_id"], content["version"])
     prompt = content["prompt"]
     fence = "`" * max(3, max((len(m.group(0)) + 1 for m in re.finditer(r"`+", prompt)), default=3))
     title = " ".join(str(content.get("title", content["case_id"])).split())
@@ -290,13 +371,35 @@ def _render_version(root, content):
                      "known model changed": "模型信息变化", "generation parameters changed": "生成参数变化",
                      "explicitly grouped variant; unknown parameters do not establish identical content": "归入关联版本，未知参数不能认定完全相同"}
     changes = "；".join(change_labels.get(x, x) for x in content["changes"])
-    lines = ["<!-- GENERATED from version JSON. Do not edit this reading copy. -->",
+    record_labels = {"case": "案例", "style_reference": "风格参考", "keyword_reference": "关键词参考"}
+    review_labels = {"verified": "已复核", "needs_review": "未补充复核 / 待复核", "missing_inputs": "缺少必要输入"}
+    role_labels = {"input": "输入参考图", "input_reference": "输入参考图", "reference": "参考图",
+                   "output": "输出效果图", "example": "来源示例图", "unknown": "角色待复核"}
+    roles = {item["index"]: item for item in metadata["asset_roles"]}
+    lines = ["<!-- GENERATED from version JSON, sidecar metadata and personal corrections. Do not edit this reading copy. -->",
              "# " + title, "", "[返回画廊总览](../../docs/gallery.md) · [版本与来源记录](case.json)", "",
              "案例编号：`" + content["case_id"] + "` · 版本：`" + content["version"] + "`", "",
-             "版本说明：" + changes, "", "## 案例图片", ""]
+             "版本说明：" + changes, "",
+             "资料类型：" + record_labels[metadata["record_type"]] + " · 复核状态：" + review_labels[metadata["review_status"]], ""]
+    if metadata["review_note"]:
+        lines += ["复核说明：" + metadata["review_note"], ""]
+    lines += ["## 案例图片", ""]
     for number, asset in enumerate(content["assets"], 1):
+        source_role = asset.get("role", "example")
+        role = roles.get(number - 1)
+        label = role_labels.get(role["role"], role["role"]) if role else "角色未补充复核"
+        lines += ["### 图片 " + str(number) + " · " + label, "",
+                  "来源角色：`" + source_role + "`", ""]
+        if role and role["reason"]:
+            lines += ["角色依据：" + role["reason"], ""]
         lines += ["![案例图片 " + str(number) + "](../../" + asset["path"] + ")", ""]
     lines += ["## 完整提示词", "", fence + "text", prompt, fence, ""]
+    for language, variant in content.get("prompt_variants", {}).items():
+        if variant == prompt:
+            continue
+        variant_fence = "`" * max(3, max((len(m.group(0)) + 1 for m in re.finditer(r"`+", variant)), default=3))
+        label = " ".join(str(language).split())
+        lines += ["## Original prompt (" + label + ")", "", variant_fence + "text", variant, variant_fence, ""]
     if content.get("model") is not None or content.get("parameters") is not None:
         lines += ["## 模型与参数", "", "```json", json.dumps({"model": content.get("model"), "parameters": content.get("parameters")}, ensure_ascii=False, indent=2), "```", ""]
     provenance = content.get("provenance", {})
@@ -355,14 +458,18 @@ def _rebuild(root):
                         "source_category": classification["source_category"], "source_tags": classification["source_tags"],
                         "model": current.get("model"), "image_count": len(current["assets"]),
                         "sources": sorted(set(p["source"] for p in header["source_aliases"])),
-                        "archived_at": current["archived_at"], "status": "complete"})
-    catalog = {"schema_version": SCHEMA_VERSION, "case_count": len(entries), "cases": entries}
+                        "archived_at": current["archived_at"], "status": "complete",
+                        "source_evidence": _source_evidence(header, current["version"]),
+                        **_case_metadata(root, header["case_id"], current["version"], personal)})
+    catalog = {"schema_version": SCHEMA_VERSION, "case_count": len(entries),
+               "cases": [_light_entry(root, entry) for entry in entries]}
     _write(root / "indexes" / "catalog.json", catalog)
     import importlib.util
     spec = importlib.util.spec_from_file_location("visual_library_gallery", Path(__file__).with_name("gallery.py"))
     gallery_module = importlib.util.module_from_spec(spec)
     spec.loader.exec_module(gallery_module)
-    gallery_module.build_gallery(root, catalog)
+    # Reading pages still need full role/review details; only the saved index is light.
+    gallery_module.build_gallery(root, dict(catalog, cases=entries))
     return catalog
 
 
@@ -375,8 +482,8 @@ def rebuild(root):
         return _rebuild(root)
 
 
-def import_records(root, records, source, revision, *, lock=True):
-    """Import one full source snapshot, retaining absent items and all old versions.
+def import_records(root, records, source, revision, *, lock=True, mode="snapshot"):
+    """Import a full source snapshot or append only the explicitly supplied records.
 
     records: source_id, title, exact prompt, category, styles, scenes, source_url,
     upstream_url, model (null=unknown), parameters (null=unknown, {}=known empty),
@@ -386,14 +493,26 @@ def import_records(root, records, source, revision, *, lock=True):
     the last complete source mapping and last_success_revision stay usable.
     Internal adapters already holding library_lock may pass lock=False to cover
     their own source-document writes and this import with one shared lock.
+    mode='append' leaves unselected mappings/pending and full-source cursors alone.
+    Optional metadata is stored separately per version, never in its fingerprint.
+    Optional prompt_variants maps source language labels to exact original text;
+    when present, every variant participates in immutable content identity.
     """
     root = Path(root).resolve()
     records = list(records)
+    if mode not in {"snapshot", "append"}:
+        raise ValueError("mode must be snapshot or append")
     ids = [str(r["source_id"]) for r in records]
     if len(ids) != len(set(ids)):
         raise ValueError("Duplicate source_id within source snapshot")
     if not all(isinstance(r.get("prompt", ""), str) for r in records):
         raise TypeError("prompt must be the exact original string")
+    for record in records:
+        if "metadata" in record:
+            _validate_metadata(record["metadata"])
+        if "prompt_variants" in record and (not isinstance(record["prompt_variants"], dict) or
+                not all(isinstance(key, str) and isinstance(value, str) for key, value in record["prompt_variants"].items())):
+            raise TypeError("prompt_variants must be a mapping of language names to exact original strings")
     _json_bytes(records and [{k: v for k, v in r.items() if k != "assets"} for r in records])
     slug = source_slug(source)
     summary = {"new_cases": 0, "new_versions": 0, "duplicates": 0,
@@ -430,11 +549,15 @@ def import_records(root, records, source, revision, *, lock=True):
                 missing.append({"field": "assets", "reason": "no locally available images"})
             content = {"title": record.get("title", ""), "prompt": record.get("prompt", ""),
                        "model": record.get("model"), "parameters": record.get("parameters"), "assets": assets}
+            if "prompt_variants" in record:
+                content["prompt_variants"] = copy.deepcopy(record["prompt_variants"])
             content["fingerprint"] = _fingerprint(content)
             provenance = _provenance(record, source, revision)
             if missing:
                 pending = dict(content, source_id=source_id, case_id=case_id,
                                status="pending", missing_assets=missing, provenance=provenance)
+                if "metadata" in record:
+                    pending["metadata"] = record["metadata"]
                 pending_id = hashlib.sha256(source_id.encode("utf-8")).hexdigest()[:20]
                 pending_path = root / "sources" / slug / "pending" / (pending_id + ".json")
                 # Stable pending path/content: no timestamp-only churn on retries.
@@ -453,6 +576,11 @@ def import_records(root, records, source, revision, *, lock=True):
                            "title_aliases": [], "source_aliases": [],
                            "classification": _classification(record, aliases)})
             version, added = _new_version(root, case_id, content, provenance)
+            if "metadata" in record:
+                metadata_path = _metadata_path(root, case_id, version)
+                metadata = _read(metadata_path, {})
+                metadata.update(record["metadata"])
+                _write(metadata_path, metadata)
             if is_new_case:
                 summary["new_cases"] += 1
             elif added:
@@ -464,6 +592,7 @@ def import_records(root, records, source, revision, *, lock=True):
             header["title"] = record.get("title", header["title"])
             header["classification"] = _classification(record, aliases)
             _write(directory / "case.json", header)
+            _render_version(root, _read(directory / (version + ".json")))
             mappings[source_id] = {"case_id": case_id, "version": version, "upstream_present": True}
             if _known_parameters(content):
                 known_fingerprints[content["fingerprint"]] = (case_id, version)
@@ -474,14 +603,19 @@ def import_records(root, records, source, revision, *, lock=True):
                 if pending.get("status") != "resolved":
                     pending.update(status="resolved", resolved_case_id=case_id, resolved_version=version)
                     _write(pending_path, pending)
-            summary["records"].append({"case_id": case_id, "source_id": source_id, "version": version, "status": "complete"})
-        for source_id, mapping in mappings.items():
-            if source_id not in ids:
-                mapping["upstream_present"] = False
-        state["last_attempt_revision"] = revision
-        state["pending_count"] = summary["pending"]
-        if not summary["pending"]:
-            state["last_success_revision"] = revision
+            review = _case_metadata(root, case_id, version)
+            summary["records"].append({"case_id": case_id, "source_id": source_id, "version": version,
+                                       "status": "complete", "review_status": review["review_status"],
+                                       "effective_status": review["effective_status"], "record_type": review["record_type"]})
+        if mode == "snapshot":
+            for source_id, mapping in mappings.items():
+                if source_id not in ids:
+                    mapping["upstream_present"] = False
+            state["last_attempt_revision"] = revision
+            if not summary["pending"]:
+                state["last_success_revision"] = revision
+        state["pending_count"] = sum(_read(path).get("status") == "pending"
+                                     for path in (root / "sources" / slug / "pending").glob("*.json"))
         _write(state_path, state)
         _rebuild(root)
     return summary
@@ -539,17 +673,25 @@ def show(root, case_id, version=None):
     content = _read(directory / (version + ".json"))
     if content is None:
         raise KeyError("Unknown case version: " + case_id + " " + version)
-    content["source_aliases"] = _read(directory / "case.json")["source_aliases"]
+    header = _read(directory / "case.json")
+    content["source_aliases"] = header["source_aliases"]
+    content["source_evidence"] = _source_evidence(header, version)
     content["available_versions"] = [p.stem for p in paths]
     content["personal"] = _personal_for(root, case_id)
+    content.update(_case_metadata(root, case_id, version, content["personal"]))
     content["requested_case_id"] = requested_id
     content["requested_version"] = requested_version
     for asset in content["assets"]:
         asset["absolute_path"] = str(_safe_asset(root, asset["path"]))
+    for role in content["asset_roles"]:
+        if role["index"] < len(content["assets"]):
+            asset = content["assets"][role["index"]]
+            asset.update(source_role=asset.get("role"), role=role["role"], role_reason=role["reason"])
     return content
 
 
-def query(root, keywords=None, category=None, tags=None, limit=20, full_text=False, favorites=False):
+def query(root, keywords=None, category=None, tags=None, limit=20, full_text=False, favorites=False, *,
+          model_family=None, artist=None, movement=None, material=None, record_type=None, review_status=None):
     """Search light metadata by default; --full-text explicitly reads prompts.
 
     All keyword terms must match; category is exact after alias normalization.
@@ -564,23 +706,42 @@ def query(root, keywords=None, category=None, tags=None, limit=20, full_text=Fal
     personal_records = _personal_index(root)
     result = []
     for entry in catalog["cases"]:
+        entry = copy.deepcopy(entry)
+        personal = _personal_for(root, entry["case_id"], personal_records.get(entry["case_id"], []))
+        entry.update(_case_metadata(root, entry["case_id"], entry["version"], personal))
+        corrections = personal.get("corrections", {})
+        for key in ("categories", "styles", "scenes"):
+            if key in corrections:
+                entry[key] = corrections[key]
+        # Read sidecar supplements even for catalogs created by an older release.
+        if "source_evidence" not in entry:
+            header = _read(_case_dir(root, entry["case_id"]) / "case.json", {})
+            entry["source_evidence"] = _source_evidence(header, entry["version"])
+        entry["source_evidence"] = _source_references(entry["source_evidence"])
+        filters = {"model_family": model_family, "artists": artist, "movements": movement,
+                   "materials": material, "record_type": record_type, "review_status": review_status}
+        if any(value is not None and _normalize(value, aliases).casefold() not in
+               {_normalize(item, aliases).casefold() for item in _tags(entry.get(field))}
+               for field, value in filters.items()):
+            continue
         values = entry["categories"] + entry["styles"] + entry["scenes"]
         if category and _normalize(category, aliases).casefold() not in {x.casefold() for x in entry["categories"]}:
             continue
         if not required_tags.issubset({x.casefold() for x in values}):
             continue
-        personal = _personal_for(root, entry["case_id"], personal_records.get(entry["case_id"], []))
         if favorites and not any(x.get("value", True) for x in personal["favorites"]):
             continue
         note_texts = [str(note.get("text", "")) for note in personal["notes"]]
         haystack = " ".join([entry["case_id"], entry["title"], *entry["title_aliases"], *values, *entry["sources"], str(entry.get("model") or ""), *note_texts]).casefold()
+        haystack += " " + json.dumps({key: entry.get(key) for key in (*METADATA_FIELDS, "source_evidence")}, ensure_ascii=False).casefold()
         if not _matches_keywords(haystack, groups):
             if not full_text:
                 continue
             content = _read(_case_dir(root, entry["case_id"]) / (entry["version"] + ".json"))
-            if not _matches_keywords(haystack + " " + content["prompt"].casefold(), groups):
+            prompt_text = " ".join([content["prompt"], *content.get("prompt_variants", {}).values()]).casefold()
+            if not _matches_keywords(haystack + " " + prompt_text, groups):
                 continue
-        item = copy.deepcopy(entry)
+        item = _light_entry(root, entry)
         item["matched_by"] = "text and source metadata; images not visually assessed"
         if favorites:
             item["favorite_versions"] = sorted(set(x["version"] for x in personal["favorites"] if x.get("value", True)))
@@ -790,8 +951,17 @@ def group_variant(root, source_case_id, target_case_id):
         for path in _versions(source_dir):
             old = _read(path)
             content = {k: old[k] for k in ("prompt", "title", "model", "parameters", "assets", "fingerprint")}
+            if "prompt_variants" in old:
+                content["prompt_variants"] = copy.deepcopy(old["prompt_variants"])
             version, _ = _new_version(root, target_case_id, content, old["provenance"], {"case_id": source_case_id, "version": old["version"]}, allow_reuse=_known_parameters(content))
             mapping[old["version"]] = version
+            old_metadata = _read(_metadata_path(root, source_case_id, old["version"]), {})
+            if old_metadata:
+                target_metadata_path = _metadata_path(root, target_case_id, version)
+                # Preserve the existing target's metadata when exact content is reused.
+                old_metadata.update(_read(target_metadata_path, {}))
+                _write(target_metadata_path, old_metadata)
+                _render_version(root, _read(target_dir / (version + ".json")))
         for provenance in source_header["source_aliases"]:
             item = {k: v for k, v in provenance.items() if k != "version"}
             _append_provenance(header, item, mapping[provenance["version"]])
@@ -832,6 +1002,9 @@ def main(argv=None):
     q.add_argument("--limit", type=int, default=20)
     q.add_argument("--full-text", action="store_true")
     q.add_argument("--favorites", action="store_true")
+    for field in ("model_family", "artist", "movement", "material", "record_type", "review_status"):
+        flags = list(dict.fromkeys(("--" + field.replace("_", "-"), "--" + field)))
+        q.add_argument(*flags, dest=field)
     s = commands.add_parser("show")
     s.add_argument("case_id")
     s.add_argument("--version")
@@ -841,6 +1014,7 @@ def main(argv=None):
     imp.add_argument("--records", type=Path, required=True)
     imp.add_argument("--source", required=True)
     imp.add_argument("--revision", required=True)
+    imp.add_argument("--mode", choices=("snapshot", "append"), default="snapshot")
     note = commands.add_parser("note", help="Explicitly save a personal note fixed to a version")
     note.add_argument("case_id")
     note.add_argument("text")
@@ -858,7 +1032,9 @@ def main(argv=None):
     group.add_argument("target_case_id")
     args = parser.parse_args(argv)
     if args.command == "query":
-        result = query(args.root, args.keywords, args.category, args.tag, args.limit, args.full_text, args.favorites)
+        result = query(args.root, args.keywords, args.category, args.tag, args.limit, args.full_text, args.favorites,
+                       **{field: getattr(args, field) for field in
+                          ("model_family", "artist", "movement", "material", "record_type", "review_status")})
     elif args.command == "show":
         result = show(args.root, args.case_id, args.version)
     elif args.command == "validate":
@@ -866,7 +1042,7 @@ def main(argv=None):
     elif args.command == "rebuild":
         result = rebuild(args.root)
     elif args.command == "import":
-        result = import_records(args.root, _read(args.records), args.source, args.revision)
+        result = import_records(args.root, _read(args.records), args.source, args.revision, mode=args.mode)
     elif args.command == "note":
         result = personal_note(args.root, args.case_id, args.text, args.version)
     elif args.command == "favorite":

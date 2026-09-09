@@ -1,0 +1,96 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [
+    "wood",
+    "wooden",
+    "glass",
+    "fabric",
+    "cotton"
+  ],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wood",
+      "source": "cases/case-awesome-gpt-image-2-532-c43bbfeb5af7/v1.json#prompt",
+      "span": [
+        6312,
+        6316
+      ],
+      "quote": "tive.\nCart and props: refined warm wood grain, polished wheels, believable joints and harness eleme"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "wooden",
+      "source": "cases/case-awesome-gpt-image-2-532-c43bbfeb5af7/v1.json#prompt",
+      "span": [
+        2827,
+        2833
+      ],
+      "quote": "el 4: she rides in a small refined wooden cart piled with lemons, being pulled by a whimsical premium"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "glass",
+      "source": "cases/case-awesome-gpt-image-2-532-c43bbfeb5af7/v1.json#prompt",
+      "span": [
+        3092,
+        3097
+      ],
+      "quote": "el. A tall branded LIMORA lemonade glass dominates the frame, packed with ice cubes, lemon slices, p"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "fabric",
+      "source": "cases/case-awesome-gpt-image-2-532-c43bbfeb5af7/v1.json#prompt",
+      "span": [
+        6048,
+        6054
+      ],
+      "quote": "en floral print, natural wrinkles, fabric tension, and wind-responsive edges.\nHair and skin: realisti"
+    },
+    {
+      "kind": "prompt_term",
+      "field": "materials",
+      "value": "cotton",
+      "source": "cases/case-awesome-gpt-image-2-532-c43bbfeb5af7/v1.json#prompt",
+      "span": [
+        5993,
+        5999
+      ],
+      "quote": "ccurate.\nDress: lightweight summer cotton with tiny green floral print, natural wrinkles, fabric tens"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 12008,
+      "image_links": [
+        "../data/images/case532.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

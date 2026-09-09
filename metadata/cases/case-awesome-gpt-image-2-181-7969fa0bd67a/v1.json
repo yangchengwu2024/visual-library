@@ -1,0 +1,51 @@
+{
+  "model_family": "gpt-image",
+  "model_version": null,
+  "artists": [],
+  "movements": [],
+  "materials": [],
+  "techniques": [],
+  "record_type": "case",
+  "asset_roles": [
+    {
+      "index": 0,
+      "role": "unknown",
+      "reason": "实际看图为乌冬面广告；没有前后对照，不能区分改前输入或改后输出。"
+    }
+  ],
+  "review_status": "needs_review",
+  "review_note": "原文只写重新设计“这个商品广告”；唯一图为乌冬面商业广告。没有前后对照或独立源图，不能仅凭视觉确定它是改前输入还是改后结果。可用新广告作为输入复用；角色与原例对应性保留 needs_review。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "evidence": [
+    {
+      "kind": "collection_attribution",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/README.md",
+      "quote": "GPT-Image2 Industrial Prompt Engine & Template Library, 500+ Reverse-Engineered Cases",
+      "note": "集合名称与反向整理说明，不证明单例实际生成模型或版本。"
+    },
+    {
+      "kind": "input_dependency_context",
+      "source": "cases/case-awesome-gpt-image-2-181-7969fa0bd67a/v1.json#prompt",
+      "span": [
+        77,
+        89
+      ],
+      "quote": "的视角重新设计这个商品广告。\n采用当前的潮流趋势，针对目标受众的精致设计。\n\n[English]\nPlease redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience."
+    },
+    {
+      "kind": "visual_inspection",
+      "source": "images/95dcbf5d48184c61c5b452f68d0aae9968e5a083fa8c465f79e494095834ded5.jpg",
+      "quote": "实际看图为乌冬面广告；没有前后对照，不能区分改前输入或改后输出。",
+      "resolution": "full_image",
+      "sha256": "95dcbf5d48184c61c5b452f68d0aae9968e5a083fa8c465f79e494095834ded5"
+    },
+    {
+      "kind": "upstream_gallery_links",
+      "source": "docs/gallery-part-2.md",
+      "line": 361,
+      "image_links": [
+        "../data/images/case181.jpg"
+      ],
+      "additional_asset_paths": []
+    }
+  ]
+}

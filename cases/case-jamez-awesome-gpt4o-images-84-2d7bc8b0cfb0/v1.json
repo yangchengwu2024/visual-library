@@ -1,0 +1,108 @@
+{
+  "archived_at": "2026-09-09T08:25:28+00:00",
+  "assets": [
+    {
+      "bytes": 458552,
+      "path": "images/769fb6c1b83b053b87fef131265ff7d0c4927d4c506a5ed9546df28a29445b32.png",
+      "role": "output",
+      "sha256": "769fb6c1b83b053b87fef131265ff7d0c4927d4c506a5ed9546df28a29445b32",
+      "source_path": "cases/84/case.png"
+    }
+  ],
+  "case_id": "case-jamez-awesome-gpt4o-images-84-2d7bc8b0cfb0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6c7a08898b524162f98c098c1a8da89862bd479eb6ed4266e7ac026134a219e4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "创建图片 一个可爱Q版的硅胶护腕托，外形基于【🐼】表情，采用柔软的食品级硅胶材质，表面为亲肤哑光质感，内部填充慢回弹棉，拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现出拥抱手腕的姿势，整体造型圆润软萌，颜色为【🐼】配色，风格治愈可爱，适合办公使用，背景为白色纯色，柔和布光，产品摄影风格，前视角或45度俯视，高清细节，突出硅胶质感与舒适功能\n",
+  "prompt_variants": {
+    "prompt": "创建图片 一个可爱Q版的硅胶护腕托，外形基于【🐼】表情，采用柔软的食品级硅胶材质，表面为亲肤哑光质感，内部填充慢回弹棉，拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现出拥抱手腕的姿势，整体造型圆润软萌，颜色为【🐼】配色，风格治愈可爱，适合办公使用，背景为白色纯色，柔和布光，产品摄影风格，前视角或45度俯视，高清细节，突出硅胶质感与舒适功能\n",
+    "prompt_en": "Create an image of a cute chibi-style silicone wrist rest based on the {🐼} emoji. The wrist rest is made of soft, food-grade silicone with a skin-friendly matte surface. The interior is filled with slow-rebound foam. Designed in a personified cartoon style, the expression is lively, with both arms stretched out as if hugging the user’s wrist while lying on a desk. The overall shape is round, soft, and adorable, featuring the classic {🐼} color scheme. The design is comforting and cute, suitable for office use. The background is a solid white color with soft lighting. Rendered in a product photography style, the angle is either front-facing or at a 45-degree top-down view, showcasing high-definition details and emphasizing the silicone texture and comfort functionality.\n"
+  },
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "output",
+        "source_path": "cases/84/case.png"
+      }
+    ],
+    "attribution": {
+      "creation_tool": "Sora",
+      "date": "2025-05-24",
+      "image_author": "@jamez-bondos",
+      "image_author_link": "https://github.com/jamez-bondos",
+      "license": "CC-BY-4.0",
+      "notes": "Prompt quoted verbatim; image fully regenerated via Sora.",
+      "prompt_author": "@ZHO_ZHO_ZHO",
+      "prompt_author_link": "https://x.com/ZHO_ZHO_ZHO",
+      "source_links": [
+        {
+          "url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574"
+        }
+      ],
+      "title": "动物硅胶腕托",
+      "title_en": "Animal Silicone Wrist Rest"
+    },
+    "license": "CC-BY-4.0",
+    "license_status": "per-case declaration; third-party prompt rights not independently verified",
+    "revision": "3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596",
+    "rights": {
+      "excluded": "gpt-image-1 official OpenAI copies are outside this batch.",
+      "image": "Per-case ATTRIBUTION names image creator and CC-BY-4.0.",
+      "modifications": "Image bytes and chosen YAML prompt string unchanged. Added classifications and review notes.",
+      "prompt": "Attributed quotation from named original author; repository/per-case license is a declaration, not independent proof of third-party rights."
+    },
+    "source": "jamez-awesome-gpt4o-images",
+    "source_category": "商品与电商",
+    "source_id": "84",
+    "source_metadata": {
+      "case": {
+        "alt_text": "动物硅胶腕托",
+        "alt_text_en": "Animal Silicone Wrist Rest",
+        "author": "@ZHO_ZHO_ZHO",
+        "author_link": "https://x.com/ZHO_ZHO_ZHO",
+        "image": "case.png",
+        "prompt": "创建图片 一个可爱Q版的硅胶护腕托，外形基于【🐼】表情，采用柔软的食品级硅胶材质，表面为亲肤哑光质感，内部填充慢回弹棉，拟人化卡通风格，表情生动，双手张开趴在桌面上，呈现出拥抱手腕的姿势，整体造型圆润软萌，颜色为【🐼】配色，风格治愈可爱，适合办公使用，背景为白色纯色，柔和布光，产品摄影风格，前视角或45度俯视，高清细节，突出硅胶质感与舒适功能\n",
+        "prompt_en": "Create an image of a cute chibi-style silicone wrist rest based on the {🐼} emoji. The wrist rest is made of soft, food-grade silicone with a skin-friendly matte surface. The interior is filled with slow-rebound foam. Designed in a personified cartoon style, the expression is lively, with both arms stretched out as if hugging the user’s wrist while lying on a desk. The overall shape is round, soft, and adorable, featuring the classic {🐼} color scheme. The design is comforting and cute, suitable for office use. The background is a solid white color with soft lighting. Rendered in a product photography style, the angle is either front-facing or at a 45-degree top-down view, showcasing high-definition details and emphasizing the silicone texture and comfort functionality.\n",
+        "prompt_note": "可替换提示词中的【🐼】为其他动物 Emoji。\n",
+        "prompt_note_en": "Replace the {🐼} emoji in the prompt with other animal emojis.\n",
+        "reference_note": "",
+        "reference_note_en": "",
+        "source_links": [
+          {
+            "url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574"
+          }
+        ],
+        "submitter": "",
+        "submitter_link": "",
+        "title": "动物硅胶腕托",
+        "title_en": "Animal Silicone Wrist Rest"
+      },
+      "license_evidence": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/ATTRIBUTION.yml",
+      "model_claim": "Sora",
+      "model_snapshot": null,
+      "prompt_field": "prompt",
+      "prompt_origin": "exact upstream YAML field"
+    },
+    "source_tags": {
+      "scenes": [
+        "Office",
+        "Product"
+      ],
+      "styles": [
+        "Chibi",
+        "Product photography"
+      ]
+    },
+    "source_url": "https://github.com/jamez-bondos/awesome-gpt4o-images/blob/3ed4dbb0f1ae6f7385c81e1fcea48d9eefd2e596/cases/84/case.yml",
+    "title": "动物硅胶腕托",
+    "upstream_url": "https://x.com/ZHO_ZHO_ZHO/status/1918525296577327574"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "动物硅胶腕托",
+  "version": "v1"
+}

@@ -1,8 +1,14 @@
 name: Sync visual library
 on:
   workflow_dispatch:
+    inputs:
+      mode:
+        description: 'check only or sync approved sources'
+        type: choice
+        options: [check, sync]
+        default: check
   schedule:
-    - cron: '23 1 * * *'
+    - cron: '0 2 * * *'
 permissions:
   contents: write
 concurrency:
@@ -19,9 +25,15 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: '3.12'
+      - name: Install archive readers
+        run: python -m pip install -r requirements-sync.txt
       - name: Test library behavior
         run: python -B -m unittest discover -s tests -v
+      - name: Check without publishing
+        if: github.event_name == 'workflow_dispatch' && inputs.mode == 'check'
+        run: python -B scripts/upstreams.py check
       - name: Sync and publish without overwriting concurrent changes
+        if: github.event_name == 'schedule' || inputs.mode == 'sync'
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           PYTHONUTF8: '1'

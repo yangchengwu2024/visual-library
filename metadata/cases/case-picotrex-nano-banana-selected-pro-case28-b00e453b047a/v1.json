@@ -1,0 +1,60 @@
+{
+  "archived_source_manifest": "sources/picotrex-nano-banana-selected/upstream/2558bf0bb825be150c5d1aeab918cd90004882d3/manifest.json",
+  "artists": [],
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "README明确标注并逐图实看",
+      "role": "input"
+    },
+    {
+      "index": 1,
+      "reason": "README明确标注并逐图实看",
+      "role": "output"
+    }
+  ],
+  "attribution": {
+    "collector": "PicoTrex/Awesome-Nano-Banana-images",
+    "creator_as_credited": "@TlanoAI",
+    "creator_url": "https://x.com/TlanoAI",
+    "original_source": "https://x.com/TlanoAI/status/1991725762504724819?s=20"
+  },
+  "evidence": [
+    {
+      "kind": "source_section",
+      "locator": "Nano Banana Pro / 例 28 / images/pro_case28/",
+      "note": "模型仅有来源Nano Banana Pro分节声明，未独立核API日志，故不补写API型号。",
+      "url": "https://github.com/PicoTrex/Awesome-Nano-Banana-images/blob/2558bf0bb825be150c5d1aeab918cd90004882d3/README.md"
+    },
+    {
+      "kind": "original_source",
+      "note": "由README归属链接保存；本轮未独立读取原帖。",
+      "url": "https://x.com/TlanoAI/status/1991725762504724819?s=20"
+    },
+    {
+      "files": [
+        "images/pro_case28/input.jpg",
+        "images/pro_case28/output.jpg"
+      ],
+      "kind": "visual_review",
+      "note": "输入蓝色兽耳角色插画与输出教室黑板粉笔画均已保存并实看；主要姿势、头发、配色相符，加入侧拍透视、讲台和粉笔颗粒。输出文字为日语近义表达，并非逐字中文“虎来了！”，服装细节有重绘；此例验证图文对应及完整性，不作为严格字符保持成功例。",
+      "reviewed_on": "2026-09-09"
+    }
+  ],
+  "materials": [
+    "colored chalk",
+    "blackboard"
+  ],
+  "model_family": "nano-banana",
+  "model_version": "Nano Banana Pro",
+  "movements": [],
+  "original_category": "图像编辑",
+  "record_type": "case",
+  "review_note": "输入蓝色兽耳角色插画与输出教室黑板粉笔画均已保存并实看；主要姿势、头发、配色相符，加入侧拍透视、讲台和粉笔颗粒。输出文字为日语近义表达，并非逐字中文“虎来了！”，服装细节有重绘；此例验证图文对应及完整性，不作为严格字符保持成功例。",
+  "review_status": "verified",
+  "techniques": [
+    "style transfer",
+    "oblique view",
+    "image-to-image"
+  ]
+}
