@@ -77,3 +77,7 @@
 ## 来源
 
 资料主要来自 [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，保留作者与来源信息。使用范围见 [第三方内容说明](THIRD_PARTY.md)。
+
+## Codex MCP入口
+
+已提供自有只读MCP：查案例、读指定版本、查看图片、查分类与模板。[连接与使用说明](docs/mcp.md)。资料仍保存在本仓库。

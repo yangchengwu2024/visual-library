@@ -92,3 +92,7 @@ python -B -m unittest discover -s tests -v
 ## 来源与使用范围
 
 保留 [上游 MIT](../notices/upstream-MIT.txt)、[上游内容声明](../notices/upstream-disclaimer.md) 和每条案例的原始来源。完整存储不代表取得商业使用授权，具体见 [THIRD_PARTY.md](../THIRD_PARTY.md)。本库不将第三方图片和提示词统一宣称为 MIT 商用素材。
+
+## MCP入口
+
+支持通过自有只读MCP调用上述资料能力，见[连接与使用说明](mcp.md)。现有图文、版本、来源同步不因启用MCP改变。
