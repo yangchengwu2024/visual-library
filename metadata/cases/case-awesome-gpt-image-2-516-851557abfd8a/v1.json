@@ -13,12 +13,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "蓝色橡胶管结构鞋袋与鞋子的棚拍图；Object/brand为参数，品牌形状颜色可由文字指定，无固定附图要求。"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "原文的 {Object} 与 [brand] 为可替换参数，original logo design 表示品牌形态约束，没有强制上传某一特定图片；不据此判定缺输入。此图本轮未看。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "已实际看图并阅读全文。蓝色橡胶管结构鞋袋与鞋子的棚拍图；Object/brand为参数，品牌形状颜色可由文字指定，无固定附图要求。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -56,6 +56,31 @@
         "../data/images/case516.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 516,
+      "image_path": "images/ef9120dc2799bed66e3368f2ebd12ea35ab85e66fcb76e0949e4d3802ea3df55.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "原文的 {Object} 与 [brand] 为可替换参数，original logo design 表示品牌形态约束，没有强制上传某一特定图片；不据此判定缺输入。此图本轮未看。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

@@ -150,8 +150,9 @@ class UpstreamTests(unittest.TestCase):
         source = self.source(scope={'kind': 'selected', 'ids': ['2']})
         self.write_registry([source])
         records = [self.record('1'), self.record('2')]
-        with patch.object(upstreams, 'latest', return_value=REVISION), patch.object(upstreams.sync_upstream, 'download_source', return_value=self.base), patch.object(upstreams.sync_upstream, 'prepare', return_value=(records, {})), patch.object(upstreams.sync_upstream, 'archive_documents'):
+        with patch.object(upstreams, 'latest', return_value=REVISION), patch.object(upstreams.sync_upstream, 'download_source', return_value=self.base), patch.object(upstreams.sync_upstream, 'prepare', return_value=(records, {})), patch.object(upstreams.sync_upstream, 'archive_documents') as archive:
             result = upstreams.run(self.root)
+        self.assertFalse(archive.call_args.kwargs['include_templates'])
         self.assertEqual(result['status'], 'OK')
         state = upstreams.read(self.root / 'sources/approved/state.json')
         self.assertEqual(set(state['mappings']), {'2'})

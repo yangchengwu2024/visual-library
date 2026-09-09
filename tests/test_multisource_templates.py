@@ -114,5 +114,19 @@ class MultisourceTests(unittest.TestCase):
         self.assertIn('../sources/b/upstream/r1/templates.md#first', template_page)
 
 
+class FacetAliasTests(unittest.TestCase):
+    def test_topic_aliases_do_not_repeat_the_same_case(self):
+        import gallery
+        entry={'case_id':'case-a','version':'v1','title':'A','model_family':'gpt-image',
+               'record_type':'case','review_status':'verified','materials':['glass','玻璃'],
+               'movements':['Cyberpunk','cyberpunk']}
+        pages=gallery._facet_pages([entry],{'glass':'玻璃','Cyberpunk':'赛博朋克'})
+        topics=pages['docs/topics/index.md']
+        self.assertEqual(topics.count('### 玻璃 · 1'),1)
+        self.assertEqual(topics.count('### 赛博朋克 · 1'),1)
+        self.assertNotIn('### glass',topics)
+        self.assertNotIn('### cyberpunk',topics)
+
+
 if __name__ == '__main__':
     unittest.main()

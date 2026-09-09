@@ -15,12 +15,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "中世纪街道双精灵女性；文案给出场景与服装，脸部遮挡指令未体现在样图，本次只确认图文关联与无输入依赖。"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "已实际看图并阅读全文。中世纪街道双精灵女性；文案给出场景与服装，脸部遮挡指令未体现在样图，本次只确认图文关联与无输入依赖。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -91,6 +91,31 @@
         "../data/images/case394.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 394,
+      "image_path": "images/86ba02fb0f2568a69fc062578db7c5e8dc8a95f53694d66e1e5df072e38a092d.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

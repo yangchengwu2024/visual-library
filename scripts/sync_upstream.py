@@ -114,7 +114,7 @@ def prepare(source_dir):
     return records, payload
 
 
-def archive_documents(root, source_dir, revision):
+def archive_documents(root, source_dir, revision, include_templates=True):
     target = root / 'sources' / SOURCE / 'upstream' / revision
     paths = ['LICENSE', 'docs/disclaimer.md', 'data/cases.json', 'data/style-library.json',
              'docs/gallery-part-1.md', 'docs/gallery-part-2.md', 'docs/templates.md']
@@ -125,6 +125,8 @@ def archive_documents(root, source_dir, revision):
         manifest.append({'path': (target / name).relative_to(root).as_posix(),
                          'source_path': name, 'sha256': hashlib.sha256(data).hexdigest(), 'bytes': len(data)})
     put_json(target / 'manifest.json', {'revision': revision, 'files': manifest})
+    if not include_templates:
+        return
     # Provide a small template index, with source-local full text and all example case IDs.
     taxonomy = json.loads((source_dir / 'data/style-library.json').read_text(encoding='utf-8'))
     templates = []

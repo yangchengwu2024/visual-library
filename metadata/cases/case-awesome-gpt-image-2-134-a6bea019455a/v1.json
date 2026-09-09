@@ -9,12 +9,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "DERMA CALM护肤网页，瓶子与女性主视觉；完整JSON定义布局及人物。"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "已实际看图并阅读全文。DERMA CALM护肤网页，瓶子与女性主视觉；完整JSON定义布局及人物。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -30,6 +30,31 @@
         "../data/images/case134.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 134,
+      "image_path": "images/7d11b36a7be012203be87d9e4af038d65be53d4822c5d2280b362d87a3567f35.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

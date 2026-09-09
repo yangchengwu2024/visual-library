@@ -9,12 +9,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "劳斯莱斯汽车与男孩的金色概念海报；主题为可替换参数，默认帝王排行未应用于此样例，概念模板关系可辨。"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "已实际看图并阅读全文。劳斯莱斯汽车与男孩的金色概念海报；主题为可替换参数，默认帝王排行未应用于此样例，概念模板关系可辨。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -30,6 +30,31 @@
         "../data/images/case90.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 90,
+      "image_path": "images/e30e1497d0e4fcfe7a7638deb765058eeea43af2d17db86d9cc12ef2c771d989.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

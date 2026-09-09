@@ -5,16 +5,16 @@
   "movements": [],
   "materials": [],
   "techniques": [],
-  "record_type": "case",
+  "record_type": "style_reference",
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "小恶魔动漫角色和超任标识的游戏广告；全文是使用数张图片所得效果的转述，未公开完整操作prompt及所用数张图"
     }
   ],
   "review_status": "needs_review",
-  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_note": "小恶魔动漫角色和超任标识的游戏广告；全文是使用数张图片所得效果的转述，未公开完整操作prompt及所用数张图。仅保留风格参考，待补原始提示词及参考图片；不能作为已验证可复用案例。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -30,6 +30,31 @@
         "../data/images/case283.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 283,
+      "image_path": "images/a5149c117a6f2f42b5d0b6d28bef288a8e5ceb21b580fc4ca85b10b684663b77.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

@@ -11,12 +11,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "飞行夹克男性在战机与MISSION START字样的城市街景中；exact face未说明对应何张脸，独立身份输入不明"
     }
   ],
   "review_status": "needs_review",
-  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_note": "飞行夹克男性在战机与MISSION START字样的城市街景中；exact face未说明对应何张脸，独立身份输入不明。保留待复核，需说明exact face对应的是通用可替换人物还是特定已缺原图。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -43,6 +43,31 @@
         "../data/images/case448.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 448,
+      "image_path": "images/b57e910a8507b3c01a72c1c9fe043a6c7e30dfba3aee8f7a76d7215bfdc50bea.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

@@ -19,12 +19,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "香水瓶上悬浮玫瑰树脂等成分的金色广告；中英文完整已读，英文JSON排版有缺分隔但仍能辨文字用途；无需输入图。"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "已实际看图并阅读全文。香水瓶上悬浮玫瑰树脂等成分的金色广告；中英文完整已读，英文JSON排版有缺分隔但仍能辨文字用途；无需输入图。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -139,6 +139,31 @@
         "../data/images/case327.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 327,
+      "image_path": "images/c0fd2c6ca486280a0f4dd9c2b3164cf562794297243530b2363001170ee27bc2.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已复核检索命中上下文：其措辞指向输出布局、一般风格描述或可选资料，不构成指定输入文件要求。此例未逐图审，保留 needs_review；源图与源文已归档。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

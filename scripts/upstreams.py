@@ -165,7 +165,7 @@ def prepare(stage, source, revision, download_dir, selected_ids=None):
             records = [r for r in records if str(r['source_id']) in wanted]
             if {str(r['source_id']) for r in records} != wanted:
                 raise ValueError('Selected source IDs were not all found')
-        sync_upstream.archive_documents(stage, upstream, revision)
+        sync_upstream.archive_documents(stage, upstream, revision, include_templates=not bool(wanted))
         return records
     module = importlib.import_module(ADAPTERS[source['adapter']])
     selection_path = stage / 'sources' / source['id'] / 'selection.json'

@@ -149,7 +149,8 @@ def _summary(entries):
             "。")
 
 
-def _facet_pages(entries):
+def _facet_pages(entries, aliases=None):
+    aliases = {str(key).casefold(): str(value) for key, value in (aliases or {}).items()}
     pages = {}
     for document, title, fields in [
         ("docs/models/index.md", "按模型浏览", [("model_family", "模型")]),
@@ -157,16 +158,25 @@ def _facet_pages(entries):
         lines = _page(title) + ["[返回画廊总览](../gallery.md)", "", "标签用于检索；未标注表示来源或补充标注未提供，并非不适用。", ""]
         for field, label in fields:
             groups = {}
+            display_names = {}
             for entry in entries:
                 values = entry.get(field) or (["unknown"] if field == "model_family" else [])
                 if isinstance(values, str):
                     values = [values]
+                seen = set()
                 for value in sorted(set(values)):
-                    groups.setdefault(value, []).append(entry)
+                    normalized = aliases.get(str(value).casefold(), str(value))
+                    key = normalized.casefold()
+                    if key in seen:
+                        continue
+                    seen.add(key)
+                    display_names.setdefault(key, normalized)
+                    groups.setdefault(key, []).append(entry)
             lines += ["## " + label, ""]
             if not groups:
                 lines += ["暂无已标注条目。", ""]
-            for value, selected in sorted(groups.items()):
+            for key, selected in sorted(groups.items()):
+                value = display_names[key]
                 lines += ["### " + _text("尚未标注" if value == "unknown" else value) + " · " + str(len(selected)), ""]
                 lines += [_case_link(entry, document) + " — " + _text(_record_label(entry)) + "；" + _text(_review_label(entry)) for entry in selected]
                 lines.append("")
@@ -368,7 +378,7 @@ def build_gallery(root, catalog):
     specs = _category_specs(root, entries)
     contents = _contents(root, entries)
     style = _read(root / "metadata" / "gallery-style.json", {})
-    pages = _facet_pages(entries)
+    pages = _facet_pages(entries, _read(root / 'metadata/taxonomy.json', {}).get('aliases', {}))
     for spec in specs:
         document = "docs/categories/" + spec["slug"] + ".md"
         selected = [entry for entry in entries if (set(entry.get("categories", [])) & spec["names"] if spec["names"] else not entry.get("categories"))]

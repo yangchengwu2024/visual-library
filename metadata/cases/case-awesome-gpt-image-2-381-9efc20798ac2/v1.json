@@ -15,12 +15,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "mixed",
+      "reason": "公寓正反机位、六个道具细节及右上SOURCE REF输入缩略图；板内同时显示结果和标注的参考输入"
     }
   ],
   "review_status": "needs_review",
-  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_note": "已放大查看公寓正反机位及道具参考板，右上明确标SOURCE REF/REF INPUT并含缩略图。完整prompt将original photo列为输出板内缩略区，现有资产已含该缩略展示，但无法仅据此确认其真实输入来源及独立原文件关系；保留混合展示角色和待核对状态，不武断称缺图。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -91,6 +91,31 @@
         "../data/images/case381.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 381,
+      "image_path": "images/785c9dd11aa4a5eb8a092a223ad18eaf87ccaf035be83ec919cb81a29f315707.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }

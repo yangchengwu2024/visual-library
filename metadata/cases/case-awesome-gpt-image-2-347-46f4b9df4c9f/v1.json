@@ -9,12 +9,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "原图为灰度女性16格动作示意，含箭头编号；prompt明确CHARACTER=image1，现有资产只有完成动作表，没有该独立角色输入，不能将格内人物裁切视为已提供image1。"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "已复核为可替换输入模板。复用时需自备：角色参考图（image1）；本库未保存原示例的独立输入，不能承诺原样复现示例身份。主会话已复读完整原文，图文要求中没有必须另取某个独有风格/前序作品才能理解的缺口。初审观察：已实际看图并阅读全文。原图为灰度女性16格动作示意，含箭头编号；prompt明确CHARACTER=image1，现有资产只有完成动作表，没有该独立角色输入，不能将格内人物裁切视为已提供image1。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -30,6 +30,35 @@
         "../data/images/case347.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 347,
+      "image_path": "images/4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
     }
-  ]
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "已机械读取完整 prompt 与资产路径、哈希并比对本地上游画廊；未检出需补特定原图的明确证据。未全量逐图审，模型家族仅据来源集合声明，实际版本未知。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
+    }
+  ],
+  "required_user_inputs": [
+    "角色参考图（image1）"
+  ],
+  "review_resolution": "Generic user-supplied input slot, distinguished from missing specific prior source material."
 }

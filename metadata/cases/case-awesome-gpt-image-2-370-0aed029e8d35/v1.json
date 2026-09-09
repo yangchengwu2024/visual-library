@@ -14,12 +14,12 @@
   "asset_roles": [
     {
       "index": 0,
-      "role": "unknown",
-      "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+      "role": "output",
+      "reason": "褶皱纸团到椅子形态、工程视图及成品的概念研发板；image of crumpled paper描述观察对象，未指定上传来源"
     }
   ],
-  "review_status": "needs_review",
-  "review_note": "原文讲述揉纸形态到椅子的概念设计过程，允许数字揉纸和形态模拟；没有唯一指定照片或文件，因此不判特定输入缺失。此图本轮未看，保持 needs_review。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+  "review_status": "verified",
+  "review_note": "褶皱纸团到椅子形态、工程视图及成品的概念研发板；image of crumpled paper描述观察对象，未指定上传来源。已阅读全文并查看样图，图片为结果示例；未发现必须补充某一指定输入图片。",
   "evidence": [
     {
       "kind": "collection_attribution",
@@ -79,6 +79,31 @@
         "../data/images/case370.jpg"
       ],
       "additional_asset_paths": []
+    },
+    {
+      "kind": "full-image-and-prompt-review",
+      "date": "2026-09-09",
+      "source_id": 370,
+      "image_path": "images/7f2777310baa28dc5b9c712f1a55bcbf4d4ef4f3722b5a875353e8443a8fb24e.jpg",
+      "prompt_read_in_full": true,
+      "image_visually_inspected": true,
+      "scope": "Archive pairing and input requirements; no generation reproduction or pixel-level compliance claim."
+    }
+  ],
+  "review_history": [
+    {
+      "stage": "initial_input_review",
+      "result": {
+        "review_status": "needs_review",
+        "review_note": "原文讲述揉纸形态到椅子的概念设计过程，允许数字揉纸和形态模拟；没有唯一指定照片或文件，因此不判特定输入缺失。此图本轮未看，保持 needs_review。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
+        "asset_roles": [
+          {
+            "index": 0,
+            "role": "unknown",
+            "reason": "原始记录标 source_example；本轮未看此图，不能自动将其升级为已验证 output。"
+          }
+        ]
+      }
     }
   ]
 }
