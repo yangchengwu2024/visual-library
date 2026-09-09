@@ -6,56 +6,96 @@
 
 共 53 个案例。点击标题查看本库图片与完整提示词。
 
-- [科普百科图 · v1](../../cases/case-awesome-gpt-image-2-8-0b55aa3880f9/v1.md) — awesome-gpt-image-2 \#8
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-14-ebb8a362c89d/v1.md) — awesome-gpt-image-2 \#14
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-19-387d600b3b30/v1.md) — awesome-gpt-image-2 \#19
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-23-8ed19f97107c/v1.md) — awesome-gpt-image-2 \#23
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-51-29458e54b435/v1.md) — awesome-gpt-image-2 \#51
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-55-a75485bc777e/v1.md) — awesome-gpt-image-2 \#55
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-64-0baa3dbe05d3/v1.md) — awesome-gpt-image-2 \#64
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-65-0e4408c2a9a1/v1.md) — awesome-gpt-image-2 \#65
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-66-9699a72c928a/v1.md) — awesome-gpt-image-2 \#66
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-67-52636da486ac/v1.md) — awesome-gpt-image-2 \#67
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-68-b1aa1855f678/v1.md) — awesome-gpt-image-2 \#68
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-69-6a441531daae/v1.md) — awesome-gpt-image-2 \#69
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-70-8b3486a49f72/v1.md) — awesome-gpt-image-2 \#70
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-71-86d8bd1d30b3/v1.md) — awesome-gpt-image-2 \#71
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-72-334f00970b70/v1.md) — awesome-gpt-image-2 \#72
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-73-ef99500f1bba/v1.md) — awesome-gpt-image-2 \#73
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-74-20d84381367d/v1.md) — awesome-gpt-image-2 \#74
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-75-b2d74046b70b/v1.md) — awesome-gpt-image-2 \#75
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-76-04b24585840e/v1.md) — awesome-gpt-image-2 \#76
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-77-bfbf696d915e/v1.md) — awesome-gpt-image-2 \#77
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-84-f3ec2f4dec45/v1.md) — awesome-gpt-image-2 \#84
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-85-0bc44e4d47ad/v1.md) — awesome-gpt-image-2 \#85
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-86-a1ea9255c18c/v1.md) — awesome-gpt-image-2 \#86
-- [关系图谱信息图 · v1](../../cases/case-awesome-gpt-image-2-87-29f05e84359c/v1.md) — awesome-gpt-image-2 \#87
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-89-8152bdb80d3c/v1.md) — awesome-gpt-image-2 \#89
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-102-449f1cbdc43a/v1.md) — awesome-gpt-image-2 \#102
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-171-364397d8222a/v1.md) — awesome-gpt-image-2 \#171
-- [蒸汽朋克射手座解剖图谱 · v1](../../cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.md) — awesome-gpt-image-2 \#179
-- [一张中文健身信息图 · v1](../../cases/case-awesome-gpt-image-2-183-3f11cfcd77c6/v1.md) — awesome-gpt-image-2 \#183
-- [萌系大模型训练图解 · v1](../../cases/case-awesome-gpt-image-2-210-51beb47a95f4/v1.md) — awesome-gpt-image-2 \#210
-- [绘制金瓶梅知识图谱 · v1](../../cases/case-awesome-gpt-image-2-214-9ec6da41bda7/v1.md) — awesome-gpt-image-2 \#214
-- [绘制科学百科知识图谱 · v1](../../cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.md) — awesome-gpt-image-2 \#218
-- [精致模块化科普百科图鉴 · v1](../../cases/case-awesome-gpt-image-2-222-89f8104f5b3b/v1.md) — awesome-gpt-image-2 \#222
-- [景德镇青花瓷全景解说图谱 · v1](../../cases/case-awesome-gpt-image-2-248-b4a586279cce/v1.md) — awesome-gpt-image-2 \#248
-- [博物馆级中文拆解信息图鉴 · v1](../../cases/case-awesome-gpt-image-2-296-83745943c266/v1.md) — awesome-gpt-image-2 \#296
-- [AI 眼镜爆炸拆解图 · v1](../../cases/case-awesome-gpt-image-2-333-b0b7bba964c9/v1.md) — awesome-gpt-image-2 \#333
-- [RAG 技术详解图 · v1](../../cases/case-awesome-gpt-image-2-334-80fee1aa2b68/v1.md) — awesome-gpt-image-2 \#334
-- [AP Calculus 学习表信息图 · v1](../../cases/case-awesome-gpt-image-2-341-8e466c6a5a6d/v1.md) — awesome-gpt-image-2 \#341
-- [品牌口红推荐报告信息图 · v1](../../cases/case-awesome-gpt-image-2-353-09a2cb79346c/v1.md) — awesome-gpt-image-2 \#353
-- [长发造型分析信息图 · v1](../../cases/case-awesome-gpt-image-2-360-4f5008305cf9/v1.md) — awesome-gpt-image-2 \#360
-- [手机爆炸拆解图 · v1](../../cases/case-awesome-gpt-image-2-361-6b11420cf33f/v1.md) — awesome-gpt-image-2 \#361
-- [奢华个人色彩档案信息图 · v1](../../cases/case-awesome-gpt-image-2-364-f9a78e5d9ee7/v1.md) — awesome-gpt-image-2 \#364
-- [古希腊三哲时间轴城市图 · v1](../../cases/case-awesome-gpt-image-2-375-55c282238a03/v1.md) — awesome-gpt-image-2 \#375
-- [冠状病毒尺度缩放科学信息图 · v1](../../cases/case-awesome-gpt-image-2-380-bc60d48bab2e/v1.md) — awesome-gpt-image-2 \#380
-- [Neuro-AI 混合系统信息图 · v1](../../cases/case-awesome-gpt-image-2-407-c3462fa14d36/v1.md) — awesome-gpt-image-2 \#407
-- [塔可爆炸拆解信息图 · v1](../../cases/case-awesome-gpt-image-2-443-f99b5b8a89bb/v1.md) — awesome-gpt-image-2 \#443
-- [现代地铁工程信息图 · v1](../../cases/case-awesome-gpt-image-2-447-33189cbb5d51/v1.md) — awesome-gpt-image-2 \#447
-- [历史事件 2x2 可视化地图 · v1](../../cases/case-awesome-gpt-image-2-456-6f4c80d26f50/v1.md) — awesome-gpt-image-2 \#456
-- [运动轨迹舞者光绘海报 · v1](../../cases/case-awesome-gpt-image-2-457-86e51ca84476/v1.md) — awesome-gpt-image-2 \#457
-- [黑色吊带袜单款图鉴展示 · v1](../../cases/case-awesome-gpt-image-2-463-fb5c5c2c7d44/v1.md) — awesome-gpt-image-2 \#463
-- [导览式科普绘本 · v1](../../cases/case-awesome-gpt-image-2-469-c0b88d3aca4f/v1.md) — awesome-gpt-image-2 \#469
-- [电动巴士工程信息图 · v1](../../cases/case-awesome-gpt-image-2-494-0b95890e6bcf/v1.md) — awesome-gpt-image-2 \#494
-- [幼儿词汇拆解学习卡 · v1](../../cases/case-awesome-gpt-image-2-544-17752a2360f7/v1.md) — awesome-gpt-image-2 \#544
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-8-0b55aa3880f9/v1.md"><img src="../../images/28fe9c2947cecaa7bea0798637ccf7c443cbd6f02414918ecea0f32c293d0b5e.jpg" alt="科普百科图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-8-0b55aa3880f9/v1.md"><strong>科普百科图 · v1</strong></a><br><sub>awesome-gpt-image-2 #8</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-14-ebb8a362c89d/v1.md"><img src="../../images/46ff3923a99f405ab87f2d00e05e64d129c3f64879c0b25da9ee490088143075.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-14-ebb8a362c89d/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #14</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-19-387d600b3b30/v1.md"><img src="../../images/ae055aecfc7cc0b25ccf5d0d1ac06dacfd98b67f560c079edc2cedcd103a0de5.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-19-387d600b3b30/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #19</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-23-8ed19f97107c/v1.md"><img src="../../images/b5d39f7c4ecb3f14e5dc65bbf19299a85e62b3a62ffc408a1691b5e238263e05.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-23-8ed19f97107c/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #23</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-51-29458e54b435/v1.md"><img src="../../images/5bc3fce7ab2e021ab87ff089a03343e70bead7241b33b851b6768706010ae374.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-51-29458e54b435/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #51</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-55-a75485bc777e/v1.md"><img src="../../images/8ccac29014109cbef4598985150f52908a5dbd0cdf443966a94c467e6b26a269.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-55-a75485bc777e/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #55</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-64-0baa3dbe05d3/v1.md"><img src="../../images/7ef7932878316a47e7ecf5332ebb3beaa96f30edfb2c3d39b816ed32949a2d39.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-64-0baa3dbe05d3/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #64</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-65-0e4408c2a9a1/v1.md"><img src="../../images/f52af8c034e44fac9440e1368b2e77b4b78ce87e9a7c95e4e5969dcc56e3d653.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-65-0e4408c2a9a1/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #65</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-66-9699a72c928a/v1.md"><img src="../../images/585c2e72b541042778b2e5a73cb622f70176f1e16bd6158eb37105fda3cf73c5.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-66-9699a72c928a/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #66</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-67-52636da486ac/v1.md"><img src="../../images/dcdaddb09ecc2d5ba9de8e5f355e979a71f199987f8953e242db05a663b9e554.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-67-52636da486ac/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #67</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-68-b1aa1855f678/v1.md"><img src="../../images/01740253361bf7beb66f4277b1b59bd1e0d630a3c15f468bdfb5283eecd93798.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-68-b1aa1855f678/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #68</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-69-6a441531daae/v1.md"><img src="../../images/333c45b9da86fae6685637b98bc8377f16adcf97ada94535f186fc8645243942.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-69-6a441531daae/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #69</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-70-8b3486a49f72/v1.md"><img src="../../images/d0e47196f79af0cab2d9c96c9495b87788d39285582a383ac7a9861c7c053d37.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-70-8b3486a49f72/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #70</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-71-86d8bd1d30b3/v1.md"><img src="../../images/258b0b0d09a7235cff65effe20dd30eb938fae618076e20472ec57ce8d0e0c21.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-71-86d8bd1d30b3/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #71</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-72-334f00970b70/v1.md"><img src="../../images/c700c6e36f9c7a379d92ebd4655bd3581ab80c7d2f2cff07ed93912a4401e705.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-72-334f00970b70/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #72</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-73-ef99500f1bba/v1.md"><img src="../../images/a9fbef77478680ca3997fa0e80c96c792a4e1162bef89f74e581ed6565922a56.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-73-ef99500f1bba/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #73</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-74-20d84381367d/v1.md"><img src="../../images/43c4f0a649596d0f82ba88b50073119d382c1537e363c34d7f1e4c84049ec3b9.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-74-20d84381367d/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #74</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-75-b2d74046b70b/v1.md"><img src="../../images/636f7dd2a4992c0b04764afddebf5f4cd435abde67ec84b0ffd619b12256c8cc.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-75-b2d74046b70b/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #75</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-76-04b24585840e/v1.md"><img src="../../images/a486424a97f4bdf25082e3ea5b811d13e26ae9bdbfeefde3d1072e5a13ca322a.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-76-04b24585840e/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #76</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-77-bfbf696d915e/v1.md"><img src="../../images/20aa9533a94031e2f5cce83bad6928ae7ec01058f42636cffbc100d5897abe16.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-77-bfbf696d915e/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #77</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-84-f3ec2f4dec45/v1.md"><img src="../../images/95f134925463e83ac3554df6a992e704f67185ba9de85b6d70e4c86c7bc9b902.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-84-f3ec2f4dec45/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #84</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-85-0bc44e4d47ad/v1.md"><img src="../../images/5047f244eceb1feb8f8330d64834970bb44aefee23e0bc38e1ba5a2166676271.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-85-0bc44e4d47ad/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #85</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-86-a1ea9255c18c/v1.md"><img src="../../images/4a5db344e6b8c25a614acea1dac95d44264de3a18bc581da73c8734da2ce1ac8.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-86-a1ea9255c18c/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #86</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-87-29f05e84359c/v1.md"><img src="../../images/4ffdf7dfb53681961c0c801070e3298189688d8e3f17a91b33a4b06d59e32ddd.jpg" alt="关系图谱信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-87-29f05e84359c/v1.md"><strong>关系图谱信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #87</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-89-8152bdb80d3c/v1.md"><img src="../../images/8c0bc5af8b5daf8723d6eeb7951f6c8a106c12e10939cf92ae24772da259b4fb.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-89-8152bdb80d3c/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #89</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-102-449f1cbdc43a/v1.md"><img src="../../images/088c3381e5cef027015451cc08e60b7fbc8802c40ec535bfbc0e0692086634a1.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-102-449f1cbdc43a/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #102</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-171-364397d8222a/v1.md"><img src="../../images/bfae9ec18587b5b70faaf201275648f253d9b3873cac63ffa047e85b173944af.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-171-364397d8222a/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #171</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.md"><img src="../../images/702b1dfe1a029106c7c0605874a5cef45daeb52f8c01fcf9124b25087468c653.jpg" alt="蒸汽朋克射手座解剖图谱" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.md"><strong>蒸汽朋克射手座解剖图谱 · v1</strong></a><br><sub>awesome-gpt-image-2 #179</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-183-3f11cfcd77c6/v1.md"><img src="../../images/8e53d7f91b44cad49a2ab136f59acc4b49d744e2c911c7a00ce9db62f96219c7.jpg" alt="一张中文健身信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-183-3f11cfcd77c6/v1.md"><strong>一张中文健身信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #183</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-210-51beb47a95f4/v1.md"><img src="../../images/7e764e544091ead3df77e2ece536b613062c81bd71402c5b99163d518a5ab3ad.jpg" alt="萌系大模型训练图解" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-210-51beb47a95f4/v1.md"><strong>萌系大模型训练图解 · v1</strong></a><br><sub>awesome-gpt-image-2 #210</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-214-9ec6da41bda7/v1.md"><img src="../../images/122dafe424ab3d5bc994f831d9c6b80ee2e52ea344bf9d643db0efc6fbcd4354.jpg" alt="绘制金瓶梅知识图谱" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-214-9ec6da41bda7/v1.md"><strong>绘制金瓶梅知识图谱 · v1</strong></a><br><sub>awesome-gpt-image-2 #214</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.md"><img src="../../images/b185a16f4bcff6a7332609c4b2a522a709b8a8548d80d57c8cec85e6dea8a890.jpg" alt="绘制科学百科知识图谱" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-218-afe394d9eea6/v1.md"><strong>绘制科学百科知识图谱 · v1</strong></a><br><sub>awesome-gpt-image-2 #218</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-222-89f8104f5b3b/v1.md"><img src="../../images/94759b2e0ef6e05f9329e98ea36443cd9993de1727bee190dd12ff653a574fea.jpg" alt="精致模块化科普百科图鉴" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-222-89f8104f5b3b/v1.md"><strong>精致模块化科普百科图鉴 · v1</strong></a><br><sub>awesome-gpt-image-2 #222</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-248-b4a586279cce/v1.md"><img src="../../images/3b967342a6d7bd7747983f6e1d5b2cdfba4a56df1cebc553b776de2f49b5586e.jpg" alt="景德镇青花瓷全景解说图谱" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-248-b4a586279cce/v1.md"><strong>景德镇青花瓷全景解说图谱 · v1</strong></a><br><sub>awesome-gpt-image-2 #248</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-296-83745943c266/v1.md"><img src="../../images/044a4acffc3c172401fb3d44333ca13926f79473b31f03cea745bd9dd6f3760e.jpg" alt="博物馆级中文拆解信息图鉴" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-296-83745943c266/v1.md"><strong>博物馆级中文拆解信息图鉴 · v1</strong></a><br><sub>awesome-gpt-image-2 #296</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-333-b0b7bba964c9/v1.md"><img src="../../images/0427bad3742cc29d34d4d863cc486ec874c2b20fe627afbd52d8bc9e717201c3.png" alt="AI 眼镜爆炸拆解图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-333-b0b7bba964c9/v1.md"><strong>AI 眼镜爆炸拆解图 · v1</strong></a><br><sub>awesome-gpt-image-2 #333</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-334-80fee1aa2b68/v1.md"><img src="../../images/8f2f6183902e2af7cc3f69bd310f37af15e21d521b790aeff5225daa7b752b5f.png" alt="RAG 技术详解图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-334-80fee1aa2b68/v1.md"><strong>RAG 技术详解图 · v1</strong></a><br><sub>awesome-gpt-image-2 #334</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-341-8e466c6a5a6d/v1.md"><img src="../../images/a8e0c2d57a2c4cdd0dbbab23a7914016c219bd706ebdb430b837b506afba2c3d.jpg" alt="AP Calculus 学习表信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-341-8e466c6a5a6d/v1.md"><strong>AP Calculus 学习表信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #341</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-353-09a2cb79346c/v1.md"><img src="../../images/7a02c35d093976d4d5ef26290f6023c7c60278f3987199d5dad21f2a2ee754ea.jpg" alt="品牌口红推荐报告信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-353-09a2cb79346c/v1.md"><strong>品牌口红推荐报告信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #353</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-360-4f5008305cf9/v1.md"><img src="../../images/c91915f50664ba3ca11961f90b0ea81f08accf09b321dfe4499e9814eace1063.jpg" alt="长发造型分析信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-360-4f5008305cf9/v1.md"><strong>长发造型分析信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #360</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-361-6b11420cf33f/v1.md"><img src="../../images/039834badf59050ce4ea43df3feabe3772c8dcf1b8bf84b9f37c04b390527f3a.jpg" alt="手机爆炸拆解图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-361-6b11420cf33f/v1.md"><strong>手机爆炸拆解图 · v1</strong></a><br><sub>awesome-gpt-image-2 #361</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-364-f9a78e5d9ee7/v1.md"><img src="../../images/2cb36e67b0c52cbd172d635e8e6cf8ae5748edf43a559c6176b20dae69f29912.jpg" alt="奢华个人色彩档案信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-364-f9a78e5d9ee7/v1.md"><strong>奢华个人色彩档案信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #364</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-375-55c282238a03/v1.md"><img src="../../images/1f5d4eccd0a56ccdda65299185a702d2588aab7e88e1664c41deebe7c4552de5.jpg" alt="古希腊三哲时间轴城市图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-375-55c282238a03/v1.md"><strong>古希腊三哲时间轴城市图 · v1</strong></a><br><sub>awesome-gpt-image-2 #375</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-380-bc60d48bab2e/v1.md"><img src="../../images/291d0e7337558500d959f02f0e169a5011db31b43dc74ea39c61992bab5f40cf.jpg" alt="冠状病毒尺度缩放科学信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-380-bc60d48bab2e/v1.md"><strong>冠状病毒尺度缩放科学信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #380</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-407-c3462fa14d36/v1.md"><img src="../../images/22d5c7f414a40d6175ebdcdaef2a4082cbd57eaf66605a2b25a4d2d92c794d6e.jpg" alt="Neuro-AI 混合系统信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-407-c3462fa14d36/v1.md"><strong>Neuro-AI 混合系统信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #407</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-443-f99b5b8a89bb/v1.md"><img src="../../images/ac5352395e25f0dc342928357d8a88c2f4f524e9d56263804233a213805984a3.jpg" alt="塔可爆炸拆解信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-443-f99b5b8a89bb/v1.md"><strong>塔可爆炸拆解信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #443</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-447-33189cbb5d51/v1.md"><img src="../../images/cd9aefc9d37e514392196209fb48e25010795481e4be3e26ca56b1ee3efdcaba.jpg" alt="现代地铁工程信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-447-33189cbb5d51/v1.md"><strong>现代地铁工程信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #447</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-456-6f4c80d26f50/v1.md"><img src="../../images/0f9b0c47fc5941152eeb29a4a1e4748a6a55fd26f927955b04b26466740488ba.jpg" alt="历史事件 2x2 可视化地图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-456-6f4c80d26f50/v1.md"><strong>历史事件 2x2 可视化地图 · v1</strong></a><br><sub>awesome-gpt-image-2 #456</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-457-86e51ca84476/v1.md"><img src="../../images/a30ec6794d54736e0a20c7c816f457a7ccf81f1b97fc64e011e61d4e8b015d3a.jpg" alt="运动轨迹舞者光绘海报" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-457-86e51ca84476/v1.md"><strong>运动轨迹舞者光绘海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #457</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-463-fb5c5c2c7d44/v1.md"><img src="../../images/bd1decd6e8e2c9487894f981f8c2d4162f5679d8b92595658c872e50f9aa756c.jpg" alt="黑色吊带袜单款图鉴展示" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-463-fb5c5c2c7d44/v1.md"><strong>黑色吊带袜单款图鉴展示 · v1</strong></a><br><sub>awesome-gpt-image-2 #463</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-469-c0b88d3aca4f/v1.md"><img src="../../images/0d63ea96b6f5be08ae0c9ff8040eeb90597d116bebf9958680b5171ed6c7b12d.jpg" alt="导览式科普绘本" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-469-c0b88d3aca4f/v1.md"><strong>导览式科普绘本 · v1</strong></a><br><sub>awesome-gpt-image-2 #469</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-494-0b95890e6bcf/v1.md"><img src="../../images/6a09781954d8031352db523b449120bf1f36958977dc539db933b6da6035ef24.jpg" alt="电动巴士工程信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-494-0b95890e6bcf/v1.md"><strong>电动巴士工程信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #494</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-544-17752a2360f7/v1.md"><img src="../../images/b05ee7b4a8dc5e374154621dcac07b7cabcab369fb284e3938a5bfea700af4e8.jpg" alt="幼儿词汇拆解学习卡" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-544-17752a2360f7/v1.md"><strong>幼儿词汇拆解学习卡 · v1</strong></a><br><sub>awesome-gpt-image-2 #544</sub></td>
+<td width="33%" align="center" valign="top"></td>
+</tr>
+</table>
+

@@ -46,7 +46,7 @@ def publish(repository, attempts=3):
                 return
             command(['git', 'config', 'user.name', 'github-actions[bot]'], checkout, env)
             command(['git', 'config', 'user.email', '41898282+github-actions[bot]@users.noreply.github.com'], checkout, env)
-            command(['git', 'add', '--', 'cases', 'images', 'indexes', 'sources', 'docs'], checkout, env)
+            command(['git', 'add', '--', 'cases', 'images', 'indexes', 'sources', 'docs', 'README.md'], checkout, env)
             command(['git', 'commit', '-m', 'Sync visual reference archive'], checkout, env)
             pushed = command(['git', 'push', 'origin', 'HEAD:refs/heads/main'], checkout, env, check=False)
             if pushed.returncode == 0:

@@ -6,14 +6,26 @@
 
 共 11 个案例。点击标题查看本库图片与完整提示词。
 
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-13-78851c378287/v1.md) — awesome-gpt-image-2 \#13
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-119-5afbbe8eabc0/v1.md) — awesome-gpt-image-2 \#119
-- [手写中西药方图片 · v1](../../cases/case-awesome-gpt-image-2-168-3a476bfa77a3/v1.md) — awesome-gpt-image-2 \#168
-- [三甲医院真实门诊处方笺 · v1](../../cases/case-awesome-gpt-image-2-201-a3212876b98d/v1.md) — awesome-gpt-image-2 \#201
-- [大师级真迹复刻 · v1](../../cases/case-awesome-gpt-image-2-225-d2034ec09bf0/v1.md) — awesome-gpt-image-2 \#225
-- [兰亭集序书法帖意境图 · v1](../../cases/case-awesome-gpt-image-2-232-9f91c396eccf/v1.md) — awesome-gpt-image-2 \#232
-- [桌面上的黑色圆珠笔手写笔记 · v1](../../cases/case-awesome-gpt-image-2-266-21d5f82dee3f/v1.md) — awesome-gpt-image-2 \#266
-- [聚焦人工智能的校园日报 · v1](../../cases/case-awesome-gpt-image-2-293-42974e547f53/v1.md) — awesome-gpt-image-2 \#293
-- [人教版三年级语文课本内页 · v1](../../cases/case-awesome-gpt-image-2-303-6ea933a694a0/v1.md) — awesome-gpt-image-2 \#303
-- [企业级商用画册视觉系统 · v1](../../cases/case-awesome-gpt-image-2-453-2c653f777c55/v1.md) — awesome-gpt-image-2 \#453
-- [50/50 混合媒介回忆卡 · v1](../../cases/case-awesome-gpt-image-2-541-e488bf2c9548/v1.md) — awesome-gpt-image-2 \#541
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-13-78851c378287/v1.md"><img src="../../images/b37abba16f256a98a9d18dd64dda5c9960b763b78d8e516354dff4a8703b227f.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-13-78851c378287/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #13</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-119-5afbbe8eabc0/v1.md"><img src="../../images/8f5f1129aa15e1e877f5a32c36b15d4d20c502ee33a37f8f6e5345edccfe1b03.jpg" alt="主题海报版式设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-119-5afbbe8eabc0/v1.md"><strong>主题海报版式设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #119</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-168-3a476bfa77a3/v1.md"><img src="../../images/61c5870953563a42ab9baeccd54f9c23968fdefab12afc8d86976e5ce4a0ed3c.jpg" alt="手写中西药方图片" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-168-3a476bfa77a3/v1.md"><strong>手写中西药方图片 · v1</strong></a><br><sub>awesome-gpt-image-2 #168</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-201-a3212876b98d/v1.md"><img src="../../images/2d075243d660416c0b45dae18c9a00eaa546dea0d0300689f0c79e2922cd9a58.jpg" alt="三甲医院真实门诊处方笺" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-201-a3212876b98d/v1.md"><strong>三甲医院真实门诊处方笺 · v1</strong></a><br><sub>awesome-gpt-image-2 #201</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-225-d2034ec09bf0/v1.md"><img src="../../images/66125a68271db4e4d09fb123977e0e7ee62e8b558e472a38afce58cba9a83d71.jpg" alt="大师级真迹复刻" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-225-d2034ec09bf0/v1.md"><strong>大师级真迹复刻 · v1</strong></a><br><sub>awesome-gpt-image-2 #225</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-232-9f91c396eccf/v1.md"><img src="../../images/76b0700e43c2ef29d78cc7d4fd179f6d6718ded7a7c1b6bb0dc4fdeec838ee0c.jpg" alt="兰亭集序书法帖意境图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-232-9f91c396eccf/v1.md"><strong>兰亭集序书法帖意境图 · v1</strong></a><br><sub>awesome-gpt-image-2 #232</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-266-21d5f82dee3f/v1.md"><img src="../../images/db8129aee5895ca0cdc891cfe728de2a74d5551e4742322c44acc344d2658e63.jpg" alt="桌面上的黑色圆珠笔手写笔记" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-266-21d5f82dee3f/v1.md"><strong>桌面上的黑色圆珠笔手写笔记 · v1</strong></a><br><sub>awesome-gpt-image-2 #266</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-293-42974e547f53/v1.md"><img src="../../images/bdc3a16fee876bc8e00d1071342d2fa9e9e09bd39f6751f7595ac1d586cbb187.jpg" alt="聚焦人工智能的校园日报" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-293-42974e547f53/v1.md"><strong>聚焦人工智能的校园日报 · v1</strong></a><br><sub>awesome-gpt-image-2 #293</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-303-6ea933a694a0/v1.md"><img src="../../images/a7f1647abfac9d164c7c312a88c4bd836af0e3aadc7da21a6a20fe75e745dc50.jpg" alt="人教版三年级语文课本内页" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-303-6ea933a694a0/v1.md"><strong>人教版三年级语文课本内页 · v1</strong></a><br><sub>awesome-gpt-image-2 #303</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-453-2c653f777c55/v1.md"><img src="../../images/e0bfb87118cfb50004940dd5b84b242705b785650ad3568f182ebf5808574036.jpg" alt="企业级商用画册视觉系统" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-453-2c653f777c55/v1.md"><strong>企业级商用画册视觉系统 · v1</strong></a><br><sub>awesome-gpt-image-2 #453</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-541-e488bf2c9548/v1.md"><img src="../../images/829125af0ed13c593a04678947d797509b30fcc5e933e7b47ed512df72dbb3eb.jpg" alt="50/50 混合媒介回忆卡" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-541-e488bf2c9548/v1.md"><strong>50/50 混合媒介回忆卡 · v1</strong></a><br><sub>awesome-gpt-image-2 #541</sub></td>
+<td width="33%" align="center" valign="top"></td>
+</tr>
+</table>
+

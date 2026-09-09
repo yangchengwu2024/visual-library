@@ -4,105 +4,649 @@
 
 [画廊总览](gallery.md) | [上一册](gallery-part-1.md) | [下一册](gallery-part-3.md)
 
-本册 100 个案例。标题链接固定到所示版本。
+本册 25 个案例。标题链接固定到所示版本。
 
-- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-102-449f1cbdc43a/v1.md) — awesome-gpt-image-2 \#102
-- [视频封面界面图 · v1](../cases/case-awesome-gpt-image-2-103-0806f93beae5/v1.md) — awesome-gpt-image-2 \#103
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-104-cdc840961db8/v1.md) — awesome-gpt-image-2 \#104
-- [动漫插画创作图 · v1](../cases/case-awesome-gpt-image-2-105-9a3df0babb8c/v1.md) — awesome-gpt-image-2 \#105
-- [应用界面样机图 · v1](../cases/case-awesome-gpt-image-2-106-8d6bab842e03/v1.md) — awesome-gpt-image-2 \#106
-- [应用界面样机图 · v1](../cases/case-awesome-gpt-image-2-107-892980c107b7/v1.md) — awesome-gpt-image-2 \#107
-- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-108-3733f1e88135/v1.md) — awesome-gpt-image-2 \#108
-- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-109-4c2ad20864f2/v1.md) — awesome-gpt-image-2 \#109
-- [视频封面界面图 · v1](../cases/case-awesome-gpt-image-2-110-670b3a1fb97c/v1.md) — awesome-gpt-image-2 \#110
-- [视频封面界面图 · v1](../cases/case-awesome-gpt-image-2-111-8daa036e6a0a/v1.md) — awesome-gpt-image-2 \#111
-- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-112-f1e2fd4c65e9/v1.md) — awesome-gpt-image-2 \#112
-- [动漫插画创作图 · v1](../cases/case-awesome-gpt-image-2-113-6f9229fcecfe/v1.md) — awesome-gpt-image-2 \#113
-- [插画艺术创作图 · v1](../cases/case-awesome-gpt-image-2-114-fc7182d3f46d/v1.md) — awesome-gpt-image-2 \#114
-- [品牌视觉识别图 · v1](../cases/case-awesome-gpt-image-2-115-44e8eff1d8d4/v1.md) — awesome-gpt-image-2 \#115
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-116-f749fd6523da/v1.md) — awesome-gpt-image-2 \#116
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-117-85e19583cec6/v1.md) — awesome-gpt-image-2 \#117
-- [漫画分镜叙事设计 · v1](../cases/case-awesome-gpt-image-2-118-1def799583cc/v1.md) — awesome-gpt-image-2 \#118
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-119-5afbbe8eabc0/v1.md) — awesome-gpt-image-2 \#119
-- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md) — awesome-gpt-image-2 \#120
-- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-121-193212d75b64/v1.md) — awesome-gpt-image-2 \#121
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-122-5b8399bd813d/v1.md) — awesome-gpt-image-2 \#122
-- [插画艺术创作图 · v1](../cases/case-awesome-gpt-image-2-123-5edf0f16a1d5/v1.md) — awesome-gpt-image-2 \#123
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-124-4015857c981e/v1.md) — awesome-gpt-image-2 \#124
-- [电商商品展示设计 · v1](../cases/case-awesome-gpt-image-2-125-6e41c0a34420/v1.md) — awesome-gpt-image-2 \#125
-- [插画艺术风格创作 · v1](../cases/case-awesome-gpt-image-2-126-3239751ae1fc/v1.md) — awesome-gpt-image-2 \#126
-- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-127-9b57e85a51c2/v1.md) — awesome-gpt-image-2 \#127
-- [建筑空间场景渲染 · v1](../cases/case-awesome-gpt-image-2-128-d47ea8cdf8bf/v1.md) — awesome-gpt-image-2 \#128
-- [绘画艺术风格图 · v1](../cases/case-awesome-gpt-image-2-129-6a781bef5ac3/v1.md) — awesome-gpt-image-2 \#129
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-130-e7382c61ae60/v1.md) — awesome-gpt-image-2 \#130
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-131-3ff6371bf114/v1.md) — awesome-gpt-image-2 \#131
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-132-7e20ffea7fb3/v1.md) — awesome-gpt-image-2 \#132
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-133-67af6f66aae8/v1.md) — awesome-gpt-image-2 \#133
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-134-a6bea019455a/v1.md) — awesome-gpt-image-2 \#134
-- [应用界面样机图 · v1](../cases/case-awesome-gpt-image-2-135-d3491dcbaff6/v1.md) — awesome-gpt-image-2 \#135
-- [品牌视觉识别图 · v1](../cases/case-awesome-gpt-image-2-136-75f69e469cdc/v1.md) — awesome-gpt-image-2 \#136
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-137-56fe59f8d583/v1.md) — awesome-gpt-image-2 \#137
-- [封面排版设计图 · v1](../cases/case-awesome-gpt-image-2-138-438051b2711b/v1.md) — awesome-gpt-image-2 \#138
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-139-84f76aee0a8e/v1.md) — awesome-gpt-image-2 \#139
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-140-70e875e89c5a/v1.md) — awesome-gpt-image-2 \#140
-- [电商商品展示设计 · v1](../cases/case-awesome-gpt-image-2-141-2308a38f1132/v1.md) — awesome-gpt-image-2 \#141
-- [写实摄影风格创作 · v1](../cases/case-awesome-gpt-image-2-142-a5c4509debeb/v1.md) — awesome-gpt-image-2 \#142
-- [品牌徽标设计图 · v1](../cases/case-awesome-gpt-image-2-143-1cad66916e41/v1.md) — awesome-gpt-image-2 \#143
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144
-- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-145-2427cd5b55fd/v1.md) — awesome-gpt-image-2 \#145
-- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-146-28a410a656fc/v1.md) — awesome-gpt-image-2 \#146
-- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-147-a91c876f92b5/v1.md) — awesome-gpt-image-2 \#147
-- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-148-cfc51c141cff/v1.md) — awesome-gpt-image-2 \#148
-- [直播界面设计图 · v1](../cases/case-awesome-gpt-image-2-149-cffbbf7a8c0c/v1.md) — awesome-gpt-image-2 \#149
-- [品牌徽标设计图 · v1](../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-151-a02e5fb9da9c/v1.md) — awesome-gpt-image-2 \#151
-- [直播界面设计图 · v1](../cases/case-awesome-gpt-image-2-152-1617701e4c6d/v1.md) — awesome-gpt-image-2 \#152
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-153-28f64651f549/v1.md) — awesome-gpt-image-2 \#153
-- [写实摄影风格创作 · v1](../cases/case-awesome-gpt-image-2-154-e90e9d2e3f72/v1.md) — awesome-gpt-image-2 \#154
-- [人物角色设定图 · v1](../cases/case-awesome-gpt-image-2-155-1da992bdbd75/v1.md) — awesome-gpt-image-2 \#155
-- [应用界面样机图 · v1](../cases/case-awesome-gpt-image-2-156-491ce1b6c6a0/v1.md) — awesome-gpt-image-2 \#156
-- [电商商品展示设计 · v1](../cases/case-awesome-gpt-image-2-157-c7cdd985cb4f/v1.md) — awesome-gpt-image-2 \#157
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-158-cc333a97b548/v1.md) — awesome-gpt-image-2 \#158
-- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-159-96e81695508f/v1.md) — awesome-gpt-image-2 \#159
-- [品牌吉祥物设定图 · v1](../cases/case-awesome-gpt-image-2-160-450260cd805d/v1.md) — awesome-gpt-image-2 \#160
-- [应用界面样机图 · v1](../cases/case-awesome-gpt-image-2-161-5f8d58470e3c/v1.md) — awesome-gpt-image-2 \#161
-- [人物角色设定图 · v1](../cases/case-awesome-gpt-image-2-162-f326a545368c/v1.md) — awesome-gpt-image-2 \#162
-- [诗仙李白月下直播起舞 · v1](../cases/case-awesome-gpt-image-2-163-c583ef05bb5b/v1.md) — awesome-gpt-image-2 \#163
-- [特朗普太空直播间破千万 · v1](../cases/case-awesome-gpt-image-2-164-65bc945ce327/v1.md) — awesome-gpt-image-2 \#164
-- [清冷佳人夜市烧烤三刀流 · v1](../cases/case-awesome-gpt-image-2-165-69a1b111cc5d/v1.md) — awesome-gpt-image-2 \#165
-- [十二黄金圣斗士卡牌合集 · v1](../cases/case-awesome-gpt-image-2-166-ae91d0e692c3/v1.md) — awesome-gpt-image-2 \#166
-- [大唐玄武门之变的朋友圈 · v1](../cases/case-awesome-gpt-image-2-167-10cbd42c2358/v1.md) — awesome-gpt-image-2 \#167
-- [手写中西药方图片 · v1](../cases/case-awesome-gpt-image-2-168-3a476bfa77a3/v1.md) — awesome-gpt-image-2 \#168
-- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-171-364397d8222a/v1.md) — awesome-gpt-image-2 \#171
-- [赛博科幻桃太郎主视觉图 · v1](../cases/case-awesome-gpt-image-2-172-a8524c67834d/v1.md) — awesome-gpt-image-2 \#172
-- [银河繁星点缀的冰蓝襦裙 · v1](../cases/case-awesome-gpt-image-2-173-b57b487eb4ea/v1.md) — awesome-gpt-image-2 \#173
-- [唐朝贵妇遛粉色马甲异形工笔画 · v1](../cases/case-awesome-gpt-image-2-174-5d36299d06ec/v1.md) — awesome-gpt-image-2 \#174
-- [封面排版设计图 · v1](../cases/case-awesome-gpt-image-2-175-ae9ea296be7a/v1.md) — awesome-gpt-image-2 \#175
-- [苏轼被贬首日朋友圈曝光 · v1](../cases/case-awesome-gpt-image-2-176-5197d6ada54f/v1.md) — awesome-gpt-image-2 \#176
-- [吉利银河暗黑中控界面 · v1](../cases/case-awesome-gpt-image-2-177-8a3aabeb53f8/v1.md) — awesome-gpt-image-2 \#177
-- [亚马逊详情图设计 · v1](../cases/case-awesome-gpt-image-2-178-92824fd548b8/v1.md) — awesome-gpt-image-2 \#178
-- [蒸汽朋克射手座解剖图谱 · v1](../cases/case-awesome-gpt-image-2-179-4ac17d3788ba/v1.md) — awesome-gpt-image-2 \#179
-- [荒诞超现实女装大叔海报 · v1](../cases/case-awesome-gpt-image-2-180-1135b782ed16/v1.md) — awesome-gpt-image-2 \#180
-- [潮流视角重塑精致商品广告 · v1](../cases/case-awesome-gpt-image-2-181-7969fa0bd67a/v1.md) — awesome-gpt-image-2 \#181
-- [千禧年日系校园喜剧场景 · v1](../cases/case-awesome-gpt-image-2-182-a0e3a1f66e06/v1.md) — awesome-gpt-image-2 \#182
-- [一张中文健身信息图 · v1](../cases/case-awesome-gpt-image-2-183-3f11cfcd77c6/v1.md) — awesome-gpt-image-2 \#183
-- [杜甫朋友圈吐槽茅屋被掀翻 · v1](../cases/case-awesome-gpt-image-2-184-2f1b526c9b60/v1.md) — awesome-gpt-image-2 \#184
-- [武则天发微博自拍太魔性了 · v1](../cases/case-awesome-gpt-image-2-185-133c5d095646/v1.md) — awesome-gpt-image-2 \#185
-- [品牌视觉识别图 · v1](../cases/case-awesome-gpt-image-2-186-efc1cbf5f7a6/v1.md) — awesome-gpt-image-2 \#186
-- [韩系极简氛围感少女写真 · v1](../cases/case-awesome-gpt-image-2-187-bf860f04eaa8/v1.md) — awesome-gpt-image-2 \#187
-- [暗黑极简头像网站视觉设计 · v1](../cases/case-awesome-gpt-image-2-188-4b53901763c8/v1.md) — awesome-gpt-image-2 \#188
-- [清新夏日女装连衣裙电商展示 · v1](../cases/case-awesome-gpt-image-2-189-ec2ecfe1ef26/v1.md) — awesome-gpt-image-2 \#189
-- [全自动咖啡机产品展示 · v1](../cases/case-awesome-gpt-image-2-190-860e28ddc951/v1.md) — awesome-gpt-image-2 \#190
-- [史诗级科幻电影海报设计 · v1](../cases/case-awesome-gpt-image-2-191-a10187b74bf2/v1.md) — awesome-gpt-image-2 \#191
-- [电商商品展示图 · v1](../cases/case-awesome-gpt-image-2-192-98a948a78902/v1.md) — awesome-gpt-image-2 \#192
-- [千手观音化身打工人 · v1](../cases/case-awesome-gpt-image-2-193-5570f9743359/v1.md) — awesome-gpt-image-2 \#193
-- [健身蛋白粉电商详情页 · v1](../cases/case-awesome-gpt-image-2-194-1df2e9584640/v1.md) — awesome-gpt-image-2 \#194
-- [超写实与水墨的梦幻融合 · v1](../cases/case-awesome-gpt-image-2-195-230ba158ec0c/v1.md) — awesome-gpt-image-2 \#195
-- [试卷上的涂鸦巨龙 · v1](../cases/case-awesome-gpt-image-2-196-e8fa61348f74/v1.md) — awesome-gpt-image-2 \#196
-- [英雄联盟特朗普中路对决哈梅内伊 · v1](../cases/case-awesome-gpt-image-2-197-2678788fb0a3/v1.md) — awesome-gpt-image-2 \#197
-- [苍白陶瓷娃娃沙滩仰视 · v1](../cases/case-awesome-gpt-image-2-198-e393af045250/v1.md) — awesome-gpt-image-2 \#198
-- [超写实海滩高角度手机自拍 · v1](../cases/case-awesome-gpt-image-2-199-65091c7ada97/v1.md) — awesome-gpt-image-2 \#199
-- [热度爆表的美女内衣直播间 · v1](../cases/case-awesome-gpt-image-2-200-0fbc8a15b7e9/v1.md) — awesome-gpt-image-2 \#200
-- [三甲医院真实门诊处方笺 · v1](../cases/case-awesome-gpt-image-2-201-a3212876b98d/v1.md) — awesome-gpt-image-2 \#201
-- [宅男必看绝美二次元少女 · v1](../cases/case-awesome-gpt-image-2-202-225e132ce53b/v1.md) — awesome-gpt-image-2 \#202
-- [杠精视角的独特文案创意 · v1](../cases/case-awesome-gpt-image-2-203-1eddf4825c13/v1.md) — awesome-gpt-image-2 \#203
+## 人物角色设定图 · v1
+
+- [人物角色设定图 · v1](../cases/case-awesome-gpt-image-2-27-6560ab3a32c6/v1.md) — awesome-gpt-image-2 \#27
+
+<img src="../images/6d1507e98bfca12b38739c6d16adbb616f8ca7531e14396efde9658abe28f934.jpg" alt="人物角色设定图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "collection of instant photos",
+  "setting": "laid out flat on a white fabric surface",
+  "character": {
+    "hair": "{argument name=\"hair color\" default=\"long pink hair with blue inner color\"}",
+    "outfit": "{argument name=\"outfit\" default=\"black and white maid uniform with frilly headband and black ribbons\"}",
+    "eyes": "reddish-pink"
+  },
+  "layout": {
+    "arrangement": "two rows of five polaroid photos",
+    "count": 10,
+    "photos": [
+      { "position": "top row 1", "description": "holding a pink heart cushion" },
+      { "position": "top row 2", "description": "winking, making a peace sign" },
+      { "position": "top row 3", "description": "making a hand heart, pink heart doodle on the bottom border" },
+      { "position": "top row 4", "description": "resting chin on hands, gentle smile" },
+      { "position": "top row 5", "description": "holding a red rose, winking" },
+      { "position": "bottom row 1", "description": "finger to lips, shy expression" },
+      { "position": "bottom row 2", "description": "holding a small pink cake" },
+      { "position": "bottom row 3", "description": "winking, hand near face, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and heart doodle on border" },
+      { "position": "bottom row 4", "description": "holding a pink bunny plushie, sparkle doodles, signature '{argument name=\"signature text\" default=\"Hanashi\"}' and bunny doodle on border" },
+      { "position": "bottom row 5", "description": "winking, sparkle doodles, message '{argument name=\"message text\" default=\"いつも応援ありがとう！これからもよろしくね♪\"}' and signature '{argument name=\"signature text\" default=\"Hanashi\"}' on border" }
+    ]
+  }
+}
+```
+
+</details>
+
+## 写实摄影风格创作 · v1
+
+- [写实摄影风格创作 · v1](../cases/case-awesome-gpt-image-2-28-46c5acdde3e5/v1.md) — awesome-gpt-image-2 \#28
+
+<img src="../images/ac70c27946c9ebd6f624dcda387b3b259490a40cec0ca7f7d6b312a45abe9762.jpg" alt="写实摄影风格创作" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "2x2 portrait grid",
+  "subject": "{argument name=\"subject description\" default=\"young adult East Asian male with short black hair and a slight smile\"}",
+  "style": "photorealistic, high-resolution, professional lighting, consistent facial identity across all panels",
+  "layout": {
+    "format": "2x2 grid",
+    "panel_count": 4,
+    "panels": [
+      {
+        "position": "top-left",
+        "description": "{argument name=\"profession 1\" default=\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\"}"
+      },
+      {
+        "position": "top-right",
+        "description": "{argument name=\"profession 2\" default=\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\"}"
+      },
+      {
+        "position": "bottom-left",
+        "description": "{argument name=\"profession 3\" default=\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\"}"
+      },
+      {
+        "position": "bottom-right",
+        "description": "{argument name=\"profession 4\" default=\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\"}"
+      }
+    ]
+  }
+}
+```
+
+</details>
+
+## 电影感叙事场景图 · v1
+
+- [电影感叙事场景图 · v1](../cases/case-awesome-gpt-image-2-29-b4066d7c6ada/v1.md) — awesome-gpt-image-2 \#29
+
+<img src="../images/79851f09455b30192c3b6460daae938152a5763b0f172fb7daef3024c15013f1.jpg" alt="电影感叙事场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Using REFERENCE_0, transform the subject's appearance to a {argument name="style" default="trad goth"} aesthetic while preserving the exact pose, clothing structure, and background. Change her hair to {argument name="hair color" default="black"} with {argument name="hair style" default="choppy bangs"}. Apply heavy dark makeup, specifically {argument name="lip color" default="black"} lipstick and intense dark eyeshadow, and make her skin tone slightly paler. Add 2 facial piercings: a septum ring and a nostril stud. Finally, modify her layered necklaces to feature {argument name="necklace pendants" default="an inverted cross and a pentagram"}.
+```
+
+</details>
+
+## 写实摄影风格图 · v1
+
+- [写实摄影风格图 · v1](../cases/case-awesome-gpt-image-2-30-0e57a476216a/v1.md) — awesome-gpt-image-2 \#30
+
+<img src="../images/ad6df359bc57d9c08324ad1d15016d92b4cecf2e6b3557a73e74107be71c97eb.jpg" alt="写实摄影风格图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Express [{argument name="subject" default="a powerful AI builder"}] in a graffiti sketch style, presenting an overall visual effect of rapid sketching, free transformation, improvised hand-drawing, and draft-like qualities. Lines are casual, exaggerated, varied in thickness, slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. Colors use rough, dry-brush block expressions, retaining uneven smears, brush marks, flying whites, and overlapping feelings. Colors automatically adapt to the [theme/subject], but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamlike quality. The background is mainly white space, remaining simple, relaxed, unfinished, and design-oriented. A small amount of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but should not be too crowded or destroy the subject and atmosphere of the white space. The image content does not need to be written in advance; the [{argument name="subject" default="a powerful AI builder"}] will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The whole maintains a unified graffiti sketch style and exaggerated generalized expression, avoiding complex realistic backgrounds and over-elaboration. Naturally add a unique signature "{argument name="signature" default="BlanPlan"}" as part of the image, placed discreetly but clearly in the lower-left, lower-right, or near the title. The style should be unified with the overall layout, like an artist's signature or design inscription; the signature font should be refined, restrained, and high-end, not too large, not destructive to the main composition, and not appearing abrupt or cheap.
+```
+
+</details>
+
+## 人像写实摄影图 · v1
+
+- [人像写实摄影图 · v1](../cases/case-awesome-gpt-image-2-31-a73bef162aa4/v1.md) — awesome-gpt-image-2 \#31
+
+<img src="../images/c0a47b7abb26350076e9d17a4a81dce8aedaaeb551e925fae1e0022d46451065.jpg" alt="人像写实摄影图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A highly detailed, photorealistic anime-style portrait of a young woman crouching down and looking slightly down at the camera from a low angle. She has long, flowing {argument name="hair color" default="ash-blonde"} hair blowing gently in the wind, pale skin, and large, expressive eyes. She is wearing a {argument name="outfit" default="Japanese school uniform with a light grey cardigan, white shirt, dark plaid bow tie, dark plaid pleated skirt, dark knee-high socks, and black leather loafers"}. Her arms are resting casually on her knees. The background is a bright {argument name="sky condition" default="clear blue sky with scattered white clouds"}, with a blurred {argument name="background setting" default="chain-link fence and green trees"} visible at the very bottom, suggesting a schoolyard. The lighting is bright, natural daylight with soft, cinematic shadows, emphasizing the realistic textures of her clothing and skin.
+```
+
+</details>
+
+## 插画艺术创作图 · v1
+
+- [插画艺术创作图 · v1](../cases/case-awesome-gpt-image-2-32-25aa2988d516/v1.md) — awesome-gpt-image-2 \#32
+
+<img src="../images/66e408c5f2d18fc7fbe65e9a8c77c944d4706653635ff5019c3cbcbe7e7410c7.jpg" alt="插画艺术创作图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "3x3 character expression grid",
+  "style": "{argument name=\"art style\" default=\"3D animation, Pixar style\"}",
+  "character_base": "{argument name=\"character description\" default=\"young woman with voluminous dark wavy hair and round wire-rimmed glasses\"}",
+  "common_theme": "{argument name=\"framing concept\" default=\"peeking through a torn hole in white paper\"}",
+  "layout": {
+    "rows": 3,
+    "columns": 3,
+    "total_panels": 9,
+    "panels": [
+      {"position": "top-left", "expression": "winking", "action": "adjusting glasses", "outfit": "green sweater"},
+      {"position": "top-center", "expression": "smirking", "action": "lowering dark sunglasses", "outfit": "red leather jacket"},
+      {"position": "top-right", "expression": "thinking", "action": "finger on chin", "outfit": "yellow hoodie"},
+      {"position": "middle-left", "expression": "big smile", "action": "arms resting on edge", "outfit": "black and white striped shirt"},
+      {"position": "middle-center", "expression": "smiling", "action": "thumbs up", "outfit": "orange button-up shirt"},
+      {"position": "middle-right", "expression": "neutral", "action": "drinking boba tea", "outfit": "blue sweater"},
+      {"position": "bottom-left", "expression": "happy", "action": "waving", "outfit": "purple sweater vest over white shirt"},
+      {"position": "bottom-center", "expression": "laughing with eyes closed", "action": "arms crossed", "outfit": "pink cardigan"},
+      {"position": "bottom-right", "expression": "silly", "action": "poking cheeks", "outfit": "teal sweater"}
+    ]
+  }
+}
+```
+
+</details>
+
+## 电商商品展示设计 · v1
+
+- [电商商品展示设计 · v1](../cases/case-awesome-gpt-image-2-33-a9a5f2b61b96/v1.md) — awesome-gpt-image-2 \#33
+
+<img src="../images/388a3870fedb258e9832ab262398f3836285a3c3f3c0f8ee1f2da1e39eec67fd.jpg" alt="电商商品展示设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A 3D render of a cute kawaii {argument name="subject" default="cloud"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name="accent colors" default="pink, blue, and purple"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.
+```
+
+</details>
+
+## 插画艺术创作图 · v1
+
+- [插画艺术创作图 · v1](../cases/case-awesome-gpt-image-2-34-3fb1924963d3/v1.md) — awesome-gpt-image-2 \#34
+
+<img src="../images/a90b9b2b1eb38e73a5f2f19a4f734f8fa0275571ffdfa17cc9b2d9acdf8c9947.jpg" alt="插画艺术创作图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "character avatar grid",
+  "theme": "{argument name=\"theme\" default=\"Journey to the West mythology\"}",
+  "style": "{argument name=\"art style\" default=\"clean 2D cartoon vector illustration, thick outlines, flat colors\"}",
+  "layout": {
+    "background": "{argument name=\"background color\" default=\"light gray\"} subtle texture",
+    "format": "grid of circular portraits with text labels centered below each circle",
+    "rows": [
+      {
+        "count": 4,
+        "items": [
+          {"label": "Sun Wukong", "description": "monkey boy with golden headband and red scarf"},
+          {"label": "Tang Sanzang", "description": "monk with ornate golden crown"},
+          {"label": "Zhu Bajie", "description": "pig man holding a rake"},
+          {"label": "Sha Wujing", "description": "bearded man holding a crescent moon staff"}
+        ]
+      },
+      {
+        "count": 4,
+        "items": [
+          {"label": "White Dragon Horse", "description": "white horse with golden bridle"},
+          {"label": "Jade Emperor", "description": "older man with white beard and golden crown"},
+          {"label": "Guanyin", "description": "goddess holding a willow branch"},
+          {"label": "Bull Demon Kink", "description": "fierce bull demon in armor"}
+        ]
+      },
+      {
+        "count": 4,
+        "items": [
+          {"label": "Princess Iron Fan", "description": "woman holding a green palm leaf fan"},
+          {"label": "Red Boy", "description": "boy with red hair, horns, and a small flame"},
+          {"label": "Black Wind Demon", "description": "dark shadowy demon with glowing red eyes"},
+          {"label": "Nezha", "description": "boy with double hair buns holding a flaming spear"}
+        ]
+      },
+      {
+        "count": 3,
+        "description": "partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom"
+      }
+    ]
+  }
+}
+```
+
+</details>
+
+## 人像写实摄影图 · v1
+
+- [人像写实摄影图 · v1](../cases/case-awesome-gpt-image-2-35-5d7244a66dd3/v1.md) — awesome-gpt-image-2 \#35
+
+<img src="../images/f02c69a445ef9247ac2dbfab9530b9b451b06b97c38d8545a5e5bdfb0d6afbf1.jpg" alt="人像写实摄影图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A {argument name="photography style" default="photorealistic portrait with shallow depth of field and soft bokeh"} of a {argument name="subject" default="young Japanese woman"} looking back over her shoulder at the camera with a {argument name="expression" default="gentle smile"}. She is wearing a {argument name="attire" default="light beige kimono with orange maple leaf patterns"} and a gold obi. Her dark hair is styled in an elegant updo with loose strands framing her face, and she wears small pearl earrings. The background features an {argument name="setting" default="autumn garden with vibrant red maple leaves"}, with bright red foliage framing the top left and a heavily blurred, soft background creating a serene, cinematic atmosphere.
+```
+
+</details>
+
+## 品牌徽标设计图 · v1
+
+- [品牌徽标设计图 · v1](../cases/case-awesome-gpt-image-2-36-d8bb6074ff3a/v1.md) — awesome-gpt-image-2 \#36
+
+<img src="../images/62fcb6b04e6c4de1f7119a6541114e6b95f0ff2c2d86869393c900ae55cf5c46.jpg" alt="品牌徽标设计图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name="ball color" default="green"} basketball featuring a large white {argument name="logo design" default="OpenAI logo"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.
+```
+
+</details>
+
+## 综合应用场景图 · v1
+
+- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-37-ac0a3a41e89b/v1.md) — awesome-gpt-image-2 \#37
+
+<img src="../images/d2e54872dba8d77d570ff3dfd514c3bf35c04081c52855c5ec1c53ba94ffa0da.jpg" alt="综合应用场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+</details>
+
+## 综合应用场景图 · v1
+
+- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-38-47f34e325382/v1.md) — awesome-gpt-image-2 \#38
+
+<img src="../images/916b68689b3ed5bb5a49cb45a42557371154b114a7b9a00f88359fe7b53e1303.jpg" alt="综合应用场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+</details>
+
+## 综合应用场景图 · v1
+
+- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-39-d32b7749886e/v1.md) — awesome-gpt-image-2 \#39
+
+<img src="../images/675cf2020d5028209786e3d1cf3b13baa21168b15bf13a7096186eccf127d001.jpg" alt="综合应用场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+</details>
+
+## 综合应用场景图 · v1
+
+- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-40-2502f87b984b/v1.md) — awesome-gpt-image-2 \#40
+
+<img src="../images/04f881c36fe7e4261c58f1673ee49114fe2694f919540f29768869b819aaa6af.jpg" alt="综合应用场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create {argument name="quantity" default="24"} LINE stickers of {argument name="animals" default="animals"} in a quirky hand-drawn style. Target {argument name="target audience" default="Japanese Gen Z"} with a trendy style that can aim for top downloads.
+```
+
+</details>
+
+## 插画艺术风格创作 · v1
+
+- [插画艺术风格创作 · v1](../cases/case-awesome-gpt-image-2-41-d2bd5fb5a883/v1.md) — awesome-gpt-image-2 \#41
+
+<img src="../images/5ca8f9d6da5c6f4a3be6cf163501aca693e94cc8109ac4bfdfd553ee959b8b1f.jpg" alt="插画艺术风格创作" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{ "type": "VTuber profile sheet", "theme": "{argument name=\"color theme\" default=\"purple and white\"}, elegant, lace, ribbon motifs", "character": { "name": "{argument name=\"character name\" default=\"紫咲リリー\"}", "archetype": "{argument name=\"character archetype\" default=\"elegant ojousama\"}", "appearance": "anime girl, long black hair with purple highlights, purple eyes, wearing a white blazer, purple pleated skirt, thigh-highs, ribbons", "pose": "standing, finger to lips, looking slightly to the side" }, "chibi_character": { "appearance": "same character in chibi form", "pose": "sitting down, smiling" }, "layout": { "header": { "top_left": "Ribbon banner reading 'VTuber Profile'", "top_center": "Logo with text '{argument name=\"vtuber type\" default=\"清楚系お嬢様Vtuber\"}' and '{argument name=\"character name\" default=\"紫咲リリー\"}' and 'Shisaki Lily'", "top_right": "Quote '{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ\"}' followed by a 3-line introductory paragraph" }, "columns": [ { "position": "left", "content": "Full-body character portrait" }, { "position": "center", "sections": [ { "title": "Profile", "count": 9, "labels": ["名前", "誕生日", "年齢", "身長", "属性", "一人称", "出身", "職業", "活動開始日"] }, { "title": "Personality", "content": "2-line text block" }, { "title": "Hobby & Special Skill", "count": 2, "labels": ["趣味", "特技"] }, { "title": "Like & Dislike", "count": 2, "labels": ["好きなもの", "苦手なもの"] } ] }, { "position": "right", "sections": [ { "title": "Streaming Content", "content": "1-line text block" }, { "title": "Schedule", "count": 2, "labels": ["配信時間", "配信頻度"] }, { "title": "Goals", "content": "3-line text block" }, { "title": "Fan & Tag", "count": 3, "labels": ["ファンネーム", "ファンアートタグ", "総合タグ"], "extra": "4 hashtag rows with small icons" }, { "title": "Creator", "count": 3, "labels": ["イラストレーター (ママ)", "モデラー (パパ)", "使用モデル"] }, { "title": "Links", "count": 4, "labels": ["YouTube", "X (Twitter)", "BOOTH", "FANBOX"] }, { "content": "Chibi character illustration placed at the bottom right corner" } ] } ], "footer": { "sections": [ { "title": "Rules", "count": 3, "description": "3 bullet points with heart icons" }, { "content": "2-line closing message at the bottom center" } ] } } }
+```
+
+</details>
+
+## 写实摄影风格图 · v1
+
+- [写实摄影风格图 · v1](../cases/case-awesome-gpt-image-2-42-20f230b2fad4/v1.md) — awesome-gpt-image-2 \#42
+
+<img src="../images/1d647e1dcab1b038fe29a159bd4cc18781e938685fa4ef3d554884b0c5327f6e.jpg" alt="写实摄影风格图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Express {argument name="subject" default="a powerful AI builder"} in a graffiti sketch style, presenting an overall visual effect of quick outlines, free deformation, improvised hand-drawing, and draft-like sketches. The lines are casual, exaggerated, varying in thickness, and slightly messy but rhythmic and expressive, emphasizing generalization, exaggeration, fun, and spontaneity rather than rigorous realism or fine detail. The colors are expressed in rough blocks with a distinct dry-brush feel, retaining uneven smears, brush marks, fly-white, and layering. Colors automatically adapt to the {argument name="theme" default="powerful AI builder"}, but the overall expression remains graffiti-like, sketch-like, and generalized. No transparent watercolor smudging effects, no delicate watercolor transitions, no paper textures, no soft atomization, and no dreamy textures. The background is mainly white space, maintaining a sense of simplicity, ease, unfinishedness, and design. Small amounts of auxiliary symbols, arrows, marks, circles, repeated lines, handwritten text, or other graffiti elements can be added to enhance the sketchbook or essay-like visual language, but they should not be too crowded or destroy the subject and the white space atmosphere. The content of the picture does not need to be written in advance; {argument name="character image" default="a powerful AI builder"} will automatically deduce and generate the most suitable main image, actions, related elements, symbols, or simplified scenes. The overall style remains a unified graffiti sketch style and an exaggerated, generalized expression, avoiding complex realistic backgrounds and excessive detail. A special signature 'BlanPlan' should be naturally added as part of the picture, in a low-key but clear position such as the bottom left, bottom right, or near the title. The style should be unified with the overall layout, like an artist's signature or a design mark; the signature font should be exquisite, restrained, and high-end, not too large, and should not destroy the main composition or appear abrupt or cheap.
+```
+
+</details>
+
+## 插画艺术创作图 · v1
+
+- [插画艺术创作图 · v1](../cases/case-awesome-gpt-image-2-43-df5abf7f8325/v1.md) — awesome-gpt-image-2 \#43
+
+<img src="../images/8634fd6e51faeef157e773a22f1aa2c8549c3f9a41d9b4cfa7b0d16115329549.jpg" alt="插画艺术创作图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "character portrait grid",
+  "theme": "{argument name=\"theme\" default=\"Game of Thrones characters\"}",
+  "style": "{argument name=\"art style\" default=\"2D flat illustration, clean line art, comic style, profile view facing right, pale skin with blush\"}",
+  "layout": {
+    "grid": "3x3",
+    "background": "light gray textured",
+    "frame_style": "white rounded-rectangle frames with text labels below each"
+  },
+  "count": 9,
+  "portraits": [
+    { "label": "Jon Snow", "description": "black hair half-up, beard, dark fur cloak" },
+    { "label": "Daenerys Targaryen", "description": "silver braided hair, blue dress" },
+    { "label": "Tyrion Lannister", "description": "curly brown hair, beard, dark tunic with gold pin" },
+    { "label": "Cersei Lannister", "description": "blonde braided hair, ornate red and gold dress" },
+    { "label": "Ned Stark", "description": "brown hair half-up, beard, dark fur cloak" },
+    { "label": "Arya Stark", "description": "short dark hair half-up, brown tunic, sword hilt" },
+    { "label": "Jaime Lannister", "description": "short blonde hair, gold armor with lion motif" },
+    { "label": "Sansa Stark", "description": "red braided hair, blue dress with fur collar" },
+    { "label": "Theon Greyjoy", "description": "short dark curly hair, dark tunic with kraken pin" }
+  ]
+}
+```
+
+</details>
+
+## 古风历史题材图 · v1
+
+- [古风历史题材图 · v1](../cases/case-awesome-gpt-image-2-44-f3240f649ee6/v1.md) — awesome-gpt-image-2 \#44
+
+<img src="../images/b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b.jpg" alt="古风历史题材图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Generate avatars of various emperors from the {argument name="dynasty" default="Ming Dynasty"} based on the style of the uploaded image, with their posthumous names and personal names listed below the avatars.
+```
+
+</details>
+
+## 人像写实摄影图 · v1
+
+- [人像写实摄影图 · v1](../cases/case-awesome-gpt-image-2-45-845f9f5c323b/v1.md) — awesome-gpt-image-2 \#45
+
+<img src="../images/45142a1b195aea37e7c31bf1911d4add5e248f29ebd4f3cca82510e3e864a2d5.jpg" alt="人像写实摄影图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A striking black and white close-up portrait of a {argument name="subject description" default="handsome young Asian man"} with {argument name="hair style" default="messy wet hair sticking to his forehead"}. His face and neck are glistening, covered in highly detailed {argument name="skin texture detail" default="water droplets and sweat"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name="background" default="pitch-black background"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.
+```
+
+</details>
+
+## 建筑空间场景图 · v1
+
+- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-46-2acc615a7769/v1.md) — awesome-gpt-image-2 \#46
+
+<img src="../images/053d5711c13e84b8049ba57d558a4660d0fabe8af0468f705fb77c312e89098a.jpg" alt="建筑空间场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name="hair color" default="vibrant short red"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name="costume color" default="glossy red"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name="prop" default="fantasy sword with a blue blade and gold hilt"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.
+```
+
+</details>
+
+## 建筑空间场景图 · v1
+
+- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-47-a080e2d20fc3/v1.md) — awesome-gpt-image-2 \#47
+
+<img src="../images/d330b451aa6900ae4a781c7f044a67fe877eba8b85b5e1f510579e8d43f71745.jpg" alt="建筑空间场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "2x2 grid of Japanese digital advertisement banners",
+  "layout": {
+    "structure": "4 equal quadrants",
+    "quadrants": [
+      {
+        "position": "top-left",
+        "theme": "Travel",
+        "subject": "A couple holding hands on a white sand beach, looking out at turquoise ocean water under a bright blue sky.",
+        "elements": ["red hibiscus flower in bottom left corner"],
+        "text_labels": [
+          "今年こそ、解き放て。",
+          "{argument name=\"travel destination\" default=\"沖縄旅行\"}",
+          "3日間の癒やし旅",
+          "航空券＋ホテル",
+          "39,800円〜",
+          "絶景、グルメ、体験 ぜんぶ叶う!"
+        ],
+        "icons": {
+          "count": 3,
+          "descriptions": ["airplane", "hotel building", "car"]
+        }
+      },
+      {
+        "position": "top-right",
+        "theme": "Skincare",
+        "subject": "Close-up portrait of a young woman with glowing, dewy skin, eyes closed, gently touching her cheeks.",
+        "elements": [
+          "soft pink gradient background",
+          "dynamic water splash effects",
+          "pink cosmetic jar labeled '{argument name=\"skincare product name\" default=\"LUMIÈRE\"} Brightening Gel'"
+        ],
+        "text_labels": [
+          "毛穴・くすみ卒業！",
+          "透明感あふれる",
+          "水光肌へ",
+          "新感覚スキンケア",
+          "初回限定 78%OFF",
+          "{argument name=\"discount price\" default=\"1,980円\"}"
+        ],
+        "badges": {
+          "count": 3,
+          "style": "gold circular",
+          "labels": ["毛穴ケア", "高保湿", "ハリ・ツヤ"]
+        }
+      },
+      {
+        "position": "bottom-left",
+        "theme": "Gourmet Food",
+        "subject": "Thick, sliced, medium-rare steak sizzling on a dark grill plate.",
+        "elements": [
+          "garlic chips",
+          "rosemary sprig",
+          "dark background with smoke and glowing embers"
+        ],
+        "text_labels": [
+          "とろける旨さ！",
+          "{argument name=\"food item\" default=\"黒毛和牛\"}",
+          "贅沢ステーキ",
+          "期間限定",
+          "特別価格",
+          "通常価格 8,980円",
+          "4,980円"
+        ],
+        "badges": {
+          "count": 1,
+          "style": "red circular",
+          "labels": ["A4 A5等級"]
+        }
+      },
+      {
+        "position": "bottom-right",
+        "theme": "Online Education",
+        "subject": "Young man in a blue shirt studying at a desk, writing in a notebook next to an open laptop.",
+        "elements": ["bright indoor lighting", "desk environment"],
+        "text_labels": [
+          "スキマ時間で",
+          "{argument name=\"education goal\" default=\"最短合格！\"}",
+          "オンライン資格講座",
+          "スマホで完結",
+          "効率学習で差がつく！",
+          "今だけ！ 受講料 20%OFF"
+        ],
+        "badges": {
+          "count": 1,
+          "style": "blue circular",
+          "labels": ["受講者数 10万人 突破！"]
+        },
+        "icons": {
+          "count": 2,
+          "descriptions": ["smartphone", "open book"]
+        }
+      }
+    ]
+  }
+}
+```
+
+</details>
+
+## 直播界面设计图 · v1
+
+- [直播界面设计图 · v1](../cases/case-awesome-gpt-image-2-48-8916ac5ed2ea/v1.md) — awesome-gpt-image-2 \#48
+
+<img src="../images/a126ff24e44e0172790725ab541eea2b21b726a4f92ff1f1d5d72a5b610d9f74.jpg" alt="直播界面设计图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
+```
+
+</details>
+
+## 直播界面设计图 · v1
+
+- [直播界面设计图 · v1](../cases/case-awesome-gpt-image-2-49-8e49e2f69a27/v1.md) — awesome-gpt-image-2 \#49
+
+<img src="../images/456436ac2f6f95e36166b812c5e84eb98d2ff585f065461af69e077e5ca11042.jpg" alt="直播界面设计图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name="celebrity" default="Liu Yifei"} is broadcasting, holding a sign that says "{argument name="sign text" default="Streaming tonight, welcome to join Yifei's chat!"}"
+```
+
+</details>
+
+## 建筑空间场景图 · v1
+
+- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-50-7a6b1799c25d/v1.md) — awesome-gpt-image-2 \#50
+
+<img src="../images/aa4ea1d4236d6c8ad66869312b1ad2c51af78e83101b773c0e6d6617c7cf9e2a.jpg" alt="建筑空间场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name="atmosphere" default="dark fantasy"} aesthetic. In the center, a single figure wearing a {argument name="clothing" default="long white robe"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name="floor object" default="wooden violin"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name="accent color" default="glowing blue"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name="floating objects" default="white porcelain theatrical masks"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.
+```
+
+</details>
+
+## 信息图可视化设计 · v1
+
+- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-51-29458e54b435/v1.md) — awesome-gpt-image-2 \#51
+
+<img src="../images/5bc3fce7ab2e021ab87ff089a03343e70bead7241b33b851b6768706010ae374.jpg" alt="信息图可视化设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "7-day fashion lookbook infographic",
+  "header": {
+    "title": "{argument name=\"main title\" default=\"一周穿搭指南\"}",
+    "subtitle": "{argument name=\"style keywords\" default=\"温柔 | 靓丽 | 优雅\"}",
+    "slogan_cn": "优雅不设限，自信每一天",
+    "slogan_en": "{argument name=\"english slogan\" default=\"ELEGANCE HAS NO LIMIT, BE CONFIDENT EVERY DAY\"}"
+  },
+  "subject": "{argument name=\"subject description\" default=\"young elegant Asian woman\"}",
+  "layout": {
+    "columns": 7,
+    "column_elements": [
+      "day_header",
+      "main_portrait",
+      "4_detail_thumbnails",
+      "outfit_specs",
+      "keywords_colors",
+      "3_color_swatches",
+      "star_ratings",
+      "fabric_price",
+      "4_season_icons"
+    ],
+    "days": [
+      { "day": "周一 (MONDAY)", "outfit": "beige blazer suit", "scene": "场景：重要会议 / 正式商务" },
+      { "day": "周二 (TUESDAY)", "outfit": "pink blazer suit", "scene": "场景：日常通勤" },
+      { "day": "周三 (WEDNESDAY)", "outfit": "cream knit cardigan set", "scene": "场景：生活休闲" },
+      { "day": "周四 (THURSDAY)", "outfit": "champagne slip dress", "scene": "场景：外出私会" },
+      { "day": "周五 (FRIDAY)", "outfit": "blue knit top, white skirt", "scene": "场景：休闲社交" },
+      { "day": "周六 (SATURDAY)", "outfit": "white sports bra, purple leggings", "scene": "场景：运动休闲" },
+      { "day": "周日 (SUNDAY)", "outfit": "beige lounge knitwear", "scene": "场景：居家 / 约会" }
+    ]
+  },
+  "footer": {
+    "tips": "{argument name=\"footer tips\" default=\"Tips: 根据天气与场合灵活调整，配饰是提升整体造型的关键；保持自信与舒适，才是穿搭的最终目的。\"}",
+    "legend": [
+      "春: 春季适用",
+      "夏: 夏季适用",
+      "秋: 秋季适用",
+      "冬: 冬季适用"
+    ]
+  }
+}
+```
+
+</details>
+

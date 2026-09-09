@@ -6,34 +6,61 @@
 
 共 31 个案例。点击标题查看本库图片与完整提示词。
 
-- [综合应用场景图 · v1](../../cases/case-awesome-gpt-image-2-25-6a36cee8c2fa/v1.md) — awesome-gpt-image-2 \#25
-- [人物角色设定图 · v1](../../cases/case-awesome-gpt-image-2-27-6560ab3a32c6/v1.md) — awesome-gpt-image-2 \#27
-- [插画艺术风格创作 · v1](../../cases/case-awesome-gpt-image-2-41-d2bd5fb5a883/v1.md) — awesome-gpt-image-2 \#41
-- [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-123-5edf0f16a1d5/v1.md) — awesome-gpt-image-2 \#123
-- [人物角色设定图 · v1](../../cases/case-awesome-gpt-image-2-162-f326a545368c/v1.md) — awesome-gpt-image-2 \#162
-- [专业设计师打造角色写真集 · v1](../../cases/case-awesome-gpt-image-2-212-dd2cd40cdc54/v1.md) — awesome-gpt-image-2 \#212
-- [唯美二次元角色介绍网页 · v1](../../cases/case-awesome-gpt-image-2-263-a90ff68570ef/v1.md) — awesome-gpt-image-2 \#263
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-270-e42cc21d275a/v1.md) — awesome-gpt-image-2 \#270
-- [人物角色设定图 · v1](../../cases/case-awesome-gpt-image-2-271-08a899f115c7/v1.md) — awesome-gpt-image-2 \#271
-- [官方角色设定资料卡 · v1](../../cases/case-awesome-gpt-image-2-306-487bc87ec95f/v1.md) — awesome-gpt-image-2 \#306
-- [皮克斯风阳光少年 · v1](../../cases/case-awesome-gpt-image-2-325-2d19ec404885/v1.md) — awesome-gpt-image-2 \#325
-- [红蓝撞色高跟诱惑 · v1](../../cases/case-awesome-gpt-image-2-326-4b5a2090f4e0/v1.md) — awesome-gpt-image-2 \#326
-- [4×4 动作分解参考表 · v1](../../cases/case-awesome-gpt-image-2-347-46f4b9df4c9f/v1.md) — awesome-gpt-image-2 \#347
-- [Scrapbook 真人图与迷你分身 · v1](../../cases/case-awesome-gpt-image-2-371-63d04f44a60f/v1.md) — awesome-gpt-image-2 \#371
-- [可爱角色设定表 · v1](../../cases/case-awesome-gpt-image-2-372-a2019220dc21/v1.md) — awesome-gpt-image-2 \#372
-- [高端 3D 收藏玩具头像 · v1](../../cases/case-awesome-gpt-image-2-378-7af4982cfca2/v1.md) — awesome-gpt-image-2 \#378
-- [十国传统服饰时尚拼贴 · v1](../../cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.md) — awesome-gpt-image-2 \#384
-- [街舞角色设定参考图 · v1](../../cases/case-awesome-gpt-image-2-397-bf10a0d7fef3/v1.md) — awesome-gpt-image-2 \#397
-- [8 套日常穿搭编辑拼贴 · v1](../../cases/case-awesome-gpt-image-2-398-a6ef2d6c07e1/v1.md) — awesome-gpt-image-2 \#398
-- [Earth Signs 角色 Scrapbook · v1](../../cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.md) — awesome-gpt-image-2 \#416
-- [赛博黑客角色设定表 · v1](../../cases/case-awesome-gpt-image-2-439-085cb12f9f61/v1.md) — awesome-gpt-image-2 \#439
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473
-- [粉丝速写本角色页 · v1](../../cases/case-awesome-gpt-image-2-480-efebb4b75683/v1.md) — awesome-gpt-image-2 \#480
-- [黑桃国王递归扑克牌 · v1](../../cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.md) — awesome-gpt-image-2 \#502
-- [暖调钩织角色玩偶 · v1](../../cases/case-awesome-gpt-image-2-507-e8f386597159/v1.md) — awesome-gpt-image-2 \#507
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512
-- [儿童故事书手绘头像 · v1](../../cases/case-awesome-gpt-image-2-522-567a152e8aad/v1.md) — awesome-gpt-image-2 \#522
-- [圣诞街景 Chibi 真实背景人像 · v1](../../cases/case-awesome-gpt-image-2-528-4de125c422f7/v1.md) — awesome-gpt-image-2 \#528
-- [实拍背景涂鸦人物替换 · v1](../../cases/case-awesome-gpt-image-2-530-8f24a2d37563/v1.md) — awesome-gpt-image-2 \#530
-- [手绘涂鸦时尚人物插画 · v1](../../cases/case-awesome-gpt-image-2-533-09c3cb90d3d5/v1.md) — awesome-gpt-image-2 \#533
-- [同一人脸十二款发型 Lookbook · v1](../../cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.md) — awesome-gpt-image-2 \#535
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-25-6a36cee8c2fa/v1.md"><img src="../../images/9d47e83bf420b44c8716c4fb74df1adcd2955e28acda15c92096aa8942305301.jpg" alt="综合应用场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-25-6a36cee8c2fa/v1.md"><strong>综合应用场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #25</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-27-6560ab3a32c6/v1.md"><img src="../../images/6d1507e98bfca12b38739c6d16adbb616f8ca7531e14396efde9658abe28f934.jpg" alt="人物角色设定图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-27-6560ab3a32c6/v1.md"><strong>人物角色设定图 · v1</strong></a><br><sub>awesome-gpt-image-2 #27</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-41-d2bd5fb5a883/v1.md"><img src="../../images/5ca8f9d6da5c6f4a3be6cf163501aca693e94cc8109ac4bfdfd553ee959b8b1f.jpg" alt="插画艺术风格创作" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-41-d2bd5fb5a883/v1.md"><strong>插画艺术风格创作 · v1</strong></a><br><sub>awesome-gpt-image-2 #41</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-123-5edf0f16a1d5/v1.md"><img src="../../images/f01d5ecac5ecc1e3435279f88a816f03117285c48395d1429c3dd798c133ffe3.jpg" alt="插画艺术创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-123-5edf0f16a1d5/v1.md"><strong>插画艺术创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #123</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-162-f326a545368c/v1.md"><img src="../../images/52335b62be22e4096e03d7e893e6cd23b486b980162c6b283ce1cc3754a7fcfa.jpg" alt="人物角色设定图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-162-f326a545368c/v1.md"><strong>人物角色设定图 · v1</strong></a><br><sub>awesome-gpt-image-2 #162</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-212-dd2cd40cdc54/v1.md"><img src="../../images/14864d5130c1e2a03035b446ca64f9eed63f869af0981c14d06c21bc0ed25aca.jpg" alt="专业设计师打造角色写真集" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-212-dd2cd40cdc54/v1.md"><strong>专业设计师打造角色写真集 · v1</strong></a><br><sub>awesome-gpt-image-2 #212</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-263-a90ff68570ef/v1.md"><img src="../../images/c039fdfb69ef2de0153fe0e6d7eda98441a73a9a9d22da7854ae6c5a2a556996.jpg" alt="唯美二次元角色介绍网页" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-263-a90ff68570ef/v1.md"><strong>唯美二次元角色介绍网页 · v1</strong></a><br><sub>awesome-gpt-image-2 #263</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-270-e42cc21d275a/v1.md"><img src="../../images/804a6dd79b6a236c64755ec6c9baad39be68c43136f277c4d73f6a4cefa7eb59.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-270-e42cc21d275a/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #270</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-271-08a899f115c7/v1.md"><img src="../../images/dfee0a1f4bbb7a3316c605b96dc08369736f3e28b367d92ae641e839607a7d0f.jpg" alt="人物角色设定图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-271-08a899f115c7/v1.md"><strong>人物角色设定图 · v1</strong></a><br><sub>awesome-gpt-image-2 #271</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-306-487bc87ec95f/v1.md"><img src="../../images/45cd1673c5a8dfc42b816f38eece20d5fb60878e5148c85b67ff7f1633590e8f.jpg" alt="官方角色设定资料卡" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-306-487bc87ec95f/v1.md"><strong>官方角色设定资料卡 · v1</strong></a><br><sub>awesome-gpt-image-2 #306</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-325-2d19ec404885/v1.md"><img src="../../images/6de4332154d9888d602538ea49a02b7c9ca29abf75a0c2bf6861e5a741b58187.jpg" alt="皮克斯风阳光少年" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-325-2d19ec404885/v1.md"><strong>皮克斯风阳光少年 · v1</strong></a><br><sub>awesome-gpt-image-2 #325</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-326-4b5a2090f4e0/v1.md"><img src="../../images/ac169651db69e21b81febc93926222cd29dea976a74e962bd8ef858f705ed021.jpg" alt="红蓝撞色高跟诱惑" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-326-4b5a2090f4e0/v1.md"><strong>红蓝撞色高跟诱惑 · v1</strong></a><br><sub>awesome-gpt-image-2 #326</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-347-46f4b9df4c9f/v1.md"><img src="../../images/4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23.jpg" alt="4×4 动作分解参考表" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-347-46f4b9df4c9f/v1.md"><strong>4×4 动作分解参考表 · v1</strong></a><br><sub>awesome-gpt-image-2 #347</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-371-63d04f44a60f/v1.md"><img src="../../images/1f070ed7254af5878a56b1d5af88b27d4842397fe379227cb8fdfd7a72a57540.jpg" alt="Scrapbook 真人图与迷你分身" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-371-63d04f44a60f/v1.md"><strong>Scrapbook 真人图与迷你分身 · v1</strong></a><br><sub>awesome-gpt-image-2 #371</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-372-a2019220dc21/v1.md"><img src="../../images/6104fda892b6edfa720de99c5fc594efbb1c4821cdcd4911a2736b51e17d4cc4.jpg" alt="可爱角色设定表" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-372-a2019220dc21/v1.md"><strong>可爱角色设定表 · v1</strong></a><br><sub>awesome-gpt-image-2 #372</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-378-7af4982cfca2/v1.md"><img src="../../images/ec8bffa0e3e9634e42f4c741fc9f78761bf4b0cdd98621c52f805438c16b4e2f.jpg" alt="高端 3D 收藏玩具头像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-378-7af4982cfca2/v1.md"><strong>高端 3D 收藏玩具头像 · v1</strong></a><br><sub>awesome-gpt-image-2 #378</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.md"><img src="../../images/a42186a48624baca73cdb436a3daf074de66b55187361dd9525a4186cfbe6bd2.jpg" alt="十国传统服饰时尚拼贴" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.md"><strong>十国传统服饰时尚拼贴 · v1</strong></a><br><sub>awesome-gpt-image-2 #384</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-397-bf10a0d7fef3/v1.md"><img src="../../images/c99958555add55227020541db59c833b6232f234af150cd4ad5dc403b113a7ae.jpg" alt="街舞角色设定参考图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-397-bf10a0d7fef3/v1.md"><strong>街舞角色设定参考图 · v1</strong></a><br><sub>awesome-gpt-image-2 #397</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-398-a6ef2d6c07e1/v1.md"><img src="../../images/c6354e4ca51cb20182226f75ef8035c8398210ee189e8b3994a463afb0b9f0ba.jpg" alt="8 套日常穿搭编辑拼贴" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-398-a6ef2d6c07e1/v1.md"><strong>8 套日常穿搭编辑拼贴 · v1</strong></a><br><sub>awesome-gpt-image-2 #398</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.md"><img src="../../images/5d4aef8f43a1d579786c75e89cb03a90790f2b10e0207fb2c3dda5ad6a5cae09.jpg" alt="Earth Signs 角色 Scrapbook" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-416-c89ef9d7b30f/v1.md"><strong>Earth Signs 角色 Scrapbook · v1</strong></a><br><sub>awesome-gpt-image-2 #416</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-439-085cb12f9f61/v1.md"><img src="../../images/b4c871d8351d7396f4523b8d8821a72a8ef700ef01a17e00fabc226e90997b58.jpg" alt="赛博黑客角色设定表" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-439-085cb12f9f61/v1.md"><strong>赛博黑客角色设定表 · v1</strong></a><br><sub>awesome-gpt-image-2 #439</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md"><img src="../../images/5c45b9c8011e3f34abc38ee54723533197e4ffa620c68b4cf8fc1e1c31886a82.jpg" alt="ROGUE VIPER 游戏概念设定板" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md"><strong>ROGUE VIPER 游戏概念设定板 · v1</strong></a><br><sub>awesome-gpt-image-2 #473</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-480-efebb4b75683/v1.md"><img src="../../images/701de29e951863e30e83cd5b5ccccbf4a9bf487685d3af7f9765f7d5791c970b.jpg" alt="粉丝速写本角色页" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-480-efebb4b75683/v1.md"><strong>粉丝速写本角色页 · v1</strong></a><br><sub>awesome-gpt-image-2 #480</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.md"><img src="../../images/2ac16418c01bc0d48cbce90c4119647727757c2e645c88023418ae4719e8b30f.jpg" alt="黑桃国王递归扑克牌" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.md"><strong>黑桃国王递归扑克牌 · v1</strong></a><br><sub>awesome-gpt-image-2 #502</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-507-e8f386597159/v1.md"><img src="../../images/8ab3eceb7ba067520f7a4ab99e4f8c2fb970b306a08b2eddb3c89733414999f2.jpg" alt="暖调钩织角色玩偶" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-507-e8f386597159/v1.md"><strong>暖调钩织角色玩偶 · v1</strong></a><br><sub>awesome-gpt-image-2 #507</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md"><img src="../../images/4d73dc08d7116f0026753e0f58459aea7166bf45ecbb9bf38847a5cab3989a4f.jpg" alt="Brutalist Freestyle 角色设定表" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md"><strong>Brutalist Freestyle 角色设定表 · v1</strong></a><br><sub>awesome-gpt-image-2 #512</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-522-567a152e8aad/v1.md"><img src="../../images/bbffcfa2d5f68f9d2ea62b29393697ffd443fa3cc75abe68afd08a4ef3660ee0.jpg" alt="儿童故事书手绘头像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-522-567a152e8aad/v1.md"><strong>儿童故事书手绘头像 · v1</strong></a><br><sub>awesome-gpt-image-2 #522</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-528-4de125c422f7/v1.md"><img src="../../images/a713b5fd2b55dc7b3935c75b969deb926a9294ff9a7862fbecd348d5f92a3ba0.jpg" alt="圣诞街景 Chibi 真实背景人像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-528-4de125c422f7/v1.md"><strong>圣诞街景 Chibi 真实背景人像 · v1</strong></a><br><sub>awesome-gpt-image-2 #528</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-530-8f24a2d37563/v1.md"><img src="../../images/569fc121ba82d2db731c341f2889ca2e3726c7d7a47cd0a5a9ed3ee64f7825c0.jpg" alt="实拍背景涂鸦人物替换" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-530-8f24a2d37563/v1.md"><strong>实拍背景涂鸦人物替换 · v1</strong></a><br><sub>awesome-gpt-image-2 #530</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-533-09c3cb90d3d5/v1.md"><img src="../../images/e8a9ad17a108dfaf19b6d782b0e621a3ab4a7c24af2afdb8ed06e434ebc14b06.jpg" alt="手绘涂鸦时尚人物插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-533-09c3cb90d3d5/v1.md"><strong>手绘涂鸦时尚人物插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #533</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.md"><img src="../../images/bd3a0e76ad2bf080037219cd6eb09c5498d496a18f58fde9142a55483a22248a.jpg" alt="同一人脸十二款发型 Lookbook" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.md"><strong>同一人脸十二款发型 Lookbook · v1</strong></a><br><sub>awesome-gpt-image-2 #535</sub></td>
+<td width="33%" align="center" valign="top"></td>
+<td width="33%" align="center" valign="top"></td>
+</tr>
+</table>
+

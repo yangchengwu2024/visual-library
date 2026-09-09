@@ -6,62 +6,106 @@
 
 共 59 个案例。点击标题查看本库图片与完整提示词。
 
-- [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-6-2ea137633699/v1.md) — awesome-gpt-image-2 \#6
-- [插画艺术风格创作 · v1](../../cases/case-awesome-gpt-image-2-22-3feea9504096/v1.md) — awesome-gpt-image-2 \#22
-- [写实摄影风格图 · v1](../../cases/case-awesome-gpt-image-2-30-0e57a476216a/v1.md) — awesome-gpt-image-2 \#30
-- [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-32-25aa2988d516/v1.md) — awesome-gpt-image-2 \#32
-- [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-34-3fb1924963d3/v1.md) — awesome-gpt-image-2 \#34
-- [综合应用场景图 · v1](../../cases/case-awesome-gpt-image-2-37-ac0a3a41e89b/v1.md) — awesome-gpt-image-2 \#37
-- [综合应用场景图 · v1](../../cases/case-awesome-gpt-image-2-38-47f34e325382/v1.md) — awesome-gpt-image-2 \#38
-- [综合应用场景图 · v1](../../cases/case-awesome-gpt-image-2-39-d32b7749886e/v1.md) — awesome-gpt-image-2 \#39
-- [综合应用场景图 · v1](../../cases/case-awesome-gpt-image-2-40-2502f87b984b/v1.md) — awesome-gpt-image-2 \#40
-- [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-43-df5abf7f8325/v1.md) — awesome-gpt-image-2 \#43
-- [写实摄影风格图 · v1](../../cases/case-awesome-gpt-image-2-52-826ddb2ffb6e/v1.md) — awesome-gpt-image-2 \#52
-- [漫画分镜叙事设计 · v1](../../cases/case-awesome-gpt-image-2-60-9e822e1d9d72/v1.md) — awesome-gpt-image-2 \#60
-- [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-112-f1e2fd4c65e9/v1.md) — awesome-gpt-image-2 \#112
-- [动漫插画创作图 · v1](../../cases/case-awesome-gpt-image-2-113-6f9229fcecfe/v1.md) — awesome-gpt-image-2 \#113
-- [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-114-fc7182d3f46d/v1.md) — awesome-gpt-image-2 \#114
-- [品牌视觉识别图 · v1](../../cases/case-awesome-gpt-image-2-115-44e8eff1d8d4/v1.md) — awesome-gpt-image-2 \#115
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-116-f749fd6523da/v1.md) — awesome-gpt-image-2 \#116
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-117-85e19583cec6/v1.md) — awesome-gpt-image-2 \#117
-- [漫画分镜叙事设计 · v1](../../cases/case-awesome-gpt-image-2-118-1def799583cc/v1.md) — awesome-gpt-image-2 \#118
-- [建筑空间场景图 · v1](../../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md) — awesome-gpt-image-2 \#120
-- [建筑空间场景图 · v1](../../cases/case-awesome-gpt-image-2-121-193212d75b64/v1.md) — awesome-gpt-image-2 \#121
-- [电商商品展示设计 · v1](../../cases/case-awesome-gpt-image-2-125-6e41c0a34420/v1.md) — awesome-gpt-image-2 \#125
-- [建筑空间场景图 · v1](../../cases/case-awesome-gpt-image-2-127-9b57e85a51c2/v1.md) — awesome-gpt-image-2 \#127
-- [绘画艺术风格图 · v1](../../cases/case-awesome-gpt-image-2-129-6a781bef5ac3/v1.md) — awesome-gpt-image-2 \#129
-- [千手观音化身打工人 · v1](../../cases/case-awesome-gpt-image-2-193-5570f9743359/v1.md) — awesome-gpt-image-2 \#193
-- [疾风起狂草艺术字体设计 · v1](../../cases/case-awesome-gpt-image-2-231-4765dd3df624/v1.md) — awesome-gpt-image-2 \#231
-- [蒙娜丽莎畅饮可乐的趣味油画 · v1](../../cases/case-awesome-gpt-image-2-233-b2bbd87dc2ea/v1.md) — awesome-gpt-image-2 \#233
-- [黑白线稿勾勒的上海风情 · v1](../../cases/case-awesome-gpt-image-2-246-259086cd2ade/v1.md) — awesome-gpt-image-2 \#246
-- [赛博朋克科幻曼荼罗 · v1](../../cases/case-awesome-gpt-image-2-281-6299893a5988/v1.md) — awesome-gpt-image-2 \#281
-- [极简留白涂鸦手绘草图 · v1](../../cases/case-awesome-gpt-image-2-299-8416e1d1dc5c/v1.md) — awesome-gpt-image-2 \#299
-- [冲破次元壁的写实漫画跑者 · v1](../../cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.md) — awesome-gpt-image-2 \#316
-- [立体刺绣小鸟花枝 · v1](../../cases/case-awesome-gpt-image-2-346-40ad00863d36/v1.md) — awesome-gpt-image-2 \#346
-- [过度思考超现实街头 Campaign · v1](../../cases/case-awesome-gpt-image-2-356-ceefa59f3f53/v1.md) — awesome-gpt-image-2 \#356
-- [彩色潦草小狗线条风格重绘 · v1](../../cases/case-awesome-gpt-image-2-374-cfc10bacefaa/v1.md) — awesome-gpt-image-2 \#374
-- [可爱纸艺风照片重绘 · v1](../../cases/case-awesome-gpt-image-2-405-3c0ce979501b/v1.md) — awesome-gpt-image-2 \#405
-- [拙劣 MS Paint 风重绘 · v1](../../cases/case-awesome-gpt-image-2-409-8069a10bd1c0/v1.md) — awesome-gpt-image-2 \#409
-- [夸张动漫风主体重绘 · v1](../../cases/case-awesome-gpt-image-2-410-06591a0f7ea4/v1.md) — awesome-gpt-image-2 \#410
-- [日系手绘涂鸦半身插画 · v1](../../cases/case-awesome-gpt-image-2-423-c70b77cf23c8/v1.md) — awesome-gpt-image-2 \#423
-- [铅笔素描时尚编辑插画 · v1](../../cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.md) — awesome-gpt-image-2 \#430
-- [韩国城市水彩旅行插画 · v1](../../cases/case-awesome-gpt-image-2-433-f0d68a2a63f9/v1.md) — awesome-gpt-image-2 \#433
-- [层叠纸雕情侣插画 · v1](../../cases/case-awesome-gpt-image-2-435-924421df0be8/v1.md) — awesome-gpt-image-2 \#435
-- [舒适发廊插画 · v1](../../cases/case-awesome-gpt-image-2-442-29ddceb782e7/v1.md) — awesome-gpt-image-2 \#442
-- [旅游照水墨明信片 · v1](../../cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.md) — awesome-gpt-image-2 \#445
-- [低多边形纸艺男士肖像 · v1](../../cases/case-awesome-gpt-image-2-446-5932f2218650/v1.md) — awesome-gpt-image-2 \#446
-- [极简童话手绘儿童插画 · v1](../../cases/case-awesome-gpt-image-2-452-755f950ef943/v1.md) — awesome-gpt-image-2 \#452
-- [巴黎秋季时装插画 · v1](../../cases/case-awesome-gpt-image-2-458-c464c6274fcf/v1.md) — awesome-gpt-image-2 \#458
-- [家庭旅行纸雕拼贴 · v1](../../cases/case-awesome-gpt-image-2-461-ea3a0aeb877a/v1.md) — awesome-gpt-image-2 \#461
-- [花簪和服动漫肖像 · v1](../../cases/case-awesome-gpt-image-2-471-4ed64dcac2cd/v1.md) — awesome-gpt-image-2 \#471
-- [早安拿铁微缩女孩 · v1](../../cases/case-awesome-gpt-image-2-476-044c4968c92a/v1.md) — awesome-gpt-image-2 \#476
-- [杂志纸艺拼贴重绘 · v1](../../cases/case-awesome-gpt-image-2-479-2d467cd5c007/v1.md) — awesome-gpt-image-2 \#479
-- [巴黎街头故事书插画 · v1](../../cases/case-awesome-gpt-image-2-495-ac5db87cde13/v1.md) — awesome-gpt-image-2 \#495
-- [铅笔画背景 3D 分身 · v1](../../cases/case-awesome-gpt-image-2-498-b3e691f4dc48/v1.md) — awesome-gpt-image-2 \#498
-- [粗糙涂鸦人像改图 · v1](../../cases/case-awesome-gpt-image-2-504-639918d9deb8/v1.md) — awesome-gpt-image-2 \#504
-- [单色点缀旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513
-- [硬边现代艺术人像 · v1](../../cases/case-awesome-gpt-image-2-514-b82b53c5864d/v1.md) — awesome-gpt-image-2 \#514
-- [月面宇航员 T 恤图形 · v1](../../cases/case-awesome-gpt-image-2-520-32ccede956b4/v1.md) — awesome-gpt-image-2 \#520
-- [曼哈顿公园水彩旅行插画 · v1](../../cases/case-awesome-gpt-image-2-523-293e282b3d57/v1.md) — awesome-gpt-image-2 \#523
-- [纸雕拼贴乡野人像 · v1](../../cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.md) — awesome-gpt-image-2 \#524
-- [梦幻未来城市编辑艺术海报 · v1](../../cases/case-awesome-gpt-image-2-540-0060e6408103/v1.md) — awesome-gpt-image-2 \#540
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-6-2ea137633699/v1.md"><img src="../../images/3bc16c60d2b3427cbe3343dc51fae567abb79b1c2924192ace2128d1dd5c7196.jpg" alt="插画艺术创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-6-2ea137633699/v1.md"><strong>插画艺术创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #6</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-22-3feea9504096/v1.md"><img src="../../images/49ee6eec972f7e5327f06f4808579651912f5609d16b3e748c666f689c9b5d3a.jpg" alt="插画艺术风格创作" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-22-3feea9504096/v1.md"><strong>插画艺术风格创作 · v1</strong></a><br><sub>awesome-gpt-image-2 #22</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-30-0e57a476216a/v1.md"><img src="../../images/ad6df359bc57d9c08324ad1d15016d92b4cecf2e6b3557a73e74107be71c97eb.jpg" alt="写实摄影风格图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-30-0e57a476216a/v1.md"><strong>写实摄影风格图 · v1</strong></a><br><sub>awesome-gpt-image-2 #30</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-32-25aa2988d516/v1.md"><img src="../../images/66e408c5f2d18fc7fbe65e9a8c77c944d4706653635ff5019c3cbcbe7e7410c7.jpg" alt="插画艺术创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-32-25aa2988d516/v1.md"><strong>插画艺术创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #32</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-34-3fb1924963d3/v1.md"><img src="../../images/a90b9b2b1eb38e73a5f2f19a4f734f8fa0275571ffdfa17cc9b2d9acdf8c9947.jpg" alt="插画艺术创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-34-3fb1924963d3/v1.md"><strong>插画艺术创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #34</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-37-ac0a3a41e89b/v1.md"><img src="../../images/d2e54872dba8d77d570ff3dfd514c3bf35c04081c52855c5ec1c53ba94ffa0da.jpg" alt="综合应用场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-37-ac0a3a41e89b/v1.md"><strong>综合应用场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #37</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-38-47f34e325382/v1.md"><img src="../../images/916b68689b3ed5bb5a49cb45a42557371154b114a7b9a00f88359fe7b53e1303.jpg" alt="综合应用场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-38-47f34e325382/v1.md"><strong>综合应用场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #38</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-39-d32b7749886e/v1.md"><img src="../../images/675cf2020d5028209786e3d1cf3b13baa21168b15bf13a7096186eccf127d001.jpg" alt="综合应用场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-39-d32b7749886e/v1.md"><strong>综合应用场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #39</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-40-2502f87b984b/v1.md"><img src="../../images/04f881c36fe7e4261c58f1673ee49114fe2694f919540f29768869b819aaa6af.jpg" alt="综合应用场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-40-2502f87b984b/v1.md"><strong>综合应用场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #40</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-43-df5abf7f8325/v1.md"><img src="../../images/8634fd6e51faeef157e773a22f1aa2c8549c3f9a41d9b4cfa7b0d16115329549.jpg" alt="插画艺术创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-43-df5abf7f8325/v1.md"><strong>插画艺术创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #43</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-52-826ddb2ffb6e/v1.md"><img src="../../images/f690823cac904c5564a598184e24891cd658e553561b60dfa20f03317360fba1.jpg" alt="写实摄影风格图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-52-826ddb2ffb6e/v1.md"><strong>写实摄影风格图 · v1</strong></a><br><sub>awesome-gpt-image-2 #52</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-60-9e822e1d9d72/v1.md"><img src="../../images/81423b67291e37ca9ca98bcc159c3ecbf69452e1640bec3e121ba2ecdd3d46bc.jpg" alt="漫画分镜叙事设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-60-9e822e1d9d72/v1.md"><strong>漫画分镜叙事设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #60</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-112-f1e2fd4c65e9/v1.md"><img src="../../images/208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce.jpg" alt="信息图可视化设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-112-f1e2fd4c65e9/v1.md"><strong>信息图可视化设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #112</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-113-6f9229fcecfe/v1.md"><img src="../../images/5bbad66b7bb76fff5b994efc071f4cab81511e31d28003ca800e4cf297a3278e.jpg" alt="动漫插画创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-113-6f9229fcecfe/v1.md"><strong>动漫插画创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #113</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-114-fc7182d3f46d/v1.md"><img src="../../images/7c32eb5f21ea74153a9130d3ebcf6235f4c056a0815c726ff60e0f07310cd32d.jpg" alt="插画艺术创作图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-114-fc7182d3f46d/v1.md"><strong>插画艺术创作图 · v1</strong></a><br><sub>awesome-gpt-image-2 #114</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-115-44e8eff1d8d4/v1.md"><img src="../../images/6d4751aa1167dc68d95a628a105ab57e5595d65f618ed663e3adcee6ca2298e5.jpg" alt="品牌视觉识别图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-115-44e8eff1d8d4/v1.md"><strong>品牌视觉识别图 · v1</strong></a><br><sub>awesome-gpt-image-2 #115</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-116-f749fd6523da/v1.md"><img src="../../images/8721fe5bf029d2ab5d02e2408c37f58cdd4e60421812bb04c5368cc3d0c84721.jpg" alt="主题海报版式设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-116-f749fd6523da/v1.md"><strong>主题海报版式设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #116</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-117-85e19583cec6/v1.md"><img src="../../images/08a27c3ee0b6a21b9ced0c8e5bf9a91037ebd2195acaf1eab0f3ba6bdc2b3ea1.jpg" alt="主题海报版式设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-117-85e19583cec6/v1.md"><strong>主题海报版式设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #117</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-118-1def799583cc/v1.md"><img src="../../images/bd2f5d540fce72004591ba9d1e2d777ad867192a0ab8a0b2baa72a08e4b1f6ea.jpg" alt="漫画分镜叙事设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-118-1def799583cc/v1.md"><strong>漫画分镜叙事设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #118</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md"><img src="../../images/809990b45791fd5f476c941d704225c799f7c325c058fd59662f0fbc86c81934.jpg" alt="建筑空间场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md"><strong>建筑空间场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #120</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-121-193212d75b64/v1.md"><img src="../../images/3a788ef89540158a7cddb5fcffe0403e76e9379a908cf757bc9132af85e43855.jpg" alt="建筑空间场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-121-193212d75b64/v1.md"><strong>建筑空间场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #121</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-125-6e41c0a34420/v1.md"><img src="../../images/3cf76caefe90fe74df1285a04299e810e77653b6d1b19ed85721adfb09101e2c.jpg" alt="电商商品展示设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-125-6e41c0a34420/v1.md"><strong>电商商品展示设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #125</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-127-9b57e85a51c2/v1.md"><img src="../../images/5c8d33ad3603ea789ec8b3cc45dc644fa391a6b72956ffbfcc8b2dbbc8a6c485.jpg" alt="建筑空间场景图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-127-9b57e85a51c2/v1.md"><strong>建筑空间场景图 · v1</strong></a><br><sub>awesome-gpt-image-2 #127</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-129-6a781bef5ac3/v1.md"><img src="../../images/b3069c3661785c82a54c1ae80ee1ca5210186aebdd6645b73667ab4491f739b4.png" alt="绘画艺术风格图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-129-6a781bef5ac3/v1.md"><strong>绘画艺术风格图 · v1</strong></a><br><sub>awesome-gpt-image-2 #129</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-193-5570f9743359/v1.md"><img src="../../images/6e25981c28e6d11fb4c826b8c617a5843ff2ab65295718cfeac8ca7857955b63.jpg" alt="千手观音化身打工人" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-193-5570f9743359/v1.md"><strong>千手观音化身打工人 · v1</strong></a><br><sub>awesome-gpt-image-2 #193</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-231-4765dd3df624/v1.md"><img src="../../images/974f3b52992689a846ca7cc0453e64f8b9d645bb6872d7962abae032a010376c.jpg" alt="疾风起狂草艺术字体设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-231-4765dd3df624/v1.md"><strong>疾风起狂草艺术字体设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #231</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-233-b2bbd87dc2ea/v1.md"><img src="../../images/eab2895a5c9275db8a02336eb9dc6d3febb439b0a6c6e6790ce060ef59f9b030.jpg" alt="蒙娜丽莎畅饮可乐的趣味油画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-233-b2bbd87dc2ea/v1.md"><strong>蒙娜丽莎畅饮可乐的趣味油画 · v1</strong></a><br><sub>awesome-gpt-image-2 #233</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-246-259086cd2ade/v1.md"><img src="../../images/92b5ddf1b9477b112f2a6de1a2ddd060427906229371a9b46c51b616c5e6db5d.jpg" alt="黑白线稿勾勒的上海风情" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-246-259086cd2ade/v1.md"><strong>黑白线稿勾勒的上海风情 · v1</strong></a><br><sub>awesome-gpt-image-2 #246</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-281-6299893a5988/v1.md"><img src="../../images/0a994b7e5b57f669b061bab9f176b41b79dc85374b0425e686260d77972c4531.jpg" alt="赛博朋克科幻曼荼罗" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-281-6299893a5988/v1.md"><strong>赛博朋克科幻曼荼罗 · v1</strong></a><br><sub>awesome-gpt-image-2 #281</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-299-8416e1d1dc5c/v1.md"><img src="../../images/a05e33c55ca2e2a48ef02767915cee4092b1dbf5f454d4502e4ab7ba3c5e4180.jpg" alt="极简留白涂鸦手绘草图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-299-8416e1d1dc5c/v1.md"><strong>极简留白涂鸦手绘草图 · v1</strong></a><br><sub>awesome-gpt-image-2 #299</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.md"><img src="../../images/7a7f3a5e255f4ebdc0e2fd7db93a6168d5bd205f3055a8d1089eab7d7223aa59.jpg" alt="冲破次元壁的写实漫画跑者" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.md"><strong>冲破次元壁的写实漫画跑者 · v1</strong></a><br><sub>awesome-gpt-image-2 #316</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-346-40ad00863d36/v1.md"><img src="../../images/f5b4a6aeea2b73c430344c1edfe4ab24bef1ebba2045f4163423c4a00fe01527.jpg" alt="立体刺绣小鸟花枝" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-346-40ad00863d36/v1.md"><strong>立体刺绣小鸟花枝 · v1</strong></a><br><sub>awesome-gpt-image-2 #346</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-356-ceefa59f3f53/v1.md"><img src="../../images/3533fc9d836f0c741d0b5b4fa93862758c621fb395e01bcce8eea3425a3c8931.jpg" alt="过度思考超现实街头 Campaign" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-356-ceefa59f3f53/v1.md"><strong>过度思考超现实街头 Campaign · v1</strong></a><br><sub>awesome-gpt-image-2 #356</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-374-cfc10bacefaa/v1.md"><img src="../../images/12bcd64730e24e90093d458bdacaf27d0402cc950fb3238f0d431ea9e4fa3acb.jpg" alt="彩色潦草小狗线条风格重绘" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-374-cfc10bacefaa/v1.md"><strong>彩色潦草小狗线条风格重绘 · v1</strong></a><br><sub>awesome-gpt-image-2 #374</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-405-3c0ce979501b/v1.md"><img src="../../images/c7be04ea2b085b3aff3ed94cec3fdba70ca786f41eda181ec93a07a730fd5520.jpg" alt="可爱纸艺风照片重绘" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-405-3c0ce979501b/v1.md"><strong>可爱纸艺风照片重绘 · v1</strong></a><br><sub>awesome-gpt-image-2 #405</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-409-8069a10bd1c0/v1.md"><img src="../../images/7d85ba10f29fb36d6205632d55c5eda3e48a9111a39f36d7deaa19ec13ae719e.jpg" alt="拙劣 MS Paint 风重绘" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-409-8069a10bd1c0/v1.md"><strong>拙劣 MS Paint 风重绘 · v1</strong></a><br><sub>awesome-gpt-image-2 #409</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-410-06591a0f7ea4/v1.md"><img src="../../images/3edbe1e5a25753d5253ff0248f8e22b62b7923049fb8e815bb7a4108254c9fed.jpg" alt="夸张动漫风主体重绘" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-410-06591a0f7ea4/v1.md"><strong>夸张动漫风主体重绘 · v1</strong></a><br><sub>awesome-gpt-image-2 #410</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-423-c70b77cf23c8/v1.md"><img src="../../images/c69dc47fe46de4d33165bd9ed619fbb51fe5677bc611bdec637115bd95bee18d.jpg" alt="日系手绘涂鸦半身插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-423-c70b77cf23c8/v1.md"><strong>日系手绘涂鸦半身插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #423</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.md"><img src="../../images/9f8b17209aa89b7a1f0e1523641bd1d396df5b5103c2c7cf7fad453090a1ca34.jpg" alt="铅笔素描时尚编辑插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.md"><strong>铅笔素描时尚编辑插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #430</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-433-f0d68a2a63f9/v1.md"><img src="../../images/2f1f1c8872aa6d1cfcfe468713491b827f9558f4af22e66bcb6344c02796770d.jpg" alt="韩国城市水彩旅行插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-433-f0d68a2a63f9/v1.md"><strong>韩国城市水彩旅行插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #433</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-435-924421df0be8/v1.md"><img src="../../images/bf0968651037c235f9316b36d7c3bcfe64f2ec04299b6456a255407f7bd04f23.jpg" alt="层叠纸雕情侣插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-435-924421df0be8/v1.md"><strong>层叠纸雕情侣插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #435</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-442-29ddceb782e7/v1.md"><img src="../../images/dd23775ceb7c267cc85a446f5b4c62392769a2caeb2e0bf4aa5d959e1301a0be.jpg" alt="舒适发廊插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-442-29ddceb782e7/v1.md"><strong>舒适发廊插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #442</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.md"><img src="../../images/60c2b30f0a9010e7268b43707ee2f447cad76ca12b7ae0b2f89b995a92ee37c3.jpg" alt="旅游照水墨明信片" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.md"><strong>旅游照水墨明信片 · v1</strong></a><br><sub>awesome-gpt-image-2 #445</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-446-5932f2218650/v1.md"><img src="../../images/2795bd9c56888b27e6802bcfe771b7ddb48cbfc2cf3b7ccdf82e9fb455cb4554.jpg" alt="低多边形纸艺男士肖像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-446-5932f2218650/v1.md"><strong>低多边形纸艺男士肖像 · v1</strong></a><br><sub>awesome-gpt-image-2 #446</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-452-755f950ef943/v1.md"><img src="../../images/f54089d2c2713e4c523fd3406d36cf671a07a60551cc8975d145d122145df4ce.jpg" alt="极简童话手绘儿童插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-452-755f950ef943/v1.md"><strong>极简童话手绘儿童插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #452</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-458-c464c6274fcf/v1.md"><img src="../../images/50fa2ff0a36cdc61bb8f3e1335b951d6073b39b507d3b77996bbd876be59687e.jpg" alt="巴黎秋季时装插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-458-c464c6274fcf/v1.md"><strong>巴黎秋季时装插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #458</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-461-ea3a0aeb877a/v1.md"><img src="../../images/8ea78cc4a6f2f917acf7bc174bc0528ae89304a82936b25cde920e72f9408106.jpg" alt="家庭旅行纸雕拼贴" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-461-ea3a0aeb877a/v1.md"><strong>家庭旅行纸雕拼贴 · v1</strong></a><br><sub>awesome-gpt-image-2 #461</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-471-4ed64dcac2cd/v1.md"><img src="../../images/2f71aa26b2a73d0420aaef93f3414a4a9020a78db8dc4914de344b3aadd3b648.jpg" alt="花簪和服动漫肖像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-471-4ed64dcac2cd/v1.md"><strong>花簪和服动漫肖像 · v1</strong></a><br><sub>awesome-gpt-image-2 #471</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-476-044c4968c92a/v1.md"><img src="../../images/553efd168adfa76068590bcf75bbcb707fda10fb429b297a7017b248addd6c2c.jpg" alt="早安拿铁微缩女孩" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-476-044c4968c92a/v1.md"><strong>早安拿铁微缩女孩 · v1</strong></a><br><sub>awesome-gpt-image-2 #476</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-479-2d467cd5c007/v1.md"><img src="../../images/2c2dfce4d68f752fbb3f2c370d8839af09ed5b8f4175c49041e25cb1cfe99fb4.jpg" alt="杂志纸艺拼贴重绘" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-479-2d467cd5c007/v1.md"><strong>杂志纸艺拼贴重绘 · v1</strong></a><br><sub>awesome-gpt-image-2 #479</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-495-ac5db87cde13/v1.md"><img src="../../images/268e2cfc0e23c45ae0a376abf83b9e1ccbb935256c3a43a3ce6317fd209d0c57.jpg" alt="巴黎街头故事书插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-495-ac5db87cde13/v1.md"><strong>巴黎街头故事书插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #495</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-498-b3e691f4dc48/v1.md"><img src="../../images/ebabe7bffee87868be343c5dba2e356b12906b8da8aaa14487b457541777b7ff.jpg" alt="铅笔画背景 3D 分身" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-498-b3e691f4dc48/v1.md"><strong>铅笔画背景 3D 分身 · v1</strong></a><br><sub>awesome-gpt-image-2 #498</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-504-639918d9deb8/v1.md"><img src="../../images/4191bc7acabdd90bba46b097ac4e1aac9dc45cfdd47422145f3f8e98acd4d10a.jpg" alt="粗糙涂鸦人像改图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-504-639918d9deb8/v1.md"><strong>粗糙涂鸦人像改图 · v1</strong></a><br><sub>awesome-gpt-image-2 #504</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md"><img src="../../images/f9ec3da74470962b67f6e8afb0ba8a97ee62a3c6ae380c6f006c1ca6a4b39166.jpg" alt="单色点缀旅行手账插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md"><strong>单色点缀旅行手账插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #513</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-514-b82b53c5864d/v1.md"><img src="../../images/5610ebf70ed1ecb30833693d085162542a8ae7bc11589f2cc18b92e316e7aa34.jpg" alt="硬边现代艺术人像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-514-b82b53c5864d/v1.md"><strong>硬边现代艺术人像 · v1</strong></a><br><sub>awesome-gpt-image-2 #514</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-520-32ccede956b4/v1.md"><img src="../../images/4bdf38349c3629e5ece08722935597c4d0c3e71d6b922c9ce71ae5a37be8aca1.jpg" alt="月面宇航员 T 恤图形" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-520-32ccede956b4/v1.md"><strong>月面宇航员 T 恤图形 · v1</strong></a><br><sub>awesome-gpt-image-2 #520</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-523-293e282b3d57/v1.md"><img src="../../images/8aae8ada81d5518d972a910ce3b6efbfd063d0f794d071b8fb9d63ecd5047441.jpg" alt="曼哈顿公园水彩旅行插画" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-523-293e282b3d57/v1.md"><strong>曼哈顿公园水彩旅行插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #523</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.md"><img src="../../images/38e199a0f03c61d18ffcb78ef972ee5563e3122df1ee38d7fdef88c019bfedaf.jpg" alt="纸雕拼贴乡野人像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.md"><strong>纸雕拼贴乡野人像 · v1</strong></a><br><sub>awesome-gpt-image-2 #524</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-540-0060e6408103/v1.md"><img src="../../images/52a7342838e71a5466adae11fa6453dd2fdc2e09aed22e88ba8e0e4cc0a7981d.jpg" alt="梦幻未来城市编辑艺术海报" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-540-0060e6408103/v1.md"><strong>梦幻未来城市编辑艺术海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #540</sub></td>
+<td width="33%" align="center" valign="top"></td>
+</tr>
+</table>
+

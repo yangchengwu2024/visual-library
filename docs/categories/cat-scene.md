@@ -6,24 +6,41 @@
 
 共 21 个案例。点击标题查看本库图片与完整提示词。
 
-- [千禧年日系校园喜剧场景 · v1](../../cases/case-awesome-gpt-image-2-182-a0e3a1f66e06/v1.md) — awesome-gpt-image-2 \#182
-- [樱花树下害羞双马尾少女 · v1](../../cases/case-awesome-gpt-image-2-208-a9c843ef6daa/v1.md) — awesome-gpt-image-2 \#208
-- [机甲少女立于废弃海城 · v1](../../cases/case-awesome-gpt-image-2-224-de5f96c5fade/v1.md) — awesome-gpt-image-2 \#224
-- [星云巨鲤与小人的奇幻对话 · v1](../../cases/case-awesome-gpt-image-2-238-59b7ff00aca7/v1.md) — awesome-gpt-image-2 \#238
-- [棘龙巨口中的酷飒少女与史前奇观 · v1](../../cases/case-awesome-gpt-image-2-315-5550f305740c/v1.md) — awesome-gpt-image-2 \#315
-- [鸟群织就的梦幻高定时装秀 · v1](../../cases/case-awesome-gpt-image-2-319-b1198259372e/v1.md) — awesome-gpt-image-2 \#319
-- [复古巴士上的红风衣女郎 · v1](../../cases/case-awesome-gpt-image-2-324-e693a8c44189/v1.md) — awesome-gpt-image-2 \#324
-- [烬甲猎鹰者与燃翼神禽 · v1](../../cases/case-awesome-gpt-image-2-329-3ad427d128f6/v1.md) — awesome-gpt-image-2 \#329
-- [彼岸花丛中的红妆女子 · v1](../../cases/case-awesome-gpt-image-2-340-6ac3a66b1f27/v1.md) — awesome-gpt-image-2 \#340
-- [羊毛毡国家微缩世界 · v1](../../cases/case-awesome-gpt-image-2-390-1ef8db420030/v1.md) — awesome-gpt-image-2 \#390
-- [头发里的微型城市 · v1](../../cases/case-awesome-gpt-image-2-392-224206b0b055/v1.md) — awesome-gpt-image-2 \#392
-- [中世纪村庄双精灵冒险者 · v1](../../cases/case-awesome-gpt-image-2-394-8721e6233cda/v1.md) — awesome-gpt-image-2 \#394
-- [骑士法师大战石像魔像 · v1](../../cases/case-awesome-gpt-image-2-395-50fb412453c6/v1.md) — awesome-gpt-image-2 \#395
-- [当代舞现场 Storyboard · v1](../../cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.md) — awesome-gpt-image-2 \#413
-- [可颂烘焙流程 Storyboard · v1](../../cases/case-awesome-gpt-image-2-419-413b548f6bb4/v1.md) — awesome-gpt-image-2 \#419
-- [冬季生存惊悚 Storyboard · v1](../../cases/case-awesome-gpt-image-2-422-7ee0ffbaff3e/v1.md) — awesome-gpt-image-2 \#422
-- [1942 空战街机电影城 · v1](../../cases/case-awesome-gpt-image-2-448-fe19d7c7fa99/v1.md) — awesome-gpt-image-2 \#448
-- [Instagram 餐桌俯拍创意 · v1](../../cases/case-awesome-gpt-image-2-477-c589d62b9baf/v1.md) — awesome-gpt-image-2 \#477
-- [法式药妆商业分镜封面 · v1](../../cases/case-awesome-gpt-image-2-487-3b7465114e33/v1.md) — awesome-gpt-image-2 \#487
-- [东京旅行 13 格视频封面 · v1](../../cases/case-awesome-gpt-image-2-493-b9de32d3fb52/v1.md) — awesome-gpt-image-2 \#493
-- [地下档案馆暗黑概念海报 · v1](../../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md) — awesome-gpt-image-2 \#537
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-182-a0e3a1f66e06/v1.md"><img src="../../images/9968f5a5d3f772ce1211f4a8bf6632bfa6b2402a016379063642704aa9e4aa39.jpg" alt="千禧年日系校园喜剧场景" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-182-a0e3a1f66e06/v1.md"><strong>千禧年日系校园喜剧场景 · v1</strong></a><br><sub>awesome-gpt-image-2 #182</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-208-a9c843ef6daa/v1.md"><img src="../../images/23a3311a9613cb37113de3c7738736d026999a35a1cefc626dc652b516def737.jpg" alt="樱花树下害羞双马尾少女" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-208-a9c843ef6daa/v1.md"><strong>樱花树下害羞双马尾少女 · v1</strong></a><br><sub>awesome-gpt-image-2 #208</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-224-de5f96c5fade/v1.md"><img src="../../images/b9571de9cb6481ca05e94223bc29c352a92c76a9ac8bdc860908558354f00661.jpg" alt="机甲少女立于废弃海城" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-224-de5f96c5fade/v1.md"><strong>机甲少女立于废弃海城 · v1</strong></a><br><sub>awesome-gpt-image-2 #224</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-238-59b7ff00aca7/v1.md"><img src="../../images/de2e562cb457eff2c906428d7d7799117a3ce89bf3b400f85789b8a65760ca4c.jpg" alt="星云巨鲤与小人的奇幻对话" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-238-59b7ff00aca7/v1.md"><strong>星云巨鲤与小人的奇幻对话 · v1</strong></a><br><sub>awesome-gpt-image-2 #238</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-315-5550f305740c/v1.md"><img src="../../images/32926e355df8492d3b0363853fa1bb7ac8d674774576faf7b23210cab29bec7b.jpg" alt="棘龙巨口中的酷飒少女与史前奇观" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-315-5550f305740c/v1.md"><strong>棘龙巨口中的酷飒少女与史前奇观 · v1</strong></a><br><sub>awesome-gpt-image-2 #315</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-319-b1198259372e/v1.md"><img src="../../images/175418d041c8b13c57570bf41f859d03714f56c0892be52cb3ea5b3487d63fc8.jpg" alt="鸟群织就的梦幻高定时装秀" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-319-b1198259372e/v1.md"><strong>鸟群织就的梦幻高定时装秀 · v1</strong></a><br><sub>awesome-gpt-image-2 #319</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-324-e693a8c44189/v1.md"><img src="../../images/ac3eba6ce5375852aa70d1900679d1ece1cdd032111e3c3502cc4f4648e3a0d8.jpg" alt="复古巴士上的红风衣女郎" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-324-e693a8c44189/v1.md"><strong>复古巴士上的红风衣女郎 · v1</strong></a><br><sub>awesome-gpt-image-2 #324</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-329-3ad427d128f6/v1.md"><img src="../../images/dbb9252e59063ee5765138270e940b1cc5f85763f67aaacd6703c55d7ad8b6ca.jpg" alt="烬甲猎鹰者与燃翼神禽" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-329-3ad427d128f6/v1.md"><strong>烬甲猎鹰者与燃翼神禽 · v1</strong></a><br><sub>awesome-gpt-image-2 #329</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-340-6ac3a66b1f27/v1.md"><img src="../../images/b5400d0e43dd73b8d594bd0943522777a60679aba7a8cceb5e1143017d281c4d.png" alt="彼岸花丛中的红妆女子" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-340-6ac3a66b1f27/v1.md"><strong>彼岸花丛中的红妆女子 · v1</strong></a><br><sub>awesome-gpt-image-2 #340</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-390-1ef8db420030/v1.md"><img src="../../images/a1723c725b4cdfc82afff601679b562810d7ee3d3425a052017299edece3c3da.jpg" alt="羊毛毡国家微缩世界" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-390-1ef8db420030/v1.md"><strong>羊毛毡国家微缩世界 · v1</strong></a><br><sub>awesome-gpt-image-2 #390</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-392-224206b0b055/v1.md"><img src="../../images/fc1b68d09237d8c355ff47ee14bae209dc3474dc747fff06ce78c7d613698834.jpg" alt="头发里的微型城市" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-392-224206b0b055/v1.md"><strong>头发里的微型城市 · v1</strong></a><br><sub>awesome-gpt-image-2 #392</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-394-8721e6233cda/v1.md"><img src="../../images/86ba02fb0f2568a69fc062578db7c5e8dc8a95f53694d66e1e5df072e38a092d.jpg" alt="中世纪村庄双精灵冒险者" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-394-8721e6233cda/v1.md"><strong>中世纪村庄双精灵冒险者 · v1</strong></a><br><sub>awesome-gpt-image-2 #394</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-395-50fb412453c6/v1.md"><img src="../../images/7fa0c58de2a999eaf8a513a48d2c35735133691e13700df19d3f34145478c004.jpg" alt="骑士法师大战石像魔像" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-395-50fb412453c6/v1.md"><strong>骑士法师大战石像魔像 · v1</strong></a><br><sub>awesome-gpt-image-2 #395</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.md"><img src="../../images/2a6ed867365874b2203f1c5613c56e0e5baaee76739c299b53272e49fb56a631.jpg" alt="当代舞现场 Storyboard" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.md"><strong>当代舞现场 Storyboard · v1</strong></a><br><sub>awesome-gpt-image-2 #413</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-419-413b548f6bb4/v1.md"><img src="../../images/b5b83e4423af8550ed50bc9251e3fe3e397822f8b5936162ef1a1ff11c92777f.jpg" alt="可颂烘焙流程 Storyboard" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-419-413b548f6bb4/v1.md"><strong>可颂烘焙流程 Storyboard · v1</strong></a><br><sub>awesome-gpt-image-2 #419</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-422-7ee0ffbaff3e/v1.md"><img src="../../images/9aa59241174ab583b6292cc08343833183422531e0815ea4e594437c5a25a256.jpg" alt="冬季生存惊悚 Storyboard" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-422-7ee0ffbaff3e/v1.md"><strong>冬季生存惊悚 Storyboard · v1</strong></a><br><sub>awesome-gpt-image-2 #422</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-448-fe19d7c7fa99/v1.md"><img src="../../images/b57e910a8507b3c01a72c1c9fe043a6c7e30dfba3aee8f7a76d7215bfdc50bea.jpg" alt="1942 空战街机电影城" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-448-fe19d7c7fa99/v1.md"><strong>1942 空战街机电影城 · v1</strong></a><br><sub>awesome-gpt-image-2 #448</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-477-c589d62b9baf/v1.md"><img src="../../images/52ae24a367112908455240a20bc594a24cd4382f3b95b3c3cb3b5b497116a49e.jpg" alt="Instagram 餐桌俯拍创意" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-477-c589d62b9baf/v1.md"><strong>Instagram 餐桌俯拍创意 · v1</strong></a><br><sub>awesome-gpt-image-2 #477</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-487-3b7465114e33/v1.md"><img src="../../images/9f364db079d7fbf6854f003853e5ef9803f8c8ecb8f992675e2a4936a5cc82e0.jpg" alt="法式药妆商业分镜封面" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-487-3b7465114e33/v1.md"><strong>法式药妆商业分镜封面 · v1</strong></a><br><sub>awesome-gpt-image-2 #487</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-493-b9de32d3fb52/v1.md"><img src="../../images/b32516e91a24fd7d9bceb3908d9b6e0264f81885f46ca7f7a254a9f507f81f12.jpg" alt="东京旅行 13 格视频封面" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-493-b9de32d3fb52/v1.md"><strong>东京旅行 13 格视频封面 · v1</strong></a><br><sub>awesome-gpt-image-2 #493</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md"><img src="../../images/fce0bc791620458ecf7b1d734ea5b8e23b577515dae36b701bce588f36db6872.jpg" alt="地下档案馆暗黑概念海报" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md"><strong>地下档案馆暗黑概念海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #537</sub></td>
+</tr>
+</table>
+

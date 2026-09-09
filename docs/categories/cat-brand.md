@@ -6,30 +6,51 @@
 
 共 27 个案例。点击标题查看本库图片与完整提示词。
 
-- [界面交互设计图 · v1](../../cases/case-awesome-gpt-image-2-130-e7382c61ae60/v1.md) — awesome-gpt-image-2 \#130
-- [界面交互设计图 · v1](../../cases/case-awesome-gpt-image-2-132-7e20ffea7fb3/v1.md) — awesome-gpt-image-2 \#132
-- [界面交互设计图 · v1](../../cases/case-awesome-gpt-image-2-134-a6bea019455a/v1.md) — awesome-gpt-image-2 \#134
-- [应用界面样机图 · v1](../../cases/case-awesome-gpt-image-2-135-d3491dcbaff6/v1.md) — awesome-gpt-image-2 \#135
-- [品牌视觉识别图 · v1](../../cases/case-awesome-gpt-image-2-136-75f69e469cdc/v1.md) — awesome-gpt-image-2 \#136
-- [界面交互设计图 · v1](../../cases/case-awesome-gpt-image-2-137-56fe59f8d583/v1.md) — awesome-gpt-image-2 \#137
-- [封面排版设计图 · v1](../../cases/case-awesome-gpt-image-2-138-438051b2711b/v1.md) — awesome-gpt-image-2 \#138
-- [品牌吉祥物设定图 · v1](../../cases/case-awesome-gpt-image-2-160-450260cd805d/v1.md) — awesome-gpt-image-2 \#160
-- [赛博科幻桃太郎主视觉图 · v1](../../cases/case-awesome-gpt-image-2-172-a8524c67834d/v1.md) — awesome-gpt-image-2 \#172
-- [品牌视觉识别图 · v1](../../cases/case-awesome-gpt-image-2-186-efc1cbf5f7a6/v1.md) — awesome-gpt-image-2 \#186
-- [雅致图案四款时尚单品设计 · v1](../../cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.md) — awesome-gpt-image-2 \#216
-- [杜蕾斯茶颜悦色联名海报设计 · v1](../../cases/case-awesome-gpt-image-2-244-47dbc05d8bff/v1.md) — awesome-gpt-image-2 \#244
-- [运动健身图标字体设计 · v1](../../cases/case-awesome-gpt-image-2-247-e69db8b5673e/v1.md) — awesome-gpt-image-2 \#247
-- [精美潮汕菜馆菜单图 · v1](../../cases/case-awesome-gpt-image-2-294-33c9849a6af6/v1.md) — awesome-gpt-image-2 \#294
-- [零食品牌技术分解图 · v1](../../cases/case-awesome-gpt-image-2-310-72223e34cb3a/v1.md) — awesome-gpt-image-2 \#310
-- [四季包装 Campaign 宫格 · v1](../../cases/case-awesome-gpt-image-2-342-614e58b0f55d/v1.md) — awesome-gpt-image-2 \#342
-- [NOIR 街头服饰 Campaign · v1](../../cases/case-awesome-gpt-image-2-344-a0291c56fadd/v1.md) — awesome-gpt-image-2 \#344
-- [Logo 与品牌身份系统提示词合集 · v1](../../cases/case-awesome-gpt-image-2-354-680733a720d5/v1.md) — awesome-gpt-image-2 \#354
-- [抹茶品牌触点系统视觉板 · v1](../../cases/case-awesome-gpt-image-2-362-57e3c4156604/v1.md) — awesome-gpt-image-2 \#362
-- [品牌人格漫画信息图 · v1](../../cases/case-awesome-gpt-image-2-379-a6632be6ae99/v1.md) — awesome-gpt-image-2 \#379
-- [品牌包络产品广告 · v1](../../cases/case-awesome-gpt-image-2-386-a4cdfea5a647/v1.md) — awesome-gpt-image-2 \#386
-- [迪斯科镜面 3D App 图标 · v1](../../cases/case-awesome-gpt-image-2-444-fcc2d1e9de42/v1.md) — awesome-gpt-image-2 \#444
-- [品牌奶茶 KV 概念海报 · v1](../../cases/case-awesome-gpt-image-2-459-f842990bf506/v1.md) — awesome-gpt-image-2 \#459
-- [夹层式品牌编辑海报 · v1](../../cases/case-awesome-gpt-image-2-478-660b54cae141/v1.md) — awesome-gpt-image-2 \#478
-- [水雕品牌 Logo 六宫格 · v1](../../cases/case-awesome-gpt-image-2-496-9ba0679cee7a/v1.md) — awesome-gpt-image-2 \#496
-- [Bichon Shop 拟物 App 图标 · v1](../../cases/case-awesome-gpt-image-2-510-a25091f03cb2/v1.md) — awesome-gpt-image-2 \#510
-- [工业橡胶管品牌造型渲染 · v1](../../cases/case-awesome-gpt-image-2-516-851557abfd8a/v1.md) — awesome-gpt-image-2 \#516
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-130-e7382c61ae60/v1.md"><img src="../../images/daa9e8b6c87cc62e59a42230ed13723f3c698b48b99a1ba1094d24d7a0175769.jpg" alt="界面交互设计图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-130-e7382c61ae60/v1.md"><strong>界面交互设计图 · v1</strong></a><br><sub>awesome-gpt-image-2 #130</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-132-7e20ffea7fb3/v1.md"><img src="../../images/5ce6eb1298f4df7c8551f1ec3e0ab5a47f1e8aa053f5624904484c731a12f066.jpg" alt="界面交互设计图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-132-7e20ffea7fb3/v1.md"><strong>界面交互设计图 · v1</strong></a><br><sub>awesome-gpt-image-2 #132</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-134-a6bea019455a/v1.md"><img src="../../images/7d11b36a7be012203be87d9e4af038d65be53d4822c5d2280b362d87a3567f35.jpg" alt="界面交互设计图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-134-a6bea019455a/v1.md"><strong>界面交互设计图 · v1</strong></a><br><sub>awesome-gpt-image-2 #134</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-135-d3491dcbaff6/v1.md"><img src="../../images/aa0cbea5840623a04560007f030b1bbd975cc1a23a15038d67bf4094eb990973.jpg" alt="应用界面样机图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-135-d3491dcbaff6/v1.md"><strong>应用界面样机图 · v1</strong></a><br><sub>awesome-gpt-image-2 #135</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-136-75f69e469cdc/v1.md"><img src="../../images/80be9805896940016b79d23d68f75f9980923870d754359d1c7c55472f70e10d.jpg" alt="品牌视觉识别图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-136-75f69e469cdc/v1.md"><strong>品牌视觉识别图 · v1</strong></a><br><sub>awesome-gpt-image-2 #136</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-137-56fe59f8d583/v1.md"><img src="../../images/7e3c08d4b4735579296f3df1ecb75e94a19cc8ab9f0268a6bed859743bc68fd1.jpg" alt="界面交互设计图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-137-56fe59f8d583/v1.md"><strong>界面交互设计图 · v1</strong></a><br><sub>awesome-gpt-image-2 #137</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-138-438051b2711b/v1.md"><img src="../../images/352fd42fe75a75c6bfc6f39cc4b41a25e7ee8005819ca74d4d063ba80b4cfaf1.jpg" alt="封面排版设计图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-138-438051b2711b/v1.md"><strong>封面排版设计图 · v1</strong></a><br><sub>awesome-gpt-image-2 #138</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-160-450260cd805d/v1.md"><img src="../../images/793454400635b2933aaf54c95c905d6d4dac21ab1da1ac3915b5626047ca47f2.jpg" alt="品牌吉祥物设定图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-160-450260cd805d/v1.md"><strong>品牌吉祥物设定图 · v1</strong></a><br><sub>awesome-gpt-image-2 #160</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-172-a8524c67834d/v1.md"><img src="../../images/f9987e825041081338864dc499979ab199b7982c96d1e34544a0e475d8163869.jpg" alt="赛博科幻桃太郎主视觉图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-172-a8524c67834d/v1.md"><strong>赛博科幻桃太郎主视觉图 · v1</strong></a><br><sub>awesome-gpt-image-2 #172</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-186-efc1cbf5f7a6/v1.md"><img src="../../images/ad1c8e741a13f2f02a2ec751135b089dc3056e826499c0b8feb5bfe7491912a2.jpg" alt="品牌视觉识别图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-186-efc1cbf5f7a6/v1.md"><strong>品牌视觉识别图 · v1</strong></a><br><sub>awesome-gpt-image-2 #186</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.md"><img src="../../images/c9e1f6cebfdd755f81713bd4a6364b5c2bea2d0b53adbd46460ed50c2210f15a.png" alt="雅致图案四款时尚单品设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.md"><strong>雅致图案四款时尚单品设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #216</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-244-47dbc05d8bff/v1.md"><img src="../../images/6d8833f0f4d15ccb7d469951ef4bbb09f4eb1ed189c2510696acece731adf3a3.jpg" alt="杜蕾斯茶颜悦色联名海报设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-244-47dbc05d8bff/v1.md"><strong>杜蕾斯茶颜悦色联名海报设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #244</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-247-e69db8b5673e/v1.md"><img src="../../images/5c36819a12b807c77ea0162f4ca799e062ad6e0ce2919b239a7547dec1e2b86b.jpg" alt="运动健身图标字体设计" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-247-e69db8b5673e/v1.md"><strong>运动健身图标字体设计 · v1</strong></a><br><sub>awesome-gpt-image-2 #247</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-294-33c9849a6af6/v1.md"><img src="../../images/d8cb0013f67f46b51507fc8134f8e5718b5c6efc2ff14a63d03bf9bf70daa4ab.jpg" alt="精美潮汕菜馆菜单图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-294-33c9849a6af6/v1.md"><strong>精美潮汕菜馆菜单图 · v1</strong></a><br><sub>awesome-gpt-image-2 #294</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-310-72223e34cb3a/v1.md"><img src="../../images/86a409aa979a8e68ce31c09dddd2d7d6e3d4c77d3e10d53521c0e3fe343cfc71.jpg" alt="零食品牌技术分解图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-310-72223e34cb3a/v1.md"><strong>零食品牌技术分解图 · v1</strong></a><br><sub>awesome-gpt-image-2 #310</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-342-614e58b0f55d/v1.md"><img src="../../images/370f8d49944934cbb4b2cc8bed833b501db74e2b9bf02b804cd881b0d1cf8d9c.jpg" alt="四季包装 Campaign 宫格" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-342-614e58b0f55d/v1.md"><strong>四季包装 Campaign 宫格 · v1</strong></a><br><sub>awesome-gpt-image-2 #342</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-344-a0291c56fadd/v1.md"><img src="../../images/035022a432aabbc4e8b03b73bf0c2bb152bfafea7bb2b9dd77b872a194fb50e2.jpg" alt="NOIR 街头服饰 Campaign" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-344-a0291c56fadd/v1.md"><strong>NOIR 街头服饰 Campaign · v1</strong></a><br><sub>awesome-gpt-image-2 #344</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-354-680733a720d5/v1.md"><img src="../../images/2f889229ccd41f32649fd88e8ecee133bfdb6553c868420defb82ba82766c51d.jpg" alt="Logo 与品牌身份系统提示词合集" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-354-680733a720d5/v1.md"><strong>Logo 与品牌身份系统提示词合集 · v1</strong></a><br><sub>awesome-gpt-image-2 #354</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-362-57e3c4156604/v1.md"><img src="../../images/98602c5ee9033e5d80c656abc5409391b181f4d207f43e404d49a1057a2034ce.jpg" alt="抹茶品牌触点系统视觉板" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-362-57e3c4156604/v1.md"><strong>抹茶品牌触点系统视觉板 · v1</strong></a><br><sub>awesome-gpt-image-2 #362</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-379-a6632be6ae99/v1.md"><img src="../../images/5e50065e5292623799d184949e9156d9102be610b20a2d5ceecb31cd8830cad8.jpg" alt="品牌人格漫画信息图" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-379-a6632be6ae99/v1.md"><strong>品牌人格漫画信息图 · v1</strong></a><br><sub>awesome-gpt-image-2 #379</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-386-a4cdfea5a647/v1.md"><img src="../../images/e875d5d15bd061341d6154123613ed1d822312299619a8728843af200489c460.jpg" alt="品牌包络产品广告" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-386-a4cdfea5a647/v1.md"><strong>品牌包络产品广告 · v1</strong></a><br><sub>awesome-gpt-image-2 #386</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-444-fcc2d1e9de42/v1.md"><img src="../../images/e617751b6dc766bc3000443e0acf493408cb9fe2899d336316262414208f0502.jpg" alt="迪斯科镜面 3D App 图标" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-444-fcc2d1e9de42/v1.md"><strong>迪斯科镜面 3D App 图标 · v1</strong></a><br><sub>awesome-gpt-image-2 #444</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-459-f842990bf506/v1.md"><img src="../../images/bd4602fc685e62ee55607d716670f461b2d8892df2e4873ad6f1b628140dfa61.jpg" alt="品牌奶茶 KV 概念海报" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-459-f842990bf506/v1.md"><strong>品牌奶茶 KV 概念海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #459</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-478-660b54cae141/v1.md"><img src="../../images/8b649dbb80ed769bb3d50bbbab14b3199eb87b28e5ffae4df09abd770342b9fd.jpg" alt="夹层式品牌编辑海报" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-478-660b54cae141/v1.md"><strong>夹层式品牌编辑海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #478</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-496-9ba0679cee7a/v1.md"><img src="../../images/093ee67b50ef24fe226956e845405c4d24f7ef1eb4aca4798e70c0f037000738.jpg" alt="水雕品牌 Logo 六宫格" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-496-9ba0679cee7a/v1.md"><strong>水雕品牌 Logo 六宫格 · v1</strong></a><br><sub>awesome-gpt-image-2 #496</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-510-a25091f03cb2/v1.md"><img src="../../images/f2422d47e1ecc53ce285088b36b574c8c082784759a07ec3fb3e8da0545be3ec.jpg" alt="Bichon Shop 拟物 App 图标" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-510-a25091f03cb2/v1.md"><strong>Bichon Shop 拟物 App 图标 · v1</strong></a><br><sub>awesome-gpt-image-2 #510</sub></td>
+<td width="33%" align="center" valign="top"><a href="../../cases/case-awesome-gpt-image-2-516-851557abfd8a/v1.md"><img src="../../images/ef9120dc2799bed66e3368f2ebd12ea35ab85e66fcb76e0949e4d3802ea3df55.jpg" alt="工业橡胶管品牌造型渲染" width="220"></a><br><a href="../../cases/case-awesome-gpt-image-2-516-851557abfd8a/v1.md"><strong>工业橡胶管品牌造型渲染 · v1</strong></a><br><sub>awesome-gpt-image-2 #516</sub></td>
+</tr>
+</table>
+

@@ -12,44 +12,84 @@
 
 ## 分类浏览
 
-| 分类 | 案例数 |
-| --- | ---: |
-| [UI 与界面](categories/cat-ui.md) | 73 |
-| [图表与信息可视化](categories/cat-infographic.md) | 53 |
-| [海报与排版](categories/cat-poster.md) | 90 |
-| [商品与电商](categories/cat-product.md) | 42 |
-| [品牌与标志](categories/cat-brand.md) | 27 |
-| [建筑与空间](categories/cat-architecture.md) | 12 |
-| [摄影与写实](categories/cat-photo.md) | 78 |
-| [插画与艺术](categories/cat-illustration.md) | 59 |
-| [人物与角色](categories/cat-character.md) | 31 |
-| [场景与叙事](categories/cat-scene.md) | 21 |
-| [历史与古风题材](categories/cat-history.md) | 16 |
-| [文档与出版物](categories/cat-document.md) | 11 |
-| [其他应用场景](categories/cat-other.md) | 28 |
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="categories/cat-ui.md"><img src="../assets/category-covers/ui.jpg" alt="UI 与界面" width="220"></a><br><a href="categories/cat-ui.md"><strong>UI 与界面</strong></a><br><sub>73 个案例</sub><br>App、网页、仪表盘、社媒截图与产品界面。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-infographic.md"><img src="../assets/category-covers/infographic.jpg" alt="图表与信息可视化" width="220"></a><br><a href="categories/cat-infographic.md"><strong>图表与信息可视化</strong></a><br><sub>53 个案例</sub><br>信息图、知识图谱、技术解释与结构化图解。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-poster.md"><img src="../assets/category-covers/poster.jpg" alt="海报与排版" width="220"></a><br><a href="categories/cat-poster.md"><strong>海报与排版</strong></a><br><sub>90 个案例</sub><br>活动海报、封面、字体视觉和强排版画面。</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="categories/cat-product.md"><img src="../assets/category-covers/product.jpg" alt="商品与电商" width="220"></a><br><a href="categories/cat-product.md"><strong>商品与电商</strong></a><br><sub>42 个案例</sub><br>商品图、详情页、包装卖点和商业广告。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-brand.md"><img src="../assets/category-covers/brand.jpg" alt="品牌与标志" width="220"></a><br><a href="categories/cat-brand.md"><strong>品牌与标志</strong></a><br><sub>27 个案例</sub><br>Logo、VI、品牌触点和 Campaign 视觉系统。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-architecture.md"><img src="../assets/category-covers/architecture.jpg" alt="建筑与空间" width="220"></a><br><a href="categories/cat-architecture.md"><strong>建筑与空间</strong></a><br><sub>12 个案例</sub><br>建筑表现、室内空间、城市地图和空间概念。</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="categories/cat-photo.md"><img src="../assets/category-covers/photo.jpg" alt="摄影与写实" width="220"></a><br><a href="categories/cat-photo.md"><strong>摄影与写实</strong></a><br><sub>78 个案例</sub><br>人像、手机纪实、胶片质感和商业摄影。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-illustration.md"><img src="../assets/category-covers/illustration.jpg" alt="插画与艺术" width="220"></a><br><a href="categories/cat-illustration.md"><strong>插画与艺术</strong></a><br><sub>59 个案例</sub><br>插画、艺术风格、材质实验和装饰画面。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-character.md"><img src="../assets/category-covers/character.jpg" alt="人物与角色" width="220"></a><br><a href="categories/cat-character.md"><strong>人物与角色</strong></a><br><sub>31 个案例</sub><br>角色设定、动作参考、卡牌和 3D 玩具。</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="categories/cat-scene.md"><img src="../assets/category-covers/scene.jpg" alt="场景与叙事" width="220"></a><br><a href="categories/cat-scene.md"><strong>场景与叙事</strong></a><br><sub>21 个案例</sub><br>分镜、故事场景、直播画面和世界观叙事。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-history.md"><img src="../assets/category-covers/history.jpg" alt="历史与古风题材" width="220"></a><br><a href="categories/cat-history.md"><strong>历史与古风题材</strong></a><br><sub>16 个案例</sub><br>古风长卷、历史人物、传统题材和诗词画面。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-document.md"><img src="../assets/category-covers/document.jpg" alt="文档与出版物" width="220"></a><br><a href="categories/cat-document.md"><strong>文档与出版物</strong></a><br><sub>11 个案例</sub><br>白皮书、手册、百科图鉴和出版页设计。</td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="categories/cat-other.md"><img src="../assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>28 个案例</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
+<td width="33%" align="center" valign="top"></td>
+<td width="33%" align="center" valign="top"></td>
+</tr>
+</table>
+
 
 ## 全部案例
 
-每册最多 100 个案例，下列分册合计覆盖全部已收录案例。
+每册最多 25 个案例，下列分册合计覆盖全部已收录案例。
 
-- [第 1 册](gallery-part-1.md)（100 个案例）
-- [第 2 册](gallery-part-2.md)（100 个案例）
-- [第 3 册](gallery-part-3.md)（100 个案例）
-- [第 4 册](gallery-part-4.md)（100 个案例）
-- [第 5 册](gallery-part-5.md)（100 个案例）
-- [第 6 册](gallery-part-6.md)（41 个案例）
+- [第 1 册](gallery-part-1.md)（25 个案例）
+- [第 2 册](gallery-part-2.md)（25 个案例）
+- [第 3 册](gallery-part-3.md)（25 个案例）
+- [第 4 册](gallery-part-4.md)（25 个案例）
+- [第 5 册](gallery-part-5.md)（25 个案例）
+- [第 6 册](gallery-part-6.md)（25 个案例）
+- [第 7 册](gallery-part-7.md)（25 个案例）
+- [第 8 册](gallery-part-8.md)（25 个案例）
+- [第 9 册](gallery-part-9.md)（25 个案例）
+- [第 10 册](gallery-part-10.md)（25 个案例）
+- [第 11 册](gallery-part-11.md)（25 个案例）
+- [第 12 册](gallery-part-12.md)（25 个案例）
+- [第 13 册](gallery-part-13.md)（25 个案例）
+- [第 14 册](gallery-part-14.md)（25 个案例）
+- [第 15 册](gallery-part-15.md)（25 个案例）
+- [第 16 册](gallery-part-16.md)（25 个案例）
+- [第 17 册](gallery-part-17.md)（25 个案例）
+- [第 18 册](gallery-part-18.md)（25 个案例）
+- [第 19 册](gallery-part-19.md)（25 个案例）
+- [第 20 册](gallery-part-20.md)（25 个案例）
+- [第 21 册](gallery-part-21.md)（25 个案例）
+- [第 22 册](gallery-part-22.md)（16 个案例）
 
 ## 最近收录
 
-- [幼儿词汇拆解学习卡 · v1](../cases/case-awesome-gpt-image-2-544-17752a2360f7/v1.md) — awesome-gpt-image-2 \#544
-- [旅行纪念珐琅徽章 · v1](../cases/case-awesome-gpt-image-2-543-06879a313369/v1.md) — awesome-gpt-image-2 \#543
-- [黑白排版侧脸肖像海报 · v1](../cases/case-awesome-gpt-image-2-542-f0f1211f8e48/v1.md) — awesome-gpt-image-2 \#542
-- [50/50 混合媒介回忆卡 · v1](../cases/case-awesome-gpt-image-2-541-e488bf2c9548/v1.md) — awesome-gpt-image-2 \#541
-- [梦幻未来城市编辑艺术海报 · v1](../cases/case-awesome-gpt-image-2-540-0060e6408103/v1.md) — awesome-gpt-image-2 \#540
-- [粗粝手绘搭档肖像海报 · v1](../cases/case-awesome-gpt-image-2-539-c5c77f1cba30/v1.md) — awesome-gpt-image-2 \#539
-- [橡皮章旅行田野笔记海报 · v1](../cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.md) — awesome-gpt-image-2 \#538
-- [地下档案馆暗黑概念海报 · v1](../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md) — awesome-gpt-image-2 \#537
-- [春日樱花回眸电影人像 · v1](../cases/case-awesome-gpt-image-2-536-79cf1f87b55b/v1.md) — awesome-gpt-image-2 \#536
-- [同一人脸十二款发型 Lookbook · v1](../cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.md) — awesome-gpt-image-2 \#535
-- [红光干扰实验编辑人像海报 · v1](../cases/case-awesome-gpt-image-2-534-cf66fd3365f0/v1.md) — awesome-gpt-image-2 \#534
-- [手绘涂鸦时尚人物插画 · v1](../cases/case-awesome-gpt-image-2-533-09c3cb90d3d5/v1.md) — awesome-gpt-image-2 \#533
+<table>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-544-17752a2360f7/v1.md"><img src="../images/b05ee7b4a8dc5e374154621dcac07b7cabcab369fb284e3938a5bfea700af4e8.jpg" alt="幼儿词汇拆解学习卡" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-544-17752a2360f7/v1.md"><strong>幼儿词汇拆解学习卡 · v1</strong></a><br><sub>awesome-gpt-image-2 #544</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-543-06879a313369/v1.md"><img src="../images/c698d4efea6789557d328b043f40c63549658494be5a30b9c1d210e2ae80be93.jpg" alt="旅行纪念珐琅徽章" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-543-06879a313369/v1.md"><strong>旅行纪念珐琅徽章 · v1</strong></a><br><sub>awesome-gpt-image-2 #543</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-542-f0f1211f8e48/v1.md"><img src="../images/56ed00beb54c1149c378e734674bed0be46a411b2c178dcc5efa41228225609d.jpg" alt="黑白排版侧脸肖像海报" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-542-f0f1211f8e48/v1.md"><strong>黑白排版侧脸肖像海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #542</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-541-e488bf2c9548/v1.md"><img src="../images/829125af0ed13c593a04678947d797509b30fcc5e933e7b47ed512df72dbb3eb.jpg" alt="50/50 混合媒介回忆卡" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-541-e488bf2c9548/v1.md"><strong>50/50 混合媒介回忆卡 · v1</strong></a><br><sub>awesome-gpt-image-2 #541</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-540-0060e6408103/v1.md"><img src="../images/52a7342838e71a5466adae11fa6453dd2fdc2e09aed22e88ba8e0e4cc0a7981d.jpg" alt="梦幻未来城市编辑艺术海报" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-540-0060e6408103/v1.md"><strong>梦幻未来城市编辑艺术海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #540</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-539-c5c77f1cba30/v1.md"><img src="../images/8042851d503917add0e9759e5d1b0ffec44f0dfbd127f1fb1b65c09809f7da75.jpg" alt="粗粝手绘搭档肖像海报" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-539-c5c77f1cba30/v1.md"><strong>粗粝手绘搭档肖像海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #539</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.md"><img src="../images/cd049146075c22d730e10b33ba9445ccf7ad75918695499594d340cd3d8875d4.jpg" alt="橡皮章旅行田野笔记海报" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.md"><strong>橡皮章旅行田野笔记海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #538</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md"><img src="../images/fce0bc791620458ecf7b1d734ea5b8e23b577515dae36b701bce588f36db6872.jpg" alt="地下档案馆暗黑概念海报" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md"><strong>地下档案馆暗黑概念海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #537</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-536-79cf1f87b55b/v1.md"><img src="../images/9f9259271b4cf6234c5433fd33263458e6f73726e22859373d083f814be82d3d.jpg" alt="春日樱花回眸电影人像" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-536-79cf1f87b55b/v1.md"><strong>春日樱花回眸电影人像 · v1</strong></a><br><sub>awesome-gpt-image-2 #536</sub></td>
+</tr>
+<tr>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.md"><img src="../images/bd3a0e76ad2bf080037219cd6eb09c5498d496a18f58fde9142a55483a22248a.jpg" alt="同一人脸十二款发型 Lookbook" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-535-a001325b4cde/v1.md"><strong>同一人脸十二款发型 Lookbook · v1</strong></a><br><sub>awesome-gpt-image-2 #535</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-534-cf66fd3365f0/v1.md"><img src="../images/4f73a13f971f8ceb683bbe590398dfab2e0bce954bc1127bb01842acef8b350e.jpg" alt="红光干扰实验编辑人像海报" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-534-cf66fd3365f0/v1.md"><strong>红光干扰实验编辑人像海报 · v1</strong></a><br><sub>awesome-gpt-image-2 #534</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-awesome-gpt-image-2-533-09c3cb90d3d5/v1.md"><img src="../images/e8a9ad17a108dfaf19b6d782b0e621a3ab4a7c24af2afdb8ed06e434ebc14b06.jpg" alt="手绘涂鸦时尚人物插画" width="220"></a><br><a href="../cases/case-awesome-gpt-image-2-533-09c3cb90d3d5/v1.md"><strong>手绘涂鸦时尚人物插画 · v1</strong></a><br><sub>awesome-gpt-image-2 #533</sub></td>
+</tr>
+</table>
+

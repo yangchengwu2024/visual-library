@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
+<defs><linearGradient id="bg" x2="1" y2="1"><stop stop-color="#101c33"/><stop offset="1" stop-color="#213e54"/></linearGradient></defs>
+<rect width="1200" height="300" rx="20" fill="url(#bg)"/>
+<g fill="none" stroke="#72d3cd" stroke-opacity=".20"><rect x="864" y="43" width="170" height="210" rx="14" transform="rotate(-12 949 148)"/><rect x="933" y="61" width="170" height="210" rx="14" transform="rotate(9 1018 166)"/></g>
+<rect x="69" y="65" width="45" height="5" rx="2" fill="#78dbcc"/>
+<text x="66" y="150" fill="#f1f7fa" font-family="Segoe UI,Arial,sans-serif" font-size="66" font-weight="700" letter-spacing="1">VISUAL LIBRARY</text>
+<text x="70" y="205" fill="#b5cedb" font-family="Segoe UI,Microsoft YaHei,sans-serif" font-size="25" letter-spacing="3">图片 · 提示词 · 灵感参考</text>
+<text x="70" y="258" fill="#78dbcc" font-family="Segoe UI,Arial,sans-serif" font-size="14" letter-spacing="3">COLLECT / EXPLORE / CREATE</text>
+</svg>

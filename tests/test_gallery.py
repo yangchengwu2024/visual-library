@@ -1,6 +1,7 @@
 """Markdown navigation coverage, safe linking, and no-op generation tests."""
 
 import hashlib
+import html
 import importlib.util
 import json
 from pathlib import Path
@@ -37,6 +38,7 @@ class GalleryTests(unittest.TestCase):
         categories = [{"id": "cat-" + str(i), "value": "Category " + str(i),
                        "title": {"zh": "\u5206\u7c7b " + str(i)}} for i in range(13)]
         self.write("metadata/taxonomy.json", {"categories": categories})
+        self.write("images/shared.png", "fixture image")
         entries = []
         for number in range(1, count + 1):
             digest = hashlib.sha256(("source\0" + str(number)).encode()).hexdigest()[:12]
@@ -47,13 +49,20 @@ class GalleryTests(unittest.TestCase):
                      "archived_at": "2026-09-09T03:00:00+00:00"}
             entries.append(entry)
             self.write("cases/" + case_id + "/" + version + ".md", "# Fixture")
+            self.write("cases/" + case_id + "/" + version + ".json", {
+                "case_id": case_id, "version": version,
+                "prompt": "Exact original prompt " + str(number) + "\n\u4fdd\u7559\u539f\u6587\u3002",
+                "assets": [{"path": "images/shared.png", "role": "output"}]})
         return {"case_count": count, "cases": list(reversed(entries))}
 
     def links(self, path):
-        return re.findall(r"\]\(([^\n)]+)\)", path.read_text(encoding="utf-8"))
+        content = path.read_text(encoding="utf-8")
+        markdown = re.findall(r"\]\(([^\n)]+)\)", content)
+        attributes = re.findall(r'\b(?:href|src)="([^"]+)"', content)
+        return markdown + [html.unescape(value) for value in attributes]
 
     def assert_all_links_exist(self):
-        for path in (self.root / "docs").rglob("*.md"):
+        for path in [*(self.root / "docs").rglob("*.md"), self.root / "README.md"]:
             for link in self.links(path):
                 target, _, anchor = link.partition("#")
                 self.assertFalse(target.startswith(("/", "http:", "https:")), (path, link))
@@ -71,20 +80,22 @@ class GalleryTests(unittest.TestCase):
     def test_all_cases_are_linked_exactly_once_across_bounded_parts(self):
         catalog = self.fixture()
         result = gallery.build_gallery(self.root, catalog)
-        self.assertEqual((result["cases"], result["parts"], result["categories"]), (205, 3, 13))
-        parts = sorted((self.root / "docs").glob("gallery-part-*.md"))
+        self.assertEqual((result["cases"], result["parts"], result["categories"]), (205, 9, 13))
+        parts = sorted((self.root / "docs").glob("gallery-part-*.md"), key=lambda p: int(p.stem.rsplit("-", 1)[-1]))
         counts, targets = [], []
         for path in parts:
             case_links = [link for link in self.links(path) if link.startswith("../cases/")]
             counts.append(len(case_links))
             targets.extend(case_links)
-        self.assertEqual(counts, [100, 100, 5])
+        self.assertEqual(counts, [25] * 8 + [5])
         self.assertEqual(len(targets), len(set(targets)))
         expected = {"../cases/" + e["case_id"] + "/" + e["version"] + ".md" for e in catalog["cases"]}
         self.assertEqual(set(targets), expected)
         overview = self.root / "docs" / "gallery.md"
-        self.assertLessEqual(sum(link.startswith("../cases/") for link in self.links(overview)), 12)
+        self.assertEqual(len({link for link in self.links(overview) if link.startswith("../cases/")}), 12)
         self.assertNotIn("![", overview.read_text(encoding="utf-8"))
+        self.assertIn('width="220"', overview.read_text(encoding="utf-8"))
+        self.assertIn('<td width="33%" align="center" valign="top">', overview.read_text(encoding="utf-8"))
         self.assert_all_links_exist()
 
     def test_each_category_covers_its_cases_and_keeps_empty_taxonomy_categories(self):
@@ -151,9 +162,64 @@ class GalleryTests(unittest.TestCase):
         catalog["cases"][-1]["archived_at"] = "2026-09-09T23:00:00+00:00"
         gallery.build_gallery(self.root, catalog)
         overview = self.root / "docs" / "gallery.md"
-        links = [link for link in self.links(overview) if link.startswith("../cases/")]
+        links = list(dict.fromkeys(link for link in self.links(overview) if link.startswith("../cases/")))
         self.assertIn("case-source-15-", links[0])
         self.assertEqual(len(links), 12)
+
+    def test_full_prompt_is_preserved_in_safe_fence_and_all_images_are_local(self):
+        catalog = self.fixture(1)
+        entry = catalog["cases"][0]
+        prompt = "First line\r\n\u4e2d\u6587  \n```\n</details>\n<script>alert(1)</script>\n`````\nLast line"
+        version = "cases/" + entry["case_id"] + "/" + entry["version"] + ".json"
+        path = self.write(version, {"case_id": entry["case_id"], "version": entry["version"], "prompt": prompt,
+                                   "assets": [{"path": "images/shared.png", "role": "output"},
+                                              {"path": "images/reference.png", "role": "input"}]})
+        self.write("images/reference.png", "reference image")
+        original = path.read_bytes()
+        gallery.build_gallery(self.root, catalog)
+        output = (self.root / "docs" / "gallery-part-1.md").read_bytes().decode("utf-8")
+        self.assertIn("<details>\n<summary>\u5c55\u5f00\u5b8c\u6574\u63d0\u793a\u8bcd</summary>\n\n", output)
+        self.assertIn("``````text\n" + prompt + "\n``````\n\n</details>", output)
+        self.assertEqual(output.count('width="760"'), 2)
+        self.assertEqual(path.read_bytes(), original)
+
+    def test_readme_block_is_atomic_idempotent_and_preserves_outside_bytes(self):
+        catalog = self.fixture(9)
+        self.write("assets/banner.svg", "<svg></svg>")
+        self.write("assets/category-covers/cover (test).png", "local cover")
+        self.write("metadata/gallery-style.json", {"category_covers": {"cat-1": {
+            "path": "assets/category-covers/cover (test).png", "description": "A <script> & description"}}})
+        prefix = b"# Handwritten\r\nKeep this exact.\r\n" + gallery.README_START.encode()
+        suffix = gallery.README_END.encode() + b"\r\nUnchanged footer\nMixed original newline."
+        readme = self.root / "README.md"
+        readme.write_bytes(prefix + b"\r\nold generated block\r\n" + suffix)
+        result = gallery.build_gallery(self.root, catalog)
+        actual = readme.read_bytes()
+        self.assertTrue(actual.startswith(prefix))
+        self.assertTrue(actual.endswith(suffix))
+        self.assertIn("README.md", result["written"])
+        self.assertIn(b"assets/banner.svg", actual)
+        self.assertIn(b"assets/category-covers/cover%20%28test%29.png", actual)
+        self.assertIn(b"A &lt;script&gt; &amp; description", actual)
+        self.assertIn(b"9 ", actual)
+        inside = actual[len(prefix):-len(suffix)]
+        self.assertNotIn(b"\n", inside.replace(b"\r\n", b""))
+        case_links = {link for link in self.links(readme) if link.startswith("cases/")}
+        self.assertEqual(len(case_links), 6)
+        self.assert_all_links_exist()
+        before = self.snapshot()
+        self.assertEqual(gallery.build_gallery(self.root, catalog)["written"], [])
+        self.assertEqual(before, self.snapshot())
+
+    def test_missing_version_json_has_text_card_fallback_and_no_fabricated_image(self):
+        catalog = self.fixture(1)
+        entry = catalog["cases"][0]
+        (self.root / "cases" / entry["case_id"] / (entry["version"] + ".json")).unlink()
+        gallery.build_gallery(self.root, catalog)
+        document = (self.root / "docs" / "gallery.md").read_text(encoding="utf-8")
+        self.assertIn(entry["case_id"], document)
+        self.assertNotIn("<img", document)
+        self.assert_all_links_exist()
 
 
 if __name__ == "__main__":

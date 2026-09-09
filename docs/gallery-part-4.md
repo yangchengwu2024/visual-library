@@ -4,105 +4,1470 @@
 
 [画廊总览](gallery.md) | [上一册](gallery-part-3.md) | [下一册](gallery-part-5.md)
 
-本册 100 个案例。标题链接固定到所示版本。
+本册 25 个案例。标题链接固定到所示版本。
 
-- [荧光蓝穷奇新中式山水画 · v1](../cases/case-awesome-gpt-image-2-304-02f1b849e277/v1.md) — awesome-gpt-image-2 \#304
-- [深夜便利店里的性感霓虹少女 · v1](../cases/case-awesome-gpt-image-2-305-a12f4ff6702c/v1.md) — awesome-gpt-image-2 \#305
-- [官方角色设定资料卡 · v1](../cases/case-awesome-gpt-image-2-306-487bc87ec95f/v1.md) — awesome-gpt-image-2 \#306
-- [红绸舞动千年商都广州 · v1](../cases/case-awesome-gpt-image-2-307-5d78e0499769/v1.md) — awesome-gpt-image-2 \#307
-- [抖音直播截图画面 · v1](../cases/case-awesome-gpt-image-2-308-f25f90aff41f/v1.md) — awesome-gpt-image-2 \#308
-- [创意树叶拼贴构成的角色画像 · v1](../cases/case-awesome-gpt-image-2-309-0d9b638a30fa/v1.md) — awesome-gpt-image-2 \#309
-- [零食品牌技术分解图 · v1](../cases/case-awesome-gpt-image-2-310-72223e34cb3a/v1.md) — awesome-gpt-image-2 \#310
-- [晨曦薰衣草田梦幻少女三联画 · v1](../cases/case-awesome-gpt-image-2-311-10819ef86160/v1.md) — awesome-gpt-image-2 \#311
-- [鲜艳霓虹光影下的动感苏打水飞溅商业海报 · v1](../cases/case-awesome-gpt-image-2-312-fc638f1ed231/v1.md) — awesome-gpt-image-2 \#312
-- [电商商品展示设计 · v1](../cases/case-awesome-gpt-image-2-313-ce464cd9c143/v1.md) — awesome-gpt-image-2 \#313
-- [红蓝光影下的未来都市双重曝光青年 · v1](../cases/case-awesome-gpt-image-2-314-79b969430666/v1.md) — awesome-gpt-image-2 \#314
-- [棘龙巨口中的酷飒少女与史前奇观 · v1](../cases/case-awesome-gpt-image-2-315-5550f305740c/v1.md) — awesome-gpt-image-2 \#315
-- [冲破次元壁的写实漫画跑者 · v1](../cases/case-awesome-gpt-image-2-316-d82a42567af9/v1.md) — awesome-gpt-image-2 \#316
-- [震撼视觉的深红影棚广角美妆大片 · v1](../cases/case-awesome-gpt-image-2-317-a613f9e22114/v1.md) — awesome-gpt-image-2 \#317
-- [珊瑚色极简影棚时尚商业大片 · v1](../cases/case-awesome-gpt-image-2-318-522ebb56b796/v1.md) — awesome-gpt-image-2 \#318
-- [鸟群织就的梦幻高定时装秀 · v1](../cases/case-awesome-gpt-image-2-319-b1198259372e/v1.md) — awesome-gpt-image-2 \#319
-- [冰火双雄背靠背史诗电影海报 · v1](../cases/case-awesome-gpt-image-2-320-1ad5d6b73d59/v1.md) — awesome-gpt-image-2 \#320
-- [都市落日时尚大片 · v1](../cases/case-awesome-gpt-image-2-321-e49e11a00778/v1.md) — awesome-gpt-image-2 \#321
-- [街头炫瓶男模 · v1](../cases/case-awesome-gpt-image-2-322-fe2ecd094f21/v1.md) — awesome-gpt-image-2 \#322
-- [应用界面样机图 · v1](../cases/case-awesome-gpt-image-2-323-dca977c820d4/v1.md) — awesome-gpt-image-2 \#323
-- [复古巴士上的红风衣女郎 · v1](../cases/case-awesome-gpt-image-2-324-e693a8c44189/v1.md) — awesome-gpt-image-2 \#324
-- [皮克斯风阳光少年 · v1](../cases/case-awesome-gpt-image-2-325-2d19ec404885/v1.md) — awesome-gpt-image-2 \#325
-- [红蓝撞色高跟诱惑 · v1](../cases/case-awesome-gpt-image-2-326-4b5a2090f4e0/v1.md) — awesome-gpt-image-2 \#326
-- [沉香玫瑰悬浮幻景 · v1](../cases/case-awesome-gpt-image-2-327-490af7db71f5/v1.md) — awesome-gpt-image-2 \#327
-- [俯拍巨女城景自拍 · v1](../cases/case-awesome-gpt-image-2-328-c7cd8e8ee136/v1.md) — awesome-gpt-image-2 \#328
-- [烬甲猎鹰者与燃翼神禽 · v1](../cases/case-awesome-gpt-image-2-329-3ad427d128f6/v1.md) — awesome-gpt-image-2 \#329
-- [月下美女直播画面 · v1](../cases/case-awesome-gpt-image-2-330-7e056b4166ae/v1.md) — awesome-gpt-image-2 \#330
-- [西安手绘水彩城市地图 · v1](../cases/case-awesome-gpt-image-2-331-8d64b90d0481/v1.md) — awesome-gpt-image-2 \#331
-- [茶π产品宣传海报 · v1](../cases/case-awesome-gpt-image-2-332-add05e01337a/v1.md) — awesome-gpt-image-2 \#332
-- [AI 眼镜爆炸拆解图 · v1](../cases/case-awesome-gpt-image-2-333-b0b7bba964c9/v1.md) — awesome-gpt-image-2 \#333
-- [RAG 技术详解图 · v1](../cases/case-awesome-gpt-image-2-334-80fee1aa2b68/v1.md) — awesome-gpt-image-2 \#334
-- [朋友圈截图生成 · v1](../cases/case-awesome-gpt-image-2-335-c8e07103fb38/v1.md) — awesome-gpt-image-2 \#335
-- [个人网页视觉设计 · v1](../cases/case-awesome-gpt-image-2-336-6594da220834/v1.md) — awesome-gpt-image-2 \#336
-- [《短歌行》诗词意境图 · v1](../cases/case-awesome-gpt-image-2-337-4781279291a5/v1.md) — awesome-gpt-image-2 \#337
-- [《赤壁怀古》长卷图 · v1](../cases/case-awesome-gpt-image-2-338-0b9e03028247/v1.md) — awesome-gpt-image-2 \#338
-- [Apple 风格自然科普海报 · v1](../cases/case-awesome-gpt-image-2-339-2b7a341c22c6/v1.md) — awesome-gpt-image-2 \#339
-- [彼岸花丛中的红妆女子 · v1](../cases/case-awesome-gpt-image-2-340-6ac3a66b1f27/v1.md) — awesome-gpt-image-2 \#340
-- [AP Calculus 学习表信息图 · v1](../cases/case-awesome-gpt-image-2-341-8e466c6a5a6d/v1.md) — awesome-gpt-image-2 \#341
-- [四季包装 Campaign 宫格 · v1](../cases/case-awesome-gpt-image-2-342-614e58b0f55d/v1.md) — awesome-gpt-image-2 \#342
-- [高定时尚杂志封面 · v1](../cases/case-awesome-gpt-image-2-343-614719d91449/v1.md) — awesome-gpt-image-2 \#343
-- [NOIR 街头服饰 Campaign · v1](../cases/case-awesome-gpt-image-2-344-a0291c56fadd/v1.md) — awesome-gpt-image-2 \#344
-- [法新浪潮撕纸电影海报 · v1](../cases/case-awesome-gpt-image-2-345-c3e6af6c317f/v1.md) — awesome-gpt-image-2 \#345
-- [立体刺绣小鸟花枝 · v1](../cases/case-awesome-gpt-image-2-346-40ad00863d36/v1.md) — awesome-gpt-image-2 \#346
-- [4×4 动作分解参考表 · v1](../cases/case-awesome-gpt-image-2-347-46f4b9df4c9f/v1.md) — awesome-gpt-image-2 \#347
-- [胡须风格分析海报 · v1](../cases/case-awesome-gpt-image-2-348-343c39418701/v1.md) — awesome-gpt-image-2 \#348
-- [运动时尚三联 Campaign · v1](../cases/case-awesome-gpt-image-2-349-1650a2cbcb58/v1.md) — awesome-gpt-image-2 \#349
-- [足球球员数据涂鸦海报 · v1](../cases/case-awesome-gpt-image-2-350-0b0b1a3b7220/v1.md) — awesome-gpt-image-2 \#350
-- [健身品牌力量 Campaign · v1](../cases/case-awesome-gpt-image-2-351-9ee8855623e6/v1.md) — awesome-gpt-image-2 \#351
-- [西楚霸王国风暗黑海报 · v1](../cases/case-awesome-gpt-image-2-352-31dfebf1e8ea/v1.md) — awesome-gpt-image-2 \#352
-- [品牌口红推荐报告信息图 · v1](../cases/case-awesome-gpt-image-2-353-09a2cb79346c/v1.md) — awesome-gpt-image-2 \#353
-- [Logo 与品牌身份系统提示词合集 · v1](../cases/case-awesome-gpt-image-2-354-680733a720d5/v1.md) — awesome-gpt-image-2 \#354
-- [概念字体海报 Prompt · v1](../cases/case-awesome-gpt-image-2-355-d9e4fce7a85a/v1.md) — awesome-gpt-image-2 \#355
-- [过度思考超现实街头 Campaign · v1](../cases/case-awesome-gpt-image-2-356-ceefa59f3f53/v1.md) — awesome-gpt-image-2 \#356
-- [鱼眼镜面复古咖啡馆人像 · v1](../cases/case-awesome-gpt-image-2-357-a449ff04266c/v1.md) — awesome-gpt-image-2 \#357
-- [草莓能量饮料商业广告 · v1](../cases/case-awesome-gpt-image-2-358-8e0107b50e51/v1.md) — awesome-gpt-image-2 \#358
-- [水墨双重曝光人物海报 · v1](../cases/case-awesome-gpt-image-2-359-2c9b9ad88de3/v1.md) — awesome-gpt-image-2 \#359
-- [长发造型分析信息图 · v1](../cases/case-awesome-gpt-image-2-360-4f5008305cf9/v1.md) — awesome-gpt-image-2 \#360
-- [手机爆炸拆解图 · v1](../cases/case-awesome-gpt-image-2-361-6b11420cf33f/v1.md) — awesome-gpt-image-2 \#361
-- [抹茶品牌触点系统视觉板 · v1](../cases/case-awesome-gpt-image-2-362-57e3c4156604/v1.md) — awesome-gpt-image-2 \#362
-- [磁场铁粉 Logo 物理成像 · v1](../cases/case-awesome-gpt-image-2-363-91d0d096076c/v1.md) — awesome-gpt-image-2 \#363
-- [奢华个人色彩档案信息图 · v1](../cases/case-awesome-gpt-image-2-364-f9a78e5d9ee7/v1.md) — awesome-gpt-image-2 \#364
-- [科学家收藏级玩具发布板 · v1](../cases/case-awesome-gpt-image-2-365-9bf8eba3e4ec/v1.md) — awesome-gpt-image-2 \#365
-- [咖啡馆写实照片与 2D 涂鸦叠加 · v1](../cases/case-awesome-gpt-image-2-366-6fd3cdf6f1bc/v1.md) — awesome-gpt-image-2 \#366
-- [VELORA 奢华香水广告海报 · v1](../cases/case-awesome-gpt-image-2-367-419ef2cde770/v1.md) — awesome-gpt-image-2 \#367
-- [印度餐厅菜单改造宣传图 · v1](../cases/case-awesome-gpt-image-2-368-94d8a3923621/v1.md) — awesome-gpt-image-2 \#368
-- [明洞旅游区域地图 · v1](../cases/case-awesome-gpt-image-2-369-5130d0510f89/v1.md) — awesome-gpt-image-2 \#369
-- [Crumple Chair 概念沙发研发板 · v1](../cases/case-awesome-gpt-image-2-370-0aed029e8d35/v1.md) — awesome-gpt-image-2 \#370
-- [Scrapbook 真人图与迷你分身 · v1](../cases/case-awesome-gpt-image-2-371-63d04f44a60f/v1.md) — awesome-gpt-image-2 \#371
-- [可爱角色设定表 · v1](../cases/case-awesome-gpt-image-2-372-a2019220dc21/v1.md) — awesome-gpt-image-2 \#372
-- [高端肉类海鲜品牌英雄图 · v1](../cases/case-awesome-gpt-image-2-373-643a2497b3ce/v1.md) — awesome-gpt-image-2 \#373
-- [彩色潦草小狗线条风格重绘 · v1](../cases/case-awesome-gpt-image-2-374-cfc10bacefaa/v1.md) — awesome-gpt-image-2 \#374
-- [古希腊三哲时间轴城市图 · v1](../cases/case-awesome-gpt-image-2-375-55c282238a03/v1.md) — awesome-gpt-image-2 \#375
-- [泼洒抹茶街头手机照片 · v1](../cases/case-awesome-gpt-image-2-376-90211482a3fa/v1.md) — awesome-gpt-image-2 \#376
-- [樱花咖啡户外人像 · v1](../cases/case-awesome-gpt-image-2-377-2ce5c09afb71/v1.md) — awesome-gpt-image-2 \#377
-- [高端 3D 收藏玩具头像 · v1](../cases/case-awesome-gpt-image-2-378-7af4982cfca2/v1.md) — awesome-gpt-image-2 \#378
-- [品牌人格漫画信息图 · v1](../cases/case-awesome-gpt-image-2-379-a6632be6ae99/v1.md) — awesome-gpt-image-2 \#379
-- [冠状病毒尺度缩放科学信息图 · v1](../cases/case-awesome-gpt-image-2-380-bc60d48bab2e/v1.md) — awesome-gpt-image-2 \#380
-- [90 年代公寓场景参考板 · v1](../cases/case-awesome-gpt-image-2-381-9efc20798ac2/v1.md) — awesome-gpt-image-2 \#381
-- [春日花田三联竖版写真拼贴 · v1](../cases/case-awesome-gpt-image-2-382-d45e5dfc6063/v1.md) — awesome-gpt-image-2 \#382
-- [AI 日常生活 iPhone 抓拍 · v1](../cases/case-awesome-gpt-image-2-383-31fa721b28ca/v1.md) — awesome-gpt-image-2 \#383
-- [十国传统服饰时尚拼贴 · v1](../cases/case-awesome-gpt-image-2-384-df34912f8bdd/v1.md) — awesome-gpt-image-2 \#384
-- [青岛啤酒灵感女装系列 · v1](../cases/case-awesome-gpt-image-2-385-8b1effd149df/v1.md) — awesome-gpt-image-2 \#385
-- [品牌包络产品广告 · v1](../cases/case-awesome-gpt-image-2-386-a4cdfea5a647/v1.md) — awesome-gpt-image-2 \#386
-- [Netflix 首页主视觉 UI · v1](../cases/case-awesome-gpt-image-2-387-3852df04a629/v1.md) — awesome-gpt-image-2 \#387
-- [1980s Claude 复古杂志广告 · v1](../cases/case-awesome-gpt-image-2-388-a62074957359/v1.md) — awesome-gpt-image-2 \#388
-- [Transparent Labs Hydrate 健身补剂 Campaign · v1](../cases/case-awesome-gpt-image-2-389-1bb40da06ab7/v1.md) — awesome-gpt-image-2 \#389
-- [羊毛毡国家微缩世界 · v1](../cases/case-awesome-gpt-image-2-390-1ef8db420030/v1.md) — awesome-gpt-image-2 \#390
-- [四国文化锚点服装设计宫格 · v1](../cases/case-awesome-gpt-image-2-391-73ab02a863ab/v1.md) — awesome-gpt-image-2 \#391
-- [头发里的微型城市 · v1](../cases/case-awesome-gpt-image-2-392-224206b0b055/v1.md) — awesome-gpt-image-2 \#392
-- [Y2K 金色时刻人像 · v1](../cases/case-awesome-gpt-image-2-393-b5550ae3d493/v1.md) — awesome-gpt-image-2 \#393
-- [中世纪村庄双精灵冒险者 · v1](../cases/case-awesome-gpt-image-2-394-8721e6233cda/v1.md) — awesome-gpt-image-2 \#394
-- [骑士法师大战石像魔像 · v1](../cases/case-awesome-gpt-image-2-395-50fb412453c6/v1.md) — awesome-gpt-image-2 \#395
-- [龙类物种复古百科海报 · v1](../cases/case-awesome-gpt-image-2-396-a06719b97c6f/v1.md) — awesome-gpt-image-2 \#396
-- [街舞角色设定参考图 · v1](../cases/case-awesome-gpt-image-2-397-bf10a0d7fef3/v1.md) — awesome-gpt-image-2 \#397
-- [8 套日常穿搭编辑拼贴 · v1](../cases/case-awesome-gpt-image-2-398-a6ef2d6c07e1/v1.md) — awesome-gpt-image-2 \#398
-- [唱片公司楼梯间写真人像 · v1](../cases/case-awesome-gpt-image-2-399-60ef4a857e9d/v1.md) — awesome-gpt-image-2 \#399
-- [多风格签名选择海报 · v1](../cases/case-awesome-gpt-image-2-400-3488b5ce02ba/v1.md) — awesome-gpt-image-2 \#400
-- [Lost in 国家旅行海报拼贴 · v1](../cases/case-awesome-gpt-image-2-401-f8523f197913/v1.md) — awesome-gpt-image-2 \#401
-- [3D 小红书个人资料卡 · v1](../cases/case-awesome-gpt-image-2-402-44454ab4c140/v1.md) — awesome-gpt-image-2 \#402
-- [小红书数字破屏 3D 女孩 · v1](../cases/case-awesome-gpt-image-2-403-933800363691/v1.md) — awesome-gpt-image-2 \#403
+## 关系图谱信息图 · v1
+
+- [关系图谱信息图 · v1](../cases/case-awesome-gpt-image-2-77-bfbf696d915e/v1.md) — awesome-gpt-image-2 \#77
+
+<img src="../images/20aa9533a94031e2f5cce83bad6928ae7ec01058f42636cffbc100d5897abe16.jpg" alt="关系图谱信息图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Please generate a high-quality vertical "Popular Science Encyclopedia Image" based on {argument name="theme" default="animals"}.
+
+This image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of "illustration book, encyclopedia, information structure, and collectability." The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.
+
+Please include in the frame:
+- A clear and beautiful main visual of the subject
+- Several magnified details of local characteristics
+- Multiple rounded modular information sections
+- Clear title hierarchies and key labels
+- Concise yet rich encyclopedic content
+- Visual ratings, key point summaries, or Top 5 modules
+
+Content columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards.
+
+Visual requirements:
+Light-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement.
+
+Please do not make it a regular commercial promotional poster. Highlight the features of "knowledge organization + modular information + illustration-style display."
+```
+
+</details>
+
+## 图像生成案例图 · v1
+
+- [图像生成案例图 · v1](../cases/case-awesome-gpt-image-2-78-666bd94870cb/v1.md) — awesome-gpt-image-2 \#78
+
+<img src="../images/f5a8377aa9e5ed1a38a695559201600044ce5e41ef0c49313d1652c20d447f06.jpg" alt="图像生成案例图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+[CORE TASK]
+Transform the provided input image into a pose-and-light analysis sheet.
+
+This is NOT a finished character illustration.
+This is NOT a clothing sheet.
+This is NOT a beauty-preserving redraw.
+
+This is a white-line rough mannequin conversion.
+
+[PRIMARY GOAL]
+Extract and visualize only:
+- pose structure
+- body balance
+- camera angle
+- body line flow
+- inferred light source placement
+- illuminated areas and light intensity
+
+[INPUT ROLE]
+Use the provided image as the strict anchor for:
+- pose
+- camera angle
+- body tilt
+- weight distribution
+- approximate lighting situation
+
+Do NOT preserve:
+- face rendering
+- hairstyle rendering
+- clothing detail
+- accessories
+- weapon detail
+- background architecture
+- character identity
+- emotional expression
+
+[FIGURE CONVERSION]
+single rough mannequin-like human figure
+white body contour lines
+white internal construction lines
+simple mannequin head
+no face
+no eyes
+no mouth
+no eyelashes
+no personality
+no individual identity
+
+human figure should look like:
+- rough pose mannequin
+- anatomy proxy
+- line-based body guide
+- structural sketch
+- white-line rough dummy
+
+keep:
+- pose readability
+- silhouette flow
+- head tilt
+- torso direction
+- pelvis direction
+- limb placement
+
+[BACKGROUND]
+pure black background
+negative-style dark field
+no scenery
+no props
+no architecture
+no environmental storytelling
+
+[LINE STYLE]
+rough white line drawing
+clean but sketch-like
+construction-line feeling
+anatomy guide lines visible
+joint flow visible
+body contour emphasized
+no polished illustration finish
+
+[LIGHT ESTIMATION]
+predict the likely light source positions from the input image
+visualize the light sources and illuminated areas using green glow only
+
+use green light intensity with variation:
+- strongest green where the light directly hits
+- medium green for wrap light
+- soft green for reflected or fading light
+
+mark the estimated light sources with labels and arrows such as:
+- Main Light
+- Rim Light
+- Fill Light
+- Floor Bounce
+- Back Light
+only if appropriate
+
+IMPORTANT:
+do not invent random lights
+infer lighting from the original input image
+if the lighting is ambiguous, keep the annotations simple and plausible
+
+[GREEN LIGHT VISUALIZATION]
+show green glow on:
+- head / skull plane
+- neck
+- shoulders
+- chest plane
+- ribcage direction
+- pelvis edge
+- thigh planes
+- knee contact points
+- floor contact bounce if applicable
+
+use green light not as decoration,
+but as lighting analysis information
+
+[POSE PRIORITY]
+1. preserve pose structure
+2. preserve camera angle
+3. preserve body balance
+4. preserve head-torso relationship
+5. visualize likely light direction
+6. show illuminated areas with readable green intensity variation
+
+[NEGATIVE]
+finished person,
+cute girl,
+detailed face,
+hair rendering,
+clothing rendering,
+weapon emphasis,
+beautiful anatomy
+```
+
+</details>
+
+## 图像生成案例图 · v1
+
+- [图像生成案例图 · v1](../cases/case-awesome-gpt-image-2-79-e43c3bf1d117/v1.md) — awesome-gpt-image-2 \#79
+
+<img src="../images/31621e1dcbb287c2e48749c049a9037793a4a6548a579d5cb76c17e5108d4568.jpg" alt="图像生成案例图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+[CORE TASK]
+Transform the provided input image into a pose-and-light analysis sheet.
+
+This is NOT a finished character illustration.
+This is NOT a clothing sheet.
+This is NOT a beauty-preserving redraw.
+
+This is a white-line rough mannequin conversion.
+
+[PRIMARY GOAL]
+Extract and visualize only:
+- pose structure
+- body balance
+- camera angle
+- body line flow
+- inferred light source placement
+- illuminated areas and light intensity
+
+[INPUT ROLE]
+Use the provided image as the strict anchor for:
+- pose
+- camera angle
+- body tilt
+- weight distribution
+- approximate lighting situation
+
+Do NOT preserve:
+- face rendering
+- hairstyle rendering
+- clothing detail
+- accessories
+- weapon detail
+- background architecture
+- character identity
+- emotional expression
+
+[FIGURE CONVERSION]
+single rough mannequin-like human figure
+white body contour lines
+white internal construction lines
+simple mannequin head
+no face
+no eyes
+no mouth
+no eyelashes
+no personality
+no individual identity
+
+human figure should look like:
+- rough pose mannequin
+- anatomy proxy
+- line-based body guide
+- structural sketch
+- white-line rough dummy
+
+keep:
+- pose readability
+- silhouette flow
+- head tilt
+- torso direction
+- pelvis direction
+- limb placement
+
+[BACKGROUND]
+pure black background
+negative-style dark field
+no scenery
+no props
+no architecture
+no environmental storytelling
+
+[LINE STYLE]
+rough white line drawing
+clean but sketch-like
+construction-line feeling
+anatomy guide lines visible
+joint flow visible
+body contour emphasized
+no polished illustration finish
+
+[LIGHT ESTIMATION]
+predict the likely light source positions from the input image
+visualize the light sources and illuminated areas using green glow only
+
+use green light intensity with variation:
+- strongest green where the light directly hits
+- medium green for wrap light
+- soft green for reflected or fading light
+
+mark the estimated light sources with labels and arrows such as:
+- Main Light
+- Rim Light
+- Fill Light
+- Floor Bounce
+- Back Light
+only if appropriate
+
+IMPORTANT:
+do not invent random lights
+infer lighting from the original input image
+if the lighting is ambiguous, keep the annotations simple and plausible
+
+[GREEN LIGHT VISUALIZATION]
+show green glow on:
+- head / skull plane
+- neck
+- shoulders
+- chest plane
+- ribcage direction
+- pelvis edge
+- thigh planes
+- knee contact points
+- floor contact bounce if applicable
+
+use green light not as decoration,
+but as lighting analysis information
+
+[POSE PRIORITY]
+1. preserve pose structure
+2. preserve camera angle
+3. preserve body balance
+4. preserve head-torso relationship
+5. visualize likely light direction
+6. show illuminated areas with readable green intensity variation
+
+[NEGATIVE]
+finished person,
+cute girl,
+detailed face,
+hair rendering,
+clothing rendering,
+weapon emphasis,
+beautiful anatomy
+```
+
+</details>
+
+## 图像生成案例图 · v1
+
+- [图像生成案例图 · v1](../cases/case-awesome-gpt-image-2-80-cb7052fe423b/v1.md) — awesome-gpt-image-2 \#80
+
+<img src="../images/832478abc22b47c7aeaced7525afe43ddd45fa6e5b90b3cc8f9e056d1429b910.jpg" alt="图像生成案例图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+[CORE TASK]
+Transform the provided input image into a pose-and-light analysis sheet.
+
+This is NOT a finished character illustration.
+This is NOT a clothing sheet.
+This is NOT a beauty-preserving redraw.
+
+This is a white-line rough mannequin conversion.
+
+[PRIMARY GOAL]
+Extract and visualize only:
+- pose structure
+- body balance
+- camera angle
+- body line flow
+- inferred light source placement
+- illuminated areas and light intensity
+
+[INPUT ROLE]
+Use the provided image as the strict anchor for:
+- pose
+- camera angle
+- body tilt
+- weight distribution
+- approximate lighting situation
+
+Do NOT preserve:
+- face rendering
+- hairstyle rendering
+- clothing detail
+- accessories
+- weapon detail
+- background architecture
+- character identity
+- emotional expression
+
+[FIGURE CONVERSION]
+single rough mannequin-like human figure
+white body contour lines
+white internal construction lines
+simple mannequin head
+no face
+no eyes
+no mouth
+no eyelashes
+no personality
+no individual identity
+
+human figure should look like:
+- rough pose mannequin
+- anatomy proxy
+- line-based body guide
+- structural sketch
+- white-line rough dummy
+
+keep:
+- pose readability
+- silhouette flow
+- head tilt
+- torso direction
+- pelvis direction
+- limb placement
+
+[BACKGROUND]
+pure black background
+negative-style dark field
+no scenery
+no props
+no architecture
+no environmental storytelling
+
+[LINE STYLE]
+rough white line drawing
+clean but sketch-like
+construction-line feeling
+anatomy guide lines visible
+joint flow visible
+body contour emphasized
+no polished illustration finish
+
+[LIGHT ESTIMATION]
+predict the likely light source positions from the input image
+visualize the light sources and illuminated areas using green glow only
+
+use green light intensity with variation:
+- strongest green where the light directly hits
+- medium green for wrap light
+- soft green for reflected or fading light
+
+mark the estimated light sources with labels and arrows such as:
+- Main Light
+- Rim Light
+- Fill Light
+- Floor Bounce
+- Back Light
+only if appropriate
+
+IMPORTANT:
+do not invent random lights
+infer lighting from the original input image
+if the lighting is ambiguous, keep the annotations simple and plausible
+
+[GREEN LIGHT VISUALIZATION]
+show green glow on:
+- head / skull plane
+- neck
+- shoulders
+- chest plane
+- ribcage direction
+- pelvis edge
+- thigh planes
+- knee contact points
+- floor contact bounce if applicable
+
+use green light not as decoration,
+but as lighting analysis information
+
+[POSE PRIORITY]
+1. preserve pose structure
+2. preserve camera angle
+3. preserve body balance
+4. preserve head-torso relationship
+5. visualize likely light direction
+6. show illuminated areas with readable green intensity variation
+
+[NEGATIVE]
+finished person,
+cute girl,
+detailed face,
+hair rendering,
+clothing rendering,
+weapon emphasis,
+beautiful anatomy
+```
+
+</details>
+
+## 写实摄影风格图 · v1
+
+- [写实摄影风格图 · v1](../cases/case-awesome-gpt-image-2-81-317cdbd5817e/v1.md) — awesome-gpt-image-2 \#81
+
+<img src="../images/1132b72fb1579f50725f1487a9d7ea7495dfda656cdf9a18dc21981eb3fed1fe.jpg" alt="写实摄影风格图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "scientific hardware diagram",
+  "layout": {
+    "main_scene": "3D render of an optical table with a red laser beam passing through 11 aligned optical components mounted on black posts.",
+    "top_brackets": [
+      {"label": "Dual Modulation", "span": "SLM1"},
+      {"label": "4f Relay Optics", "span": "Lens L1 to Lens L2"},
+      {"label": "Imaging Optics", "span": "SLM2 to Lens L4"},
+      {"label": "Detection", "span": "Camera"}
+    ],
+    "optical_components_left_to_right": [
+      {"name": "Laser", "labels": ["Laser", "λ = {argument name=\"laser wavelength\" default=\"632.8 nm\"}"]},
+      {"name": "SLM1", "labels": ["SLM1", "(Phase / Pol. Mod.)"]},
+      {"name": "Lens L1", "labels": ["Lens L1", "(f1)"]},
+      {"name": "Iris", "labels": ["Fourier Plane", "(Pupil Plane)", "Iris", "(Higher Orders Filtered)"]},
+      {"name": "HWP", "labels": ["HWP", "(λ/2)"]},
+      {"name": "Lens L2", "labels": ["Lens L2", "(f1)"]},
+      {"name": "SLM2", "labels": ["SLM2", "(Phase / Pol. Mod.)"]},
+      {"name": "Lens L3", "labels": ["Lens L3", "(f2)"]},
+      {"name": "Lens L4", "labels": ["Lens L4", "(f2)"]},
+      {"name": "Linear Polarizer", "labels": ["Linear", "-Polarizer", "(Global Analyzer)"]},
+      {"name": "Polarization Camera", "labels": ["POLARIZATION CAMERA"]}
+    ],
+    "inset_box": {
+      "position": "bottom right",
+      "title": "Polarization Camera Micro-Polarizer Array (Per-Pixel Analyzer)",
+      "grid": "4x4 grid of colored squares with directional arrows",
+      "legend_count": 4,
+      "legend_items": [
+        "Red square, horizontal arrow, 0° (H)",
+        "Green square, vertical arrow, 90° (V)",
+        "Blue square, diagonal arrow, 45° (D)",
+        "Yellow square, diagonal arrow, 135° (A)"
+      ]
+    },
+    "bottom_caption": {
+      "figure_prefix": "{argument name=\"figure number\" default=\"Fig. 5.\"}",
+      "title": "{argument name=\"system name\" default=\"Ellipsography Hardware Setup.\"}",
+      "text": "Paragraph of scientific text explaining the dual-modulation configuration, 4f relay optics, and polarization camera."
+    }
+  }
+}
+```
+
+</details>
+
+## 信息图可视化设计 · v1
+
+- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-82-71b7916f8811/v1.md) — awesome-gpt-image-2 \#82
+
+<img src="../images/1132b72fb1579f50725f1487a9d7ea7495dfda656cdf9a18dc21981eb3fed1fe.jpg" alt="信息图可视化设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "scientific optical setup diagram",
+  "main_setup": {
+    "base": "optical breadboard table with grid of mounting holes",
+    "beam": "red laser beam passing horizontally through all components",
+    "top_grouping_brackets": [
+      "{argument name=\"first component group\" default=\"Dual Modulation\"}",
+      "4f Relay Optics",
+      "Imaging Optics",
+      "Detection"
+    ],
+    "components_left_to_right": [
+      { "name": "Laser", "label": "{argument name=\"laser wavelength\" default=\"λ = 632.8 nm\"}", "appearance": "black rectangular box" },
+      { "name": "SLM1", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" },
+      { "name": "Lens L1", "label": "(f1)", "appearance": "lens in black ring mount" },
+      { "name": "Iris", "label": "Fourier Plane (Pupil Plane) / (Higher Orders Filtered)", "appearance": "black ring mount with dashed line above" },
+      { "name": "HWP", "label": "(λ/2)", "appearance": "purple-tinted optic in black ring mount" },
+      { "name": "Lens L2", "label": "(f1)", "appearance": "lens in black ring mount" },
+      { "name": "SLM2", "label": "(Phase / Pol. Mod.)", "appearance": "black square device on post" },
+      { "name": "Lens L3", "label": "(f2)", "appearance": "lens in black ring mount" },
+      { "name": "Lens L4", "label": "(f2)", "appearance": "lens in black ring mount" },
+      { "name": "Linear Polarizer", "label": "(Global Analyzer)", "appearance": "lens in black ring mount" },
+      { "name": "Polarization Camera", "label": "POLARIZATION CAMERA", "appearance": "blue and black box camera" }
+    ]
+  },
+  "inset_diagram": {
+    "position": "bottom right, dashed border",
+    "title": "{argument name=\"inset title\" default=\"Polarization Camera Micro-Polarizer Array\"} (Per-Pixel Analyzer)",
+    "visuals": "4x4 grid of colored squares with white directional arrows",
+    "legend_count": 4,
+    "legend_labels": [
+      "red right-arrow 0° (H)",
+      "green up-arrow 90° (V)",
+      "blue diagonal-arrow 45° (D)",
+      "yellow diagonal-arrow 135° (A)"
+    ]
+  },
+  "bottom_caption": {
+    "figure_number": "Fig. 5.",
+    "title": "{argument name=\"setup title\" default=\"Ellipsography Hardware Setup.\"}",
+    "description": "{argument name=\"figure caption\" default=\"Our prototype display system employs a dual-modulation configuration to achieve simultaneous control of phase and polarization. A 4f relay optics setup transfers the modulated wavefront...\"}"
+  }
+}
+```
+
+</details>
+
+## 信息图可视化设计 · v1
+
+- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-83-c831df4d4cb6/v1.md) — awesome-gpt-image-2 \#83
+
+<img src="../images/680fc6a9f045f5600b3e0e4ba7e216f7ebc662aa0364b51f209f84b8340e1b3c.jpg" alt="信息图可视化设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "sports match infographic poster",
+  "theme": "UEFA Champions League",
+  "background": "dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom",
+  "header": {
+    "logo": "UEFA Champions League",
+    "title": "{argument name=\"stage\" default=\"HALBFINALE\"}",
+    "subtitle": "DAS ZIEL: {argument name=\"location\" default=\"BUDAPEST 2026\"}",
+    "venue": "PUSKÁS ARÉNA"
+  },
+  "matchup": {
+    "player_left": "{argument name=\"team 1 player\" default=\"Harry Kane\"} in red FC Bayern kit",
+    "player_right": "{argument name=\"team 2 player\" default=\"Ousmane Dembélé\"} in blue PSG kit",
+    "center_logos": "FC Bayern München and Paris Saint-Germain with VS",
+    "date_box": "calendar icon, MITTWOCH, {argument name=\"date\" default=\"06.05.2026\"}"
+  },
+  "facts_section": {
+    "title": "FACTS",
+    "count": 5,
+    "items": [
+      "Trophy icon: DIE KÖNIGSKLASSE 2025/26",
+      "Bar chart icon: KANE IN TOPFORM",
+      "Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER",
+      "Two people icon: BISHER 14 DUELLE",
+      "Stadium icon: BUDAPEST RUFT"
+    ]
+  },
+  "footer": {
+    "trophy": "Champions League trophy on right",
+    "stadium_image": "Puskás Aréna at night",
+    "tagline": "EIN TRAUM. EIN ZIEL. EIN TITEL.",
+    "bottom_text": "ROAD TO BUDAPEST 2026"
+  }
+}
+```
+
+</details>
+
+## 关系图谱信息图 · v1
+
+- [关系图谱信息图 · v1](../cases/case-awesome-gpt-image-2-84-f3ec2f4dec45/v1.md) — awesome-gpt-image-2 \#84
+
+<img src="../images/95f134925463e83ac3554df6a992e704f67185ba9de85b6d70e4c86c7bc9b902.jpg" alt="关系图谱信息图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.
+
+Please automatically complete the following:
+- Identify the work and core settings corresponding to the theme
+- Extract the most representative 6–12 key characters, not exceeding 15 if necessary
+- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.
+- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution
+- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements
+- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster
+- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter
+- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy
+- Ensure every character name is legible, with identity or faction labels if necessary
+
+The final product should satisfy:
+- Immediate understanding of character hierarchy and key relationships
+- Obvious alignment with the original work's temperament and setting
+- Combines the clarity of an infographic with the premium design of a poster
+- Unified, exquisite, complete, and suitable for social media sharing or poster display
+- Avoids a cheap flowchart feel, messy piling, and information overload.
+```
+
+</details>
+
+## 关系图谱信息图 · v1
+
+- [关系图谱信息图 · v1](../cases/case-awesome-gpt-image-2-85-0bc44e4d47ad/v1.md) — awesome-gpt-image-2 \#85
+
+<img src="../images/5047f244eceb1feb8f8330d64834970bb44aefee23e0bc38e1ba5a2166676271.jpg" alt="关系图谱信息图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.
+
+Please automatically complete the following:
+- Identify the work and core settings corresponding to the theme
+- Extract the most representative 6–12 key characters, not exceeding 15 if necessary
+- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.
+- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution
+- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements
+- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster
+- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter
+- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy
+- Ensure every character name is legible, with identity or faction labels if necessary
+
+The final product should satisfy:
+- Immediate understanding of character hierarchy and key relationships
+- Obvious alignment with the original work's temperament and setting
+- Combines the clarity of an infographic with the premium design of a poster
+- Unified, exquisite, complete, and suitable for social media sharing or poster display
+- Avoids a cheap flowchart feel, messy piling, and information overload.
+```
+
+</details>
+
+## 关系图谱信息图 · v1
+
+- [关系图谱信息图 · v1](../cases/case-awesome-gpt-image-2-86-a1ea9255c18c/v1.md) — awesome-gpt-image-2 \#86
+
+<img src="../images/4a5db344e6b8c25a614acea1dac95d44264de3a18bc581da73c8734da2ce1ac8.jpg" alt="关系图谱信息图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.
+
+Please automatically complete the following:
+- Identify the work and core settings corresponding to the theme
+- Extract the most representative 6–12 key characters, not exceeding 15 if necessary
+- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.
+- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution
+- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements
+- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster
+- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter
+- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy
+- Ensure every character name is legible, with identity or faction labels if necessary
+
+The final product should satisfy:
+- Immediate understanding of character hierarchy and key relationships
+- Obvious alignment with the original work's temperament and setting
+- Combines the clarity of an infographic with the premium design of a poster
+- Unified, exquisite, complete, and suitable for social media sharing or poster display
+- Avoids a cheap flowchart feel, messy piling, and information overload.
+```
+
+</details>
+
+## 关系图谱信息图 · v1
+
+- [关系图谱信息图 · v1](../cases/case-awesome-gpt-image-2-87-29f05e84359c/v1.md) — awesome-gpt-image-2 \#87
+
+<img src="../images/4ffdf7dfb53681961c0c801070e3298189688d8e3f17a91b33a4b06d59e32ddd.jpg" alt="关系图谱信息图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Please generate a high-design character relationship map poster based on {argument name="theme" default="Demon Slayer"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.
+
+Please automatically complete the following:
+- Identify the work and core settings corresponding to the theme
+- Extract the most representative 6–12 key characters, not exceeding 15 if necessary
+- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.
+- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution
+- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements
+- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster
+- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter
+- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy
+- Ensure every character name is legible, with identity or faction labels if necessary
+
+The final product should satisfy:
+- Immediate understanding of character hierarchy and key relationships
+- Obvious alignment with the original work's temperament and setting
+- Combines the clarity of an infographic with the premium design of a poster
+- Unified, exquisite, complete, and suitable for social media sharing or poster display
+- Avoids a cheap flowchart feel, messy piling, and information overload.
+```
+
+</details>
+
+## 信息图可视化设计 · v1
+
+- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-88-038e43335ba9/v1.md) — awesome-gpt-image-2 \#88
+
+<img src="../images/5abda058f8c65692d9c4dcec977dd3b2435c6fb76e056f333c364d8533a21461.jpg" alt="信息图可视化设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}.
+
+Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:
+- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)
+- Bottom supporting structure
+- Hovering symbols or spiritual symbols above
+- Scene wrapping elements
+- Metaphor system
+- Color hierarchy
+- Material contrast
+- Lighting logic
+- Title, subtitle, and auxiliary copy
+- Brand sense and high-end expression
+
+The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.
+
+[Overall Style]
+Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster.
+
+[Automatic Derivation Rules]
+AI must automatically decide based on the [theme]:
+1. Core visual metaphor
+2. Subject type and posture
+3. Form of supporting structure
+4. Form of suspended elements
+5. Scene shell and spatial atmosphere
+6. Main, auxiliary, and emphasis colors
+7. Material combinations
+8. Text temperament and layout style
+
+[Composition Rules]
+- Absolute sense of premium quality
+- Strong central order, overall unity
+- Allows for axial symmetry or epic composition near the central axis
+- Clear visual gravity, forming clear levels from top to bottom
+- Edge negative space is clean, restrained, and has room to breathe
+
+[Visual Quality]
+- Ultra-high detail
+- Clear volumetric light
+- Authentic materials
+- Natural reflection, refraction, shadows, fog, and depth of field
+- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster
+
+[Typography System]
+- Overall 90% visual, 10% text
+- AI automatically generates the most matching main title and subtitle based on the [theme]
+- Title must be concise, sharp, and powerful
+- Text should be as minimal and accurate as possible; do not stack words
+
+[Signature Requirement]
+Naturally add the author signature in the bottom corner: @a9quant
+```
+
+</details>
+
+## 信息图可视化设计 · v1
+
+- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-89-8152bdb80d3c/v1.md) — awesome-gpt-image-2 \#89
+
+<img src="../images/8c0bc5af8b5daf8723d6eeb7951f6c8a106c12e10939cf92ae24772da259b4fb.jpg" alt="信息图可视化设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}.
+
+Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:
+- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)
+- Bottom supporting structure
+- Hovering symbols or spiritual symbols above
+- Scene wrapping elements
+- Metaphor system
+- Color hierarchy
+- Material contrast
+- Lighting logic
+- Title, subtitle, and auxiliary copy
+- Brand sense and high-end expression
+
+The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.
+
+[Overall Style]
+Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster.
+
+[Automatic Derivation Rules]
+AI must automatically decide based on the [theme]:
+1. Core visual metaphor
+2. Subject type and posture
+3. Form of supporting structure
+4. Form of suspended elements
+5. Scene shell and spatial atmosphere
+6. Main, auxiliary, and emphasis colors
+7. Material combinations
+8. Text temperament and layout style
+
+[Composition Rules]
+- Absolute sense of premium quality
+- Strong central order, overall unity
+- Allows for axial symmetry or epic composition near the central axis
+- Clear visual gravity, forming clear levels from top to bottom
+- Edge negative space is clean, restrained, and has room to breathe
+
+[Visual Quality]
+- Ultra-high detail
+- Clear volumetric light
+- Authentic materials
+- Natural reflection, refraction, shadows, fog, and depth of field
+- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster
+
+[Typography System]
+- Overall 90% visual, 10% text
+- AI automatically generates the most matching main title and subtitle based on the [theme]
+- Title must be concise, sharp, and powerful
+- Text should be as minimal and accurate as possible; do not stack words
+
+[Signature Requirement]
+Naturally add the author signature in the bottom corner: @a9quant
+```
+
+</details>
+
+## 信息图可视化设计 · v1
+
+- [信息图可视化设计 · v1](../cases/case-awesome-gpt-image-2-90-a7aaf7469665/v1.md) — awesome-gpt-image-2 \#90
+
+<img src="../images/e30e1497d0e4fcfe7a7638deb765058eeea43af2d17db86d9cc12ef2c771d989.jpg" alt="信息图可视化设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+GPT-Image-2 prompt: please automatically generate a top-tier concept poster / infographic-style movie poster centered around {argument name="theme" default="ranking of emperors in Chinese history"}.
+
+Require the AI to automatically derive and uniformly design the entire following visual system based on this theme, without my extra specification:
+- Core subject (automatically judge suitability for people, products, architecture, artifacts, symbols, scenes, or abstract imagery)
+- Bottom supporting structure
+- Hovering symbols or spiritual symbols above
+- Scene wrapping elements
+- Metaphor system
+- Color hierarchy
+- Material contrast
+- Lighting logic
+- Title, subtitle, and auxiliary copy
+- Brand sense and high-end expression
+
+The final frame must be: a shocking, precise, unified, cinematic, ultra-high detail conceptual key visual poster suitable for high-end printing.
+
+[Overall Style]
+Ultra-realistic 3D commercial CGI rendering, merging cinematic lighting, luxury visual language, futuristic concept design, and epic composition. The image must have a "single main visual core," not messy, not like a collage, and not like a regular e-commerce poster.
+
+[Automatic Derivation Rules]
+AI must automatically decide based on the [theme]:
+1. Core visual metaphor
+2. Subject type and posture
+3. Form of supporting structure
+4. Form of suspended elements
+5. Scene shell and spatial atmosphere
+6. Main, auxiliary, and emphasis colors
+7. Material combinations
+8. Text temperament and layout style
+
+[Composition Rules]
+- Absolute sense of premium quality
+- Strong central order, overall unity
+- Allows for axial symmetry or epic composition near the central axis
+- Clear visual gravity, forming clear levels from top to bottom
+- Edge negative space is clean, restrained, and has room to breathe
+
+[Visual Quality]
+- Ultra-high detail
+- Clear volumetric light
+- Authentic materials
+- Natural reflection, refraction, shadows, fog, and depth of field
+- Overall standard of high-end brand campaign key visual / luxury invitation poster / conceptual editorial poster
+
+[Typography System]
+- Overall 90% visual, 10% text
+- AI automatically generates the most matching main title and subtitle based on the [theme]
+- Title must be concise, sharp, and powerful
+- Text should be as minimal and accurate as possible; do not stack words
+
+[Signature Requirement]
+Naturally add the author signature in the bottom corner: @a9quant
+```
+
+</details>
+
+## 游戏界面截图 · v1
+
+- [游戏界面截图 · v1](../cases/case-awesome-gpt-image-2-91-8785d89fd274/v1.md) — awesome-gpt-image-2 \#91
+
+<img src="../images/8b50a7972298f6c8c1227376652ea5338e1563bd8700e28ad36bed80c3bd5594.jpg" alt="游戏界面截图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A highly detailed, realistic first-person video game screenshot of a next-generation voxel-based world. At the top center, a large, bold 3D logo reads "{argument name="game title" default="MINECRAFT 2"}". The scene features a {argument name="environment" default="lush, blocky landscape with a river, a small wooden cabin, a windmill, a waterfall, and majestic mountains in the background"}. The world blends realistic lighting, volumetric clouds, and high-resolution textures with cubic, voxel geometry. In the foreground on the left, a {argument name="mob 1" default="blocky green creeper"} stands on the grass, while a {argument name="mob 2" default="blocky brown wolf"} stands on the dirt path to the right. On the far right, the player's hand holds a {argument name="held item" default="pixelated blue diamond sword"} in a first-person perspective. At the bottom of the screen is a game user interface featuring a health bar with 10 red hearts, a green experience bar with the number '16', a hunger bar with 10 brown meat icons, and a 9-slot inventory hotbar. The hotbar contains, from left to right: a selected blue tool with a green highlight box, a green tool, a knife, a wrench with the number '3', a piece of meat with '6', a lantern with '24', a dirt block with '10', a bucket, and a sponge block.
+```
+
+</details>
+
+## 视频封面界面图 · v1
+
+- [视频封面界面图 · v1](../cases/case-awesome-gpt-image-2-92-2e25f9a9c961/v1.md) — awesome-gpt-image-2 \#92
+
+<img src="../images/d1c3bfaa2c895fc3631a2bf4dfb397a5493a3f70c31bd8d78af9e1a40af00aec.jpg" alt="视频封面界面图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name="hair color" default="pink with light blue inner highlights"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name="room lighting" default="purple and blue neon"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word "{argument name="main text line 1" default="雑談"}" and a bright blue bottom word "{argument name="main text line 2" default="配信"}". Below is a pink banner reading "{argument name="subtitle text" default="今夜もゆるっとトーク!"}". A red "LIVE" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.
+```
+
+</details>
+
+## 插画艺术风格创作 · v1
+
+- [插画艺术风格创作 · v1](../cases/case-awesome-gpt-image-2-93-8743d3d992f1/v1.md) — awesome-gpt-image-2 \#93
+
+<img src="../images/30aa8696001823fd7a36fc0d6e72547dd44792fdb994ff77bd7836b87867f710.jpg" alt="插画艺术风格创作" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "VTuber stream thumbnail",
+  "style": "anime, highly detailed, cute, sparkly, overwhelmingly pink color palette",
+  "character": {
+    "description": "anime girl with brown hair in twin buns, amber eyes, smiling gently",
+    "outfit": "pink kimono combined with a white frilly maid apron, cherry blossom hair accessories",
+    "pose": "holding a pink microphone decorated with a flower near her face"
+  },
+  "layout": {
+    "background": "pink gradient with sparkles, glowing hearts, and decorative pink bows",
+    "text_sections": [
+      {
+        "type": "top ribbon",
+        "text": "{argument name=\"top subtitle\" default=\"まったりおしゃべりしよ〜🤍\"}"
+      },
+      {
+        "type": "main title",
+        "text": "{argument name=\"main title\" default=\"雑談配信\"}",
+        "decorations": "surrounded by 3 large peach illustrations"
+      },
+      {
+        "type": "middle ribbon",
+        "text": "{argument name=\"middle subtitle\" default=\"みんなと楽しい時間を過ごしたいなっ♡\"}"
+      },
+      {
+        "type": "bullet points",
+        "position": "bottom left",
+        "count": 3,
+        "icon": "peach",
+        "labels": [
+          "{argument name=\"bullet 1\" default=\"初見さん〇\"}",
+          "{argument name=\"bullet 2\" default=\"ポイント回収〇\"}",
+          "ROMO"
+        ]
+      },
+      {
+        "type": "speech bubble",
+        "position": "bottom right",
+        "text": "コメント大歓迎♪ いっぱいお話し しようねっ♡"
+      }
+    ]
+  }
+}
+```
+
+</details>
+
+## 绘画艺术风格图 · v1
+
+- [绘画艺术风格图 · v1](../cases/case-awesome-gpt-image-2-94-8d819817e190/v1.md) — awesome-gpt-image-2 \#94
+
+<img src="../images/441f4e2b2438b41bc3c7688c3da7e1e0890a44807620ca898966e167e1a95f4d.jpg" alt="绘画艺术风格图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "VTuber stream thumbnail",
+  "theme": "pastel pink, soft, cute, lace, ribbons, hearts, bunny motif",
+  "character": {
+    "position": "right side, waist-up",
+    "appearance": "anime girl, {argument name=\"hair color\" default=\"pastel pink\"} long wavy hair, large grey eyes, blush, pink heart earrings",
+    "accessories": "white bunny ears, large pink bow on head",
+    "outfit": "white frilly dress with lace, large pink ribbon bow at collar with heart gem"
+  },
+  "layout": {
+    "background": "soft pink with subtle sparkles, lace patterns, floating hearts",
+    "text_elements": [
+      {
+        "type": "main title",
+        "position": "top left",
+        "style": "large stylized pink text with white outline",
+        "text": "{argument name=\"main title\" default=\"雑談配信\"}"
+      },
+      {
+        "type": "speech bubble",
+        "position": "above main title",
+        "text": "まったり"
+      },
+      {
+        "type": "circular badge",
+        "position": "top right",
+        "details": "lace-edged with small pink bow",
+        "text": "きてくれてありがとう♡"
+      },
+      {
+        "type": "heart badge",
+        "position": "bottom right",
+        "details": "large lace-edged heart",
+        "text": "みんなとおしゃべりできるの楽しみにしてるね♡"
+      }
+    ],
+    "list_section": {
+      "position": "bottom left",
+      "count": 3,
+      "style": "horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left",
+      "items": [
+        "{argument name=\"list item 1\" default=\"初見さん〇\"}",
+        "{argument name=\"list item 2\" default=\"ポイント回収〇\"}",
+        "{argument name=\"list item 3\" default=\"ROM〇\"}"
+      ]
+    }
+  }
+}
+```
+
+</details>
+
+## 品牌视觉识别图 · v1
+
+- [品牌视觉识别图 · v1](../cases/case-awesome-gpt-image-2-95-e3cd112480fa/v1.md) — awesome-gpt-image-2 \#95
+
+<img src="../images/78e532d9f2a06181ea1daa6d8893a6dfdae55dac617a1fb0888b9c87f24216bc.jpg" alt="品牌视觉识别图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "anime-style livestream thumbnail",
+  "character": {
+    "hair": "{argument name=\"hair color\" default=\"short silver hair with cyan underlights\"}",
+    "eyes": "large bright blue",
+    "outfit": "white collared shirt, black tie with silver accents, black jacket, black beret with a large blue heart jewel, blue jewel brooch, black choker",
+    "pose": "smiling gently, looking at viewer, positioned on the right side"
+  },
+  "background": "pastel blue with white clouds, sparkles, stars, small bows, and a subtle grid pattern",
+  "typography_and_ui": {
+    "top_left_speech_bubble": "まったりおしゃべりしよ〜♡",
+    "main_title": {
+      "text": "{argument name=\"main title\" default=\"雑談配信\"}",
+      "style": "large, soft blue gradient, white outline, decorated with small hearts, positioned on the middle-left"
+    },
+    "bottom_left_badges": {
+      "count": 3,
+      "style": "white pill-shaped buttons with a purple heart icon on the left",
+      "labels": [
+        "{argument name=\"badge 1 text\" default=\"初見さん〇\"}",
+        "{argument name=\"badge 2 text\" default=\"ポイント回収〇\"}",
+        "{argument name=\"badge 3 text\" default=\"ROM〇\"}"
+      ]
+    },
+    "bottom_right_cloud_bubble": "気軽にコメントしてね♡"
+  }
+}
+```
+
+</details>
+
+## 主题海报版式设计 · v1
+
+- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-96-c240f2b3b4f6/v1.md) — awesome-gpt-image-2 \#96
+
+<img src="../images/7c87bab9c9fa8527be63b469e99a66a788acb9ecf53422939eeb2a7decf0810f.jpg" alt="主题海报版式设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "VTuber stream thumbnail",
+  "character": {
+    "hair": "long blonde twin tails with pink gradient ends",
+    "eyes": "large pink anime eyes",
+    "expression": "cheerful smile with a small fang, making a peace sign near the eye",
+    "outfit": "black top with harness straps, black heart-ring choker, multiple ear piercings including a cross dangle, black nail polish"
+  },
+  "background": "vibrant neon pink and black leopard print with glowing yellow accents, sparkles, and floating hearts",
+  "typography_and_layout": {
+    "main_title": {
+      "position": "top left",
+      "style": "large, bold, 3D, pink and black with white outlines",
+      "text": "{argument name=\"main title\" default=\"雑談配信\"}"
+    },
+    "top_right_text": {
+      "style": "casual handwritten style with a heart",
+      "text": "{argument name=\"top right text\" default=\"まったり話そ〜♡\"}"
+    },
+    "bottom_left_banners": {
+      "count": 3,
+      "style": "glowing pill-shaped banners with heart icons on the left",
+      "colors": ["pink", "yellow", "purple"],
+      "labels": [
+        "{argument name=\"banner 1 text\" default=\"初見さん〇\"}",
+        "{argument name=\"banner 2 text\" default=\"ポイント回収〇\"}",
+        "{argument name=\"banner 3 text\" default=\"ROM〇\"}"
+      ]
+    },
+    "bottom_right_text": {
+      "style": "casual handwritten style with a heart, yellow text with pink outline",
+      "text": "気軽にコメントしてねっ♡"
+    }
+  }
+}
+```
+
+</details>
+
+## 综合应用场景图 · v1
+
+- [综合应用场景图 · v1](../cases/case-awesome-gpt-image-2-97-186b9a06da84/v1.md) — awesome-gpt-image-2 \#97
+
+<img src="../images/e88bbebcafb808368093e7af690cdc65c36d9816a2bbfd66d541413f379fd030.jpg" alt="综合应用场景图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create a high-quality Japanese {argument name="thumbnail type" default="webinar thumbnail"}. {argument name="aspect ratio" default="16:9 widescreen"}. There is a lot of text, but the main copy stands out clearly.
+```
+
+</details>
+
+## 主题海报版式设计 · v1
+
+- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-98-a8a42dabdbd6/v1.md) — awesome-gpt-image-2 \#98
+
+<img src="../images/09a6fd19b52aeee5d054f911318397c1571c46da514554fea926ee5b62603779.jpg" alt="主题海报版式设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "VTuber debut stream thumbnail",
+  "character": {
+    "appearance": "anime girl, long dark purple hair, purple eyes, frilly white blouse, dark purple bow tie, large hair bow",
+    "pose": "finger to lips, cute expression",
+    "props": "condenser microphone with pop filter and purple ribbon on the right"
+  },
+  "background": "magical starry night, sparkles, glowing butterflies, purple and white color palette",
+  "layout": {
+    "typography": [
+      {
+        "position": "top left",
+        "style": "large bold text with cursive English above",
+        "text": "{argument name=\"main title\" default=\"初配信\"}",
+        "subtext_1": "First Stream",
+        "subtext_2": "Nice to meet you! I am Shisaki Lily!"
+      },
+      {
+        "position": "middle left",
+        "style": "decorative box",
+        "text": "{argument name=\"character description\" default=\"お嬢様学校に通う清楚系VTuberですわ♪\"}"
+      },
+      {
+        "position": "bottom left",
+        "style": "logo style",
+        "text": "{argument name=\"character name\" default=\"紫咲リリー\"}",
+        "subtext": "Shisaki Lily"
+      },
+      {
+        "position": "top right",
+        "style": "vertical text",
+        "text": "{argument name=\"catchphrase\" default=\"皆さまの心に、優雅なひとときをお届けしますわ♪\"}"
+      },
+      {
+        "position": "bottom right",
+        "style": "decorative pill shape",
+        "text": "{argument name=\"stream date and time\" default=\"4.21 SUN 21:00~\"}",
+        "subtext": "✦ START ✦"
+      }
+    ]
+  }
+}
+```
+
+</details>
+
+## 界面交互设计图 · v1
+
+- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-99-feea1befa3b8/v1.md) — awesome-gpt-image-2 \#99
+
+<img src="../images/15ae45557aa7d40c53b849d3d318d1b3a49dcd0cea27dc235398b25414d81b6e.jpg" alt="界面交互设计图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "promotional banner / YouTube thumbnail",
+  "style": "high contrast, flashy, professional, {argument name=\"theme color\" default=\"gold and black\"} palette, glowing light rays, sparkling particles",
+  "subject": {
+    "description": "{argument name=\"subject description\" default=\"confident young Asian man in a dark suit with arms crossed\"}",
+    "pose": "looking upwards to the right",
+    "props": "glowing open laptop in front of him"
+  },
+  "layout": {
+    "background": "dark with radiant gold light bursts",
+    "text_sections": {
+      "top_left_badge": "[保存版]",
+      "top_header": "{argument name=\"top text\" default=\"知識ゼロからでも今日から始められる！ AIで稼ぐ力を最短で手に入れる！\"}",
+      "main_title": {
+        "text": "{argument name=\"main title\" default=\"AI副業 完全攻略\"}",
+        "style": "large, bold, 3D gold and white typography"
+      },
+      "subtitle_box": "{argument name=\"subtitle\" default=\"初心者でも月10万\"}",
+      "top_right_badge": {
+        "style": "gold laurel wreath",
+        "text": "2026年版 最新版"
+      },
+      "middle_right_tags": {
+        "count": 3,
+        "style": "stacked gold-bordered boxes",
+        "labels": ["最短で収益化", "具体例つき", "誰でも始めやすい"]
+      },
+      "middle_right_ribbon": {
+        "style": "red ribbon banner",
+        "text": "手順を徹底解説"
+      },
+      "bottom_left_tags": {
+        "count": 6,
+        "style": "2x3 grid of gold-bordered boxes",
+        "labels": ["おすすめツール紹介", "収益化の流れがわかる", "失敗しない始め方", "作業時間を最小化", "テンプレ付き", "再現しやすい方法"]
+      },
+      "bottom_footer": "迷わず稼げる！AI副業の教科書",
+      "bottom_right_badge": {
+        "style": "gold laurel wreath",
+        "text": "テンプレ付き"
+      }
+    }
+  }
+}
+```
+
+</details>
+
+## 主题海报版式设计 · v1
+
+- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-100-3168323405b8/v1.md) — awesome-gpt-image-2 \#100
+
+<img src="../images/7fe13c5b2ad8951e8be925c177fe6eecf4f787c5bcee52e18b38082f77671f01.jpg" alt="主题海报版式设计" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "promotional banner thumbnail",
+  "style": "vibrant neon, cosmic galaxy background, anime illustration style, high-density Japanese typography, glowing text effects",
+  "character": {
+    "description": "smiling young woman pointing upwards with right index finger",
+    "appearance": "long {argument name=\"character hair color\" default=\"brown\"} hair, purple drop earrings, textured purple sweater",
+    "position": "right side"
+  },
+  "layout": {
+    "background": "purple, pink, and blue starry space nebula",
+    "center_typography": {
+      "top_small_text": "何から始めるか迷う人へ",
+      "main_title": "{argument name=\"main title\" default=\"初心者でもわかる AI副業\"}",
+      "subtitle": "最初の1本におすすめ",
+      "floating_text_near_character": "やさしく解説♡"
+    },
+    "top_left": {
+      "yellow_ribbon": "{argument name=\"top left ribbon text\" default=\"ゼロから始める\"}"
+    },
+    "top_right": {
+      "pink_circle_badge": "初心者 OK"
+    },
+    "left_column": {
+      "count": 7,
+      "description": "stack of pill-shaped badges",
+      "labels": [
+        "スマホでもOK (with phone icon)",
+        "副業デビューに (with beginner mark icon)",
+        "具体例つき",
+        "テンプレ付き",
+        "おすすめツール紹介",
+        "収益化の流れ",
+        "失敗しない始め方"
+      ]
+    },
+    "bottom_left_graphics": {
+      "count": 3,
+      "items": [
+        "laptop displaying an AI circuit brain graphic",
+        "glowing lightbulb",
+        "rocket ship taking off"
+      ]
+    },
+    "bottom_center": {
+      "large_purple_button": "{argument name=\"bottom center button text\" default=\"完全解説\"}",
+      "checklist_text_below": "✓始め方 ✓稼ぎ方 ✓注意点 ✓続け方まで全部わかる！"
+    },
+    "bottom_right": {
+      "pink_cloud_shape": {
+        "count": 3,
+        "bullet_points": [
+          "✓難しい知識不要",
+          "✓今日から始められる",
+          "✓やさしく丁寧に解説"
+        ]
+      },
+      "gold_medal_seal": "保存版",
+      "purple_badge": "{argument name=\"year badge text\" default=\"2026年 最新版\"}"
+    }
+  }
+}
+```
+
+</details>
+
+## 界面交互设计图 · v1
+
+- [界面交互设计图 · v1](../cases/case-awesome-gpt-image-2-101-cb7f543234f7/v1.md) — awesome-gpt-image-2 \#101
+
+<img src="../images/18ea336b81a5fba435baddad6c9ed2468b135a0230ee3a311458b5bc29d0bbde.jpg" alt="界面交互设计图" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+{
+  "type": "YouTube thumbnail",
+  "style": "High-impact, neon green and black color scheme, cyber business aesthetic",
+  "background": "Dark with glowing green grid, upward chart lines, large green arrow",
+  "subject": {
+    "description": "{argument name=\"subject description\" default=\"Serious Japanese man in a black suit\"}",
+    "position": "Right side",
+    "props": "Stacks of 10,000 Yen bills in bottom right"
+  },
+  "layout": {
+    "main_title": {
+      "text": "{argument name=\"main title\" default=\"月30万 ChatGPT副業 誰でも始めやすい\"}",
+      "position": "Center, huge bold white and green gradient text"
+    },
+    "top_left_badge": {
+      "text": "{argument name=\"top left badge\" default=\"再現性高め\"}",
+      "style": "Angled neon green box"
+    },
+    "top_tags": {
+      "count": 4,
+      "labels": ["初心者OK", "スマホでも可能", "最短で収益化", "具体例つき"]
+    },
+    "left_bullet_points": {
+      "count": 6,
+      "style": "Dark boxes with neon green borders and icons",
+      "items": [
+        "Lightbulb icon: 失敗しない始め方",
+        "Yen coin icon: 副業におすすめ",
+        "Chart icon: 収益化の流れ",
+        "Search icon: 案件の探し方",
+        "Chat icon: プロンプト例つき",
+        "Clipboard icon: テンプレ付き"
+      ]
+    },
+    "bottom_banner": {
+      "text": "{argument name=\"bottom banner text\" default=\"手順を徹底解説\"}",
+      "icons": "ChatGPT logo left, upward chart right"
+    },
+    "bottom_tags": {
+      "count": 2,
+      "labels": ["{argument name=\"year tag\" default=\"2026年最新版\"}", "即実践できる"]
+    }
+  }
+}
+```
+
+</details>
+

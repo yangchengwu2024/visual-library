@@ -1,0 +1,69 @@
+{
+  "category_covers": {
+    "cat-ui": {
+      "path": "assets/category-covers/ui.jpg",
+      "description": "App、网页、仪表盘、社媒截图与产品界面。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/ui.jpg"
+    },
+    "cat-infographic": {
+      "path": "assets/category-covers/infographic.jpg",
+      "description": "信息图、知识图谱、技术解释与结构化图解。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/infographic.jpg"
+    },
+    "cat-poster": {
+      "path": "assets/category-covers/poster.jpg",
+      "description": "活动海报、封面、字体视觉和强排版画面。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/poster.jpg"
+    },
+    "cat-product": {
+      "path": "assets/category-covers/product.jpg",
+      "description": "商品图、详情页、包装卖点和商业广告。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/product.jpg"
+    },
+    "cat-brand": {
+      "path": "assets/category-covers/brand.jpg",
+      "description": "Logo、VI、品牌触点和 Campaign 视觉系统。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/brand.jpg"
+    },
+    "cat-architecture": {
+      "path": "assets/category-covers/architecture.jpg",
+      "description": "建筑表现、室内空间、城市地图和空间概念。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/architecture.jpg"
+    },
+    "cat-photo": {
+      "path": "assets/category-covers/photo.jpg",
+      "description": "人像、手机纪实、胶片质感和商业摄影。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/photo.jpg"
+    },
+    "cat-illustration": {
+      "path": "assets/category-covers/illustration.jpg",
+      "description": "插画、艺术风格、材质实验和装饰画面。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/illustration.jpg"
+    },
+    "cat-character": {
+      "path": "assets/category-covers/character.jpg",
+      "description": "角色设定、动作参考、卡牌和 3D 玩具。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/character.jpg"
+    },
+    "cat-scene": {
+      "path": "assets/category-covers/scene.jpg",
+      "description": "分镜、故事场景、直播画面和世界观叙事。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/scene.jpg"
+    },
+    "cat-history": {
+      "path": "assets/category-covers/history.jpg",
+      "description": "古风长卷、历史人物、传统题材和诗词画面。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/history.jpg"
+    },
+    "cat-document": {
+      "path": "assets/category-covers/document.jpg",
+      "description": "白皮书、手册、百科图鉴和出版页设计。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/document.jpg"
+    },
+    "cat-other": {
+      "path": "assets/category-covers/other.jpg",
+      "description": "创意实验、特殊任务、混合玩法和实用场景。",
+      "source": "https://github.com/freestylefly/awesome-gpt-image-2/blob/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/images/category-covers/other.jpg"
+    }
+  }
+}
