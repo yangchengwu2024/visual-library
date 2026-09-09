@@ -64,6 +64,8 @@ def registry(root):
 
 def scope_hash(source):
     value = {key: source.get(key) for key in ('repository', 'adapter', 'scope', 'selection_sha256')}
+    if source.get('approved_documents'):
+        value['approved_documents'] = source['approved_documents']
     return hashlib.sha256(json.dumps(value, sort_keys=True).encode()).hexdigest()
 
 
@@ -149,6 +151,12 @@ def validate_images(records):
 def prepare(stage, source, revision, download_dir, selected_ids=None):
     if source['adapter'] == 'freestylefly':
         upstream = sync_upstream.download_source(download_dir, revision)
+        for name, expected in source.get('approved_documents', {}).items():
+            document = (upstream / name).resolve()
+            if not document.is_relative_to(upstream.resolve()) or not document.is_file():
+                raise ValueError('Approved source notice missing')
+            if hashlib.sha256(document.read_bytes()).hexdigest() != expected:
+                raise ValueError('Source license or content notice changed; source review required: ' + name)
         records, _ = sync_upstream.prepare(upstream)
         wanted = set(selected_ids or (source['scope']['ids'] if source['scope']['kind'] == 'selected' else []))
         if selected_ids and source['scope']['kind'] == 'selected' and not wanted.issubset(set(source['scope']['ids'])):

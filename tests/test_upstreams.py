@@ -66,6 +66,19 @@ class UpstreamTests(unittest.TestCase):
             upstreams.run(self.root, 'check')
         network.assert_not_called()
 
+    def test_changed_approved_notice_stops_before_case_import(self):
+        source = self.source()
+        old_fingerprint = upstreams.scope_hash(source)
+        source['approved_documents'] = {'LICENSE': '0' * 64}
+        self.assertNotEqual(old_fingerprint, upstreams.scope_hash(source))
+        downloaded = self.base / 'upstream'
+        downloaded.mkdir()
+        (downloaded / 'LICENSE').write_bytes(b'changed notice')
+        with patch.object(upstreams.sync_upstream, 'download_source', return_value=downloaded), patch.object(upstreams.sync_upstream, 'prepare') as parse:
+            with self.assertRaisesRegex(ValueError, 'license or content notice changed'):
+                upstreams.prepare(self.root, source, REVISION, self.base)
+        parse.assert_not_called()
+
     def test_explicit_candidate_check_is_readonly_and_does_not_promote_policy(self):
         self.write_registry([self.source(policy='candidate')])
         before = self.snapshot()

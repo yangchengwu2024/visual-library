@@ -14,6 +14,10 @@
       "approval": {
         "date": "2026-09-09",
         "basis": "User explicitly approved continued automatic archive of this source; existing internal source ID preserved."
+      },
+      "approved_documents": {
+        "LICENSE": "27a75c48bac29eb78f43c19f75c4e175974c8f1046d848d5562eae1ead2f1176",
+        "docs/disclaimer.md": "acb1e6b8f0bfa58ff5964ce749a65af20269a8f57bb9d3b4aa849ba55e161e43"
       }
     },
     {
