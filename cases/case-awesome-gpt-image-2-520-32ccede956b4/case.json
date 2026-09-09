@@ -58,6 +58,34 @@
       "title": "月面宇航员 T 恤图形",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-520",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case520.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "520",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "UI",
+          "Illustration",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/lovimg_com/status/2077035644254363972",
+      "title": "月面宇航员 T 恤图形",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-520",
+      "version": "v1"
     }
   ],
   "title": "月面宇航员 T 恤图形",

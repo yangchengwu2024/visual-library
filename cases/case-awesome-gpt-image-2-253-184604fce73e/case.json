@@ -46,6 +46,30 @@
       "title": "2026谷雨节气唯美海报设计",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-253",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case253.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "253",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+      "title": "2026谷雨节气唯美海报设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-253",
+      "version": "v1"
     }
   ],
   "title": "2026谷雨节气唯美海报设计",

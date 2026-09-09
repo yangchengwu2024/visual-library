@@ -58,6 +58,34 @@
       "title": "图像生成案例图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-80",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case80.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "80",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/WOZ1Tx2JZ3kCeBj",
+      "title": "图像生成案例图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-80",
+      "version": "v1"
     }
   ],
   "title": "图像生成案例图",

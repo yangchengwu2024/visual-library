@@ -58,6 +58,34 @@
       "title": "琉璃透明画眉鸟飞舞羊城墨卷",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-229",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case229.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "229",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Classical",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2045873940883808523",
+      "title": "琉璃透明画眉鸟飞舞羊城墨卷",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-229",
+      "version": "v1"
     }
   ],
   "title": "琉璃透明画眉鸟飞舞羊城墨卷",

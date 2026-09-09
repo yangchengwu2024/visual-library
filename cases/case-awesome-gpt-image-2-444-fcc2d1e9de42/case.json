@@ -55,6 +55,33 @@
       "title": "迪斯科镜面 3D App 图标",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-444",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case444.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "444",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Product",
+          "Brand",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/vista8/status/2056308962778296715",
+      "title": "迪斯科镜面 3D App 图标",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-444",
+      "version": "v1"
     }
   ],
   "title": "迪斯科镜面 3D App 图标",

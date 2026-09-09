@@ -58,6 +58,34 @@
       "title": "Scrapbook 真人图与迷你分身",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-371",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case371.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "371",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Realistic",
+          "Brand",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Kashberg_0/status/2050272100884340783",
+      "title": "Scrapbook 真人图与迷你分身",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-371",
+      "version": "v1"
     }
   ],
   "title": "Scrapbook 真人图与迷你分身",

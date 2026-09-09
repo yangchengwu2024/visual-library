@@ -55,6 +55,33 @@
       "title": "iPhone 屏幕遮脸创意人像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-421",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case421.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "421",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Ciri_ai/status/2053535379618423118",
+      "title": "iPhone 屏幕遮脸创意人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-421",
+      "version": "v1"
     }
   ],
   "title": "iPhone 屏幕遮脸创意人像",

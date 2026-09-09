@@ -55,6 +55,33 @@
       "title": "高端 3D 收藏玩具头像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-378",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case378.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "378",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic",
+          "Brand",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Genematicai/status/2050654848216109429",
+      "title": "高端 3D 收藏玩具头像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-378",
+      "version": "v1"
     }
   ],
   "title": "高端 3D 收藏玩具头像",

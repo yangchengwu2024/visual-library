@@ -58,6 +58,34 @@
       "title": "家庭旅行纸雕拼贴",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-461",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case461.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "461",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "Illustration",
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Taaruk_/status/2058400056722731079",
+      "title": "家庭旅行纸雕拼贴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-461",
+      "version": "v1"
     }
   ],
   "title": "家庭旅行纸雕拼贴",

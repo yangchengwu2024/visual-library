@@ -58,6 +58,34 @@
       "title": "古风诗人镭射典藏卡牌",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-290",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case290.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "290",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "History"
+        ],
+        "styles": [
+          "UI",
+          "Character",
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/TanShilong/status/2045435090923356415",
+      "title": "古风诗人镭射典藏卡牌",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-290",
+      "version": "v1"
     }
   ],
   "title": "古风诗人镭射典藏卡牌",

@@ -55,6 +55,33 @@
       "title": "绘画艺术风格图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-129",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case129.png"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "129",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Poster",
+          "Illustration",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/TlanoVRC",
+      "title": "绘画艺术风格图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-129",
+      "version": "v1"
     }
   ],
   "title": "绘画艺术风格图",

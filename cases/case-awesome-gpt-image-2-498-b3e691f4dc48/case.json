@@ -49,6 +49,31 @@
       "title": "铅笔画背景 3D 分身",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-498",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case498.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "498",
+      "source_tags": {
+        "scenes": [
+          "Commerce"
+        ],
+        "styles": [
+          "Illustration",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/AIwithkhan/status/2062567518389391540",
+      "title": "铅笔画背景 3D 分身",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-498",
+      "version": "v1"
     }
   ],
   "title": "铅笔画背景 3D 分身",

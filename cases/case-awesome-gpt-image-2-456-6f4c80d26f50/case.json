@@ -58,6 +58,34 @@
       "title": "历史事件 2x2 可视化地图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-456",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case456.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "456",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Travel",
+          "History"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/Gdgtify/status/2057277698607599692",
+      "title": "历史事件 2x2 可视化地图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-456",
+      "version": "v1"
     }
   ],
   "title": "历史事件 2x2 可视化地图",

@@ -49,6 +49,31 @@
       "title": "黑神话潘金莲绝美游戏封面",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-207",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case207.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "207",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Poster",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2046576160952443082",
+      "title": "黑神话潘金莲绝美游戏封面",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-207",
+      "version": "v1"
     }
   ],
   "title": "黑神话潘金莲绝美游戏封面",

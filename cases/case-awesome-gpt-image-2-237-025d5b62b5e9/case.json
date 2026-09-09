@@ -55,6 +55,33 @@
       "title": "夏日柑橘苏打高转化广告图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-237",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case237.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "237",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/old_pgmrs_will/status/2045852114673635507",
+      "title": "夏日柑橘苏打高转化广告图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-237",
+      "version": "v1"
     }
   ],
   "title": "夏日柑橘苏打高转化广告图",

@@ -58,6 +58,34 @@
       "title": "冲破次元壁的写实漫画跑者",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-316",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case316.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "316",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Realistic",
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Fujimoto_hina/status/2027748030825500722",
+      "title": "冲破次元壁的写实漫画跑者",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-316",
+      "version": "v1"
     }
   ],
   "title": "冲破次元壁的写实漫画跑者",

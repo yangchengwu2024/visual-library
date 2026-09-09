@@ -58,6 +58,34 @@
       "title": "当代舞现场 Storyboard",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-413",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case413.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "413",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/ogbenniasamuel2/status/2053088572031250799",
+      "title": "当代舞现场 Storyboard",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-413",
+      "version": "v1"
     }
   ],
   "title": "当代舞现场 Storyboard",

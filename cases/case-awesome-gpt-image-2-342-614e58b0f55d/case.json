@@ -55,6 +55,33 @@
       "title": "四季包装 Campaign 宫格",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-342",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case342.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "342",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/SRKDAN/status/2048582939504431195",
+      "title": "四季包装 Campaign 宫格",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-342",
+      "version": "v1"
     }
   ],
   "title": "四季包装 Campaign 宫格",

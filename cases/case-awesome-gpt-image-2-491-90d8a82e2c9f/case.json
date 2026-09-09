@@ -58,6 +58,34 @@
       "title": "Y2K 高楼浴室镜面自拍",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-491",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case491.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "491",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/jzaib4269/status/2062184740849930384",
+      "title": "Y2K 高楼浴室镜面自拍",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-491",
+      "version": "v1"
     }
   ],
   "title": "Y2K 高楼浴室镜面自拍",

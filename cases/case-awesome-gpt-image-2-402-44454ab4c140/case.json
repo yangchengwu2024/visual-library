@@ -49,6 +49,31 @@
       "title": "3D 小红书个人资料卡",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-402",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case402.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "402",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "UI",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/MrGafish/status/2052323461268467860",
+      "title": "3D 小红书个人资料卡",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-402",
+      "version": "v1"
     }
   ],
   "title": "3D 小红书个人资料卡",

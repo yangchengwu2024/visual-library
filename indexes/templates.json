@@ -3,8 +3,8 @@
   "sources": [
     {
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "count": 22
     }
   ],
@@ -65,10 +65,10 @@
       ],
       "source_cover": "/images/case17.jpg",
       "cover_sha256": "97e848f6ad45cdd5b2c9f62c43725953afdcd52f3f2c261ec5869de92a730e85",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:ui-screenshot-system",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "infographic-engine",
@@ -127,10 +127,10 @@
       ],
       "source_cover": "/images/case334.png",
       "cover_sha256": "8f2f6183902e2af7cc3f69bd310f37af15e21d521b790aeff5225daa7b752b5f",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:infographic-engine",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "scientific-scale-diagram",
@@ -188,10 +188,10 @@
       ],
       "source_cover": "/images/case341.jpg",
       "cover_sha256": "a8e0c2d57a2c4cdd0dbbab23a7914016c219bd706ebdb430b837b506afba2c3d",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:scientific-scale-diagram",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "poster-layout-system",
@@ -249,10 +249,10 @@
       ],
       "source_cover": "/images/case345.jpg",
       "cover_sha256": "d933e8b783ee80637af7da3d031544177e5720ffac334e406923862069c675c5",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:poster-layout-system",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "sports-campaign-poster",
@@ -310,10 +310,10 @@
       ],
       "source_cover": "/images/case350.jpg",
       "cover_sha256": "88786fb7711b218c63941b35d4b943c199fb16da7d63732fa22589ad272815f1",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:sports-campaign-poster",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "conceptual-typography-poster",
@@ -369,10 +369,10 @@
       ],
       "source_cover": "/images/case355.jpg",
       "cover_sha256": "f9ac45416e60558523f45fb0d6fc39a73f8aabe656ae734b837d28a9ba4ccf35",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:conceptual-typography-poster",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "ink-double-exposure-poster",
@@ -430,10 +430,10 @@
       ],
       "source_cover": "/images/case359.jpg",
       "cover_sha256": "934c9df892511d4d15ad61c851165a743ca2adb11d38e4d9a88b06cdb49a6651",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:ink-double-exposure-poster",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "nature-science-poster",
@@ -489,10 +489,10 @@
       ],
       "source_cover": "/images/case339.jpg",
       "cover_sha256": "d037ecc4476845da73dd267253762699fe30206d9091b87a9dd14f12678dc642",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:nature-science-poster",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "product-commerce-visual",
@@ -550,10 +550,10 @@
       ],
       "source_cover": "/images/case373.jpg",
       "cover_sha256": "116ce21ef7753e164435fb1ecfe4c7a8ea807f5b4a24cebba306a668ad9043b4",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:product-commerce-visual",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "personalized-beauty-report",
@@ -610,10 +610,10 @@
       ],
       "source_cover": "/images/case353.jpg",
       "cover_sha256": "7a02c35d093976d4d5ef26290f6023c7c60278f3987199d5dad21f2a2ee754ea",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:personalized-beauty-report",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "brand-identity-package",
@@ -668,10 +668,10 @@
       ],
       "source_cover": "/images/case354.jpg",
       "cover_sha256": "2f889229ccd41f32649fd88e8ecee133bfdb6553c868420defb82ba82766c51d",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:brand-identity-package",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "brand-touchpoint-board",
@@ -728,10 +728,10 @@
       ],
       "source_cover": "/images/case362.jpg",
       "cover_sha256": "98602c5ee9033e5d80c656abc5409391b181f4d207f43e404d49a1057a2034ce",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:brand-touchpoint-board",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "architecture-space",
@@ -788,10 +788,10 @@
       ],
       "source_cover": "/images/case331.png",
       "cover_sha256": "c078cff6148d0dde79705230844aae29ccc92316fc2681a130cd1dd40c4a0914",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:architecture-space",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "realistic-photography",
@@ -848,10 +848,10 @@
       ],
       "source_cover": "/images/case377.jpg",
       "cover_sha256": "584ed6c93cf43cf1fee949af08336652c9e11d4e3373299043ae22513e1fed8b",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:realistic-photography",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "street-accident-moment",
@@ -908,10 +908,10 @@
       ],
       "source_cover": "/images/case376.jpg",
       "cover_sha256": "01ae067d4ba353c757bce9855b1141d27558b332bcf158a87a5f96d57ee7dad4",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:street-accident-moment",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "illustration-art-style",
@@ -968,10 +968,10 @@
       ],
       "source_cover": "/images/case346.jpg",
       "cover_sha256": "f5b4a6aeea2b73c430344c1edfe4ab24bef1ebba2045f4163423c4a00fe01527",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:illustration-art-style",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "character-design-sheet",
@@ -1027,10 +1027,10 @@
       ],
       "source_cover": "/images/case347.jpg",
       "cover_sha256": "4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:character-design-sheet",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "3d-collectible-toy",
@@ -1087,10 +1087,10 @@
       ],
       "source_cover": "/images/case378.jpg",
       "cover_sha256": "ec8bffa0e3e9634e42f4c741fc9f78761bf4b0cdd98621c52f805438c16b4e2f",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:3d-collectible-toy",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "scene-storytelling",
@@ -1147,10 +1147,10 @@
       ],
       "source_cover": "/images/case330.png",
       "cover_sha256": "71bf9061a89be884f4173c8d043b73318e0cfb63b95c78085ad7bbe429c9383a",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:scene-storytelling",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "history-classical-themes",
@@ -1209,10 +1209,10 @@
       ],
       "source_cover": "/images/case375.jpg",
       "cover_sha256": "1f5d4eccd0a56ccdda65299185a702d2588aab7e88e1664c41deebe7c4552de5",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:history-classical-themes",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "document-publishing",
@@ -1269,10 +1269,10 @@
       ],
       "source_cover": "/images/case360.jpg",
       "cover_sha256": "c91915f50664ba3ca11961f90b0ea81f08accf09b321dfe4499e9814eace1063",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:document-publishing",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     },
     {
       "id": "concept-product-breakdown",
@@ -1330,13 +1330,13 @@
       ],
       "source_cover": "/images/case370.jpg",
       "cover_sha256": "7f2777310baa28dc5b9c712f1a55bcbf4d4ef4f3722b5a875353e8443a8fb24e",
-      "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md",
       "stable_id": "awesome-gpt-image-2:concept-product-breakdown",
       "source": "awesome-gpt-image-2",
-      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4"
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999"
     }
   ],
   "source": "awesome-gpt-image-2",
-  "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
-  "document": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md"
+  "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+  "document": "sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md"
 }

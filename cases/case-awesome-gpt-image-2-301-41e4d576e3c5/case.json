@@ -52,6 +52,32 @@
       "title": "终结者机器人淘宝详情页",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-301",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case301.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "301",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/rionaifantasy/status/2045356799751303194",
+      "title": "终结者机器人淘宝详情页",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-301",
+      "version": "v1"
     }
   ],
   "title": "终结者机器人淘宝详情页",

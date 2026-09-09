@@ -55,6 +55,33 @@
       "title": "韩国便利店粉色 Hoodie 人像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-429",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case429.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "429",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion",
+          "Food"
+        ],
+        "styles": [
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/john_my07/status/2054573350199111928",
+      "title": "韩国便利店粉色 Hoodie 人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-429",
+      "version": "v1"
     }
   ],
   "title": "韩国便利店粉色 Hoodie 人像",

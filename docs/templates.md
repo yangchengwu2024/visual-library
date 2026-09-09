@@ -12,7 +12,7 @@
 
 ![UI 截图系统](../images/97e848f6ad45cdd5b2c9f62c43725953afdcd52f3f2c261ec5869de92a730e85.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-ui)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-ui)
 
 ## 信息图引擎
 
@@ -20,7 +20,7 @@
 
 ![信息图引擎](../images/8f2f6183902e2af7cc3f69bd310f37af15e21d521b790aeff5225daa7b752b5f.png)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-infographic)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-infographic)
 
 ## 科学尺度缩放图
 
@@ -28,7 +28,7 @@
 
 ![科学尺度缩放图](../images/a8e0c2d57a2c4cdd0dbbab23a7914016c219bd706ebdb430b837b506afba2c3d.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-infographic)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-infographic)
 
 ## 海报排版系统
 
@@ -36,7 +36,7 @@
 
 ![海报排版系统](../images/d933e8b783ee80637af7da3d031544177e5720ffac334e406923862069c675c5.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-poster)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-poster)
 
 ## 运动商业 Campaign
 
@@ -44,7 +44,7 @@
 
 ![运动商业 Campaign](../images/88786fb7711b218c63941b35d4b943c199fb16da7d63732fa22589ad272815f1.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-poster)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-poster)
 
 ## 概念字体海报
 
@@ -52,7 +52,7 @@
 
 ![概念字体海报](../images/f9ac45416e60558523f45fb0d6fc39a73f8aabe656ae734b837d28a9ba4ccf35.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-poster)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-poster)
 
 ## 水墨双重曝光海报
 
@@ -60,7 +60,7 @@
 
 ![水墨双重曝光海报](../images/934c9df892511d4d15ad61c851165a743ca2adb11d38e4d9a88b06cdb49a6651.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-poster)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-poster)
 
 ## 自然科普海报
 
@@ -68,7 +68,7 @@
 
 ![自然科普海报](../images/d037ecc4476845da73dd267253762699fe30206d9091b87a9dd14f12678dc642.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-poster)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-poster)
 
 ## 商品商业视觉
 
@@ -76,7 +76,7 @@
 
 ![商品商业视觉](../images/116ce21ef7753e164435fb1ecfe4c7a8ea807f5b4a24cebba306a668ad9043b4.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-product)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-product)
 
 ## 个性化美妆报告
 
@@ -84,7 +84,7 @@
 
 ![个性化美妆报告](../images/7a02c35d093976d4d5ef26290f6023c7c60278f3987199d5dad21f2a2ee754ea.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-product)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-product)
 
 ## 品牌身份包
 
@@ -92,7 +92,7 @@
 
 ![品牌身份包](../images/2f889229ccd41f32649fd88e8ecee133bfdb6553c868420defb82ba82766c51d.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-brand)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-brand)
 
 ## 品牌触点视觉板
 
@@ -100,7 +100,7 @@
 
 ![品牌触点视觉板](../images/98602c5ee9033e5d80c656abc5409391b181f4d207f43e404d49a1057a2034ce.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-brand)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-brand)
 
 ## 建筑与空间
 
@@ -108,7 +108,7 @@
 
 ![建筑与空间](../images/c078cff6148d0dde79705230844aae29ccc92316fc2681a130cd1dd40c4a0914.png)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-architecture)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-architecture)
 
 ## 写实摄影
 
@@ -116,7 +116,7 @@
 
 ![写实摄影](../images/584ed6c93cf43cf1fee949af08336652c9e11d4e3373299043ae22513e1fed8b.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-photo)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-photo)
 
 ## 街头意外瞬间摄影
 
@@ -124,7 +124,7 @@
 
 ![街头意外瞬间摄影](../images/01ae067d4ba353c757bce9855b1141d27558b332bcf158a87a5f96d57ee7dad4.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-photo)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-photo)
 
 ## 插画与艺术风格
 
@@ -132,7 +132,7 @@
 
 ![插画与艺术风格](../images/f5b4a6aeea2b73c430344c1edfe4ab24bef1ebba2045f4163423c4a00fe01527.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-illustration)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-illustration)
 
 ## 角色设定表
 
@@ -140,7 +140,7 @@
 
 ![角色设定表](../images/4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-character)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-character)
 
 ## 3D 收藏玩具
 
@@ -148,7 +148,7 @@
 
 ![3D 收藏玩具](../images/ec8bffa0e3e9634e42f4c741fc9f78761bf4b0cdd98621c52f805438c16b4e2f.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-character)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-character)
 
 ## 场景叙事
 
@@ -156,7 +156,7 @@
 
 ![场景叙事](../images/71bf9061a89be884f4173c8d043b73318e0cfb63b95c78085ad7bbe429c9383a.png)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-scene)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-scene)
 
 ## 历史与古风题材
 
@@ -164,7 +164,7 @@
 
 ![历史与古风题材](../images/1f5d4eccd0a56ccdda65299185a702d2588aab7e88e1664c41deebe7c4552de5.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-history)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-history)
 
 ## 文档与出版物
 
@@ -172,7 +172,7 @@
 
 ![文档与出版物](../images/c91915f50664ba3ca11961f90b0ea81f08accf09b321dfe4499e9814eace1063.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-document)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-document)
 
 ## 概念产品研发拆解
 
@@ -180,5 +180,5 @@
 
 ![概念产品研发拆解](../images/7f2777310baa28dc5b9c712f1a55bcbf4d4ef4f3722b5a875353e8443a8fb24e.jpg)
 
-[查看完整模板](../sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md#tpl-other)
+[查看完整模板](../sources/awesome-gpt-image-2/upstream/073d105d4dbb3f3afcd2e7cd194cee3a557b0999/docs/templates.md#tpl-other)
 

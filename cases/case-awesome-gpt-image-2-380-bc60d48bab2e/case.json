@@ -55,6 +55,33 @@
       "title": "冠状病毒尺度缩放科学信息图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-380",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case380.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "380",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Story"
+        ],
+        "styles": [
+          "Infographic",
+          "Realistic",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Gdgtify/status/2051288232613351571",
+      "title": "冠状病毒尺度缩放科学信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-380",
+      "version": "v1"
     }
   ],
   "title": "冠状病毒尺度缩放科学信息图",

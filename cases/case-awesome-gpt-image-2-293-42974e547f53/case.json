@@ -46,6 +46,30 @@
       "title": "聚焦人工智能的校园日报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-293",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case293.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "293",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Documents"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2044824800909054181",
+      "title": "聚焦人工智能的校园日报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-293",
+      "version": "v1"
     }
   ],
   "title": "聚焦人工智能的校园日报",

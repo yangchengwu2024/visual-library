@@ -49,6 +49,31 @@
       "title": "古希腊三哲时间轴城市图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-375",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case375.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "375",
+      "source_tags": {
+        "scenes": [
+          "Travel",
+          "History"
+        ],
+        "styles": [
+          "Charts"
+        ]
+      },
+      "source_url": "https://x.com/ToroJushiAi/status/2050713034503409874",
+      "title": "古希腊三哲时间轴城市图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-375",
+      "version": "v1"
     }
   ],
   "title": "古希腊三哲时间轴城市图",

@@ -58,6 +58,34 @@
       "title": "零食品牌技术分解图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-310",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case310.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "310",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Infographic",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/TechieBySA/status/2031795709243019280",
+      "title": "零食品牌技术分解图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-310",
+      "version": "v1"
     }
   ],
   "title": "零食品牌技术分解图",

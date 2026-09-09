@@ -52,6 +52,32 @@
       "title": "金瓶梅古风开放世界游戏截图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-213",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case213.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "213",
+      "source_tags": {
+        "scenes": [
+          "Story",
+          "History"
+        ],
+        "styles": [
+          "UI",
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/op7418/status/2046520509651886451",
+      "title": "金瓶梅古风开放世界游戏截图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-213",
+      "version": "v1"
     }
   ],
   "title": "金瓶梅古风开放世界游戏截图",

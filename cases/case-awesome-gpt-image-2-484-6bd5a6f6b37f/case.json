@@ -52,6 +52,32 @@
       "title": "霓虹涂鸦黑白人像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-484",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case484.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "484",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion",
+          "Travel"
+        ],
+        "styles": [
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/harboriis/status/2060208419811074350",
+      "title": "霓虹涂鸦黑白人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-484",
+      "version": "v1"
     }
   ],
   "title": "霓虹涂鸦黑白人像",

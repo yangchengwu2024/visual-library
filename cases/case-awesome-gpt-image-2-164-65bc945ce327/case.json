@@ -49,6 +49,31 @@
       "title": "特朗普太空直播间破千万",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-164",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case164.jpg"
+        }
+      ],
+      "revision": "073d105d4dbb3f3afcd2e7cd194cee3a557b0999",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "164",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "UI",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/songguoxiansen/status/2046478609238626569",
+      "title": "特朗普太空直播间破千万",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-164",
+      "version": "v1"
     }
   ],
   "title": "特朗普太空直播间破千万",
