@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 611917,
+      "path": "images/cf4d66b852a85e56c18306d3e1199df8797e1180bfb837aaf8be9996135ae883.jpg",
+      "role": "source_example",
+      "sha256": "cf4d66b852a85e56c18306d3e1199df8797e1180bfb837aaf8be9996135ae883",
+      "source_path": "data/images/case9.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-9-d2b83755af5e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "79153182d2ffde5ec27bc713d6972203b2073b83545b44e6a355fed6c526843b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "2026中国城市系列宣传海报，主题为【北京】。现代、多彩、明亮通透的国潮风，竖版9:16。大面积白色纹理留白背景，一条从右下向左上盘旋的红色丝绸形成S型主构图。右下角一位东方女性挥舞红绸，服饰需结合北京地域文化定制。红绸延展为城市长卷，融合天坛、长城、鸟巢、喇叭沟门原始森林公园、什刹海、京味相声。左侧排版SPRING 2026、竖排Beijing和小印章“北京”。要求统一系列感，但不能雷同，细节丰富，城市辨识度强。文字清晰且精美布局，高端图形设计。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case9.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "9",
+    "source_tags": {
+      "scenes": [
+        "Fashion",
+        "Travel"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-9",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-9"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

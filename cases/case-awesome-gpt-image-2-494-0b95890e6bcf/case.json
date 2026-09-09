@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-494-0b95890e6bcf",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case494.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "494",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/j_smeaton99/status/2062365258984177766",
+      "title": "电动巴士工程信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-494",
+      "version": "v1"
+    }
+  ],
+  "title": "电动巴士工程信息图",
+  "title_aliases": [
+    "电动巴士工程信息图"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 408314,
+      "path": "images/1f5d4eccd0a56ccdda65299185a702d2588aab7e88e1664c41deebe7c4552de5.jpg",
+      "role": "source_example",
+      "sha256": "1f5d4eccd0a56ccdda65299185a702d2588aab7e88e1664c41deebe7c4552de5",
+      "source_path": "data/images/case375.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-375-55c282238a03",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b3937f6e1a789e92cdc06f4c9933ef7ee8f22a4a24351bc144ff61c76900c763",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "二千五百年前，柏拉图，苏格拉底， 亚力士多德，坐在雅典街头聊天，聊出了世界文明史的源头。\n\n背景可以加上他们聊天内容，按时间轴的走向，重叠在古希腊雅典的城市风光中。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case375.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "375",
+    "source_tags": {
+      "scenes": [
+        "Travel",
+        "History"
+      ],
+      "styles": [
+        "Charts"
+      ]
+    },
+    "source_url": "https://x.com/ToroJushiAi/status/2050713034503409874",
+    "title": "古希腊三哲时间轴城市图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-375"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "古希腊三哲时间轴城市图",
+  "version": "v1"
+}

@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 280011,
+      "path": "images/8d4a5db50a1acafd90999078aa51f648f76c78cd3b85076c2892333524029f33.jpg",
+      "role": "source_example",
+      "sha256": "8d4a5db50a1acafd90999078aa51f648f76c78cd3b85076c2892333524029f33",
+      "source_path": "data/images/case180.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-180-1135b782ed16",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eb04d1353a1048f0f8524c9ff5dd95d8b7af2a135397b5fa350b9b1ea2154ddd",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一个看似真实却微妙地古怪的女装大叔出现的电影海报，4 种。达到专业设计师制作的水平。 企划和设定本身就是那种“这种东西真要拍成电影吗？”的、认真却忍不住想笑的超现实动画。 标题和播出信息也要用日文显示的状态。\n\n[English]\nA movie poster featuring a seemingly realistic yet subtly bizarre cross-dressing older man, 4 variations. Reaching the level of a professional designer's production. The project and setting itself is a surreal animation of the \"Are they really making a movie out of this?\" kind, serious yet irresistibly funny. The title and broadcast information should also be displayed in Japanese.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case180.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "180",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/aiehon_aya/status/2046499177916682600",
+    "title": "荒诞超现实女装大叔海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-180"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "荒诞超现实女装大叔海报",
+  "version": "v1"
+}

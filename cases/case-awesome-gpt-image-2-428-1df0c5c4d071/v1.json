@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 645724,
+      "path": "images/3965e91ffe3d4470bf0cc6532d21627c4f82b2789dfef45e1f7d4f454b0113fd.jpg",
+      "role": "source_example",
+      "sha256": "3965e91ffe3d4470bf0cc6532d21627c4f82b2789dfef45e1f7d4f454b0113fd",
+      "source_path": "data/images/case428.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-428-1df0c5c4d071",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e09291090bd3ef9478cbca4678163799368c2a5e6efe43c885200d17eae04db5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic F1 live TV broadcast screenshot. A strikingly beautiful, 25-year-old young woman with bright light blue hair and captivating bright cerulean blue eyes is sitting in the VIP paddock / team garage during a Formula 1 race. Shown on the official live race broadcast as the girlfriend of an F1 driver, she is listening to the team radio through a professional racing headset. It is the final lap, and she is watching the garage monitors with a proud, enchanting smile.\nShe wears a fitted white tank top, an oversized racing team jacket (with generic, unbranded or blank team logos) draped over her shoulders, large black team-radio headset with boom mic, gold jewelry, and soft glam makeup. A slim, unbranded paddock pass hangs naturally from her neck.\nAdd realistic F1 broadcast graphics: \"FINAL LAP\" banner, lap counter showing final lap, driver timing tower on the left, small F1-style logo bug, \"LIVE\" indicator, and a lower-third identifying her as a driver partner / paddock guest (e.g., \"MIA ANDERSEN - Paddock Guest / Partner\"). No fake oversized badges, no selfie angle.\nTeam staff (in generic kit), headsets, garage screens, and generic race equipment are blurred around her. Telephoto broadcast camera shot from across the garage, professional depth of field, compression artifacts, digital noise, bright paddock lighting, natural skin texture, no smoothing, 8k quality, cinematic lighting.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case428.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "428",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/bigwonbots/status/2054573714012787059",
+    "title": "F1 直播转播围场截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-428"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "F1 直播转播围场截图",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-351-9ee8855623e6",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "海报",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case351.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "351",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Poster",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/AIwithSynthia/status/2048601383545577614",
+      "title": "健身品牌力量 Campaign",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-351",
+      "version": "v1"
+    }
+  ],
+  "title": "健身品牌力量 Campaign",
+  "title_aliases": [
+    "健身品牌力量 Campaign"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 480478,
+      "path": "images/60c2b30f0a9010e7268b43707ee2f447cad76ca12b7ae0b2f89b995a92ee37c3.jpg",
+      "role": "source_example",
+      "sha256": "60c2b30f0a9010e7268b43707ee2f447cad76ca12b7ae0b2f89b995a92ee37c3",
+      "source_path": "data/images/case445.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-445-d122dbf14890",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f49687d2089e0a241b1d19e3197e981b241cce1a4e31f745b365a06376f4d2bf",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a dreamy watercolor travel illustration style from the attached photo. Use hand-painted urban sketchbook aesthetic, delicate ink linework mixed with soft watercolor washes, highly detailed pen-and-ink drawing, loose expressive brush strokes, watercolor bleeding edges, ultra detailed watercolor texture, soft beige paper texture background, architectural sketch style, vintage travel diary and sketchbook traveler aesthetic, travel journal composition, editorial postcard layout, handwritten medium title:[自定义标题]  at top, handwritten notes:[自定义文案] , date: [自定义日期] and location: [自定义地点]  stamps, natural perspective, atmospheric depth, minimalist negative space, muted earthy palette (warm browns, faded greens, cream whites, soft blue accents), quiet, calm, soft, cozy, nostalgic vibes, cinematic slice-of-life mood, poetic composition, mixed urban sketching with Ghibli-inspired realism, vertical poster design, premium art print quality.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case445.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "445",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/zhgqthomas/status/2056633723366568387",
+    "title": "旅游照水墨明信片",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-445"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "旅游照水墨明信片",
+  "version": "v1"
+}

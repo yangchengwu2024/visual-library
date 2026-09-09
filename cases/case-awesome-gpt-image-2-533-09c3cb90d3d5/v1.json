@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 95602,
+      "path": "images/e8a9ad17a108dfaf19b6d782b0e621a3ab4a7c24af2afdb8ed06e434ebc14b06.jpg",
+      "role": "source_example",
+      "sha256": "e8a9ad17a108dfaf19b6d782b0e621a3ab4a7c24af2afdb8ed06e434ebc14b06",
+      "source_path": "data/images/case533.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-533-09c3cb90d3d5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b2b3233666b035a0e2fad31fa1b9b64437a06e6f9093230a70598ab2169420a1",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Transform the subject from the reference image into a cute, quirky hand-drawn doodle illustration.\n\nUse a minimalist children’s storybook / fashion sketch aesthetic with loose, imperfect black ink lines, visible scribbly pencil strokes, subtle cross-hatching, and a charming handmade feel. Keep the character’s recognizable facial features, hairstyle, face shape, clothing, accessories, and overall identity from the reference while simplifying them into a cute illustrated character.\n\nCharacter design:\n- Oversized head and small simplified body\n- Simple dot-like eyes and tiny minimal mouth\n- Soft rounded facial features\n- Slight rosy pink blush on the cheeks\n- Messy, expressive hand-drawn hair with many loose sketch lines\n- Slightly exaggerated, playful proportions\n- Natural, relaxed pose with a whimsical fashion-illustration feel\n\nArt style:\n- Black-and-white pencil/ink doodle drawing\n- Rough, imperfect sketch lines rather than clean digital outlines\n- Dense scribbled hair and clothing details\n- Light hand-colored accents\n- Subtle watercolor/crayon-like coloring\n- Minimal shading\n- White or off-white clean background\n- Lots of negative space\n- Cute, innocent, playful, cozy aesthetic\n- Looks like an original handmade notebook/fashion doodle illustration\n\nPreserve the important details of the reference image while converting everything into this consistent doodle-art style. The final image should feel hand-sketched, slightly imperfect, adorable, expressive, and effortlessly stylish, not like polished vector art or 3D cartoon art.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case533.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "533",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Illustration",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2092473965927334071",
+    "title": "手绘涂鸦时尚人物插画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-533"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "手绘涂鸦时尚人物插画",
+  "version": "v1"
+}

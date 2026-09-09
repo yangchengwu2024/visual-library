@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 246715,
+      "path": "images/039834badf59050ce4ea43df3feabe3772c8dcf1b8bf84b9f37c04b390527f3a.jpg",
+      "role": "source_example",
+      "sha256": "039834badf59050ce4ea43df3feabe3772c8dcf1b8bf84b9f37c04b390527f3a",
+      "source_path": "data/images/case361.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-361-6b11420cf33f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "acd7d587e0bfc1773d89a16b40b43fb6e352f4e00e16a1e8db9ea55be0e61590",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a 3D Insane detailed exploded assembly drawing of [subject or object]",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case361.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "361",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/Ankit_patel211/status/2048834306379075759",
+    "title": "手机爆炸拆解图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-361"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "手机爆炸拆解图",
+  "version": "v1"
+}

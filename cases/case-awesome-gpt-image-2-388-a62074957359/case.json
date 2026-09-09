@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-388-a62074957359",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case388.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "388",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/Shinning1010/status/2051410804805599436",
+      "title": "1980s Claude 复古杂志广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-388",
+      "version": "v1"
+    }
+  ],
+  "title": "1980s Claude 复古杂志广告",
+  "title_aliases": [
+    "1980s Claude 复古杂志广告"
+  ]
+}

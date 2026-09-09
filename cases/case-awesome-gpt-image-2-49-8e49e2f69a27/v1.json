@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 133724,
+      "path": "images/456436ac2f6f95e36166b812c5e84eb98d2ff585f065461af69e077e5ca11042.jpg",
+      "role": "source_example",
+      "sha256": "456436ac2f6f95e36166b812c5e84eb98d2ff585f065461af69e077e5ca11042",
+      "source_path": "data/images/case49.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-49-8e49e2f69a27",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0e059495360489841882a6683d699d584bc9c06452d28f2ef676a2ac11c362df",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A 9:16 aspect ratio image, generating a screenshot of a Douyin livestream where {argument name=\"celebrity\" default=\"Liu Yifei\"} is broadcasting, holding a sign that says \"{argument name=\"sign text\" default=\"Streaming tonight, welcome to join Yifei's chat!\"}\"",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case49.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "49",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/kylegeeks",
+    "title": "直播界面设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-49"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "直播界面设计图",
+  "version": "v1"
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-162-f326a545368c",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "styles": [
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case162.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "162",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/nicdunz",
+      "title": "人物角色设定图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-162",
+      "version": "v1"
+    }
+  ],
+  "title": "人物角色设定图",
+  "title_aliases": [
+    "人物角色设定图"
+  ]
+}

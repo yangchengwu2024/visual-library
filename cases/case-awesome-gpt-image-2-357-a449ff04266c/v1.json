@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 191810,
+      "path": "images/3197f2d3801bfe93a211f40125a9d90ba02221b34326851f26b143475b8955be.jpg",
+      "role": "source_example",
+      "sha256": "3197f2d3801bfe93a211f40125a9d90ba02221b34326851f26b143475b8955be",
+      "source_path": "data/images/case357.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-357-a449ff04266c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "90706b9181d89d92387d53e0cdd777ceb6f9ba8e8faa0ed8fccc7ad5a238a203",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A fish-eye lens close-up of [your photo as reference] sipping from a teal/turquoise coffee mug, leaning forward intimately toward camera. Shot through or near a round mirror. Retro café interior with glossy teal subway tiles, vintage appliances, pendant lights. Black t-shirt, yellow-tinted round glasses. Warm moody tones.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case357.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "357",
+    "source_tags": {
+      "scenes": [
+        "Food"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/harboriis/status/2049044698900361241",
+    "title": "鱼眼镜面复古咖啡馆人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-357"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "鱼眼镜面复古咖啡馆人像",
+  "version": "v1"
+}

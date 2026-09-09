@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 259840,
+      "path": "images/a90b9b2b1eb38e73a5f2f19a4f734f8fa0275571ffdfa17cc9b2d9acdf8c9947.jpg",
+      "role": "source_example",
+      "sha256": "a90b9b2b1eb38e73a5f2f19a4f734f8fa0275571ffdfa17cc9b2d9acdf8c9947",
+      "source_path": "data/images/case34.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-34-3fb1924963d3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c7061a742b1a9cc798074adb94e87fd0489304bdc64db486ce58bef68a9f3607",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"character avatar grid\",\n  \"theme\": \"{argument name=\\\"theme\\\" default=\\\"Journey to the West mythology\\\"}\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"clean 2D cartoon vector illustration, thick outlines, flat colors\\\"}\",\n  \"layout\": {\n    \"background\": \"{argument name=\\\"background color\\\" default=\\\"light gray\\\"} subtle texture\",\n    \"format\": \"grid of circular portraits with text labels centered below each circle\",\n    \"rows\": [\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"Sun Wukong\", \"description\": \"monkey boy with golden headband and red scarf\"},\n          {\"label\": \"Tang Sanzang\", \"description\": \"monk with ornate golden crown\"},\n          {\"label\": \"Zhu Bajie\", \"description\": \"pig man holding a rake\"},\n          {\"label\": \"Sha Wujing\", \"description\": \"bearded man holding a crescent moon staff\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"White Dragon Horse\", \"description\": \"white horse with golden bridle\"},\n          {\"label\": \"Jade Emperor\", \"description\": \"older man with white beard and golden crown\"},\n          {\"label\": \"Guanyin\", \"description\": \"goddess holding a willow branch\"},\n          {\"label\": \"Bull Demon Kink\", \"description\": \"fierce bull demon in armor\"}\n        ]\n      },\n      {\n        \"count\": 4,\n        \"items\": [\n          {\"label\": \"Princess Iron Fan\", \"description\": \"woman holding a green palm leaf fan\"},\n          {\"label\": \"Red Boy\", \"description\": \"boy with red hair, horns, and a small flame\"},\n          {\"label\": \"Black Wind Demon\", \"description\": \"dark shadowy demon with glowing red eyes\"},\n          {\"label\": \"Nezha\", \"description\": \"boy with double hair buns holding a flaming spear\"}\n        ]\n      },\n      {\n        \"count\": 3,\n        \"description\": \"partial row repeating Princess Iron Fan, Black Wind Demon, and Nezha, slightly cropped at the bottom\"\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case34.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "34",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Ryan_Suo",
+    "title": "插画艺术创作图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-34"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "插画艺术创作图",
+  "version": "v1"
+}

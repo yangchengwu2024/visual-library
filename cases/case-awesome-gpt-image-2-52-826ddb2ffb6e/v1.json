@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 131153,
+      "path": "images/f690823cac904c5564a598184e24891cd658e553561b60dfa20f03317360fba1.jpg",
+      "role": "source_example",
+      "sha256": "f690823cac904c5564a598184e24891cd658e553561b60dfa20f03317360fba1",
+      "source_path": "data/images/case52.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-52-826ddb2ffb6e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "98c26949ff013db4eae6d49b2ab798abdc1739bfb137257db96bc52d804c6d64",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A realistic photograph of a whiteboard with a highly detailed {argument name=\"marker color\" default=\"green\"} dry-erase marker drawing of {argument name=\"subject\" default=\"a samurai with a messy topknot and facial hair, hands clasped in prayer\"}. The character is drawn in a {argument name=\"art style\" default=\"detailed manga sketch\"} style, shown in profile with eyes closed, wearing a traditional kimono with a katana tucked into his belt. To the left of the character, handwritten text in all-caps reads \"{argument name=\"text line 1\" default=\"VAGABOND\"}\" with \"{argument name=\"text line 2\" default=\"MUSASHI\"}\" written directly below it. The whiteboard has a glossy surface with realistic light reflections and glare on the left side, and a thin metallic frame is visible at the bottom edge, giving the impression of an authentic classroom or office environment.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case52.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "52",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/nicdunz",
+    "title": "写实摄影风格图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-52"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "写实摄影风格图",
+  "version": "v1"
+}

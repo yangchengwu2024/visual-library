@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 160445,
+      "path": "images/3d5b9cf3d8d61052778e888adc1e4c316c6015f21479f389225043933838cedb.jpg",
+      "role": "source_example",
+      "sha256": "3d5b9cf3d8d61052778e888adc1e4c316c6015f21479f389225043933838cedb",
+      "source_path": "data/images/case103.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-103-0806f93beae5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1a8dbdeefd93d8b2a9d4361e6511088c618785f03f00e0739c287a9f18906f20",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{argument name=\"pianist\" default=\"Vladimir Horowitz\"} performs a {argument name=\"event\" default=\"live piano recital\"} streamed on {argument name=\"platform\" default=\"YouTube\"}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case103.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "103",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/bowowwoaaa2",
+    "title": "视频封面界面图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-103"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "视频封面界面图",
+  "version": "v1"
+}

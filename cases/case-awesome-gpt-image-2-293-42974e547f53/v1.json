@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 145048,
+      "path": "images/bdc3a16fee876bc8e00d1071342d2fa9e9e09bd39f6751f7595ac1d586cbb187.jpg",
+      "role": "source_example",
+      "sha256": "bdc3a16fee876bc8e00d1071342d2fa9e9e09bd39f6751f7595ac1d586cbb187",
+      "source_path": "data/images/case293.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-293-42974e547f53",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "48b96a5e0f132e02f8b9f351a7abab33db6e2ec58134f506aa03cbd6c42cd4bc",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张校园日报，主题AI教育\n\n[English]\nGenerate a campus daily newspaper, theme AI education",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case293.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "293",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2044824800909054181",
+    "title": "聚焦人工智能的校园日报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-293"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "聚焦人工智能的校园日报",
+  "version": "v1"
+}

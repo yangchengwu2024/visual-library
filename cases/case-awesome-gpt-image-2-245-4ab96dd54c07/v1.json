@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 202253,
+      "path": "images/e0a3f4e59e10003b8bfe8dc5bfbdc1ccefc2910a7fbd5f32a734e04ac84b3fde.jpg",
+      "role": "source_example",
+      "sha256": "e0a3f4e59e10003b8bfe8dc5bfbdc1ccefc2910a7fbd5f32a734e04ac84b3fde",
+      "source_path": "data/images/case245.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-245-4ab96dd54c07",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cb3fced3f0012ae382073e6f4ec8748f08386311e757b9972ff55dfb602ecf46",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n给”埃隆·马斯克”设计一组篆刻印章\n\n[English]\nDesign a set of seal carving stamps for \"Elon Musk\"",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case245.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "245",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "马斯克专属篆刻印章设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-245"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "马斯克专属篆刻印章设计",
+  "version": "v1"
+}

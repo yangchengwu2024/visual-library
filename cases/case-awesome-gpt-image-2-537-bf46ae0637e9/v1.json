@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 916001,
+      "path": "images/fce0bc791620458ecf7b1d734ea5b8e23b577515dae36b701bce588f36db6872.jpg",
+      "role": "source_example",
+      "sha256": "fce0bc791620458ecf7b1d734ea5b8e23b577515dae36b701bce588f36db6872",
+      "source_path": "data/images/case537.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-537-bf46ae0637e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "04bc518db9732232d1b3334f5dd34c68d7893ac2e67b7c1fe53cd2b3ce45bb53",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Use case: stylized-concept\nAsset type: vertical social-media artwork for the “Your Dark Side” theme\n\nCreate an original psychological dark-surrealist scene in a colossal underground archive. Endless shelves of sealed black books rise like skyscrapers and vanish into fog. In the central aisle, a solitary human figure in bone-white clothing kneels before one open book on the floor. No words are visible. From the blank pages rises a delicate life-size figure made entirely of dense black smoke, standing face-to-face with the kneeling person. The smoke figure has no eyes or mouth; instead, its chest contains a small locked crimson door. Thin threads connect that door to the kneeling person’s hands, suggesting a secret self finally acknowledged.\n\nVertical 9:16 framing, towering shelves create a narrow symmetrical canyon, high-angle shaft of cold silver light, the two figures positioned small in the lower center, immense oppressive scale above them. Black paper, aged stone, floating ash, volumetric fog, subtle polished-floor reflections, premium photorealistic dark concept art, refined editorial composition, quiet dread and introspection rather than horror spectacle.\n\nColor palette: obsidian black, graphite, bone white, cold silver, a single muted crimson accent at the tiny door.\n\nConstraints: entirely original metaphor; blank book pages with absolutely no writing; no recognizable person; no text, symbols, logos, signatures, borders, or watermark.\n\nAvoid: visible letters or runes, portrait close-up, split face, black substance on skin, glowing eyes, gore, skulls, conventional ghosts, fantasy wizard styling, imitation of any named artist.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case537.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "537",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/PromptSin/status/2092390329890849163",
+    "title": "地下档案馆暗黑概念海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-537"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "地下档案馆暗黑概念海报",
+  "version": "v1"
+}

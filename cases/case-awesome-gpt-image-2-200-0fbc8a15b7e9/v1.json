@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 124226,
+      "path": "images/784d7f65ef32503f6db9cfb0165f0cef026897dbe2891026798367c1790cd38a.jpg",
+      "role": "source_example",
+      "sha256": "784d7f65ef32503f6db9cfb0165f0cef026897dbe2891026798367c1790cd38a",
+      "source_path": "data/images/case200.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-200-0fbc8a15b7e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "74950f6a71745dabebe7420f98ad15e38b9443f94b77f8c8c03f2c50186170f7",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一个抖音直播的截图 里面是一个美女在直播，在卖丝袜和内衣，她的在线人数是99996，热度是18+，有个叫小互的大哥，给她刷了一个飞机礼物\n\n[English]\nGenerate a screenshot of a Douyin live stream featuring a beautiful woman live streaming, selling pantyhose and underwear, her online viewer count is 99996, the popularity rating is 18+, a big brother named Xiao Hu sent her an airplane gift",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case200.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "200",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/xiaohu/status/2046536551681954207",
+    "title": "热度爆表的美女内衣直播间",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-200"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "热度爆表的美女内衣直播间",
+  "version": "v1"
+}

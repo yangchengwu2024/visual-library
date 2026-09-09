@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 382104,
+      "path": "images/d5ac4d50a3309dc0411f36f07a1d89aff73a60597f78c8534b66eb7190d9382b.jpg",
+      "role": "source_example",
+      "sha256": "d5ac4d50a3309dc0411f36f07a1d89aff73a60597f78c8534b66eb7190d9382b",
+      "source_path": "data/images/case18.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-18-786cd884ffb3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8f5b1701498e7763d1eb17a767950c5382aee44164543cd86d2b0694088cdb5d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"illustrated map infographic\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"watercolor and ink hand-drawn illustration on vintage parchment\\\"}\",\n  \"title_section\": {\n    \"text\": \"{argument name=\\\"city name\\\" default=\\\"成都\\\"} {argument name=\\\"map title\\\" default=\\\"吃货暴走地图\\\"}\",\n    \"mascot\": \"cartoon red chili pepper wearing sunglasses and giving a thumbs up\"\n  },\n  \"border\": \"{argument name=\\\"border decoration\\\" default=\\\"vine of green leaves and red chili peppers\\\"}\",\n  \"layout\": {\n    \"background\": \"textured beige parchment paper with yellow roads, blue rivers, and green park areas\",\n    \"sections\": [\n      {\n        \"title\": \"landmarks\",\n        \"count\": 6,\n        \"illustrations\": [\"traditional pavilion\", \"traditional monastery\", \"modern skyscraper with climbing panda\", \"tall TV tower\", \"traditional gate\", \"industrial buildings\"],\n        \"labels\": [\"人民公园\", \"文殊院\", \"IFS\", \"339电视塔\", \"宽窄巷子\", \"东郊记忆\"]\n      },\n      {\n        \"title\": \"food_spots\",\n        \"count\": 12,\n        \"illustrations\": [\"mapo tofu\", \"dumplings in chili oil\", \"skewers in pot\", \"sticky rice balls\", \"egg baking cake\", \"nine-grid hotpot\", \"sweet potato noodles\", \"cold skewers\", \"spicy mixed dish\", \"covered tea bowl\", \"ice jelly dessert\", \"spicy rabbit heads\"],\n        \"labels\": [\"1 陈麻婆豆腐\", \"2 钟水饺\", \"3 春熙路\", \"4 宽窄巷子·三大炮\", \"5 建设路·叶婆婆蛋烘糕\", \"6 玉林路·小龙坎火锅\", \"7 香香巷·肥肠粉\", \"8 武侯祠大街·钵钵鸡\", \"9 东郊记忆·冒椒火辣\", \"10 人民公园·鹤鸣茶社\", \"11 锦里古街·冰粉\", \"12 双流老妈兔头\"]\n      },\n      {\n        \"title\": \"图例\",\n        \"position\": \"bottom-right\",\n        \"count\": 5,\n        \"items\": [\"red dot\", \"green house\", \"green tree\", \"blue line\", \"yellow double line\"],\n        \"labels\": [\"美食地点\", \"地标景点\", \"公园绿地\", \"河流湖泊\", \"主要道路\"]\n      }\n    ],\n    \"centerpiece\": \"giant panda sitting and eating bamboo\",\n    \"bottom_right_extras\": [\"vintage compass rose with N, S, E, W\", \"disclaimer text '温馨提示：吃辣需谨慎，肠胃要保护~' with a red chili pepper icon\"]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case18.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "18",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/mm_zzm44854",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-18"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

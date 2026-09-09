@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 148071,
+      "path": "images/02ccfc5e2839bec10c32fa1a6c653df1260e74e34921d0c60654ada0d11c9b00.jpg",
+      "role": "source_example",
+      "sha256": "02ccfc5e2839bec10c32fa1a6c653df1260e74e34921d0c60654ada0d11c9b00",
+      "source_path": "data/images/case154.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-154-e90e9d2e3f72",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "61021c196a992b315281d9446d440ff42e3654dc3472dcdfe93b39d5015f3d16",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A photorealistic, high-resolution commercial photograph of a {argument name=\"car model and color\" default=\"bright blue Alpine A110 R sports car\"} parked in the foreground inside a massive aircraft hangar. The car features a black carbon fiber hood, black roof, black alloy wheels, and a front license plate reading \"{argument name=\"license plate text\" default=\"A110 R\"}\". Directly behind the car, dominating the background, is a {argument name=\"airplane model\" default=\"white Airbus A320 commercial airliner\"} with a blue tail. The hangar has a highly polished, reflective concrete floor that mirrors the car and plane. To the left, a sign on the metal wall reads \"{argument name=\"hangar sign text\" default=\"HANGAR 05 MAINTENANCE\"}\". The hangar doors are wide open, revealing a bright, overcast sky and a distant cityscape. The lighting is soft and cinematic, highlighting the sleek aerodynamic curves of both vehicles.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case154.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "154",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/AlwaveNazca",
+    "title": "写实摄影风格创作",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-154"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "写实摄影风格创作",
+  "version": "v1"
+}

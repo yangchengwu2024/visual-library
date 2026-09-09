@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 318108,
+      "path": "images/6104fda892b6edfa720de99c5fc594efbb1c4821cdcd4911a2736b51e17d4cc4.jpg",
+      "role": "source_example",
+      "sha256": "6104fda892b6edfa720de99c5fc594efbb1c4821cdcd4911a2736b51e17d4cc4",
+      "source_path": "data/images/case372.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-372-a2019220dc21",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b92afa97d0424da55b453d7025c221a6f20a26c196cfbddedd4bcf9d94fde6fc",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a cute female character design sheet inspired by the uploaded image.\n\nStyle: warm, soft, semi-realistic cartoon illustration with a cozy Japanese kawaii vibe (pastel tones, smooth shading, clean lineart).\n\nMake it a clean character concept poster layout including:\n\nOne large main female portrait (front view, detailed)\n\nFacial expression set (happy, shy, annoyed, sleepy, surprised, excited)\n\n2–3 full-body poses (standing, walking/running, playful pose)\n\nSmall accessory/object icons that match her personality (hair clip, cute bag, phone charm, coffee cup, keychain)\n\nA simple color palette section (skin, hair, outfit, accent colors)\n\nA profile info box with: name, age range, personality traits, likes/dislikes, short description\n\nOverall look should feel charming, cozy, feminine, and professionally arranged like an animation character design sheet.\nHigh quality, clean background, soft lighting.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case372.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "372",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/xRahultripathi/status/2050152865566708134",
+    "title": "可爱角色设定表",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-372"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "可爱角色设定表",
+  "version": "v1"
+}

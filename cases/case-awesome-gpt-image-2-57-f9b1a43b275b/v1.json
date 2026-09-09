@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 175915,
+      "path": "images/ce0802b2f8c15758397d0f125ed1636e38dfa1878fd757022f2853072aa8ecba.jpg",
+      "role": "source_example",
+      "sha256": "ce0802b2f8c15758397d0f125ed1636e38dfa1878fd757022f2853072aa8ecba",
+      "source_path": "data/images/case57.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-57-f9b1a43b275b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cd8b4d0a4dae25510ff39f30c1b7ec12cf3a4ef4fa7bd8aaee5a8af14666d79e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"mobile social media app UI mockup\",\n  \"platform\": \"Twitter/X dark mode\",\n  \"header\": {\n    \"status_bar\": \"time 19:28, bird icon, signal, wifi, battery\",\n    \"navigation\": \"back arrow, 'Tweet' title\"\n  },\n  \"post\": {\n    \"author\": {\n      \"avatar\": \"portrait of a Chinese emperor in red robes and black hat\",\n      \"display_name\": \"{argument name=\\\"display name\\\" default=\\\"Emperor Zhu Yuanzhang\\\"} 👑 [verified badge]\",\n      \"handle\": \"{argument name=\\\"handle\\\" default=\\\"@Emperor_Ming\\\"}\"\n    },\n    \"content\": {\n      \"text\": \"{argument name=\\\"tweet text\\\" default=\\\"I have ascended to the Dragon Throne! Today, I am proclaimed as the Emperor of the Ming Dynasty. The era of Hongwu has begun. Let us rebuild our great nation together!\\\"}\",\n      \"hashtags\": \"#MingDynasty #HongwuEra #NewBeginning\",\n      \"media_grid\": {\n        \"count\": 3,\n        \"images\": [\n          \"emperor seated on an ornate golden throne in red and gold robes\",\n          \"wide shot of a grand Chinese palace courtyard with a large crowd\",\n          \"emperor on horseback leading an army with a red dragon banner\"\n        ]\n      }\n    },\n    \"metadata\": {\n      \"timestamp\": \"{argument name=\\\"timestamp\\\" default=\\\"1:36 PM · Jan 23, 1368\\\"}\",\n      \"engagement\": \"5,432 Retweets, 8,765 Quotes, 20.1K Likes, 102.3K Views\"\n    },\n    \"actions\": \"reply, retweet, like (red heart with '1'), share, upload\"\n  },\n  \"footer\": {\n    \"reply_bar\": {\n      \"avatar\": \"woman in red\",\n      \"placeholder\": \"Reply to Emperor Zhu Yuanzhang...\"\n    },\n    \"navigation_bar\": \"home, search, notifications (red '1' badge), messages\"\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case57.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "57",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Character",
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-57"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

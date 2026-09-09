@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 234599,
+      "path": "images/eb5f442eaa86840faaa40c7000a47d433ecacd0904b7a3587d578463606b7a99.jpg",
+      "role": "source_example",
+      "sha256": "eb5f442eaa86840faaa40c7000a47d433ecacd0904b7a3587d578463606b7a99",
+      "source_path": "data/images/case411.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-411-dbfbaacc0750",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5be646d4c345db7448c0c85fae95778a243d24282b2a80d8a2fc6a7fda385843",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Design a luxury minimalist poster centered on a famous architectural landmark of your choice ([building name]). The focal element is an illustrated rendering of the building. Behind it, place one giant bold English word in a design-forward typeface whose character matches the building's identity, with smaller body copy nearby describing its design philosophy. The composition should read as an ultra high-end art poster. Use a restrained, low-key color palette where graphic elements interlock with the architecture, appearing as if they form part of its structural components or extend outward from its silhouette.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case411.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "411",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/iamaiistudio/status/2053084576520573269",
+    "title": "极简建筑地标海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-411"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "极简建筑地标海报",
+  "version": "v1"
+}

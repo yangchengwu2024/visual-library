@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 197057,
+      "path": "images/17a4d3c7aedd03b563c8ce6e90f5d7c6d0e0f0766407e04f9dc368a972c98320.jpg",
+      "role": "source_example",
+      "sha256": "17a4d3c7aedd03b563c8ce6e90f5d7c6d0e0f0766407e04f9dc368a972c98320",
+      "source_path": "data/images/case472.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-472-37511d3c47b9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "78017badf80dedf13aa83bf7bcbbf239bb5f96b6f8382337e240dbc47ed677a6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A candid photograph of a young woman standing on a Shanghai metro platform during the summer morning commute, authentic daily life photography, natural candid moment. Half-body framing, shot at eye level from moderate distance — the arriving train a motion-blurred streak behind her, the yellow safety line at her feet.\nEast Asian young woman in her early 20s. Almond-shaped eyes with natural double eyelids, slightly elongated eye corners — eyes directed downward, absorbed. Straight refined nose with a delicate bridge. Skin tone fair to light beige (NC10–NC20) — skin subsurface scattering visible under cool overhead station light, specular micro-highlights on cheekbones and nose ridge, fine foundation powder grain perceptible. Summer fresh look, no heavy coverage, lightly tinted lip.\nShe wears a relaxed oversized white shirt dress, collar lightly open, sleeves loosely rolled above the elbow. A structured natural tan canvas tote hangs from her shoulder, a physical novel tucked under one arm — pages open at a saved page. She stands with her weight on one hip, gaze downward at the open book, entirely absorbed, occupying her own stillness inside the morning rush. Background: white and grey tiled metro wall, overhead route signage board, arriving train motion blur to one side, other commuters blurred and distant. Two or three stray hairs displaced by the train's air displacement on arrival, natural unplanned imperfection, not geometrically symmetrical.\nCool overhead fluorescent lighting with a slight greenish cast, flat frontal illumination offset by a warm spill from the platform entrance behind. Absorbed in focus, eyes downward, unaware — a private moment inside a public space, the Shanghai morning. Subtle ISO 400 film grain in shadow areas, photographic noise texture not CG render smoothness. Aspect ratio 2:3. No watermark, no text overlay, not cartoon, not digitally painted, not illustration, not anime.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case472.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "472",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/ToroJushiAi/status/2059452471127240959",
+    "title": "上海地铁站台晨光",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-472"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "上海地铁站台晨光",
+  "version": "v1"
+}

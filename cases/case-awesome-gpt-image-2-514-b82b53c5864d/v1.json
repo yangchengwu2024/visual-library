@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 50175,
+      "path": "images/5610ebf70ed1ecb30833693d085162542a8ae7bc11589f2cc18b92e316e7aa34.jpg",
+      "role": "source_example",
+      "sha256": "5610ebf70ed1ecb30833693d085162542a8ae7bc11589f2cc18b92e316e7aa34",
+      "source_path": "data/images/case514.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-514-b82b53c5864d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d62bc5b8eb8b5b4804815c91df2db3a50fbb6a1ca24dbb16928645c4db942d02",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A striking piece of hard-edge modern art on matte archival paper, with visible screen-printing layers and slight ink misalignment. A young East Asian woman is captured in a sharp, three-quarter profile. Her facial features are rendered with precise, crisp contours, contrasting with abstract, luminous geometric shapes that seem to emanate from within her skin. She wears a sleek, high-collared jacket in deep midnight blue, adorned with a single, bold neon coral brooch in the shape of a sharp triangle. Her dark hair is styled in a severe, architectural bob with blunt edges. Her expression is calm and detached, eyes gazing off-frame. The background is a clean, architectural space with sharp diagonal planes in crisp white and deep slate. High-contrast chiaroscuro lighting highlights the edges of her silhouette. Sophisticated palette: deep midnight blue, crisp white, electric neon coral. A stray cat tail is rendered as a sharp, geometric vector in the bottom left corner. Ultra-modern artistic style. No digital CGI feel.\ndutch angle, stray cat tail --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case514.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "514",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/SimplyAnnisa/status/2071783914595897555",
+    "title": "硬边现代艺术人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-514"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "硬边现代艺术人像",
+  "version": "v1"
+}

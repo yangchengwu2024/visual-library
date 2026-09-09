@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 324366,
+      "path": "images/701de29e951863e30e83cd5b5ccccbf4a9bf487685d3af7f9765f7d5791c970b.jpg",
+      "role": "source_example",
+      "sha256": "701de29e951863e30e83cd5b5ccccbf4a9bf487685d3af7f9765f7d5791c970b",
+      "source_path": "data/images/case480.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-480-efebb4b75683",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "134185625a8997fdacdbaea9480f1c60fa94d321bf123df02d6bfa089b48d38a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Draw me as if an obsessed fan artist filled an entire sketchbook page - messy, overlapping, full-body poses, tiny chibi doodles, exaggerated expressions, and random close-ups of their hands or eyes.\nWhite background. No grid, no order. Pure chaos energy. With (any color) aesthetic clothes",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case480.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "480",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Ciri_ai/status/2060211436232786357",
+    "title": "粉丝速写本角色页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-480"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "粉丝速写本角色页",
+  "version": "v1"
+}

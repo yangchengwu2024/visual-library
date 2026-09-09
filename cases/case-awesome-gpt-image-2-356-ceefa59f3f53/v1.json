@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 126212,
+      "path": "images/3533fc9d836f0c741d0b5b4fa93862758c621fb395e01bcce8eea3425a3c8931.jpg",
+      "role": "source_example",
+      "sha256": "3533fc9d836f0c741d0b5b4fa93862758c621fb395e01bcce8eea3425a3c8931",
+      "source_path": "data/images/case356.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-356-ceefa59f3f53",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3ebcf5d75041a0839a65b227c208b8c2e38393a1b02a47aa40861b71dc1e551e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic conceptual portrait of a young woman with long wavy hair and soft defined features, wearing rose-tinted rectangular sunglasses, an oversized ivory cropped t-shirt, fitted light-wash denim jeans, and clean white sneakers. She is sitting casually with a confident yet relaxed posture.\n\nThe twist: she is seated on a large, hyper-realistic version of her own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.\n\nComposition: centered, full-body shot, neutral studio background with soft blush and cream tones, minimal aesthetic. Clean negative space.\n\nTypography integrated into the background:\n\nHandwritten-style text at the top: \"OVERTHINKING\"\n\nBelow it, smaller text: \"TRAPPED IN MY OWN HEART\" with \"HEART\" crossed out\n\nLarge, rough, scribbled text in deep pink: \"MIND\"\n\nLighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.\n\nStyle: blend of surrealism and modern luxury streetwear campaign, pastel feminine aesthetic, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.\n\nMood: introspective, emotional weight, identity, self-awareness, quiet confidence.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case356.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "356",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/AIwithAliya/status/2049044716642316758",
+    "title": "过度思考超现实街头 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-356"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "过度思考超现实街头 Campaign",
+  "version": "v1"
+}

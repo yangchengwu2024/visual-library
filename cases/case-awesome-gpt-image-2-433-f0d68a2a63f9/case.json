@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-433-f0d68a2a63f9",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case433.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "433",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/Taaruk_/status/2055492435862773978",
+      "title": "韩国城市水彩旅行插画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-433",
+      "version": "v1"
+    }
+  ],
+  "title": "韩国城市水彩旅行插画",
+  "title_aliases": [
+    "韩国城市水彩旅行插画"
+  ]
+}

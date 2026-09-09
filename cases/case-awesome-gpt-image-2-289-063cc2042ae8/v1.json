@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 155806,
+      "path": "images/fc5ad0a23e81ac41f47660cf73043b50058577ae7414db8e0cc21a06afbbe7c0.jpg",
+      "role": "source_example",
+      "sha256": "fc5ad0a23e81ac41f47660cf73043b50058577ae7414db8e0cc21a06afbbe7c0",
+      "source_path": "data/images/case289.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-289-063cc2042ae8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e58c6df31dc804c10f6dd82d0cf15c67477b2bb6ad69e33b550f2ca39df4bc90",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成特朗普和金正恩在抖音直播间打PK的截图\n\n[English]\nGenerate a screenshot of Trump and Kim Jong-un doing a PK battle in a TikTok live stream room",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case289.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "289",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/rionaifantasy/status/2045356799751303194",
+    "title": "直播界面设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-289"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "直播界面设计图",
+  "version": "v1"
+}

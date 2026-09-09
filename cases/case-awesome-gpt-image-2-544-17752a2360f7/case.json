@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-544-17752a2360f7",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case544.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "544",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Naiknelofar788/status/2092993830220120231",
+      "title": "幼儿词汇拆解学习卡",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-544",
+      "version": "v1"
+    }
+  ],
+  "title": "幼儿词汇拆解学习卡",
+  "title_aliases": [
+    "幼儿词汇拆解学习卡"
+  ]
+}

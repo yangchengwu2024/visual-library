@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 401680,
+      "path": "images/7ec179da856b27e3037e885b784ab18090fe8ffffc9d1f63765ceae60d7ec34d.jpg",
+      "role": "source_example",
+      "sha256": "7ec179da856b27e3037e885b784ab18090fe8ffffc9d1f63765ceae60d7ec34d",
+      "source_path": "data/images/case358.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-358-8e0107b50e51",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f221e78a9997af356d0732745a347f61d4b94167a4d5b43286f9a643f54feddb",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A hyper-realistic commercial advertisement blending energy drink and sports branding. A dynamic athletic woman mid-air jump, wearing modern sportswear (light translucent jacket, orange shorts, white sneakers), surrounded by explosive splashes of red strawberry liquid and flying ice cubes. A cold metallic energy drink can (strawberry flavor) bursting with droplets sits in the foreground, covered in condensation. Fresh strawberries scattered on a glossy reflective surface.\n\nBright cinematic lighting with dramatic highlights and motion effects. Vibrant orange gradient background with bold glowing typography behind the subject. Ultra-detailed, high contrast, sharp focus, commercial product photography style, 8K resolution, advertising poster aesthetic, energetic, powerful, refreshing mood.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case358.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "358",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/SPEEDAI07/status/2049043627163435040",
+    "title": "草莓能量饮料商业广告",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-358"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "草莓能量饮料商业广告",
+  "version": "v1"
+}

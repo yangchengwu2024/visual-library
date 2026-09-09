@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-287-6f016f509c11",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "styles": [
+      "界面"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case287.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "287",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/rionaifantasy/status/2045356799751303194",
+      "title": "不知火舞的小红书主页",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-287",
+      "version": "v1"
+    }
+  ],
+  "title": "不知火舞的小红书主页",
+  "title_aliases": [
+    "不知火舞的小红书主页"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 281830,
+      "path": "images/2a44bc56c74eb18ca663bf5eee1a1a84a3d5f36f86c7c81a341a7ef4426061b9.jpg",
+      "role": "source_example",
+      "sha256": "2a44bc56c74eb18ca663bf5eee1a1a84a3d5f36f86c7c81a341a7ef4426061b9",
+      "source_path": "data/images/case4.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-4-f9dbef2c04a9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0bce636b62f64abcf0b419dca5cd3bb62d62c10666f5cfdbebff45fe6b3999d6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "特朗普在抖音直播间卖老干妈，手里举着「老干妈风味」新品，背景还是 SpaceX 那种科技感，左下角弹幕飘着「特斯拉车主：求上链接」。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case4.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "4",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-4",
+    "title": "老干妈风味",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-4"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "老干妈风味",
+  "version": "v1"
+}

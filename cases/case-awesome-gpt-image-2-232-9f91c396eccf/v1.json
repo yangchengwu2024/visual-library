@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 191171,
+      "path": "images/76b0700e43c2ef29d78cc7d4fd179f6d6718ded7a7c1b6bb0dc4fdeec838ee0c.jpg",
+      "role": "source_example",
+      "sha256": "76b0700e43c2ef29d78cc7d4fd179f6d6718ded7a7c1b6bb0dc4fdeec838ee0c",
+      "source_path": "data/images/case232.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-232-9f91c396eccf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fc11b8f3ef9fbbe35a98e71034107a4b6e2c194c0f40975e302b7d4dd88da695",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n结合王羲之的《兰亭集序》里的内容，生成一副书法帖图片，要求图片背景符合《兰亭集序》的意境，背景图可以使用蒙版，前景是《兰亭集序》\n\n[English]\nCombining the content from Wang Xizhi's \"Lantingji Xu\", generate a calligraphy copy image, requiring the image background to match the artistic conception of \"Lantingji Xu\", the background image can use a mask, the foreground is \"Lantingji Xu\"",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case232.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "232",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai/status/2045137549149286858",
+    "title": "兰亭集序书法帖意境图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-232"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "兰亭集序书法帖意境图",
+  "version": "v1"
+}

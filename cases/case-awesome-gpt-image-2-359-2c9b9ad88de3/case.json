@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-359-2c9b9ad88de3",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Character"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case359.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "359",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Goodmanprotocol/status/2049002279051895243",
+      "title": "水墨双重曝光人物海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-359",
+      "version": "v1"
+    }
+  ],
+  "title": "水墨双重曝光人物海报",
+  "title_aliases": [
+    "水墨双重曝光人物海报"
+  ]
+}

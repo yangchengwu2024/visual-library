@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-97-186b9a06da84",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "叙事"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Story"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "styles": [
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case97.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "97",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Story"
+        ],
+        "styles": [
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/kawai_design",
+      "title": "综合应用场景图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-97",
+      "version": "v1"
+    }
+  ],
+  "title": "综合应用场景图",
+  "title_aliases": [
+    "综合应用场景图"
+  ]
+}

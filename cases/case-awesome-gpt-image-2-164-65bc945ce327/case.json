@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-164-65bc945ce327",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "界面",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case164.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "164",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "UI",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/songguoxiansen/status/2046478609238626569",
+      "title": "特朗普太空直播间破千万",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-164",
+      "version": "v1"
+    }
+  ],
+  "title": "特朗普太空直播间破千万",
+  "title_aliases": [
+    "特朗普太空直播间破千万"
+  ]
+}

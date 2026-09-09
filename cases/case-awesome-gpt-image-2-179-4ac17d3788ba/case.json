@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-179-4ac17d3788ba",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case179.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "179",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/GeekCatX/status/2046574334572212694",
+      "title": "蒸汽朋克射手座解剖图谱",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-179",
+      "version": "v1"
+    }
+  ],
+  "title": "蒸汽朋克射手座解剖图谱",
+  "title_aliases": [
+    "蒸汽朋克射手座解剖图谱"
+  ]
+}

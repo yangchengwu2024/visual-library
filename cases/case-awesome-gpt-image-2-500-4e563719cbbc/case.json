@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-500-4e563719cbbc",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case500.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "500",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/HaniaAi12/status/2062696495741391006",
+      "title": "梦幻花冠仙境肖像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-500",
+      "version": "v1"
+    }
+  ],
+  "title": "梦幻花冠仙境肖像",
+  "title_aliases": [
+    "梦幻花冠仙境肖像"
+  ]
+}

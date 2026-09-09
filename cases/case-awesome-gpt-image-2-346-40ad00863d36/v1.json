@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 275721,
+      "path": "images/f5b4a6aeea2b73c430344c1edfe4ab24bef1ebba2045f4163423c4a00fe01527.jpg",
+      "role": "source_example",
+      "sha256": "f5b4a6aeea2b73c430344c1edfe4ab24bef1ebba2045f4163423c4a00fe01527",
+      "source_path": "data/images/case346.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-346-40ad00863d36",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a7ccac4695d9b3963a2db1caebe9bc795d2e81529dfc66dd052583a51ccf4d69",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "精致立体刺绣风插画，浅浮雕纤维艺术效果，纯净「蚕丝白 + 奶白」底色，细腻丝线质感。画面为数只小鸟停在蜿蜒花枝上，周围点缀粉白、浅桃、珊瑚粉、淡金色花朵与叶片，构图轻盈雅致、留白充足。鸟儿羽毛以奶白、浅蓝、淡粉、浅金丝线刺绣表现，花枝纤细自然，花朵层层叠线，整体呈现高级手工刺绣、丝线堆绣、柔和光影、细节丰富、温柔清新的艺术效果。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case346.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "346",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/dotey/status/2048529821706195442",
+    "title": "立体刺绣小鸟花枝",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-346"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "立体刺绣小鸟花枝",
+  "version": "v1"
+}

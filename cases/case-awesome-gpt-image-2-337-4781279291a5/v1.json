@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 2411124,
+      "path": "images/93d385e53573d92b1792b678b735f534875b83b56ed2baf888cd2e4fa3acea0b.png",
+      "role": "source_example",
+      "sha256": "93d385e53573d92b1792b678b735f534875b83b56ed2baf888cd2e4fa3acea0b",
+      "source_path": "data/images/case337.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-337-4781279291a5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6ee60d19e61681d9a50e9f1c01f3056d7e98929bbe0b555da53c5a477d6e1f1a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "帮我生成一张《短歌行》的意境图，带整篇《短歌行》文字",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case337.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "337",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-337",
+    "title": "《短歌行》诗词意境图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-337"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "《短歌行》诗词意境图",
+  "version": "v1"
+}

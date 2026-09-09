@@ -1,0 +1,28 @@
+name: Sync visual library
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '23 1 * * *'
+permissions:
+  contents: write
+concurrency:
+  group: visual-library-sync
+  cancel-in-progress: false
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: Test library behavior
+        run: python -B -m unittest discover -s tests -v
+      - name: Sync and publish without overwriting concurrent changes
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PYTHONUTF8: '1'
+        run: python -B scripts/publish_sync.py

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 219781,
+      "path": "images/116ce21ef7753e164435fb1ecfe4c7a8ea807f5b4a24cebba306a668ad9043b4.jpg",
+      "role": "source_example",
+      "sha256": "116ce21ef7753e164435fb1ecfe4c7a8ea807f5b4a24cebba306a668ad9043b4",
+      "source_path": "data/images/case373.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-373-643a2497b3ce",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "faab5362592a0340c19742993154ebc1e70682b9e9ad13caf4165436b817b872",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "一、品牌基础设定\n品牌名称：[请填写，例如：PRIME STEAK / OCEAN PRIME]\n品牌标语：[请填写，例如：Steakhouse Quality, Your Table / Restaurant Grade, Home Delivered]\n主色调：[请填写，例如：黑金 / 深红+金 / 深蓝+银]\n字体风格：\n标题：[请填写，例如：金色衬线体，大写，奢华感]\n正文：[请填写，例如：细衬线体/无衬线体]\n二、核心视觉元素\n台面材质：[请填写，例如：大理石/黑色石板]\n背景调性：[请填写，例如：深色渐变/暗调餐厅环境]\n光线风格：[请填写，例如：聚光/侧光/顶部照明]\n三、主产品定义（必填）\n产品名称/类型：[请填写，例如：和牛牛排 / 帝王蟹 / 北极甜虾]\n产品数量/摆放：[请填写，例如：1份单品 / 3块整齐摆放]\n呈现方式：[请填写，例如：切片展示 / 带骨展示 / 原壳展示]\n产品特色/质感提示：[请填写，例如：肉质纹理清晰、多汁感 / 光泽晶亮 / 肉眼可见油花]",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case373.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "373",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/xpg0970/status/2050108279385419965",
+    "title": "高端肉类海鲜品牌英雄图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-373"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "高端肉类海鲜品牌英雄图",
+  "version": "v1"
+}

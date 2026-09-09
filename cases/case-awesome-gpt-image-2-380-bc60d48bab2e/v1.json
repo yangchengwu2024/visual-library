@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 346547,
+      "path": "images/291d0e7337558500d959f02f0e169a5011db31b43dc74ea39c61992bab5f40cf.jpg",
+      "role": "source_example",
+      "sha256": "291d0e7337558500d959f02f0e169a5011db31b43dc74ea39c61992bab5f40cf",
+      "source_path": "data/images/case380.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-380-bc60d48bab2e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7d48bd6fb1e3d1a0dae79f6de46b0dfe84137d391ded26d1afdf1e1e95542dd9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "instructions> [SUBJECT]=Coronavirus. A hyper-realistic 3D zoom-sequence infographic generated from a single input: [SUBJECT]. The system auto-detects scale layers from atomic/subcomponent to full contextual view. Layout Structure (CRITICAL) 6–8 circular or hexagonal frames arranged in expanding sequence Innermost frame = smallest detectable detail; outermost = full subject in environment Frames connected by subtle zoom-path lines No repeated scales — each frame shows new level of detail Frame Design Each zoom level includes: Hyper-detailed 3D render at that scale Micro label: scale name (e.g., \"molecular,\" \"cellular,\" \"structural\") + 3–5 word insight Optional: measurement tag or magnification factor Contextual Halo Around the sequence, include only scale-specific references: Measurement units, scientific notation, cultural scale metaphors (No generic magnifying glass icons) Scale Panel (Alternative Layout) Zoom level Key insight (3–5 words) Scale factor tag Detail icon (grid, wave, particle, etc.) Title \"[SUBJECT]: AT EVERY SCALE\" (or) \"ZOOM: THE WORLD OF [SUBJECT]\" Style: ultra-realistic 3D render, scientific editorial infographic, precise macro lighting, global illumination, shallow depth of field, clean sequential layout. </instructions>",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case380.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "380",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Story"
+      ],
+      "styles": [
+        "Infographic",
+        "Realistic",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/Gdgtify/status/2051288232613351571",
+    "title": "冠状病毒尺度缩放科学信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-380"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "冠状病毒尺度缩放科学信息图",
+  "version": "v1"
+}

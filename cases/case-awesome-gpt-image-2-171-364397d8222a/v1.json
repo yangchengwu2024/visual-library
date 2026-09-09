@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 299717,
+      "path": "images/bfae9ec18587b5b70faaf201275648f253d9b3873cac63ffa047e85b173944af.jpg",
+      "role": "source_example",
+      "sha256": "bfae9ec18587b5b70faaf201275648f253d9b3873cac63ffa047e85b173944af",
+      "source_path": "data/images/case171.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-171-364397d8222a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "75265083d2fe9e145bbc278cda2b2c7f583505e5b2dc007592e994199dccdd8c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n创建一个包含 10x10 网格的图像，每个对象名称都以字母 a 开头。\n\n[English]\ncreate an image with 10x10 grid of objects that have the names starting with letter a.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case171.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "171",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Infographic"
+      ]
+    },
+    "source_url": "https://x.com/umesh_ai/status/2046510988367945983",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-171"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

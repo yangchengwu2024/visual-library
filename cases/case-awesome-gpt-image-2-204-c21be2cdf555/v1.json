@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 102295,
+      "path": "images/e77853140dde1417794ce5a225e1093d9c4cb24d0f3e4a6a44932a5ee1909700.jpg",
+      "role": "source_example",
+      "sha256": "e77853140dde1417794ce5a225e1093d9c4cb24d0f3e4a6a44932a5ee1909700",
+      "source_path": "data/images/case204.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-204-c21be2cdf555",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8841169f8259e20bec79fd4e1959857c8fdaf601d97971a6352d3a3e01913ca9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张动画分镜生成器\n\n[English]\nGenerate an animation storyboard generator",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case204.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "204",
+    "source_tags": {
+      "scenes": [
+        "Story"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/joshesye/status/2046596222505361866",
+    "title": "智能动画分镜生成器",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-204"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "智能动画分镜生成器",
+  "version": "v1"
+}

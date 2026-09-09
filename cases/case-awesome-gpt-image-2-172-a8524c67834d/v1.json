@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 185797,
+      "path": "images/f9987e825041081338864dc499979ab199b7982c96d1e34544a0e475d8163869.jpg",
+      "role": "source_example",
+      "sha256": "f9987e825041081338864dc499979ab199b7982c96d1e34544a0e475d8163869",
+      "source_path": "data/images/case172.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-172-a8524c67834d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e93e8d35889fd5455b49e3e4509ff14b34b13205944285dc5ef5b747a0d37387",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n设计虚构动画的钥匙视觉图。主题是「科幻桃太郎」。设计有魅力的角色、背景、标志和宣传语，以一幅美丽插画的形式完成，让世界观在一张图中传达出来。\n\n[English]\nDesign a key visual for a fictional animation. The theme is \"Sci-Fi Momotaro\". Design charming characters, backgrounds, logos, and promotional slogans, completed in the form of a beautiful illustration, allowing the worldview to be conveyed in a single image.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case172.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "172",
+    "source_tags": {
+      "scenes": [
+        "Story"
+      ],
+      "styles": [
+        "Illustration",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761",
+    "title": "赛博科幻桃太郎主视觉图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-172"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "赛博科幻桃太郎主视觉图",
+  "version": "v1"
+}

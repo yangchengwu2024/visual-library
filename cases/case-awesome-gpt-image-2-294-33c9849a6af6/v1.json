@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 156724,
+      "path": "images/d8cb0013f67f46b51507fc8134f8e5718b5c6efc2ff14a63d03bf9bf70daa4ab.jpg",
+      "role": "source_example",
+      "sha256": "d8cb0013f67f46b51507fc8134f8e5718b5c6efc2ff14a63d03bf9bf70daa4ab",
+      "source_path": "data/images/case294.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-294-33c9849a6af6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ddd2d37808274bebb252e94ed4289d6f6ee401b71ae22b5d4710c220d5eb2382",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张潮菜馆菜单图\n\n[English]\nGenerate a Teochew restaurant menu image.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case294.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "294",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2044824800909054181",
+    "title": "精美潮汕菜馆菜单图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-294"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "精美潮汕菜馆菜单图",
+  "version": "v1"
+}

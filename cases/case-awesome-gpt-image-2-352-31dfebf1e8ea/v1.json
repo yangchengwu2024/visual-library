@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 344862,
+      "path": "images/a80f153d83d5b8c03125e03ded76e1fd325f7f1860547bc87f32964c92c93beb.jpg",
+      "role": "source_example",
+      "sha256": "a80f153d83d5b8c03125e03ded76e1fd325f7f1860547bc87f32964c92c93beb",
+      "source_path": "data/images/case352.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-352-31dfebf1e8ea",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e5744d7017f64d0a09c6f3479968afaaf0963df8f60e4a6d1c050a70a01d5ffc",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "竖版国风暗黑海报，黑色纯背景，中央巨大的中文标题字，占据画面大部分空间，字体为粗粝做旧的米白色石刻/旧纸质感，带明显颗粒、磨损、裂痕与噪点；整体构图层次丰富，强烈黑白金红对比，东方审美，神秘、压抑、欲望与审判感并存 电影海报质感 高级平面设计，极致细节 纸张纹理 印章落款 小字标语，4K",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case352.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "352",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/stellimbris/status/2048633434961072617",
+    "title": "西楚霸王国风暗黑海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-352"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "西楚霸王国风暗黑海报",
+  "version": "v1"
+}

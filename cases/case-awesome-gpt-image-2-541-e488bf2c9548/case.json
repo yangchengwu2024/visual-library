@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-541-e488bf2c9548",
+  "classification": {
+    "categories": [
+      "文档与出版物"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Documents & Publishing",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case541.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "541",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "UI",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Sairah_0/status/2093212900160868430",
+      "title": "50/50 混合媒介回忆卡",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-541",
+      "version": "v1"
+    }
+  ],
+  "title": "50/50 混合媒介回忆卡",
+  "title_aliases": [
+    "50/50 混合媒介回忆卡"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 158622,
+      "path": "images/5dc31375e55cc0ceb8a8c64e6ee285f9242691c04b16d3142c80b60b32f02db3.jpg",
+      "role": "source_example",
+      "sha256": "5dc31375e55cc0ceb8a8c64e6ee285f9242691c04b16d3142c80b60b32f02db3",
+      "source_path": "data/images/case144.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-144-1f9e4524d928",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d9e922e267a2b3d0484fc406138b3b0b4e4a69aaf8476447667c081f0d82c3be",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A luxurious cosmetic product advertisement featuring a single elegant glass jar with a shiny gold lid resting on a round, light-colored marble slab. The jar has gold text reading {argument name=\"brand name\" default=\"LUMIÉRE\"} and {argument name=\"product type\" default=\"MOISTURE RICH CREAM\"} with \"AGING CARE*\" below it. The background consists of soft, draped, shimmering champagne-colored silk fabric with delicate white flowers on the left. The lighting is warm, ethereal, and sun-drenched with soft bokeh. At the top center, elegant dark brown Japanese typography reads {argument name=\"main headline\" default=\"肌に、静かな贅沢を。\"} above a small decorative gold divider and the text {argument name=\"subheadline\" default=\"高保湿×エイジングケア*\"}. To the right of the jar, a thin gold circle contains Japanese text meaning 'With dense moisture, high-quality firmness and radiance'. At the bottom center is a dark rectangular call-to-action button with a thin gold border containing the text {argument name=\"button text\" default=\"詳しく見る\"} and a right-pointing chevron. In the bottom right corner, tiny fine print contains Japanese text meaning '*Care according to age'.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case144.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "144",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Product",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/panchaaan_2",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-144"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-470-cb126e684ac1",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "商业",
+      "时尚",
+      "食品饮品"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Fashion",
+        "Food"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case470.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "470",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Fashion",
+          "Food"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2059248197910827364",
+      "title": "本地生活小店异形展架",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-470",
+      "version": "v1"
+    }
+  ],
+  "title": "本地生活小店异形展架",
+  "title_aliases": [
+    "本地生活小店异形展架"
+  ]
+}

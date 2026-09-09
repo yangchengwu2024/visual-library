@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 444359,
+      "path": "images/babbd02cdd611c7afb61fd89a9a987f66f8f22d6b320bd802cdfacfee53ff786.jpg",
+      "role": "source_example",
+      "sha256": "babbd02cdd611c7afb61fd89a9a987f66f8f22d6b320bd802cdfacfee53ff786",
+      "source_path": "data/images/case485.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-485-8d2218c84a86",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f4449edb8e0b77b3fcde8e923dc77695da260ebd1f1d4bc1c461c8d29af7c857",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Stylish fashion catalog shoot blending streetwear and luxury branding. Female model wearing burgundy slim-fit top and ivory tailored pants, posed in confident relaxed positions across multiple duplicated frames. Slight perspective tilt, dynamic layout collage, soft daylight studio lighting with warm tone grading. Modern shopping website aesthetic, minimal UI-inspired composition, high resolution fashion photography.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case485.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "485",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Mind_Boticni/status/2061310969192870028",
+    "title": "时尚目录电商拼贴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-485"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "时尚目录电商拼贴",
+  "version": "v1"
+}

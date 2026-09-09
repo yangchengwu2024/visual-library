@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-457-86e51ca84476",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "时尚"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case457.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "457",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Gdgtify/status/2057741253127594118",
+      "title": "运动轨迹舞者光绘海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-457",
+      "version": "v1"
+    }
+  ],
+  "title": "运动轨迹舞者光绘海报",
+  "title_aliases": [
+    "运动轨迹舞者光绘海报"
+  ]
+}

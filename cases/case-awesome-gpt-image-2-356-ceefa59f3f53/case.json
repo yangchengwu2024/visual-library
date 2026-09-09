@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-356-ceefa59f3f53",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case356.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "356",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/AIwithAliya/status/2049044716642316758",
+      "title": "过度思考超现实街头 Campaign",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-356",
+      "version": "v1"
+    }
+  ],
+  "title": "过度思考超现实街头 Campaign",
+  "title_aliases": [
+    "过度思考超现实街头 Campaign"
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-373-643a2497b3ce",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "商业",
+      "食品饮品"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Brand"
+      ]
+    },
+    "styles": [
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case373.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "373",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/xpg0970/status/2050108279385419965",
+      "title": "高端肉类海鲜品牌英雄图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-373",
+      "version": "v1"
+    }
+  ],
+  "title": "高端肉类海鲜品牌英雄图",
+  "title_aliases": [
+    "高端肉类海鲜品牌英雄图"
+  ]
+}

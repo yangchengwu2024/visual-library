@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 245153,
+      "path": "images/15ae45557aa7d40c53b849d3d318d1b3a49dcd0cea27dc235398b25414d81b6e.jpg",
+      "role": "source_example",
+      "sha256": "15ae45557aa7d40c53b849d3d318d1b3a49dcd0cea27dc235398b25414d81b6e",
+      "source_path": "data/images/case99.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-99-feea1befa3b8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d1bcb3822479fadc533bfcfe51922e9c61c2869da23c1b0fcde40da34156a14a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"promotional banner / YouTube thumbnail\",\n  \"style\": \"high contrast, flashy, professional, {argument name=\\\"theme color\\\" default=\\\"gold and black\\\"} palette, glowing light rays, sparkling particles\",\n  \"subject\": {\n    \"description\": \"{argument name=\\\"subject description\\\" default=\\\"confident young Asian man in a dark suit with arms crossed\\\"}\",\n    \"pose\": \"looking upwards to the right\",\n    \"props\": \"glowing open laptop in front of him\"\n  },\n  \"layout\": {\n    \"background\": \"dark with radiant gold light bursts\",\n    \"text_sections\": {\n      \"top_left_badge\": \"[保存版]\",\n      \"top_header\": \"{argument name=\\\"top text\\\" default=\\\"知識ゼロからでも今日から始められる！ AIで稼ぐ力を最短で手に入れる！\\\"}\",\n      \"main_title\": {\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"AI副業 完全攻略\\\"}\",\n        \"style\": \"large, bold, 3D gold and white typography\"\n      },\n      \"subtitle_box\": \"{argument name=\\\"subtitle\\\" default=\\\"初心者でも月10万\\\"}\",\n      \"top_right_badge\": {\n        \"style\": \"gold laurel wreath\",\n        \"text\": \"2026年版 最新版\"\n      },\n      \"middle_right_tags\": {\n        \"count\": 3,\n        \"style\": \"stacked gold-bordered boxes\",\n        \"labels\": [\"最短で収益化\", \"具体例つき\", \"誰でも始めやすい\"]\n      },\n      \"middle_right_ribbon\": {\n        \"style\": \"red ribbon banner\",\n        \"text\": \"手順を徹底解説\"\n      },\n      \"bottom_left_tags\": {\n        \"count\": 6,\n        \"style\": \"2x3 grid of gold-bordered boxes\",\n        \"labels\": [\"おすすめツール紹介\", \"収益化の流れがわかる\", \"失敗しない始め方\", \"作業時間を最小化\", \"テンプレ付き\", \"再現しやすい方法\"]\n      },\n      \"bottom_footer\": \"迷わず稼げる！AI副業の教科書\",\n      \"bottom_right_badge\": {\n        \"style\": \"gold laurel wreath\",\n        \"text\": \"テンプレ付き\"\n      }\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case99.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "99",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/naga_zyashin",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-99"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-448-fe19d7c7fa99",
+  "classification": {
+    "categories": [
+      "场景与叙事"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Scenes & Storytelling",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case448.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "448",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Xaroon_x/status/2056940561148363010",
+      "title": "1942 空战街机电影城",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-448",
+      "version": "v1"
+    }
+  ],
+  "title": "1942 空战街机电影城",
+  "title_aliases": [
+    "1942 空战街机电影城"
+  ]
+}

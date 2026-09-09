@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 266897,
+      "path": "images/a50a226f1ea23e0d5c6f24bee57116a539d9ffd77ba8d2fd734231f2b73c8a47.jpg",
+      "role": "source_example",
+      "sha256": "a50a226f1ea23e0d5c6f24bee57116a539d9ffd77ba8d2fd734231f2b73c8a47",
+      "source_path": "data/images/case291.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-291-39436ceca1e3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5585e992420cabd0b499bc1dceecc63588b7d45f7f86d387e055bb6ef4592501",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n以 3:4 比例制作一家弹珠店那种闪闪发光的宣传单。放置一个真实、精细的现代可爱日本女性。充分利用闪闪发光、立体感丰富的豪华装饰彩虹字体等，务必做到极致奢华。并列介绍几个不存在的虚构新机型。\n\n[English]\nCreate a sparkling flyer like those of a pachinko parlor at a 3:4 aspect ratio. Place a realistic, highly detailed modern cute Japanese woman. Make full use of sparkling, three-dimensional richly decorated rainbow typography, etc., and be sure to achieve extreme luxury. Introduce several non-existent fictional new models side by side.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case291.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "291",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://opennana.com/awesome-prompt-gallery/luxurious-pachinko-flyer",
+    "title": "极致奢华的弹珠店梦幻宣传单",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-291"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "极致奢华的弹珠店梦幻宣传单",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-486-e2dbeb787076",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case486.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "486",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/AIwithkhan/status/2061305471492096301",
+      "title": "RCB 冠军混合媒介海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-486",
+      "version": "v1"
+    }
+  ],
+  "title": "RCB 冠军混合媒介海报",
+  "title_aliases": [
+    "RCB 冠军混合媒介海报"
+  ]
+}

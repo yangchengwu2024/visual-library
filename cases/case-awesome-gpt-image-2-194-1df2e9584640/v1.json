@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 193986,
+      "path": "images/5e22bc354c6111749add5c42bc3be9330d64d960cb032005466c0ad0e9b44775.jpg",
+      "role": "source_example",
+      "sha256": "5e22bc354c6111749add5c42bc3be9330d64d960cb032005466c0ad0e9b44775",
+      "source_path": "data/images/case194.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-194-1df2e9584640",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dacb0dd8ede3fa857ed82ae6d56ac39c2a194d2c3c5cc7e6d5bfaab9269f63de",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n健身蛋白粉电商详情图\n\n[English]\nFitness protein powder e-commerce detail image",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case194.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "194",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Products"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046544209117634735",
+    "title": "健身蛋白粉电商详情页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-194"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "健身蛋白粉电商详情页",
+  "version": "v1"
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 129210,
+      "path": "images/e80f1e924fba33de19d1cf9ef772545b337f0b629b4bf0dab0144d30be28e005.jpg",
+      "role": "source_example",
+      "sha256": "e80f1e924fba33de19d1cf9ef772545b337f0b629b4bf0dab0144d30be28e005",
+      "source_path": "data/images/case167.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-167-10cbd42c2358",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "673d262728b5d696eaef37db47b9603fafdfb46ea103be3762fbea81d4a49804",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n玄武门之变的朋友圈\n\n[English]\nWeChat Moments of the Xuanwu Gate Incident",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case167.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "167",
+    "source_tags": {
+      "scenes": [
+        "Social",
+        "History"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "source_url": "https://x.com/Tz_2022/status/2046523491940225366",
+    "title": "大唐玄武门之变的朋友圈",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-167"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "大唐玄武门之变的朋友圈",
+  "version": "v1"
+}

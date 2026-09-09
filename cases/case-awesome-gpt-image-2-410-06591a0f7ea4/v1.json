@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 341958,
+      "path": "images/3edbe1e5a25753d5253ff0248f8e22b62b7923049fb8e815bb7a4108254c9fed.jpg",
+      "role": "source_example",
+      "sha256": "3edbe1e5a25753d5253ff0248f8e22b62b7923049fb8e815bb7a4108254c9fed",
+      "source_path": "data/images/case410.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-410-06591a0f7ea4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "472c315c8374ffc1b03e43ee9353bb66c5ef11c6055723f67972c9225b93cfe5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a trending anime art style image from the uploaded subject. Use confident line-work with slight variation and minimal cel shading using flat shadow shapes. Use bright, saturated colors and clean graphic lighting. The style is defined by exaggerated, cartoonish character proportions featuring highly expressive, simplistic facial features that allow for immense emotional range, with highly varied stretched anatomy.Transform the environment into a slightly warped space with playful perspective distortion and simplified objects. Composition and tone should be energetic, lively, and comedic in a fully stylized, non-realistic world",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case410.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "410",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Zyrellix/status/2052766810500649197",
+    "title": "夸张动漫风主体重绘",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-410"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "夸张动漫风主体重绘",
+  "version": "v1"
+}

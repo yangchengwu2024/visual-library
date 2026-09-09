@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 201710,
+      "path": "images/e6681540f3433f523af31dc48f84496ea2668ae0a4b17a2a29b651c26f72e508.jpg",
+      "role": "source_example",
+      "sha256": "e6681540f3433f523af31dc48f84496ea2668ae0a4b17a2a29b651c26f72e508",
+      "source_path": "data/images/case126.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-126-3239751ae1fc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "59ac76eb01c13d1003d570a45397b6dc5c9b2f7e50fb6cfd2c84871a1fbb639d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "An anime-style light novel cover illustration featuring two characters in an intimate pose. On the left, a young woman with short dark hair, purple eyes, wearing a white hat, a frilly white dress with a pink bow tie, white gloves, and two white flower hairpins. She has an affectionate, teasing smile and is gently touching the chin of the man next to her. On the right, an adult man with {argument name=\"man's hair color\" default=\"red\"} hair parted in the middle, purple eyes, and a light goatee. He is wearing a black button-down shirt and has a slightly annoyed, reluctant expression with a sweat drop on his cheek. The scene features soft, romantic lighting with out-of-focus purple flower petals in the foreground corners. The image includes several Japanese text elements: a large stylized main title at the bottom reading {argument name=\"main title\" default=\"ちかつば\"}, a subtitle below it reading {argument name=\"subtitle\" default=\"ーその溺愛、独占欲の裏返し。ー\"}, vertical text on the top left reading {argument name=\"left quote\" default=\"可愛いだけじゃ、許さない。\"}, and vertical text on the top right reading {argument name=\"right quote\" default=\"その不機嫌、俺だけに向けろよ。\"}.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case126.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "126",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Poster",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/taira_renta",
+    "title": "插画艺术风格创作",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-126"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "插画艺术风格创作",
+  "version": "v1"
+}

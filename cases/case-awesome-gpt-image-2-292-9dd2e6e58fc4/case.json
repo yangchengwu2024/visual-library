@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-292-9dd2e6e58fc4",
+  "classification": {
+    "categories": [
+      "历史与古风题材"
+    ],
+    "scenes": [
+      "社媒",
+      "历史"
+    ],
+    "source_category": "History & Classical Themes",
+    "source_tags": {
+      "scenes": [
+        "Social",
+        "History"
+      ],
+      "styles": [
+        "Classical"
+      ]
+    },
+    "styles": [
+      "古典"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case292.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "292",
+      "source_tags": {
+        "scenes": [
+          "Social",
+          "History"
+        ],
+        "styles": [
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/tuzi_ai/status/2045193918736736365",
+      "title": "明朝登基宝玉的推文页面",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-292",
+      "version": "v1"
+    }
+  ],
+  "title": "明朝登基宝玉的推文页面",
+  "title_aliases": [
+    "明朝登基宝玉的推文页面"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 139580,
+      "path": "images/da09e7f535b06dbf47a89e183f48a00ba969fb6ef45fb35c87955123a7a1947e.jpg",
+      "role": "source_example",
+      "sha256": "da09e7f535b06dbf47a89e183f48a00ba969fb6ef45fb35c87955123a7a1947e",
+      "source_path": "data/images/case165.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-165-69a1b111cc5d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0ce6a7af0171e380888f1ca7a8d7c49ac480cd635251f2fe87d0c4fbaa8fa244",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一个有着清冷孤傲气质的绝美佳人，精致的面部特征，一张冷酷且精致的高级时装面容，长发，以及优雅苗条的身材；烧烤“三刀流”姿势：嘴里叼着一根烧烤串，每只手各拿一根烧烤串交叉以模仿索隆的三刀流；街头夜景氛围，温暖黄色的夜市灯光，模糊的背景，胶片般的质感，柔焦光晕，电影般的叙事感，时髦高端网红风格的时尚拍摄，清晰发光的肌肤，清晰细致的发丝，生动的动态表情，低角度广角镜头，情绪化的暗调氛围，浅景深，超高清8K，极致细节，电影级光照\n\n[English]\na stunning beauty with a cool, aloof atmosphere, delicate facial features, a cold and sophisticated high-fashion face, long hair, and a graceful slender figure; barbecue “three-sword style” pose: one barbecue skewer held in her mouth, one skewer in each hand crossed to mimic Zoro’s three-sword style; street night scene ambiance, warm yellow night market lighting, blurred background, film-like texture, soft-focus glow, cinematic storytelling feel, trendy high-end influencer-style fashion shoot, clear luminous skin, sharply detailed strands of hair, lively dynamic expression, low-angle wide-angle shot, moody dark-toned atmosphere, shallow depth of field, ultra HD 8K, extreme detail, cinematic lighting",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case165.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "165",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Travel"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/BubbleBrain/status/2046564674112831920",
+    "title": "清冷佳人夜市烧烤三刀流",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-165"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "清冷佳人夜市烧烤三刀流",
+  "version": "v1"
+}

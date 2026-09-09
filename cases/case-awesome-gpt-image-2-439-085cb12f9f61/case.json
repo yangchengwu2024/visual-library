@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-439-085cb12f9f61",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case439.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "439",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Kashberg_0/status/2055865126335762902",
+      "title": "赛博黑客角色设定表",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-439",
+      "version": "v1"
+    }
+  ],
+  "title": "赛博黑客角色设定表",
+  "title_aliases": [
+    "赛博黑客角色设定表"
+  ]
+}

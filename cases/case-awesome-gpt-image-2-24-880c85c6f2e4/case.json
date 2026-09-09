@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-24-880c85c6f2e4",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "styles": [
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case24.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "24",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/wewe50770964683",
+      "title": "漫画分镜叙事设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-24",
+      "version": "v1"
+    }
+  ],
+  "title": "漫画分镜叙事设计",
+  "title_aliases": [
+    "漫画分镜叙事设计"
+  ]
+}

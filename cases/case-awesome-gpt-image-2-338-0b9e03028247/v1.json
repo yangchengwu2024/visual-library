@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 5434675,
+      "path": "images/c53f6175c8d7b9da56f4e91928017d00811965f749224695360cc9f7b877aef6.png",
+      "role": "source_example",
+      "sha256": "c53f6175c8d7b9da56f4e91928017d00811965f749224695360cc9f7b877aef6",
+      "source_path": "data/images/case338.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-338-0b9e03028247",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f26af3c4862f6eaaddf295bf3d7a40d35aa6e4faf95e4d6a7c1ebbc1d0ebce23",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "帮我生成一张《赤壁怀古》的长卷图，带整篇《赤壁赋》文字",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case338.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "338",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-338",
+    "title": "《赤壁怀古》长卷图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-338"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "《赤壁怀古》长卷图",
+  "version": "v1"
+}

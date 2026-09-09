@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 192929,
+      "path": "images/8600d0b1042ebf1f0f1fc1efe6d4838084f178af1187368ca2e013c8508c9c8d.jpg",
+      "role": "source_example",
+      "sha256": "8600d0b1042ebf1f0f1fc1efe6d4838084f178af1187368ca2e013c8508c9c8d",
+      "source_path": "data/images/case417.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-417-850aaba9ae1a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9c9f246048831b3a5e18e98c54177b784cf55010db3674f9554cc0ec65c49eb2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra realistic vintage Indonesian catnip advertisement poster, retro 1970s paper texture, distressed print, faded colors. A black-and-white tuxedo cat wearing cute vintage housewife clothes floating happily in the air after smelling catnip, euphoric expression, swirling catnip leaves, absurd Indonesian meme energy. Bold retro typography: “BIKIN KUCING SENENG FLY!” fake catnip jar product, old-school badges, price tag, nostalgic warung advertisement aesthetic, cinematic lighting, grain, scratches, authentic aged poster look.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case417.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "417",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/NyaiiBubu/status/2053075349424992532",
+    "title": "复古印尼猫薄荷广告",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-417"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "复古印尼猫薄荷广告",
+  "version": "v1"
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-202-225e132ce53b",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Photography"
+      ]
+    },
+    "styles": [
+      "摄影"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case202.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "202",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Photography"
+        ]
+      },
+      "source_url": "https://x.com/joshesye/status/2046596222505361866",
+      "title": "宅男必看绝美二次元少女",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-202",
+      "version": "v1"
+    }
+  ],
+  "title": "宅男必看绝美二次元少女",
+  "title_aliases": [
+    "宅男必看绝美二次元少女"
+  ]
+}

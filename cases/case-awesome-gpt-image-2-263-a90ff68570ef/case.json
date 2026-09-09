@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-263-a90ff68570ef",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "styles": [
+      "插画",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case263.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "263",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Illustration",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/09lyco/status/2045281845391323175",
+      "title": "唯美二次元角色介绍网页",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-263",
+      "version": "v1"
+    }
+  ],
+  "title": "唯美二次元角色介绍网页",
+  "title_aliases": [
+    "唯美二次元角色介绍网页"
+  ]
+}

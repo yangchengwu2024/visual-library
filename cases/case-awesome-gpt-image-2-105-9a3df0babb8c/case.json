@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-105-9a3df0babb8c",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration",
+        "Character",
+        "3D"
+      ]
+    },
+    "styles": [
+      "插画",
+      "人物与角色",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case105.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "105",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Illustration",
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Yuupapa_free",
+      "title": "动漫插画创作图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-105",
+      "version": "v1"
+    }
+  ],
+  "title": "动漫插画创作图",
+  "title_aliases": [
+    "动漫插画创作图"
+  ]
+}

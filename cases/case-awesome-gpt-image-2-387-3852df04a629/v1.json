@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 191457,
+      "path": "images/a0a368ef36a77513c94fdcf2d4cacfd2e8d54073b1504bdbd3db89a7ccf9383d.jpg",
+      "role": "source_example",
+      "sha256": "a0a368ef36a77513c94fdcf2d4cacfd2e8d54073b1504bdbd3db89a7ccf9383d",
+      "source_path": "data/images/case387.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-387-3852df04a629",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1a411bc6526015fae6506c1d3cce66c94bdfdfcbae76ca93204901bf8d959ba3",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a Netflix homepage UI featuring a main hero film with its title and still generated from the uploaded reference.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case387.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "387",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/aimikoda/status/2051420440451801240",
+    "title": "Netflix 首页主视觉 UI",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-387"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Netflix 首页主视觉 UI",
+  "version": "v1"
+}

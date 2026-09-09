@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 251508,
+      "path": "images/6b5714fa566049b8c9940d4e32f8453e6fcc5fc5fe529e5051d874033f7a622a.jpg",
+      "role": "source_example",
+      "sha256": "6b5714fa566049b8c9940d4e32f8453e6fcc5fc5fe529e5051d874033f7a622a",
+      "source_path": "data/images/case265.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-265-0a77fb7d7784",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9f6ca05861df9da67c3025e74c296eafc22f6135cf44e9d900eeccf59724d82e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成四张虚构的日式广告图片，涵盖不同类型并排排列。采用专业设计师创作的潮流设计。宽高比为1:1\n\n[English]\nGenerate four fictional Japanese advertisement images, covering different types arranged side by side. Trendy design created by professional designers. Aspect ratio 1:1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case265.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "265",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/midori_tatsuta/status/2045253072289767815",
+    "title": "日式潮流广告四联画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-265"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "日式潮流广告四联画",
+  "version": "v1"
+}

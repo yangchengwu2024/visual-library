@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 324416,
+      "path": "images/8721fe5bf029d2ab5d02e2408c37f58cdd4e60421812bb04c5368cc3d0c84721.jpg",
+      "role": "source_example",
+      "sha256": "8721fe5bf029d2ab5d02e2408c37f58cdd4e60421812bb04c5368cc3d0c84721",
+      "source_path": "data/images/case116.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-116-f749fd6523da",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a0470373421c51483ed97c9338541864210bd57d1a86a7d3de895bf8087a9603",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"2-page manga spread\",\n  \"style\": \"monochrome anime manga, screentones\",\n  \"theme\": \"{argument name=\\\"main action\\\" default=\\\"fantasy mage developing a video game\\\"}\",\n  \"character\": \"{argument name=\\\"character appearance\\\" default=\\\"anime girl with blonde hair, tiara, cape, white dress, thigh-highs\\\"}\",\n  \"layout\": {\n    \"left_page\": {\n      \"panel_count\": 11,\n      \"rows\": [\n        {\"panels\": 1, \"action\": \"Determined at dual-monitor desk, speech bubble: '新作ゲーム、絶対完成させる！'\"},\n        {\"panels\": 3, \"action\": \"Typing, drawing on tablet, testing with controller\"},\n        {\"panels\": 3, \"action\": \"Shocked at ERROR screen, depressed, determined again\"},\n        {\"panels\": 4, \"action\": \"Exhausted, sudden realization, furious typing, monitor showing 'Build succeeded!'\"}\n      ]\n    },\n    \"right_page\": {\n      \"panel_count\": 2,\n      \"panels\": [\n        {\"type\": \"large splash\", \"action\": \"Casting magic from a glowing circle at a code-error monster labeled '{argument name=\\\"error text\\\" default=\\\"NullReferenceException\\\"}'. Speech bubble: '{argument name=\\\"spell text\\\" default=\\\"デバッグ魔法!!\\\"}'\"},\n        {\"type\": \"bottom banner\", \"action\": \"Cheering in front of RPG title screen. Speech bubble: '{argument name=\\\"success text\\\" default=\\\"やったー！\\\"}'\"}\n      ]\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case116.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "116",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/gamemangaanime",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-116"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 70435,
+      "path": "images/5c36819a12b807c77ea0162f4ca799e062ad6e0ce2919b239a7547dec1e2b86b.jpg",
+      "role": "source_example",
+      "sha256": "5c36819a12b807c77ea0162f4ca799e062ad6e0ce2919b239a7547dec1e2b86b",
+      "source_path": "data/images/case247.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-247-e69db8b5673e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3eba9b7490f1caa531e52b81e339d45ad0e57af26cc0649cf92476c02775369b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一套运动类app的iconfont\n\n[English]\nGenerate a set of iconfont for a sports app",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case247.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "247",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "运动健身图标字体设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-247"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "运动健身图标字体设计",
+  "version": "v1"
+}

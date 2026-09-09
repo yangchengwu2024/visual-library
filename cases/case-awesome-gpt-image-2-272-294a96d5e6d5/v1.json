@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 149656,
+      "path": "images/61e640ee3ecd7f57c01fd571f25847be3ed74f6193c97c8f7581b9e5f436b3e0.jpg",
+      "role": "source_example",
+      "sha256": "61e640ee3ecd7f57c01fd571f25847be3ed74f6193c97c8f7581b9e5f436b3e0",
+      "source_path": "data/images/case272.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-272-294a96d5e6d5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ea386789dd204e5f7bdf9810f3e411fe9f2144e87e086af923a0f03e441d5eea",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "35mm film photography, warm vintage Japanese onsen ryokan aesthetic, soft ambient wooden lantern lighting mixed with gentle natural window light, subtle film grain, gentle color shift, high atmosphere editorial style, intimate medium shot, early 20s beautiful Chinese female idol with ultra-realistic delicate refined Chinese features, seductive almond-shaped fox eyes with natural double eyelids, high nose bridge, small sharp V-shaped jawline, flawless porcelain skin with warm ivory undertone, visible subtle skin texture and micro pores, soft natural makeup with dewy glow, subtle rosy flush on cheeks, natural soft pink lips slightly parted, long dark brown hair tied in a loose low bun with some messy strands falling around face and neck, wearing a loose white yukata (traditional Japanese bathrobe) deliberately slipped off one shoulder and loosely tied at the waist, the fabric slightly open revealing smooth skin and subtle cleavage, barefoot, seductive relaxed sitting pose on the edge of a traditional wooden engawa veranda at a vintage onsen ryokan, body slightly turned toward the camera, one leg bent with foot resting on the wooden floor, the other leg gently dangling, one hand lightly holding the yukata collar, the other hand resting on the wooden floor behind her for support, softly arched back to gently accentuate curves, intensely seductive yet gentle and inviting gaze straight at the viewer with soft doe eyes full of quiet temptation and warmth, warm wooden interior with paper sliding doors and distant steaming hot spring in soft focus, gentle rim lighting highlighting skin and fabric texture, authentic vintage film color grading with warm tones, extremely sharp yet soft skin rendering, natural hair strands, realistic fabric wrinkles and drape on the yukata, no plastic skin, no digital over-sharpening, no airbrushing, no blemishes, no moles, no oily skin, no watermark, no text, authentic 35mm film Japanese onsen ryokan atmosphere",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case272.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "272",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/BubbleBrain/status/2045092449803284923",
+    "title": "日式温泉旅馆人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-272"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "日式温泉旅馆人像",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 145229,
+      "path": "images/2c2dfce4d68f752fbb3f2c370d8839af09ed5b8f4175c49041e25cb1cfe99fb4.jpg",
+      "role": "source_example",
+      "sha256": "2c2dfce4d68f752fbb3f2c370d8839af09ed5b8f4175c49041e25cb1cfe99fb4",
+      "source_path": "data/images/case479.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-479-2d467cd5c007",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cfaa5478d234fbd0991729f917a0374717abc620f899c68c5ebef15f3a2f4074",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Transform the uploaded image into a minimalist illustration in a magazine collage style, using paper cutouts. Retain the main subject, pose, and overall concept of the original image, but reimagine it as a warm, hand-edited collage. Style: Minimalist illustration in a magazine paper collage style, with flat, layered paper shapes, soft pastel paper textures, torn paper edges, paper shadow effects, neat black doodle accents, a handmade scrapbook atmosphere, modern Korean editorial design, a simple and cute composition, and large areas of clean white space. Character: Cute, simplified Korean characters with minimalist facial features, a small, relaxed smile, soft and rounded proportions, simple and casual clothing, and silhouettes constructed from layered paper cutouts. Composition: A 3:4 aspect ratio, with the main subject positioned slightly lower and off-center, leaving a large, open space on the opposite side for a breezy, minimalist composition that avoids clutter. Objects: Add only a few suitable collage elements: paper sticky notes, small hearts, plants, a cup of coffee, a window, tape fragments, and simple doodle icons. Typography: Add an elegant, handwritten English title that fits the scene's atmosphere. Use short phrases such as: [\"May you be like the morning sunshine, full of vitality and hope, embracing the beauty of each day.\",\"Take a small break,\" or \"Good day, good mood.\"] Atmosphere: Calm, comfortable, warm, sweet, and editorial style. Avoid: Photorealistic style, anime style, watercolor style, 3D clay style, overly detailed backgrounds, excessive collage elements, a luxury poster atmosphere, dark tones, harsh shadows, and sloppy text.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case479.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "479",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/oggii_0/status/2060212097083146644",
+    "title": "杂志纸艺拼贴重绘",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-479"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "杂志纸艺拼贴重绘",
+  "version": "v1"
+}

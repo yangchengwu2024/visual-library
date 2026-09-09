@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 157093,
+      "path": "images/e88bbebcafb808368093e7af690cdc65c36d9816a2bbfd66d541413f379fd030.jpg",
+      "role": "source_example",
+      "sha256": "e88bbebcafb808368093e7af690cdc65c36d9816a2bbfd66d541413f379fd030",
+      "source_path": "data/images/case97.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-97-186b9a06da84",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d8c100d11b69bb34c138207c2504bd6ed6d1fe709f91cd8885ceddf4a9ce002d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a high-quality Japanese {argument name=\"thumbnail type\" default=\"webinar thumbnail\"}. {argument name=\"aspect ratio\" default=\"16:9 widescreen\"}. There is a lot of text, but the main copy stands out clearly.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case97.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "97",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Story"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/kawai_design",
+    "title": "综合应用场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-97"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "综合应用场景图",
+  "version": "v1"
+}

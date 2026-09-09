@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 176869,
+      "path": "images/ff8e7082e72b59d1bcd770ef3f59b69bfa8e71d91ed8c274b544ba81511c751d.jpg",
+      "role": "source_example",
+      "sha256": "ff8e7082e72b59d1bcd770ef3f59b69bfa8e71d91ed8c274b544ba81511c751d",
+      "source_path": "data/images/case191.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-191-a10187b74bf2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e4bb5bef34cee43274661f431b6f8ed91a589db3363db935148fbc8b9b3544d5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n创建一张科幻电影海报\n\n[English]\nCreate a Science fiction movie poster",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case191.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "191",
+    "source_tags": {
+      "scenes": [
+        "Education"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/underwoodxie96/status/2046514205529088501",
+    "title": "史诗级科幻电影海报设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-191"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "史诗级科幻电影海报设计",
+  "version": "v1"
+}

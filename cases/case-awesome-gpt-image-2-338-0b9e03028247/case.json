@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-338-0b9e03028247",
+  "classification": {
+    "categories": [
+      "历史与古风题材"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "History & Classical Themes",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "styles": [
+      "历史"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case338.png"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "338",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "History"
+        ]
+      },
+      "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-338",
+      "title": "《赤壁怀古》长卷图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-338",
+      "version": "v1"
+    }
+  ],
+  "title": "《赤壁怀古》长卷图",
+  "title_aliases": [
+    "《赤壁怀古》长卷图"
+  ]
+}

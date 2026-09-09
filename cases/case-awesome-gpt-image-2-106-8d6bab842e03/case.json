@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-106-8d6bab842e03",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case106.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "106",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/abdiisan",
+      "title": "应用界面样机图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-106",
+      "version": "v1"
+    }
+  ],
+  "title": "应用界面样机图",
+  "title_aliases": [
+    "应用界面样机图"
+  ]
+}

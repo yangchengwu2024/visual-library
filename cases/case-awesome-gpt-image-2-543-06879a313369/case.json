@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-543-06879a313369",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Product",
+        "Character"
+      ]
+    },
+    "styles": [
+      "写实",
+      "商品",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case543.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "543",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic",
+          "Product",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Emmma__0/status/2093194689222705645",
+      "title": "旅行纪念珐琅徽章",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-543",
+      "version": "v1"
+    }
+  ],
+  "title": "旅行纪念珐琅徽章",
+  "title_aliases": [
+    "旅行纪念珐琅徽章"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 118911,
+      "path": "images/ac70c27946c9ebd6f624dcda387b3b259490a40cec0ca7f7d6b312a45abe9762.jpg",
+      "role": "source_example",
+      "sha256": "ac70c27946c9ebd6f624dcda387b3b259490a40cec0ca7f7d6b312a45abe9762",
+      "source_path": "data/images/case28.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-28-46c5acdde3e5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "940ce20a4f366977e6d63a25357ff92c4011844dab3c5c98792928db4b9e4ddb",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"2x2 portrait grid\",\n  \"subject\": \"{argument name=\\\"subject description\\\" default=\\\"young adult East Asian male with short black hair and a slight smile\\\"}\",\n  \"style\": \"photorealistic, high-resolution, professional lighting, consistent facial identity across all panels\",\n  \"layout\": {\n    \"format\": \"2x2 grid\",\n    \"panel_count\": 4,\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"description\": \"{argument name=\\\"profession 1\\\" default=\\\"Corporate professional wearing a dark navy suit, white shirt, and blue tie against a gray textured background\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"description\": \"{argument name=\\\"profession 2\\\" default=\\\"Casual attire wearing a dark blue crew neck t-shirt against a blurred outdoor park background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"description\": \"{argument name=\\\"profession 3\\\" default=\\\"Construction worker wearing a yellow hard hat, navy blue work shirt, and bright orange high-visibility vest against a blurred warehouse background\\\"}\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"description\": \"{argument name=\\\"profession 4\\\" default=\\\"Medical professional wearing a white lab coat over a light blue collared shirt against a blurred laboratory background\\\"}\"\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case28.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "28",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/frankfu1688",
+    "title": "写实摄影风格创作",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-28"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "写实摄影风格创作",
+  "version": "v1"
+}

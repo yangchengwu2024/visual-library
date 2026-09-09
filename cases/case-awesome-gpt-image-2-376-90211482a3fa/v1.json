@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 379682,
+      "path": "images/01ae067d4ba353c757bce9855b1141d27558b332bcf158a87a5f96d57ee7dad4.jpg",
+      "role": "source_example",
+      "sha256": "01ae067d4ba353c757bce9855b1141d27558b332bcf158a87a5f96d57ee7dad4",
+      "source_path": "data/images/case376.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-376-90211482a3fa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "77002d00c7d1939e4ac0299e4e8cc7a8c523f5b7f3f38ac90209e19d6246fb3e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A realistic vertical smartphone photo of a spilled green iced drink on outdoor stone pavement, a transparent disposable plastic cup lying on its side inside the green puddle, clear plastic lid nearby, scattered ice cubes floating in the drink, small foam bubbles on the surface, green liquid naturally spreading across rough square floor tiles, strong midday sunlight, harsh realistic shadows, a dark human shadow silhouette cast across the ground and partially over the spill, accidental street moment, urban documentary photography, handheld phone camera perspective, slightly top-down angle, natural colors, realistic pavement texture, raw unedited photo look, high detail, authentic everyday scene, 9:16 vertical composition\n\nNegative Prompt:\ncartoon, illustration, anime, CGI, 3D render, fantasy style, studio lighting, overly perfect composition, overly clean floor, fake liquid, unrealistic reflections, plastic-looking liquid, oversaturated green, blurry, low resolution, distorted cup, melted plastic, extra cups, duplicated objects, readable brand logo, messy text, watermark, poster design, dramatic artificial lighting, excessive sharpening, over-processed, unrealistic shadow, floating ice, deformed perspective",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case376.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "376",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Shinning1010/status/2050693240253214894",
+    "title": "泼洒抹茶街头手机照片",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-376"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "泼洒抹茶街头手机照片",
+  "version": "v1"
+}

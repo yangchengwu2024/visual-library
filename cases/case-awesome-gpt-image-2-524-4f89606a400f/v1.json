@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 358900,
+      "path": "images/38e199a0f03c61d18ffcb78ef972ee5563e3122df1ee38d7fdef88c019bfedaf.jpg",
+      "role": "source_example",
+      "sha256": "38e199a0f03c61d18ffcb78ef972ee5563e3122df1ee38d7fdef88c019bfedaf",
+      "source_path": "data/images/case524.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-524-4f89606a400f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "42ba79ca363045caeae4022f82d7a5d2fc83f0a30cbb23ec1bf98f41070391de",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a premium whimsical handcrafted paper-collage diorama inspired exactly by the uploaded reference image.\n\nUse the uploaded girl reference as the ONLY human subject. Preserve her facial identity with maximum accuracy: exact face shape, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and recognizable facial features. Strict face identity lock — do not redesign, beautify, stylize, age, de-age, or replace her face.\n\nThe girl stands alone in the center of the composition in a graceful, natural editorial pose. She is facing the camera with a relaxed confident expression and a subtle natural smile. Her body is slightly angled, creating a candid fashion-editorial feeling. She holds a beautiful small mixed bouquet of flowers naturally with both hands in front of her. One leg is slightly crossed in front of the other for an elegant relaxed pose.\n\nOutfit\n\nChange the outfit completely from the original reference while keeping it fully modest and elegant:\n\n- elegant ivory/cream long-sleeve button-up blouse\n- high-waisted wide-leg beige trousers\n- full-length trousers with complete coverage\n- simple cream closed-toe shoes\n- small brown leather shoulder bag\n- no revealing clothing\n- no exposed midriff\n- sophisticated countryside editorial fashion\n- natural realistic fabric folds and texture\n\nEnvironment\n\nCreate a beautiful handcrafted 3D paper-diorama countryside scene:\n\n- layered blue mountains in the distance\n- green forest and rolling hills\n- peaceful blue lake\n- grassy lakeside landscape\n- textured beige paper pathway in the foreground\n- rustic white wooden fence behind the girl\n- dreamy pastel sky\n\nSurround the composition with oversized handmade paper flowers in pink, peach, cream, white, and light blue, with layered green paper leaves.\n\nAdd decorative paper elements floating in the sky:\n\n- pink paper hearts\n- yellow paper stars\n- blue stars\n- soft white and pale-blue clouds\n- tiny colorful paper dots\n\nPlace two tiny vintage vehicles near the lake in the background: a cream vintage camper van on one side and a small vintage blue-green car on the other.\n\nArt Direction\n\nThe entire environment should look handcrafted from premium textured paper while the girl remains photorealistic and seamlessly integrated into the paper world.\n\nUse:\nhand-torn paper edges, visible paper fibers, layered cardstock, subtle imperfections, realistic paper shadows, dimensional cut-paper elements, tactile textures, soft natural daylight, cinematic depth, gentle atmospheric perspective, premium editorial photography.\n\nThe final image should feel like a luxury handmade paper storybook brought to life with a real photographic subject.\n\nComposition\n\nCentered full-body girl\nFace clearly visible and sharply detailed\nNatural elegant pose\nBouquet held naturally\nRustic fence framing the subject\nLake and mountains creating depth\nLarge flowers framing both lower corners\nClouds and decorative elements filling the upper background\nBalanced symmetrical composition with organic handmade imperfections\nGirl remains the strongest focal point\n\nFinal Look\n\nPhotorealistic girl + handcrafted paper-art environment\nDreamy pastel colors\nLuxury editorial aesthetic\nWhimsical miniature diorama\nSoft cinematic daylight\nHighly detailed paper textures\nNatural realistic skin\nSharp facial identity\nProfessional fashion photography\nPinterest/Instagram viral visual aesthetic\nMagazine-quality composition\n\nVertical 4:5 portrait composition, full-body framing, ultra-detailed, high resolution, clean polished finish, visually striking, aesthetically balanced, premium handcrafted paper-collage photography.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case524.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "524",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/AiwithLariab/status/2090297565732585554",
+    "title": "纸雕拼贴乡野人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-524"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "纸雕拼贴乡野人像",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-350-0b0b1a3b7220",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case350.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "350",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/ryanpp27/status/2048602248524214542",
+      "title": "足球球员数据涂鸦海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-350",
+      "version": "v1"
+    }
+  ],
+  "title": "足球球员数据涂鸦海报",
+  "title_aliases": [
+    "足球球员数据涂鸦海报"
+  ]
+}

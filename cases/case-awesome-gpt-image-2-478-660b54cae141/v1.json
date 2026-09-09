@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 99832,
+      "path": "images/8b649dbb80ed769bb3d50bbbab14b3199eb87b28e5ffae4df09abd770342b9fd.jpg",
+      "role": "source_example",
+      "sha256": "8b649dbb80ed769bb3d50bbbab14b3199eb87b28e5ffae4df09abd770342b9fd",
+      "source_path": "data/images/case478.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-478-660b54cae141",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "beb048e277b1953edc8fe040fd791fa60387a99d665dd395b9667de634e52346",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[BRAND NAME]. You are a world-class editorial designer.\n\nSTEP 1, DYNAMIC SUBJECT LOGIC:\n- Subject pick: independently study [BRAND NAME] and choose the right hero subject.\n- Sandwich layering: weave the subject through the background shapes. Parts of the car or figure must sit hidden behind geometric blocks, while other parts (wheels, limbs, props) overlap in front of those blocks to fake real 3D depth.\n\nSTEP 2, GRID & GEOMETRY:\n- Layout: a clean 2x2 grid composition.\n- Overlays: drop large bold geometric arcs and circles on top of the grid.\n- Visual balance: place one iconic product prop (a floating key fob for cars, a ball for sports, etc.) in its own quadrant to counterweight the subject.\n\nSTEP 3, SOPHISTICATED MUTED PALETTE:\n- No aggressive neon, no oversaturated colors.\n- Pull [BRAND NAME]'s core colors and shift them into a \"sophisticated muted\" range. Use desaturated, earthy, dusty versions of the brand colors (dusty rose instead of hot pink, sage green instead of bright mint, slate blue instead of royal blue).\n- Finish: matte flat color blocks, zero gradients.\n\nSTEP 4, PHOTOGRAPHY & LIGHTING:\n- Subject style: high-end commercial studio photography.\n- Lighting: soft diffused studio light, gentle highlights, no harsh shadows.\n- Integration: the subject must feel physically embedded into the graphic grid.\n\nSTEP 5, MINIMALIST BRANDING:\n- Drop a clean single-color [BRAND NAME] logo dead-center on one background block. No tagline, just the iconic symbol.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case478.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "478",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Food",
+        "Story"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/iamaiistudio/status/2060000278657839398",
+    "title": "夹层式品牌编辑海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-478"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "夹层式品牌编辑海报",
+  "version": "v1"
+}

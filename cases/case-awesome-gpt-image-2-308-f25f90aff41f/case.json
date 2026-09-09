@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-308-f25f90aff41f",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "社媒"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "styles": [
+      "界面"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case308.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "308",
+      "source_tags": {
+        "scenes": [
+          "Social"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/_FORAB/status/2044744023261519920",
+      "title": "抖音直播截图画面",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-308",
+      "version": "v1"
+    }
+  ],
+  "title": "抖音直播截图画面",
+  "title_aliases": [
+    "抖音直播截图画面"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 364726,
+      "path": "images/934c9df892511d4d15ad61c851165a743ca2adb11d38e4d9a88b06cdb49a6651.jpg",
+      "role": "source_example",
+      "sha256": "934c9df892511d4d15ad61c851165a743ca2adb11d38e4d9a88b06cdb49a6651",
+      "source_path": "data/images/case359.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-359-2c9b9ad88de3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7d5302f47d7d0d325369f3e4c4be019a57d5c5eb1f30db73b038e373fca6f882",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A cinematic character promotional poster of [SUBJECT], vertical composition (9:16), designed with a refined East-Asian ink aesthetic and high-end visual storytelling.\n\nSTRUCTURE:\nTop-heavy hierarchical layout. The upper half features a large, highly recognizable silhouette of [SUBJECT]'s head / face / mask / upper body, forming a bold, iconic primary shape. The silhouette should be instantly identifiable.\n\nThe middle-lower section contains the full-body version of [SUBJECT] as a secondary subject, standing in a stable pose or subtle action stance, forming the visual core.\n\nCOMPOSITION STYLE:\nInside the large silhouette and around the character, use double exposure and collage storytelling. Integrate multiple elements:\n- key scenes related to [SUBJECT]\n- symbolic imagery and environment\n- small narrative figures and interactions\n- supporting visual motifs\n\nBlend everything seamlessly using clouds, mist, ink diffusion, and negative space.\n\nVISUAL FLOW:\nCreate a continuous flowing visual path from top to bottom, connecting:\n- upper silhouette\n- inner collage elements\n- full-body subject\n\nEnsure smooth eye guidance and compositional cohesion.\n\nSIDE ELEMENTS:\nAdd balanced supporting elements on left and right sides to create tension, depth, and spatial variation.\n\nSTYLE & ATMOSPHERE:\n- Large areas of negative space\n- Ink-wash diffusion edges, soft fading, subtle fragmentation\n- Eastern aesthetic: balance of emptiness and detail\n- Calm, premium, restrained, cinematic tone\n\nQUALITY:\nUltra-detailed, high resolution, layered depth, soft lighting, atmospheric perspective, cohesive series-style design.\n\nOUTPUT:\n9:16 aspect ratio, poster-ready composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case359.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "359",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Goodmanprotocol/status/2049002279051895243",
+    "title": "水墨双重曝光人物海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-359"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "水墨双重曝光人物海报",
+  "version": "v1"
+}

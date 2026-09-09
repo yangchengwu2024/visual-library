@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 244745,
+      "path": "images/15fee6b99bcf38e6d35054dbd0faca758fe5e7b876ea5f979230c55cb4bf1f35.jpg",
+      "role": "source_example",
+      "sha256": "15fee6b99bcf38e6d35054dbd0faca758fe5e7b876ea5f979230c55cb4bf1f35",
+      "source_path": "data/images/case24.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-24-880c85c6f2e4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ec7ea6b99132c666d3e31d54353961ae5d271419e1150ac14b9a65764bb269de",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Genshin Impact {argument name=\"character\" default=\"Raiden Shogun\"} cosplay selfies at the {argument name=\"event\" default=\"Shanghai Comic Con\"}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case24.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "24",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/wewe50770964683",
+    "title": "漫画分镜叙事设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-24"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "漫画分镜叙事设计",
+  "version": "v1"
+}

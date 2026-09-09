@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 107183,
+      "path": "images/566fffea984e07b74d6fff298ab3711d4ee046e5e78ccd50d927a1ba9f5bdd71.jpg",
+      "role": "source_example",
+      "sha256": "566fffea984e07b74d6fff298ab3711d4ee046e5e78ccd50d927a1ba9f5bdd71",
+      "source_path": "data/images/case313.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-313-ce464cd9c143",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2c480f469583fbf06ed09af55322236d2189b1c8d2a4b6e76de1e8b3a136120f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n{\n  \"style\": \"超写实奢华化妆品产品摄影\",\n  \"composition\": {\n    \"color_scheme\": \"戏剧性的单色蓝紫色\",\n    \"resolution\": \"8K超高分辨率\",\n    \"depth\": \"电影级景深\",\n    \"aesthetic\": \"高端香氛护肤品广告风格\"\n  },\n  \"product\": {\n    \"type\": \"软管包装\",\n    \"finish\": \"缎面质感\",\n    \"color\": \"长春花蓝\",\n    \"label\": \"NUBELLA\",\n    \"typography\": \"优雅的银色字体\",\n    \"cap\": \"反光金属铬盖\",\n    \"position\": \"垂直居中\"\n  },\n  \"surroundings\": {\n    \"smoke\": {\n      \"type\": \"墨水般的旋涡云雾\",\n      \"colors\": [\n        \"薰衣草色\",\n        \"靛蓝色\",\n        \"冰蓝色\"\n      ],\n      \"texture\": \"柔软、翻腾\",\n      \"interaction\": \"环绕在产品周围\"\n    },\n    \"flowers\": {\n      \"primary\": [\n        {\n          \"color\": \"紫色\",\n          \"details\": \"错综复杂的花瓣细节\",\n          \"center\": \"鲜艳的黄色\"\n        },\n        {\n          \"color\": \"紫丁香色\",\n          \"details\": \"错综复杂的花瓣细节\",\n          \"center\": \"鲜艳的黄色\"\n        }\n      ],\n      \"secondary\": {\n        \"type\": \"细小的紫罗兰色花朵\",\n        \"purpose\": \"增加立体感\"\n      }\n    }\n  },\n  \"lighting\": {\n    \"direction\": \"来自左上方的柔和定向照明\",\n    \"effects\": [\n      \"突显软管的光滑曲度\",\n      \"为金属盖增添微妙的光泽\",\n      \"在烟雾中营造深度\"\n    ]\n  },\n  \"background\": {\n    \"blend\": \"无缝的冷色调蓝色和紫色调\",\n    \"enhancement\": \"空灵的花香美学\"\n  },\n  \"details\": \"花瓣和蒸汽的超精细纹理\"\n}\n\n[English]\n{\n  \"style\": \"Ultra-realistic luxury cosmetic product photography\",\n  \"composition\": {\n    \"color_scheme\": \"Dramatic monochromatic blue-violet\",\n    \"resolution\": \"8K ultra-high resolution\",\n    \"depth\": \"Cinematic depth\",\n    \"aesthetic\": \"High-end perfumed skincare advertising style\"\n  },\n  \"product\": {\n    \"type\": \"Squeeze tube\",\n    \"finish\": \"Satin-finish\",\n    \"color\": \"Periwinkle-blue\",\n    \"label\": \"NUBELLA\",\n    \"typography\": \"Elegant silver\",\n    \"cap\": \"Reflective metallic chrome\",\n    \"position\": \"Vertically centered\"\n  },\n  \"surroundings\": {\n    \"smoke\": {\n      \"type\": \"Ink-like swirling clouds\",\n      \"colors\": [\n        \"Lavender\",\n        \"Indigo\",\n        \"Icy blue\"\n      ],\n      \"texture\": \"Soft, billowing\",\n      \"interaction\": \"Wrapping around the product\"\n    },\n    \"flowers\": {\n      \"primary\": [\n        {\n          \"color\": \"Purple\",\n          \"details\": \"Intricate petal details\",\n          \"center\": \"Vibrant yellow\"\n        },\n        {\n          \"color\": \"Lilac\",\n          \"details\": \"Intricate petal details\",\n          \"center\": \"Vibrant yellow\"\n        }\n      ],\n      \"secondary\": {\n        \"type\": \"Tiny violet blossoms\",\n        \"purpose\": \"Added dimension\"\n      }\n    }\n  },\n  \"lighting\": {\n    \"direction\": \"Soft directional lighting from upper left\",\n    \"effects\": [\n      \"Highlights smooth curvature of the tube\",\n      \"Adds subtle sheen to metallic cap\",\n      \"Creates depth within smoke plumes\"\n    ]\n  },\n  \"background\": {\n    \"blend\": \"Seamless cool blue and purple tones\",\n    \"enhancement\": \"Ethereal floral fragrance aesthetic\"\n  },\n  \"details\": \"Hyper-detailed textures of petals and vapor\"\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case313.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "313",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/Fujimoto_hina/status/2027903683154088431",
+    "title": "电商商品展示设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-313"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "电商商品展示设计",
+  "version": "v1"
+}

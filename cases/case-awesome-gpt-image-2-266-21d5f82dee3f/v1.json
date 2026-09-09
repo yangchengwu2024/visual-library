@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 147443,
+      "path": "images/db8129aee5895ca0cdc891cfe728de2a74d5551e4742322c44acc344d2658e63.jpg",
+      "role": "source_example",
+      "sha256": "db8129aee5895ca0cdc891cfe728de2a74d5551e4742322c44acc344d2658e63",
+      "source_path": "data/images/case266.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-266-21d5f82dee3f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e904d728bf3f1ff9992ee91751a2e8fb5dd76a54f892c120a7ba01bce0debc8b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一张平放着的打开的笔记本的业余照片，里面填满了用黑色圆珠笔写的手写笔记。笔迹随意且略显凌乱，就像个人笔记，自然的瑕疵，划掉的单词，划线的标题。从略高角度拍摄，来自窗户的自然日光，未使用闪光灯。随意的桌面设置，用 iPhone 拍摄。\n\n[English]\nAmateur photo of an open notebook lying flat, filled with handwritten notes in black ballpoint pen. The handwriting is casual and slightly messy, like personnal notes, natural imperfections, crossed out words, underlined headings. Shot from slightly above, natural daylight from a window, no flash. Casual desk setting, shot on iPhone",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case266.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "266",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/patrickassale/status/2044569086013718958",
+    "title": "桌面上的黑色圆珠笔手写笔记",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-266"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "桌面上的黑色圆珠笔手写笔记",
+  "version": "v1"
+}

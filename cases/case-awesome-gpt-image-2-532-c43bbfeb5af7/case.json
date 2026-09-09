@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-532-c43bbfeb5af7",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case532.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "532",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/ou_zhen599/status/2091160215928574397",
+      "title": "六宫格柠檬饮料微缩广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-532",
+      "version": "v1"
+    }
+  ],
+  "title": "六宫格柠檬饮料微缩广告",
+  "title_aliases": [
+    "六宫格柠檬饮料微缩广告"
+  ]
+}

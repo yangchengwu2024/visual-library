@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-172-a8524c67834d",
+  "classification": {
+    "categories": [
+      "品牌与标志"
+    ],
+    "scenes": [
+      "叙事"
+    ],
+    "source_category": "Brand & Logos",
+    "source_tags": {
+      "scenes": [
+        "Story"
+      ],
+      "styles": [
+        "Illustration",
+        "Brand",
+        "Character"
+      ]
+    },
+    "styles": [
+      "插画",
+      "品牌",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case172.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "172",
+      "source_tags": {
+        "scenes": [
+          "Story"
+        ],
+        "styles": [
+          "Illustration",
+          "Brand",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/SSSS_CRYPTOMAN/status/2046575354555617761",
+      "title": "赛博科幻桃太郎主视觉图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-172",
+      "version": "v1"
+    }
+  ],
+  "title": "赛博科幻桃太郎主视觉图",
+  "title_aliases": [
+    "赛博科幻桃太郎主视觉图"
+  ]
+}

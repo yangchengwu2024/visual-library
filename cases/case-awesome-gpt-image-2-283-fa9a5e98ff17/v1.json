@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 294926,
+      "path": "images/a5149c117a6f2f42b5d0b6d28bef288a8e5ceb21b580fc4ca85b10b684663b77.jpg",
+      "role": "source_example",
+      "sha256": "a5149c117a6f2f42b5d0b6d28bef288a8e5ceb21b580fc4ca85b10b684663b77",
+      "source_path": "data/images/case283.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-283-fa9a5e98ff17",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7f02659a41bb5e4b5cb1504c7a4affb8b66f407d59fb9bc6851ceca36e1ff724",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\nが「小悪魔リリムリリィちゃんが　スーパーファミコンのゲームだったときのポスターを考えて」に　画像数枚だけで\nこのクオリティ　細かい説明呪文なし　すごいぜ！\n\n[English]\nthat \"Think of a poster when the little devil Lilim Lily-chan was a Super Famicom game\" with just a few images\nthis quality without any detailed explanation spells is amazing!",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case283.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "283",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/lilimliliychan/status/2045114760937804187",
+    "title": "小恶魔莉莉香超任游戏海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-283"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "小恶魔莉莉香超任游戏海报",
+  "version": "v1"
+}

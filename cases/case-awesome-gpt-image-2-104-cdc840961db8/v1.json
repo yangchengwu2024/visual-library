@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 147820,
+      "path": "images/cacffc1e195e328fbbaf6348b1d72c1091fd04b8b0d64f46ecc25f44c4302e99.jpg",
+      "role": "source_example",
+      "sha256": "cacffc1e195e328fbbaf6348b1d72c1091fd04b8b0d64f46ecc25f44c4302e99",
+      "source_path": "data/images/case104.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-104-cdc840961db8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f399fdc9502fbc0c3d54d21f9974498544eb6e14ce2b4dba73ce2218697f85b8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"YouTube livestream UI\",\n  \"top_nav\": {\n    \"logo\": \"YouTube Premium\",\n    \"search\": \"{argument name=\\\"search query\\\" default=\\\"bilal fraiha\\\"}\",\n    \"icons\": 3\n  },\n  \"player\": {\n    \"subjects\": [\n      \"{argument name=\\\"female guest\\\" default=\\\"Sydney Sweeney\\\"} in white cardigan\",\n      \"bearded man in beige jacket laughing\"\n    ],\n    \"bg\": \"couch, 2 silver play buttons, ram logo 'SARDI'\",\n    \"overlays\": {\n      \"chat\": {\"pos\": \"left\", \"count\": 15, \"desc\": \"colored usernames, white text\"},\n      \"goal\": {\"pos\": \"top right\", \"text\": \"TONIGHT'S GOAL: 0 to 25\"},\n      \"banner\": {\"pos\": \"bottom center\", \"text\": \"K {argument name=\\\"streamer name\\\" default=\\\"MOREBILAL\\\"}\"}\n    },\n    \"controls\": {\"count\": 10}\n  },\n  \"details\": {\n    \"title\": \"{argument name=\\\"video title\\\" default=\\\"FULL STREAM | سيدني سويني مع بلال\\\"}\",\n    \"channel\": \"{argument name=\\\"channel name\\\" default=\\\"More Bilal No Filter\\\"}\",\n    \"buttons\": 5\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case104.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "104",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/marouane53",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-104"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

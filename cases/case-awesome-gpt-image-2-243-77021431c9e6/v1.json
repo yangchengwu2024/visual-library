@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 45377,
+      "path": "images/db84b73bbb27635c4eeae6e633f04a87f42ee1c0d9f4c97093c989b44ebf9f13.jpg",
+      "role": "source_example",
+      "sha256": "db84b73bbb27635c4eeae6e633f04a87f42ee1c0d9f4c97093c989b44ebf9f13",
+      "source_path": "data/images/case243.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-243-77021431c9e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8125b44cd48c537f9d3c7c38ef661d2d80e50a5e8a2a1fee55ab79ed4fe0836f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n用xx风格帮我生成一套UI设计系统，包含网页、移动端、卡片、控件、按钮 以及其它\n\n[English]\nGenerate a UI design system for me in xx style, including web pages, mobile, cards, controls, buttons, and others",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case243.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "243",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/stark_nico99/status/2045836554451706125",
+    "title": "定制专属风格界面设计系统",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-243"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "定制专属风格界面设计系统",
+  "version": "v1"
+}

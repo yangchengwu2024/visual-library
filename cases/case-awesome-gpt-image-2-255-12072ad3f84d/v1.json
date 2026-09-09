@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 122312,
+      "path": "images/40416fa5b8a3cb985b7ca1a31db991e34e3ca23070b7e2d738763f573ce01d6a.jpg",
+      "role": "source_example",
+      "sha256": "40416fa5b8a3cb985b7ca1a31db991e34e3ca23070b7e2d738763f573ce01d6a",
+      "source_path": "data/images/case255.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-255-12072ad3f84d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fa61d8a0590562d7eb7e8486ece47d7814aa0adb342df37265abe28e7852d896",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n手机竖屏界面，短视频直播平台风格，一位年轻亚洲女主播在家中直播带货，主播穿着贴身瑜伽裤与简约上衣，身材曲线自然，正在侧身展示裤子的线条与弹性，动作自然不夸张；\n\n[English]\nMobile vertical screen interface, short video live streaming platform style, a young Asian female streamer selling goods through live streaming at home, the streamer is wearing tight yoga pants and a simple top, natural body curves, turning sideways to show the lines and elasticity of the pants, natural movements without exaggeration;",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case255.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "255",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/joshesye/status/2044796366950703316",
+    "title": "瑜伽裤女主播展示身材曲线",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-255"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "瑜伽裤女主播展示身材曲线",
+  "version": "v1"
+}

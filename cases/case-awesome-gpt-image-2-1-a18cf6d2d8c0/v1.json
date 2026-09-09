@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 634035,
+      "path": "images/eed45ad06a5db696df983c369aa2cc29dfcb406debd5c3623b0eaa9bd03daf61.jpg",
+      "role": "source_example",
+      "sha256": "eed45ad06a5db696df983c369aa2cc29dfcb406debd5c3623b0eaa9bd03daf61",
+      "source_path": "data/images/case1.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-1-a18cf6d2d8c0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3f7b4761c834cf62699cc35252f30fa211b1bc2615da414f914c3f3961e4e0b6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Vertical 9:16 isometric cutaway infographic \"城市生命系统图谱 / Urban Metabolism Atlas\". Smart city from sky to bedrock: skyscrapers, streets, subway, utility tunnels, water/sewage/gas/heating pipes, fiber, data center, flood tanks, aquifers, geothermal wells, bedrock. Color-coded flows for power/water/data/traffic/waste. 12 numbered panels bilingual CN/EN: 能源/水循环/交通/数据/垃圾/建筑/公共服务/ 物流/气候韧性/生态/地质/治理看板. 24h timeline at bottom. Style: engineering white paper + scientific atlas, light paper bg, crisp lines, 8K. No cyberpunk, no gibberish text, must show both above AND below ground.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case1.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "1",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Education",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Infographic"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-1",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-1"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 160739,
+      "path": "images/e2cf9f43c87975adf7c937aad4ec6feeec63305685399e2eb074f097bce393f3.jpg",
+      "role": "source_example",
+      "sha256": "e2cf9f43c87975adf7c937aad4ec6feeec63305685399e2eb074f097bce393f3",
+      "source_path": "data/images/case401.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-401-f8523f197913",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "19d13b9f89cd44f17836b6fce261a809651b7c1671a9e0264863717c0d9a2b98",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a stylized travel poster / graphic collage for [country]. The main subject should be a stylish international tourist visiting [country], clearly presented as a traveler and not a local resident. Show the tourist wearing modern travel fashion, with details such as a camera, backpack, sunglasses, map, or suitcase, exploring the culture and atmosphere of [country]. Place the tourist in a dynamic composition surrounded by iconic architecture, streets, landscapes, landmarks, transportation, food, signage, and cultural elements associated with [country]. Blend realistic character detail with a graphic collage background made of layered paper textures, torn poster edges, sticker elements, halftone dots, editorial typography, and bold geometric shapes. Include authentic visual motifs from [country], but keep the tourist's appearance and styling globally fashionable and clearly foreign to the setting. Add a large readable headline: \"LOST IN [country]\". Modern, artistic, premium editorial travel poster aesthetic, balanced layout, print-worthy composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case401.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "401",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/SadiaMalik182",
+    "title": "Lost in 国家旅行海报拼贴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-401"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Lost in 国家旅行海报拼贴",
+  "version": "v1"
+}

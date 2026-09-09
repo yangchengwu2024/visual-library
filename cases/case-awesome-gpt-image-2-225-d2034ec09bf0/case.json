@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-225-d2034ec09bf0",
+  "classification": {
+    "categories": [
+      "文档与出版物"
+    ],
+    "scenes": [
+      "社媒"
+    ],
+    "source_category": "Documents & Publishing",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "styles": [
+      "Documents"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case225.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "225",
+      "source_tags": {
+        "scenes": [
+          "Social"
+        ],
+        "styles": [
+          "Documents"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2046201836525302032",
+      "title": "大师级真迹复刻",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-225",
+      "version": "v1"
+    }
+  ],
+  "title": "大师级真迹复刻",
+  "title_aliases": [
+    "大师级真迹复刻"
+  ]
+}

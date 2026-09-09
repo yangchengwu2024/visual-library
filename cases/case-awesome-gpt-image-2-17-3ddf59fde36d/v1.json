@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 145789,
+      "path": "images/97e848f6ad45cdd5b2c9f62c43725953afdcd52f3f2c261ec5869de92a730e85.jpg",
+      "role": "source_example",
+      "sha256": "97e848f6ad45cdd5b2c9f62c43725953afdcd52f3f2c261ec5869de92a730e85",
+      "source_path": "data/images/case17.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-17-3ddf59fde36d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dd10cecc92bbf3b7ea9d09ca91b439779d67505bd21ca7d42e2d4384206f2e36",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"exploded view product diagram poster\",\n  \"subject\": \"VR headset\",\n  \"style\": \"clean high-tech 3D render, studio lighting, glowing accents\",\n  \"background\": \"{argument name=\\\"background color\\\" default=\\\"soft purple and blue gradient\\\"}\",\n  \"header\": {\n    \"logo\": \"∞ {argument name=\\\"product name\\\" default=\\\"Meta Quest 3\\\"}\",\n    \"subtitle\": \"{argument name=\\\"main catchphrase\\\" default=\\\"まったく新しい現実を、まったく新しい構造から。\\\"}\"\n  },\n  \"layout\": {\n    \"centerpiece\": \"vertically stacked exploded view of a VR headset showing 9 distinct layers of internal components: outer shell, camera sensors, motherboard with chip, pancake lenses, internal frame, battery packs, side straps, top strap, and facial interface cushion.\",\n    \"callout_labels\": {\n      \"count\": 8,\n      \"left_side\": [\n        \"Snapdragon® XR2 Gen 2\\n圧倒的な処理性能でリアルタイムな体験を。\",\n        \"調整可能なIPD機構\\n幅広いユーザーに快適なフィット感を。\",\n        \"精密設計されたヘッドストラップ\\n快適さと安定性を追求したエルゴノミクス。\"\n      ],\n      \"right_side\": [\n        \"フェイスプレート\\n洗練されたデザインと最適な重量バランス。\",\n        \"トラッキングカメラ\\n高精度な位置トラッキングと環境認識を実現。\",\n        \"パンケーキレンズ\\n薄型設計で広い視野角と鮮明な映像を提供。\",\n        \"高性能バッテリー\\n長時間駆動を支える最適化された電源設計。\",\n        \"柔らかなフェイスインターフェース\\n長時間でも快適な装着感を実現。\"\n      ]\n    },\n    \"footer\": {\n      \"left_text_block\": {\n        \"headline\": \"{argument name=\\\"bottom headline\\\" default=\\\"体験は、構造から進化する。\\\"}\",\n        \"body\": \"一つひとつのパーツに、没入体験を支える最先端テクノロジーとこだわりの設計。Meta Quest 3は、未来を感じさせる体験を内部から生み出しています。\"\n      },\n      \"right_logo\": \"∞ Meta\"\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case17.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "17",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/wory37303852",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-17"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

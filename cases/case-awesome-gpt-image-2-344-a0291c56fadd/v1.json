@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 75459,
+      "path": "images/035022a432aabbc4e8b03b73bf0c2bb152bfafea7bb2b9dd77b872a194fb50e2.jpg",
+      "role": "source_example",
+      "sha256": "035022a432aabbc4e8b03b73bf0c2bb152bfafea7bb2b9dd77b872a194fb50e2",
+      "source_path": "data/images/case344.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-344-a0291c56fadd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e6398df8e0e5da12bc7b9e972bdff544cb4eb05985932c82d4c11882786f3a1c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a premium, highly realistic 1:1 campaign poster for NOIR, a modern streetwear brand. Show one hero oversized hoodie as the main focus against a gritty urban backdrop with wet concrete floors, dramatic low lighting, subtle smoke in the air and a raw street energy. Add bold minimal typography with the brand name NOIR and a short campaign headline like \"Wear the Dark.\" Make it feel like a real high-end streetwear editorial, sharp detail, realistic fabric textures, modern and edgy, deep black tones with subtle grey accents, no clutter, no collage.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case344.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "344",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Daniel_adsss/status/2048542581638701446",
+    "title": "NOIR 街头服饰 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-344"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "NOIR 街头服饰 Campaign",
+  "version": "v1"
+}

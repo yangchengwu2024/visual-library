@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-199-65091c7ada97",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "3D"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case199.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "199",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/IamEmily2050/status/2046602266627465534",
+      "title": "超写实海滩高角度手机自拍",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-199",
+      "version": "v1"
+    }
+  ],
+  "title": "超写实海滩高角度手机自拍",
+  "title_aliases": [
+    "超写实海滩高角度手机自拍"
+  ]
+}

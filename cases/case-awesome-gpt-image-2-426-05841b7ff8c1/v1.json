@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 193590,
+      "path": "images/2684c21c697188a5ebf08167037e2b10b23905dd77b867a3229454e40e483d56.jpg",
+      "role": "source_example",
+      "sha256": "2684c21c697188a5ebf08167037e2b10b23905dd77b867a3229454e40e483d56",
+      "source_path": "data/images/case426.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-426-05841b7ff8c1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5aab7c59b9d57c234e4b4cc06466d34192569b3b633e383b65b2458f37d8c562",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic cozy Japanese-Korean café photography featuring a cute young [Japanese/Korean] couple sitting together naturally in a trendy aesthetic café. The young couple should look stylish and youthful, wearing [fashion style/outfit colors], smiling softly and enjoying desserts together.\n\nThe table is beautifully filled with [desserts/foods] such as pancakes, strawberry cakes, macarons, croissants, pastries, iced coffees, matcha lattes, fruit desserts, and aesthetic drinks arranged in a visually satisfying composition. Add small aesthetic café props like [flowers/ribbons/books/candles/pearls/notebooks] on the table for a premium Pinterest moodboard feel.\n\nSoft [lighting style] lighting enters through the café windows creating dreamy highlights, creamy shadows, glossy reflections on drinks, and realistic dessert textures. Background should contain softly blurred [Japanese/Korean] signs, glowing café boards, handwritten Japanese text, neon typography, and aesthetic city café elements for an authentic Tokyo/Seoul vibe.\n\nAdd cute scrapbook-style doodles and handwritten notes around the image in [doodle color] ink — tiny hearts, stars, sparkles, ribbons, arrows, smiley sketches, bows, diary stickers, and handwritten café notes.\n\nColor palette should focus on [color theme] tones. Style inspired by viral Pinterest café photography, Korean lifestyle aesthetics, Japanese cozy café culture, dreamy Gen-Z romance mood, shallow depth of field, cinematic composition, ultra realistic food textures, soft blurry background, ultra detailed realistic photography, clean aesthetic layout, 8k.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case426.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "426",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/sha_zdiii/status/2054047328420634927",
+    "title": "日韩咖啡馆情侣写真",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-426"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "日韩咖啡馆情侣写真",
+  "version": "v1"
+}

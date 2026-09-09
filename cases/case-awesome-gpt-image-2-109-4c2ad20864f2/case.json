@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-109-4c2ad20864f2",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "叙事"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Story"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "styles": [
+      "界面"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case109.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "109",
+      "source_tags": {
+        "scenes": [
+          "Story"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/underwoodxie96",
+      "title": "综合应用场景图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-109",
+      "version": "v1"
+    }
+  ],
+  "title": "综合应用场景图",
+  "title_aliases": [
+    "综合应用场景图"
+  ]
+}

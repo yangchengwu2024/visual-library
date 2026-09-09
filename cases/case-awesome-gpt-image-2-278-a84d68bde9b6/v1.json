@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 304743,
+      "path": "images/98e2b80fb7eaa6e82a16da72a11b14302ffed6a7133e694db827b17f47475433.jpg",
+      "role": "source_example",
+      "sha256": "98e2b80fb7eaa6e82a16da72a11b14302ffed6a7133e694db827b17f47475433",
+      "source_path": "data/images/case278.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-278-a84d68bde9b6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ef3dd28d79b12a88c9ea2ece6444138e1ec233aa0a5896623cbea01465ec6969",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n现代铅笔插画，意大利阿马尔菲海岸复古旅行海报插画，全景海岸悬崖公路场景，经典1960年代白色汽车沿着弯曲的海滨公路行驶，带有小帆船的深蓝色地中海，色彩缤纷的粉彩山腰村庄，带有柔软云朵的明亮蓝天，带有鲜艳黄色柠檬的柠檬树枝框定前景，温暖的夏日阳光，大胆鲜艳的色彩，复古1950年代旅行海报风格，电影级构图，高细节，丝网印刷质感，图形插画。手绘风格，带有松散笔触和清晰轮廓的插画。高对比度调色板，保持背景与元素之间的色彩和谐。现代与装饰性美学。\n\n[English]\nModern pencil illustration of Vintage travel poster illustration of the Amalfi Coast, Italy, panoramic coastal cliff road scene, classic 1960s white car driving along a curved seaside road, deep blue Mediterranean sea with small sailboats, colorful pastel hillside village, bright blue sky with soft clouds, lemon tree branches with vibrant yellow lemons framing the foreground, warm summer sunlight, bold vibrant colors, retro 1950s travel poster style, cinematic composition, high detail, screen print texture, graphic illustration. Hand-drawn style, illustration with loose strokes and defined contours. High-contrast color palette, maintaining chromatic harmony between background and elements. Contemporary and decorative aesthetic.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case278.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "278",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/WolfRiccardo/status/2044562722491121718",
+    "title": "阿马尔菲海岸复古旅行海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-278"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "阿马尔菲海岸复古旅行海报",
+  "version": "v1"
+}

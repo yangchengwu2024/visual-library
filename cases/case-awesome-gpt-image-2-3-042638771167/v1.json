@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 239349,
+      "path": "images/905838214eb6cc12c94952579b533ca703a041b7bb4103c2e88153208322c577.jpg",
+      "role": "source_example",
+      "sha256": "905838214eb6cc12c94952579b533ca703a041b7bb4103c2e88153208322c577",
+      "source_path": "data/images/case3.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-3-042638771167",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "358b4cdf6ac7bf74745ece1d9abd8ad6bbd08e77c6fff5d7a34686dc07419413",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "生成一张「足球主题电影海报」风格的高清写真海报：国际米兰后卫巴斯托尼站在圣西罗球场中央激情庆祝，双手高举并披着波黑国旗，神情热血、坚定、自信，现场灯光璀璨，球场看台座无虚席，背景有蓝黑色烟雾、聚光灯、飘扬的旗帜和飞舞的纸屑，营造欧冠之夜般的史诗氛围。人物为画面核心，半身到全身构图，突出脸部细节、肌肉张力与球衣质感。整体风格写实、震撼、富有戏剧性，海报级构图，电影感光影，高对比度，超清细节，8K，专业体育摄影，极具视觉冲击力。五根手指。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case3.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "3",
+    "source_tags": {
+      "scenes": [
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-3",
+    "title": "足球主题电影海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-3"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "足球主题电影海报",
+  "version": "v1"
+}

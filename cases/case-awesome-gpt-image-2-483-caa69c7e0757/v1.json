@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 154055,
+      "path": "images/3bcb891d933925f2f457335f214a6362f1b904ef342a7ab2e0d312776c628ca1.jpg",
+      "role": "source_example",
+      "sha256": "3bcb891d933925f2f457335f214a6362f1b904ef342a7ab2e0d312776c628ca1",
+      "source_path": "data/images/case483.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-483-caa69c7e0757",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "41ce4e2ea3dac55441ec4ef61ea0fd95cba889bd0adad4740de2646b635e6179",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A stylish cinematic portrait of a confident young woman leaning casually against a textured urban concrete wall, surrounded by vibrant flying birds including blue macaws, white seagulls, and a colorful hummingbird. Black graffiti-style bird silhouettes painted on the wall create an artistic street-art vibe. She is wearing a trendy all-white outfit — oversized denim jacket, fitted graphic tee, skinny jeans, and black sneakers. Soft natural daylight, realistic shadows, ultra-detailed fashion photography, urban luxury aesthetic, sharp facial features, glossy hair, high-end editorial style, dynamic composition, photorealistic, depth of field, 8K quality.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case483.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "483",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/HaniaAi12/status/2060216757797978245",
+    "title": "都市飞鸟街头肖像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-483"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "都市飞鸟街头肖像",
+  "version": "v1"
+}

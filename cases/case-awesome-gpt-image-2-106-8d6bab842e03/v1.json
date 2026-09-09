@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 160307,
+      "path": "images/6cf7e77367cede7ca9d3d615fc7365c284b1dd09f170081cf16b3dd61576bf56.jpg",
+      "role": "source_example",
+      "sha256": "6cf7e77367cede7ca9d3d615fc7365c284b1dd09f170081cf16b3dd61576bf56",
+      "source_path": "data/images/case106.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-106-8d6bab842e03",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dd8536d1584427be281ab0d651b1692c7a9c7826c40be7dd27fc7d94c5efcdbf",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"YouTube thumbnail graphic\",\n  \"style\": \"anime, edgy, neon pink and black color scheme, grunge and splatter accents\",\n  \"character\": {\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"silver\\\"} hair, cat ears, purple eyes\",\n    \"expression\": \"{argument name=\\\"expression\\\" default=\\\"shocked and sweating\\\"}, mouth open\",\n    \"accessories\": \"black cat hairclip with pink cross, black choker with heart ring\",\n    \"action\": \"holding a pink smartphone with a swirl logo\"\n  },\n  \"layout\": {\n    \"main_title\": {\n      \"position\": \"bottom center\",\n      \"style\": \"huge, bold, 3D typography, grunge texture\",\n      \"lines\": [\n        { \"text\": \"{argument name=\\\"main title top\\\" default=\\\"스레드 논란\\\"}\", \"color\": \"neon pink\" },\n        { \"text\": \"{argument name=\\\"main title bottom\\\" default=\\\"읽어드림 ;;\\\"}\", \"color\": \"white\" }\n      ]\n    },\n    \"ui_elements\": [\n      {\n        \"type\": \"social media feed mockup\",\n        \"position\": \"mid-left\",\n        \"header\": \"← 스레드\",\n        \"post_count\": 3,\n        \"details\": \"avatars, Korean text, interaction icons for like, comment, repost\"\n      },\n      {\n        \"type\": \"live chat mockup\",\n        \"position\": \"right edge\",\n        \"message_count\": 4,\n        \"details\": \"pink user icons, Korean text\"\n      }\n    ],\n    \"text_callouts\": [\n      {\n        \"type\": \"spiky speech bubble\",\n        \"position\": \"center top\",\n        \"text\": \"{argument name=\\\"speech bubble text\\\" default=\\\"이게 맞아?;;\\\"}\"\n      },\n      {\n        \"type\": \"neon box\",\n        \"position\": \"top right\",\n        \"text\": \"실시간 반응 중\"\n      },\n      {\n        \"type\": \"floating grunge text\",\n        \"position\": \"far left\",\n        \"line_count\": 3,\n        \"text\": [\"OO 논란\", \"충격 실화\", \"역대급 사건\"]\n      },\n      {\n        \"type\": \"handwritten text with arrow\",\n        \"position\": \"bottom right\",\n        \"text\": \"여러분의 생각은 어떠신가요?\"\n      }\n    ],\n    \"logos\": [\n      {\n        \"type\": \"app icon\",\n        \"position\": \"top left\",\n        \"description\": \"white swirl logo on black rounded square\"\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case106.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "106",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/abdiisan",
+    "title": "应用界面样机图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-106"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "应用界面样机图",
+  "version": "v1"
+}

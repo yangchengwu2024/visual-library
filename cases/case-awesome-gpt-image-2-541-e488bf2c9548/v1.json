@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 95272,
+      "path": "images/829125af0ed13c593a04678947d797509b30fcc5e933e7b47ed512df72dbb3eb.jpg",
+      "role": "source_example",
+      "sha256": "829125af0ed13c593a04678947d797509b30fcc5e933e7b47ed512df72dbb3eb",
+      "source_path": "data/images/case541.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-541-e488bf2c9548",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "187e7fcc9b2dbcdb0a539b2009997d3ea2244c8308fe091a731b050663b4a141",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Transform the uploaded photo into a vertical mixed-media memory card with a strict 50/50 split.\n\nKeep the original photo unchanged in the top half. In the bottom half, use textured off-white handmade paper and add a muted, irregular color patch matching the photo’s tones.\n\nRedraw the main subjects as a simple dark wax-crayon sketch with loose, imperfect lines and minimal details. Add a short handwritten English phrase and subtle Risograph grain.\n\nCreate a quiet, nostalgic Morandi-style aesthetic with generous negative space. Do not add extra elements or copy the reference composition exactly.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case541.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "541",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2093212900160868430",
+    "title": "50/50 混合媒介回忆卡",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-541"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "50/50 混合媒介回忆卡",
+  "version": "v1"
+}

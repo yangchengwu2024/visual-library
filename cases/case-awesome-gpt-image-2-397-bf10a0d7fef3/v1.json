@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 298455,
+      "path": "images/c99958555add55227020541db59c833b6232f234af150cd4ad5dc403b113a7ae.jpg",
+      "role": "source_example",
+      "sha256": "c99958555add55227020541db59c833b6232f234af150cd4ad5dc403b113a7ae",
+      "source_path": "data/images/case397.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-397-bf10a0d7fef3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2df77012360049a194583c9b596dc5d06acf1e53ea6078b51dfc1225b1edc6f2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "角色设定图布局，聚焦于一位18岁的亚裔女性街舞舞者。包含4个大型、高细节度的全身动态舞姿（突出舞蹈动作，面部清晰）。侧边附一条清晰的多角度参考条，仅含3个精细头部特写（正面、侧面、3/4侧面）。最大限度减少文字元素，将像素空间优先用于面部细节刻画。背景为粗砺工业风，搭配写实光影效果",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case397.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "397",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/ChangningL29508/status/2052229452080591276",
+    "title": "街舞角色设定参考图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-397"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "街舞角色设定参考图",
+  "version": "v1"
+}

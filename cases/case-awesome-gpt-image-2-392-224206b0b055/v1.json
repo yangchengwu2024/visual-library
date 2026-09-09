@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 242302,
+      "path": "images/fc1b68d09237d8c355ff47ee14bae209dc3474dc747fff06ce78c7d613698834.jpg",
+      "role": "source_example",
+      "sha256": "fc1b68d09237d8c355ff47ee14bae209dc3474dc747fff06ce78c7d613698834",
+      "source_path": "data/images/case392.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-392-224206b0b055",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "70bfe8920f4a84258dc1cb0d4cb0ff3e8576dc6f6d74e2fe08c0d81e66f54ddd",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Macro photograph of a miniature city hidden in human hair, clearly on a real human head, with part of the forehead and hairline visible, realistic skin texture with pores, tiny people walking through the streets between the hair strands, extremely small but realistic proportions, macro photography, 85mm lens, shallow depth of field, natural lighting, neutral colors, no warm tones, ultra realistic hair with visible roots, natural imperfections, slightly messy strands, realistic materials, slightly dirty buildings, no perfect surfaces, photorealistic, looks like a real photo, no illustration, no CGI, no glow",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case392.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "392",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/krafterlab/status/2051399740986740986",
+    "title": "头发里的微型城市",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-392"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "头发里的微型城市",
+  "version": "v1"
+}

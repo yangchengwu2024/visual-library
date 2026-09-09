@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 211277,
+      "path": "images/21c21e0c02822cfd499befd24bb303d15a06b807c58d1408162bc2959fd86ed3.jpg",
+      "role": "source_example",
+      "sha256": "21c21e0c02822cfd499befd24bb303d15a06b807c58d1408162bc2959fd86ed3",
+      "source_path": "data/images/case297.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-297-3864bffebfa9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "24ba4dff734d8be62294953933a729ce6dd81e40dadfbf29d73428a3d21b4822",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n手写食谱 → 专业食谱页面 上传一份凌乱的手写家庭食谱；模型会搜索准确的现代计量/营养信息，然后生成一份精致的杂志风格双页跨页，包含分步平铺图、完美的食材标签和卡路里分解。\n\n[INSERT_RECIPE_LINK]\n\n[English]\nHandwritten Recipe → Professional Cookbook Page Upload a messy handwritten family recipe; the model searches for accurate modern measurements/nutrition, then generates a polished, magazine-style double-page spread with step-by-step flat lays, perfect ingredient labels, and calorie breakdowns.\n\n[INSERT_RECIPE_LINK]",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case297.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "297",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/maxescu/status/2045203839910056014",
+    "title": "手写食谱变身杂志级跨页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-297"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "手写食谱变身杂志级跨页",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 120193,
+      "path": "images/4f73a13f971f8ceb683bbe590398dfab2e0bce954bc1127bb01842acef8b350e.jpg",
+      "role": "source_example",
+      "sha256": "4f73a13f971f8ceb683bbe590398dfab2e0bce954bc1127bb01842acef8b350e",
+      "source_path": "data/images/case534.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-534-cf66fd3365f0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f4eabe3c1ca9e122c23b6fbdd738c33faef2005790f30794ca13fa1e0d433536",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a medium-sized 9:16 experimental editorial portrait poster using the following customizable inputs:\n\nSubject: [Adult Male or Female Portrait]\nInterference: [Color Split / Narrow Light Beam / Horizontal Cut / Motion Veil]\nTitle: [Title]\nPalette: [Main Neutral Tones + One Accent Color]\nMood: [Sharp / Cinematic / Restrained / Experimental]\n\nCreate a striking close-up or waist-up portrait with the subject occupying a strong portion of the frame. Preserve realistic facial features, natural skin texture, authentic hair, realistic proportions, clear emotion, and a strong silhouette. The portrait must work visually as a fashion photograph before the graphic intervention is applied.\n\nUse only one primary interference method:\n\nColor Split: Uneven translucent bands selectively shift, reveal, separate, or distort portions of the portrait.\n\nNarrow Light Beam: A single controlled beam cuts across the face or body and continues naturally into the surrounding space.\n\nHorizontal Cut: Bold horizontal bands interrupt selected areas of the portrait and interact with oversized typography.\n\nMotion Veil: Keep the main portrait sharp while selected areas create subtle horizontal photographic motion trails.\n\nMake typography an integral part of the composition. Use one dominant headline, allowing letters to crop beyond the frame, overlap the subject, disappear behind the body, or interact with the interference.\n\nKeep supporting text minimal: one small series label and one short phrase.\n\nUse mostly black, white, grey, charcoal, or deep neutral tones, plus one accent color. Keep skin tones natural and avoid excessive warmth or yellow grading.\n\nAdd only a few subtle graphic details such as fine lines, circles, or open corner marks when necessary.\n\nThe final composition should feel like a premium fashion editorial, contemporary photography poster, or experimental art-direction piece—clean, intentional, sophisticated, and visually balanced.\n\nAvoid multiple competing effects, dense text, UI elements, heavy glitches, random collage, excessive decoration, numbering, “Vol.” or “Issue” labels, sparkle symbols, logos, watermarks, distorted anatomy, plastic skin, oversaturation, and generic template aesthetics.\n\nKeep the overall treatment medium in scale, refined, adaptable, and universally applicable to different people, titles, themes, palettes, and editorial concepts.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case534.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "534",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Goodmanprotocol/status/2092471662126211143",
+    "title": "红光干扰实验编辑人像海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-534"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "红光干扰实验编辑人像海报",
+  "version": "v1"
+}

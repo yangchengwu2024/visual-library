@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 227565,
+      "path": "images/7a555e745d4ce3d218755f9dacbb1c61de6bf0a71b726f0993b7bad202737bf9.jpg",
+      "role": "source_example",
+      "sha256": "7a555e745d4ce3d218755f9dacbb1c61de6bf0a71b726f0993b7bad202737bf9",
+      "source_path": "data/images/case250.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-250-ce35480b19f5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b67e75d31333256d6a0706be039851360f4ee6cbf53b3fbcbd55de7115bee6c0",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n设计一张小王子和SpaceX联名的明信片\n\n[English]\nDesign a postcard co-branded by The Little Prince and SpaceX",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case250.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "250",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "小王子与星舰的浪漫联名",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-250"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "小王子与星舰的浪漫联名",
+  "version": "v1"
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 170555,
+      "path": "images/2a3906d0f26568190cdbc5be1257fac61afe559d2f2a220fdb230da1c3eadef4.jpg",
+      "role": "source_example",
+      "sha256": "2a3906d0f26568190cdbc5be1257fac61afe559d2f2a220fdb230da1c3eadef4",
+      "source_path": "data/images/case174.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-174-5d36299d06ec",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ebc8455f63bb746aa8f370568227ab1091bf1bf14bc58b11ae951f8c4d540045",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一幅细节丰富的工笔画，描绘了一位唐朝贵族女子在御花园中漫步。她看起来优雅而平静。\n\n她手里拿着一根金色的牵引绳。牵引绳的尽头是一只可怕的**异形怪物（出自电影《异形》）**。然而，这只异形穿着一件**可爱的粉色丝绸马甲**，并且表现得像一只训练有素的狗。\n\n背景有牡丹和蝴蝶。\n\n**在右下角，有一个红色的竖排艺术家印章，写着“吴先生”（Mr. Wu），风格像水印一样。** --ar 3:4\n\n[English]\nA finely detailed Gongbi painting of a noble Tang Dynasty lady taking a stroll in the imperial garden. She looks elegant and calm.\n\nShe is holding a gold leash. At the end of the leash is a terrifying **Xenomorph monster (from the movie Alien)**. However, the Xenomorph is wearing a **cute pink silk vest** and is behaving like a well-trained dog.\n\nBackground features peonies and butterflies.\n\n**In the bottom right corner, a single red vertical artist chop seal reads \"吴先生\" (Mr. Wu), stylized like a watermark.** --ar 3:4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case174.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "174",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "History"
+      ],
+      "styles": [
+        "Illustration",
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/johnAGI168/status/2046565555025367392",
+    "title": "唐朝贵妇遛粉色马甲异形工笔画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-174"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "唐朝贵妇遛粉色马甲异形工笔画",
+  "version": "v1"
+}

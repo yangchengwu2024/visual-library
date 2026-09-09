@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 102235,
+      "path": "images/bf0968651037c235f9316b36d7c3bcfe64f2ec04299b6456a255407f7bd04f23.jpg",
+      "role": "source_example",
+      "sha256": "bf0968651037c235f9316b36d7c3bcfe64f2ec04299b6456a255407f7bd04f23",
+      "source_path": "data/images/case435.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-435-924421df0be8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9ebce4176f090f25f494413abe79354ed378b3ed4586856443361863e632197b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"style\": \"layered paper-cut illustration, papercraft diorama, handcrafted aesthetic\",\n  \"technique\": {\n    \"layering\": \"multiple stacked paper layers with soft drop shadows between each layer\",\n    \"depth\": \"5–7 visible depth planes from foreground to background\",\n    \"edges\": \"smooth, rounded, slightly beveled paper-cut edges\",\n    \"texture\": \"subtle paper grain and fibrous texture on all surfaces\",\n    \"shadows\": \"soft, diffused inner shadows beneath each layer suggesting physical depth\"\n  },\n  \"character_design\": {\n    \"proportions\": \"chibi / cute simplified — large round head, small body (1:1.5 ratio)\",\n    \"face\": {\n      \"eyes\": \"small dot eyes, glossy highlight\",\n      \"cheeks\": \"soft circular rosy blush patches\",\n      \"nose\": \"absent or minimal dot\",\n      \"mouth\": \"simple small curve smile\"\n    },\n    \"limbs\": \"short, rounded, stubby limbs\",\n    \"outline\": \"clean smooth silhouette, no sharp corners\"\n  },\n  \"color_palette\": {\n    \"mood\": \"warm, cozy, pastel\",\n    \"tones\": [\"soft cream\", \"dusty rose\", \"sage green\", \"warm peach\", \"sky blue\", \"honey yellow\"],\n    \"saturation\": \"low-to-medium, muted and gentle\",\n    \"background\": \"warm off-white or soft gradient\"\n  },\n  \"lighting\": {\n    \"type\": \"soft ambient light from top-front\",\n    \"highlights\": \"gentle white edge highlights on top layers\",\n    \"shadows\": \"warm light tan/beige shadow tones beneath cut layers\"\n  },\n  \"environment\": {\n    \"foliage\": \"simplified rounded leaf and floral shapes as separate paper layers\",\n    \"ground\": \"curved horizon layers suggesting rolling hills\",\n    \"details\": \"tiny decorative elements — stars, small hearts, dots — cut from paper\"\n  },\n  \"overall_mood\": \"warm, whimsical, cozy, handmade, storybook\",\n  \"render_quality\": \"ultra-detailed papercraft art, studio photography lighting, sharp focus on layer edges\"\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case435.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "435",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Just_sharon7/status/2055368240885641323",
+    "title": "层叠纸雕情侣插画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-435"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "层叠纸雕情侣插画",
+  "version": "v1"
+}

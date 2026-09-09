@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 420325,
+      "path": "images/faef5bf43ec783cbc9d3b3d46e30b09cfbb05c47ce313ebbeb5aa2715fb37284.jpg",
+      "role": "source_example",
+      "sha256": "faef5bf43ec783cbc9d3b3d46e30b09cfbb05c47ce313ebbeb5aa2715fb37284",
+      "source_path": "data/images/case15.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-15-471a2354f1ad",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "00d8c85c202fdb1f87a177a757291386e7c2ce74ea6c0441970fff47205288ed",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "生成一张海报图片，图片人物是一个19岁的中国少女，黑色直长发，很开心的在夜宵摊上喝啤酒吃小龙虾。海报上用芥末黄色艺术字写着，趁年轻，激爽才够味！",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case15.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "15",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-15",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-15"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

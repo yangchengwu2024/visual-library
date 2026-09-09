@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 223669,
+      "path": "images/8ff47fdb32cfb68315956c544cd3c880a1227baeea20a59b3f88ba636ba1e9d9.jpg",
+      "role": "source_example",
+      "sha256": "8ff47fdb32cfb68315956c544cd3c880a1227baeea20a59b3f88ba636ba1e9d9",
+      "source_path": "data/images/case185.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-185-133c5d095646",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "516a05b3f9afd87fd34f348b5a09682f9ba792a5b25e9a88c224a959625d7209",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n武则天自拍登记发微博\n\n[English]\nWu Zetian taking a selfie, registering and posting on Weibo.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case185.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "185",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046585220393324553",
+    "title": "武则天发微博自拍太魔性了",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-185"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "武则天发微博自拍太魔性了",
+  "version": "v1"
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 210226,
+      "path": "images/2795bd9c56888b27e6802bcfe771b7ddb48cbfc2cf3b7ccdf82e9fb455cb4554.jpg",
+      "role": "source_example",
+      "sha256": "2795bd9c56888b27e6802bcfe771b7ddb48cbfc2cf3b7ccdf82e9fb455cb4554",
+      "source_path": "data/images/case446.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-446-5932f2218650",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ba7f117fc1589eac031814430cadb2cb6bbcecf6d05092fba6e32fc6adee8d22",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a highly detailed low-poly papercraft portrait of a stylish young man, designed like an origami paper sculpture. The character has curly dark brown hair, a trimmed beard, and wears slightly black-tinted geometric sunglasses with thin black frames. His shirt is medium grey with sharp polygonal folds and realistic paper texture. Use faceted angular shapes across the face, hair, and clothing, with realistic shadows and layered paper depth. Minimal clean white studio background, soft lighting, ultra-realistic paper craft aesthetic, modern geometric art style, high detail, centered composition, 8k quality.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case446.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "446",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/iamsofiaijaz/status/2056953102755115162",
+    "title": "低多边形纸艺男士肖像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-446"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "低多边形纸艺男士肖像",
+  "version": "v1"
+}

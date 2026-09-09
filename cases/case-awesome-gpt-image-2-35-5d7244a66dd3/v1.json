@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 129946,
+      "path": "images/f02c69a445ef9247ac2dbfab9530b9b451b06b97c38d8545a5e5bdfb0d6afbf1.jpg",
+      "role": "source_example",
+      "sha256": "f02c69a445ef9247ac2dbfab9530b9b451b06b97c38d8545a5e5bdfb0d6afbf1",
+      "source_path": "data/images/case35.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-35-5d7244a66dd3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "23981f2a4ce8d885210ec45850505ef14b22dfdfe9af2030d4eb8b48716f7d8c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A {argument name=\"photography style\" default=\"photorealistic portrait with shallow depth of field and soft bokeh\"} of a {argument name=\"subject\" default=\"young Japanese woman\"} looking back over her shoulder at the camera with a {argument name=\"expression\" default=\"gentle smile\"}. She is wearing a {argument name=\"attire\" default=\"light beige kimono with orange maple leaf patterns\"} and a gold obi. Her dark hair is styled in an elegant updo with loose strands framing her face, and she wears small pearl earrings. The background features an {argument name=\"setting\" default=\"autumn garden with vibrant red maple leaves\"}, with bright red foliage framing the top left and a heavily blurred, soft background creating a serene, cinematic atmosphere.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case35.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "35",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Travel"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/kazmaendo",
+    "title": "人像写实摄影图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-35"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "人像写实摄影图",
+  "version": "v1"
+}

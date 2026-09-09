@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 434462,
+      "path": "images/f9ac45416e60558523f45fb0d6fc39a73f8aabe656ae734b837d28a9ba4ccf35.jpg",
+      "role": "source_example",
+      "sha256": "f9ac45416e60558523f45fb0d6fc39a73f8aabe656ae734b837d28a9ba4ccf35",
+      "source_path": "data/images/case355.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-355-d9e4fce7a85a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a63cd5fe84de52e77210c323b7c1aa60bd07bd51cf140289c02333c536e205ab",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create ONE finished premium conceptual typography poster for the exact title:\n\n“[INPUT_TEXT]”\n\nSingle poster only. No moodboard, grid, presentation board, mockup, captions, prompt text, process sheet, or sample labels.\n\nThe title “[INPUT_TEXT]” must be the dominant visual structure of the poster: huge, readable, powerful, and spelled exactly. Do not translate, shorten, replace, or misspell it. Do not add other large readable text. Optional micro catalog text is allowed only if it stays subtle and secondary.\n\nSilently interpret the title’s meaning, mood, cultural aura, symbolic associations, psychological tension, and visual rhythm. Turn that interpretation into one strong visual metaphor.\n\nTypography is the hero. Design custom-looking letterforms whose weight, width, contrast, spacing, rhythm, distortion, negative space, edge quality, and ink texture express the temperament of the title. The type should feel intentionally designed, not like a default font.\n\nIf “[INPUT_TEXT]” refers to a widely known person, make a large editorial portrait or full / half-body figure a major visual presence, occupying roughly 40–70% of the composition. The figure should feel recognizable through aura, posture, styling, era, expression, lighting, and symbolic atmosphere, but should not copy a specific existing photograph, official poster, campaign image, logo, slogan, or copyrighted composition. The portrait must interact with the typography: overlapping the letters, emerging from them, being framed by them, casting shadows on them, breaking through them, or being partially hidden behind them.\n\nFor all other titles, use a human figure, landscape, object, or atmospheric setting only when it strengthens the meaning. It must interact with the typography and deepen the concept, not decorate it.\n\nUse a rich but restrained 4–6 color system matched to the theme: dominant background color, primary typography color, figure / landscape tone, emotional accent color, muted support color, and subtle paper / ink texture tone. Avoid flat black-white-red defaults unless conceptually necessary.\n\nComposition style: high-end editorial poster, museum-quality graphic design, dramatic scale, strong hierarchy, few elements, intelligent whitespace, bold flat color areas, sharp cropping, silkscreen / lithograph / risograph grain, paper fibers, subtle ink imperfections, refined visual tension.\n\nThe final image should feel like a complete visual sentence: the title, the figure or setting, the color, and the typography explain each other.\n\nAvoid generic word art, glossy 3D lettering, random icons, stock-photo realism, cluttered collage, excessive grunge, tourist clichés, official logos, copied slogans, copied campaign aesthetics, unrelated text, and misspelled typography.\n\n-----\n\nINPUT_TEXT：Phoenix Rebirth",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case355.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "355",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/dotey/status/2048793351290327381",
+    "title": "概念字体海报 Prompt",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-355"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "概念字体海报 Prompt",
+  "version": "v1"
+}

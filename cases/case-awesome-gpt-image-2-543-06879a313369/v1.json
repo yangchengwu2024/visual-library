@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 1800176,
+      "path": "images/c698d4efea6789557d328b043f40c63549658494be5a30b9c1d210e2ae80be93.jpg",
+      "role": "source_example",
+      "sha256": "c698d4efea6789557d328b043f40c63549658494be5a30b9c1d210e2ae80be93",
+      "source_path": "data/images/case543.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-543-06879a313369",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f2d03f5e2965cc7c13d06878794653ca7dbde304516083be9258c401dabeddbc",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Turn the reference photo into a travel souvenir enamel pin badge. Compose it as a SCENE, not a single isolated object.\n\nSubject hierarchy: the defining landscape, terrain or landmark of the photo forms the main body of the badge and occupies most of its area. If a person appears prominently in the photo, keep them in the badge as a small, simplified figure at true relative scale within that landscape — the person is an accent, the landscape is the subject. Preserve the original spatial relationship and scale between the figure and the surroundings.\n\nHow to render the person: flat enamel color blocks matching their real clothing and hair color from the photo. The face is a smooth plain area of light skin-tone enamel with no drawn facial features — do NOT render the person as a dark or black silhouette, and do NOT black out the face or head. Skin reads as a warm light enamel color, clearly lighter than the clothing.\n\nStyling: thin polished gold outline around the silhouette and along every internal divider, glossy enamel color fill, gentle even lighting with only a soft sheen on the gold lines, very subtle drop shadow. Outer contour follows the scene's own shape, not a plain rectangle.\n\nBackground: flat dark navy coarse linen texture. Badge centered, filling about 60% of the frame.\n\nAvoid: black silhouette figure, blacked-out face, dark featureless head, portrait close-up, detailed facial features, person dominating the badge, cropping out the landscape, three-quarter angle, macro product photography, heavy specular glare, cartoon, realistic scene, text, watermark.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case543.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "543",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Product",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Emmma__0/status/2093194689222705645",
+    "title": "旅行纪念珐琅徽章",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-543"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "旅行纪念珐琅徽章",
+  "version": "v1"
+}

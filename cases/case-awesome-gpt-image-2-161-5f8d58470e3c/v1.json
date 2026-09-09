@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 207632,
+      "path": "images/60acfa0bdc6501522b12637c7da2f20ef5ebaa50b910c34c1911b752003f557c.jpg",
+      "role": "source_example",
+      "sha256": "60acfa0bdc6501522b12637c7da2f20ef5ebaa50b910c34c1911b752003f557c",
+      "source_path": "data/images/case161.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-161-5f8d58470e3c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7b9b8cda92f97435cdaae2e70c7f755ac6c49730bcbd751246a2c17d2bda7c0f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"video game screenshot mockup\",\n  \"perspective\": \"third-person over-the-shoulder\",\n  \"character\": {\n    \"description\": \"male protagonist seen from behind\",\n    \"clothing\": \"grey tank top with graphic '{argument name=\\\"shirt graphic\\\" default=\\\"LEONIDA MARINE CENTER\\\"}', camouflage cargo shorts\"\n  },\n  \"environment\": {\n    \"setting\": \"tropical coastal town, dirt road, sunny daytime with scattered clouds\",\n    \"left_side\": \"wooden welcome sign reading 'Welcome to {argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"} YOUR PARADISE', pink plastic flamingo, tropical foliage, distant water tower\",\n    \"center\": \"green building with 'FISH' sign and marlin graphic, sign reading 'BAIT TACKLE ICE BEER WINE', pedestrians walking\",\n    \"right_side\": \"two-story wooden building 'Brian's Boat Works & Marina', 'Brian's Bar' neon sign, parked pickup truck, jet skis on a trailer\"\n  },\n  \"ui_elements\": {\n    \"count\": 5,\n    \"components\": [\n      {\n        \"position\": \"top-left\",\n        \"type\": \"mission objective\",\n        \"text\": \"{argument name=\\\"mission title\\\" default=\\\"MEET RAUL\\\"}\\n{argument name=\\\"mission description\\\" default=\\\"Raul has some work for you at his boatyard\\\"}\"\n      },\n      {\n        \"position\": \"top-right\",\n        \"type\": \"status HUD\",\n        \"text\": \"13:47\\n$1,142\",\n        \"icon\": \"pink palm tree\"\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"type\": \"minimap\",\n        \"description\": \"circular map with purple border, white map icons including 'N' for north\"\n      },\n      {\n        \"position\": \"bottom-left, right of minimap\",\n        \"type\": \"location text\",\n        \"text\": \"{argument name=\\\"location name\\\" default=\\\"LEONIDA KEYS\\\"}\\nPALM ISLAND\"\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"type\": \"watermark\",\n        \"text\": \"{argument name=\\\"game title\\\" default=\\\"GTA VI\\\"}\\nPRE-ALPHA FOOTAGE\"\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case161.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "161",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/DanDaniDaniel01",
+    "title": "应用界面样机图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-161"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "应用界面样机图",
+  "version": "v1"
+}

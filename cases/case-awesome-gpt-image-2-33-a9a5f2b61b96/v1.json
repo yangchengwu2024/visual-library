@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 38732,
+      "path": "images/388a3870fedb258e9832ab262398f3836285a3c3f3c0f8ee1f2da1e39eec67fd.jpg",
+      "role": "source_example",
+      "sha256": "388a3870fedb258e9832ab262398f3836285a3c3f3c0f8ee1f2da1e39eec67fd",
+      "source_path": "data/images/case33.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-33-a9a5f2b61b96",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b1e3800adf260fb861ec05985040ade895dbf90f4f92af2cfa15a80da8bb3b98",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A 3D render of a cute kawaii {argument name=\"subject\" default=\"cloud\"} character on a pure white background. The character has a soft, matte, squishy texture resembling clay or a stress toy. It features large glossy black eyes with white highlights, a simple curved smile, and round pink blush on its cheeks. The edges and bottom of the figure have a subtle pastel gradient of {argument name=\"accent colors\" default=\"pink, blue, and purple\"}. Soft studio lighting, minimalist icon style, casting a gentle shadow.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case33.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "33",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Product",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/yurunekofree",
+    "title": "电商商品展示设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-33"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "电商商品展示设计",
+  "version": "v1"
+}

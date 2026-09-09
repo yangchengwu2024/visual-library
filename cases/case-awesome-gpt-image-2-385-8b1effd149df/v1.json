@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 166409,
+      "path": "images/c270b773080670404231864bf8179ba6e0f801a8fe261eec1933c7b9e3f88e03.jpg",
+      "role": "source_example",
+      "sha256": "c270b773080670404231864bf8179ba6e0f801a8fe261eec1933c7b9e3f88e03",
+      "source_path": "data/images/case385.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-385-8b1effd149df",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6e668275448e31c1c6a53858fa6d58415adef38f74b21c9565a97218342f6ec0",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Inspired by Tsingtao (China beer)🍺\n\n“Inspired by this product, design a set of cool-style women's clothing”",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case385.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "385",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/Popcraft_ai/status/2051142270381170754",
+    "title": "青岛啤酒灵感女装系列",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-385"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "青岛啤酒灵感女装系列",
+  "version": "v1"
+}

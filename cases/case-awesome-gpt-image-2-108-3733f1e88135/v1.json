@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 180533,
+      "path": "images/01f8b86c17252ac4ed1c493c60c4822878e109f71dc6b7c2b4f1aafcc544012b.jpg",
+      "role": "source_example",
+      "sha256": "01f8b86c17252ac4ed1c493c60c4822878e109f71dc6b7c2b4f1aafcc544012b",
+      "source_path": "data/images/case108.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-108-3733f1e88135",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "240f40996a29b71302bf814d0d8cb8420f6269cefaf9797a381554dc58b4089f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{argument name=\"subject\" default=\"A beautiful internet celebrity\"} is live-streaming a {argument name=\"activity\" default=\"game\"}.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case108.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "108",
+    "source_tags": {
+      "scenes": [
+        "Story"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/underwoodxie96",
+    "title": "综合应用场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-108"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "综合应用场景图",
+  "version": "v1"
+}

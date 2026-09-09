@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 110381,
+      "path": "images/61c5870953563a42ab9baeccd54f9c23968fdefab12afc8d86976e5ce4a0ed3c.jpg",
+      "role": "source_example",
+      "sha256": "61c5870953563a42ab9baeccd54f9c23968fdefab12afc8d86976e5ce4a0ed3c",
+      "source_path": "data/images/case168.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-168-3a476bfa77a3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9c08d4d8359a674aa9611768777ad953cd57569b46aa437e8761491020bff846",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张手写中/西医药方图\n\n[English]\nGenerate an image of a handwritten traditional Chinese medicine or Western medicine prescription",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case168.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "168",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046514998965371144",
+    "title": "手写中西药方图片",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-168"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "手写中西药方图片",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-219-a51c98234eff",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "时尚",
+      "叙事"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "写实",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case219.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "219",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion",
+          "Story"
+        ],
+        "styles": [
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/BubbleBrain/status/2046151898621993364",
+      "title": "韩系偶像九宫格写真集",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-219",
+      "version": "v1"
+    }
+  ],
+  "title": "韩系偶像九宫格写真集",
+  "title_aliases": [
+    "韩系偶像九宫格写真集"
+  ]
+}

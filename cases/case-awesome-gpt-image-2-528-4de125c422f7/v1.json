@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 313736,
+      "path": "images/a713b5fd2b55dc7b3935c75b969deb926a9294ff9a7862fbecd348d5f92a3ba0.jpg",
+      "role": "source_example",
+      "sha256": "a713b5fd2b55dc7b3935c75b969deb926a9294ff9a7862fbecd348d5f92a3ba0",
+      "source_path": "data/images/case528.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-528-4de125c422f7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "55c2b1776062ff9aff703dff5973bb05c91064380173ec10140c2e2abad6d0a1",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Use the uploaded image as the primary reference. Transform the person into a cute, hand-drawn anime/chibi character while preserving the original person’s recognizable facial features, hairstyle, outfit, pose, and accessories.\n\nA cute young woman standing on a modern city street at blue hour, surrounded by tall illuminated skyscrapers and festive Christmas decorations. A huge glowing Christmas tree covered in warm golden lights stands directly behind her, creating a magical holiday atmosphere. The street is filled with elegant decorative lights, pedestrians, modern architecture, and soft evening city illumination.\n\nRender the character in a charming Japanese hand-drawn anime/chibi illustration style with expressive large eyes, soft blush on the cheeks, delicate facial details, textured pencil-and-ink outlines, subtle watercolor-like coloring, and slightly imperfect handmade sketch details. Keep the background photorealistic and highly detailed, creating a beautiful contrast between the illustrated character and the real-world environment.\n\nCinematic composition, natural perspective, soft evening lighting, warm Christmas glow, realistic background depth, detailed clothing texture, cozy winter atmosphere, high detail, aesthetically pleasing, vertical portrait composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case528.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "528",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2091401764360896762",
+    "title": "圣诞街景 Chibi 真实背景人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-528"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "圣诞街景 Chibi 真实背景人像",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 304821,
+      "path": "images/6ec4ac6965e2f9e48326ea06c1ec4786c57d6d3efa282719dd10e4bebee08a77.jpg",
+      "role": "source_example",
+      "sha256": "6ec4ac6965e2f9e48326ea06c1ec4786c57d6d3efa282719dd10e4bebee08a77",
+      "source_path": "data/images/case369.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-369-5130d0510f89",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7c6319781e0c5f53d6fa96f1641f1741dc304be49021e0715d32a6688948b6a4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[エリア]の観光エリアマップを画像で作成して",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case369.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "369",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "Architecture"
+      ]
+    },
+    "source_url": "https://x.com/so_ainsight/status/2050354639036654048",
+    "title": "明洞旅游区域地图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-369"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "明洞旅游区域地图",
+  "version": "v1"
+}

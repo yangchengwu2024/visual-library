@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-374-cfc10bacefaa",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case374.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "374",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/berryxia/status/2050226420681757102",
+      "title": "彩色潦草小狗线条风格重绘",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-374",
+      "version": "v1"
+    }
+  ],
+  "title": "彩色潦草小狗线条风格重绘",
+  "title_aliases": [
+    "彩色潦草小狗线条风格重绘"
+  ]
+}

@@ -1,0 +1,6 @@
+__pycache__/
+*.py[cod]
+.library.lock
+.library.lock/
+.cache/
+.sync-work/

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 247857,
+      "path": "images/08a27c3ee0b6a21b9ced0c8e5bf9a91037ebd2195acaf1eab0f3ba6bdc2b3ea1.jpg",
+      "role": "source_example",
+      "sha256": "08a27c3ee0b6a21b9ced0c8e5bf9a91037ebd2195acaf1eab0f3ba6bdc2b3ea1",
+      "source_path": "data/images/case117.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-117-85e19583cec6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eb593b923c110065c800f0e4a176701517257162e60516e98c900c82470ca4da",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A humorous 3D cartoon illustration of a therapy session in a cozy office. On the left, a {argument name=\"patient character\" default=\"sad anthropomorphic avocado half missing its pit\"} sits on a brown leather lounge chair, gesturing with its thin stick-like arms. A large speech bubble above it reads \"{argument name=\"speech text\" default=\"I just feel so empty inside\"}\". On the right, the therapist, an {argument name=\"therapist character\" default=\"anthropomorphic silver spoon\"}, sits in a green armchair, holding a yellow pencil and writing on a notepad labeled \"NOTES\". The room has warm lighting, a beige rug on a wooden floor, and a bookshelf with a tissue box and books, one titled \"REFLECT LISTEN VALIDATE\". On the left wall hangs a framed poster reading \"{argument name=\"poster text\" default=\"IT'S OKAY TO FEEL YOUR FEELINGS\"}\" with a small heart. On the right wall hangs a framed diploma reading \"{argument name=\"diploma text\" default=\"SPOON UNIVERSITY SCHOOL OF LISTENING & VALIDATION\"}\" featuring a small spoon illustration and a gold seal.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case117.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "117",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/nicdunz",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-117"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

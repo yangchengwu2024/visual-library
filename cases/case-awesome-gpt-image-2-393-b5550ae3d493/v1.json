@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 109210,
+      "path": "images/4365d327c050a5e02a210c2cdefe772e047059377a5f42eb74966386ad7a7817.jpg",
+      "role": "source_example",
+      "sha256": "4365d327c050a5e02a210c2cdefe772e047059377a5f42eb74966386ad7a7817",
+      "source_path": "data/images/case393.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-393-b5550ae3d493",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "38eadf9cdab29286bf711196c6c29eb31bcf3cb132e5cd9b2abbb08f638aa659",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "candid portrait of a beautiful young blonde woman, 21 years old, glowing sun-kissed skin, wearing a baby pink velour tracksuit and butterfly clips in her hair, smiling brightly at the camera, golden hour warm light, palm trees, y2k aesthetic, glossy lips",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case393.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "393",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/SiliconBarbie_/status/2051475105403040014",
+    "title": "Y2K 金色时刻人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-393"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Y2K 金色时刻人像",
+  "version": "v1"
+}

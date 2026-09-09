@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 184989,
+      "path": "images/f1c4733a4408d7e3ff48e64550e4dd1f46f9c3686db4095ac4e8fb7c44fef892.jpg",
+      "role": "source_example",
+      "sha256": "f1c4733a4408d7e3ff48e64550e4dd1f46f9c3686db4095ac4e8fb7c44fef892",
+      "source_path": "data/images/case157.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-157-c7cdd985cb4f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "740d8c69408c5f100f3e2ed14b91348e26ad105a405c97c3a54df67933eae048",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"e-commerce product infographic\",\n  \"theme\": \"dark mode with {argument name=\\\"accent color\\\" default=\\\"orange\\\"} accents\",\n  \"product\": {\n    \"brand\": \"{argument name=\\\"brand name\\\" default=\\\"MEAN WELL\\\"}\",\n    \"model\": \"{argument name=\\\"product model\\\" default=\\\"ELG-100-24B\\\"}\",\n    \"description\": \"100W Constant Current LED Driver, rectangular silver metal housing with black cables on both ends and detailed specification label\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"name\": \"Hero Section\",\n        \"elements\": [\n          \"Brand logo top left\",\n          \"Headline: '{argument name=\\\"main headline\\\" default=\\\"Stable Power For Outdoors\\\"}'\",\n          \"Subtext: Wide input voltage, protected housing...\",\n          \"Large angled product shot\",\n          \"Faded '100W' watermark in background\"\n        ]\n      },\n      {\n        \"name\": \"Feature Highlights\",\n        \"count\": 3,\n        \"panels\": [\n          { \"title\": \"Precision Build\", \"visual\": \"Close-up of the specification label\" },\n          { \"title\": \"Secure Connection\", \"visual\": \"Close-up of the cable entry and mounting ear\" },\n          { \"title\": \"Key Features\", \"visual\": \"Angled product shot with 3 callout lines pointing to text: '100~305VAC Input', 'Constant Current', 'IP67 / IP65 Housing'\" }\n        ]\n      },\n      {\n        \"name\": \"Applications\",\n        \"count\": 4,\n        \"panels\": [\n          { \"title\": \"For Street Lighting\", \"visual\": \"Nighttime highway illuminated by streetlights\" },\n          { \"title\": \"For Outdoor Projects\", \"visual\": \"Modern building exterior with architectural landscape lighting\" },\n          { \"title\": \"For Indoor Systems\", \"visual\": \"Modern commercial hallway with linear ceiling lights\" },\n          { \"title\": \"For Dimming Control\", \"visual\": \"Electrical control box with 4 labels: '0-10V', 'PWM', 'RESISTOR', 'DALI'\" }\n        ]\n      },\n      {\n        \"name\": \"Environmental Protection\",\n        \"elements\": [\n          \"Product resting on a wet surface with water droplets and rain effect\",\n          \"Headline: 'Protected Performance'\",\n          \"Description text about indoor/outdoor use and active PFC\",\n          \"Badge: '{argument name=\\\"warranty years\\\" default=\\\"5\\\"}-Year Warranty'\"\n        ]\n      },\n      {\n        \"name\": \"Technical Specifications\",\n        \"elements\": [\n          \"Headline: 'Lighting Power Technology'\",\n          \"4 checkmark bullet points: '100~305VAC Input', 'Active PFC', 'Low Standby <0.5W', '0~10V / PWM / Resistor / DALI'\",\n          \"Product shot glowing on a high-tech circuit board background\"\n        ]\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case157.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "157",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/AmberPromptai",
+    "title": "电商商品展示设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-157"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "电商商品展示设计",
+  "version": "v1"
+}

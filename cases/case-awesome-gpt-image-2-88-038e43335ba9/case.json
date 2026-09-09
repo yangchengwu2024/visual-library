@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-88-038e43335ba9",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case88.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "88",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/A9Quant",
+      "title": "信息图可视化设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-88",
+      "version": "v1"
+    }
+  ],
+  "title": "信息图可视化设计",
+  "title_aliases": [
+    "信息图可视化设计"
+  ]
+}

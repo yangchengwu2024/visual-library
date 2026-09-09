@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 166819,
+      "path": "images/855cdb36a2263fd939bf1ddef267e4c8a7f18dcebe959574ecdb22053b55a1b3.jpg",
+      "role": "source_example",
+      "sha256": "855cdb36a2263fd939bf1ddef267e4c8a7f18dcebe959574ecdb22053b55a1b3",
+      "source_path": "data/images/case492.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-492-5ae676828ad8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6dca858bcec393d7fbfb074036d313a076379cd2471acfdf1711406db3849f5c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a hyper-realistic luxury fashion portrait inspired by premium fashion-week editorials.\n\nIMPORTANT:\nGenerate ONLY ONE SINGLE VERTICAL IMAGE.\n\nSTYLE:\nLuxury fashion realism.\nProfessional couture photography.\nPremium editorial atmosphere.\n\nMAIN CONCEPT:\nA beautiful adult Asian fashion model photographed inside a luxury hotel suite.\n\nOUTFIT:\nElegant black couture mini dress.\nLuxury embroidered details.\nPremium designer fashion aesthetic.\n\nBACKGROUND:\nLuxury hotel interior.\nSoft neutral decor.\nElegant cinematic depth blur.\n\nLIGHTING:\nSoft luxury window lighting.\nProfessional fashion-editorial reflections.\nNatural skin texture.\n\nMOOD:\nBold.\nElegant.\nHigh-fashion energy.\n\nQUALITY:\nUltra realistic native 4K HDR realism.\nProfessional magazine quality.\nVertical 9:16.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case492.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "492",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/xRahultripathi/status/2062100757923733617",
+    "title": "黑色高定酒店套房写真",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-492"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "黑色高定酒店套房写真",
+  "version": "v1"
+}

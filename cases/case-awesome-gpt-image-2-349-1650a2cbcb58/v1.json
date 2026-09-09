@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 237162,
+      "path": "images/436fe1d18b358061b43d83005ee2a5418491f39578dbc5c2bfccf7b473d5118f.jpg",
+      "role": "source_example",
+      "sha256": "436fe1d18b358061b43d83005ee2a5418491f39578dbc5c2bfccf7b473d5118f",
+      "source_path": "data/images/case349.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-349-1650a2cbcb58",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "28d1ec1ad61cd62bd37d4da4bf767830a4202cd05eac05fb423168ba0aae0015",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Cinematic sports fashion collage, 3-panel layout, top panel large hero shot of a female tennis athlete sitting confidently on an oversized tilted tennis racket, deep green luxury court backdrop, reflective glossy floor, bold oversized typography “PRECISION” in background, dramatic editorial lighting, ultra-clean composition, high-fashion athletic aesthetic.\n\nBottom left panel: close-up portrait of the athlete with glowing skin, minimal makeup, soft light, text “FOCUS” and “FUEL” placed subtly.\n\nBottom right panel: full-body crouched pose holding racket, strong posture, text “DISCIPLINE DRIVES DOMINANCE”, grid-based layout lines, premium sports branding feel.\n\nConsistent color grading, dark green and white palette, sharp details, cinematic shadows, luxury campaign style, 1:1 aspect ratio.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case349.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "349",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/AIwithkhan/status/2048606301039820821",
+    "title": "运动时尚三联 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-349"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "运动时尚三联 Campaign",
+  "version": "v1"
+}

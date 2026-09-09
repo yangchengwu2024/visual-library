@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-127-9b57e85a51c2",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "styles": [
+      "插画",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case127.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "127",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Illustration",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/studiomasakaki",
+      "title": "建筑空间场景图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-127",
+      "version": "v1"
+    }
+  ],
+  "title": "建筑空间场景图",
+  "title_aliases": [
+    "建筑空间场景图"
+  ]
+}

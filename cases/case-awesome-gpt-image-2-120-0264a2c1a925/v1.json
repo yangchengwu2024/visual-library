@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 283236,
+      "path": "images/809990b45791fd5f476c941d704225c799f7c325c058fd59662f0fbc86c81934.jpg",
+      "role": "source_example",
+      "sha256": "809990b45791fd5f476c941d704225c799f7c325c058fd59662f0fbc86c81934",
+      "source_path": "data/images/case120.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-120-0264a2c1a925",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cd57ce665fd94724a162ba66f75e4a936049f330425ddc51dceab57a80937bbd",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A dynamic anime illustration of a girl with spiky {argument name=\"hair color\" default=\"blonde\"} hair tied in a high ponytail with a black bow, striking teal eyes, and a {argument name=\"outfit style\" default=\"dark purple and black magical uniform with gold trim and diamond gems\"}. She is in an intense crouching superhero landing pose, one hand pressed to the ground and the other raised, casting {argument name=\"magic color\" default=\"glowing purple\"} magic circles. She is shattering through a glass barrier, with sharp, jagged glass shards flying outward toward the viewer. Through the broken frame behind her, a {argument name=\"background scene\" default=\"stylized silhouette of a gothic city with tall spires against a vibrant purple and orange sunset sky\"} is visible. The artwork features {argument name=\"art style\" default=\"sharp angles, high contrast cel-shading, and vibrant colors\"}.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case120.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "120",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/UNIBRACITY",
+    "title": "建筑空间场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-120"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景图",
+  "version": "v1"
+}

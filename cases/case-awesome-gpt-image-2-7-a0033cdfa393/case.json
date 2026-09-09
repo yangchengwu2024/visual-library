@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-7-a0033cdfa393",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "时尚",
+      "食品饮品",
+      "叙事"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Fashion",
+        "Food",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case7.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "7",
+      "source_tags": {
+        "scenes": [
+          "Fashion",
+          "Food",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-7",
+      "title": "应用界面样机图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-7",
+      "version": "v1"
+    }
+  ],
+  "title": "应用界面样机图",
+  "title_aliases": [
+    "应用界面样机图"
+  ]
+}

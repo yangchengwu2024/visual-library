@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-340-6ac3a66b1f27",
+  "classification": {
+    "categories": [
+      "场景与叙事"
+    ],
+    "scenes": [
+      "历史"
+    ],
+    "source_category": "Scenes & Storytelling",
+    "source_tags": {
+      "scenes": [
+        "History"
+      ],
+      "styles": [
+        "Scenes"
+      ]
+    },
+    "styles": [
+      "Scenes"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case340.png"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "340",
+      "source_tags": {
+        "scenes": [
+          "History"
+        ],
+        "styles": [
+          "Scenes"
+        ]
+      },
+      "source_url": "https://x.com/xiaofenggan",
+      "title": "彼岸花丛中的红妆女子",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-340",
+      "version": "v1"
+    }
+  ],
+  "title": "彼岸花丛中的红妆女子",
+  "title_aliases": [
+    "彼岸花丛中的红妆女子"
+  ]
+}

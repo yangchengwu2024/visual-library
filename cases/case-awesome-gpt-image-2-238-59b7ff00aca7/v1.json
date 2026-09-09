@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 232522,
+      "path": "images/de2e562cb457eff2c906428d7d7799117a3ce89bf3b400f85789b8a65760ca4c.jpg",
+      "role": "source_example",
+      "sha256": "de2e562cb457eff2c906428d7d7799117a3ce89bf3b400f85789b8a65760ca4c",
+      "source_path": "data/images/case238.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-238-59b7ff00aca7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "704c0279758dc2f9afb1bd0c27da96fb2a997cfe8d9cf7e9a851ddd6f2ea8b46",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一幅超现实主义数字插画风格，采用低角度仰拍视角。画面描绘了一条巨型彩色锦鲤遨游在梦幻般的星云中，四周环绕着色彩鲜艳的星云与气泡。\n画面中央还站着一个小人，背对观众，神情平静地仰望空中这条巨大的锦鲤，锦鲤头向下看着小人。\n整体画面呈现出强烈的大小对比，氛围空灵又梦幻。比例9:16\n\n[English]\nA surrealist digital illustration style, adopting a low-angle upward perspective. The picture depicts a giant colorful koi swimming in a dreamy nebula, surrounded by colorful nebulae and bubbles. In the center of the picture stands a small figure, with their back to the audience, calmly looking up at this huge koi in the air, and the koi is looking down at the small figure. The overall picture presents a strong size contrast, and the atmosphere is ethereal and dreamy. Aspect ratio 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case238.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "238",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai/status/2045875219307655337",
+    "title": "星云巨鲤与小人的奇幻对话",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-238"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "星云巨鲤与小人的奇幻对话",
+  "version": "v1"
+}

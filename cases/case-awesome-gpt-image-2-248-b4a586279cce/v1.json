@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 330369,
+      "path": "images/3b967342a6d7bd7747983f6e1d5b2cdfba4a56df1cebc553b776de2f49b5586e.jpg",
+      "role": "source_example",
+      "sha256": "3b967342a6d7bd7747983f6e1d5b2cdfba4a56df1cebc553b776de2f49b5586e",
+      "source_path": "data/images/case248.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-248-b4a586279cce",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "134fc4dac2f76840b896f55980586f26d1892f66c6d6a9929713ab8865094ce5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n为我生成景德镇青花瓷的详细解说图，配上详细的中文知识解析\n\n[English]\nGenerate a detailed explanatory diagram of Jingdezhen blue and white porcelain, accompanied by detailed Chinese knowledge analysis.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case248.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "248",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Infographic"
+      ]
+    },
+    "source_url": "https://x.com/joshesye/status/2045764695827562686",
+    "title": "景德镇青花瓷全景解说图谱",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-248"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "景德镇青花瓷全景解说图谱",
+  "version": "v1"
+}

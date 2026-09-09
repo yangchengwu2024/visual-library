@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-481-7cff58dd928f",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "社媒",
+      "时尚"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case481.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "481",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Social",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Taaruk_/status/2060214163591614900",
+      "title": "韩系春日 scrapbook 海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-481",
+      "version": "v1"
+    }
+  ],
+  "title": "韩系春日 scrapbook 海报",
+  "title_aliases": [
+    "韩系春日 scrapbook 海报"
+  ]
+}

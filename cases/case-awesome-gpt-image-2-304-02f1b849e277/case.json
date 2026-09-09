@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-304-02f1b849e277",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Illustration",
+        "Character",
+        "3D"
+      ]
+    },
+    "styles": [
+      "插画",
+      "人物与角色",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case304.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "304",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Illustration",
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2045506567735558336",
+      "title": "荧光蓝穷奇新中式山水画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-304",
+      "version": "v1"
+    }
+  ],
+  "title": "荧光蓝穷奇新中式山水画",
+  "title_aliases": [
+    "荧光蓝穷奇新中式山水画"
+  ]
+}

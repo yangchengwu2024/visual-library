@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 422665,
+      "path": "images/6d8833f0f4d15ccb7d469951ef4bbb09f4eb1ed189c2510696acece731adf3a3.jpg",
+      "role": "source_example",
+      "sha256": "6d8833f0f4d15ccb7d469951ef4bbb09f4eb1ed189c2510696acece731adf3a3",
+      "source_path": "data/images/case244.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-244-47dbc05d8bff",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "133e97c9a5751d13f9d86d92828e3e9b2654e0b87d11fdd3afad104d57f17434",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n设计一套杜蕾斯和茶颜悦色联名的宣传物料\n\n[English]\nDesign a set of promotional materials for a Durex and Chayan Yuese co-branding campaign.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case244.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "244",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "杜蕾斯茶颜悦色联名海报设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-244"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "杜蕾斯茶颜悦色联名海报设计",
+  "version": "v1"
+}

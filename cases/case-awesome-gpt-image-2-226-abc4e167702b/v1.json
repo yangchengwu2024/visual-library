@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 246152,
+      "path": "images/b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b.jpg",
+      "role": "source_example",
+      "sha256": "b02b83a77956a51f7f00133a911fdc6c21a174da2fb9440d5532db9a40e17e4b",
+      "source_path": "data/images/case226.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-226-abc4e167702b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "28b1d2a30052ed74319fe565be759490b7b36ebf9810703833b8179e5e9a8438",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n根据上传图片的风格，生成明朝各个皇帝的头像，头像下面有他们的谥号和名字\n\n[English]\nBased on the style of the uploaded image, generate portraits of the emperors of the Ming Dynasty, with their posthumous titles and names below the portraits",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case226.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "226",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai/status/2045071977279635962",
+    "title": "古风明朝帝王群像长卷",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-226"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "古风明朝帝王群像长卷",
+  "version": "v1"
+}

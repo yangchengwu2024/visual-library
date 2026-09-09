@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-264-a7ce2d1f3930",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "商业"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Products"
+      ]
+    },
+    "styles": [
+      "商品"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case264.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "264",
+      "source_tags": {
+        "scenes": [
+          "Commerce"
+        ],
+        "styles": [
+          "Products"
+        ]
+      },
+      "source_url": "https://x.com/midori_tatsuta/status/2045378877363798279",
+      "title": "美妆产品广告图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-264",
+      "version": "v1"
+    }
+  ],
+  "title": "美妆产品广告图",
+  "title_aliases": [
+    "美妆产品广告图"
+  ]
+}

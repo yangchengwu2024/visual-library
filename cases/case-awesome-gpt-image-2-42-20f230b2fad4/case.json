@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-42-20f230b2fad4",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case42.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "42",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/blanplan",
+      "title": "写实摄影风格图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-42",
+      "version": "v1"
+    }
+  ],
+  "title": "写实摄影风格图",
+  "title_aliases": [
+    "写实摄影风格图"
+  ]
+}

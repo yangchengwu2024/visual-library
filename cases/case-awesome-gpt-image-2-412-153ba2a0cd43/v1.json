@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 344681,
+      "path": "images/69286fd9ebf676114e28caac9a56465d55a36a0a6131a46711ab5e4019ee6cc9.jpg",
+      "role": "source_example",
+      "sha256": "69286fd9ebf676114e28caac9a56465d55a36a0a6131a46711ab5e4019ee6cc9",
+      "source_path": "data/images/case412.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-412-153ba2a0cd43",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "41943720ea7c65c7b92f8949cfa51113d4b95e59a6b89f024952b3b88a3c3dee",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Use reference image as style guide.\nSurreal minimalist fashion editorial photography with vibrant oversized colorful buttons as main visual theme (cyan, orange, yellow, red palette), glossy 3D surface design, clean studio lighting, ultra-smooth gradients, and high-end commercial fashion look.\nSplit-frame composition:\n\nLeft side: full-body female model standing from top to bottom, wearing bold minimalist fashion outfit inspired by reference style, confident pose, clean studio background filled with oversized colorful buttons, cinematic lighting, soft shadows, ultra-clean composition.\n\nRight side (vertically split into two parts):\nTop-right: half-body female model, different face, different pose, different outfit variation inspired by same button aesthetic, different background color mood.\nBottom-right: another half-body female model, completely different expression and pose, different styling, different background tone, maintaining same surreal button universe aesthetic.\n\nEach section visually distinct but unified by the colorful button-inspired design language, glossy surfaces, soft studio reflections, and fashion magazine editorial feel.\nHyper-realistic, cinematic lighting, ultra-clean composition, high-end luxury campaign style, depth, contrast, 8k, 1:1 aspect ratio --style raw --v 6 --ar 1:1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case412.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "412",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Mind_Boticni/status/2053082199436759258",
+    "title": "彩色按钮时尚 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-412"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "彩色按钮时尚 Campaign",
+  "version": "v1"
+}

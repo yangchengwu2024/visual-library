@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 250015,
+      "path": "images/f01d5ecac5ecc1e3435279f88a816f03117285c48395d1429c3dd798c133ffe3.jpg",
+      "role": "source_example",
+      "sha256": "f01d5ecac5ecc1e3435279f88a816f03117285c48395d1429c3dd798c133ffe3",
+      "source_path": "data/images/case123.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-123-5edf0f16a1d5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9dfe0d68648cfb1925d6c37eeb2be0c39e825040db0350a3f91b4cb5666990d9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"anime character reference sheet\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\n    \"appearance\": \"young warrior with long brown hair, wearing samurai-inspired armor, {argument name=\\\"main color\\\" default=\\\"red\\\"} chest plate and guards, {argument name=\\\"secondary color\\\" default=\\\"navy blue\\\"} pleated hakama, white short cape\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"title\": \"{argument name=\\\"character name\\\" default=\\\"真田大助\\\"}\",\n      \"subtitle\": \"{argument name=\\\"character concept\\\" default=\\\"戦国時代を舞台にした物語の主人公。日英クォーターの若き武将。\\\"}\",\n      \"badge\": \"設定資料\"\n    },\n    \"right_side\": {\n      \"main_portrait\": \"large full-body standing pose, confident smile\",\n      \"background_elements\": {\n        \"emblem\": \"six-coin crest\",\n        \"quote\": \"{argument name=\\\"catchphrase\\\" default=\\\"この国を守る。その誇りと共に。\\\"}\",\n        \"scenery\": \"monochrome Japanese castle with army banners at the bottom right\"\n      }\n    },\n    \"sections\": [\n      {\n        \"title\": \"プロフィール\",\n        \"position\": \"top-left\",\n        \"content\": \"table with 6 rows and descriptive text\"\n      },\n      {\n        \"title\": \"三面図\",\n        \"position\": \"mid-left\",\n        \"count\": 3,\n        \"labels\": [\"正面\", \"側面\", \"背面\"]\n      },\n      {\n        \"title\": \"表情差分\",\n        \"position\": \"top-center\",\n        \"count\": 6,\n        \"labels\": [\"通常\", \"微笑み\", \"真剣\", \"怒り\", \"驚き\", \"考え中\"]\n      },\n      {\n        \"title\": \"衣装・装備詳細\",\n        \"position\": \"bottom-left\",\n        \"count\": 9,\n        \"labels\": [\"胸当て\", \"肩当て\", \"腕甲(籠手)\", \"脚甲(脛当て・膝当て)\", \"革靴\", \"白マント(短)\", \"帯\", \"袴/着物部分\", \"打刀\"]\n      },\n      {\n        \"title\": \"カラーパレット\",\n        \"position\": \"bottom-center\",\n        \"count\": 8,\n        \"labels\": [\"真田赤\", \"濃紺\", \"金\", \"白\", \"茶\", \"茶褐色\", \"肌色\", \"銀\"]\n      },\n      {\n        \"title\": \"世界観\",\n        \"position\": \"bottom-center-right\",\n        \"content\": \"paragraph of text describing the setting\"\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case123.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "123",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Luvune",
+    "title": "插画艺术创作图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-123"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "插画艺术创作图",
+  "version": "v1"
+}

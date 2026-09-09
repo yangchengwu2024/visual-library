@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 239750,
+      "path": "images/640a0151073c890d40bca8a3a0fe23fc62510068b2e2512d61ea738abceb74a8.jpg",
+      "role": "source_example",
+      "sha256": "640a0151073c890d40bca8a3a0fe23fc62510068b2e2512d61ea738abceb74a8",
+      "source_path": "data/images/case59.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-59-5b0ccbccbbf9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "06647e90ed6b50508c5b18fa2278fd416b6da3d365683e81ff3df452574280ce",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"cinematic promotional poster\",\n  \"style\": \"3D CGI animation style, highly detailed, dramatic lighting, caricature characters\",\n  \"characters\": [\n    { \"id\": \"char1\", \"description\": \"large shirtless man with long black hair, beard, and glasses\" },\n    { \"id\": \"char2\", \"description\": \"elderly woman in a kimono with white hair tied up\" },\n    { \"id\": \"char3\", \"description\": \"small man with a topknot, glasses, mustache, wearing a bright green sweater\" }\n  ],\n  \"layout\": {\n    \"panels\": [\n      {\n        \"position\": \"top\",\n        \"scene\": \"wide shot of a town street with buildings and a city skyline in the background\",\n        \"characters_present\": [\"char1\", \"char2\", \"char3\"],\n        \"text_overlays\": [\n          \"{argument name=\\\"intro text\\\" default=\\\"ある日ーー\\\"}\",\n          \"いつもの日常がーー\",\n          \"こんばんは\"\n        ]\n      },\n      {\n        \"position\": \"middle left\",\n        \"scene\": \"close-up of char1 looking shocked against a dark fiery background\",\n        \"text_overlays\": [\n          \"{argument name=\\\"shocked text\\\" default=\\\"私が出禁？\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"middle right\",\n        \"scene\": \"close-up of char2 looking angry and pointing against a stormy sea background\",\n        \"text_overlays\": [\n          \"{argument name=\\\"angry text\\\" default=\\\"海を荒らすな！\\\"}\"\n        ]\n      },\n      {\n        \"position\": \"bottom\",\n        \"scene\": \"char3 pointing, char1 screaming, a second instance of char3 falling backwards, and char2 sitting angrily against a fiery chaotic background\",\n        \"text_overlays\": [\n          \"全然出ない！\"\n        ],\n        \"bottom_titles\": [\n          \"{argument name=\\\"main title\\\" default=\\\"パチンコ軍団親のイメチェン\\\"}\",\n          \"{argument name=\\\"subtitle\\\" default=\\\"LINEスタンプ販売中\\\"}\"\n        ]\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case59.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "59",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Travel",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/X64zzotSKCGtYmt",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-59"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

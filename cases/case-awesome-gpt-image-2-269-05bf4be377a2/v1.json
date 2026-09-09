@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 121467,
+      "path": "images/71657fe95cafda225efbaa669acc9542096f0e2c79d9ad15471713ee2ceb9e52.jpg",
+      "role": "source_example",
+      "sha256": "71657fe95cafda225efbaa669acc9542096f0e2c79d9ad15471713ee2ceb9e52",
+      "source_path": "data/images/case269.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-269-05bf4be377a2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "988a582da3e1eee39abf82deabb5a3a6289a5ae603bee3c0bb654d9826a76481",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成视频号内容截图，主题：中老年不要盲目催婚，iPhone尺寸\n\n[English]\nGenerate a screenshot of WeChat Channels content, theme: middle-aged and elderly people should not blindly urge marriage, iPhone size",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case269.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "269",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2045373105041007013",
+    "title": "拒绝盲目催婚的暖心视频号截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-269"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "拒绝盲目催婚的暖心视频号截图",
+  "version": "v1"
+}

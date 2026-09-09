@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 332790,
+      "path": "images/2ff6d852e958b55065e5c2af8936dccf35803dc7749be30f8e6426936126922d.jpg",
+      "role": "source_example",
+      "sha256": "2ff6d852e958b55065e5c2af8936dccf35803dc7749be30f8e6426936126922d",
+      "source_path": "data/images/case252.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-252-5d5f58486c11",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "45822ff4b6b64aef768deb561e056866179b451b09493abcae1f45312f61c9fd",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一系列五一劳动节的手举牌设计\n\n[English]\nGenerate a series of hand-held sign designs for May Day Labor Day",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case252.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "252",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "五一劳动节手举牌创意设计集",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-252"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "五一劳动节手举牌创意设计集",
+  "version": "v1"
+}

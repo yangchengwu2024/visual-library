@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 375434,
+      "path": "images/208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce.jpg",
+      "role": "source_example",
+      "sha256": "208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce",
+      "source_path": "data/images/case166.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-166-ae91d0e692c3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a8414e4301d1ff97f2fa1280ab39b0667da1545596018c31c5b0bccdf8cbf2fe",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成圣斗士星矢12个黄金圣斗士的12宫格卡牌图片，每张卡牌上写上对应的中文名，每行4个，宽高比16:9。\n\n[English]\nGenerate a 12-grid card image of the 12 Gold Saints from Saint Seiya, with the corresponding Chinese name written on each card, 4 per row, aspect ratio 16:9.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case166.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "166",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/songguoxiansen/status/2046476566537080849",
+    "title": "十二黄金圣斗士卡牌合集",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-166"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "十二黄金圣斗士卡牌合集",
+  "version": "v1"
+}

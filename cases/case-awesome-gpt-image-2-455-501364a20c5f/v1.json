@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 101020,
+      "path": "images/19d3c4956c75248dc723781060c88486d3f125b9eb6d170ee40cf94043f66277.jpg",
+      "role": "source_example",
+      "sha256": "19d3c4956c75248dc723781060c88486d3f125b9eb6d170ee40cf94043f66277",
+      "source_path": "data/images/case455.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-455-501364a20c5f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "373eb4d44440fc48fcffa488c23201906019928489e7d158e1ba5b6ca208159f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Hyper-realistic premium product advertisement: an oversized futuristic comfort clog sits on a smooth glossy reflective floor. A modern model in soft neutral-toned athleisure (off-white / beige) leans casually against the giant shoe with a relaxed, confident posture.\n\nBackdrop: clean gradient flowing from soft sky blue into subtle lavender, with massive bold sans-serif typography reading \"STEP INTO EASE\" stretched vertically, partially tucked behind the subject.\n\nLighting: high-end studio lighting, soft highlights, gentle floor reflections, and a subtle rim light tracing the model and the product for depth.\n\nComposition: editorial magazine layout, subject perfectly centered, generous negative space, luxury campaign mood.\n\nSmall minimal copy at the bottom: \"Designed for all-day comfort. Made to move with you.\"\n\nStyle: ultra-clean Apple-style minimalism crossed with a fashion campaign, hyper-realistic, premium commercial photography, 8K, razor-sharp detail.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case455.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "455",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/iamaiistudio/status/2057281549851377866",
+    "title": "巨型舒适洞洞鞋 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-455"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "巨型舒适洞洞鞋 Campaign",
+  "version": "v1"
+}

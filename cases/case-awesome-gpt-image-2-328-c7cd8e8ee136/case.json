@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-328-c7cd8e8ee136",
+  "classification": {
+    "categories": [
+      "建筑与空间"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Architecture & Spaces",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "商品"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case328.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "328",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/saniaspeaks_/status/2009834337043394622",
+      "title": "俯拍巨女城景自拍",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-328",
+      "version": "v1"
+    }
+  ],
+  "title": "俯拍巨女城景自拍",
+  "title_aliases": [
+    "俯拍巨女城景自拍"
+  ]
+}

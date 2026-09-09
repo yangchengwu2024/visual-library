@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 244810,
+      "path": "images/5b0011e2c34528db423512e81e08e32a2e1a96925aaf3630bee52a360b233765.jpg",
+      "role": "source_example",
+      "sha256": "5b0011e2c34528db423512e81e08e32a2e1a96925aaf3630bee52a360b233765",
+      "source_path": "data/images/case253.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-253-184604fce73e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4e7edf346584f81155776bbdbf072554dc7506182e582c1f748f01bf2d987e2d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张2026年谷雨节气的海报\n\n[English]\nGenerate a poster for the Guyu solar term in 2026",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case253.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "253",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "2026谷雨节气唯美海报设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-253"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "2026谷雨节气唯美海报设计",
+  "version": "v1"
+}

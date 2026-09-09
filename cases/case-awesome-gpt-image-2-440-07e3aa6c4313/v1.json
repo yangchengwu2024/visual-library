@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 378345,
+      "path": "images/37cea37e9a3199c424acac966d1ec9709720d455ad36f6ed4d5d308db2fb881b.jpg",
+      "role": "source_example",
+      "sha256": "37cea37e9a3199c424acac966d1ec9709720d455ad36f6ed4d5d308db2fb881b",
+      "source_path": "data/images/case440.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-440-07e3aa6c4313",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8c2ca77ad8a12cfcc7fc03ab84caa7c7b4475569904f9fb68f2209dadcc33ebd",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a raw smartphone photo of a laptop screen, not a screenshot. Aspect ratio 3:4, high-angle downward POV from someone standing over a desk at night. The laptop display fills most of the frame, with a narrow strip of black keyboard and trackpad visible at the bottom. Strong realism: visible RGB subpixel grid, subtle moire bands, small dust specks, faint fingerprints, uneven glass reflections, handheld phone noise, slight perspective skew, no studio polish. macOS dark mode. Background app: Apple Notes with a late-night study note titled \"Design Critique\" and short visible bullets: \"layout\", \"lighting\", \"source links\", \"ship tomorrow\". Foreground app: FaceTime live preview window floating lower-right, showing a fictional adult man in his 20s sitting at a cluttered desk, hoodie, tired but amused expression, warm desk lamp behind him, books and sticky notes in the room. A second small Finder window with image thumbnails is partly visible behind it. Make it feel like an accidental real phone photo of a working laptop screen. No real-person likeness, no beauty filter, no perfect UI, no screenshot, no watermark, no cartoon, no 3D render.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case440.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "440",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/kaanakz/status/2056290465503171000",
+    "title": "手机拍摄 FaceTime 工作屏幕",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-440"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "手机拍摄 FaceTime 工作屏幕",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 1532963,
+      "path": "images/71bf9061a89be884f4173c8d043b73318e0cfb63b95c78085ad7bbe429c9383a.png",
+      "role": "source_example",
+      "sha256": "71bf9061a89be884f4173c8d043b73318e0cfb63b95c78085ad7bbe429c9383a",
+      "source_path": "data/images/case330.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-330-7e056b4166ae",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "408a5801ec470bba2f623a4d26815ff8b0b93f6ac99576a96d5624d2ba5a1a5e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "生成一张直播间的图片，直播间氛围是月下美女跳舞的画面，直播间有很多人评论",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case330.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "330",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-330",
+    "title": "月下美女直播画面",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-330"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "月下美女直播画面",
+  "version": "v1"
+}

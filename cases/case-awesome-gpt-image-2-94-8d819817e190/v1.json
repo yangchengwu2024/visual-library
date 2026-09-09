@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 242812,
+      "path": "images/441f4e2b2438b41bc3c7688c3da7e1e0890a44807620ca898966e167e1a95f4d.jpg",
+      "role": "source_example",
+      "sha256": "441f4e2b2438b41bc3c7688c3da7e1e0890a44807620ca898966e167e1a95f4d",
+      "source_path": "data/images/case94.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-94-8d819817e190",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "34467ee4014a3a84d2c14582bc3d96cadf47554783abde894b609e0dcdbd0643",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"VTuber stream thumbnail\",\n  \"theme\": \"pastel pink, soft, cute, lace, ribbons, hearts, bunny motif\",\n  \"character\": {\n    \"position\": \"right side, waist-up\",\n    \"appearance\": \"anime girl, {argument name=\\\"hair color\\\" default=\\\"pastel pink\\\"} long wavy hair, large grey eyes, blush, pink heart earrings\",\n    \"accessories\": \"white bunny ears, large pink bow on head\",\n    \"outfit\": \"white frilly dress with lace, large pink ribbon bow at collar with heart gem\"\n  },\n  \"layout\": {\n    \"background\": \"soft pink with subtle sparkles, lace patterns, floating hearts\",\n    \"text_elements\": [\n      {\n        \"type\": \"main title\",\n        \"position\": \"top left\",\n        \"style\": \"large stylized pink text with white outline\",\n        \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\"\n      },\n      {\n        \"type\": \"speech bubble\",\n        \"position\": \"above main title\",\n        \"text\": \"まったり\"\n      },\n      {\n        \"type\": \"circular badge\",\n        \"position\": \"top right\",\n        \"details\": \"lace-edged with small pink bow\",\n        \"text\": \"きてくれてありがとう♡\"\n      },\n      {\n        \"type\": \"heart badge\",\n        \"position\": \"bottom right\",\n        \"details\": \"large lace-edged heart\",\n        \"text\": \"みんなとおしゃべりできるの楽しみにしてるね♡\"\n      }\n    ],\n    \"list_section\": {\n      \"position\": \"bottom left\",\n      \"count\": 3,\n      \"style\": \"horizontal pill-shaped banners with lace edges, each featuring a pink heart with white bunny ears and a tiny bow on the left\",\n      \"items\": [\n        \"{argument name=\\\"list item 1\\\" default=\\\"初見さん〇\\\"}\",\n        \"{argument name=\\\"list item 2\\\" default=\\\"ポイント回収〇\\\"}\",\n        \"{argument name=\\\"list item 3\\\" default=\\\"ROM〇\\\"}\"\n      ]\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case94.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "94",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/sayaka_aiart",
+    "title": "绘画艺术风格图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-94"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "绘画艺术风格图",
+  "version": "v1"
+}

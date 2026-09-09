@@ -1,0 +1,266 @@
+{
+  "version": 1,
+  "categories": [
+    {
+      "id": "cat-ui",
+      "value": "UI & Interfaces",
+      "anchor": "cat-ui",
+      "templateAnchor": "tpl-ui",
+      "cover": "/images/category-covers/ui.jpg",
+      "title": {
+        "en": "UI & Interfaces",
+        "zh": "UI 与界面"
+      },
+      "description": {
+        "en": "Apps, websites, dashboards, social screenshots, and product interfaces.",
+        "zh": "App、网页、仪表盘、社媒截图与产品界面。"
+      }
+    },
+    {
+      "id": "cat-infographic",
+      "value": "Charts & Infographics",
+      "anchor": "cat-infographic",
+      "templateAnchor": "tpl-infographic",
+      "cover": "/images/category-covers/infographic.jpg",
+      "title": {
+        "en": "Charts & Infographics",
+        "zh": "图表与信息可视化"
+      },
+      "description": {
+        "en": "Infographics, knowledge maps, technical explainers, and structured diagrams.",
+        "zh": "信息图、知识图谱、技术解释与结构化图解。"
+      }
+    },
+    {
+      "id": "cat-poster",
+      "value": "Posters & Typography",
+      "anchor": "cat-poster",
+      "templateAnchor": "tpl-poster",
+      "cover": "/images/category-covers/poster.jpg",
+      "title": {
+        "en": "Posters & Typography",
+        "zh": "海报与排版"
+      },
+      "description": {
+        "en": "Event posters, covers, type-driven visuals, and strong layout compositions.",
+        "zh": "活动海报、封面、字体视觉和强排版画面。"
+      }
+    },
+    {
+      "id": "cat-product",
+      "value": "Products & E-commerce",
+      "anchor": "cat-product",
+      "templateAnchor": "tpl-product",
+      "cover": "/images/category-covers/product.jpg",
+      "title": {
+        "en": "Products & E-commerce",
+        "zh": "商品与电商"
+      },
+      "description": {
+        "en": "Product shots, detail pages, packaging, selling points, and ads.",
+        "zh": "商品图、详情页、包装卖点和商业广告。"
+      }
+    },
+    {
+      "id": "cat-brand",
+      "value": "Brand & Logos",
+      "anchor": "cat-brand",
+      "templateAnchor": "tpl-brand",
+      "cover": "/images/category-covers/brand.jpg",
+      "title": {
+        "en": "Brand & Logos",
+        "zh": "品牌与标志"
+      },
+      "description": {
+        "en": "Logos, identity systems, brand touchpoints, and campaign visuals.",
+        "zh": "Logo、VI、品牌触点和 Campaign 视觉系统。"
+      }
+    },
+    {
+      "id": "cat-architecture",
+      "value": "Architecture & Spaces",
+      "anchor": "cat-architecture",
+      "templateAnchor": "tpl-architecture",
+      "cover": "/images/category-covers/architecture.jpg",
+      "title": {
+        "en": "Architecture & Spaces",
+        "zh": "建筑与空间"
+      },
+      "description": {
+        "en": "Architecture renders, interiors, city maps, and spatial concepts.",
+        "zh": "建筑表现、室内空间、城市地图和空间概念。"
+      }
+    },
+    {
+      "id": "cat-photo",
+      "value": "Photography & Realism",
+      "anchor": "cat-photo",
+      "templateAnchor": "tpl-photo",
+      "cover": "/images/category-covers/photo.jpg",
+      "title": {
+        "en": "Photography & Realism",
+        "zh": "摄影与写实"
+      },
+      "description": {
+        "en": "Portraits, phone photography, film texture, and commercial photography.",
+        "zh": "人像、手机纪实、胶片质感和商业摄影。"
+      }
+    },
+    {
+      "id": "cat-illustration",
+      "value": "Illustration & Art",
+      "anchor": "cat-illustration",
+      "templateAnchor": "tpl-illustration",
+      "cover": "/images/category-covers/illustration.jpg",
+      "title": {
+        "en": "Illustration & Art",
+        "zh": "插画与艺术"
+      },
+      "description": {
+        "en": "Illustration, art styles, material experiments, and decorative images.",
+        "zh": "插画、艺术风格、材质实验和装饰画面。"
+      }
+    },
+    {
+      "id": "cat-character",
+      "value": "Characters & People",
+      "anchor": "cat-character",
+      "templateAnchor": "tpl-character",
+      "cover": "/images/category-covers/character.jpg",
+      "title": {
+        "en": "Characters & People",
+        "zh": "人物与角色"
+      },
+      "description": {
+        "en": "Character design, pose references, cards, and 3D toys.",
+        "zh": "角色设定、动作参考、卡牌和 3D 玩具。"
+      }
+    },
+    {
+      "id": "cat-scene",
+      "value": "Scenes & Storytelling",
+      "anchor": "cat-scene",
+      "templateAnchor": "tpl-scene",
+      "cover": "/images/category-covers/scene.jpg",
+      "title": {
+        "en": "Scenes & Storytelling",
+        "zh": "场景与叙事"
+      },
+      "description": {
+        "en": "Storyboards, narrative scenes, livestream frames, and worldbuilding.",
+        "zh": "分镜、故事场景、直播画面和世界观叙事。"
+      }
+    },
+    {
+      "id": "cat-history",
+      "value": "History & Classical Themes",
+      "anchor": "cat-history",
+      "templateAnchor": "tpl-history",
+      "cover": "/images/category-covers/history.jpg",
+      "title": {
+        "en": "History & Classical Themes",
+        "zh": "历史与古风题材"
+      },
+      "description": {
+        "en": "Classical scrolls, historical figures, traditional themes, and poetry visuals.",
+        "zh": "古风长卷、历史人物、传统题材和诗词画面。"
+      }
+    },
+    {
+      "id": "cat-document",
+      "value": "Documents & Publishing",
+      "anchor": "cat-document",
+      "templateAnchor": "tpl-document",
+      "cover": "/images/category-covers/document.jpg",
+      "title": {
+        "en": "Documents & Publishing",
+        "zh": "文档与出版物"
+      },
+      "description": {
+        "en": "White papers, manuals, encyclopedic plates, and publishing layouts.",
+        "zh": "白皮书、手册、百科图鉴和出版页设计。"
+      }
+    },
+    {
+      "id": "cat-other",
+      "value": "Other Use Cases",
+      "anchor": "cat-other",
+      "templateAnchor": "tpl-other",
+      "cover": "/images/category-covers/other.jpg",
+      "title": {
+        "en": "Other Use Cases",
+        "zh": "其他应用场景"
+      },
+      "description": {
+        "en": "Creative experiments, special tasks, mixed workflows, and practical cases.",
+        "zh": "创意实验、特殊任务、混合玩法和实用场景。"
+      }
+    }
+  ],
+  "aliases": {
+    "UI & Interfaces": "UI 与界面",
+    "Charts & Infographics": "图表与信息可视化",
+    "Posters & Typography": "海报与排版",
+    "Products & E-commerce": "商品与电商",
+    "Brand & Logos": "品牌与标志",
+    "Architecture & Spaces": "建筑与空间",
+    "Photography & Realism": "摄影与写实",
+    "Illustration & Art": "插画与艺术",
+    "Characters & People": "人物与角色",
+    "Scenes & Storytelling": "场景与叙事",
+    "History & Classical Themes": "历史与古风题材",
+    "Documents & Publishing": "文档与出版物",
+    "Other Use Cases": "其他应用场景",
+    "Character": "人物与角色",
+    "Characters": "人物与角色",
+    "character": "人物与角色",
+    "characters": "人物与角色",
+    "角色": "人物与角色",
+    "人物": "人物与角色",
+    "Product": "商品",
+    "Products": "商品",
+    "product": "商品",
+    "products": "商品",
+    "Realistic": "写实",
+    "realistic": "写实",
+    "photorealistic": "写实",
+    "Photography": "摄影",
+    "photo": "摄影",
+    "UI": "界面",
+    "Infographic": "信息图",
+    "Charts": "信息图",
+    "Poster": "海报",
+    "Brand": "品牌",
+    "Illustration": "插画",
+    "Classical": "古典",
+    "3D": "3D",
+    "Tech": "科技",
+    "Commerce": "商业",
+    "Education": "教育",
+    "Social": "社媒",
+    "Fashion": "时尚",
+    "Food": "食品饮品",
+    "Travel": "旅行",
+    "Story": "叙事",
+    "History": "历史",
+    "Creative": "创意",
+    "warm": "暖色",
+    "warm light": "暖色",
+    "warm lighting": "暖色",
+    "vintage": "复古",
+    "retro": "复古",
+    "film": "胶片",
+    "cinematic": "电影感",
+    "portrait": "人像",
+    "interior": "室内",
+    "backlight": "逆光",
+    "backlit": "逆光",
+    "low saturation": "低饱和",
+    "desaturated": "低饱和",
+    "turnaround": "多视图",
+    "reference sheet": "设定图",
+    "front side back": "多视图",
+    "poster": "海报"
+  },
+  "note": "保留上游分类与原标签；别名只辅助检索，不代表图片已被视觉核验。"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 205786,
+      "path": "images/dc9ebff4a784f918e392e759ded6d63e8a9580e99249a93190c9f3c3a47c52c5.jpg",
+      "role": "source_example",
+      "sha256": "dc9ebff4a784f918e392e759ded6d63e8a9580e99249a93190c9f3c3a47c52c5",
+      "source_path": "data/images/case482.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-482-ba2caefac38f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1afb1841db6047e92776ef41f42b5d69b1acb1983dfcb05361b3490c5699bc52",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic conceptual portrait of a young man with curly hair and light stubble, wearing yellow-tinted rectangular sunglasses, a beige minimal t-shirt, blue jeans, and off-white sneakers. He is sitting casually with a relaxed posture.\n\nThe twist: he is seated on a large, hyper-realistic version of his own detached head placed on the ground. The head is scaled up, lying sideways, with the same facial features and sunglasses, creating a surreal self-reflection concept.\n\nComposition: centered, full-body shot, neutral studio background with soft beige tones, minimal aesthetic. Clean negative space.\n\nTypography integrated into the background:\n\n* Handwritten-style text at the top: “HEAVY”\n* Below it, smaller text: “ON MY OWN MIND” with “MIND” crossed out\n* Large, rough, scribbled text in black: “HEAD”\n\nLighting: soft diffused studio lighting, subtle shadows, high detail, fashion editorial quality.\n\nStyle: blend of surrealism and modern streetwear campaign, minimal yet expressive, high-resolution, 8k, sharp focus, natural skin texture.\n\nMood: introspective, mental weight, identity, self-awareness.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case482.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "482",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Shorelyn_/status/2060207260685791267",
+    "title": "自我凝视超现实 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-482"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "自我凝视超现实 Campaign",
+  "version": "v1"
+}

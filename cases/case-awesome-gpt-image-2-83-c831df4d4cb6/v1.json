@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 208002,
+      "path": "images/680fc6a9f045f5600b3e0e4ba7e216f7ebc662aa0364b51f209f84b8340e1b3c.jpg",
+      "role": "source_example",
+      "sha256": "680fc6a9f045f5600b3e0e4ba7e216f7ebc662aa0364b51f209f84b8340e1b3c",
+      "source_path": "data/images/case83.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-83-c831df4d4cb6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "faff7ea86dd269fdf9094d62722f6c3c887e1e77ce7ed24f6da00ee174fbc8b2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"sports match infographic poster\",\n  \"theme\": \"UEFA Champions League\",\n  \"background\": \"dark blue and purple cosmic sky, glowing blue hexagonal lines, illuminated stadium reflecting on water at bottom\",\n  \"header\": {\n    \"logo\": \"UEFA Champions League\",\n    \"title\": \"{argument name=\\\"stage\\\" default=\\\"HALBFINALE\\\"}\",\n    \"subtitle\": \"DAS ZIEL: {argument name=\\\"location\\\" default=\\\"BUDAPEST 2026\\\"}\",\n    \"venue\": \"PUSKÁS ARÉNA\"\n  },\n  \"matchup\": {\n    \"player_left\": \"{argument name=\\\"team 1 player\\\" default=\\\"Harry Kane\\\"} in red FC Bayern kit\",\n    \"player_right\": \"{argument name=\\\"team 2 player\\\" default=\\\"Ousmane Dembélé\\\"} in blue PSG kit\",\n    \"center_logos\": \"FC Bayern München and Paris Saint-Germain with VS\",\n    \"date_box\": \"calendar icon, MITTWOCH, {argument name=\\\"date\\\" default=\\\"06.05.2026\\\"}\"\n  },\n  \"facts_section\": {\n    \"title\": \"FACTS\",\n    \"count\": 5,\n    \"items\": [\n      \"Trophy icon: DIE KÖNIGSKLASSE 2025/26\",\n      \"Bar chart icon: KANE IN TOPFORM\",\n      \"Lightning bolt icon: DEMBÉLÉ ÜBERFLIEGER\",\n      \"Two people icon: BISHER 14 DUELLE\",\n      \"Stadium icon: BUDAPEST RUFT\"\n    ]\n  },\n  \"footer\": {\n    \"trophy\": \"Champions League trophy on right\",\n    \"stadium_image\": \"Puskás Aréna at night\",\n    \"tagline\": \"EIN TRAUM. EIN ZIEL. EIN TITEL.\",\n    \"bottom_text\": \"ROAD TO BUDAPEST 2026\"\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case83.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "83",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Infographic",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/NumeroBTC",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-83"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

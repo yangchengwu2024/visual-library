@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-443-f99b5b8a89bb",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "食品饮品"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case443.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "443",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Strength04_X/status/2056018963084226866",
+      "title": "塔可爆炸拆解信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-443",
+      "version": "v1"
+    }
+  ],
+  "title": "塔可爆炸拆解信息图",
+  "title_aliases": [
+    "塔可爆炸拆解信息图"
+  ]
+}

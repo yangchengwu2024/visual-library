@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 3154261,
+      "path": "images/c078cff6148d0dde79705230844aae29ccc92316fc2681a130cd1dd40c4a0914.png",
+      "role": "source_example",
+      "sha256": "c078cff6148d0dde79705230844aae29ccc92316fc2681a130cd1dd40c4a0914",
+      "source_path": "data/images/case331.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-331-8d64b90d0481",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "523c29796bc32fb24ccd5d7a33e97b7c7b9461201df41801bd9d8c0add1bb6f7",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "生成一张手绘水彩风格的「西安」城市地图，包含当地特色美食、地标建筑及城市特色",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case331.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "331",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "Architecture"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-331",
+    "title": "西安手绘水彩城市地图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-331"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "西安手绘水彩城市地图",
+  "version": "v1"
+}

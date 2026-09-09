@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 104126,
+      "path": "images/8e5ebb28c26bfc4f4cd71165b9b59bbbd0c31921fdcbcf740d74066b1b2f72b0.jpg",
+      "role": "source_example",
+      "sha256": "8e5ebb28c26bfc4f4cd71165b9b59bbbd0c31921fdcbcf740d74066b1b2f72b0",
+      "source_path": "data/images/case503.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-503-486f64d763ce",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "472c86ed228003e4e225b52f322288022bb38d67fa568bdf936fe2383ded8572",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create an ultra-detailed 3D stylized creative designer poster featuring a cool young digital artist standing confidently in the center of a futuristic blue neon studio. The character wears oversized black streetwear with electric-blue graphic accents, black cargo pants, layered silver chains, black sunglasses, and clean white sneakers. A cute fluffy puppy sits on the artist's shoulder. The camera angle is dramatic low-angle perspective, making the sneakers appear larger for a premium poster effect.\n\nSurround the character with floating creative elements including a glowing laptop, professional camera, design books, notebooks, 3D icons, social media symbols, holographic UI panels, graphic design tools, and futuristic blue geometric shapes. Add motivational typography such as \"DESIGN MODE\", \"CREATE • BUILD • INSPIRE\", and \"CREATIVE NEVER SLEEPS\" integrated into the scene.\n\nInclude a collectible chibi mini-figure version of the character standing beside the main subject on a display base. Use cinematic blue lighting, glossy reflections, volumetric glow, depth of field, floating particles, luxury toy-photography aesthetics, high-end 3D rendering, Octane Render quality, ultra-sharp details, vibrant neon blue color palette, futuristic creator workspace atmosphere, premium commercial poster design, trending ArtStation style, masterpiece quality, 8K resolution, vertical 9:16 composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case503.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "503",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/AiwithLariab/status/2063240283786187251",
+    "title": "霓虹设计师 3D 海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-503"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "霓虹设计师 3D 海报",
+  "version": "v1"
+}

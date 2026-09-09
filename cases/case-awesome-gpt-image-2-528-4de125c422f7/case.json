@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-528-4de125c422f7",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case528.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "528",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/Sairah_0/status/2091401764360896762",
+      "title": "圣诞街景 Chibi 真实背景人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-528",
+      "version": "v1"
+    }
+  ],
+  "title": "圣诞街景 Chibi 真实背景人像",
+  "title_aliases": [
+    "圣诞街景 Chibi 真实背景人像"
+  ]
+}

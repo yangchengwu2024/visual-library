@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 254206,
+      "path": "images/cfdecfee76d725ba586e9d02a35d38ef53ca45d6a6c0c4e6bc233062df83dc6a.jpg",
+      "role": "source_example",
+      "sha256": "cfdecfee76d725ba586e9d02a35d38ef53ca45d6a6c0c4e6bc233062df83dc6a",
+      "source_path": "data/images/case511.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-511-a5fad2b418e4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ce71a2b7b92818a86af5c88157d2fe495b6eaa6accf0ec968528c70bb43c8c35",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a clean, modern typographic travel poster where the city name itself becomes the composition. Render the city name in large, bold, uppercase sans-serif letters spanning the width of the artwork. Seamlessly integrate the city's most iconic landmarks, architecture, monuments, streets, transportation, cultural symbols, cafés, bridges, parks, skylines, sculptures, waterfronts, historic buildings, and local details into, around, and inside the letters. Let landmarks naturally interact with the typography while preserving legibility.\nUse an elegant flat vector illustration style with crisp geometric shapes, minimal detail, clean outlines, subtle shadows, and a premium editorial aesthetic. Maintain a limited color palette of deep navy, warm cream, muted red, and soft gray-blue for a timeless travel-poster look.\nAdd small decorative elements such as street lamps, trees, clouds, birds, benches, bicycles, fountains, trams, ferries, or other city-specific objects where appropriate. Keep generous negative space with a clean background and perfectly balanced composition.\nEnsure every landmark, architectural style, vehicle, sign, and cultural element is accurate to the chosen city—avoid generic or incorrect landmarks. If desired, include a small elegant tagline beneath the city name (such as a famous nickname or slogan) in minimal typography.\nStyle: premium flat vector, minimalist travel poster, geometric illustration, editorial design, tourism branding, clean typography, high contrast, ultra-sharp lines, museum-quality print, modern graphic design, centered composition, scalable SVG aesthetic, 8K resolution.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case511.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "511",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/Goodmanprotocol/status/2071819124708438092",
+    "title": "城市名地标排版旅行海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-511"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "城市名地标排版旅行海报",
+  "version": "v1"
+}

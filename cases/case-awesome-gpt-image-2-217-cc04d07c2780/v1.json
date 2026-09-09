@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 102513,
+      "path": "images/c62b0c7b6e469a9e6e59e0901423a10e44d4b7db9461ade1defc79596f5ddd75.jpg",
+      "role": "source_example",
+      "sha256": "c62b0c7b6e469a9e6e59e0901423a10e44d4b7db9461ade1defc79596f5ddd75",
+      "source_path": "data/images/case217.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-217-cc04d07c2780",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5a6fba2ee1f7817258736cbf420aac18077d2137c64e2f3b26b4badec74d20da",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n{\n  \"prompt\": {\n    \"style_and_tech\": \"手机照片，老式CCD相机美学，刺眼的闪光灯，颗粒感，昏暗杂乱的室内光线，抓拍快照感觉，轻微的运动模糊\",\n    \"subject\": \"年轻的韩国女偶像，温柔纯真的外表\",\n    \"pose\": \"动作进行中，微微转头看向镜头，仿佛刚刚注意到正在被拍照，肩膀微微耸起\",\n    \"expression\": \"眼睛微微睁大，因惊讶而微微张开的嘴唇，害羞且猝不及防的表情\",\n    \"clothing\": \"宽松柔软的居家服（薄开衫+内搭上衣），一侧肩膀微微滑落但没有暴露\",\n    \"vibe\": \"毫无防备，亲密，意外的瞬间，唤起好奇心与保护欲\",\n    \"aspect ratio\": \"9:16\"\n  }\n}\n\n[English]\n{\n  \"prompt\": {\n    \"style_and_tech\": \"mobile phone photo, old CCD camera aesthetic, harsh flash, grainy, dim messy indoor lighting, candid snapshot feeling, slight motion blur\",\n    \"subject\": \"young Korean female idol, soft innocent look\",\n    \"pose\": \"mid-action, slightly turning head toward camera as if just noticed being photographed, shoulders slightly raised\",\n    \"expression\": \"eyes widened slightly, lips parted in surprise, shy and caught-off-guard expression\",\n    \"clothing\": \"loose soft homewear (thin cardigan + inner top), slightly slipping off one shoulder but not revealing\",\n    \"vibe\": \"unprepared, intimate, accidental moment, evokes curiosity and protectiveness\"，\n    \"aspect ratio\":\"9:16\"\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case217.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "217",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/BubbleBrain/status/2046190539213885806",
+    "title": "昏暗室内纯真少女的意外回眸",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-217"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "昏暗室内纯真少女的意外回眸",
+  "version": "v1"
+}

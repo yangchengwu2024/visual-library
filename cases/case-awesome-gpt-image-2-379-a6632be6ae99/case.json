@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-379-a6632be6ae99",
+  "classification": {
+    "categories": [
+      "品牌与标志"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Brand & Logos",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case379.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "379",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/CallumGrey/status/2051293342139584922",
+      "title": "品牌人格漫画信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-379",
+      "version": "v1"
+    }
+  ],
+  "title": "品牌人格漫画信息图",
+  "title_aliases": [
+    "品牌人格漫画信息图"
+  ]
+}

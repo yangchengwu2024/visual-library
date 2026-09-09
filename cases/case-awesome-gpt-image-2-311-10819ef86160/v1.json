@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 133231,
+      "path": "images/aacff25e8bb277069277a99150d313070f99b3ca69d7fd74f291aa66fa5b3abc.jpg",
+      "role": "source_example",
+      "sha256": "aacff25e8bb277069277a99150d313070f99b3ca69d7fd74f291aa66fa5b3abc",
+      "source_path": "data/images/case311.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-311-10819ef86160",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "48a0aacf0a77fe5ecd9d475b00e487e2ee1dbbff99103ed95d4e0606e156feb3",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n日出时分薰衣草田中女子的水平三联画。\n上部：半身像，闭着眼睛，淡紫色连衣裙，一只手放在头发里，模糊的薰衣草前景。\n中部：特写镜头，看着镜头，蓬乱的头发，薄纱围巾，脸上的阳光。\n下部：四分之三镜头，手持薰衣草花束，飘逸的裙子，柔和的粉彩天空，温暖的梦幻色调。\n\n[English]\nHorizontal triptych of a woman in a lavender field at sunrise.\nTop: Waist-up, eyes closed, pale lilac dress, one hand in hair, blurred lavender foreground.\nMiddle: Close-up, looking at camera, tousled hair, sheer scarf, sunlight on face.\nBottom: Three-quarter shot, holding lavender bouquet, flowing skirt, soft pastel sky, warm dreamy tones.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case311.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "311",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Naiknelofar788/status/2028417667846341062",
+    "title": "晨曦薰衣草田梦幻少女三联画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-311"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "晨曦薰衣草田梦幻少女三联画",
+  "version": "v1"
+}

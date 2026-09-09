@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 193636,
+      "path": "images/6d6afff367c93124d560117a61743eac1cb9f7aade0d780409d6439e4d1c7545.jpg",
+      "role": "source_example",
+      "sha256": "6d6afff367c93124d560117a61743eac1cb9f7aade0d780409d6439e4d1c7545",
+      "source_path": "data/images/case508.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-508-647240c2aba6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8e226d0459a9ec9bdd346b9a3b74aae277df703f145552c369a0eb27ef74bdaa",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "俯拍镜头，高角度顶机位，自上而下俯瞰一位年轻的东亚裔女性，她有着精致的东亚五官和柔顺的黑发。她蹲在花园小径上，轻轻逗弄一只毛茸茸的橘猫。头顶密密的枝叶滤过阳光，形成灵动的“木漏日”效果——跃动、圆形的光斑在她的肌肤和猫毛上流转舞动。空气中悬浮着淡淡的潮湿薄雾，捕捉住光束，营造出柔和可见的立体光柱（丁达尔效应）。当她仰头朝向镜头时，一层轻雾柔化了画面边缘，增添梦幻氛围。她的表情从略带俏皮的轻噘嘴，渐渐转为眼角堆起细纹的真挚笑容，斑驳的光线恰好勾勒出她肌肤的细腻纹理和眼中盈盈的水光。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case508.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "508",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Photography"
+      ]
+    },
+    "source_url": "https://x.com/ohmuyi/status/2067930690977779942",
+    "title": "木漏日庭院俯拍猫咪人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-508"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "木漏日庭院俯拍猫咪人像",
+  "version": "v1"
+}

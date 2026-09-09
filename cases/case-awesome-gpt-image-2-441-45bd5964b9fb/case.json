@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-441-45bd5964b9fb",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case441.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "441",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Strength04_X/status/2056258909334306897",
+      "title": "WILDCAMP 巨型帐篷广告海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-441",
+      "version": "v1"
+    }
+  ],
+  "title": "WILDCAMP 巨型帐篷广告海报",
+  "title_aliases": [
+    "WILDCAMP 巨型帐篷广告海报"
+  ]
+}

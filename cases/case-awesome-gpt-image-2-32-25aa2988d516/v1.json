@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 269278,
+      "path": "images/66e408c5f2d18fc7fbe65e9a8c77c944d4706653635ff5019c3cbcbe7e7410c7.jpg",
+      "role": "source_example",
+      "sha256": "66e408c5f2d18fc7fbe65e9a8c77c944d4706653635ff5019c3cbcbe7e7410c7",
+      "source_path": "data/images/case32.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-32-25aa2988d516",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ce4b9fa0bf3a56af4f8fbcfdc9a82743429d8461c73bd1566d524bf71a20fb52",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"3x3 character expression grid\",\n  \"style\": \"{argument name=\\\"art style\\\" default=\\\"3D animation, Pixar style\\\"}\",\n  \"character_base\": \"{argument name=\\\"character description\\\" default=\\\"young woman with voluminous dark wavy hair and round wire-rimmed glasses\\\"}\",\n  \"common_theme\": \"{argument name=\\\"framing concept\\\" default=\\\"peeking through a torn hole in white paper\\\"}\",\n  \"layout\": {\n    \"rows\": 3,\n    \"columns\": 3,\n    \"total_panels\": 9,\n    \"panels\": [\n      {\"position\": \"top-left\", \"expression\": \"winking\", \"action\": \"adjusting glasses\", \"outfit\": \"green sweater\"},\n      {\"position\": \"top-center\", \"expression\": \"smirking\", \"action\": \"lowering dark sunglasses\", \"outfit\": \"red leather jacket\"},\n      {\"position\": \"top-right\", \"expression\": \"thinking\", \"action\": \"finger on chin\", \"outfit\": \"yellow hoodie\"},\n      {\"position\": \"middle-left\", \"expression\": \"big smile\", \"action\": \"arms resting on edge\", \"outfit\": \"black and white striped shirt\"},\n      {\"position\": \"middle-center\", \"expression\": \"smiling\", \"action\": \"thumbs up\", \"outfit\": \"orange button-up shirt\"},\n      {\"position\": \"middle-right\", \"expression\": \"neutral\", \"action\": \"drinking boba tea\", \"outfit\": \"blue sweater\"},\n      {\"position\": \"bottom-left\", \"expression\": \"happy\", \"action\": \"waving\", \"outfit\": \"purple sweater vest over white shirt\"},\n      {\"position\": \"bottom-center\", \"expression\": \"laughing with eyes closed\", \"action\": \"arms crossed\", \"outfit\": \"pink cardigan\"},\n      {\"position\": \"bottom-right\", \"expression\": \"silly\", \"action\": \"poking cheeks\", \"outfit\": \"teal sweater\"}\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case32.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "32",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Illustration",
+        "Character",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/austinit",
+    "title": "插画艺术创作图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-32"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "插画艺术创作图",
+  "version": "v1"
+}

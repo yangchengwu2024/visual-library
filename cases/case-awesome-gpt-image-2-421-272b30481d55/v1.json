@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 195375,
+      "path": "images/a0e47b696f4566b6a9c7c4ad204876e630b469a3b077ad2c938e864f55c07af8.jpg",
+      "role": "source_example",
+      "sha256": "a0e47b696f4566b6a9c7c4ad204876e630b469a3b077ad2c938e864f55c07af8",
+      "source_path": "data/images/case421.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-421-272b30481d55",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8354e177634e44a8e649a99de791ae1533a8602eac5049321007da97d54e4221",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic creative portrait taken with an iPhone, identity accurately preserved from the reference image. A woman stands inside a store, facing a glass display window or a reflective wall, photographed from a slightly elevated frontal angle. She holds a smartphone horizontally in front of her face, covering her eyes and the upper part of her face. The phone's screen points at the camera and clearly displays a real-time image of her face.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case421.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "421",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Ciri_ai/status/2053535379618423118",
+    "title": "iPhone 屏幕遮脸创意人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-421"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "iPhone 屏幕遮脸创意人像",
+  "version": "v1"
+}

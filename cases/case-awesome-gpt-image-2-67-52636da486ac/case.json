@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-67-52636da486ac",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Infographic",
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "信息图",
+      "海报",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case67.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "67",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Infographic",
+          "Poster",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/hx831126",
+      "title": "信息图可视化设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-67",
+      "version": "v1"
+    }
+  ],
+  "title": "信息图可视化设计",
+  "title_aliases": [
+    "信息图可视化设计"
+  ]
+}

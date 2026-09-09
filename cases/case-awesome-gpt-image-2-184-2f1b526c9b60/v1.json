@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 143724,
+      "path": "images/35ae2b11bbfa0e4ceb2620974135af3e5e344d126bcf014656da236890cacb67.jpg",
+      "role": "source_example",
+      "sha256": "35ae2b11bbfa0e4ceb2620974135af3e5e344d126bcf014656da236890cacb67",
+      "source_path": "data/images/case184.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-184-2f1b526c9b60",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4eecb01fbb600c61acb1091d61cdd52a4f5c786fc2047170991820401227cd9f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n杜甫发朋友圈吐槽房顶被风刮没了\n\n[English]\nDu Fu posting on WeChat Moments complaining about his roof being blown away by the wind",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case184.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "184",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046585220393324553",
+    "title": "杜甫朋友圈吐槽茅屋被掀翻",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-184"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "杜甫朋友圈吐槽茅屋被掀翻",
+  "version": "v1"
+}

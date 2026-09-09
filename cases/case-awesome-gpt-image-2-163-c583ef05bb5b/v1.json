@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 176996,
+      "path": "images/6b1a52d618ec416734aa2a9603f8d2408b0fb9e78c58e780f594e9095a28af56.jpg",
+      "role": "source_example",
+      "sha256": "6b1a52d618ec416734aa2a9603f8d2408b0fb9e78c58e780f594e9095a28af56",
+      "source_path": "data/images/case163.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-163-c583ef05bb5b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "66eec7c5394a5a85b0d2576d25856d09e5dbb48e12c187b48386d7a72dc195e5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n李白在抖音直播月下起舞\n\n[English]\nLi Bai dancing under the moon during a Douyin livestream",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case163.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "163",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046585220393324553",
+    "title": "诗仙李白月下直播起舞",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-163"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "诗仙李白月下直播起舞",
+  "version": "v1"
+}

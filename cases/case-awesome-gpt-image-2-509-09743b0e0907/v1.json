@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 78486,
+      "path": "images/3659c9eee8edbb900d3d7c67b4a87576ac83a03a90ab78e24c72c61dfc24ffda.jpg",
+      "role": "source_example",
+      "sha256": "3659c9eee8edbb900d3d7c67b4a87576ac83a03a90ab78e24c72c61dfc24ffda",
+      "source_path": "data/images/case509.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-509-09743b0e0907",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "472f4b53ad9368a356c7047db38df9bc5ed85700f3b5256c9c0e76974e263783",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A playful, high-key studio portrait of [subject] running joyfully across a seamless light gray background, captured mid-stride with one leg lifted and a wide genuine smile. The subject wears a casual oversized outfit with soft neutral tones (or vibrant colors), creating a dynamic sense of motion. Behind them, a simple black hand-drawn cartoon stick figure grabs and stretches the back of their shirt, making the fabric appear elastically pulled as if trying to stop them. The doodle character is integrated naturally into the scene with expressive motion lines and a humorous facial expression. The subject holds a fun prop (such as a dinosaur toy, oversized lollipop, teddy bear, or balloon), enhancing the playful storytelling. Minimalist composition, clean studio lighting, soft shadows, ultra-sharp focus, realistic skin texture, vibrant yet natural colors, whimsical editorial photography, premium children’s fashion campaign aesthetic, highly detailed, photorealistic, 8K.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case509.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "509",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2071929275897491491",
+    "title": "涂鸦拉衣奔跑棚拍",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-509"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "涂鸦拉衣奔跑棚拍",
+  "version": "v1"
+}

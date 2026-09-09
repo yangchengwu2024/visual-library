@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-414-aedd2c37c04b",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case414.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "414",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/ToroJushiAi/status/2053078195482632421",
+      "title": "室内晨间写实摄影",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-414",
+      "version": "v1"
+    }
+  ],
+  "title": "室内晨间写实摄影",
+  "title_aliases": [
+    "室内晨间写实摄影"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 256647,
+      "path": "images/1154fd7068711708393ec8af647cb63f2f6e4a1e42610232961c580707775086.jpg",
+      "role": "source_example",
+      "sha256": "1154fd7068711708393ec8af647cb63f2f6e4a1e42610232961c580707775086",
+      "source_path": "data/images/case343.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-343-614719d91449",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0a0d9013598fc34cc41478982e88657d50c0f4462845635db82e6abc56740400",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra high-fashion magazine cover, Louis Vuitton-style editorial. Close-up portrait of a confident woman with soft rose-gold hair and natural airy bangs, slightly wind-blown for movement. She is wearing a luxury summer outfit: a structured lightweight linen or silk jacket in warm golden-yellow tones, layered over a modest high-neck top, paired with a bold gold choker necklace and subtle statement earrings.\n\nFabric flows naturally with a summer breeze, slightly textured and breathable, capturing a premium seasonal feel. Styling is elegant, modest, and refined — no revealing clothing.\n\nLighting is high-end studio mixed with natural golden hour glow: warm highlights, soft shadows, luminous skin with glossy editorial finish.\n\nBackground is a rich summer gradient (sunset gold fading into soft coral or warm beige), clean but visually striking.\n\nComposition is dynamic and slightly cinematic: hair in motion, shallow depth of field, sharp focus on face.\n\nTypography: large elegant serif masthead \"Louis Vuitton\" at the top, bold cover line \"YOUR CHOICE ENDS HERE\" in premium editorial layout, minimal supporting text.\n\nUltra-realistic, hyper-detailed skin texture, 8K resolution, sharp focus, glossy magazine print quality, cinematic color grading, luxury fashion photography, no nudity, tasteful and editorial.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case343.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "343",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/SPEEDAI07/status/2048573343066992919",
+    "title": "高定时尚杂志封面",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-343"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "高定时尚杂志封面",
+  "version": "v1"
+}

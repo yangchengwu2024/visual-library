@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 299700,
+      "path": "images/f3556070e896ee2502677fc7b1ccdb8949819b61ad4491e41d12c2af576368ef.jpg",
+      "role": "source_example",
+      "sha256": "f3556070e896ee2502677fc7b1ccdb8949819b61ad4491e41d12c2af576368ef",
+      "source_path": "data/images/case251.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-251-f5a68e5826a8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5b65b688464f1803df93a0b88731bf85748d9a0aaee0b13eac69b7940ca847ca",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张言叶之庭2026年4月19日单日日历\n\n[English]\nGenerate a single-day calendar for The Garden of Words on April 19, 2026",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case251.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "251",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "言叶之庭春雨绿意单日历",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-251"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "言叶之庭春雨绿意单日历",
+  "version": "v1"
+}

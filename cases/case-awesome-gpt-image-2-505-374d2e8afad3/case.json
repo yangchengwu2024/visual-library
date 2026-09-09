@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-505-374d2e8afad3",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case505.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "505",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/iamaiistudio/status/2063231612478017579",
+      "title": "夜间手机光沙发肖像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-505",
+      "version": "v1"
+    }
+  ],
+  "title": "夜间手机光沙发肖像",
+  "title_aliases": [
+    "夜间手机光沙发肖像"
+  ]
+}

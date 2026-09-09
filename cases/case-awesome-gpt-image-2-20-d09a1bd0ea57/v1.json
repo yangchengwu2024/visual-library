@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 234447,
+      "path": "images/d1e1422e33801ca5bf7d0f6601ff90d3b149b4884e82998eeed50180e5e868c3.jpg",
+      "role": "source_example",
+      "sha256": "d1e1422e33801ca5bf7d0f6601ff90d3b149b4884e82998eeed50180e5e868c3",
+      "source_path": "data/images/case20.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-20-d09a1bd0ea57",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "466bfd5c4e263407f110d2b701707a990544a12715ad73e855b5791a1a772935",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create an explanatory slide ({argument name=\"format\" default=\"ponchi-e diagram\"}) for {argument name=\"theme\" default=\"Momotaro\"} that fuses the gentle atmosphere of \"Irasutoya\" with the overwhelming information density of \"Kasumigaseki slides\".",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case20.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "20",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Infographic",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/yammamon",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-20"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 165169,
+      "path": "images/804a6dd79b6a236c64755ec6c9baad39be68c43136f277c4d73f6a4cefa7eb59.jpg",
+      "role": "source_example",
+      "sha256": "804a6dd79b6a236c64755ec6c9baad39be68c43136f277c4d73f6a4cefa7eb59",
+      "source_path": "data/images/case270.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-270-e42cc21d275a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "130f13bef9434d62fbc77ca8dc2011d34d12231fbd8693caf1093261af7bbc2f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\nこのキャラクターと背景を元に、 公式設定資料のようなキャラクターシートを作成してください。\n・正面、側面、背面の3面図を含める ・キャラクターの表情バリエーションを追加\n・衣装や装備の詳細パーツを分解して表示 ・カラーパレットを追加 ・世界観の簡単な説明を入れる\n・全体は整理されたレイアウト\n（白背景、図解風）\n・アスペクト比16：9 　←\n\n高解像度、プロのコンセプトアートスタイル\n\n[English]\nBased on this character and background, please create a character sheet like an official setting material.\n・Include front, side, and back 3-view drawings ・Add character expression variations\n・Disassemble and display detailed parts of costumes and equipment ・Add a color palette ・Include a brief explanation of the world view\n・Overall organized layout\n(White background, diagrammatic style)\n・Aspect ratio 16:9 　←\nHigh resolution, professional concept art style",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case270.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "270",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Character"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-270",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-270"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

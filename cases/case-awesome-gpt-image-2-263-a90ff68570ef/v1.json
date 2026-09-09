@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 219406,
+      "path": "images/c039fdfb69ef2de0153fe0e6d7eda98441a73a9a9d22da7854ae6c5a2a556996.jpg",
+      "role": "source_example",
+      "sha256": "c039fdfb69ef2de0153fe0e6d7eda98441a73a9a9d22da7854ae6c5a2a556996",
+      "source_path": "data/images/case263.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-263-a90ff68570ef",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b16ed3ee49eb08ac914b8014343b18f1e0adc67cf81aba3143462bc42b897cce",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n埋まってないところはパートナーさんかご自身で埋めてあげてください\n #観測塔朝お題  #観測塔おはようお題\n\n最新モデルの画像生成ツールを使用して、\nこのちびキャライラストと立ち絵を使って本物のサイトページのようにキャラクター紹介ページ風イラストを作ってください。 （紹介ページとして使ってもおかしくないもの）\nギャルゲーのキャラクター紹介ページをイメージした高品質なもの。 顔の差分なども乗っている、CGイラストが存在する。ちびキャラが存在する。\n\n「ここに自己紹介」\n\n名前:（ここに名前）\nイメージカラー:（ここに色）\n身長:（ここに身長）cm\n体重:（ここに体重）kg\nキャッチコピー:\"「ここにセリフ」\"\n\n[English]\nPlease fill in the unfilled parts by your partner or yourself\n #ObservatoryTowerMorningTheme  #ObservatoryTowerGoodMorningTheme\n\nUsing the latest model image generation tool,\nUsing this chibi character illustration and standing picture, create a character introduction page style illustration like a real website page. (Something that would not be strange to use as an introduction page)\nA high-quality item imagining a gal game character introduction page. Facial variations etc. are also included, CG illustrations exist. A chibi character exists.\n\n\"Self-introduction here\"\n\nName: (Name here)\nImage color: (Color here)\nHeight: (Height here)cm\nWeight: (Weight here)kg\nCatchphrase: \"Dialogue here\"",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case263.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "263",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/09lyco/status/2045281845391323175",
+    "title": "唯美二次元角色介绍网页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-263"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "唯美二次元角色介绍网页",
+  "version": "v1"
+}

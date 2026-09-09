@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 403733,
+      "path": "images/8f5f1129aa15e1e877f5a32c36b15d4d20c502ee33a37f8f6e5345edccfe1b03.jpg",
+      "role": "source_example",
+      "sha256": "8f5f1129aa15e1e877f5a32c36b15d4d20c502ee33a37f8f6e5345edccfe1b03",
+      "source_path": "data/images/case119.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-119-5afbbe8eabc0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9028d7484ad7b762ac0e96605af38cd33f1cf537819767c86558a0ce45235159",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"anime movie production pitch document\",\n  \"overall_layout\": \"split layout with a large cinematic movie poster on the top half and a grid of 5 detailed reference sheets on the bottom half\",\n  \"top_section\": {\n    \"type\": \"movie poster\",\n    \"visual\": \"A man, a woman, and a dog standing on a ruined city street, facing away from the viewer, looking towards a colossal, porous, web-like alien structure dominating the sky. A rusty 'RESTRICTED AREA' sign is on the right.\",\n    \"typography\": {\n      \"title\": \"{argument name=\\\"movie title\\\" default=\\\"劇場版 巨骸の向こう側 Fallen Colossus\\\"}\",\n      \"release_date\": \"{argument name=\\\"release date\\\" default=\\\"2027.11.28 ROADSHOW\\\"}\",\n      \"tagline\": \"そこにあるのは、まだ「説明」されていないもの。\",\n      \"credits_studio\": \"{argument name=\\\"studio name\\\" default=\\\"WIT STUDIO\\\"}\"\n    }\n  },\n  \"bottom_sections\": [\n    {\n      \"title\": \"{argument name=\\\"male character name\\\" default=\\\"来栖 武 / Kurusu Takeru\\\"}\",\n      \"type\": \"character reference sheet\",\n      \"elements\": {\n        \"full_body_poses\": 3,\n        \"expressions\": 3,\n        \"detail_shots\": 8,\n        \"description\": \"Male protagonist in dark tactical jacket and cargo pants. Includes front, back, and side full-body views, headshots, and detailed callouts for gloves, boots, backpack, and radio.\"\n      }\n    },\n    {\n      \"title\": \"{argument name=\\\"female character name\\\" default=\\\"大城 真那 / Oshiro Mana\\\"}\",\n      \"type\": \"character reference sheet\",\n      \"elements\": {\n        \"full_body_poses\": 3,\n        \"expressions\": 3,\n        \"detail_shots\": 6,\n        \"description\": \"Female protagonist in grey tactical uniform. Includes front, back, and side full-body views, headshots, and detailed callouts for jacket, boots, ID badge, and pouch.\"\n      }\n    },\n    {\n      \"title\": \"カゲ (Kage) 設定画\",\n      \"type\": \"animal character reference sheet\",\n      \"elements\": {\n        \"full_body_poses\": 4,\n        \"expressions\": 4,\n        \"detail_shots\": 5,\n        \"description\": \"Dog companion. Includes side, front, back, and angled full-body views, headshots, and detailed callouts for fur texture, paws, and a motorcycle sidecar.\"\n      }\n    },\n    {\n      \"title\": \"第7巨骸 (Remnant-7) 内部区画 設定画\",\n      \"type\": \"environment and vehicle reference sheet\",\n      \"elements\": {\n        \"large_diagrams\": 1,\n        \"environment_thumbnails\": 4,\n        \"vehicle_designs\": 1,\n        \"description\": \"Cross-section of the porous alien structure, smaller environment thumbnails, and a motorcycle design featuring the characters.\"\n      }\n    },\n    {\n      \"title\": \"Concept Art\",\n      \"type\": \"scene illustration\",\n      \"elements\": {\n        \"characters\": 3,\n        \"vehicles\": 1,\n        \"description\": \"The male character, female character, and dog with a motorcycle sidecar parked in front of the glowing, porous alien structure.\"\n      }\n    }\n  ]\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case119.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "119",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/old_pgmrs_will",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-119"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

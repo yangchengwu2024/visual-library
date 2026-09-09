@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-413-800fbed5664f",
+  "classification": {
+    "categories": [
+      "场景与叙事"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Scenes & Storytelling",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case413.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "413",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/ogbenniasamuel2/status/2053088572031250799",
+      "title": "当代舞现场 Storyboard",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-413",
+      "version": "v1"
+    }
+  ],
+  "title": "当代舞现场 Storyboard",
+  "title_aliases": [
+    "当代舞现场 Storyboard"
+  ]
+}

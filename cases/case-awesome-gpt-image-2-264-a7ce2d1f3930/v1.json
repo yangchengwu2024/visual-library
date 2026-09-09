@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 194845,
+      "path": "images/0a811232d916ea9427a8da642fda422a8d35850747b3b42030bfe3c70fa3d137.jpg",
+      "role": "source_example",
+      "sha256": "0a811232d916ea9427a8da642fda422a8d35850747b3b42030bfe3c70fa3d137",
+      "source_path": "data/images/case264.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-264-a7ce2d1f3930",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dba7a0a9a76c191f103059ebdcc5986c40bf93d56ccda161d8a4f7529e44dd1e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n为Z世代设计的可爱Y2K风格的平价化妆品广告图像。使用鲜艳的配色，包括荧光色。纵横比为3:4。\n\n[English]\nCute Y2K style affordable cosmetics advertising image designed for Gen Z. Using vibrant color schemes, including neon colors. Aspect ratio is 3:4.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case264.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "264",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Products"
+      ]
+    },
+    "source_url": "https://x.com/midori_tatsuta/status/2045378877363798279",
+    "title": "美妆产品广告图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-264"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "美妆产品广告图",
+  "version": "v1"
+}

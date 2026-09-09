@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 269180,
+      "path": "images/52781896541da62d236c885281a02590550c92dd48ea46d4bcda52fd8df825d5.jpg",
+      "role": "source_example",
+      "sha256": "52781896541da62d236c885281a02590550c92dd48ea46d4bcda52fd8df825d5",
+      "source_path": "data/images/case302.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-302-42d44a675408",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0c0305321e1dab37e341e280aedbd4eeb1ae81c15325f7ffa89983c8e88de480",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一个九宫格图片，展现九位当代知名设计师设计的同一组物体：机械键盘，包括设计师头像，设计师对于设计的中文文字解读和作品呈现。排版统一规则\n\n[English]\nA nine-grid image showing the same group of objects designed by nine contemporary famous designers: mechanical keyboards, including designer avatars, designers' Chinese text interpretations of the designs, and artwork presentations. Unified layout rules",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case302.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "302",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/TanShilong/status/2045148649869692982",
+    "title": "九位大师的机械键盘设计图鉴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-302"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "九位大师的机械键盘设计图鉴",
+  "version": "v1"
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 206205,
+      "path": "images/af6dd087db1f32553bf22f6b6a1a9de632f967379a14158bb128775e7c8d1216.jpg",
+      "role": "source_example",
+      "sha256": "af6dd087db1f32553bf22f6b6a1a9de632f967379a14158bb128775e7c8d1216",
+      "source_path": "data/images/case207.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-207-ef219ce7c3bd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cfa6a6440b302acae96cf7330056d72144ba23a10d3e2981359b0d81f5b71c41",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张黑神话·潘金莲的游戏介绍画面，人物十分的迷人\n\n[English]\nGenerate a game introduction screen for Black Myth: Pan Jinlian, the character is extremely charming.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case207.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "207",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai/status/2046576160952443082",
+    "title": "黑神话潘金莲绝美游戏封面",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-207"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "黑神话潘金莲绝美游戏封面",
+  "version": "v1"
+}

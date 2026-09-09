@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 250047,
+      "path": "images/dd23775ceb7c267cc85a446f5b4c62392769a2caeb2e0bf4aa5d959e1301a0be.jpg",
+      "role": "source_example",
+      "sha256": "dd23775ceb7c267cc85a446f5b4c62392769a2caeb2e0bf4aa5d959e1301a0be",
+      "source_path": "data/images/case442.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-442-29ddceb782e7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ad6f675272c124fc98577b87be3c543646085e41e9195fc7b7d5ca0570034897",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A vibrant whimsical digital illustration of a cozy indie hair salon, featuring a young girl with long brown hair getting her hair styled by a fashionable hairstylist. Bright pink, purple, orange, and peach color palette with playful retro decor, indoor plants, patterned walls, confetti shapes, beauty tools, flowers, and soft ambient lighting. Cute feminine aesthetic, dreamy cartoon style, expressive characters with rosy cheeks, highly detailed textures, modern flat illustration mixed with painterly shading, colorful composition, trendy Pinterest aesthetic, cozy creative atmosphere, ultra-detailed, 2D editorial art style.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case442.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "442",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2056293543753503126",
+    "title": "舒适发廊插画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-442"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "舒适发廊插画",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 362686,
+      "path": "images/22d5c7f414a40d6175ebdcdaef2a4082cbd57eaf66605a2b25a4d2d92c794d6e.jpg",
+      "role": "source_example",
+      "sha256": "22d5c7f414a40d6175ebdcdaef2a4082cbd57eaf66605a2b25a4d2d92c794d6e",
+      "source_path": "data/images/case407.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-407-c3462fa14d36",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7870c5ebe975e61a9da00a6579690b8d115a652a4dc759409d6dc0320f1fd6e5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a premium square “neuro-AI hybrid system infographic” designed as a scientific cognitive engineering handbook page.\n\nVisual Direction:\n• 1:1 composition\n• dark neutral background with glowing neural network overlays\n• palette: electric blue, violet, soft white, silver\n• elegant scientific typography and modular panels\n• central ultra-detailed human brain + AI circuit fusion render\n\nMain Subject:\nA realistic human brain merging with AI neural networks and digital circuitry.\n\nInclude callouts:\n• memory encoding system\n• AI augmentation layer\n• cognitive signal pathways\n• emotional response mapping\n• sensory integration nodes\n• neural data transfer system\n• learning adaptation loops\n\nModules:\n• Brain Function Overview\n• AI Enhancement Layers\n• Signal Flow Diagram\n• Cognitive Performance Metrics\n• Human vs AI Comparison Chart\n• Neural Safety Protocols\n• Future Evolution Path\n\nStyle:\n“neuroscience + AI engineering manual”, “high-end cognitive systems diagram”",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case407.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "407",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/YaZoraiz/status/2052968427514708371",
+    "title": "Neuro-AI 混合系统信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-407"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Neuro-AI 混合系统信息图",
+  "version": "v1"
+}

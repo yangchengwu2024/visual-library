@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 334397,
+      "path": "images/be69fefe97c7077f208675042a56f8452ef9113a3f68bced2dd2cb57cf26d2fc.jpg",
+      "role": "source_example",
+      "sha256": "be69fefe97c7077f208675042a56f8452ef9113a3f68bced2dd2cb57cf26d2fc",
+      "source_path": "data/images/case500.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-500-4e563719cbbc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9c63af0f515d49627bcbe392f6bcddb925d779bd2aa7e4c236375e8adc2fe618",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic ethereal fantasy portrait of a breathtaking young woman with delicate porcelain skin, soft grey-blue eyes, and natural rosy lips. She gazes gently toward the viewer with a serene, dreamy expression, her fingertips lightly touching her chin. Wispy ash-brown hair flows softly in the breeze, styled in a loose romantic updo adorned with pastel blush roses, shimmering crystal ornaments, delicate feathers, and intricate floral accessories. She wears elegant dangling crystal earrings and a translucent, flowing gown made of sheer iridescent fabric embroidered with tiny sparkling flowers.\n\nThe scene is bathed in soft diffused morning light, creating a luminous glow around her face and shoulders. Surrounded by floating butterflies, sparkling dust particles, translucent petals, and dreamy floral textures, the background blends pastel lavender, pearl white, blush pink, and silver tones. Cinematic fine-art photography, fairycore aesthetic, enchanted garden atmosphere, magical realism, ultra-detailed skin texture, soft focus highlights, volumetric lighting, bokeh, masterpiece quality, highly detailed, 8K resolution, delicate feminine beauty, romantic fantasy artwork, elegant composition, dreamy color grading, soft glow, celestial ambiance.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case500.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "500",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/HaniaAi12/status/2062696495741391006",
+    "title": "梦幻花冠仙境肖像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-500"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "梦幻花冠仙境肖像",
+  "version": "v1"
+}

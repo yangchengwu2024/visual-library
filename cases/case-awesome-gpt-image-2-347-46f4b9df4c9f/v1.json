@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 600423,
+      "path": "images/4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23.jpg",
+      "role": "source_example",
+      "sha256": "4966e3688edf53fadb9256e44edee04fd5ffc4dbc7d8470e0d109eede6340e23",
+      "source_path": "data/images/case347.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-347-46f4b9df4c9f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fa88b363948820f535a864deed1c92c07e12868744b84fe492a0fd359330c5c6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[STYLE]\nMonochrome grayscale illustration, 3D-rendered character, clean instructional reference sheet, white background, comic-style cell grid layout, technical diagram aesthetic.\n\n[LAYOUT]\n4×4 grid layout with a total of 16 panels. Each panel is separated by thin black border lines. Cells are numbered from 1 to 16, with consistent panel sizes.\n\n[CHARACTER]\nimage1 (the same character appears consistently in all panels)\n\n[PANEL STRUCTURE – per cell]\nTop-left: bold number badge + English title text\nCenter: full-body character pose illustration\nBottom-left: English description text (3–4 lines)\nOverlay: directional arrows indicating movement\n\n[ARROWS / MOTION INDICATORS]\nCurved arrows, straight arrows, and circular rotation indicators placed around the character to show motion flow and direction.\n\n[RENDERING STYLE]\nHighly detailed 3D sculpted style, soft studio lighting, subtle shadows, no color, grayscale shading, clean linework, game concept art quality.\n\n[NEGATIVE]\nNo background scenery, no color tones, no additional characters, no complex background.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case347.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "347",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Infographic",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/oggii_0/status/2048614158699217302",
+    "title": "4×4 动作分解参考表",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-347"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "4×4 动作分解参考表",
+  "version": "v1"
+}

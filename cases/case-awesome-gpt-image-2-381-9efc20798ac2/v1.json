@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 704544,
+      "path": "images/785c9dd11aa4a5eb8a092a223ad18eaf87ccaf035be83ec919cb81a29f315707.jpg",
+      "role": "source_example",
+      "sha256": "785c9dd11aa4a5eb8a092a223ad18eaf87ccaf035be83ec919cb81a29f315707",
+      "source_path": "data/images/case381.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-381-9efc20798ac2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4f9fe85e180d0fb5d20f1f280d81ba2533449f26bf5a4db4cf719a9747b586c7",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"scene reference board — 90s apartment living room, cinematic night\",\n  \"style\": \"cinematic film photography, 35mm grain, warm amber shadow fill, deep chiaroscuro lighting, hyper-detailed interior, production design reference quality\",\n  \"layout\": {\n    \"main_panel_center_left\": {\n      \"label\": \"CAMERA A — FRONT VIEW\",\n      \"scene\": \"Wide shot, L-shaped tan sectional sofa, grey knit throw blanket, wooden coffee table (remote, mug, ashtray, Rolling Stone stack), lava lamp left, table lamp right, rain-streaked city window behind, Nirvana poster left wall. 35mm grain.\"\n    },\n    \"main_panel_center_right\": {\n      \"label\": \"CAMERA B — REVERSE VIEW\",\n      \"scene\": \"Wide reverse from behind sofa. CRT TV prominent right, grey static screen. Tall bookshelf, VHS tapes. Cool blue backlight from window behind camera. Deep shadow.\"\n    },\n    \"prop_strip_bottom\": \"6 close-up tiles: 1. LAVA LAMP — chrome base, blue-green wax blobs; 2. COFFEE TABLE — remote, mug, ashtray, magazines; 3. NIRVANA POSTER — black smiley face, wall texture; 4. CRT TELEVISION — static screen, VHS stack; 5. WINDOW/RAIN — city bokeh, water streaks; 6. THROW BLANKET — sofa corner, worn upholstery\",\n    \"top_right_inset\": \"SOURCE REF thumbnail — original photo\",\n    \"footer\": \"2700K PRACTICAL · 4100K CITY NIGHT · 24mm · 35MM\"\n  },\n  \"background\": \"deep charcoal #1a1a1a, thin white separators\",\n  \"dimensions\": \"wide landscape 3:1, high resolution\"\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case381.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "381",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/Iancu_ai/status/2051287273581203888",
+    "title": "90 年代公寓场景参考板",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-381"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "90 年代公寓场景参考板",
+  "version": "v1"
+}

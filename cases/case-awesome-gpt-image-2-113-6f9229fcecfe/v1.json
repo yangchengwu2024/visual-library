@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 229072,
+      "path": "images/5bbad66b7bb76fff5b994efc071f4cab81511e31d28003ca800e4cf297a3278e.jpg",
+      "role": "source_example",
+      "sha256": "5bbad66b7bb76fff5b994efc071f4cab81511e31d28003ca800e4cf297a3278e",
+      "source_path": "data/images/case113.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-113-6f9229fcecfe",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "95b5b236194d7a0cfcf2c18bafbc4a4e503b6d7adb8259a3e495b3c42a55e880",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A highly detailed anime illustration of a fierce female warrior with long flowing {argument name=\"hair color\" default=\"black\"} hair and piercing {argument name=\"eye color\" default=\"blue\"} eyes, wearing a mix of silver plate armor with gold trim and a {argument name=\"outfit color\" default=\"blue and white\"} tunic. She is captured in a dynamic combat stance, swinging a massive, {argument name=\"weapon type\" default=\"segmented metallic whip-sword\"} that curves dramatically into the extreme foreground. The weapon leaves a sweeping trail of kinetic energy and wind. The scene is set against a {argument name=\"background setting\" default=\"ruined battlefield with rocky terrain, floating debris, and large blue banners fluttering in the wind\"} under a dramatic cloudy sky. The artwork features cinematic lighting, intense action, and a dramatic forced perspective on the weapon.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case113.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "113",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/REd8358",
+    "title": "动漫插画创作图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-113"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "动漫插画创作图",
+  "version": "v1"
+}

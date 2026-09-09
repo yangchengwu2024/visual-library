@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 122085,
+      "path": "images/f10853519f482f0a1b376d1a397f53322ab984d467ee4ad3998cc5a8eb575ced.jpg",
+      "role": "source_example",
+      "sha256": "f10853519f482f0a1b376d1a397f53322ab984d467ee4ad3998cc5a8eb575ced",
+      "source_path": "data/images/case159.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-159-96e81695508f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "50cea0a8b62a27d8cc9073c9aea7d9999354127b7b94ec1f38d68ded78651b17",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"e-commerce livestream UI mockup\",\n  \"subject\": {\n    \"description\": \"photorealistic young Asian woman, sweaty glowing skin, long dark wavy hair, wearing a white short-sleeve polo shirt and white pleated tennis skirt, holding a white tennis racket over her right shoulder, looking directly at camera, studio lighting, white background\"\n  },\n  \"layout\": {\n    \"top_header\": {\n      \"host_info\": {\n        \"name\": \"{argument name=\\\"host name\\\" default=\\\"小鹿运动优选\\\"}\",\n        \"stats\": \"12.8万本场点赞\",\n        \"button\": \"关注\"\n      },\n      \"rank_tag\": \"带货榜第3名\",\n      \"viewer_stats\": \"1.2万\"\n    },\n    \"top_right\": {\n      \"coupon\": {\n        \"title\": \"直播间专属券\",\n        \"value\": \"￥20 满199可用\",\n        \"button\": \"领取\"\n      }\n    },\n    \"left_overlay\": {\n      \"title\": \"{argument name=\\\"campaign title\\\" default=\\\"夏日运动季\\\"}\",\n      \"subtitle\": \"{argument name=\\\"campaign subtitle\\\" default=\\\"活力开场\\\"}\",\n      \"bullet_points\": {\n        \"count\": 3,\n        \"items\": [\"透气速干\", \"弹力舒适\", \"运动百搭\"]\n      }\n    },\n    \"right_overlay\": {\n      \"product_cards\": {\n        \"count\": 2,\n        \"card_1\": {\n          \"status\": \"正在讲解\",\n          \"image\": \"white polo shirt and skirt flat lay\",\n          \"title\": \"{argument name=\\\"product name\\\" default=\\\"运动POLO衫套装\\\"}\",\n          \"details\": \"白色·M码\",\n          \"price\": \"{argument name=\\\"price\\\" default=\\\"￥129\\\"}\",\n          \"button\": \"去抢购\"\n        },\n        \"card_2\": {\n          \"status\": \"热卖 x 156\",\n          \"image\": \"miniature of main model\",\n          \"title\": \"运动POLO衫套装女\",\n          \"details\": \"透气速干 显瘦百搭\",\n          \"price\": \"{argument name=\\\"price\\\" default=\\\"￥129\\\"}\",\n          \"button\": \"抢\"\n        }\n      }\n    },\n    \"bottom_left\": {\n      \"chat_messages\": {\n        \"count\": 5,\n        \"description\": \"scrolling chat messages with usernames and comments\"\n      },\n      \"purchase_alert\": \"用户_6789 等3人 正在去购买\"\n    },\n    \"bottom_bar\": {\n      \"input_field\": \"说点什么...\",\n      \"icons\": {\n        \"count\": 5,\n        \"types\": [\"smile\", \"shopping cart\", \"heart\", \"gift\", \"more\"]\n      }\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case159.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "159",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/onlyhuman028",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-159"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

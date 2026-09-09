@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 248483,
+      "path": "images/c9c9f727f60d88ee94011d94143a7c8ab260d1c623ae79b1e64c36cfe818a1c8.jpg",
+      "role": "source_example",
+      "sha256": "c9c9f727f60d88ee94011d94143a7c8ab260d1c623ae79b1e64c36cfe818a1c8",
+      "source_path": "data/images/case404.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-404-e928a882fa32",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b6390ac18e4479adf02e56d73a4c2410683ca4b2231c2cf7c40d074ea6106a83",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "动态的豪华商业广告海报，特色是超现实3D渲染的充满活力的年轻女性，以上传的女性面部作为参考，穿着高级亮橙色设计师服装、豪华配饰以及时尚的金色墨镜，自信地从一个巨大的金色智能手机屏幕中爆发出色。她的姿势有力且时尚，一只运动鞋通过强烈的强制透视戏剧性地穿过数字显示屏，踏入现实。\n\n构图在前台强调她白色豪华运动鞋，带有纹理口香糖鞋底，通过电影般的广角镜头失真和浅景深增强。漂浮的闪亮3D社交媒体图标、金色几何元素和豪华品牌图形环绕着她，营造出高端影响者营销美学。\n\n明亮的摄影棚灯光营造出充满活力的优质促销氛围，金属金色手机边缘的丰富反射与哑光织物质地形成对比。主导的橙色、白色和金色调色板传递出超现代豪华X / Twitter 广告氛围。干净的白色背景上带有大胆的编辑排版、优质软件品牌元素、优雅的UI图形、漂浮的互动图标以及时尚的二维码区域。\n\n超现实8K品质、电影般的阴影、精致的商业艺术指导、豪华女性能量、时尚营销美学、现代社交媒体品牌、闪亮反射以及高端数字广告风格。\n\n宽高比：3:4。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case404.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "404",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/you1873118/status/2052624395932455061",
+    "title": "豪华社媒破屏商业广告",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-404"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "豪华社媒破屏商业广告",
+  "version": "v1"
+}

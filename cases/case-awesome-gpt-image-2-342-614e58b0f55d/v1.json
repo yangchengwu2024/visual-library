@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 219587,
+      "path": "images/370f8d49944934cbb4b2cc8bed833b501db74e2b9bf02b804cd881b0d1cf8d9c.jpg",
+      "role": "source_example",
+      "sha256": "370f8d49944934cbb4b2cc8bed833b501db74e2b9bf02b804cd881b0d1cf8d9c",
+      "source_path": "data/images/case342.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-342-614e58b0f55d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b1bdeb03620e1df71e81b015f4d0bd6f81c7fa868a9bb80029035f0336e68162",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "PHASE 1 - PRODUCT: [ITEM] in [MATERIAL] packaging, minimal label design\nPHASE 2 - GRID: 2x2 seasonal grid, four distinct brand worlds\nPHASE 3 - COMPOSITION: each quadrant a full campaign scene with props and environment\nPHASE 4 - CONSISTENCY: same product silhouette, four distinct palettes\n\nSwap: [ITEM] / [MATERIAL] / [LABEL STYLE]",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case342.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "342",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Product",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/SRKDAN/status/2048582939504431195",
+    "title": "四季包装 Campaign 宫格",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-342"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "四季包装 Campaign 宫格",
+  "version": "v1"
+}

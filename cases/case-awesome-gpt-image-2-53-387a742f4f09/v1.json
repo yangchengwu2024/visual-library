@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 148521,
+      "path": "images/3ccc35b5539b6aad543896dae4eb66a18d59c80261c330a756eea713e1ac9dd2.jpg",
+      "role": "source_example",
+      "sha256": "3ccc35b5539b6aad543896dae4eb66a18d59c80261c330a756eea713e1ac9dd2",
+      "source_path": "data/images/case53.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-53-387a742f4f09",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "00d6d302902e8fd240373db06624a7cb3ac41027238f1f1404568392c5ca0cd4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A vintage, late 90s amateur flash photograph of a young man repairing an arcade machine. He is kneeling on a dark, patterned arcade carpet, looking back over his shoulder directly at the camera with a neutral expression. He wears a dark short-sleeved t-shirt, baggy blue jeans, chunky white sneakers, and a dark baseball cap. The lower front panel of the arcade cabinet is wide open, exposing its complex internal electronics, including a tangle of wires, green circuit boards, a large speaker, and metal cooling fans at the base. The side of the cabinet features vibrant pink, black, and white graphics with the text \"{argument name=\"arcade game title\" default=\"Dancing Stage\"}\" and the brand \"{argument name=\"arcade brand\" default=\"KONAMI\"}\". The setting is a dimly lit arcade interior with other glowing game cabinets visible in the blurred background. A screwdriver lies on the carpet near the man's knee. The image features harsh direct flash lighting, a slightly grainy film texture, deep shadows, and a nostalgic Y2K aesthetic.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case53.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "53",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/nicdunz",
+    "title": "室内空间渲染图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-53"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "室内空间渲染图",
+  "version": "v1"
+}

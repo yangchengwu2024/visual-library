@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 130207,
+      "path": "images/751554743f0c93b5c538f093d737e108d6577a9dd43792f9956398e4af56ba61.jpg",
+      "role": "source_example",
+      "sha256": "751554743f0c93b5c538f093d737e108d6577a9dd43792f9956398e4af56ba61",
+      "source_path": "data/images/case287.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-287-6f016f509c11",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1889383029d9b145f3c77f7e30b79cf382948f35aa0e814a1472622b2794de2f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成不知火舞的小红书主页截图\n\n[English]\nGenerate a screenshot of Mai Shiranui's Xiaohongshu homepage",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case287.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "287",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/rionaifantasy/status/2045356799751303194",
+    "title": "不知火舞的小红书主页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-287"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "不知火舞的小红书主页",
+  "version": "v1"
+}

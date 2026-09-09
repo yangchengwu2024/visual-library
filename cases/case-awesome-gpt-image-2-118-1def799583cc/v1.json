@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 174000,
+      "path": "images/bd2f5d540fce72004591ba9d1e2d777ad867192a0ab8a0b2baa72a08e4b1f6ea.jpg",
+      "role": "source_example",
+      "sha256": "bd2f5d540fce72004591ba9d1e2d777ad867192a0ab8a0b2baa72a08e4b1f6ea",
+      "source_path": "data/images/case118.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-118-1def799583cc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "99352e4e09dc753f88986b8ab2febb5ead26bf3efc950f46ca7ad926aa78e226",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A high-contrast, black-and-white illustration of an elderly man in a sharp suit, drawing a katana. The man has slicked-back white hair, deep wrinkles, and an intense, focused expression, looking down at the blade. He wears a dark suit, white shirt, and dark tie. His hands are prominently featured in the foreground, showing pronounced veins and wrinkles as they grip the ornate handle and scabbard of the katana. The background is completely black, emphasizing the dramatic lighting and intricate cross-hatching details on the man's face, hands, and clothing. The style resembles a detailed, gritty manga or graphic novel.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case118.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "118",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/nicdunz",
+    "title": "漫画分镜叙事设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-118"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "漫画分镜叙事设计",
+  "version": "v1"
+}

@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 216450,
+      "path": "images/59009b5e77b72d3dea360945375f347f1e9798e89b2bd1d6c9347cf42b20a455.jpg",
+      "role": "source_example",
+      "sha256": "59009b5e77b72d3dea360945375f347f1e9798e89b2bd1d6c9347cf42b20a455",
+      "source_path": "data/images/case213.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-213-c017a8b81569",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5e800685c91c40dc2e0c903064c38cbaa2533fd15fc9d047c41524d52822a1ee",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n帮我生成一个以《金瓶梅》为主题的古代 ARPG MMO 开放世界游戏的截图\n\n[English]\nHelp me generate a screenshot of an ancient ARPG MMO open-world game themed around Jin Ping Mei.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case213.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "213",
+    "source_tags": {
+      "scenes": [
+        "Story",
+        "History"
+      ],
+      "styles": [
+        "UI",
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/op7418/status/2046520509651886451",
+    "title": "金瓶梅古风开放世界游戏截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-213"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "金瓶梅古风开放世界游戏截图",
+  "version": "v1"
+}

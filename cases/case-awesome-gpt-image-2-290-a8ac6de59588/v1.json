@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 258176,
+      "path": "images/4a0b94f1d5fcd6a656ea93ea2b48466b5852cc2da91a883462f52142a560b703.jpg",
+      "role": "source_example",
+      "sha256": "4a0b94f1d5fcd6a656ea93ea2b48466b5852cc2da91a883462f52142a560b703",
+      "source_path": "data/images/case290.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-290-a8ac6de59588",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c22a6dffca0b3e765609b692718b933bff0344664d1cbd10713a1592dac5a523",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n为中国古代诗人设计一套游戏卡片，并按照SSR SR R 分级，重点卡片有放大展示的效果，包括卡面设计和人物介绍，有很高级的游戏卡片质感，稀有卡片还会有特色的光影例如镭射效果 需要有套卡设计和技能设计，并附带较为详细的说明\n\n[English]\nDesign a set of game cards for ancient Chinese poets, classified by SSR SR R grades, with key cards having an enlarged display effect, including card face design and character introduction, having a very high-end game card texture, rare cards will also have special light and shadow effects such as holographic laser effects, requiring set card design and skill design, along with relatively detailed descriptions",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case290.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "290",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "History"
+      ],
+      "styles": [
+        "UI",
+        "Character",
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/TanShilong/status/2045435090923356415",
+    "title": "古风诗人镭射典藏卡牌",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-290"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "古风诗人镭射典藏卡牌",
+  "version": "v1"
+}

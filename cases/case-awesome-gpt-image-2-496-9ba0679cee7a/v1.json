@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 263851,
+      "path": "images/093ee67b50ef24fe226956e845405c4d24f7ef1eb4aca4798e70c0f037000738.jpg",
+      "role": "source_example",
+      "sha256": "093ee67b50ef24fe226956e845405c4d24f7ef1eb4aca4798e70c0f037000738",
+      "source_path": "data/images/case496.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-496-9ba0679cee7a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f51a2d9ba6e3b36b0f5f83b344292acf5c27f1e5ac4c7cc93e08476da059b3fc",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a premium 3x2 grid collage of iconic global brand logos recreated entirely from dynamic water formations, floating above a crystal-clear ocean under a vibrant blue sky. Each panel features a different logo sculpted from realistic transparent water, with detailed splashes, droplets, reflections, refractions, and flowing liquid textures. The water forms should look physically accurate, elegant, and instantly recognizable while remaining made completely of water.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case496.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "496",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/AIwithSynthia/status/2062521441141088599",
+    "title": "水雕品牌 Logo 六宫格",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-496"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "水雕品牌 Logo 六宫格",
+  "version": "v1"
+}

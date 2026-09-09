@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 342841,
+      "path": "images/8eda4d63afbca7cca5b7e30fcf1358099d1ee43c74ce1713ecc7b4d431b6165f.jpg",
+      "role": "source_example",
+      "sha256": "8eda4d63afbca7cca5b7e30fcf1358099d1ee43c74ce1713ecc7b4d431b6165f",
+      "source_path": "data/images/case254.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-254-a6224e14210c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4ca06535361e13e89ca4dce47d97ee3638143ece0d7b62ef407f35444d547c2c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n设计一张主题是”奔赴山海”的胶片感摄影风格的海报\n\n[English]\nDesign a poster with the theme of \"running towards the mountains and seas\" in a film photography style",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case254.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "254",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "奔赴山海胶片感海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-254"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "奔赴山海胶片感海报",
+  "version": "v1"
+}

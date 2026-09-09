@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-417-850aaba9ae1a",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "商品"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case417.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "417",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/NyaiiBubu/status/2053075349424992532",
+      "title": "复古印尼猫薄荷广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-417",
+      "version": "v1"
+    }
+  ],
+  "title": "复古印尼猫薄荷广告",
+  "title_aliases": [
+    "复古印尼猫薄荷广告"
+  ]
+}

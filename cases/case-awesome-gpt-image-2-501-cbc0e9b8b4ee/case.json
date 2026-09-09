@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-501-cbc0e9b8b4ee",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Character",
+        "Classical"
+      ]
+    },
+    "styles": [
+      "写实",
+      "人物与角色",
+      "古典"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case501.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "501",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic",
+          "Character",
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/iamaiistudio/status/2063247373388992790",
+      "title": "夏日牵手回眸电影肖像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-501",
+      "version": "v1"
+    }
+  ],
+  "title": "夏日牵手回眸电影肖像",
+  "title_aliases": [
+    "夏日牵手回眸电影肖像"
+  ]
+}

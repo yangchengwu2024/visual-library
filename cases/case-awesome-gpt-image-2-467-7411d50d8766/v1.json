@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 275027,
+      "path": "images/b5a445eec1370114ee83e4b7d2d82855148529a6bb167ca82fa25a494f364d96.jpg",
+      "role": "source_example",
+      "sha256": "b5a445eec1370114ee83e4b7d2d82855148529a6bb167ca82fa25a494f364d96",
+      "source_path": "data/images/case467.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-467-7411d50d8766",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f638e3bc8d95c2fb4c54ec8eb64e65121c920e0fb0edc720608d2e59234e2150",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "泳装时尚杂志广告页面，日本成熟模特，S型曲线。变换姿势和风格，九宫格展示，保持人物面部一致性",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case467.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "467",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Adam38363368936/status/2058859338211656051",
+    "title": "泳装杂志九宫格广告页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-467"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "泳装杂志九宫格广告页",
+  "version": "v1"
+}

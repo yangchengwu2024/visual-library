@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 84879,
+      "path": "images/491ee2579b34804401d62702b08e9d604b2569a3f5facc29758ae38481356c46.jpg",
+      "role": "source_example",
+      "sha256": "491ee2579b34804401d62702b08e9d604b2569a3f5facc29758ae38481356c46",
+      "source_path": "data/images/case273.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-273-100c265b7d4f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4bb9f84cb4e04e27f81be13a333f26d1923461bb7d291beabe617fc22ba0ce14",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张电影级极简肖像，一个孤独的男人站在强烈的橙色到红色渐变环境中，强烈的剪影光，深邃的阴影对比，反光的光滑地面，对称构图，极简\n\n[English]\nGenerate a cinematic minimal portrait of a solitary man standing in an intense orange to red gradient environment, strong silhouette lighting, deep shadow contrast, reflective glossy floor, symmetrical composition, minimal",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case273.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "273",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Photography"
+      ]
+    },
+    "source_url": "https://x.com/iam_miharbi/status/2045151354679665101",
+    "title": "橙红渐变中的孤独剪影",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-273"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "橙红渐变中的孤独剪影",
+  "version": "v1"
+}

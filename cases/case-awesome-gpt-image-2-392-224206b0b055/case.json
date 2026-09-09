@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-392-224206b0b055",
+  "classification": {
+    "categories": [
+      "场景与叙事"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Scenes & Storytelling",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case392.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "392",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/krafterlab/status/2051399740986740986",
+      "title": "头发里的微型城市",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-392",
+      "version": "v1"
+    }
+  ],
+  "title": "头发里的微型城市",
+  "title_aliases": [
+    "头发里的微型城市"
+  ]
+}

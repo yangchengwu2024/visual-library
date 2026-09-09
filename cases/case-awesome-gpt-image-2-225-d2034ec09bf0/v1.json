@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 162542,
+      "path": "images/66125a68271db4e4d09fb123977e0e7ee62e8b558e472a38afce58cba9a83d71.jpg",
+      "role": "source_example",
+      "sha256": "66125a68271db4e4d09fb123977e0e7ee62e8b558e472a38afce58cba9a83d71",
+      "source_path": "data/images/case225.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-225-d2034ec09bf0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0fe92ba7dd2e1893816f55ac05a6a7fba98486edde0b2fc26c1689ade5a5d974",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n帮我生成xxxx真迹图片\n\n[English]\nHelp me generate xxxx authentic picture",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case225.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "225",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046201836525302032",
+    "title": "大师级真迹复刻",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-225"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "大师级真迹复刻",
+  "version": "v1"
+}

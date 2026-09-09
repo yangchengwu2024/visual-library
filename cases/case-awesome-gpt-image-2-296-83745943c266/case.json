@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-296-83745943c266",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case296.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "296",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2045504669401653414",
+      "title": "博物馆级中文拆解信息图鉴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-296",
+      "version": "v1"
+    }
+  ],
+  "title": "博物馆级中文拆解信息图鉴",
+  "title_aliases": [
+    "博物馆级中文拆解信息图鉴"
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 145627,
+      "path": "images/d20a6cc3f2ba71ccf0c733b78a4dce55329aa28e82d00974b5536e5d5fd45f64.jpg",
+      "role": "source_example",
+      "sha256": "d20a6cc3f2ba71ccf0c733b78a4dce55329aa28e82d00974b5536e5d5fd45f64",
+      "source_path": "data/images/case227.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-227-8dcc9a0d5434",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a615d2125138c41bc5b400e0f0104627ccaf2559cb79716013878df7e27db122",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n9:16 的图片，生成一张哔哩哔哩直播的截图，里面是 户晨风在直播，户晨风表情开心，手里拿着牌子，牌子里写着 “Austin总太性情了，大家给Austin总点点关注。”\n\n[English]\nA 9:16 image, generate a screenshot of a Bilibili live stream, inside is Hu Chenfeng broadcasting live, Hu Chenfeng has a happy expression, holding a sign in his hand, the sign says \"Boss Austin is so emotional, everyone please give Boss Austin some follows.\"",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case227.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "227",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/austinit/status/2044994519649997183",
+    "title": "哔哩哔哩户晨风直播截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-227"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "哔哩哔哩户晨风直播截图",
+  "version": "v1"
+}

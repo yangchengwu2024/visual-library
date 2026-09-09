@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 151866,
+      "path": "images/da754ce2372298262678a4b40caf0bdc7664b70652a1353d120913e96db0442a.jpg",
+      "role": "source_example",
+      "sha256": "da754ce2372298262678a4b40caf0bdc7664b70652a1353d120913e96db0442a",
+      "source_path": "data/images/case438.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-438-9e1303df00ab",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bedc6f348b1c1b06b27cc6911a2e5a2d5b66247c44038968e0bb25d00bc7a24a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a hyper-detailed luxury advertising poster in a cinematic miniature-world style. A gigantic royal diamond necklace with intricate gold filigree and massive ruby gemstones stands in the center like an architectural monument. Surround the necklace with a futuristic miniature city built around and inside the jewelry piece, including skyscrapers, elevated highways, bridges, spiral staircases, tiny human figures, luxury billboards, drones, helicopters, and cinematic urban activity. Use a deep crimson red monochrome background with gold and ruby accents. Add premium fashion-ad aesthetics, ultra-realistic textures, glossy reflections, dramatic studio lighting, depth of field, tilt-shift miniature effect, and high-end commercial composition. Include bold elegant typography at the top saying: “EMBRACE THE EXTRAORDINARY”. Style inspired by luxury jewelry campaigns, surreal city-building concepts, and premium 3D advertising renders. Ultra realistic, 8K, octane render, sharp focus, highly detailed, cinematic shadows, symmetrical composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case438.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "438",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Umar__786Ai/status/2055664244138349055",
+    "title": "珠宝微缩城市广告海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-438"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "珠宝微缩城市广告海报",
+  "version": "v1"
+}

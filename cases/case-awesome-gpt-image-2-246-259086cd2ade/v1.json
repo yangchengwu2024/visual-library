@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 223803,
+      "path": "images/92b5ddf1b9477b112f2a6de1a2ddd060427906229371a9b46c51b616c5e6db5d.jpg",
+      "role": "source_example",
+      "sha256": "92b5ddf1b9477b112f2a6de1a2ddd060427906229371a9b46c51b616c5e6db5d",
+      "source_path": "data/images/case246.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-246-259086cd2ade",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "140f790251c8c7dd0c7a048cb424daca2e40ce629e2ae08dbb85bfac516fb4ca",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n设计一张黑色线稿风格的上海明信片\n\n[English]\nDesign a Shanghai postcard in black line art style.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case246.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "246",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "黑白线稿勾勒的上海风情",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-246"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "黑白线稿勾勒的上海风情",
+  "version": "v1"
+}

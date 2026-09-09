@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 260604,
+      "path": "images/9723e2f8be141421202d24d8c000047073678e73bdac8aa59dff9e0964f48d89.jpg",
+      "role": "source_example",
+      "sha256": "9723e2f8be141421202d24d8c000047073678e73bdac8aa59dff9e0964f48d89",
+      "source_path": "data/images/case363.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-363-91d0d096076c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b58e814c338066715fb7d19385454a924b16e0392706418854f82aaca8b8c88c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Transform the uploaded logo into a hyper-realistic scene where the logo silhouette is formed by iron filings reacting to a magnetic field. The logo must keep its exact shape and proportions, appearing as if a magnet shaped like the logo (or hidden beneath the surface) is influencing the filings to align naturally into that recognizable formation. Material details:\nFine iron filings with sharp, spiky, needle-like structures.\nDense clustering along magnetic field lines forming the logo silhouette.\nVariation in density — thick near magnetic poles, thinner outward.\nMatte dark metallic texture with subtle reflections.\n\nPhysics behavior:\nIron filings must follow realistic magnetic field patterns — radial and curved lines forming spikes and ridges.\nStronger attraction zones create thicker, raised clusters.\nOuter areas show softer, more dispersed alignment.\nNatural randomness and slight irregularity — no perfect edges.\nSome loose filings scattered beyond the main shape.\n\nSurface interaction:\nFlat surface such as a lab table, glass plate, or matte black tray.\nFilings resting on surface but visibly lifted in areas due to magnetic force (spiky texture).\nSubtle dust and micro particles around.\n\nEnvironment & human presence:\nRealistic classroom, science lab, or creative studio environment.\nA person partially visible — hands holding or moving a magnet beneath the surface or nearby.\nPossibly a child or adult observing or interacting (adds emotional curiosity).\nOther subtle elements: notebooks, tools, or lab items out of focus.\n\nLighting:\nDirectional overhead light creating shadows from raised filings.\nSubtle highlights on metallic edges.\nBalanced natural or indoor lighting.\n\nAtmosphere:\nCuriosity.\nDiscovery.\nEducational yet visually satisfying.\nQuiet but engaging moment.\n\nCamera & composition:\nTop-down or slightly angled close-up view.\nLogo clearly visible through iron filing formation.\nHuman hands or interaction slightly off-center for storytelling.\n\nFormat:\nAspect ratio: STRICT 4:5 vertical.\nNo text overlays.\n\nStyle:\nHyper-real macro + environmental photography.\nPhysically accurate magnetic behavior.\nCinematic yet grounded realism.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case363.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "363",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Naiknelofar788/status/2049835482331357460",
+    "title": "磁场铁粉 Logo 物理成像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-363"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "磁场铁粉 Logo 物理成像",
+  "version": "v1"
+}

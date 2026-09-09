@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-380-bc60d48bab2e",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技",
+      "叙事"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Story"
+      ],
+      "styles": [
+        "Infographic",
+        "Realistic",
+        "3D"
+      ]
+    },
+    "styles": [
+      "信息图",
+      "写实",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case380.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "380",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Story"
+        ],
+        "styles": [
+          "Infographic",
+          "Realistic",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Gdgtify/status/2051288232613351571",
+      "title": "冠状病毒尺度缩放科学信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-380",
+      "version": "v1"
+    }
+  ],
+  "title": "冠状病毒尺度缩放科学信息图",
+  "title_aliases": [
+    "冠状病毒尺度缩放科学信息图"
+  ]
+}

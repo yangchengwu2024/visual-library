@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-416-c89ef9d7b30f",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case416.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "416",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/ZaraIrahh/status/2053075976469512686",
+      "title": "Earth Signs 角色 Scrapbook",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-416",
+      "version": "v1"
+    }
+  ],
+  "title": "Earth Signs 角色 Scrapbook",
+  "title_aliases": [
+    "Earth Signs 角色 Scrapbook"
+  ]
+}

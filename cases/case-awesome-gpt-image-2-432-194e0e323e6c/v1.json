@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 331371,
+      "path": "images/b0aecc8dbb55c431840193b395234be06dcce240e59593dd021f3789454f5ae7.jpg",
+      "role": "source_example",
+      "sha256": "b0aecc8dbb55c431840193b395234be06dcce240e59593dd021f3789454f5ae7",
+      "source_path": "data/images/case432.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-432-194e0e323e6c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5aa298a213503d4628a334b738356b133d9e5d23df0018df667256210f73d549",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a premium editorial travel poster illustration of the Great Barrier Reef, Australia.\nStyle: Flat vector illustration, ultra-clean minimalism, mid-century modern travel poster aesthetic, inspired by vintage tourism prints and Scandinavian graphic design. No photorealism, no textures, no noise, no gradients. Use crisp shapes, smooth color blocks, and harmonious vibrant tones.\nComposition (vertical 3:4 layout):\nForeground (underwater): A rich coral reef ecosystem filled with colorful corals in pink, orange, yellow, and red tones. Include tropical fish of various species (striped, bright yellow, blue, and orange), and a large sea turtle swimming gracefully toward the right. Clear turquoise water with high visibility.\nMidground: A female snorkeler swimming horizontally just beneath the water surface, wearing fins and a snorkel mask, observing the reef below. Light rays subtly pass through the water surface.\nBackground (above water): A calm tropical ocean with shallow reef patches visible through crystal-clear water. A white leisure boat floats peacefully on the left, and a small sailboat appears far in the distance. On the horizon, soft green islands or hills stretch across.\nSky: Bright blue sky with fluffy white clouds and a few birds flying, enhancing the serene vacation mood.\nTypography:\nAt the bottom of the poster, include bold uppercase text:\n“GREAT BARRIER REEF”\nBelow it, smaller spaced-out text:\n“AUSTRALIA”\nAdd a small decorative coral icon between divider lines.\nMood & Lighting: Bright daylight, calm, inviting, tropical paradise atmosphere. Colors should feel fresh, vibrant, and relaxing with strong contrast between coral reef and ocean blues.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case432.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "432",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/jzaib4269/status/2055487295734620522",
+    "title": "大堡礁复古旅行海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-432"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "大堡礁复古旅行海报",
+  "version": "v1"
+}

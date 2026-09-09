@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 1502801,
+      "path": "images/0427bad3742cc29d34d4d863cc486ec874c2b20fe627afbd52d8bc9e717201c3.png",
+      "role": "source_example",
+      "sha256": "0427bad3742cc29d34d4d863cc486ec874c2b20fe627afbd52d8bc9e717201c3",
+      "source_path": "data/images/case333.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-333-b0b7bba964c9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3b9e03ec018426c1c1a9ec828e2a516df0ab47123045d72694dfad2749995ce2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "生成一张AI眼镜的爆炸视图，包含每个组件的名称以及这款产品的几大核心卖点。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case333.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "333",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Charts"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-333",
+    "title": "AI 眼镜爆炸拆解图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-333"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "AI 眼镜爆炸拆解图",
+  "version": "v1"
+}

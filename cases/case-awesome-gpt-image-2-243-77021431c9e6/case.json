@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-243-77021431c9e6",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "社媒"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "styles": [
+      "界面"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case243.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "243",
+      "source_tags": {
+        "scenes": [
+          "Social"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/stark_nico99/status/2045836554451706125",
+      "title": "定制专属风格界面设计系统",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-243",
+      "version": "v1"
+    }
+  ],
+  "title": "定制专属风格界面设计系统",
+  "title_aliases": [
+    "定制专属风格界面设计系统"
+  ]
+}

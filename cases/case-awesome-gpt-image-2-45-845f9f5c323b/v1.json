@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 154156,
+      "path": "images/45142a1b195aea37e7c31bf1911d4add5e248f29ebd4f3cca82510e3e864a2d5.jpg",
+      "role": "source_example",
+      "sha256": "45142a1b195aea37e7c31bf1911d4add5e248f29ebd4f3cca82510e3e864a2d5",
+      "source_path": "data/images/case45.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-45-845f9f5c323b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "393c9fafefcd3de03f40670bc5bcc3c98378088d3007698be59f1c807aea867f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A striking black and white close-up portrait of a {argument name=\"subject description\" default=\"handsome young Asian man\"} with {argument name=\"hair style\" default=\"messy wet hair sticking to his forehead\"}. His face and neck are glistening, covered in highly detailed {argument name=\"skin texture detail\" default=\"water droplets and sweat\"}. He has an intense, melancholic gaze directed off-camera to the left. The lighting is dramatic and high-contrast, emphasizing his sharp jawline, full lips, and specular highlights on the wet skin against a {argument name=\"background\" default=\"pitch-black background\"}. Shot in a photorealistic, high-fashion editorial style with cinematic chiaroscuro.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case45.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "45",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/AoYe999",
+    "title": "人像写实摄影图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-45"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "人像写实摄影图",
+  "version": "v1"
+}

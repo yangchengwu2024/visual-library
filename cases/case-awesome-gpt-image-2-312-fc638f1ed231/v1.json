@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 183600,
+      "path": "images/18e5f86e69921e53234f3a376f1d7c35b5df413ef9c535c9361e21e5dc210d62.jpg",
+      "role": "source_example",
+      "sha256": "18e5f86e69921e53234f3a376f1d7c35b5df413ef9c535c9361e21e5dc210d62",
+      "source_path": "data/images/case312.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-312-fc638f1ed231",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "00935f3198b3aa20bc36f8e44813e08d15e551e228c59c56c9cfb631349e4af2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n{\n  \"prompt\": \"一个充满活力的高端广告构图中的三个超动态苏打水罐 —— 一罐热带冲刺苏打水伴随着戏剧性的水和热带水果飞溅而爆炸，鲜艳的橙色和粉色背景光；一罐柠檬冰爽苏打水在发光的绿色动态光背景下被冷水泼溅；两罐都覆盖着逼真的冷凝水和运动模糊的水滴，充满果味和清爽的能量。深橙色、粉色和霓虹绿灯光在大胆的演播室布置中融合。由使用佳能 50mm 镜头的专业摄影师拍摄，超写实纹理，清晰的细节，超高分辨率，明亮的商业海报美学，丰富的色彩鲜艳度，电影级飞溅效果 --ar 3:4\"\n}\n\n[English]\n{\n  \"prompt\": \"Three ultra-dynamic soda cans in one vibrant high-end advertising composition — a can of TROPICAL RUSH exploding with dramatic water and tropical fruit splash, vibrant orange and pink background lighting; a can of LEMON ICED splashed with cold water against a glowing green dynamic light background; both cans covered in realistic condensation and motion-blurred droplets, bursting with fruity, refreshing energy. Deep orange, pink, and neon green lighting blend together in a bold studio setup. Captured by a professional photographer using a Canon 50mm lens, hyper-realistic textures, crisp details, ultra high resolution, bright commercial poster aesthetic, rich color vibrancy, cinematic splash effects --ar 3:4\"\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case312.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "312",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Fujimoto_hina/status/2028388808320819277",
+    "title": "鲜艳霓虹光影下的动感苏打水飞溅商业海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-312"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "鲜艳霓虹光影下的动感苏打水飞溅商业海报",
+  "version": "v1"
+}

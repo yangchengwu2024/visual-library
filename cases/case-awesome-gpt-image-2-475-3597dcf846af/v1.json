@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 198553,
+      "path": "images/61ffe2cbcc2bac37eeb2b73cf40b8a057148bdbc080ab16e2354043fac4ed653.jpg",
+      "role": "source_example",
+      "sha256": "61ffe2cbcc2bac37eeb2b73cf40b8a057148bdbc080ab16e2354043fac4ed653",
+      "source_path": "data/images/case475.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-475-3597dcf846af",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cc81ea7942df0571e8b882448007faa0960d7d724127b16e4c709c2298df5f5e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Using the attached image, create an illustration sheet of professional industrial design packaging for the package (PACKAGE TYPE). A centered heroic 3D rendering with realistic materials, soft studio lighting and commercial quality finishes. Surrounded by technical views: front, side, top, bottom, oblique perspective and flat position. Include sketches of the frame structure, crease lines, seam details, and size arrows in millimeters. Show materials and finishes (matte, glossy print, plastic, paper, glass, etc.) in handwritten annotations. Add color swatches, realistic product illustrations, and subtle shadows. Clean sketchbook background, realistic rendering + pencil sketch style, modern design design, ultra-detailed, portfolio ready.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case475.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "475",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "Illustration",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/iamaiistudio/status/2059305097897914664",
+    "title": "企鹅造型包装结构板",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-475"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "企鹅造型包装结构板",
+  "version": "v1"
+}

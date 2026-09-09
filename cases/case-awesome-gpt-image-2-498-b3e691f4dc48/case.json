@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-498-b3e691f4dc48",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "商业"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration",
+        "3D"
+      ]
+    },
+    "styles": [
+      "插画",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case498.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "498",
+      "source_tags": {
+        "scenes": [
+          "Commerce"
+        ],
+        "styles": [
+          "Illustration",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/AIwithkhan/status/2062567518389391540",
+      "title": "铅笔画背景 3D 分身",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-498",
+      "version": "v1"
+    }
+  ],
+  "title": "铅笔画背景 3D 分身",
+  "title_aliases": [
+    "铅笔画背景 3D 分身"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 122288,
+      "path": "images/4da3f24319e3f0f99b6dc3b62f7b9de014cd66eacaa8202055e6f30e71ccb914.jpg",
+      "role": "source_example",
+      "sha256": "4da3f24319e3f0f99b6dc3b62f7b9de014cd66eacaa8202055e6f30e71ccb914",
+      "source_path": "data/images/case490.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-490-9bb292e87f8e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ee3c7e714dd25f08c8cd33647f6e5d4e769990dd591028641e81b9b4b590d44b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A cinematic double-exposure fashion portrait featuring a woman with the uploaded face used 100% as reference, wearing stylish metallic aviator sunglasses. The composition artfully blends a large, semi-transparent close-up profile of her face on the left with her full-body figure standing confidently on the right. She wears an open, light-grey textured corduroy shirt layered over a dark grey fitted t-shirt and dark denim jeans, posing naturally with her hands in her pockets. She has long, flowing dark hair, flawless skin, elegant feminine features, and a confident, sophisticated expression.\n\nThe background is a minimalist neutral studio setting, allowing the double-exposure composition to remain the visual focus. The color grading features a sophisticated warm desaturated sepia and charcoal palette, enhanced by a soft golden-orange light-leak flare in the upper-right corner. Professional 85mm lens photography with high-contrast yet soft cinematic lighting accentuates the fabric textures, facial details, and layered portrait effect.\n\nUltra-realistic skin texture, luxury fashion-editorial aesthetic, premium magazine-cover quality, subtle film grain, cinematic depth, elegant shadows, refined color grading, modern retro-inspired styling, masterpiece composition, ultra-sharp focus, visually striking storytelling, high-end commercial fashion campaign look.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case490.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "490",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Anaya_Ai12/status/2062191518975508678",
+    "title": "双重曝光时尚肖像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-490"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "双重曝光时尚肖像",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 375434,
+      "path": "images/208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce.jpg",
+      "role": "source_example",
+      "sha256": "208acc37a7bcbfe73bd97a523024863cbb5e8d2457726a9d32ef5c15598044ce",
+      "source_path": "data/images/case112.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-112-f1e2fd4c65e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7867ce564734b96e4ab59cedbff95ae2e810470ba057ad4edaa1f5ba4c2e0504",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Generate a 12-grid card image of the 12 Golden Saints from Saint Seiya, with each card featuring its corresponding Chinese name, 4 cards per row, in a 16:9 aspect ratio.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case112.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "112",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Infographic"
+      ]
+    },
+    "source_url": "https://x.com/songguoxiansen",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-112"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

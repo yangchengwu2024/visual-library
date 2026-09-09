@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-252-5d5f58486c11",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "styles": [
+      "其他应用场景"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case252.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "252",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Other Use Cases"
+        ]
+      },
+      "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+      "title": "五一劳动节手举牌创意设计集",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-252",
+      "version": "v1"
+    }
+  ],
+  "title": "五一劳动节手举牌创意设计集",
+  "title_aliases": [
+    "五一劳动节手举牌创意设计集"
+  ]
+}

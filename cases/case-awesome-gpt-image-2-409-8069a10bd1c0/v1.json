@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 234845,
+      "path": "images/7d85ba10f29fb36d6205632d55c5eda3e48a9111a39f36d7deaa19ec13ae719e.jpg",
+      "role": "source_example",
+      "sha256": "7d85ba10f29fb36d6205632d55c5eda3e48a9111a39f36d7deaa19ec13ae719e",
+      "source_path": "data/images/case409.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-409-8069a10bd1c0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6aa6ac6630faa17a6b11acd600c968c2847a6c4aee7fe9122ebf16c8bddfcf52",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Please redraw the attached image in the most clumsy, messy, and hopelessly pathetic way possible. Use a white background and make it look like it was drawn in MS Paint with a mouse. It should vaguely resemble the original, but not really — like it’s kind of correct in some places yet strangely off and awkward overall. Emphasize a low-quality, pixelated look, and make it appear ridiculously badly drawn. …Actually, never mind — just draw it however you want in a sloppy way.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case409.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "409",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/Ciri_ai/status/2052969749878059362",
+    "title": "拙劣 MS Paint 风重绘",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-409"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "拙劣 MS Paint 风重绘",
+  "version": "v1"
+}

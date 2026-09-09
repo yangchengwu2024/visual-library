@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-293-42974e547f53",
+  "classification": {
+    "categories": [
+      "文档与出版物"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "Documents & Publishing",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "styles": [
+      "Documents"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case293.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "293",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Documents"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2044824800909054181",
+      "title": "聚焦人工智能的校园日报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-293",
+      "version": "v1"
+    }
+  ],
+  "title": "聚焦人工智能的校园日报",
+  "title_aliases": [
+    "聚焦人工智能的校园日报"
+  ]
+}

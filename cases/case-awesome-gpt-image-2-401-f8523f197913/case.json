@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-401-f8523f197913",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case401.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "401",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/SadiaMalik182",
+      "title": "Lost in 国家旅行海报拼贴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-401",
+      "version": "v1"
+    }
+  ],
+  "title": "Lost in 国家旅行海报拼贴",
+  "title_aliases": [
+    "Lost in 国家旅行海报拼贴"
+  ]
+}

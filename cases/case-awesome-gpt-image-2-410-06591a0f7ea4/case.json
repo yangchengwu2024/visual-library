@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-410-06591a0f7ea4",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case410.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "410",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Zyrellix/status/2052766810500649197",
+      "title": "夸张动漫风主体重绘",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-410",
+      "version": "v1"
+    }
+  ],
+  "title": "夸张动漫风主体重绘",
+  "title_aliases": [
+    "夸张动漫风主体重绘"
+  ]
+}

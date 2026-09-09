@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 320826,
+      "path": "images/a30ec6794d54736e0a20c7c816f457a7ccf81f1b97fc64e011e61d4e8b015d3a.jpg",
+      "role": "source_example",
+      "sha256": "a30ec6794d54736e0a20c7c816f457a7ccf81f1b97fc64e011e61d4e8b015d3a",
+      "source_path": "data/images/case457.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-457-86e51ca84476",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6e15b9859c056516e998eca55d743326bc7aab7ca3a75b886197465bd6078087",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "<instructions>\ninput = 3 legendary dancer/choreographer\ninput = ai inferred signature movement sequence\n\nfunction render_kinesphere ($ dancer, $ movement)\n  anchor:\n    [figure composed entirely of motion trails] :: [the $ movement sequence traced as continuous luminous bands that coalesce into a portrait of $ dancer]::5\n\n  morphology:\n    the arabesque trails weave the skull, a grand jeté arc forms the cheekbone, the arms' sweep creates the jaw, stillness is implied by negative spaces::4\n\n  material physics:\n    blackened silver gelatin print, faint chemical residue, slight motion blur, glowing filament traces like a Marey wheel photograph::3\n\n  illumination:\n    complete darkness with bioluminescent-like light trails, no external light sources, high contrast::2\n\n  render stack:\n    chronophotography, fine art dance study, 8k, kinetic sculpture concept::1\n\n  negative:\n    [still body parts, studio lights, solid silhouettes]::-1\n</instructions>",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case457.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "457",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Gdgtify/status/2057741253127594118",
+    "title": "运动轨迹舞者光绘海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-457"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "运动轨迹舞者光绘海报",
+  "version": "v1"
+}

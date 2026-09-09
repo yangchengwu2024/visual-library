@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 159199,
+      "path": "images/6de4332154d9888d602538ea49a02b7c9ca29abf75a0c2bf6861e5a741b58187.jpg",
+      "role": "source_example",
+      "sha256": "6de4332154d9888d602538ea49a02b7c9ca29abf75a0c2bf6861e5a741b58187",
+      "source_path": "data/images/case325.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-325-2d19ec404885",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5f116ffdb5fc99b45dd27c8609b61225819cf2ece289cd8eb5f9e11d7eb008db",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一个风格化的3D卡通肖像，一位年轻男子，拥有短棕发和富有表现力的绿色眼睛，温暖地微笑。他穿着黑色西装外套内搭白色T恤，现代休闲时尚。类似皮克斯/迪士尼风格角色设计，皮肤光滑，柔和光照，略微夸张的面部特征。高细节、精美的3D渲染，友好且平易近人的表情。渐变背景为柔和的蓝绿色和粉色，工作室灯光，浅景深，高分辨率。\n\n[English]\nA stylized 3D cartoon portrait of a young man with short brown hair and expressive green eyes, smiling warmly. He is wearing a black blazer over a white t-shirt, modern casual fashion. Pixar-like / Disney-style character design with smooth skin, soft lighting, and slightly exaggerated facial features. High detail, polished 3D render, friendly and approachable expression. Gradient background with soft teal and pink colors, studio lighting, shallow depth of field, high resolution.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case325.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "325",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Character",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/iamsofiaijaz/status/2013473309485343120",
+    "title": "皮克斯风阳光少年",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-325"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "皮克斯风阳光少年",
+  "version": "v1"
+}

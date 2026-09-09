@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-509-09743b0e0907",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case509.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "509",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Sairah_0/status/2071929275897491491",
+      "title": "涂鸦拉衣奔跑棚拍",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-509",
+      "version": "v1"
+    }
+  ],
+  "title": "涂鸦拉衣奔跑棚拍",
+  "title_aliases": [
+    "涂鸦拉衣奔跑棚拍"
+  ]
+}

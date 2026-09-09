@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-404-e928a882fa32",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "商业",
+      "社媒"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case404.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "404",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/you1873118/status/2052624395932455061",
+      "title": "豪华社媒破屏商业广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-404",
+      "version": "v1"
+    }
+  ],
+  "title": "豪华社媒破屏商业广告",
+  "title_aliases": [
+    "豪华社媒破屏商业广告"
+  ]
+}

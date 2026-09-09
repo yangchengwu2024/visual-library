@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 104192,
+      "path": "images/45cd1673c5a8dfc42b816f38eece20d5fb60878e5148c85b67ff7f1633590e8f.jpg",
+      "role": "source_example",
+      "sha256": "45cd1673c5a8dfc42b816f38eece20d5fb60878e5148c85b67ff7f1633590e8f",
+      "source_path": "data/images/case306.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-306-487bc87ec95f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b684768c8a22b7b1166127c4338d4bc7e7a340f687dbfbffd89026e1fd277cb2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n基于此角色和背景，请制作一份类似官方设定资料的角色资料卡。\n・包含三视图：正面、侧面和背面\n・添加角色面部表情的变化・分解并展示服装和装备的详细部分\n・添加色板・包含世界观设定的简要说明\n・总体上，使用有组织的布局（白色背景，插画风格）\n\n[English]\nBased on this character and background, please create a character reference sheet similar to official setting materials.\n・Includes three-view drawings: front view, side view, and back view\n・Add variations of the character's facial expressions\n・Break down and display detailed parts of the clothing and equipment\n・Add a color palette\n・Include a brief explanation of the worldview setting\n・Overall, use an organized layout (white background, illustration style)",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case306.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "306",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/MANISH1027512/status/2045013913901867334",
+    "title": "官方角色设定资料卡",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-306"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "官方角色设定资料卡",
+  "version": "v1"
+}

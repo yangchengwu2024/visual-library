@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-366-6fd3cdf6f1bc",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "写实",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case366.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "366",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/Jawad_Rahman_/status/2049796647237066971",
+      "title": "咖啡馆写实照片与 2D 涂鸦叠加",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-366",
+      "version": "v1"
+    }
+  ],
+  "title": "咖啡馆写实照片与 2D 涂鸦叠加",
+  "title_aliases": [
+    "咖啡馆写实照片与 2D 涂鸦叠加"
+  ]
+}

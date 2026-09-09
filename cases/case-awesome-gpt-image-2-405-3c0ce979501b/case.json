@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-405-3c0ce979501b",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "styles": [
+      "界面"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case405.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "405",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/oggii_0/status/2052609040539328759",
+      "title": "可爱纸艺风照片重绘",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-405",
+      "version": "v1"
+    }
+  ],
+  "title": "可爱纸艺风照片重绘",
+  "title_aliases": [
+    "可爱纸艺风照片重绘"
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-361-6b11420cf33f",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "3D"
+      ]
+    },
+    "styles": [
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case361.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "361",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Ankit_patel211/status/2048834306379075759",
+      "title": "手机爆炸拆解图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-361",
+      "version": "v1"
+    }
+  ],
+  "title": "手机爆炸拆解图",
+  "title_aliases": [
+    "手机爆炸拆解图"
+  ]
+}

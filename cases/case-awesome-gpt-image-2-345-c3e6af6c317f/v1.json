@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 374470,
+      "path": "images/d933e8b783ee80637af7da3d031544177e5720ffac334e406923862069c675c5.jpg",
+      "role": "source_example",
+      "sha256": "d933e8b783ee80637af7da3d031544177e5720ffac334e406923862069c675c5",
+      "source_path": "data/images/case345.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-345-c3e6af6c317f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "61196350bb516c37641bfecefd31e8b4f257efa33de43784fbc62c967ab81b42",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a vertical poster composition on aged cream paper with a handmade analog feel. Use rough ripped paper edges, layered magazine cutouts, photocopy grain, halftone texture, ink bleed, and slightly imperfect screen-print registration. Keep the subject as the main black-and-white photographic portrait, placed prominently in the center or upper center. Surround the subject with graphic blocks of deep red, cobalt blue, warm yellow, black, and ivory.\n\nAdd supporting collage fragments such as a rainy European street, film-strip borders, newspaper clippings, urban silhouettes, and cinematic details, arranged like a handmade 1960s art-house movie poster. Use bold condensed typography with a strong visual hierarchy. Add large headline text: \"[MAIN TITLE]\". Add smaller subtitle text: \"[SUBTITLE]\". Add bottom text: \"[BRAND NAME / EVENT NAME / COMING SOON / DATE]\". If needed, include a small top line reading \"[TAGLINE]\".\n\nThe final result should feel cinematic, intellectual, rebellious, and editorial — like a lost 1960s European film poster with a strong point of view. Keep it raw, tactile, printed, imperfect, and handmade. Avoid a glossy modern finish.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case345.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "345",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/bananaprompts/status/2048541390900994476",
+    "title": "法新浪潮撕纸电影海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-345"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "法新浪潮撕纸电影海报",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 189507,
+      "path": "images/73e5062ffad5eb4d254537512dd8a9c04cf9223a87027641dfaaa7d932558d45.jpg",
+      "role": "source_example",
+      "sha256": "73e5062ffad5eb4d254537512dd8a9c04cf9223a87027641dfaaa7d932558d45",
+      "source_path": "data/images/case531.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-531-53b1d7706dfd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e79d0ac1fb1f13f779a7cb1382ae452ff3868d68dd8919139cbbed6e1a9af2d4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a luxurious, dreamy country travel-art collection in the exact visual language of an elegant premium tourism campaign: a large transparent crystal/glass architectural frame or arched glass display standing on a glossy reflective surface, containing a highly detailed cinematic illustration of the destination. For [COUNTRY], feature its most iconic landmarks, historic architecture, distinctive landscapes, local transportation, cultural elements, national flag, flowers and recognizable scenery arranged as one seamless poetic panorama. Use warm golden-hour sunlight, soft atmospheric haze, pastel cream, champagne, muted blue and sage tones, delicate clouds, subtle birds, realistic glass refraction and rainbow prism highlights along the edges. Create a perfect mirror reflection beneath the glass structure, extending the entire composition downward with beautifully softened reflections. Add elegant editorial typography at the top reading “[COUNTRY]”, with smaller refined text “THE SOUL OF [COUNTRY]” and “A JOURNEY THROUGH TIME • 2026” beneath it. Sophisticated luxury travel magazine aesthetic, photorealistic yet painterly, cinematic depth, fine-art composition, extremely detailed architecture, serene atmosphere, premium advertising photography, symmetrical balanced framing, soft film grain, 8K, vertical 4:5, no clutter, no modern UI elements, no extra text.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case531.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "531",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Taaruk_/status/2091391283063361558",
+    "title": "水晶框国家旅行广告海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-531"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "水晶框国家旅行广告海报",
+  "version": "v1"
+}

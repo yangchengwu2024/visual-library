@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-317-a613f9e22114",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "叙事"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Product",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "写实",
+      "商品",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case317.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "317",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Realistic",
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Maercihh/status/2026941078885310750",
+      "title": "震撼视觉的深红影棚广角美妆大片",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-317",
+      "version": "v1"
+    }
+  ],
+  "title": "震撼视觉的深红影棚广角美妆大片",
+  "title_aliases": [
+    "震撼视觉的深红影棚广角美妆大片"
+  ]
+}

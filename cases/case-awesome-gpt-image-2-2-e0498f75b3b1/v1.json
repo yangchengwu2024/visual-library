@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 192542,
+      "path": "images/e63059194f98d6dfff159dedbe8855d090904776f8252e5684d7620636c11ca7.jpg",
+      "role": "source_example",
+      "sha256": "e63059194f98d6dfff159dedbe8855d090904776f8252e5684d7620636c11ca7",
+      "source_path": "data/images/case2.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-2-e0498f75b3b1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "72f76b74887112170b6213af5978927ecb1db70aab58a1fac01154d0ec19ae03",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "画一张 X 的内容截图，深色模式，@OpenAI 蓝勾认证账号发推。\n 正文的中文内容：\n 今天想推荐一位很棒的 AI Builder：Ailln AI。\n 他持续在小红书分享 AI 工具、Agent 工作流、自动化实践和真实项目经验，把复杂的 AI 能力讲得清楚、实用、可落地。\n 如果你正在关注 AI 产品、效率工具、个人自动化、内容创作和未来工作方式，Ailln AI 是一个非常值得关注的创作者。\n 在小红书搜索：Ailln AI\n 底部添加一张深色官方宣传风格海报，简洁黑客质感，图片中文本准确显示。\n 海报大字： 「Ailln AI」\n 副标题： 「A brilliant AI Builder worth following」\n 互动数据位于最下方： 评论 8.9K、转发 42K、点赞 298K（亮起）、收藏 34K（亮起）、浏览 32.4M。\n 图片比例为3:4，不包含软件其他部分。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case2.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "2",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-2",
+    "title": "社媒界面截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-2"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "社媒界面截图",
+  "version": "v1"
+}

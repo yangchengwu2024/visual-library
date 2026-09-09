@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-369-5130d0510f89",
+  "classification": {
+    "categories": [
+      "建筑与空间"
+    ],
+    "scenes": [
+      "旅行"
+    ],
+    "source_category": "Architecture & Spaces",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "Architecture"
+      ]
+    },
+    "styles": [
+      "Architecture"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case369.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "369",
+      "source_tags": {
+        "scenes": [
+          "Travel"
+        ],
+        "styles": [
+          "Architecture"
+        ]
+      },
+      "source_url": "https://x.com/so_ainsight/status/2050354639036654048",
+      "title": "明洞旅游区域地图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-369",
+      "version": "v1"
+    }
+  ],
+  "title": "明洞旅游区域地图",
+  "title_aliases": [
+    "明洞旅游区域地图"
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 284059,
+      "path": "images/ce7f781dac0bb01ce6a77cb3ea39c727553d709960d9141ba5348c786c6540d0.jpg",
+      "role": "source_example",
+      "sha256": "ce7f781dac0bb01ce6a77cb3ea39c727553d709960d9141ba5348c786c6540d0",
+      "source_path": "data/images/case462.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-462-3ad4098cb471",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5ef59e71748fa64f82ac3c9261dcd99ca3a4810f9ea198f48d9fbe53fb62a2df",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "添付されたキャラクターシートをSTRICTなデザインリファレンスとして使用すること。 キャラクターの顔、髪型、目の形、プロポーションは絶対に変更しない。\n\n■目的： キャラクターを日本の「ちび消しゴム商品」として完全に商品化し、 実際に文房具売り場やガチャで販売されているようなリアルなパッケージ商品写真を作成する。\n\n■コンセプト： 「100円ショップや文房具店で売られている袋入りちび消しゴム商品」\n\n■消しゴム本体： （※前回と同じ仕様を完全維持） - 強いデフォルメちびキャラ - 厚みのあるブロック形状 - 完全マットなラバー素材 - 微細な粒子・粉・削れ・摩耗あり - 印刷ズレ・色ブレあり - 50個以上のランダム構成\n\n■パッケージ（超重要）： - 小さな透明ビニール袋（OPP袋） - 上部に紙ヘッダー（吊り下げ用の穴あり） - ヘッダーはややチープな印刷（軽いズレ・インクのムラ） - ビニールはシワあり、やや曇り、静電気で中身に張り付く - 一部空気が入ってふくらみあり - シール部分に軽いヨレ\n\n■グラフィックデザイン： - 日本の子供向け文房具風デザイン - ポップでカラフル（ピンク・黄色・水色ベース） - 手書き風フォントや丸文字 - 商品名ロゴ（オリジナルでOK） - 「ミニけし」「ちびけし」などの表記 - 星・ハート・キラキラ装飾\n\n■情報要素（リアル感強化）： - JANコード（バーコード） - 「対象年齢6才以上」 - 「食べられません」注意書き - 「全◯種」や「ランダム封入」 - 小さな会社名（架空） - MADE IN JAPAN or CHINA表記\n\n■構図： - パッケージがメインで画面中央 - 周囲に少しだけこぼれた消しゴム - 1〜2個は袋から出ている - 指先が1つをつまもうとしている演出 - 一部フレームアウトで自然さ\n\n■レア要素： - 蛍光カラーやグラデーションの特別個体を1つ混ぜる - 視線誘導として目立つ位置に配置\n\n■ライティング： - 明るい自然光（ややハイキー） - 柔らかい影 - 商品写真のような清潔感\n\n■カメラ： - マクロ寄り - 浅い被写界深度 - 中央シャープ\n\n■背景： - 白〜パステルのテーブル - ほんのりドットやポップ柄 - シンプルで清潔\n\n■禁止： - プラスチック感 - glossy表現 - 高級すぎる質感（安っぽさが正解） - 完璧すぎる印刷\n\n■出力： - 実在する商品にしか見えないレベル - コンビニや100均にありそうなリアリティ - SNSで「これ欲しい」と思わせる完成度",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case462.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "462",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/ZetoGroovin/status/2058408514247410003",
+    "title": "复古日系迷你橡皮商品包装",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-462"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "复古日系迷你橡皮商品包装",
+  "version": "v1"
+}

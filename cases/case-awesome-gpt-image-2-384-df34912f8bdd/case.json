@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-384-df34912f8bdd",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case384.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "384",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/amynys/status/2051287229532639677",
+      "title": "十国传统服饰时尚拼贴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-384",
+      "version": "v1"
+    }
+  ],
+  "title": "十国传统服饰时尚拼贴",
+  "title_aliases": [
+    "十国传统服饰时尚拼贴"
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-463-fb5c5c2c7d44",
+  "classification": {
+    "categories": [
+      "图表与信息可视化"
+    ],
+    "scenes": [
+      "教育",
+      "叙事"
+    ],
+    "source_category": "Charts & Infographics",
+    "source_tags": {
+      "scenes": [
+        "Education",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case463.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "463",
+      "source_tags": {
+        "scenes": [
+          "Education",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2058175014168396245",
+      "title": "黑色吊带袜单款图鉴展示",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-463",
+      "version": "v1"
+    }
+  ],
+  "title": "黑色吊带袜单款图鉴展示",
+  "title_aliases": [
+    "黑色吊带袜单款图鉴展示"
+  ]
+}

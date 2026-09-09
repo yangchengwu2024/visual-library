@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 103338,
+      "path": "images/b4c871d8351d7396f4523b8d8821a72a8ef700ef01a17e00fabc226e90997b58.jpg",
+      "role": "source_example",
+      "sha256": "b4c871d8351d7396f4523b8d8821a72a8ef700ef01a17e00fabc226e90997b58",
+      "source_path": "data/images/case439.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-439-085cb12f9f61",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0039738969508095fe8c40fb63d6b26d2a55da8263f2b58ebd83734a8bf10d16",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-detailed cyberpunk anime character design sheet of a teenage genius hacker girl named “NEO // RIN”, full body turnaround (front, side, back) plus close-up portrait and accessory callouts. Short silver-white bob haircut with neon cyan and magenta gradient streaks, glowing translucent cyber visor over one eye, pale skin, sharp violet eyes, calm confident expression. Oversized techwear jacket with black tactical cargo pants, belts, straps, dangling utility tags, cropped top, futuristic sneakers, holographic accessories, barcode decals, warning symbols, “BYTE//NULL” typography, hacker aesthetic.\nColor palette: matte black, dark gray, white, neon cyan, neon pink.\nStyle inspired by high-end Japanese concept art, futuristic streetwear, cyberpunk fashion, Akira + Ghost in the Shell + modern anime key visual aesthetics.\nInclude clean character reference sheet layout with labeled details, logo designs, UI graphics, gadget closeups, and color palette on white background.\nHighly polished cel shading, crisp lineart, soft glow effects, intricate clothing folds, layered accessories, dynamic fashion silhouette, professional game concept art quality, 4k, ultra detailed.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case439.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "439",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Kashberg_0/status/2055865126335762902",
+    "title": "赛博黑客角色设定表",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-439"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "赛博黑客角色设定表",
+  "version": "v1"
+}

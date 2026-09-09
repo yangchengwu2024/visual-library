@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 218848,
+      "path": "images/cf59dca191194f1e77c9138a510df79eb748998a31d6c6f373ae7c65d84898fe.jpg",
+      "role": "source_example",
+      "sha256": "cf59dca191194f1e77c9138a510df79eb748998a31d6c6f373ae7c65d84898fe",
+      "source_path": "data/images/case425.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-425-d18c82ccb2dd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fe2db869bb9744aafa6f5e21a705f60e54401a30dff796c0af169c0eb376d005",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"prompt\": \"Vertical poster collage design, beige background, four stacked horizontal rounded rectangles containing black and white cinematic portraits of the same young woman wearing sunglasses in different stylish poses. Foreground features a full-color high-quality cutout of the woman on the left side, wearing a pink mauve fitted shirt, black pants, sunglasses, confident cool pose, modern fashion editorial style, soft studio lighting, ultra realistic, premium magazine aesthetic, depth and shadow effects, clean minimal layout, 2:3 aspect ratio.\",\n  \"aspect_ratio\": \"2:3\"\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case425.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "425",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/XSydneyFan/status/2054054476429009086",
+    "title": "黑白时尚人像拼贴海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-425"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "黑白时尚人像拼贴海报",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-44-f3240f649ee6",
+  "classification": {
+    "categories": [
+      "历史与古风题材"
+    ],
+    "scenes": [
+      "商业",
+      "历史"
+    ],
+    "source_category": "History & Classical Themes",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "History"
+      ],
+      "styles": [
+        "Character",
+        "Classical"
+      ]
+    },
+    "styles": [
+      "人物与角色",
+      "古典"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case44.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "44",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "History"
+        ],
+        "styles": [
+          "Character",
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai",
+      "title": "古风历史题材图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-44",
+      "version": "v1"
+    }
+  ],
+  "title": "古风历史题材图",
+  "title_aliases": [
+    "古风历史题材图"
+  ]
+}

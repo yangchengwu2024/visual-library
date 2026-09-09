@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 207516,
+      "path": "images/c375726792f1d86f7e66f466242771853621be671ad1e3df9ba4dfb606086e99.jpg",
+      "role": "source_example",
+      "sha256": "c375726792f1d86f7e66f466242771853621be671ad1e3df9ba4dfb606086e99",
+      "source_path": "data/images/case526.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-526-dc73f272c54d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "67bfe02f8c12db15f6d1c3c22ef01326813de99d9b642d52da976b22d6660e5a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "从全黑剧场开始，像切标本一样用六片真实体积激光把空间分层。光面必须有明确起点、透视和薄雾中的厚度，人物站在交汇点，透明道具折射出一小束异色光扇。构图沿左下至右上的对角线推进，脸只用一道克制边光揭示；标题与其中一片光面共享透视，小字留在纯黑负空间。每次替换主题与角色时，不得退化成夜店模板、HUD、霓虹城市或无物理来源的光线。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case526.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "526",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "Poster",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/zhidawang219555/status/2090246237094310178",
+    "title": "体积激光黑场海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-526"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "体积激光黑场海报",
+  "version": "v1"
+}

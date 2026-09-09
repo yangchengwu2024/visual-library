@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 120553,
+      "path": "images/85ed62573f98005ae827735b81c6c7692d884223c691cdb7fe9c9746b55bd6d9.jpg",
+      "role": "source_example",
+      "sha256": "85ed62573f98005ae827735b81c6c7692d884223c691cdb7fe9c9746b55bd6d9",
+      "source_path": "data/images/case228.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-228-5c10d9733bb3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "44e46f110a9d6b3067a46e7f8bfc84a09c48368868c04d41392d612abe8481fd",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一张与这张图片完美匹配的广告图片。信息量要多一些。\n\n[English]\nGenerate an advertising image that perfectly matches this image. There should be a lot of information.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case228.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "228",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/Kashiko_AIart/status/2045787856292151322",
+    "title": "完美匹配的海报广告图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-228"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "完美匹配的海报广告图",
+  "version": "v1"
+}

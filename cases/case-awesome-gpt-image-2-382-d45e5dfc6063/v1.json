@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 290441,
+      "path": "images/1e54baa324d17a983f93549ea8ac1c9185ab7da020bef317026a464e7b728ab9.jpg",
+      "role": "source_example",
+      "sha256": "1e54baa324d17a983f93549ea8ac1c9185ab7da020bef317026a464e7b728ab9",
+      "source_path": "data/images/case382.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-382-d45e5dfc6063",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9165f4b64cbc178cee64d531f71647351ae20a340dae85f4b9b2b142ded8187d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A high-quality 3-panel vertical photo collage of a stunning uploaded woman with soft, voluminous wavy hair glowing in golden sunlight. She is styled in a cream-colored lace-up vintage blouse with delicate textures, olive green high-waisted flowy trousers, and a wide-brimmed straw hat slightly tilted for a fashionable editorial look. Light golden jewelry (thin chains, rings) adds a subtle luxury touch.\n\nThe setting is a dreamy, vibrant yellow mustard flower field under a bright blue sky with soft clouds, enhanced by golden hour lighting for a magical glow.\n\nTop panel: Back view of the woman standing in the field with arms wide open, sunlight creating a glowing halo around her hair, slight motion blur in flowers for a cinematic feel.\n\nMiddle panel: Close-up portrait, she smiles naturally at the camera, wind softly moving her hair, her hand reaching toward the lens creating depth and a slightly blurred foreground for a DSLR effect.\n\nBottom panel: Playful pose, she leans sideways in the flowers, making a double peace sign, laughing candidly, capturing an authentic joyful moment.\n\nAdd cute, trendy white doodle overlays (smiley faces, sparkles, stars, tiny hearts) with a subtle animated/sketchy feel. Include light leaks, sun flares, and soft film grain for a premium Instagram aesthetic.\n\nUltra-realistic, 4K, cinematic lighting, shallow depth of field, high dynamic range, natural skin tones, editorial fashion photography, soft pastel color grading.\n\nAspect ratio: 4:5\nStyle tags: viral Instagram aesthetic, Pinterest style, dreamy spring vibe, candid luxury",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case382.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "382",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/frametheory058/status/2051294907214844249",
+    "title": "春日花田三联竖版写真拼贴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-382"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "春日花田三联竖版写真拼贴",
+  "version": "v1"
+}

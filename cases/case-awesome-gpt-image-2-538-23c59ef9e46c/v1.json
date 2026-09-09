@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 331251,
+      "path": "images/cd049146075c22d730e10b33ba9445ccf7ad75918695499594d340cd3d8875d4.jpg",
+      "role": "source_example",
+      "sha256": "cd049146075c22d730e10b33ba9445ccf7ad75918695499594d340cd3d8875d4",
+      "source_path": "data/images/case538.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-538-23c59ef9e46c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "422c1c29cb6f958a3285bf9e3ce94407c2865cee69aa245b8f788d80b07e03a6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Rubber Stamp Travel Field Notes Poster — Natural Realism Version\n\nCreate a separate “Rubber Stamp Travel Field Notes Poster” for each photo I upload. Output each photo individually. Never create a collage or combine multiple photos.\n\nUse a 4:3 landscape composition with a natural visual transition between the original photograph on the left and the aged-paper field-note area on the right. Do not add an obvious dividing line.\n\nLEFT — ORIGINAL PHOTOGRAPH\n\nThe left side should occupy roughly 58% of the frame.\n\nKeep the uploaded photograph visually authentic and recognizable. Preserve the original subject, perspective, terrain, architecture, plants, people, spatial relationships, natural light, shadows, textures, and overall atmosphere.\n\nDo not redesign or reinterpret the photograph.\n\nOnly apply a very subtle editorial photo treatment: gentle tonal balancing, restrained color grading, slightly softened highlights, and extremely fine natural film grain. It should still look like a real photograph taken on location rather than an AI-generated image.\n\nNatural cropping is allowed if needed to fit the 4:3 layout, but do not stretch, distort, move, replace, or redraw the main subject.\n\nAvoid excessive sharpness, HDR effects, artificial clarity, cinematic color grading, or overly perfect details.\n\nRIGHT — AGED PAPER FIELD NOTES\n\nThe right side should occupy roughly 42% of the frame.\n\nUse warm off-white, slightly aged paper with a believable physical texture. Include very subtle paper fibers, fine grain, faint handling marks, and a matte surface.\n\nKeep large areas completely unprinted.\n\nThe paper should feel like a real sheet from an architect's travel notebook or field journal, not a designed poster background.\n\nAvoid overly strong stains, decorative textures, vintage filters, or artificial grunge.\n\nSMALL RUBBER STAMP\n\nStudy the uploaded photograph and identify only the few visual features that make the location immediately recognizable.\n\nReduce them into a compact, imperfect multi-color rubber stamp impression.\n\nDo not reproduce the photograph element by element.\n\nSimplify aggressively and retain only the most meaningful visual relationships:\n\n- distinctive architecture and silhouette\n- important roof, tower, dome, arch, or structural shape\n- mountain or terrain contours\n- shoreline or road direction\n- a few recognizable trees or vegetation forms\n- simplified settlement layers\n- one or two important foreground shapes when visually relevant\n\nRemove crowds, cars, dense windows, repetitive buildings, tiny vegetation, decorative objects, and insignificant background details.\n\nThe result should look like something a traveler could have actually carved into a small rubber stamp, not a miniature illustration of the entire photograph.\n\nPlace the stamp in the lower-middle portion of the right paper area, occupying approximately 30–38% of the right section's height.\n\nKeep generous blank paper around it.\n\nDo not enlarge it into a large illustration.\n\nSTAMP COLOR & PRINT CHARACTER\n\nExtract approximately 2–4 muted spot colors naturally from the original photograph.\n\nPossible colors include:\n\n- carbon black\n- deep green\n- brick or muted red\n- ochre\n- slate blue\n- taupe or earthy brown\n\nDo not force these colors if the photograph suggests a different restrained palette.\n\nEach color should appear as a separate physical ink layer.\n\nMake the print feel genuinely handmade:\n\n- slightly uneven pressure\n- tiny gaps in the ink\n- dry areas\n- paper showing through\n- rough carved edges\n- irregular line thickness\n- small contour breaks\n- granular ink texture\n- faint ghosting\n- slight natural color-layer misregistration\n- subtle edge variation\n\nThe imperfections should be small and believable, as if the stamp was pressed onto paper by hand.\n\nAvoid perfectly aligned digital layers, smooth vector edges, clean gradients, or artificially exaggerated distress.\n\nThe stamp should look physically printed, not digitally illustrated.\n\nFIELD-NOTE TYPOGRAPHY\n\nGenerate a small amount of text based only on the actual location and imagery in the photograph:\n\nLocation — English name\nNo. — Number\nThree short English keywords\nGregorian calendar year\n\nPlace the text below or beside the stamp within the available whitespace.\n\nUse a small, understated typewriter or archival field-note style.\n\nThe typography should have very slight mechanical irregularity, as though typed or printed on an old field notebook.\n\nKeep it quiet and secondary to the photograph.\n\nSpell the location and all words correctly.\n\nDo not add slogans, brands, tourist phrases, decorative quotes, or unnecessary text.\n\nOVERALL REALISM\n\nThe finished image should feel like a real travel photograph mounted beside a small handmade field stamp on an architect's personal notebook page.\n\nPrioritize subtle physical realism over visual perfection.\n\nThe photograph should remain the strongest visual element.\n\nThe stamp should feel like a small fragment of memory extracted from the photograph rather than a second illustration.\n\nUse restrained contrast, natural imperfections, believable paper texture, and slightly imperfect printing.\n\nThe final result should feel quiet, tactile, documentary, collectible, and genuinely handmade.\n\nAvoid\n\nObvious dividing lines, circular seals, postage-stamp borders, perforations, wax seals, sticker layouts, souvenir-card designs, generic travel templates, smooth vector logos, polished digital illustrations, cartoon styling, 3D rendering, plastic textures, glossy gradients, excessive saturation, HDR effects, excessive text, decorative clutter, overly clean geometry, perfectly aligned ink layers, dense miniature architecture, or any alteration/redrawing of the original photograph.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case538.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "538",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/MahnoorAi12/status/2092221482139349307",
+    "title": "橡皮章旅行田野笔记海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-538"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "橡皮章旅行田野笔记海报",
+  "version": "v1"
+}

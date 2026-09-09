@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 308989,
+      "path": "images/a8e0c2d57a2c4cdd0dbbab23a7914016c219bd706ebdb430b837b506afba2c3d.jpg",
+      "role": "source_example",
+      "sha256": "a8e0c2d57a2c4cdd0dbbab23a7914016c219bd706ebdb430b837b506afba2c3d",
+      "source_path": "data/images/case341.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-341-8e466c6a5a6d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "207743c6647b6bf099d4d34ebd7734ac075580fb218c4ce77eb88ab83a063203",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Please create a mathematical visualization infographic about \"[math concept / topic].\" The goal is to help the viewer intuitively understand what it is, why it works, its geometric or structural intuition, and how it behaves in different contexts. The visual should feel like a high-quality math lecture handout combined with a hand-drawn educational poster. It should be elegant, clear, and information-rich, but not cluttered. Visual style: either portrait or landscape is fine. Use a clean, light paper-like background, with a deep blue title and black or dark gray lines for the main content. Add a small number of refined accent colors such as blue, teal, gold, and red. Incorporate rounded-corner cards, thin borders, numbered labels, hand-drawn arrows, zoom-in callout boxes, and a summary section. The overall design should be aesthetically pleasing, balanced, and academic, allowing the viewer to grasp the structure of the concept and why it works at a glance.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case341.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "341",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/hqmank/status/2048587150544028084",
+    "title": "AP Calculus 学习表信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-341"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "AP Calculus 学习表信息图",
+  "version": "v1"
+}

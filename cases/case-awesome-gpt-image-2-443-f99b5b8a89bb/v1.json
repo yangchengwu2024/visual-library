@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 228923,
+      "path": "images/ac5352395e25f0dc342928357d8a88c2f4f524e9d56263804233a213805984a3.jpg",
+      "role": "source_example",
+      "sha256": "ac5352395e25f0dc342928357d8a88c2f4f524e9d56263804233a213805984a3",
+      "source_path": "data/images/case443.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-443-f99b5b8a89bb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "81616a35859165b61ba37a83e4cd12ab5840383d35ca00d8f00601e8a405268f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a hyper-realistic exploded vertical infographic composition of tacos.\n\nTop → Bottom structure:\nFresh Lettuce (crisp green texture with natural folds)\n→ Tomato & Salsa Layer (juicy diced tomatoes and salsa mix)\n→ Melted Cheese (smooth cheddar texture)\n→ Grilled Meat Filling (juicy seasoned meat detail)\n→ Taco Shell Base (crispy golden shell texture)\nPerfect vertical alignment, rustic background, soft studio lighting, realistic shadows beneath each floating element.\n\nAdd clean infographic text labels with thin pointer lines using these exact labels:\n“Lettuce”\n“Salsa”\n“Cheese”\n“Meat”\n“Shell”\nUltra-detailed food textures, premium commercial aesthetic, 8K.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case443.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "443",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Strength04_X/status/2056018963084226866",
+    "title": "塔可爆炸拆解信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-443"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "塔可爆炸拆解信息图",
+  "version": "v1"
+}

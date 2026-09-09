@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 206154,
+      "path": "images/7a3112af6ca5fecdecffe97400f35e9e6a033192e977f9659464f3e19bbc663f.jpg",
+      "role": "source_example",
+      "sha256": "7a3112af6ca5fecdecffe97400f35e9e6a033192e977f9659464f3e19bbc663f",
+      "source_path": "data/images/case197.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-197-2678788fb0a3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ae06740913933fa83c3d4275d0a69c92abe01c3824d443657449f81d99659485",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n帮我生成一张特朗普对战哈梅内伊在英雄联盟中路对线的截图。\n\n[English]\nHelp me generate a screenshot of Trump versus Khamenei in the mid lane in League of Legends.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case197.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "197",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/underwoodxie96/status/2046529342415790275",
+    "title": "英雄联盟特朗普中路对决哈梅内伊",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-197"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "英雄联盟特朗普中路对决哈梅内伊",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 264776,
+      "path": "images/89a561d8c53038fca592e5eae7f3f6a00153d6dbdb3ff00e35a398fec6ee10f3.jpg",
+      "role": "source_example",
+      "sha256": "89a561d8c53038fca592e5eae7f3f6a00153d6dbdb3ff00e35a398fec6ee10f3",
+      "source_path": "data/images/case155.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-155-1da992bdbd75",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f999ca9ad6e95a7fae648e8b989cb2b0761894b777386d0edd6000cb485342a8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create {argument name=\"items\" default=\"fan goods\"} for a standard {argument name=\"character type\" default=\"Vtuber\"} in {argument name=\"style\" default=\"live-action\"}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case155.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "155",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/wtry1102",
+    "title": "人物角色设定图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-155"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "人物角色设定图",
+  "version": "v1"
+}

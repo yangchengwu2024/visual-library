@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-449-0f4e3dec59c3",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Infographic",
+        "Brand",
+        "3D"
+      ]
+    },
+    "styles": [
+      "信息图",
+      "品牌",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case449.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "449",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Infographic",
+          "Brand",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Gdgtify/status/2056928396991488312",
+      "title": "奢华机械腕表技术图鉴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-449",
+      "version": "v1"
+    }
+  ],
+  "title": "奢华机械腕表技术图鉴",
+  "title_aliases": [
+    "奢华机械腕表技术图鉴"
+  ]
+}

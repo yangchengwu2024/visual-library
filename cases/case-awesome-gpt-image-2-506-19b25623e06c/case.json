@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-506-19b25623e06c",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "旅行"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "Poster",
+        "Illustration",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "海报",
+      "插画",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case506.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "506",
+      "source_tags": {
+        "scenes": [
+          "Travel"
+        ],
+        "styles": [
+          "Poster",
+          "Illustration",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/xiaoxiaodong01/status/2062924832917029248",
+      "title": "可爱发卡图文人像海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-506",
+      "version": "v1"
+    }
+  ],
+  "title": "可爱发卡图文人像海报",
+  "title_aliases": [
+    "可爱发卡图文人像海报"
+  ]
+}

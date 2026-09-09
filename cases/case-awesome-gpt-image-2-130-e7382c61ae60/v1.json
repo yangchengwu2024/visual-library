@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 189517,
+      "path": "images/daa9e8b6c87cc62e59a42230ed13723f3c698b48b99a1ba1094d24d7a0175769.jpg",
+      "role": "source_example",
+      "sha256": "daa9e8b6c87cc62e59a42230ed13723f3c698b48b99a1ba1094d24d7a0175769",
+      "source_path": "data/images/case130.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-130-e7382c61ae60",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c3b94b6bec7ed308b1cb42470b420ed088cfb2bd0b284064d7251d9c9dd7c8f4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"brand identity and merchandise design board\",\n  \"theme\": {\n    \"color_palette\": \"{argument name=\\\"theme color\\\" default=\\\"pastel pink\\\"} and white\",\n    \"motif\": \"{argument name=\\\"motif\\\" default=\\\"cherry blossoms\\\"} and pink hearts\"\n  },\n  \"character\": {\n    \"description\": \"anime girl with short brown bob hair, pink eyes, wearing a white hoodie, gentle smile\"\n  },\n  \"branding\": {\n    \"main_logo\": \"{argument name=\\\"character name\\\" default=\\\"癒音ちー\\\"}\",\n    \"sub_logo\": \"{argument name=\\\"character subtext\\\" default=\\\"ゆおんちー\\\"}\"\n  },\n  \"layout\": {\n    \"sections\": [\n      {\n        \"type\": \"header banner\",\n        \"position\": \"top\",\n        \"elements\": [\"large main logo\", \"sub logo\", \"cherry blossom graphics\", \"character portrait on the right\"]\n      },\n      {\n        \"type\": \"product packaging\",\n        \"position\": \"middle left\",\n        \"elements\": [\"1 square box with heart-shaped transparent window showing pink heart candies\", \"character illustration on box\", \"2 individual candy wrappers\", \"5 scattered heart candies\"]\n      },\n      {\n        \"type\": \"promotional poster\",\n        \"position\": \"middle right\",\n        \"elements\": [\"character portrait\", \"heart-shaped candy bowl\", \"main logo\", \"text '4.26 NEW OPEN'\", \"text '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\"]\n      },\n      {\n        \"type\": \"horizontal web banner\",\n        \"position\": \"lower middle\",\n        \"elements\": [\"main logo\", \"cherry blossoms\", \"character portrait on the right\"]\n      },\n      {\n        \"type\": \"social media profile mockup\",\n        \"position\": \"bottom left\",\n        \"elements\": [\"header image with logo\", \"1 circular profile picture\", \"handle '{argument name=\\\"social handle\\\" default=\\\"@yuonchii\\\"}'\", \"1 follow button\", \"mock bio text\"]\n      },\n      {\n        \"type\": \"merchandise collection\",\n        \"position\": \"bottom right\",\n        \"count\": 9,\n        \"items\": [\"1 white t-shirt with logo\", \"1 white mug with character\", \"4 round pin badges\", \"1 acrylic keychain\", \"2 candy packets\"]\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case130.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "130",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/chi_vc_",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-130"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

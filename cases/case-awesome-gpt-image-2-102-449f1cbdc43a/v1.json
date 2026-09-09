@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 175881,
+      "path": "images/088c3381e5cef027015451cc08e60b7fbc8802c40ec535bfbc0e0692086634a1.jpg",
+      "role": "source_example",
+      "sha256": "088c3381e5cef027015451cc08e60b7fbc8802c40ec535bfbc0e0692086634a1",
+      "source_path": "data/images/case102.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-102-449f1cbdc43a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "82a8cba31ba4751e6068961070259128f62bf44bf8bfd38641ae201c6b619716",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Search the web for {argument name=\"performance description\" default=\"this week’s standout individual performance in Champion’s League\"}, using exact stats and game summary, {argument name=\"colors\" default=\"bold team colors\"}, legible score breakdown, and generate a {argument name=\"card type\" default=\"Highlight card\"}.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case102.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "102",
+    "source_tags": {
+      "scenes": [
+        "Food"
+      ],
+      "styles": [
+        "Infographic"
+      ]
+    },
+    "source_url": "https://x.com/maxescu",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-102"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

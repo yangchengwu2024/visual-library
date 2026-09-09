@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 276039,
+      "path": "images/ccc5e3a4cef1fb9f71dd2f5df02d1c74f5e50b6ff59c0727487a5738feced3fe.jpg",
+      "role": "source_example",
+      "sha256": "ccc5e3a4cef1fb9f71dd2f5df02d1c74f5e50b6ff59c0727487a5738feced3fe",
+      "source_path": "data/images/case151.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-151-a02e5fb9da9c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e251ea0434cef32e2e6a590a319e53be2341b2b549d87a9caab0673291b4baa8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"2x2 advertising banner grid\",\n  \"layout\": \"4 distinct quadrants, each featuring a different industry advertisement\",\n  \"quadrants\": [\n    {\n      \"position\": \"top-left\",\n      \"industry\": \"skincare\",\n      \"visuals\": \"Asian woman touching cheek, floating water droplets, white pump bottle\",\n      \"brand\": \"BALANCÉE\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"skincare headline\\\" default=\\\"素肌が、目覚める。\\\"}\",\n        \"subheadline\": \"透明感あふれる、新しいわたしへ。\",\n        \"features_count\": 3,\n        \"features_labels\": [\"高保湿\", \"肌荒れ予防\", \"美白ケア*\"]\n      }\n    },\n    {\n      \"position\": \"top-right\",\n      \"industry\": \"restaurant food\",\n      \"visuals\": \"close-up of spaghetti bolognese with grated cheese and parsley, dark moody lighting\",\n      \"brand\": \"Trattoria Luce\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"food headline\\\" default=\\\"このパスタ、事件級。\\\"}\",\n        \"badge\": \"期間限定\",\n        \"description\": \"黒毛和牛のボロネーゼ 〜トリュフの香り〜\"\n      }\n    },\n    {\n      \"position\": \"bottom-left\",\n      \"industry\": \"travel\",\n      \"visuals\": \"woman with backpack facing a scenic mountain lake, bright daylight\",\n      \"brand\": \"NATURE JOURNEY\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"travel headline\\\" default=\\\"わたしを、解き放つ旅へ。\\\"}\",\n        \"subheadline\": \"自然の中で、心が動き出す。\",\n        \"script\": \"Find your freedom.\",\n        \"banner_details\": [\"初夏の特別キャンペーン\", \"6.1 SAT - 6.30 SUN\", \"最大 20%OFF\", \"今だけの特別プラン多数！\"]\n      }\n    },\n    {\n      \"position\": \"bottom-right\",\n      \"industry\": \"SaaS app\",\n      \"visuals\": \"smartphone displaying a task management app interface with 4 schedule items\",\n      \"brand\": \"{argument name=\\\"app brand name\\\" default=\\\"Taskme\\\"}\",\n      \"copy\": {\n        \"headline\": \"{argument name=\\\"app headline\\\" default=\\\"タスク管理を、もっとシンプルに、スマートに。\\\"}\",\n        \"circle_badge\": \"1日を、デザインしよう。\",\n        \"features_count\": 3,\n        \"features_labels\": [\"直感的な操作性\", \"チームで共有可能\", \"どこでもアクセス\"],\n        \"bottom_banner\": \"7日間無料トライアル実施中！\"\n      }\n    }\n  ]\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case151.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "151",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/kitune_fire45",
+    "title": "界面交互设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-151"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "界面交互设计图",
+  "version": "v1"
+}

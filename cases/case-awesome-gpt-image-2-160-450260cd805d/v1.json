@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 156799,
+      "path": "images/793454400635b2933aaf54c95c905d6d4dac21ab1da1ac3915b5626047ca47f2.jpg",
+      "role": "source_example",
+      "sha256": "793454400635b2933aaf54c95c905d6d4dac21ab1da1ac3915b5626047ca47f2",
+      "source_path": "data/images/case160.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-160-450260cd805d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a04024676829a00dcd13092a607f533f73b41aac7f338eee184508c09f7bc554",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Generate a set of icons for {argument name=\"device\" default=\"vintage electronic equipment\"} in {argument name=\"style\" default=\"retro skeuomorphic style\"}, including icon names in the image.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case160.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "160",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/TanShilong",
+    "title": "品牌吉祥物设定图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-160"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "品牌吉祥物设定图",
+  "version": "v1"
+}

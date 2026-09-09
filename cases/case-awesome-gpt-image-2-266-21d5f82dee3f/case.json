@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-266-21d5f82dee3f",
+  "classification": {
+    "categories": [
+      "文档与出版物"
+    ],
+    "scenes": [
+      "商业"
+    ],
+    "source_category": "Documents & Publishing",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case266.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "266",
+      "source_tags": {
+        "scenes": [
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/patrickassale/status/2044569086013718958",
+      "title": "桌面上的黑色圆珠笔手写笔记",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-266",
+      "version": "v1"
+    }
+  ],
+  "title": "桌面上的黑色圆珠笔手写笔记",
+  "title_aliases": [
+    "桌面上的黑色圆珠笔手写笔记"
+  ]
+}

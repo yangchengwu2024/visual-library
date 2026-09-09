@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-422-7ee0ffbaff3e",
+  "classification": {
+    "categories": [
+      "场景与叙事"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "食品饮品"
+    ],
+    "source_category": "Scenes & Storytelling",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case422.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "422",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/zulkarnaimx/status/2053723774680535538",
+      "title": "冬季生存惊悚 Storyboard",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-422",
+      "version": "v1"
+    }
+  ],
+  "title": "冬季生存惊悚 Storyboard",
+  "title_aliases": [
+    "冬季生存惊悚 Storyboard"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 155995,
+      "path": "images/cd79480ca1e0f635842c6fe87f51af147e90f10182297d70cf0b4dcfdd30e80c.jpg",
+      "role": "source_example",
+      "sha256": "cd79480ca1e0f635842c6fe87f51af147e90f10182297d70cf0b4dcfdd30e80c",
+      "source_path": "data/images/case111.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-111-8daa036e6a0a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1375ba754afeec8b59210057e1b4b12b161a88b39d41dba2842bfc93a4f14ad1",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A YouTube thumbnail-style collage for a {argument name=\"overall mood\" default=\"dark, dramatic, true crime investigation\"}. In the center is a highly detailed, close-up portrait of an {argument name=\"central figure\" default=\"older man with grey hair and deep wrinkles resembling Jeffrey Epstein\"}, wearing a black polo shirt, with a faint red glowing outline separating him from the background. On the left side, a {argument name=\"left background scene\" default=\"tropical island with luxury villas and a flying airplane in a dark sky\"}. Below the island, a conspiracy board motif features exactly 2 red push pins connected by 3 thick red strings. On the top right side, a hazy, sepia-toned depiction of the {argument name=\"right background scene\" default=\"US Capitol building with the silhouettes of 3 men in suits facing it\"}. On the bottom right, an open manila folder containing a {argument name=\"document type\" default=\"heavily redacted dossier with thick black marker lines and a smaller photograph of the central man\"}. The overall composition is cinematic, intense, and heavily stylized for a documentary video.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case111.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "111",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/mirochill",
+    "title": "视频封面界面图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-111"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "视频封面界面图",
+  "version": "v1"
+}

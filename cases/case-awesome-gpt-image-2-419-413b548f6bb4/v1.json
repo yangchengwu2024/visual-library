@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 234689,
+      "path": "images/b5b83e4423af8550ed50bc9251e3fe3e397822f8b5936162ef1a1ff11c92777f.jpg",
+      "role": "source_example",
+      "sha256": "b5b83e4423af8550ed50bc9251e3fe3e397822f8b5936162ef1a1ff11c92777f",
+      "source_path": "data/images/case419.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-419-413b548f6bb4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e6651b3e06b2f217de8e29f7f07d8f13174bc347844a46f682a06f6f4e0b36e3",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a crisp, clean infographic storyboard poster for THE CROISSANT BAKER. Wide 16:9 layout, white background, black borders, bold black typography, premium Pixar 3D stylized rendering, bright vivid colors — warm golden yellows, rich buttery creams, flaky browns, soft pastry whites, warm French bakery morning light.\nTop header:\n\nTHE CROISSANT BAKER\nTOTAL VIDEO TIME: 12 SECONDS\n8 SHOTS · WARM · FLAKY · IRRESISTIBLE\nLegend icons: ACTION, HEAT, TIME HINT, INGREDIENT\nThin warm golden accent line running full width beneath header\n\nSame Pixar-style young French male baker throughout: white baker's jacket, flour-dusted hands, warm authentic French boulangerie setting, marble countertop, warm morning light streaming through windows, bread racks in background. Bright, warm, delicious. Every panel a completely different composition and color.\n8 panels:\n\nTHE OPENER — Wide shot of baker arriving at the boulangerie before dawn, tying apron, switching on the warm kitchen lights, marble counter visible, bread racks behind, flour dusting the air, full world established, bright and cinematic\nTHE BUTTER BLOCK — Baker slams a massive cold block of European butter onto the marble counter with both hands, dramatic impact, flour cloud puffing up, close-up on hands, this is the bones moment — the start of everything\nTHE LAMINATION — Baker folding the dough over the butter block precisely, rolling pin pressing down hard, layers building, side angle shot showing the beautiful layering beginning, confident and skilled\nTHE ROLL — Dough rolled out into a large thin sheet, baker leaning into the rolling pin with full body weight, marble counter, flour dusting everywhere, wide shot showing the scale of the dough\nTHE SHAPE — Triangles cut from the dough, baker rolling each one from the wide end into a tight crescent, hands moving fast and confident, close-up on the shaping, beautiful and precise\nTHE EGG WASH — Baker brushing golden egg wash over each shaped croissant with a pastry brush, each one glistening beautifully, close-up overhead angle, warm golden color, stunning composition\nTHE OVEN — Croissants slid into the blazing hot oven on a tray, oven door closed, through the oven glass croissants visibly puffing and turning deep golden, layers separating dramatically, warm orange glow\nTHE TEAR — Baker pulls a perfect golden croissant from the rack, holds it up, tears it open slowly revealing hundreds of impossibly flaky buttery layers inside, steam escaping, butter glistening — this is the cheese pull moment, the hero shot of the entire video\n\nFooter:\n\nVIDEO FLOW: 8 shots × 1.5s = 12 seconds. Butter block to the tear.\nCAMERA TIPS: wide on opener, close-up on butter slam and shaping, side angle on lamination, overhead on egg wash, oven glass for panel 7, extreme close-up on the tear reveal\nLIGHT & STYLE: warm golden French bakery morning light, buttery cream tones, flour dust in the air, bright vivid Pixar colors, shallow depth of field on close-ups\nBAKER NOTES: one baker, one perfect croissant, one irresistible tear. The lamination layers and the final tear are everything — make them stunning.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case419.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "419",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/TechieBySA/status/2053523784481554759",
+    "title": "可颂烘焙流程 Storyboard",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-419"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "可颂烘焙流程 Storyboard",
+  "version": "v1"
+}

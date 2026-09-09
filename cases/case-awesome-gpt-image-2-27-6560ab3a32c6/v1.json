@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 208206,
+      "path": "images/6d1507e98bfca12b38739c6d16adbb616f8ca7531e14396efde9658abe28f934.jpg",
+      "role": "source_example",
+      "sha256": "6d1507e98bfca12b38739c6d16adbb616f8ca7531e14396efde9658abe28f934",
+      "source_path": "data/images/case27.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-27-6560ab3a32c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b1487d6a4684e086b2db52cd50a3b34d8bbb1afed493a4596608e13e00cb1b96",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"collection of instant photos\",\n  \"setting\": \"laid out flat on a white fabric surface\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"long pink hair with blue inner color\\\"}\",\n    \"outfit\": \"{argument name=\\\"outfit\\\" default=\\\"black and white maid uniform with frilly headband and black ribbons\\\"}\",\n    \"eyes\": \"reddish-pink\"\n  },\n  \"layout\": {\n    \"arrangement\": \"two rows of five polaroid photos\",\n    \"count\": 10,\n    \"photos\": [\n      { \"position\": \"top row 1\", \"description\": \"holding a pink heart cushion\" },\n      { \"position\": \"top row 2\", \"description\": \"winking, making a peace sign\" },\n      { \"position\": \"top row 3\", \"description\": \"making a hand heart, pink heart doodle on the bottom border\" },\n      { \"position\": \"top row 4\", \"description\": \"resting chin on hands, gentle smile\" },\n      { \"position\": \"top row 5\", \"description\": \"holding a red rose, winking\" },\n      { \"position\": \"bottom row 1\", \"description\": \"finger to lips, shy expression\" },\n      { \"position\": \"bottom row 2\", \"description\": \"holding a small pink cake\" },\n      { \"position\": \"bottom row 3\", \"description\": \"winking, hand near face, signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' and heart doodle on border\" },\n      { \"position\": \"bottom row 4\", \"description\": \"holding a pink bunny plushie, sparkle doodles, signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' and bunny doodle on border\" },\n      { \"position\": \"bottom row 5\", \"description\": \"winking, sparkle doodles, message '{argument name=\\\"message text\\\" default=\\\"いつも応援ありがとう！これからもよろしくね♪\\\"}' and signature '{argument name=\\\"signature text\\\" default=\\\"Hanashi\\\"}' on border\" }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case27.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "27",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/anemone_sd",
+    "title": "人物角色设定图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-27"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "人物角色设定图",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 99388,
+      "path": "images/a7f1647abfac9d164c7c312a88c4bd836af0e3aadc7da21a6a20fe75e745dc50.jpg",
+      "role": "source_example",
+      "sha256": "a7f1647abfac9d164c7c312a88c4bd836af0e3aadc7da21a6a20fe75e745dc50",
+      "source_path": "data/images/case303.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-303-6ea933a694a0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5e4bb157b062127345c1f37f8fa218e2b4e5c7403bce8740daf6c7738e3a1134",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成人教版小学三年级语文课本的一页\n\n[English]\nGenerate a page from the PEP (People's Education Press) primary school third-grade Chinese textbook",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case303.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "303",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2044824800909054181",
+    "title": "人教版三年级语文课本内页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-303"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "人教版三年级语文课本内页",
+  "version": "v1"
+}

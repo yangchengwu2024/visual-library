@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 1447657,
+      "path": "images/98602c5ee9033e5d80c656abc5409391b181f4d207f43e404d49a1057a2034ce.jpg",
+      "role": "source_example",
+      "sha256": "98602c5ee9033e5d80c656abc5409391b181f4d207f43e404d49a1057a2034ce",
+      "source_path": "data/images/case362.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-362-57e3c4156604",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "466663f117676918a510d4e69f1b29d95fa991c475ba745f9e2141e64dcf4fed",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a premium “Matcha Brand Touchpoint System” visual board for a modern lifestyle brand called:\n\n“MATCHA MODE”\n\nBuild a full brand identity system, not a single image.\n\nHERO SCENE:\n\nA hyper-realistic matcha drink in a ceramic cup placed on a clean natural surface.\n\n– vibrant green matcha foam with micro-bubbles\n– bamboo whisk (chasen) nearby\n– soft natural light\n– slight matcha powder dust on the surface\n– minimal Japanese aesthetic\nATMOSPHERE:\n– calm, warm, soft daylight\n– clean background (off-white or beige)\n– subtle shadows and reflections\n– feeling of wellness and luxury\nFULL BRAND SYSTEM:\n– takeout cups (paper + glass bottles)\n– packaging boxes (minimalist design)\n– tote bags (premium lifestyle)\n– labels, stickers, seals\n– menu cards with pricing ($6.50, $8.90, etc.)\n– small typography everywhere\n– subtle imperfections (realism)\n\nDESIGN LANGUAGE:\n\n– modern minimalist typography\n– Japanese-inspired layout\n– soft green palette\n– elegant spacing\n\nINCLUDE:\n– matcha latte\n– iced matcha\n– matcha desserts\n– combo sets\n– lifestyle shots\nThe composition must feel like a high-end design agency presentation.\n\nUltra-detailed, realistic, clean, aesthetic, and highly shareable.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case362.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "362",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Preda2005/status/2049846981271699685",
+    "title": "抹茶品牌触点系统视觉板",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-362"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "抹茶品牌触点系统视觉板",
+  "version": "v1"
+}

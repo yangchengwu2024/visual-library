@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 217186,
+      "path": "images/cbd1ea1352df7cdafb28d3b12c9e897d4a110408b528dabe9a15bdc720cac58a.jpg",
+      "role": "source_example",
+      "sha256": "cbd1ea1352df7cdafb28d3b12c9e897d4a110408b528dabe9a15bdc720cac58a",
+      "source_path": "data/images/case399.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-399-60ef4a857e9d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2b182be57d11a34a4ca5786a5c2602b80da0c71d7bbca09847da4f0aa732a48c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Use case: photorealistic-natural\nAsset type: cinematic portrait image, final target size 1216x1536 portrait\n\nCreate a photorealistic image of a fictional adult Korean female idol in her mid-20s, not resembling any real celebrity. Maintain a Japanese negative film look: soft overexposure, faded neutrals, low contrast, subtle grain, and imperfect snapshot framing.\n\nScene/backdrop: the back stairwell of a small record label building, with moving boxes, scuffed concrete steps, a gray metal handrail, and a pale security light. The atmosphere should feel quiet, slightly intimate, and workaday, as if caught in a private in-between moment after practice and during moving day.\n\nSubject: a Korean female idol with a naturally attractive, understated sensuality rather than overt glamour. She should feel quietly magnetic, relaxed, and a little teasing without being provocative.\n\nWardrobe/props: a slightly cropped black blazer worn casually and slightly open, over a fitted heather-gray ribbed tee that softly outlines the figure without revealing cleavage, loose khaki cargo pants sitting naturally on the waist, a thin silver chain necklace, a roll of black gaffer tape placed beside her, and one sneaker lace still half-tied. The styling should feel subtly sexier and more feminine than purely casual, but still fully modest and non-revealing.\n\nComposition/framing: tall portrait. The subject is seated on the stairs with one knee slightly raised and one leg relaxed lower on the step, leaning back lightly with one hand braced behind her on the stair for support. The other hand is near her half-tied sneaker, as if she has just paused while tying it. Her blazer falls naturally along the body, her posture creating a soft, elegant silhouette. Her head is tilted up toward the camera with a calm, slightly sultry, self-possessed expression. The pose should feel candid yet subtly alluring, natural rather than staged.\n\nLighting/mood: flat stairwell light, understated backstage realism, soft grain, muted tones, gentle highlight bloom, and a quiet intimate mood. Keep the image photorealistic, restrained, and cinematic, with no excessive glamour and no nudity.\n\nAdd small white handwriting signature text \"BubbleBrain\" on the bottom right corner.\n\n--2:3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case399.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "399",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/BubbleBrain/status/2052217544388546827",
+    "title": "唱片公司楼梯间写真人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-399"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "唱片公司楼梯间写真人像",
+  "version": "v1"
+}

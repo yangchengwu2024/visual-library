@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 246577,
+      "path": "images/d3e6d3a867c92bf1344164d473b8dc2c1a8c49f657d7344822e74c88141e4186.jpg",
+      "role": "source_example",
+      "sha256": "d3e6d3a867c92bf1344164d473b8dc2c1a8c49f657d7344822e74c88141e4186",
+      "source_path": "data/images/case454.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-454-4060118dc763",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "34129fa8727f96a7699f4a9362bcf6664cba59a18c9ff72d4ac2368d98e0ed79",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-detailed premium travel-food advertisement poster for [CITY/COUNTRY], vertical composition, inspired by luxury Lay’s-style chips advertising. A realistic chips packet placed at the bottom center as the main hero object, matching the exact premium commercial layout of a floating chips campaign.\n\nA cinematic spiral ribbon of sauce, cream, clouds, steam, or flavored swirl rises upward from the chips packet, dynamically wrapping around iconic landmarks, local foods, and cultural elements from [CITY/COUNTRY].\n\nFloating ridged potato chips suspended naturally throughout the spiral motion, interacting with the landmarks and miniature travelers. The chips packet design must feel authentic to [CITY/COUNTRY], featuring regional colors, typography, patterns, and local flavor inspiration while still clearly looking like a premium potato chips package.\n\nInclude only the most iconic landmarks from [CITY/COUNTRY], carefully spaced with clean composition and no clutter. Add miniature travelers naturally interacting with the environment:\n- taking photos\n- exploring landmarks\n- sitting on floating chips\n- riding local transport\n- observing scenery\n- walking through the swirl paths\n\nInclude authentic local foods, ingredients, and atmosphere elements relevant to [CITY/COUNTRY].\n\nBackground should be soft pastel or warm luxury gradient with a circular ceiling portal opening at the top emitting cinematic spotlight beams.\n\nElegant premium commercial lighting, soft shadows, floating particles, realistic depth, balanced negative space, luxury tourism campaign aesthetic, hyper-realistic CGI, highly detailed but minimalist, Instagram-worthy poster design.\n\nComposition rules:\n- one dominant centered chips packet\n- floating ridged potato chips throughout composition\n- one continuous upward spiral motion\n- landmarks layered vertically\n- miniature people sparse and intentional\n- no duplicate landmarks\n- no overcrowding\n- clean premium hierarchy\n- cinematic storytelling through scale contrast\n- premium advertising composition matching high-end chips commercials",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case454.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "454",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Naiknelofar788/status/2057282710469767241",
+    "title": "旅行美食薯片广告海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-454"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "旅行美食薯片广告海报",
+  "version": "v1"
+}

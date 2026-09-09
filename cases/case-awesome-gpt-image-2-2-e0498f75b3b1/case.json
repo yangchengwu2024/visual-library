@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-2-e0498f75b3b1",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "科技",
+      "社媒"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case2.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "2",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Poster"
+        ]
+      },
+      "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-2",
+      "title": "社媒界面截图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-2",
+      "version": "v1"
+    }
+  ],
+  "title": "社媒界面截图",
+  "title_aliases": [
+    "社媒界面截图"
+  ]
+}

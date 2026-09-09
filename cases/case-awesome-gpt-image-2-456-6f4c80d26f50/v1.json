@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 447939,
+      "path": "images/0f9b0c47fc5941152eeb29a4a1e4748a6a55fd26f927955b04b26466740488ba.jpg",
+      "role": "source_example",
+      "sha256": "0f9b0c47fc5941152eeb29a4a1e4748a6a55fd26f927955b04b26466740488ba",
+      "source_path": "data/images/case456.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-456-6f4c80d26f50",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "98b891fc267287542e1690d12378f02b6a3b9fe07e014939eeacbf2cdb815727",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "2x2 grid, 16:9, do this for 4 famous historical events:\n\nRender_Target =\n  ( 3D_Diorama_Map_Of_[HISTORICAL_EVENT]_In_[CITY] * 1.2 )\n  + ( First-Person_Account_Infographic_UI_From_The_Perspective_Of_[ROLE] * 1.5 )\n  + ( Period-Accurate_Studio_Background_With_[ERA]_Artifacts * 1.0 )\n  + ( Newspaper_Headline_Generator_Widget_With_Your_Byline * 0.8 )\n  - ( Generic_Time_Machine_Gears_And_Clock_Dials / 3.0 )\n  - ( Anachronistic_Props_From_Wrong_Decade / 2.5 )\n  - ( Flat_Wikipedia_Timeline_Graphic / 2.0 )",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case456.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "456",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Travel",
+        "History"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/Gdgtify/status/2057277698607599692",
+    "title": "历史事件 2x2 可视化地图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-456"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "历史事件 2x2 可视化地图",
+  "version": "v1"
+}

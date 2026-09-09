@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 286581,
+      "path": "images/20aa9533a94031e2f5cce83bad6928ae7ec01058f42636cffbc100d5897abe16.jpg",
+      "role": "source_example",
+      "sha256": "20aa9533a94031e2f5cce83bad6928ae7ec01058f42636cffbc100d5897abe16",
+      "source_path": "data/images/case77.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-77-bfbf696d915e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b79051dc4075bf88aa3f7ba2063a438398ca979dda8fde2ff38aada3775698e9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Please generate a high-quality vertical \"Popular Science Encyclopedia Image\" based on {argument name=\"theme\" default=\"animals\"}.\n\nThis image is not a regular poster or a simple illustration, but a modular popular science infographic that possesses a sense of \"illustration book, encyclopedia, information structure, and collectability.\" The overall style should reference a combination of high-end natural history illustrations, modern encyclopedia pages, lifestyle knowledge cards, and highly shareable social media infographics.\n\nPlease include in the frame:\n- A clear and beautiful main visual of the subject\n- Several magnified details of local characteristics\n- Multiple rounded modular information sections\n- Clear title hierarchies and key labels\n- Concise yet rich encyclopedic content\n- Visual ratings, key point summaries, or Top 5 modules\n\nContent columns should be automatically adapted based on the theme, prioritized from these directions: basic profile, classification information, appearance characteristics, habits/ecology, formation mechanism/structure, growth or use conditions, care or maintenance suggestions, risks and precautions, suitable audience or scenarios, pros and cons comparison, and quick rating cards.\n\nVisual requirements:\nLight-colored clean background, soft color palette, light shadows, exquisite small icons, rounded information boxes, neat layout, high information density but not crowded, good reading experience. The overall result must look like a real science encyclopedia card suitable for publishing, reading, collecting, and serialized production, rather than an advertisement.\n\nPlease do not make it a regular commercial promotional poster. Highlight the features of \"knowledge organization + modular information + illustration-style display.\"",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case77.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "77",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/alanlovelq",
+    "title": "关系图谱信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-77"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "关系图谱信息图",
+  "version": "v1"
+}

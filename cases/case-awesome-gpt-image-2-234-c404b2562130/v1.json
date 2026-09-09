@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 138009,
+      "path": "images/393d4240ac8bf8ff0d3704bd0a9bdff90a1331e47f1b6ff1d659e0cd5d832c21.jpg",
+      "role": "source_example",
+      "sha256": "393d4240ac8bf8ff0d3704bd0a9bdff90a1331e47f1b6ff1d659e0cd5d832c21",
+      "source_path": "data/images/case234.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-234-c404b2562130",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "229654c4054e0ff0134fcddc2fbb58a422a63d78620ac5087dc5f620ea909616",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n创建一个明朝朱元璋登基之后的X帖子页面\n\n[English]\nCreate an X post page of Zhu Yuanzhang after his ascension to the throne in the Ming Dynasty",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case234.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "234",
+    "source_tags": {
+      "scenes": [
+        "Social",
+        "History"
+      ],
+      "styles": [
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai/status/2045021302315249738",
+    "title": "朱元璋登基后的推特主页",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-234"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "朱元璋登基后的推特主页",
+  "version": "v1"
+}

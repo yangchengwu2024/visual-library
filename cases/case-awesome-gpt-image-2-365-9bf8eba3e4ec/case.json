@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-365-9bf8eba3e4ec",
+  "classification": {
+    "categories": [
+      "商品与电商"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "教育"
+    ],
+    "source_category": "Products & E-commerce",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Product",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "界面",
+      "商品",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case365.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "365",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "UI",
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Gdgtify/status/2049766203392921897",
+      "title": "科学家收藏级玩具发布板",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-365",
+      "version": "v1"
+    }
+  ],
+  "title": "科学家收藏级玩具发布板",
+  "title_aliases": [
+    "科学家收藏级玩具发布板"
+  ]
+}

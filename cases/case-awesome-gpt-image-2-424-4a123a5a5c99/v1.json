@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 400647,
+      "path": "images/ab5986a6edd6ca7bd9c3d60c10045d30bb687de1d16bbe207895f41c61369a2e.jpg",
+      "role": "source_example",
+      "sha256": "ab5986a6edd6ca7bd9c3d60c10045d30bb687de1d16bbe207895f41c61369a2e",
+      "source_path": "data/images/case424.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-424-4a123a5a5c99",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "75891fca7d84806c4bf585a32dc60fdb84cd09372f3ce222c45245566c39f837",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Hyper-realistic cinematic FMCG billboard advertising poster for Chupa Chups India, focusing on playful energy, bold flavor explosion, and Gen-Z candy culture.\n\nScene: a giant glossy Chupa Chups lollipop floating above a vibrant Indian street at night, candy shards and liquid flavor bursts exploding outward mid-air.\n\nEnvironment: neon-lit urban backdrop inspired by Mumbai nightlife, glowing signage, reflective wet streets, colorful haze.\n\nSubject: oversized strawberry swirl lollipop as the hero object, ultra-detailed glossy texture, cinematic flavor splash motion.\n\nVisual storytelling: iconic Chupa Chups flower logo glowing subtly on wrapper, reflections visible on wet surfaces and candy syrup splashes.\n\nComposition: dramatic low-angle shot, giant centered product dominating frame, dynamic explosion spreading diagonally across billboard composition.\n\nTypography:\ntop left — Chupa Chups logo.\ncenter massive — “UNWRAP THE FUN” ultra bold playful typography.\nbehind product (oversized layered text) — “LICK / SPIN / REPEAT”.\nmid-left — “FLAVOR THAT POPS.” bold condensed font.\nbottom left — “STRAWBERRY BURST · GLOBAL ICON · 2026 EDITION”.\nbottom right — “http://chupachups.com”.\nleft vertical edge — “FUN · FLAVOR · CANDY CULTURE”.\n\nTypography style: playful bold sans-serif, glossy layered opacity, oversized billboard scale.\n\nColor palette: vibrant reds, yellows, pinks, neon orange accents, glossy candy textures.\n\nLighting: dramatic neon backlight with glowing highlights and candy reflections.\n\nAtmosphere: sugar particles, mist, syrup splashes, floating candy dust.\n\nMood: energetic, youthful, addictive, vibrant.\n\nShot on ARRI Alexa Mini LF, 35mm anamorphic, HDR, ultra cinematic, premium FMCG billboard style, 4:5 portrait.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case424.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "424",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Diplomeme/status/2054061713583219149",
+    "title": "FMCG 棒棒糖霓虹广告",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-424"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "FMCG 棒棒糖霓虹广告",
+  "version": "v1"
+}

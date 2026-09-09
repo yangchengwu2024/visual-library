@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 191048,
+      "path": "images/62808ad94d3928a61841825eaee72a361a68150c9877f384d8e79a8b8bc1c2b2.jpg",
+      "role": "source_example",
+      "sha256": "62808ad94d3928a61841825eaee72a361a68150c9877f384d8e79a8b8bc1c2b2",
+      "source_path": "data/images/case406.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-406-d598103996e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "21a5a31cf34ef16d4f43188f05d5c2d30a561b2a3e9ab9c9eda27740747d4a18",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Luxury futuristic streetwear campaign poster featuring a confident athletic girl sitting on a gigantic oversized retro gaming controller instead of sunglasses, clean editorial advertising aesthetic, massive bold typography in the background saying “ENERGY”, glossy reflective floor, cinematic studio lighting, pastel neon color palette with lavender, silver, and soft cyan tones.\n\nThe girl has curly shoulder-length hair, relaxed confident attitude, wearing an oversized white graphic T-shirt, loose black athletic shorts, high white socks, and modern sneakers. Casual sporty fashion styling, natural makeup, youthful Gen-Z streetwear vibe. She is casually seated on top of the giant gaming controller with one leg hanging down and one knee raised, looking away from the camera with cool effortless confidence.\n\nThe oversized gaming controller is ultra detailed with futuristic buttons, glowing accents, premium matte materials, and soft LED reflections. Minimal luxury branding on the controller side. Giant cream-colored typography fills the background vertically in a bold condensed font.\n\nEnvironment: seamless studio backdrop with glossy floor reflections, high-end commercial fashion photography, ultra realistic textures, dramatic shadows, premium editorial layout, modern tech-fashion advertisement aesthetic, symmetrical composition, luxury product campaign style, 4:3 aspect ratio, hyper detailed, photorealistic.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case406.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "406",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/AIwithkhan/status/2052973449107349725",
+    "title": "巨型游戏手柄街头 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-406"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "巨型游戏手柄街头 Campaign",
+  "version": "v1"
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 110473,
+      "path": "images/c6354e4ca51cb20182226f75ef8035c8398210ee189e8b3994a463afb0b9f0ba.jpg",
+      "role": "source_example",
+      "sha256": "c6354e4ca51cb20182226f75ef8035c8398210ee189e8b3994a463afb0b9f0ba",
+      "source_path": "data/images/case398.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-398-a6ef2d6c07e1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "096cc16e3bc3b095b6df905682830fb7bd6faffdf87d5e558d4e7b96ba45cada",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a freeform fashion-editorial collage of me in 8 distinct full-body casual wear, arranged organically on a clean cream studio backdrop. Keep my face identical across all looks, w/ consistent proportions that visually read as around (height) w/o stating height. Include subtle handwritten-style arrows & labels highlighting key pieces. Avoid any grids, borders, or boxed layouts.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case398.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "398",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Characters"
+      ]
+    },
+    "source_url": "https://x.com/aiwithaly/status/2052218645951205463",
+    "title": "8 套日常穿搭编辑拼贴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-398"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "8 套日常穿搭编辑拼贴",
+  "version": "v1"
+}

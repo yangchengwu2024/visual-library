@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 76947,
+      "path": "images/e73ddb8391f9b474568375bc2ae8e542724f264ab4cfe09aeb66c7f750e9c609.jpg",
+      "role": "source_example",
+      "sha256": "e73ddb8391f9b474568375bc2ae8e542724f264ab4cfe09aeb66c7f750e9c609",
+      "source_path": "data/images/case436.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-436-4b2572587f51",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a18b5dc954d2b5e63e55409bdc101c8ad03b1187cd399a195f9e6c14329bdd7f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A realistic close-up shot of a small digital camera screen glowing brightly in a dark indoor environment. Displayed on the LCD is a candid early-2010s style photograph of a young East Asian woman with long dark wavy hair standing beside a wooden shelf packed tightly with colorful comic books and magazines.\n\nShe wears a black spaghetti-strap top with a loose white cardigan hanging casually from both shoulders and faded blue jeans. Captured mid-laugh while turning her face slightly sideways, her expression feels spontaneous and natural, with hair falling softly across part of her cheek.\n\nThe harsh direct flash from the compact camera creates strong highlights on her face and cardigan while flattening shadows in the background, producing an authentic nostalgic digicam aesthetic. Slight motion blur and digital grain enhance the candid realism.\n\nCamera UI overlays are visible across the LCD screen, including the timestamp “8. 1. 2012 3:15 AM,” exposure data “1/30 F3.4 ISO 100,” focus indicators, and a small green battery symbol in the corner.\n\nThe image preserves visible screen pixel structure, slight glare reflections, chromatic softness, and compressed digital texture. Outside the LCD, the surrounding darkness fades smoothly into blur, emphasizing the glowing nostalgic screen.\n\nShot to resemble an authentic Sony Cyber-shot point-and-shoot camera from the early 2010s using a CCD sensor with vintage digital rendering and imperfect flash exposure.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case436.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "436",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/Ciri_ai/status/2055876982630686956",
+    "title": "数码相机屏幕怀旧人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-436"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "数码相机屏幕怀旧人像",
+  "version": "v1"
+}

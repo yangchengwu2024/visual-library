@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 62173,
+      "path": "images/3707cea4e6c29dd76f8b12b8eaaa11ab5d67bcb78cbfcc5ca627f78f524e1411.jpg",
+      "role": "source_example",
+      "sha256": "3707cea4e6c29dd76f8b12b8eaaa11ab5d67bcb78cbfcc5ca627f78f524e1411",
+      "source_path": "data/images/case383.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-383-31fa721b28ca",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "69cb7f5f26598f37638d0b878ecc83d2bb0238fe137431fb494892340297a77e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "I want to see what you really look like.\nDraw a snapshot of your everyday life as if it were accidentally taken on an iPhone.\nMake it feel like a very ordinary, imperfect candid shot.\nThe photo should have slight motion blur, with uneven, natural lighting.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case383.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "383",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Ciri_ai/status/2051292618248904809",
+    "title": "AI 日常生活 iPhone 抓拍",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-383"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "AI 日常生活 iPhone 抓拍",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 273775,
+      "path": "images/2a6ed867365874b2203f1c5613c56e0e5baaee76739c299b53272e49fb56a631.jpg",
+      "role": "source_example",
+      "sha256": "2a6ed867365874b2203f1c5613c56e0e5baaee76739c299b53272e49fb56a631",
+      "source_path": "data/images/case413.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-413-800fbed5664f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7e2ed2445ba904208b423f06d920c569b0b3e46e18d326eba66c2e3d66737f94",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a raw contemporary dance performance storyboard focused on intense physical movement and live singing. Use reference image for the character. 16:9 storyboard sheet, 12 cinematic panels.\n\nThe actual storyboard drawings must be black and white only: rough pencil lines, minimal detail, fast gesture drawing energy, simple anatomy construction and strong silhouette readability. Keep the artwork lightweight, dynamic and unfinished like early choreography previs.\n\nA solitary female performer sings continuously while executing an emotionally charged contemporary dance routine inside a massive empty brutalist hall.\n\nThe choreography is aggressive, fluid and constantly evolving: rapid turns, floor slides, crawling transitions, sharp body isolations, trembling hands, extreme balance shifts, hair whips, lunges, jumps, collapsing movements and distorted sculptural poses.\n\nEvery panel must contain visible motion and strong body momentum. Avoid static standing poses. The performer should feel trapped between ritual, exhaustion and emotional release.\n\nUse cinematic arthouse camerawork with handheld energy, whip pans, orbit movement, overhead shots, side silhouettes, aggressive close-ups, long lens compression and extreme negative space.\n\nthe environment minimal: empty space, smoke, fabric motion, harsh light beams and wet floor reflections only.\n\nAnnotation color system: red arrows = body movement blue arrows = camera movement green marks = framing / composition notes orange marks = lighting direction purple marks = vocal / emotional emphasis black text = short lens notes and panel labels No timestamps.\n\nEnd with one overwhelming final movement pose beneath a harsh isolated spotlight.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case413.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "413",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/ogbenniasamuel2/status/2053088572031250799",
+    "title": "当代舞现场 Storyboard",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-413"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "当代舞现场 Storyboard",
+  "version": "v1"
+}

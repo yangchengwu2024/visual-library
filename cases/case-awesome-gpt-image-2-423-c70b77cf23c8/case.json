@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-423-c70b77cf23c8",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "时尚"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "styles": [
+      "界面",
+      "插画",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case423.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "423",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Illustration",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/heyfatema/status/2053703602246668607",
+      "title": "日系手绘涂鸦半身插画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-423",
+      "version": "v1"
+    }
+  ],
+  "title": "日系手绘涂鸦半身插画",
+  "title_aliases": [
+    "日系手绘涂鸦半身插画"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 227357,
+      "path": "images/3a788ef89540158a7cddb5fcffe0403e76e9379a908cf757bc9132af85e43855.jpg",
+      "role": "source_example",
+      "sha256": "3a788ef89540158a7cddb5fcffe0403e76e9379a908cf757bc9132af85e43855",
+      "source_path": "data/images/case121.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-121-193212d75b64",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8a1b416d7955be8498c89c847121d89c3ae4f416f351e17e56e64bbe4178ba97",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"3-panel manga page\",\n  \"style\": \"anime, highly detailed, cinematic lighting, futuristic corporate\",\n  \"layout\": {\n    \"structure\": \"1 wide top panel, 2 square bottom panels\"\n  },\n  \"panels\": [\n    {\n      \"position\": \"top\",\n      \"shot\": \"wide landscape\",\n      \"scene\": \"Futuristic corporate lobby with floor-to-ceiling windows\",\n      \"lighting\": \"{argument name=\\\"time of day\\\" default=\\\"sunrise\\\"}\",\n      \"background\": \"City skyline featuring {argument name=\\\"landmark\\\" default=\\\"Tokyo Tower\\\"}\",\n      \"details\": \"Holographic displays, polished reflective floor, reception desk, lounge chairs\"\n    },\n    {\n      \"position\": \"bottom left\",\n      \"shot\": \"close-up profile\",\n      \"character\": \"Young woman, dark hair, black business suit\",\n      \"accessories\": \"Futuristic black earpiece with glowing blue light\",\n      \"speech_bubble\": {\n        \"style\": \"standard rounded\",\n        \"text\": \"{argument name=\\\"character dialogue\\\" default=\\\"数字はいいわ\\\"}\"\n      }\n    },\n    {\n      \"position\": \"bottom right\",\n      \"shot\": \"full body, walking away, touching earpiece\",\n      \"character\": \"Same woman, black suit, black heels, carrying a black tote bag\",\n      \"environment\": \"Approaching security gates\",\n      \"holographic_sign\": \"{argument name=\\\"floor sign\\\" default=\\\"ECHO 42F\\\"}\",\n      \"speech_bubble\": {\n        \"style\": \"futuristic angular\",\n        \"text\": \"{argument name=\\\"AI dialogue\\\" default=\\\"おはようございます、ユキさん。本日は記念すべき ──\\\"}\"\n      }\n    }\n  ]\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case121.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "121",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Travel",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/loilokoji",
+    "title": "建筑空间场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-121"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景图",
+  "version": "v1"
+}

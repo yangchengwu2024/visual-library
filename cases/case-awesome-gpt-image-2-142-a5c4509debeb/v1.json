@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 240202,
+      "path": "images/0b6f8e6f2b89f1425c00314504d2163dbef8627bec6834948f9a93c88383d8a0.jpg",
+      "role": "source_example",
+      "sha256": "0b6f8e6f2b89f1425c00314504d2163dbef8627bec6834948f9a93c88383d8a0",
+      "source_path": "data/images/case142.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-142-a5c4509debeb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4382c32093ebab56c5f6ca264fa82cca0dee76c238a3e1002c191d04a6f9259d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"anime idol merchandise catalog flyer\",\n  \"theme_colors\": \"{argument name=\\\"theme color\\\" default=\\\"pastel blue and pink\\\"}\",\n  \"character\": {\n    \"name\": \"{argument name=\\\"character name\\\" default=\\\"ななし\\\"}\",\n    \"appearance\": \"anime girl, long {argument name=\\\"hair color\\\" default=\\\"pink\\\"} hair, blue eyes\",\n    \"attire\": \"{argument name=\\\"outfit\\\" default=\\\"black and white maid outfit with a red bow tie\\\"} and blue hair ribbons\"\n  },\n  \"layout\": {\n    \"header\": {\n      \"left\": \"upper body portrait of the character looking slightly to the side\",\n      \"center\": {\n        \"top_banner\": \"ななし 2nd EP リリース記念ライブ\",\n        \"main_title\": \"{argument name=\\\"event title\\\" default=\\\"おしごと☆メイド奮闘中！\\\"}\",\n        \"subtitle\": \"~ Oshigoto Maid Funtouchu! ~\",\n        \"section_header\": \"OFFICIAL GOODS\"\n      },\n      \"right\": \"purchase bonus info box containing 3 small rectangular photo prints\"\n    },\n    \"merchandise_grid\": [\n      { \"id\": \"01\", \"name\": \"アクリルスタンド\", \"description\": \"full body acrylic stand of the character\" },\n      { \"id\": \"02\", \"name\": \"缶バッジ\", \"description\": \"set of 6 circular can badges featuring different facial expressions\" },\n      { \"id\": \"03\", \"name\": \"ビッグタオル\", \"description\": \"large rectangular towel showing the character holding a heart pillow\" },\n      { \"id\": \"04\", \"name\": \"Tシャツ\", \"description\": \"white t-shirt showing FRONT with character graphic and BACK with small logo\" },\n      { \"id\": \"05\", \"name\": \"マフラータオル\", \"description\": \"long narrow muffler towel with character art and logo\" },\n      { \"id\": \"06\", \"name\": \"トートバッグ\", \"description\": \"canvas tote bag with blue logo\" },\n      { \"id\": \"07\", \"name\": \"アクリルキーホルダー\", \"description\": \"chibi character acrylic keychain with a star-shaped clasp\" },\n      { \"id\": \"08\", \"name\": \"ラバーバンド\", \"description\": \"blue silicone wristband with logo\" },\n      { \"id\": \"09\", \"name\": \"ステッカーセット\", \"description\": \"set of 4 visible stickers: chibi character, heart, ribbon bow, and logo\" },\n      { \"id\": \"10\", \"name\": \"ペンライト\", \"description\": \"blue glowing concert penlight\" }\n    ],\n    \"footer\": {\n      \"left\": \"purchase notes and guidelines box\",\n      \"center\": \"character signature 'Nanashi' with hand-drawn hearts and stars\",\n      \"right\": \"payment methods box\"\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case142.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "142",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/anemone_sd",
+    "title": "写实摄影风格创作",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-142"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "写实摄影风格创作",
+  "version": "v1"
+}

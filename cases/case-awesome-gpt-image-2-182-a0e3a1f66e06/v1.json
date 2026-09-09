@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 64706,
+      "path": "images/9968f5a5d3f772ce1211f4a8bf6632bfa6b2402a016379063642704aa9e4aa39.jpg",
+      "role": "source_example",
+      "sha256": "9968f5a5d3f772ce1211f4a8bf6632bfa6b2402a016379063642704aa9e4aa39",
+      "source_path": "data/images/case182.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-182-a0e3a1f66e06",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cf363bd764a08a5861d513eb146eafdc9ac3a9069dde0f60920def161346ac61",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n2000 年代面向中学生的日剧喜剧场景\n\n[English]\n2000s Japanese TV drama comedy scene aimed at middle school students",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case182.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "182",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Story"
+      ],
+      "styles": [
+        "Scenes"
+      ]
+    },
+    "source_url": "https://x.com/UminekoStudio/status/2046488248256806981",
+    "title": "千禧年日系校园喜剧场景",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-182"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "千禧年日系校园喜剧场景",
+  "version": "v1"
+}

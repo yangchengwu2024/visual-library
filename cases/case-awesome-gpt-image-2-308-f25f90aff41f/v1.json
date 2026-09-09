@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 132177,
+      "path": "images/aa7a70c9d121ea8780e08ae8c38f1c1727241f149ae4726b46bf53efe715d95c.jpg",
+      "role": "source_example",
+      "sha256": "aa7a70c9d121ea8780e08ae8c38f1c1727241f149ae4726b46bf53efe715d95c",
+      "source_path": "data/images/case308.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-308-f25f90aff41f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c7b265b58d881816bdbd25b496d837b0b0f70c78c4820b01d5775737a61a360c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n9:16 的图片比例，生成一张抖音直播的截图，里面是 xxx 在直播，xxx 手里拿着牌子，牌子里写着 xxxx。\n\n[English]\n9:16 aspect ratio, generate a screenshot of a Douyin live stream, inside is xxx live streaming, xxx is holding a sign in their hand, the sign says xxxx.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case308.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "308",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/_FORAB/status/2044744023261519920",
+    "title": "抖音直播截图画面",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-308"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "抖音直播截图画面",
+  "version": "v1"
+}

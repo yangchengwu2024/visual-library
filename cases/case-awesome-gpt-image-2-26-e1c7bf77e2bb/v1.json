@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 167463,
+      "path": "images/2a1813550c2584e416c1332b64c4add51c532a12fcc1ca4168ba188ad87d64ad.jpg",
+      "role": "source_example",
+      "sha256": "2a1813550c2584e416c1332b64c4add51c532a12fcc1ca4168ba188ad87d64ad",
+      "source_path": "data/images/case26.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-26-e1c7bf77e2bb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7d422cbad6af20a4cd557ef0509364d78280ebd04a00b512d0589c75de0ddb4f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A vintage 35mm film photograph of a {argument name=\"subject description\" default=\"young Asian woman\"} with {argument name=\"hair style\" default=\"long dark wavy hair and wispy bangs\"}. She is wearing a {argument name=\"clothing\" default=\"white ribbed tank top and a loose beige knit cardigan slipping off one shoulder\"}, along with a delicate silver necklace. She has soft makeup with pink blush and glossy lips, looking directly at the camera with slightly parted lips. The lighting is harsh direct camera flash, creating a candid, amateur snapshot aesthetic. The background is a {argument name=\"setting\" default=\"dimly lit, slightly messy room with clothes on a table and a wooden shelf\"}. The image features heavy film grain, slightly muted colors, and a nostalgic, highly realistic photographic texture.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case26.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "26",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Story"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/ecooai",
+    "title": "建筑空间场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-26"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景图",
+  "version": "v1"
+}

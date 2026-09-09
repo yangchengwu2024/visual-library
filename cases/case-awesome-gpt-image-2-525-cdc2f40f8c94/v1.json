@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 224566,
+      "path": "images/f631f4102e84a102619e6adc9db70189e5d3af644f5a3c319a25fc128d29311d.jpg",
+      "role": "source_example",
+      "sha256": "f631f4102e84a102619e6adc9db70189e5d3af644f5a3c319a25fc128d29311d",
+      "source_path": "data/images/case525.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-525-cdc2f40f8c94",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "efadad55354586b0d9df9d617e2258190f646eaf14ae7c3ea30eba163420c80f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A cinematic, ultra-realistic close-up portrait of a stylish man, using the provided image as an accurate face reference. Preserve his natural facial identity, thick naturally curly dark brown hair, neatly trimmed salt-and-pepper beard, strong masculine facial structure, and realistic facial proportions. He wears sophisticated round vintage amber-brown sunglasses and a premium deep burgundy suede jacket over a fitted black silk-knit shirt, creating a refined luxury fashion aesthetic.\n\nWarm cinematic studio lighting with a soft amber-golden key light illuminating the face from the front-left, complemented by a subtle crimson-red rim light outlining the hair and shoulders. The background is a rich burgundy, wine-red, and dark plum gradient, with soft atmospheric haze and subtle diffused light creating depth without distracting from the subject. Elegant warm highlights contrast beautifully against the dark clothing.\n\nExtremely detailed natural skin texture, individual beard hairs, realistic pores, subtle facial imperfections, sharp eyes visible behind slightly tinted lenses, natural reflections on the sunglasses, rich dimensional shadows, realistic fabric and suede texture, shallow depth of field. Sophisticated luxury fashion campaign, mysterious and confident mood, premium men's editorial photography, cinematic color grading, photorealistic, HDR, professional studio photography, 85mm portrait lens, f/1.8, crisp facial details, soft background bokeh, centered composition, head-and-shoulders framing, powerful masculine presence, understated elegance, 3:4 aspect ratio.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case525.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "525",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/iamsofiaijaz/status/2090294894187413883",
+    "title": "酒红棚拍男士时尚肖像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-525"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "酒红棚拍男士时尚肖像",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 222269,
+      "path": "images/569fc121ba82d2db731c341f2889ca2e3726c7d7a47cd0a5a9ed3ee64f7825c0.jpg",
+      "role": "source_example",
+      "sha256": "569fc121ba82d2db731c341f2889ca2e3726c7d7a47cd0a5a9ed3ee64f7825c0",
+      "source_path": "data/images/case530.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-530-8f24a2d37563",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fd1e4891aab3eb9f431325a798ee9db8830d0b16db42566ee6adf639e06dfa7e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Transform ONLY the people in the uploaded photo into adorable hand-drawn doodle characters while keeping the original photographic background unchanged.\n\nCORE RULE:\nBackground = original realistic photo.\nPeople = cute hand-drawn doodle characters.\n\nPRESERVE THE BACKGROUND:\nKeep the original sky, landscape, buildings, water, furniture, ground, plants, railings, objects, lighting, colors, perspective, camera angle, framing, and textures as close to the original photo as possible.\n\nDo NOT redraw, simplify, illustrate, or apply doodle/crayon/pencil effects to the background or environmental objects.\n\nTRANSFORM ONLY PEOPLE:\nReplace each person with a charming, naive doodle version while preserving:\n- exact number of people\n- original position and relative scale\n- front/back/side/three-quarter orientation\n- head and body direction\n- pose and gesture\n- arm and leg positions\n- interactions with people or objects\n- hairstyle, clothing colors, and major accessories\n\nIMPORTANT:\nIf someone faces away, keep them back-facing.\nIf sideways, keep them sideways.\nIf facing forward, keep them forward.\nNever rotate a person toward the viewer or invent a face that is not visible.\n\nCUTE DOODLE STYLE:\nFreely reinterpret realistic anatomy into an adorable, imperfect character:\n- oversized round head\n- tiny compact body\n- short simplified arms and legs\n- tiny hands and feet\n- cute awkward proportions\n- loose scribbled hair\n- tiny dot eyes and simple facial features when visible\n- rosy scribbled cheeks when appropriate\n\nKeep the original pose recognizable, but simplify and slightly exaggerate it for cuteness.\n\nDRAWING STYLE:\nLoose naive hand-drawn doodle, like a quick children's sketch.\nUse thin shaky black outlines, imperfect shapes, overlapping sketch lines, scribbled colored-pencil or crayon fills, uneven coloring, white gaps, and slightly messy edges.\n\nThe character should look intentionally roughly drawn but extremely cute.\n\nOBJECTS:\nObjects, furniture, scenery, and items around the people should remain photographic whenever possible. A doodle character may naturally touch or hold a real photographic object.\n\nINTEGRATION:\nKeep correct scale, ground contact, depth, and occlusion so the doodle characters naturally occupy the same locations as the original people.\n\nFINAL LOOK:\nIt should feel like the real people were removed from the original photograph and replaced with adorable little hand-drawn doodle versions of themselves, while the real-world background remained untouched.\n\nPrioritize:\n1. Original photographic background\n2. Person position and scale\n3. Exact body orientation\n4. Pose and gesture\n5. Cute exaggerated doodle character design\n\nAvoid full-image illustration, background doodling, realistic anatomy, anime, manga, 3D cartoon, polished digital art, vector lines, changed poses, changed orientation, added people, or invented faces.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case530.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "530",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/Emmma__0/status/2091391958128251286",
+    "title": "实拍背景涂鸦人物替换",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-530"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "实拍背景涂鸦人物替换",
+  "version": "v1"
+}

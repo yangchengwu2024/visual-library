@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 171934,
+      "path": "images/ffa1892fa496cee7fcb0aa61e3cb05940eab91df4d5ad4174ec81f5955f3bd4f.jpg",
+      "role": "source_example",
+      "sha256": "ffa1892fa496cee7fcb0aa61e3cb05940eab91df4d5ad4174ec81f5955f3bd4f",
+      "source_path": "data/images/case176.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-176-5197d6ada54f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c974d11683aa31d841b2a285797e15cb0281b98ee2a8d569d029d1b84949e70e",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n苏轼被贬第一天小红书截图\n\n[English]\nSu Shi's first day of exile Xiaohongshu screenshot",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case176.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "176",
+    "source_tags": {
+      "scenes": [
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046585220393324553",
+    "title": "苏轼被贬首日朋友圈曝光",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-176"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "苏轼被贬首日朋友圈曝光",
+  "version": "v1"
+}

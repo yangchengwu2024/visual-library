@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 137176,
+      "path": "images/b16588ae3f740105d26cf686d46d2acc8704548bdc021912ebc9abb15c23f9f4.jpg",
+      "role": "source_example",
+      "sha256": "b16588ae3f740105d26cf686d46d2acc8704548bdc021912ebc9abb15c23f9f4",
+      "source_path": "data/images/case268.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-268-bfe9929e944b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b8b45080db7d586031b5e082885c1213f7d04b2710b7ff830b82584d1719f465",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n태조 이성계의 X  페이지(위화도 회군을 벌이기 직전- 최영 장군과 서로 디스하는 내용이 담긴 게시글들)을 만들어 주세요.\n\n[English]\nPlease create an X page of King Taejo Yi Seong-gye (right before carrying out the Wihwa Island Retreat - containing posts where he and General Choi Yeong are dissing each other).",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case268.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "268",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social"
+      ],
+      "styles": [
+        "History"
+      ]
+    },
+    "source_url": "https://x.com/SKA_Neotype/status/2044637900978217334",
+    "title": "威化岛回军前夕李成桂动态",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-268"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "威化岛回军前夕李成桂动态",
+  "version": "v1"
+}

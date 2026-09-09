@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 233675,
+      "path": "images/dfee0a1f4bbb7a3316c605b96dc08369736f3e28b367d92ae641e839607a7d0f.jpg",
+      "role": "source_example",
+      "sha256": "dfee0a1f4bbb7a3316c605b96dc08369736f3e28b367d92ae641e839607a7d0f",
+      "source_path": "data/images/case271.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-271-08a899f115c7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bdfdb02032b6d2098fe57a14cfc47cec79ecb503c1bd97a2ab88338c62798ab9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\nお借りして噂のGPT-Image-2でキャラシート作ってみましたｽｺﾞｯ(๑°ㅁ°๑)‼✧更に色々指示してあげたらもっといい感じになりそう✨キャラは以前チャッピーにお願いして描いて貰った我が分身です( *¯ ꒳¯*)\n\n[English]\nI borrowed it and tried making a character sheet using the rumored GPT-Image-2 Awesome(๑°ㅁ°๑)‼✧ It seems like it would turn out even better if I gave it various more instructions✨ The character is my alter ego that I asked Chappy to draw for me before( *¯ ꒳¯*) #GPTimage #AIgenerated",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case271.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "271",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/tsubaki_ew/status/2045259289993048284",
+    "title": "人物角色设定图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-271"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "人物角色设定图",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-119-5afbbe8eabc0",
+  "classification": {
+    "categories": [
+      "文档与出版物"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Documents & Publishing",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "信息图",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case119.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "119",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/old_pgmrs_will",
+      "title": "主题海报版式设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-119",
+      "version": "v1"
+    }
+  ],
+  "title": "主题海报版式设计",
+  "title_aliases": [
+    "主题海报版式设计"
+  ]
+}

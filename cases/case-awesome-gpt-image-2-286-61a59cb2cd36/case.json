@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-286-61a59cb2cd36",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case286.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "286",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "UI",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2045527750606487877",
+      "title": "珠江新城剪纸璀璨夜景",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-286",
+      "version": "v1"
+    }
+  ],
+  "title": "珠江新城剪纸璀璨夜景",
+  "title_aliases": [
+    "珠江新城剪纸璀璨夜景"
+  ]
+}

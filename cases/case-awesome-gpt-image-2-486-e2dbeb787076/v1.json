@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 555455,
+      "path": "images/58dd1309462d39ca2202d6c38458f6aa9c661aefc6848ceea249fdf5a5953c32.jpg",
+      "role": "source_example",
+      "sha256": "58dd1309462d39ca2202d6c38458f6aa9c661aefc6848ceea249fdf5a5953c32",
+      "source_path": "data/images/case486.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-486-e2dbeb787076",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6e26a2a618a1816293adc21ac1db281e12ce59c2093c03edee70454755297b54",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-detailed mixed-media sports poster featuring the SAME woman from the reference image, wearing a Royal Challengers Bengaluru (RCB) jersey, holding the IPL trophy beside her. Dynamic fusion of realistic portrait photography, sketch art, watercolor splashes, paint strokes, ink scribbles, and digital painting effects. Explosive red, black, gold, and white color palette. Dramatic championship atmosphere with confetti, fireworks, cheering stadium crowd, RCB flags waving in the background, paint splatter textures, hand-drawn line art accents, and energetic brushwork.\n\nThe woman has a confident expression, bold red lipstick, flawless skin, short black bob haircut, cinematic lighting, ultra-sharp blue eyes, premium sports-fashion styling. RCB face paint on cheek, luxury gold jewelry accents, highly detailed jersey fabric.\n\nLarge typography on the right side reading:\n\nRCB\nIPL CHAMPIONS\n2026\n\nHandwritten slogan at bottom left:\n\nEe Sala Cup Namde!\n\nPremium championship poster design, trending Behance artwork, sports magazine cover aesthetic, layered paint textures, realistic trophy reflections, high contrast, ultra-detailed, 8K, masterpiece, award-winning digital art, vibrant colors, cinematic composition, splash art, sketch effect, watercolor effect, paint explosion effect, mixed-media illustration, poster-worthy design.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case486.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "486",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/AIwithkhan/status/2061305471492096301",
+    "title": "RCB 冠军混合媒介海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-486"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "RCB 冠军混合媒介海报",
+  "version": "v1"
+}

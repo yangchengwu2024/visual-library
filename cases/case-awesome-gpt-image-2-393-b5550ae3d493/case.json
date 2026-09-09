@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-393-b5550ae3d493",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "时尚"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case393.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "393",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/SiliconBarbie_/status/2051475105403040014",
+      "title": "Y2K 金色时刻人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-393",
+      "version": "v1"
+    }
+  ],
+  "title": "Y2K 金色时刻人像",
+  "title_aliases": [
+    "Y2K 金色时刻人像"
+  ]
+}

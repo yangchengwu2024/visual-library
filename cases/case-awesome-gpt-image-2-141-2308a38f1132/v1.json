@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 291169,
+      "path": "images/0b7ef229f6e6be668b8cffad217a2ecbb9c01e66ca231530943d720ed6ae6012.jpg",
+      "role": "source_example",
+      "sha256": "0b7ef229f6e6be668b8cffad217a2ecbb9c01e66ca231530943d720ed6ae6012",
+      "source_path": "data/images/case141.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-141-2308a38f1132",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "46df1317876b5747fea452398e6f065588beee506f427cfc57416ff0d7c80c21",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"promotional banner design set\",\n  \"theme\": \"strawberry advertisement campaign\",\n  \"style\": \"anime illustration, bright, cheerful, commercial graphic design\",\n  \"color_palette\": \"{argument name=\\\"primary color theme\\\" default=\\\"pastel pink and vibrant red\\\"}\",\n  \"character\": \"{argument name=\\\"character description\\\" default=\\\"anime girl with brown side ponytail and bunny ears, wearing a pastel blue and pink jacket\\\"}\",\n  \"product\": \"{argument name=\\\"product\\\" default=\\\"fresh red strawberries\\\"}\",\n  \"layout\": {\n    \"sections\": [\n      {\n        \"type\": \"large landscape banner\",\n        \"position\": \"top left\",\n        \"visuals\": \"character winking and holding a strawberry next to a large basket of strawberries\",\n        \"main_text\": \"{argument name=\\\"main headline\\\" default=\\\"いちごたっぷり\\\"}\",\n        \"sub_text\": [\"笑顔あふれる、甘〜いひととき♪\", \"とびきりおいしい！\", \"ひと粒で、しあわせ広がる♡\", \"あまっ♡\", \"旬のおいしさをお届け！\"],\n        \"badges\": {\n          \"count\": 3,\n          \"labels\": [\"あま〜くてジューシー！\", \"いろんなサイズを楽しめる♪\", \"新鮮朝採れ！\"]\n        }\n      },\n      {\n        \"type\": \"vertical banner\",\n        \"position\": \"right\",\n        \"visuals\": \"character eating a strawberry with a pile of strawberries below\",\n        \"main_text\": \"いちごたっぷり\",\n        \"sub_text\": [\"旬のいちごをお届け！\", \"{argument name=\\\"secondary headline\\\" default=\\\"あま〜くて、ジューシー！\\\"}\", \"とろけるおいしさ〜♡\"],\n        \"badges\": {\n          \"count\": 3,\n          \"labels\": [\"朝採れ新鮮！\", \"いろんなサイズを楽しめる♪\", \"甘くてジューシー！\"]\n        }\n      },\n      {\n        \"type\": \"wide horizontal banner\",\n        \"position\": \"middle\",\n        \"visuals\": \"character with closed eyes eating a strawberry, flanked by strawberries\",\n        \"main_text\": \"いちごたっぷり！\",\n        \"sub_text\": [\"あまくて、ジューシーな幸せ♡\", \"旬の美味しさをお届けします！\", \"おいし〜っ♡\"]\n      },\n      {\n        \"type\": \"small square banner\",\n        \"position\": \"bottom left\",\n        \"visuals\": \"character smiling holding strawberry\",\n        \"text\": [\"いちごたっぷり\", \"あま〜くてジューシー！\"]\n      },\n      {\n        \"type\": \"small square banner\",\n        \"position\": \"bottom mid-left\",\n        \"visuals\": \"pile of strawberries with one cut in half\",\n        \"text\": [\"旬のいちご！\", \"あまくてとろけるおいしさ♡\"]\n      },\n      {\n        \"type\": \"small horizontal banner\",\n        \"position\": \"bottom mid-right\",\n        \"visuals\": \"character holding strawberry\",\n        \"text\": [\"いちごたっぷり\", \"朝採れ新鮮！\", \"あまくてジューシー！\"]\n      },\n      {\n        \"type\": \"circular icons\",\n        \"position\": \"bottom right\",\n        \"count\": 4,\n        \"items\": [\n          { \"visual\": \"basket of strawberries\", \"label\": \"朝採れ新鮮！\" },\n          { \"visual\": \"half strawberry\", \"label\": \"あまくてジューシー！\" },\n          { \"visual\": \"whole strawberry\", \"label\": \"いろんなサイズ！\" },\n          { \"visual\": \"character face\", \"label\": \"とろけるおいしさ♡\" }\n        ]\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case141.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "141",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration",
+        "Product",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/takadtmnu",
+    "title": "电商商品展示设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-141"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "电商商品展示设计",
+  "version": "v1"
+}

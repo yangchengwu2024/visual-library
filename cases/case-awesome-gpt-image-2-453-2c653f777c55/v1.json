@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 254099,
+      "path": "images/e0bfb87118cfb50004940dd5b84b242705b785650ad3568f182ebf5808574036.jpg",
+      "role": "source_example",
+      "sha256": "e0bfb87118cfb50004940dd5b84b242705b785650ad3568f182ebf5808574036",
+      "source_path": "data/images/case453.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-453-2c653f777c55",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "87340a9b3172b6079fd63754842ca9075ceb29859a068a6c1389d848636e9437",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "请生成一套企业级商用画册视觉方案，主题为【品牌名称】的【行业 / 产品 / 解决方案】宣传画册。\n\n整体风格：高端、专业、具有强视觉冲击力；避免传统 Word 排版感和普通 PPT 感。采用【深色科技美学 / 白色极简商务 / 高端工业风 / 艺术化品牌画册】风格。\n\n画册内容包括：\n1、封面与封底\n2、企业介绍与品牌理念\n3、核心产品与技术优势\n4、应用场景与解决方案\n5、客户案例与合作方式\n6、全册系统预览图\n\n要求：\n版式要有设计感，图片、标题、数据、图标、留白和层级关系清晰；保持整套画册统一的品牌视觉系统；重点体现真实商业物料的完成度，避免简单文字排版。\n\n结构规划：\n1、封面 / 封底：建立品牌门面、行业气质和整体视觉调性。\n2、企业介绍页：说明公司定位、能力边界和服务对象。\n3、产品技术页：展示核心产品、技术优势和解决方案。\n4、应用场景页：让用户看到产品能用在哪些行业。\n5、案例 / 合作页：补充可信度和商业转化信息。\n6、全册系统预览：验证风格统一性和整本画册的系统感。\n\n如果已有企业资料，可以上传旧版企业画册、公司介绍文档、产品说明书、官网内容、PPT 提案、产品图片或案例图片，让 ChatGPT 完成三件事：\n1、重新梳理内容结构，判断哪些内容适合做封面、企业介绍、产品页、案例页和合作页。\n2、提炼画册主线，避免只堆资料，需要形成清晰的商业叙事。\n3、统一视觉方向，让整本画册看起来像同一个品牌系统，避免不同页面拼贴感。\n\n避坑：\n1、避免一上来只说“生成一本画册”，否则容易变成模板图。\n2、避免只堆文字，画册一定要有产品视觉、场景图、数据模块和设计层级。\n3、避免只生成单页，最好补一张全册预览图，才能体现完整系统感。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case453.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "453",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2056974720893939950",
+    "title": "企业级商用画册视觉系统",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-453"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "企业级商用画册视觉系统",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-355-d9e4fce7a85a",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case355.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "355",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/dotey/status/2048793351290327381",
+      "title": "概念字体海报 Prompt",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-355",
+      "version": "v1"
+    }
+  ],
+  "title": "概念字体海报 Prompt",
+  "title_aliases": [
+    "概念字体海报 Prompt"
+  ]
+}

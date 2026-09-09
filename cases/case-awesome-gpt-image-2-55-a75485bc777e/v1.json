@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 269744,
+      "path": "images/8ccac29014109cbef4598985150f52908a5dbd0cdf443966a94c467e6b26a269.jpg",
+      "role": "source_example",
+      "sha256": "8ccac29014109cbef4598985150f52908a5dbd0cdf443966a94c467e6b26a269",
+      "source_path": "data/images/case55.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-55-a75485bc777e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bda0d28bc6fc72726a2e95216bfba23c93b6b5034a183a1c412d11480029ba1f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Help me create a detailed production flowchart for the dish {argument name=\"dish name\" default=\"Fried Pork with Chili\"}, in a realistic style, suitable for Xiaohongshu image-text proportions.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case55.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "55",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Kurt_Rousey466",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-55"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 284224,
+      "path": "images/b1bd4cd7518c8e24d8b1f23b42a7bf7a182cf461d04c752e57bc2693e574d747.jpg",
+      "role": "source_example",
+      "sha256": "b1bd4cd7518c8e24d8b1f23b42a7bf7a182cf461d04c752e57bc2693e574d747",
+      "source_path": "data/images/case488.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-488-f727bbf22a9b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6b9557bd795a32ab5d11d3a025f86075bbfafc70ebfffa22cd14f0eb2ce5bcc2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic, high-quality portrait of a stylish young South Asian woman standing gracefully on a colorful urban rooftop basketball court at sunset. She is standing in a relaxed and elegant posture with her weight naturally shifted to one leg, shoulders relaxed, and one hand gently resting by her side while the other lightly touches the edge of her varsity jacket. Her body is slightly angled toward the camera, creating a confident yet sophisticated appearance. She is looking directly into the camera with a warm, natural smile, projecting confidence, charm, and effortless style.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case488.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "488",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/HaniaAi12/status/2061313477696954522",
+    "title": "屋顶球场日落人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-488"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "屋顶球场日落人像",
+  "version": "v1"
+}

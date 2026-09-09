@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 263869,
+      "path": "images/5c9b6c3166bc091860c868a50129de53ae96af2515db2cc1e58692959bff5bc4.jpg",
+      "role": "source_example",
+      "sha256": "5c9b6c3166bc091860c868a50129de53ae96af2515db2cc1e58692959bff5bc4",
+      "source_path": "data/images/case110.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-110-670b3a1fb97c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b16283eba6cd22d090356645757275bb6b78fa40cdfb2940ddad75fb5d033438",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Thumbnail for a YouTube unboxing video, a video of {argument name=\"topic\" default=\"opening all overdue bills\"}, {argument name=\"quantity\" default=\"100 in a row\"}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case110.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "110",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/TlanoAI",
+    "title": "视频封面界面图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-110"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "视频封面界面图",
+  "version": "v1"
+}

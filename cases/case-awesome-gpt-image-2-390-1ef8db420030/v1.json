@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 370616,
+      "path": "images/a1723c725b4cdfc82afff601679b562810d7ee3d3425a052017299edece3c3da.jpg",
+      "role": "source_example",
+      "sha256": "a1723c725b4cdfc82afff601679b562810d7ee3d3425a052017299edece3c3da",
+      "source_path": "data/images/case390.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-390-1ef8db420030",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "25518e5028edce8a5b921ecfdc1f54b5649a9a718819ccb58a49e7a513f31d5a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Country: [INSERT COUNTRY NAME]\n\nA miniature felt diorama made of fluffy yarn, wool, and needlework, designed as a single cohesive small world (not a collage), reflecting the real landscape, culture, and daily life of the country.\n\nStructure:\n- Select 4–7 naturally integrated elements (landscape, architecture, transport, street life, culture)\n- Everything must flow together as one environment\n\nForeground:\nEveryday life — small shops, cafes, markets, people interacting, local clothing, street details, subtle movement, warm human presence\n\nMidground:\nConnecting flow — streets, bridges, rivers, paths, transport, cultural spaces that guide the eye naturally from front to back\n\nBackground:\nOne strong identity anchor — landmark, skyline, mountain, or symbolic landscape clearly representing the country (keep it clean, not overcrowded)\n\nStyle:\nHandmade wool felt, yarn, needle-felt textures, visible fibers, soft edges, miniature craftsmanship, premium diorama realism\n\nLighting:\nWarm golden hour or bright noon, soft shadows, clear visibility, gentle glow enhancing depth\n\nColor:\nSoft but saturated palette reflecting the country’s natural tones (greens, sky blues, architectural hues, cultural accents), warm and balanced\n\nComposition:\nVertical frame, balanced or centered perspective, slight top-down or immersive angle, clear foreground–midground–background depth\n\nMood:\nWarm, emotional, calm, refined — like a handcrafted fairy-tale version of real life (not childish)\n\nRules:\n- No logos or text overlays\n- No collage-style composition\n- No random symbolic clutter\n- Keep it realistic but stylized as a handmade miniature world\n\nQuality:\n16K, ultra-detailed, hyper-realistic miniature textures, cinematic depth, sharp focus\n\noutput_goal:\nA single, cohesive felt diorama world that instantly conveys the identity and atmosphere of the chosen country through integrated landscape, culture, and daily life",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case390.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "390",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/volkan_iras/status/2051403524966141980",
+    "title": "羊毛毡国家微缩世界",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-390"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "羊毛毡国家微缩世界",
+  "version": "v1"
+}

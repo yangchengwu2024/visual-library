@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 145872,
+      "path": "images/14864d5130c1e2a03035b446ca64f9eed63f869af0981c14d06c21bc0ed25aca.jpg",
+      "role": "source_example",
+      "sha256": "14864d5130c1e2a03035b446ca64f9eed63f869af0981c14d06c21bc0ed25aca",
+      "source_path": "data/images/case212.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-212-dd2cd40cdc54",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c5b70f3f3a16ed4b8e2fb9b6f528fa3a088ab5e7653ee8c74d2a820c4a1c20c2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n请用这个角色制作一本专业设计师打造的照片集。语言为日语。\n\n根据喜好加入提示词会让它更丰富多彩…\n・丰富的场景\n・信息量较多\n\n[English]\nPlease use this character to create a photo book crafted by a professional designer. The language should be Japanese.\n\nAdding prompts according to your preferences will make it more colorful and rich\n・Rich scenes\n・Large amount of information",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case212.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "212",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Fashion",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Kashiko_AIart/status/2046492817804099794",
+    "title": "专业设计师打造角色写真集",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-212"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "专业设计师打造角色写真集",
+  "version": "v1"
+}

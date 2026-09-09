@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 458689,
+      "path": "images/b3069c3661785c82a54c1ae80ee1ca5210186aebdd6645b73667ab4491f739b4.png",
+      "role": "source_example",
+      "sha256": "b3069c3661785c82a54c1ae80ee1ca5210186aebdd6645b73667ab4491f739b4",
+      "source_path": "data/images/case129.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-129-6a781bef5ac3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1a3b3f7c88b0d291f74765eb6a44c8266cf9e538730b419806cf40fe05bc72c8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A watercolor illustration of a children's picture book cover. The main subject is a {argument name=\"character appearance\" default=\"cute furry kemonomimi girl with short green hair, cat ears, and green eyes\"}. She is {argument name=\"action\" default=\"smiling happily while holding up her middle finger\"} with a white-furred hand. She wears a green garment with a fluffy white collar. The background features soft, painted green foliage and small yellow flowers on textured paper. At the top, large hand-drawn green Japanese text reads \"{argument name=\"main title\" default=\"なかゆびさん\"}\". Below it, brown Japanese text reads \"{argument name=\"subtitle\" default=\"こんにちは\"}\". On the middle-left, smaller black text reads \"{argument name=\"author text\" default=\"さく・え：とらの\"}\". The image has a visible book spine on the left edge, emphasizing the physical book format.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case129.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "129",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Poster",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/TlanoVRC",
+    "title": "绘画艺术风格图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-129"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "绘画艺术风格图",
+  "version": "v1"
+}

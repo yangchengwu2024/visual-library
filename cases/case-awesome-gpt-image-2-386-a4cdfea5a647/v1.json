@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 116469,
+      "path": "images/e875d5d15bd061341d6154123613ed1d822312299619a8728843af200489c460.jpg",
+      "role": "source_example",
+      "sha256": "e875d5d15bd061341d6154123613ed1d822312299619a8728843af200489c460",
+      "source_path": "data/images/case386.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-386-a4cdfea5a647",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fd78b84845ffb182c2df42431059f6f19b41fdc5378fc79cda707e80ededacf7",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "The Brand Envelope | GPT Image-2 Prompt #89\n\nThis takes any product photo and wraps it in your specific brand world. Different product each time. Same brand, every time.\n\nPHASE 1 / ANCHOR: Describe [BRAND IDENTITY] in 2 lines. Palette, texture, mood.\nPHASE 2 / INJECT: Place [PRODUCT] inside that brand world, not the reverse.\nPHASE 3 / FORMAT: Set [OUTPUT FORMAT]. Hero, square ad, or story.\nPHASE 4 / SIGNATURE: Apply [BRAND ELEMENT]. Grain, shadow, or overlay.\n\nSwap: [BRAND IDENTITY] / [PRODUCT] / [FORMAT]",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case386.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "386",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Product",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/SRKDAN/status/2051482047248560393",
+    "title": "品牌包络产品广告",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-386"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "品牌包络产品广告",
+  "version": "v1"
+}

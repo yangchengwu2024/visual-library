@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 364106,
+      "path": "images/ef9120dc2799bed66e3368f2ebd12ea35ab85e66fcb76e0949e4d3802ea3df55.jpg",
+      "role": "source_example",
+      "sha256": "ef9120dc2799bed66e3368f2ebd12ea35ab85e66fcb76e0949e4d3802ea3df55",
+      "source_path": "data/images/case516.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-516-851557abfd8a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1060bb446d7b80ab86f4d587655d37ca9a9e4c8db4401877476da04e29728a4b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create an ultra-detailed hyper-realistic 3D render of {Object} , formed from thick industrial rubber tubing bent into the exact shape of the design, flexible yet dense structure, smooth rounded contours, subtle matte finish, realistic elastomer texture, faint molded seam lines, soft tension at each curve, authentic material compression and stretch behavior, slightly grippy surface quality, engineered object realism, colored using the authentic official brand color palette of [brand], faithful brand-matching hues applied across the tubing, accurate color blocking that follows the original logo design, premium studio product photography aesthetic, isolated on a pure white seamless background, soft diffused studio lighting, realistic contact shadow, macro detail, razor-sharp focus, photorealistic, 8k, 16:9, no watermark, no extra text.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case516.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Brand & Logos",
+    "source_id": "516",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "Product",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Just_sharon7/status/2077034244988150062",
+    "title": "工业橡胶管品牌造型渲染",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-516"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "工业橡胶管品牌造型渲染",
+  "version": "v1"
+}

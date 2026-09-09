@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 155116,
+      "path": "images/62fcb6b04e6c4de1f7119a6541114e6b95f0ff2c2d86869393c900ae55cf5c46.jpg",
+      "role": "source_example",
+      "sha256": "62fcb6b04e6c4de1f7119a6541114e6b95f0ff2c2d86869393c900ae55cf5c46",
+      "source_path": "data/images/case36.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-36-d8bb6074ff3a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4905053caa567359023f54b014c405580720f6454b838286b38b979b640b891a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A photorealistic selfie of a young man with short wavy dark hair and light stubble on an indoor basketball court. He wears a black athletic t-shirt with a white swoosh. He holds a {argument name=\"ball color\" default=\"green\"} basketball featuring a large white {argument name=\"logo design\" default=\"OpenAI logo\"}. The background shows a hardwood floor, black wall pads, and a basketball hoop against a concrete wall. Bright indoor gym lighting with a casual social media aesthetic.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case36.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "36",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/mirochill",
+    "title": "品牌徽标设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-36"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "品牌徽标设计图",
+  "version": "v1"
+}

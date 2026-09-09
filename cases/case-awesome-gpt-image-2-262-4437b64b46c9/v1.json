@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 157709,
+      "path": "images/2fab70fe75202910d04ed90edc5658fdf3b237d6df054fcb5b6425353b9b222c.jpg",
+      "role": "source_example",
+      "sha256": "2fab70fe75202910d04ed90edc5658fdf3b237d6df054fcb5b6425353b9b222c",
+      "source_path": "data/images/case262.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-262-4437b64b46c9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ca8177eb30a7a5b4e0c111f17673e18c750c048ef083259f5717d1fbb1ef6b59",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n在Apple Park iPhone 20主题演讲期间拍摄的业余iPhone照片，蒂姆·库克在舞台上演讲。从远处的观众人群中拍摄\n\n[English]\nAmateur iPhone photo at Apple Park during the iPhone 20 keynote, Tim Cook presenting on stage. Shot from the crowd at a distance",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case262.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "262",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/patrickassale/status/2044687244368441742",
+    "title": "苹果园远观库克发布新机",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-262"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "苹果园远观库克发布新机",
+  "version": "v1"
+}

@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 879055,
+      "path": "images/8f2f6183902e2af7cc3f69bd310f37af15e21d521b790aeff5225daa7b752b5f.png",
+      "role": "source_example",
+      "sha256": "8f2f6183902e2af7cc3f69bd310f37af15e21d521b790aeff5225daa7b752b5f",
+      "source_path": "data/images/case334.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-334-80fee1aa2b68",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "10eb6c039e323f81e6bac2191a7ab627b87e7e73e58791369de7e35840a23cd6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "帮我生成一张 RAG 技术的详细讲解图",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case334.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "334",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Charts"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-334",
+    "title": "RAG 技术详解图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-334"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "RAG 技术详解图",
+  "version": "v1"
+}

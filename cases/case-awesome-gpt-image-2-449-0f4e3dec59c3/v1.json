@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 391662,
+      "path": "images/76a0e9280c6d7abb11e1bd8067f52843f036d918770aa009b5d8065166ad3c3a.jpg",
+      "role": "source_example",
+      "sha256": "76a0e9280c6d7abb11e1bd8067f52843f036d918770aa009b5d8065166ad3c3a",
+      "source_path": "data/images/case449.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-449-0f4e3dec59c3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4e0d5f92b41eeaf4cfca7310470663429fd17e475ef77cb2173d139ab0c79f31",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "2x2 grid 16:9, do this for 4 most expensive strangest watches ever made:\n\nclass Haute_Horlogerie_DNA:\n    def __init__(self):\n        self.subject = \"[TIMEPIECE]\"\n        self.parents = {\n            \"composition_parent\": \"Exploded movement diagram with transparent case\",\n            \"material_parent\": \"Brushed titanium, sapphire crystal, rose gold gears, alligator leather\",\n            \"graphic_parent\": \"Swiss manufacture technical brochure with elegant data panels\",\n            \"atmosphere_parent\": \"Crisp daylight studio, pure white background, subtle reflection on polished surfaces\"\n        }\n        self.mutations = {\n            \"semantic_mutation\": \"The balance wheel reveals a miniature cosmos ticking inside\",\n            \"information_mutation\": \"Power reserve indicator, frequency, complication callouts, hand-finishing grades, assembly timeline\",\n            \"medium_mutation\": \"Smooth matte premium paper with embossed logo\",\n            \"scale_mutation\": \"Grain-level view of Côtes de Genève finishing and jewel bearings\"\n        }\n        self.style_mix = [0.30, 0.30, 0.25, 0.10, 0.05]\n\n    def generate_subject(self):\n        subject = \"\"\"\n        [TIMEPIECE] shown in its full mechanical glory. The dial, hands, movement,\n        and strap float in perfect alignment against a bright, clean background.\n        Every gear and spring is highlighted with exacting clarity.\n        \"\"\"\n        return render(\n            subject,\n            format=\"luxury watch advertisement with technical insert\",\n            title=\"[MODEL REFERENCE]\",\n            subtitle=\"[MANUFACTURE / COLLECTION]\",\n            constraints=\"bright white space, metallic brilliance, hyper-detailed, modern elegance\"\n        )",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case449.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "449",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Infographic",
+        "Brand",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/Gdgtify/status/2056928396991488312",
+    "title": "奢华机械腕表技术图鉴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-449"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "奢华机械腕表技术图鉴",
+  "version": "v1"
+}

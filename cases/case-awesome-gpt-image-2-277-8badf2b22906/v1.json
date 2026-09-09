@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 182064,
+      "path": "images/bde223c3e6f99e11048269e1607bfc5b834fcbc11bb6aa111a52d1d323393b35.jpg",
+      "role": "source_example",
+      "sha256": "bde223c3e6f99e11048269e1607bfc5b834fcbc11bb6aa111a52d1d323393b35",
+      "source_path": "data/images/case277.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-277-8badf2b22906",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b565db7c5b08b12f38a242e470d263fbe0f4ce14d7d91f2749dcb7946655ac74",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n奢华魅力美容肖像：, 美丽的黑人女性, 青春活力, 奶油香草色, 丝绸柔顺发, 红木色, 微妙的自信, 有质感的面料, 蓝宝石色, 极简珠宝, 海滨微风, 镜头光晕效果, 怀旧的, 电影镜头, 对称构图, 柔焦, 高级时尚摄影, 单色的, 水光质感, 神秘张力, 分层元素\n\n[English]\nLuxury Glam Beauty Portrait:, Beautiful Black woman, youthful spirit, creamy vanilla, silk press, mahogany red, subtle confidence, textured fabric, sapphire blue, minimal jewelry, beachside breeze, lens flare effect, nostalgic, cinematic lens, symmetrical composition, soft focus, high fashion photography, monochromatic, dewy finish, mysterious tension, layered elements",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case277.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "277",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/patrickassale/status/2044581766309060765",
+    "title": "奢华魅力黑人女性海滨摄影",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-277"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "奢华魅力黑人女性海滨摄影",
+  "version": "v1"
+}

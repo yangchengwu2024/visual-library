@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 349677,
+      "path": "images/41a43476b5e4195740af44dde42f2298ad0b0312e5d0031b616a31b60533b71c.jpg",
+      "role": "source_example",
+      "sha256": "41a43476b5e4195740af44dde42f2298ad0b0312e5d0031b616a31b60533b71c",
+      "source_path": "data/images/case124.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-124-4015857c981e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "342c4ff318769800bc4427ea6bd80037530bfd20e9c18837c8fd6c5617305796",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "An anime-style key visual poster for a fictional slice-of-life anime. In the foreground left, an energetic blonde anime girl with star hairpins and blue eyes wears an {argument name=\"main character outfit\" default=\"American flag t-shirt and denim shorts\"}, holding tongs with a slice of smoked meat towards the viewer. In the foreground right, a gentle girl with long dark hair and a white sweater sits at a wooden table writing in a notebook. In the background, two more girls are present: one with a brown ponytail carrying firewood, and another with short silver hair holding a blue mug. The scene is a sunny outdoor BBQ area with a large black smoker grill featuring a sign that reads {argument name=\"background grill sign\" default=\"LONE STAR BBQ\"}. In the immediate foreground is a {argument name=\"food platter\" default=\"massive wooden platter loaded with sliced brisket, ribs, sausages, burnt ends, and pickles\"}, along with side dishes like coleslaw and bread. In the top left corner, a large, cute, bubbly anime logo reads {argument name=\"anime title\" default=\"もくもく すもーく ガールズ\"} with smoke and grill motifs. In the bottom left corner, there is a {argument name=\"credits text block\" default=\"staff credits block with names and roles\"}. In the bottom right corner, a small text box lists four character names. The overall atmosphere is cheerful, highly detailed, and vibrant.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case124.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "124",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/koshian_to",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-124"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

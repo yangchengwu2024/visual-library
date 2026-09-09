@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-168-3a476bfa77a3",
+  "classification": {
+    "categories": [
+      "文档与出版物"
+    ],
+    "scenes": [
+      "商业"
+    ],
+    "source_category": "Documents & Publishing",
+    "source_tags": {
+      "scenes": [
+        "Commerce"
+      ],
+      "styles": [
+        "Documents"
+      ]
+    },
+    "styles": [
+      "Documents"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case168.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "168",
+      "source_tags": {
+        "scenes": [
+          "Commerce"
+        ],
+        "styles": [
+          "Documents"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2046514998965371144",
+      "title": "手写中西药方图片",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-168",
+      "version": "v1"
+    }
+  ],
+  "title": "手写中西药方图片",
+  "title_aliases": [
+    "手写中西药方图片"
+  ]
+}

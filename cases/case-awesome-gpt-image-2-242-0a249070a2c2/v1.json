@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 251536,
+      "path": "images/787e9adde8bad7f2b289adca2b868ecd6850f53aea6faf1cbee9ede8b39c9667.jpg",
+      "role": "source_example",
+      "sha256": "787e9adde8bad7f2b289adca2b868ecd6850f53aea6faf1cbee9ede8b39c9667",
+      "source_path": "data/images/case242.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-242-0a249070a2c2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7cdde53b1368af5d86a56152008dcc81b07c33984a01585c07534c014558d5d6",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一系列工笔画书签的设计稿\n\n[English]\nGenerate a series of design drafts for Gongbi painting bookmarks.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case242.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "242",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+    "title": "绝美国风工笔画书签设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-242"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "绝美国风工笔画书签设计",
+  "version": "v1"
+}

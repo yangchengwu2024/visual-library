@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 205905,
+      "path": "images/1f070ed7254af5878a56b1d5af88b27d4842397fe379227cb8fdfd7a72a57540.jpg",
+      "role": "source_example",
+      "sha256": "1f070ed7254af5878a56b1d5af88b27d4842397fe379227cb8fdfd7a72a57540",
+      "source_path": "data/images/case371.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-371-63d04f44a60f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8400321df7beddcfd8b4fd9d0981a78a5d8cd2aea72ab11775e91c56d12ce5f4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Transform the provided reference image into a cozy aesthetic scrapbook-style composition while strictly preserving the original subject, identity, pose, lighting, and background.\n\nAdd multiple small “mini version” characters of the same person (chibi / doll-like style), placed naturally around the scene (on objects, table, shoulder, etc.). These mini figures must match the subject’s face, hairstyle, outfit, and vibe consistently, styled as cute 3D collectible figurines. Show them doing different activities (reading, posing, taking photos, relaxing).\n\nOverlay handwritten-style doodles and annotations across the image: arrows, hearts, stars, sparkles, icons, and playful captions connected to elements in the scene.\n\nUse a soft pastel color palette (white base with pink, peach, blue accents).\n\nKeep the frame visually rich and filled but balanced and clean.\n\nStyle: warm, cozy lighting, dreamy Instagram scrapbook aesthetic, soft depth of field, highly detailed, polished but playful.\n\nThe final result must look like the SAME original image enhanced with mini alter-egos and aesthetic annotations — not a recreated or different scene.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case371.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "371",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Kashberg_0/status/2050272100884340783",
+    "title": "Scrapbook 真人图与迷你分身",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-371"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Scrapbook 真人图与迷你分身",
+  "version": "v1"
+}

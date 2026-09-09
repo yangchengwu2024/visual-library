@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-236-14b0ee22e1de",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "旅行"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "Poster",
+        "Brand",
+        "Character"
+      ]
+    },
+    "styles": [
+      "海报",
+      "品牌",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case236.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "236",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "Poster",
+          "Brand",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2045772039521542202",
+      "title": "粤超联赛国潮风邀请函海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-236",
+      "version": "v1"
+    }
+  ],
+  "title": "粤超联赛国潮风邀请函海报",
+  "title_aliases": [
+    "粤超联赛国潮风邀请函海报"
+  ]
+}

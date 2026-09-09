@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 255439,
+      "path": "images/a6f5428fcc4baf6cac6b71f83ddd8783ba5c69b248a0ef6b4f3d9fe061e06d4e.jpg",
+      "role": "source_example",
+      "sha256": "a6f5428fcc4baf6cac6b71f83ddd8783ba5c69b248a0ef6b4f3d9fe061e06d4e",
+      "source_path": "data/images/case260.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-260-490810cc361e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "217f66da362a9e24cc49c84874afaa1cd0ee73a43041ee344bdd056ea09865c5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成抖音内容截图，主题：跟上AI浪潮9.9包教会，iPhone尺寸\n\n[English]\nGenerate a screenshot of Douyin content, theme: Catch up with the AI wave, 9.9 to learn it all, iPhone size",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case260.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "260",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2045373105041007013",
+    "title": "社媒界面截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-260"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "社媒界面截图",
+  "version": "v1"
+}

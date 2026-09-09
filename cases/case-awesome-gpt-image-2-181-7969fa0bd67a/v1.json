@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 199917,
+      "path": "images/95dcbf5d48184c61c5b452f68d0aae9968e5a083fa8c465f79e494095834ded5.jpg",
+      "role": "source_example",
+      "sha256": "95dcbf5d48184c61c5b452f68d0aae9968e5a083fa8c465f79e494095834ded5",
+      "source_path": "data/images/case181.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-181-7969fa0bd67a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "38a9a229caa6c404a463016df4eac47c2e6d67ce6c1db38f2ac085751aefd333",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n请以专业设计师的视角重新设计这个商品广告。\n采用当前的潮流趋势，针对目标受众的精致设计。\n\n[English]\nPlease redesign this product advertisement from the perspective of a professional designer. Adopt current fashion trends, exquisite design targeting the target audience.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case181.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "181",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/genel_ai/status/2046498264774791514",
+    "title": "潮流视角重塑精致商品广告",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-181"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "潮流视角重塑精致商品广告",
+  "version": "v1"
+}

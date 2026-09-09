@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-255-12072ad3f84d",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "旅行"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Travel"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "styles": [
+      "界面"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case255.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "255",
+      "source_tags": {
+        "scenes": [
+          "Travel"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/joshesye/status/2044796366950703316",
+      "title": "瑜伽裤女主播展示身材曲线",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-255",
+      "version": "v1"
+    }
+  ],
+  "title": "瑜伽裤女主播展示身材曲线",
+  "title_aliases": [
+    "瑜伽裤女主播展示身材曲线"
+  ]
+}

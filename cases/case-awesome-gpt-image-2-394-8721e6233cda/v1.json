@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 846382,
+      "path": "images/86ba02fb0f2568a69fc062578db7c5e8dc8a95f53694d66e1e5df072e38a092d.jpg",
+      "role": "source_example",
+      "sha256": "86ba02fb0f2568a69fc062578db7c5e8dc8a95f53694d66e1e5df072e38a092d",
+      "source_path": "data/images/case394.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-394-8721e6233cda",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b8f167aa1505541d57de7f1575107279106db51f89c2e43594504e99cb257107",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a cinematic dark-fantasy medieval street scene in ultra-realistic 3D game concept art style, widescreen 16:9. In the foreground, show two adult elven adventurers walking side by side toward the viewer through a muddy cobblestone village road. The left character is a pale-skinned elf woman with long messy {argument name=\"left character hair color\" default=\"ash blonde\"} braided hair, pointed ears, layered olive-green druid robes, leather belts, pouches, dangling metal charms, necklaces, torn fabric strips, leaf-and-feather details, and glowing white vine-like magical tattoos spiraling down both forearms. The right character is a darker-skinned elf woman with long thick {argument name=\"right character hair color\" default=\"dark brown\"} dreadlocked hair, pointed ears, a green-and-brown leather ranger outfit, fur shoulder mantle, feather ornaments, arm wraps, belts, chains, talismans, and a confident warrior posture. Both faces are intentionally hidden by plain opaque {argument name=\"face covering color\" default=\"dark brown\"} square censor blocks, centered over their faces. Set the background in a richly detailed medieval market village with timber-and-thatch houses, hanging bundles of dried herbs on the right-side shopfront, barrels, baskets, wooden stalls, distant townspeople, and a large stone castle with towers and battlements rising in the background. Use {argument name=\"lighting mood\" default=\"warm late-afternoon golden sunlight\"}, dramatic shadows, volumetric haze, shallow depth of field, realistic fabric and leather textures, high detail, moody fantasy atmosphere, cinematic composition, Unreal Engine quality, no text, no logos.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case394.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "394",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/RamonVi25791296/status/2051568239142973832",
+    "title": "中世纪村庄双精灵冒险者",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-394"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "中世纪村庄双精灵冒险者",
+  "version": "v1"
+}

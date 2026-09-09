@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 234507,
+      "path": "images/40ea70728e0ebc61f236aee716cf4c69f8d89947d6d1531a0689acfbd2d6a75e.jpg",
+      "role": "source_example",
+      "sha256": "40ea70728e0ebc61f236aee716cf4c69f8d89947d6d1531a0689acfbd2d6a75e",
+      "source_path": "data/images/case58.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-58-f4d484365e12",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6ac74ff80da9d0d2523e215e9613c648c0b216f45e636e557bb5888487874e9a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Flat illustration, high-end oriental fantasy style city poster design, vertical 9:16 composition. The layout uses a diagonal + S-shaped flow extending from the bottom left to top right. The background is deep black grading down to intense dark red, creating strong warm-cool contrast and spatial depth with faint stardust and grain texture. In the center, a flowing golden energy line winds through like a flame, extending upward from the base, featuring fluid texture, particle effects, and gradient highlights, with subtle energy debris and volumetric light.\n\nWithin the golden flow, the architectural landmarks of {argument name=\"city\" default=\"Guangzhou\"} emerge layer by layer: the Canton Tower is the visual core with prominent proportions, surrounded by the Zhujiang New Town skyline, Liede Bridge, and modern Lingnan architectural elements. Buildings are rendered using \"fine line drawing + golden luminous blocks,\" with clear outlines and rich details, appearing to float in a void against the golden halo, creating a surreal spatial hierarchy with slightly fogged backgrounds for added depth.\n\nAt the bottom of the frame is an oriental white-haired female figure with flowing hair like mist, naturally connecting and merging with the golden light. Her hair is translucent with gradient light effects; she has a graceful posture, eyes closed, and a serene expression, holding a bouquet of colorful flowers dotted with shimmering particles, symbolizing the spiritual connection between people and city energy. Character details are moderately simplified to emphasize the overall design.\n\nLighting is concentrated on the golden flow, buildings, and character outlines, creating intense chiaroscuro and visual focus. The overall atmosphere is grand, mysterious, imbued with oriental mythology, and slightly healing. Colors use black and dark red as a base with brilliant gold as the main visual emphasis. The gold has rich light-dark layers, complemented by small areas of high-saturation floral colors, maintaining a sophisticated and restrained aesthetic.\n\nIntegrated text and layout: Centered Songti font at the top reads \"{argument name=\"city\" default=\"Guangzhou\"} · China,\" followed by smaller text \"{argument name=\"date\" default=\"2026/04/20\"}\" and \"{argument name=\"author\" default=\"LIYUE\"}\" below. Text uses pale gold or soft warm white, unified with the overall lighting. High-quality details, cinematic lighting, rich volumetric and particle details, clean image without noise, ultra-high 8K resolution, commercial-grade poster quality.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case58.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "58",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/liyue_ai",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-58"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 388348,
+      "path": "images/b68ba48425dafea5fe530b2f811a3507a4fadb882126257dbece3b97de670031.jpg",
+      "role": "source_example",
+      "sha256": "b68ba48425dafea5fe530b2f811a3507a4fadb882126257dbece3b97de670031",
+      "source_path": "data/images/case389.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-389-1bb40da06ab7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "880df6bcf017edb09f67a3fa6b7e53530b1d19b6d0dc0db3c77d0c2e28652ea5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a striking campaign poster that stops people mid-scroll for Transparent Labs Hydrate.\n\nBold high-impact supplement advertisement with dramatic black and deep electric blue color palette, gritty premium fitness aesthetic, sharp cinematic lighting, glossy reflections, light smoke atmosphere, intense contrast.\n\nGiant headline typography at top reading “TRANSPARENT LABS HYDRATE” in oversized distressed white and electric blue text.\n\nCenter composition features the exact woman from the attached reference image as a fit athletic female model seated confidently on a studio floor, holding a shaker bottle, with a focused and powerful expression.\n\nChange her clothes into sleek black fitness gym outfit: a black sports bra / tank top and high-waisted black leggings with chunky white sneakers. Large glowing “1%” graphic behind the subject symbolizing daily progress.\n\nFront left foreground shows a matte black Transparent Labs Hydrate tub with modern luxury label reading “HYDRATE”, scoop of electrolyte powder spilled beside the container.\n\nSurround the poster with clean icon-based benefit callouts: replenishes electrolytes, supports hydration, boosts recovery, improves endurance, enhances performance, zero sugar, lab tested, premium quality, no fillers. Strong motivational copy such as “Daily Hydration. Peak Performance.”\n\nHyper realistic textures, polished commercial retouching, premium sports nutrition branding, modern typography layout, social media ad format, ultra detailed, high resolution.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case389.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "389",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/amynys/status/2051409591137972606",
+    "title": "Transparent Labs Hydrate 健身补剂 Campaign",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-389"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Transparent Labs Hydrate 健身补剂 Campaign",
+  "version": "v1"
+}

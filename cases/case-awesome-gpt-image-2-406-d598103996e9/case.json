@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-406-d598103996e9",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "商品"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case406.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "406",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/AIwithkhan/status/2052973449107349725",
+      "title": "巨型游戏手柄街头 Campaign",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-406",
+      "version": "v1"
+    }
+  ],
+  "title": "巨型游戏手柄街头 Campaign",
+  "title_aliases": [
+    "巨型游戏手柄街头 Campaign"
+  ]
+}

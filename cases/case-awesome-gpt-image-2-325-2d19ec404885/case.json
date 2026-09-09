@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-325-2d19ec404885",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Character",
+        "3D"
+      ]
+    },
+    "styles": [
+      "人物与角色",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case325.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "325",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/iamsofiaijaz/status/2013473309485343120",
+      "title": "皮克斯风阳光少年",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-325",
+      "version": "v1"
+    }
+  ],
+  "title": "皮克斯风阳光少年",
+  "title_aliases": [
+    "皮克斯风阳光少年"
+  ]
+}

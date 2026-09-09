@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 1015741,
+      "path": "images/fb5ef1b7468d3c03a2188687fb8edd25a1d309680761d2e63d5619825b26eb11.jpg",
+      "role": "source_example",
+      "sha256": "fb5ef1b7468d3c03a2188687fb8edd25a1d309680761d2e63d5619825b26eb11",
+      "source_path": "data/images/case441.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-441-45bd5964b9fb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "227391ba4ce7e9eb67df62dc713c8a11a10b40c4ada1097d13d850fc913827df",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "An outdoor adventure advertisement poster featuring a rugged bearded man in full hiking gear standing confidently beside a massive orange camping tent three times taller than him, fully pitched in a dramatic forest clearing surrounded by towering pine trees beneath a deep starry night sky. The tent features a bold white “WILDCAMP” logo stitched onto the rainfly. Warm cinematic campfire lighting illuminates the scene with realistic shadows and rich outdoor textures, creating a premium adventure-commercial aesthetic. Large rugged serif typography reading “WILDCAMP” dominates the dark sky area in bold orange lettering, while the tagline “Sleep under the stars.” appears elegantly at the bottom. Small grey text in the top-right corner reads “Designed with GPT Image 2.” Photorealistic, ultra-detailed, cinematic outdoor advertising style with dramatic atmosphere and high-end commercial composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case441.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "441",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Strength04_X/status/2056258909334306897",
+    "title": "WILDCAMP 巨型帐篷广告海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-441"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "WILDCAMP 巨型帐篷广告海报",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 354935,
+      "path": "images/4a5db344e6b8c25a614acea1dac95d44264de3a18bc581da73c8734da2ce1ac8.jpg",
+      "role": "source_example",
+      "sha256": "4a5db344e6b8c25a614acea1dac95d44264de3a18bc581da73c8734da2ce1ac8",
+      "source_path": "data/images/case86.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-86-a1ea9255c18c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6f75ffb74e9777470917352e956901479eac071d1cdc990e9d320830bac42481",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Please generate a high-design character relationship map poster based on {argument name=\"theme\" default=\"Demon Slayer\"}. This image should not be a simple illustration, but a character relationship map that combines information visualization, narrative structure, poster design sense, and stylistic fidelity.\n\nPlease automatically complete the following:\n- Identify the work and core settings corresponding to the theme\n- Extract the most representative 6–12 key characters, not exceeding 15 if necessary\n- Identify and display key character relationships, including blood ties, romance, friendship, alliances, hostility, master-disciple, etc.\n- Automatically choose a composition method based on the work's characteristics, such as protagonist-centered, dual-core confrontation, faction-based, family tree, or chronological evolution\n- Automatically refine the work's style DNA, including color, worldview symbols, textures, mood, typography, and representative elements\n- Transform these stylistic elements into an overall visual design for the relationship map, rather than simply copying an official poster\n- Use different colors, line types, and arrows to distinguish different relationships, ensuring clear lines and layers without clutter\n- Make core characters most prominent, followed by important characters, and subordinate characters weakened to form a clear visual hierarchy\n- Ensure every character name is legible, with identity or faction labels if necessary\n\nThe final product should satisfy:\n- Immediate understanding of character hierarchy and key relationships\n- Obvious alignment with the original work's temperament and setting\n- Combines the clarity of an infographic with the premium design of a poster\n- Unified, exquisite, complete, and suitable for social media sharing or poster display\n- Avoids a cheap flowchart feel, messy piling, and information overload.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case86.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "86",
+    "source_tags": {
+      "scenes": [
+        "Commerce",
+        "Social",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus",
+    "title": "关系图谱信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-86"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "关系图谱信息图",
+  "version": "v1"
+}

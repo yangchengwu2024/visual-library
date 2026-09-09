@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 355202,
+      "path": "images/1eb4b190c8379f6ed9f855b10573649f5883572c8f2e570c72cf84d552fbfc97.jpg",
+      "role": "source_example",
+      "sha256": "1eb4b190c8379f6ed9f855b10573649f5883572c8f2e570c72cf84d552fbfc97",
+      "source_path": "data/images/case396.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-396-a06719b97c6f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bc96372d54bbdf78ecb08d8ce7b8ab093ce39f8c4b99488da40693d5c5801432",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a highly detailed A4 vertical vintage fantasy encyclopedia style dragon species poster.\n\nStyle: medieval creature atlas, ancient mythology manuscript, museum fantasy archive, old explorer journal.\n\nMain subject:\na massive hyper realistic dragon standing proudly in center with detailed scales, smoke from nostrils, giant wings partially open.\n\nBackground:\nstormy mountains, ancient ruins, fog layers, burnt parchment texture.\n\nColor palette:\ndark emerald, ash gray, faded gold, ancient brown, deep crimson.\n\nInclude infographic sections:\nSpecies Type,\nFire Capacity,\nWing Structure,\nTemperament Scale,\nHabitat Region,\nBattle Strength,\nAncient Legends,\nScale Patterns,\nSkull Diagram,\nHunter Notes.\n\nAdd:\nengraved fantasy sketches,\nancient symbols,\nold map textures,\nink grain,\ncollectible poster layout.\n\nNO modern UI.\nNO futuristic elements.\nNO flat minimalism.\n\nUltra detailed.\n8K printable masterpiece.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case396.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "396",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/sha_zdiii/status/2052237839119835280",
+    "title": "龙类物种复古百科海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-396"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "龙类物种复古百科海报",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-389-1bb40da06ab7",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "styles": [
+      "海报",
+      "写实",
+      "品牌"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case389.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "389",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/amynys/status/2051409591137972606",
+      "title": "Transparent Labs Hydrate 健身补剂 Campaign",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-389",
+      "version": "v1"
+    }
+  ],
+  "title": "Transparent Labs Hydrate 健身补剂 Campaign",
+  "title_aliases": [
+    "Transparent Labs Hydrate 健身补剂 Campaign"
+  ]
+}

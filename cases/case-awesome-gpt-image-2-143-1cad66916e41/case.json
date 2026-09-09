@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-143-1cad66916e41",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "styles": [
+      "界面",
+      "写实",
+      "商品"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case143.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "143",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "UI",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/Gc_qube",
+      "title": "品牌徽标设计图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-143",
+      "version": "v1"
+    }
+  ],
+  "title": "品牌徽标设计图",
+  "title_aliases": [
+    "品牌徽标设计图"
+  ]
+}

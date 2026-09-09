@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 241127,
+      "path": "images/d1c3bfaa2c895fc3631a2bf4dfb397a5493a3f70c31bd8d78af9e1a40af00aec.jpg",
+      "role": "source_example",
+      "sha256": "d1c3bfaa2c895fc3631a2bf4dfb397a5493a3f70c31bd8d78af9e1a40af00aec",
+      "source_path": "data/images/case92.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-92-2e25f9a9c961",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b159f513256053c2217fd44678e075e46515cdf5b176a26da87f5dc473a74a27",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "An anime-style YouTube stream thumbnail featuring a cheerful female VTuber. She has long {argument name=\"hair color\" default=\"pink with light blue inner highlights\"} hair, blue eyes, and wears black and white cat-ear headphones with a boom mic. She wears a white collared shirt with a black and pink star ribbon and a black choker, smiling with one hand near her chin. The background is a gaming room with {argument name=\"room lighting\" default=\"purple and blue neon\"} lighting, showing a desk equipped with 1 white keyboard, 1 mug, 1 glowing cat figure, 1 game controller, and 1 streaming microphone. The left side features large, bold, pop-art Japanese typography: a bright pink top word \"{argument name=\"main text line 1\" default=\"雑談\"}\" and a bright blue bottom word \"{argument name=\"main text line 2\" default=\"配信\"}\". Below is a pink banner reading \"{argument name=\"subtitle text\" default=\"今夜もゆるっとトーク!\"}\". A red \"LIVE\" badge sits in the top left. Floating speech bubbles, stars, and hearts decorate the composition.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case92.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "92",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/Yuupapa_free",
+    "title": "视频封面界面图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-92"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "视频封面界面图",
+  "version": "v1"
+}

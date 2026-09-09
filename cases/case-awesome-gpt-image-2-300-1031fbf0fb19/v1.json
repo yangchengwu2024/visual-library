@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 85381,
+      "path": "images/fe36e6fca05fc786f4a77271cd8c91b7d811d4847f8774635cb3fd2cece9e010.jpg",
+      "role": "source_example",
+      "sha256": "fe36e6fca05fc786f4a77271cd8c91b7d811d4847f8774635cb3fd2cece9e010",
+      "source_path": "data/images/case300.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-300-1031fbf0fb19",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9b1202148075f08e3799723468630b1c5f73124139ae3dd417c7aafcdaf41cd0",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成图片:\n手写在教室黑板上的出师表全文，真实感的粉笔字迹，晴朗白天用iPhone手机实拍\n\n[English]\nGenerate image: The full text of Chu Shi Biao handwritten on a classroom blackboard, realistic chalk handwriting, taken with an iPhone in real life on a sunny day",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case300.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "300",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/rionaifantasy/status/2045356799751303194",
+    "title": "黑板上的出师表全文",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-300"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "黑板上的出师表全文",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-362-57e3c4156604",
+  "classification": {
+    "categories": [
+      "品牌与标志"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "食品饮品"
+    ],
+    "source_category": "Brand & Logos",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case362.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "362",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Preda2005/status/2049846981271699685",
+      "title": "抹茶品牌触点系统视觉板",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-362",
+      "version": "v1"
+    }
+  ],
+  "title": "抹茶品牌触点系统视觉板",
+  "title_aliases": [
+    "抹茶品牌触点系统视觉板"
+  ]
+}

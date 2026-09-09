@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 193859,
+      "path": "images/916b68689b3ed5bb5a49cb45a42557371154b114a7b9a00f88359fe7b53e1303.jpg",
+      "role": "source_example",
+      "sha256": "916b68689b3ed5bb5a49cb45a42557371154b114a7b9a00f88359fe7b53e1303",
+      "source_path": "data/images/case38.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-38-47f34e325382",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8c33d1681a9f76baa349f20ac1983dbb8e6b6cfcfa087a08c221146e1676f0e1",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create {argument name=\"quantity\" default=\"24\"} LINE stickers of {argument name=\"animals\" default=\"animals\"} in a quirky hand-drawn style. Target {argument name=\"target audience\" default=\"Japanese Gen Z\"} with a trendy style that can aim for top downloads.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case38.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "38",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/midori_tatsuta",
+    "title": "综合应用场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-38"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "综合应用场景图",
+  "version": "v1"
+}

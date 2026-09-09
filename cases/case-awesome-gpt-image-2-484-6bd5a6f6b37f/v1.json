@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 428965,
+      "path": "images/dfe9ba68c4b5f76702dd4e3f7430e1f4a5ea3d61f8a8d3ef051dbf4362b963f1.jpg",
+      "role": "source_example",
+      "sha256": "dfe9ba68c4b5f76702dd4e3f7430e1f4a5ea3d61f8a8d3ef051dbf4362b963f1",
+      "source_path": "data/images/case484.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-484-6bd5a6f6b37f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1195ece8cf91c03e1813095c8f3722b49f32d7c70c7efd94eebf29cf72626d53",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "High-contrast black-and-white urban portrait of a curly-haired bearded man in a black leather jacket, holding two fingers near glowing neon green eyes, with bold graffiti doodles, colorful paint splashes, abstract arrows, crown sketches, and grunge street-art textures on a concrete background, cinematic lighting, edgy graphic poster style.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case484.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "484",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Travel"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/harboriis/status/2060208419811074350",
+    "title": "霓虹涂鸦黑白人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-484"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "霓虹涂鸦黑白人像",
+  "version": "v1"
+}

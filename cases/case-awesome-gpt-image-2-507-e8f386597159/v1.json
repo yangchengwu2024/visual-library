@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 412567,
+      "path": "images/8ab3eceb7ba067520f7a4ab99e4f8c2fb970b306a08b2eddb3c89733414999f2.jpg",
+      "role": "source_example",
+      "sha256": "8ab3eceb7ba067520f7a4ab99e4f8c2fb970b306a08b2eddb3c89733414999f2",
+      "source_path": "data/images/case507.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-507-e8f386597159",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e7192ea0f9aa4c3e7ff47a7d73819768b698f83912a0a5cb491008db5ece3651",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A handcrafted crochet doll of a [subject], made with soft yarn textures and intricate knitted details. Dressed in a vivid [color1] accent and a delicate [color2] garment, holding a small [prop]. Set in a cozy [setting], warm muted atmosphere, charming handmade aesthetic, nostalgic amigurumi style.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case507.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "507",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/azed_ai/status/2067925399947067728",
+    "title": "暖调钩织角色玩偶",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-507"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "暖调钩织角色玩偶",
+  "version": "v1"
+}

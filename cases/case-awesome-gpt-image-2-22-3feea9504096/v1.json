@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 318194,
+      "path": "images/49ee6eec972f7e5327f06f4808579651912f5609d16b3e748c666f689c9b5d3a.jpg",
+      "role": "source_example",
+      "sha256": "49ee6eec972f7e5327f06f4808579651912f5609d16b3e748c666f689c9b5d3a",
+      "source_path": "data/images/case22.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-22-3feea9504096",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "62fd54609c7519b61a34f95e16bb29f6a574e1a3ee4489b6d15028009806d47a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "An anime-style illustration of a {argument name=\"action type\" default=\"high-impact martial arts battle\"} between two young female fighters in a {argument name=\"setting\" default=\"traditional wooden martial arts dojo\"}. In the foreground, a girl with black hair in a high bun wears a {argument name=\"character 1 color theme\" default=\"red and white\"} Chinese-style martial arts outfit with baggy pants. She is in a dynamic, low, forward-thrusting stance, surrounded by swirling red energy and water splashes. In the background to the right, a girl with light purple hair in twin buns wears a {argument name=\"character 2 color theme\" default=\"green and purple\"} Chinese dress with gold embroidery and black tights. She is leaping through the air in a flying kick pose, surrounded by swirling blue energy. The wooden floorboards are splintering from the intense impact, with debris and dust flying through the air. Above them hangs a weathered wooden sign with the text \"{argument name=\"sign text\" default=\"武術会\"}\". The scene features dramatic lighting, a low-angle dynamic perspective, and intense action effects.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case22.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "22",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Tanemomi_Ver2",
+    "title": "插画艺术风格创作",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-22"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "插画艺术风格创作",
+  "version": "v1"
+}

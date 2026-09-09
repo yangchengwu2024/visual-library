@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 223263,
+      "path": "images/37d0d5b77ec8baf63fca2de03746771c0bdfbf6ad87c4ced94052bc7dc7092a9.jpg",
+      "role": "source_example",
+      "sha256": "37d0d5b77ec8baf63fca2de03746771c0bdfbf6ad87c4ced94052bc7dc7092a9",
+      "source_path": "data/images/case420.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-420-b887d4d6e268",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "389747fd31715b4aa5056ac94e08518e25f9192ab8d4f276cc6f034c5503c7c8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Use the uploaded portrait photo as the appearance reference for the person. Create a bright photorealistic outdoor portrait of a young woman lying on a red running track on a modern white arch pedestrian bridge. Ultra-wide low-angle selfie perspective, her arm reaching toward the camera in the foreground, relaxed pose, wired headphones around her neck, white sleeveless top, loose gray pants, black hair spread on the ground. Clean blue sky with soft white clouds, strong midday sunlight, crisp shadows, high clarity, fresh youthful mood, architectural symmetry, realistic skin texture, cinematic composition, 3:4 vertical image\n\nNegative Prompt:\n\nwatermark, logo, text, caption, signature, AI label, extra fingers, deformed hands, distorted face, wrong identity, duplicate person, blurry face, low resolution, over-smoothed skin, plastic skin, unnatural anatomy, bad perspective, messy background, harsh artifacts, overexposure, underexposure",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case420.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "420",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Shinning1010/status/2053521749967352285",
+    "title": "红跑道低角度夏日人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-420"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "红跑道低角度夏日人像",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 267364,
+      "path": "images/584ed6c93cf43cf1fee949af08336652c9e11d4e3373299043ae22513e1fed8b.jpg",
+      "role": "source_example",
+      "sha256": "584ed6c93cf43cf1fee949af08336652c9e11d4e3373299043ae22513e1fed8b",
+      "source_path": "data/images/case377.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-377-2ce5c09afb71",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "535d3bf415c1a88ff55e34b192e74d437068e85746da20d3a1b91b3a2ea50897",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Edit the provided image while preserving the same face identity, shape, and facial features without altering age, ethnicity, or structure. Maintain a calm, relaxed expression with the subject not looking at the camera.\n\nSubject: young woman (18–23) with soft feminine beauty, smooth glowing skin, natural texture.\nPose (strict): seated on a wooden chair, body angled sideways (45–70°), legs crossed naturally, upper body slightly leaning forward, head turned away from camera, gaze to the side. She holds a drink cup with a straw using both hands.\nFraming: full-body vertical (9:16), head to shoes visible, centered but slightly offset for natural composition.\nOutfit: light pink varsity jacket with white stripes, soft pink inner top, modest knee-length pleated skirt, white sneakers.\nAccessories: beige newsboy cap, sunglasses (on face or cap), pink shoulder bag, small earrings.\nHair: neat low bun with soft loose strands.\nEnvironment: outdoor flower shop street scene with pastel flowers (pink, soft tones), decorative plants, floral storefront.\nLighting: bright natural daylight, soft glossy skin highlights, balanced exposure, soft shadows.\nCamera: low/frog angle (slightly below, looking up), 50mm lens, shallow depth of field.\nColor grading: warm pastel palette (pink, cream), clean bright lifestyle aesthetic.\nQuality: ultra-photorealistic, 8K detail, DSLR realism, natural skin texture.\nNegative: front-facing, eye contact, close-up, cropped body, mini/short skirt, indoor scene, dark lighting, anime, cartoon, CGI, plastic skin, distorted anatomy.\n--ar 9:16 --style raw --quality high",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case377.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "377",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/xRahultripathi/status/2050677614168391716",
+    "title": "樱花咖啡户外人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-377"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "樱花咖啡户外人像",
+  "version": "v1"
+}

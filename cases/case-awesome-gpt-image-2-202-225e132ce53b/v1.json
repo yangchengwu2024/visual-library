@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 69707,
+      "path": "images/d8dc4fe6fff78aff6e6c1474d41cc65cefca9af2fedbd3f54a3b2890f1400c19.jpg",
+      "role": "source_example",
+      "sha256": "d8dc4fe6fff78aff6e6c1474d41cc65cefca9af2fedbd3f54a3b2890f1400c19",
+      "source_path": "data/images/case202.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-202-225e132ce53b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0225f905e4d42d2fba8675a21f19a0ce5ff9ca69c98247edb7bd6cf660e9e689",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成高质量美女（宅男必备）\n\n[English]\nGenerate high-quality beautiful girl (otaku must-have)",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case202.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "202",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Photography"
+      ]
+    },
+    "source_url": "https://x.com/joshesye/status/2046596222505361866",
+    "title": "宅男必看绝美二次元少女",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-202"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "宅男必看绝美二次元少女",
+  "version": "v1"
+}

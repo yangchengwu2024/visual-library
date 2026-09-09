@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 321961,
+      "path": "images/b8589e36061b6af1f2a74d6ea923d242389dea4e0b6bbf084cd0dc33274a44b9.jpg",
+      "role": "source_example",
+      "sha256": "b8589e36061b6af1f2a74d6ea923d242389dea4e0b6bbf084cd0dc33274a44b9",
+      "source_path": "data/images/case408.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-408-34f348815b45",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c415691551782028b33dc96884b7473fe8b31c91d93d980ecd3514fa514ca2b9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Dreamy cinematic study aesthetic, young Asian girl with long dark hair studying outdoors at a wooden table during golden hour, cozy oversized green sweater and scarf, writing in notebook beside open laptop, historic university campus in background, warm sunset lighting, soft glow, autumn atmosphere, aesthetic doodles and handwritten notes floating around image, kawaii scrapbook style overlays, pastel hearts and stars, motivational text, shallow depth of field, nostalgic film grain, soft beige and warm green tones, peaceful productive vibe, ultra detailed, Pinterest aesthetic, photorealistic, cozy academia style, 35mm film look",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case408.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "408",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2052969695406325875",
+    "title": "Cozy Academia 学习手记",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-408"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Cozy Academia 学习手记",
+  "version": "v1"
+}

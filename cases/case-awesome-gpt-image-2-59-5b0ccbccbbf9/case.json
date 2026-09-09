@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-59-5b0ccbccbbf9",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "科技",
+      "旅行",
+      "叙事"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Travel",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Character"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case59.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "59",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Travel",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/X64zzotSKCGtYmt",
+      "title": "主题海报版式设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-59",
+      "version": "v1"
+    }
+  ],
+  "title": "主题海报版式设计",
+  "title_aliases": [
+    "主题海报版式设计"
+  ]
+}

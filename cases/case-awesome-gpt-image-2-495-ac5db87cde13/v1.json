@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 389872,
+      "path": "images/268e2cfc0e23c45ae0a376abf83b9e1ccbb935256c3a43a3ce6317fd209d0c57.jpg",
+      "role": "source_example",
+      "sha256": "268e2cfc0e23c45ae0a376abf83b9e1ccbb935256c3a43a3ce6317fd209d0c57",
+      "source_path": "data/images/case495.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-495-ac5db87cde13",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "82272619717186eca589560c7abc0d89b0a809734df6b99a6b91156b1ae61242",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Portrait illustration in a storybook style featuring a young adult woman exploring the streets of Paris. She is laughing happily with her eyes closed, holding a coffee cup in her hand. She has long, wavy hair and wears a beret hat. The scene is set near a Parisian café in a peaceful morning atmosphere. The woman has a sweet, charming smile. Soft, dreamy mood, romantic Paris street vibe, gentle lighting, and highly detailed artwork.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case495.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "495",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/MissDelulu9/status/2062376738500526347",
+    "title": "巴黎街头故事书插画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-495"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "巴黎街头故事书插画",
+  "version": "v1"
+}

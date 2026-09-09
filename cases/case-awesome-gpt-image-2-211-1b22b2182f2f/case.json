@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-211-1b22b2182f2f",
+  "classification": {
+    "categories": [
+      "建筑与空间"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "Architecture & Spaces",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Architecture"
+      ]
+    },
+    "styles": [
+      "Architecture"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case211.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "211",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Architecture"
+        ]
+      },
+      "source_url": "https://x.com/TanShilong/status/2046524996013662380",
+      "title": "天坛古建拆解全图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-211",
+      "version": "v1"
+    }
+  ],
+  "title": "天坛古建拆解全图",
+  "title_aliases": [
+    "天坛古建拆解全图"
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 237089,
+      "path": "images/e4c7b2b461413b69a9c71fd7b0497eecaf8e29e817d9f6c0f81ca9aebd2e2ab3.jpg",
+      "role": "source_example",
+      "sha256": "e4c7b2b461413b69a9c71fd7b0497eecaf8e29e817d9f6c0f81ca9aebd2e2ab3",
+      "source_path": "data/images/case237.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-237-025d5b62b5e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fad5d71bd4c1fa04005eb0c229bbce34c7d7aa344e61e64ef755e3346742efb0",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n图像生成: 商品广告照片, 适合夏天的季节商品, 碳酸饮料, 名称=\"夏柑SODA\", 形状=PET瓶500ml, 研究2025年作为饮料广告的高CTA设计后设计并生成图像规格, 宽高比3:4\n\n[English]\nImage generation: Product advertising photo, Seasonal product suitable for summer, Carbonated beverage, Name=\"Summer Citrus SODA\", Shape=500ml PET bottle, Design and generate image specifications after researching high CTA design as a beverage advertisement in 2025, Aspect ratio 3:4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case237.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "237",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/old_pgmrs_will/status/2045852114673635507",
+    "title": "夏日柑橘苏打高转化广告图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-237"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "夏日柑橘苏打高转化广告图",
+  "version": "v1"
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 445334,
+      "path": "images/88786fb7711b218c63941b35d4b943c199fb16da7d63732fa22589ad272815f1.jpg",
+      "role": "source_example",
+      "sha256": "88786fb7711b218c63941b35d4b943c199fb16da7d63732fa22589ad272815f1",
+      "source_path": "data/images/case350.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-350-0b0b1a3b7220",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3fe19c00b74343611836682699cd408bc1504025a84ccf346d167c5d1c7c6185",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a scrapbook doodle-style football poster of [PLAYER_NAME].\n\nAI auto-generates realistic career stats (club and national team).\n\nMain photo: realistic, unchanged ([PLAYER_NAME] in action or iconic pose).\n\nDoodles and handwritten notes: white and [PRIMARY_COLOR] neon ink (no warm colors unless specified), arrows, stars, scribbles, sketchy outlines. Add a glowing [PRIMARY_COLOR] outline around the player's body.\n\nLayout (bold handwritten titles and stats):\n- Top Title: \"[PLAYER_NAME]\" plus \"[NICKNAME/TITLE]\"\n- Club Career: total matches and goals plus 2–4 main clubs (apps and goals)\n- Highlights: 2–3 standout achievements (e.g., UCL goals, Ballon d'Or, top scorer)\n- National Team: caps and goals plus 1–2 international achievements\n\nStyle: modern football poster x notebook aesthetic, clean but energetic, slightly messy doodles, high contrast, neon accents on dark or muted background.\n\nImportant: all stats must be realistic and proportional to the player's real career.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case350.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "350",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/ryanpp27/status/2048602248524214542",
+    "title": "足球球员数据涂鸦海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-350"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "足球球员数据涂鸦海报",
+  "version": "v1"
+}

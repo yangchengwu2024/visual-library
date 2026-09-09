@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 282340,
+      "path": "images/3cba70718f5579e8db9210ae12235b672d69d8c5d30e3f79d20df4c0982527f1.jpg",
+      "role": "source_example",
+      "sha256": "3cba70718f5579e8db9210ae12235b672d69d8c5d30e3f79d20df4c0982527f1",
+      "source_path": "data/images/case429.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-429-535f42f84ca9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "11e56a839becb13de286b2adb063fa01228e1802faef06fa7b8f8c136794d50d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic cozy Korean convenience store portrait of a beautiful Korean woman standing in front of glowing refrigerator aisles at night, wearing an oversized fluffy pastel pink hoodie with the hood up. She holds a bottle of strawberry milk in one hand and a tiny strawberry cake in the other while shyly looking toward the camera. Long soft black hair, glossy eyes, natural skin texture, subtle blushy makeup, gentle expression, youthful Korean beauty aesthetic. Warm fluorescent convenience store lighting mixed with realistic iPhone flash photography. Tiny reflections on drink bottles and glass refrigerator doors, dreamy romantic atmosphere, soft pink and cream color palette, slice-of-life anime realism blended with cinematic photography, highly detailed, cozy late-night Seoul convenience store vibe, shallow depth of field, realistic Korean snack packaging, candid aesthetic, soft glow, ultra photorealistic.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case429.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "429",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Food"
+      ],
+      "styles": [
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/john_my07/status/2054573350199111928",
+    "title": "韩国便利店粉色 Hoodie 人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-429"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "韩国便利店粉色 Hoodie 人像",
+  "version": "v1"
+}

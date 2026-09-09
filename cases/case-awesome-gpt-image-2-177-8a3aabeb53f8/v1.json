@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 34565,
+      "path": "images/28e849446f94972a7005a770c750e3d986d2532221dfd1cc7f064105248c7a6d.jpg",
+      "role": "source_example",
+      "sha256": "28e849446f94972a7005a770c750e3d986d2532221dfd1cc7f064105248c7a6d",
+      "source_path": "data/images/case177.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-177-8a3aabeb53f8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4bb8f174b90ee0af962a0683f5468464053f66a92220e45b6c28de449f9dcc0c",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n帮我生成一个吉利银河m9的中控界面，尺寸为21:9，暗色系\n\n[English]\nHelp me generate a central control interface of Geely Galaxy M9, size 21:9, dark color scheme.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case177.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "177",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/xin_pai88825/status/2046576100592201946",
+    "title": "吉利银河暗黑中控界面",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-177"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "吉利银河暗黑中控界面",
+  "version": "v1"
+}

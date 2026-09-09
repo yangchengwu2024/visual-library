@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 270532,
+      "path": "images/5521ac8187f788ef95e003a5625b93e17695a87214b35c97af47b55ca89a2511.jpg",
+      "role": "source_example",
+      "sha256": "5521ac8187f788ef95e003a5625b93e17695a87214b35c97af47b55ca89a2511",
+      "source_path": "data/images/case427.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-427-3e2b62b101fc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5ef05820551ded822d54e43567410c917fd34a96635f9083d1b7c6b1e4e74363",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Edit this photo and don't change the face, portrait 9:16. A 9-frame fashion portrait collage featuring a stylish young woman with playful expressions and sporty streetwear aesthetics. The concept combines modern model test photography, casual Gen-Z energy, and clean editorial studio vibes. Each frame captures different candid facial expressions and subtle attitude poses, creating a cool, confident, and slightly mischievous mood. Minimalist composition with strong focus on facial expressions, cap styling, and soft fashion portrait lighting.\n\nFrame Descriptions (9 poses)\n\nFrame 1 – Eyes closed with playful scrunched expression, slight smile, relaxed shoulders.\nFrame 2 – Looking slightly sideways with lips parted, confident casual attitude.\nFrame 3 – Head tilted slightly upward, calm expression, direct cool-girl energy.\nFrame 4 – Eyes closed while sticking tongue slightly out, playful candid vibe.\nFrame 5 – Both index fingers pressing cheeks while making duck lips, cute playful expression.\nFrame 6 – Direct eye contact with subtle smile, relaxed natural pose.\nFrame 7 – Body turned sideways, hand near chin, confident editorial profile look.\nFrame 8 – Eyes squeezed shut while making pout lips, exaggerated playful expression.\nFrame 9 – Wrinkled nose with gritted teeth, rebellious fashion attitude.\n\nShe wears oversized black long sleeves. Soft matte fabric with sporty streetwear silhouette. Relaxed fit with slightly oversized sleeves. Black New York Yankees baseball cap worn forward and backward in different frames. Minimal jewelry. Long soft wavy blonde hair. Soft loose waves with natural texture. Middle-part hairstyle. Hair flowing naturally around shoulders. Soft glam douyin girl makeup. Dewy glass skin finish. Brushed up natural brows, winged eyeliner, wispy natural lashes, soft pink blush (igari blush style), ombre gradient rosy pink lips with glossy finish.\n\nBackground minimal white studio backdrop. Photobooth-style collage layout with black frame borders. Shot with Canon EOS R6 / Sony A7 III / Fujifilm X-T5. High-fashion portrait photography style. 50mm or 85mm portrait lens. Eye-level framing. Tight portrait crop. Centered composition. Photobooth-inspired close-up angles. Soft diffused studio lighting. Balanced frontal light. Minimal harsh shadows. Clean editorial illumination. Cool neutral tones. Slightly desaturated blacks. Soft contrast with crisp details. Subtle film grain. Modern fashion editorial color grading.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case427.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "427",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/saniaspeaks_/status/2054046866497573214",
+    "title": "9-frame 时尚人像拼贴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-427"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "9-frame 时尚人像拼贴",
+  "version": "v1"
+}

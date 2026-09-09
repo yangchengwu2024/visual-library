@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 323268,
+      "path": "images/fd552c41de5cf14a73884bce084686b3f0f1f139be304703b25fa275a0ca67f1.jpg",
+      "role": "source_example",
+      "sha256": "fd552c41de5cf14a73884bce084686b3f0f1f139be304703b25fa275a0ca67f1",
+      "source_path": "data/images/case128.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-128-d47ea8cdf8bf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c71a5e2760262e01de39775ad235957f10efd3dc9ee3b1553051c708351016d8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"anime-style animated movie poster\",\n  \"scene\": \"Magical glowing multi-story treehouse restaurant in a dark enchanted forest at night, illuminated by string lights and warm window glow.\",\n  \"subjects\": {\n    \"children\": \"2 children in center foreground facing the restaurant: a boy with a backpack and lantern, and a girl in a red coat and beret with a lantern.\",\n    \"animals\": \"4 anthropomorphic animals: a bear chef holding a MENU book (bottom left), an owl playing violin and a squirrel playing flute on a branch (top left), a badger playing cello (mid right), and a rabbit in a suit holding a sign (bottom right).\",\n    \"creatures\": \"3 small black soot-sprite-like creatures with glowing eyes (bottom right).\",\n    \"floating_food\": \"4 glowing food items floating in the air: soup, pancakes, omurice, and a fruit parfait.\"\n  },\n  \"layout\": {\n    \"top_text\": \"{argument name=\\\"top catchphrase\\\" default=\\\"おいしい奇跡が、今夜はじまる。\\\"}\",\n    \"building_sign\": \"{argument name=\\\"restaurant name\\\" default=\\\"森のレストラン\\\"}\",\n    \"left_board\": \"本日のおすすめ\\n・森のスープ\\n・星のオムライス\\n・ふわふわパンケーキ\\n・しあわせのパフェ\\n...and more!\",\n    \"right_board\": \"いらっしゃいませ！\\nここは、だれでも\\n笑顔になれる場所。\",\n    \"main_title\": {\n      \"text\": \"{argument name=\\\"movie title\\\" default=\\\"ふしぎな森のレストラン\\\"}\",\n      \"styling\": \"Large stylized typography with a chef hat, fork, and spoon motifs.\"\n    },\n    \"rabbit_sign\": \"ごちそうさま！またきてね！\",\n    \"bottom_left_badge\": \"{argument name=\\\"genre badge\\\" default=\\\"家族みんなで楽しめる！心あたたまる冒険ファンタジー\\\"}\",\n    \"bottom_center_credits\": \"Fictional cast and staff names in Japanese.\",\n    \"bottom_release_date\": \"{argument name=\\\"release date\\\" default=\\\"2025年 夏休みロードショー！\\\"}\",\n    \"bottom_right\": \"QR code with text '最新情報はこちら！'\"\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case128.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "128",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/masapark95",
+    "title": "建筑空间场景渲染",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-128"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景渲染",
+  "version": "v1"
+}

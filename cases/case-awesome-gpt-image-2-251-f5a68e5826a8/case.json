@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-251-f5a68e5826a8",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "styles": [
+      "其他应用场景"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case251.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "251",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Other Use Cases"
+        ]
+      },
+      "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+      "title": "言叶之庭春雨绿意单日历",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-251",
+      "version": "v1"
+    }
+  ],
+  "title": "言叶之庭春雨绿意单日历",
+  "title_aliases": [
+    "言叶之庭春雨绿意单日历"
+  ]
+}

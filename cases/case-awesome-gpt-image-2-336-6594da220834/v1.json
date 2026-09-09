@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 1552810,
+      "path": "images/1b3e1c3e3b1a2b10226dc9659ee7b17ba3227222d4edc3dae75e8d506e982295.png",
+      "role": "source_example",
+      "sha256": "1b3e1c3e3b1a2b10226dc9659ee7b17ba3227222d4edc3dae75e8d506e982295",
+      "source_path": "data/images/case336.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-336-6594da220834",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d4f8b7cda3b18cd6c516b8b99609dbcd7e8d714ef8352ea5bee238f77fa70849",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "原文未公开，案例目标是生成一张高完成度的个人主页视觉设计图。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case336.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "336",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-336",
+    "title": "个人网页视觉设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-336"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "个人网页视觉设计",
+  "version": "v1"
+}

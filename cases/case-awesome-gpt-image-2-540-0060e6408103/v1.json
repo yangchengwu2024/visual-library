@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 269367,
+      "path": "images/52a7342838e71a5466adae11fa6453dd2fdc2e09aed22e88ba8e0e4cc0a7981d.jpg",
+      "role": "source_example",
+      "sha256": "52a7342838e71a5466adae11fa6453dd2fdc2e09aed22e88ba8e0e4cc0a7981d",
+      "source_path": "data/images/case540.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-540-0060e6408103",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2cb7bbd813d2216a4d3c057164558c6d4a401dd3bb8cd6054cb84d14f149b7a4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a visually unforgettable editorial art poster of a dreamlike futuristic world where familiar everyday life meets surreal architecture. Grand sculptural buildings, winding roads, oversized plants, tiny people, unexpected floating elements, dramatic perspective, cinematic atmosphere, and one iconic focal point. Blend vintage travel-poster design with modern luxury editorial aesthetics, sophisticated muted colors, soft natural light, subtle film grain, tactile paper texture, clean geometric shapes, minimal composition, nostalgic yet futuristic, whimsical but premium, highly detailed, instantly recognizable silhouette, Pinterest-worthy, Instagram-viral aesthetic, collectible art print, no clutter, no photorealism, vertical 4:5.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case540.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "540",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Naiknelofar788/status/2093230701986672924",
+    "title": "梦幻未来城市编辑艺术海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-540"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "梦幻未来城市编辑艺术海报",
+  "version": "v1"
+}

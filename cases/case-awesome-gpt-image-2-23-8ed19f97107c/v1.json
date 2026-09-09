@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 185243,
+      "path": "images/b5d39f7c4ecb3f14e5dc65bbf19299a85e62b3a62ffc408a1691b5e238263e05.jpg",
+      "role": "source_example",
+      "sha256": "b5d39f7c4ecb3f14e5dc65bbf19299a85e62b3a62ffc408a1691b5e238263e05",
+      "source_path": "data/images/case23.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-23-8ed19f97107c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "434dbee2b01e8fceaff140b4d8076645360b9d90ec6df867ef85d81e2f19e176",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"evolutionary timeline infographic\",\n  \"instruction\": \"Using REFERENCE_0 as a structural base, transform the flat vector design into a highly realistic 3D infographic. Replace the smooth ramps with distinct stone steps and upgrade all organisms to photorealistic 3D models.\",\n  \"style\": {\n    \"background\": \"{argument name=\\\"background style\\\" default=\\\"vintage textured parchment paper\\\"}\",\n    \"staircase\": \"{argument name=\\\"staircase material\\\" default=\\\"realistic textured stone blocks\\\"}\",\n    \"subjects\": \"{argument name=\\\"organism style\\\" default=\\\"highly detailed photorealistic 3D renders\\\"}\"\n  },\n  \"layout\": {\n    \"main_title\": \"{argument name=\\\"main title\\\" default=\\\"人类演化\\\"}\",\n    \"sections\": [\n      {\n        \"position\": \"left sidebar\",\n        \"count\": 8,\n        \"labels\": [\"L0: 单细胞生命\", \"L1: 多细胞生物\", \"L2: 动物界\", \"L3: 脊索动物\", \"L4: 上陆革命\", \"L5: 哺乳纲\", \"L6: 人科演化\", \"L7: 智人纪元\"]\n      },\n      {\n        \"position\": \"top right\",\n        \"title\": \"获得的功能 / 失去的功能\",\n        \"description\": \"Legend with plus and minus icons\"\n      },\n      {\n        \"position\": \"bottom center\",\n        \"title\": \"演化关键里程碑\",\n        \"count\": 6,\n        \"description\": \"Timeline with a silhouette graphic of 6 figures showing ape-to-human evolution\"\n      }\n    ],\n    \"centerpiece\": {\n      \"description\": \"Winding stone staircase with 25 numbered steps featuring specific organisms.\",\n      \"count\": 25,\n      \"notable_elements\": [\n        \"Step 07: Jellyfish\",\n        \"Step 09: Ammonite\",\n        \"Step 10: Trilobite\",\n        \"Step 24: Walking human\",\n        \"Step 25: {argument name=\\\"future evolution concept\\\" default=\\\"glowing cosmic silhouette with a question mark\\\"}\"\n      ]\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case23.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "23",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Infographic",
+        "Realistic",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/GeekCatX",
+    "title": "信息图可视化设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-23"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "信息图可视化设计",
+  "version": "v1"
+}

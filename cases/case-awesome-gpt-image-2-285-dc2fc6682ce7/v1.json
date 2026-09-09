@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 98069,
+      "path": "images/541b61a873849b50ddef5c7bb990df94fd25a2ce0dfbe87d8527a96525b0c42b.jpg",
+      "role": "source_example",
+      "sha256": "541b61a873849b50ddef5c7bb990df94fd25a2ce0dfbe87d8527a96525b0c42b",
+      "source_path": "data/images/case285.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-285-dc2fc6682ce7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e6f4c8e01d3c9f8fed1923a5fd64f876c0fbd975520de7d2f07c0ac0467491a0",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n向我展示这张附带的图像作为一部真实动漫的快照\n\n[English]\nShow me the attached image as a snapshot from an actual anime",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case285.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "285",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/Thereallo1026/status/2044241997163311569",
+    "title": "真实动漫画面快照",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-285"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "真实动漫画面快照",
+  "version": "v1"
+}

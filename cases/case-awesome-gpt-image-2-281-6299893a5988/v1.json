@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 332428,
+      "path": "images/0a994b7e5b57f669b061bab9f176b41b79dc85374b0425e686260d77972c4531.jpg",
+      "role": "source_example",
+      "sha256": "0a994b7e5b57f669b061bab9f176b41b79dc85374b0425e686260d77972c4531",
+      "source_path": "data/images/case281.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-281-6299893a5988",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "16dcd6db53745113479b9187cb6c5c5c291a1eb563004ef9675bb093a5a57b50",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\nでChatGPTで画像を作成してもらって、今日また作成してもらったらGPT image 2かもしれず、出来が変わったように見えるのでメモ\n\n左の水色と黄色のが先週\n右の紫のが今日\n\n右のは透明感とか解像度、緻密さが違うような気がする…\n\nプロンプト\n曼荼羅の近未来SF版を描いて\n\n[English]\nI had ChatGPT create images, and when I had it create them again today, it might be GPT image 2, and it seems like the quality has changed, so I'm making a note of it\n\nThe light blue and yellow one on the left is from last week\nThe purple one on the right is from today\n\nI feel like the transparency, resolution, and fineness are different for the one on the right.\n\nPrompt\nDraw a near-future sci-fi version of a mandala",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case281.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "281",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/4WEB1/status/2045390207072256179",
+    "title": "赛博朋克科幻曼荼罗",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-281"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "赛博朋克科幻曼荼罗",
+  "version": "v1"
+}

@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-352-31dfebf1e8ea",
+  "classification": {
+    "categories": [
+      "海报与排版"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Posters & Typography",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "styles": [
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case352.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "352",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/stellimbris/status/2048633434961072617",
+      "title": "西楚霸王国风暗黑海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-352",
+      "version": "v1"
+    }
+  ],
+  "title": "西楚霸王国风暗黑海报",
+  "title_aliases": [
+    "西楚霸王国风暗黑海报"
+  ]
+}

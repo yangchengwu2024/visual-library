@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 658607,
+      "path": "images/4191bc7acabdd90bba46b097ac4e1aac9dc45cfdd47422145f3f8e98acd4d10a.jpg",
+      "role": "source_example",
+      "sha256": "4191bc7acabdd90bba46b097ac4e1aac9dc45cfdd47422145f3f8e98acd4d10a",
+      "source_path": "data/images/case504.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-504-639918d9deb8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c32b57b5546db22ee801332aceaa45ad9e68de1d5a75503316d332bb45383733",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Turn this photo into a chaotic funny doodle illustration, intentionally messy and low-skill, as if drawn quickly with a cheap marker, crayon, or worn-out felt pen on paper.\n\nCreate exaggerated facial features with awkward proportions, uneven eyes, oversized head, tiny body, crooked smile, and clumsy anatomy while still keeping the person recognizable. Use rough childish sketch lines, shaky hand-drawn strokes, visible scribbles, overlapping outlines, accidental marks, and random doodles around the scene. Add a simple cartoon-style background with badly drawn buildings, trees, clouds, street elements, and uneven perspective. Coloring should look careless and imperfect, with visible stroke texture, inconsistent fill areas, wax crayon texture, marker bleed, and irregular shading. Include playful imperfections like crossed-out lines, unfinished details, random arrows, tiny notes, stars, swirls, and abstract scribbles. Overall aesthetic should feel humorous, spontaneous, handmade, energetic, goofy, and intentionally unpolished, resembling a child's sketchbook mixed with absurd internet meme art. High texture detail, paper grain visible, asymmetrical composition, awkward framing, expressive doodle chaos, raw sketch energy.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case504.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "504",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/Shorelyn_/status/2063235707632533954",
+    "title": "粗糙涂鸦人像改图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-504"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "粗糙涂鸦人像改图",
+  "version": "v1"
+}

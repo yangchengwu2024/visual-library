@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 236168,
+      "path": "images/fed444fdb35f50c058fa40625b06e80d0727214bf3a5c36b7d809f24d24827bb.jpg",
+      "role": "source_example",
+      "sha256": "fed444fdb35f50c058fa40625b06e80d0727214bf3a5c36b7d809f24d24827bb",
+      "source_path": "data/images/case529.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-529-6bef901a0c3d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "96e3584c581e2698a8a13cbb29fa61f4e8a881ff03c25b483f7958e8521c7b71",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a dreamy ultra-photorealistic outdoor fashion photograph based on the person in @image1.\n\nIDENTITY & FACE:\nPreserve the exact facial identity of the person in @image1. Keep the same face shape, facial proportions, eyes, eyebrows, nose, lips, skin tone, hairstyle, hairline, and all recognizable facial features. The person must remain clearly recognizable and consistent with the reference image. Do not redesign or replace the face.\n\nPOSE & COMPOSITION:\nCreate a full-body vertical portrait of the person standing naturally on a grassy mountain ridge. The body is slightly turned toward the camera while the face looks naturally toward the viewer. One hand gently holds several long white strings attached to an enormous fluffy white cloud floating directly above the person like a whimsical balloon bouquet. The other hand rests naturally beside the body.\n\nSCENE:\nA breathtaking high-altitude mountain landscape with layers of distant blue-green mountains stretching across the horizon. The subject stands on a natural grassy ridge with delicate wild grass around her feet. Vast open sky dominates the upper portion of the composition.\n\nCLOUD BALLOON:\nCreate one enormous soft white cumulus cloud directly above the subject, visually resembling a giant floating cloud balloon. Multiple thin white strings descend from the cloud and gather elegantly into the person's hand. The strings should look physically believable and naturally connected to the cloud. The cloud is fluffy, voluminous, bright white, and beautifully illuminated by sunlight.\n\nCLOTHING:\nDress the person in a completely modest, elegant, fully covered outfit:\n\nlong flowing light-blue maxi dress reaching the ankles\n\nloose long sleeves covering the arms completely\n\nhigh and modest neckline\n\nopaque non-transparent fabric\n\nfull-length flowing skirt\n\nsimple white closed-toe sneakers\n\nsmall woven crossbody bag\nNo exposed midriff, no deep neckline, no sheer fabric, no short skirt, no revealing clothing. The outfit should look graceful, comfortable, elegant, and wholesome.\n\nACCESSORIES:\nAdd tasteful round dark sunglasses and a simple woven shoulder/crossbody bag. Keep accessories minimal and natural.\n\nHAIR:\nKeep the person's original hairstyle and hair color from @image1 as much as possible. Allow a few natural strands of hair to move gently in the mountain breeze.\n\nLIGHTING:\nBright natural midday sunlight, soft atmospheric illumination, realistic highlights on the white cloud and dress, subtle natural shadows, crisp but gentle exposure, beautiful blue-sky contrast.\n\nPHOTOGRAPHY STYLE:\nUltra-photorealistic professional travel-fashion photography, realistic skin texture, natural fabric details, physically accurate lighting, realistic depth of field, cinematic atmospheric perspective, high dynamic range, sharp subject with a softly detailed background.\n\nCOLOR PALETTE:\nSky blue, soft white, pale powder blue, natural green grass, and distant blue mountains. Clean, airy, dreamy color grading with a peaceful summer atmosphere.\n\nCOMPOSITION:\n9:16 vertical portrait, full body visible from head to shoes, subject positioned slightly below center, enormous blue sky and cloud occupying the upper half, distant mountains forming a soft horizontal horizon, balanced negative space, visually striking editorial travel photograph.\n\nIMPORTANT:\nPreserve the exact identity from @image1. Do not change the person's recognizable face or facial structure. Keep the outfit completely modest, opaque, and fully covering. Maintain realistic anatomy, natural hands, realistic proportions, and believable interaction between the person, strings, cloud, grass, and mountain environment.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case529.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "529",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/AiwithLariab/status/2091394735416160715",
+    "title": "云朵气球山脊旅行人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-529"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "云朵气球山脊旅行人像",
+  "version": "v1"
+}

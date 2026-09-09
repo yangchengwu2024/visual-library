@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 334435,
+      "path": "images/2e2860ad743a641bbf6b60088999f77852f170ee7c234e73e1b35adf36111450.jpg",
+      "role": "source_example",
+      "sha256": "2e2860ad743a641bbf6b60088999f77852f170ee7c234e73e1b35adf36111450",
+      "source_path": "data/images/case368.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-368-94d8a3923621",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cda968917b89f3bada6b262f2939a6e90def0b2b49185c2cf870782a22b99067",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "这是india 料理中的一份真实menu。根据此 重新生成带文本说明的 引人入胜垂涎欲滴的 说明图片 先用English 文本易于识别（手机小屏幕） 这个是beef roast",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case368.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "368",
+    "source_tags": {
+      "scenes": [
+        "Food"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "source_url": "https://x.com/Johnson998877/status/2050354965110268123",
+    "title": "印度餐厅菜单改造宣传图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-368"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "印度餐厅菜单改造宣传图",
+  "version": "v1"
+}

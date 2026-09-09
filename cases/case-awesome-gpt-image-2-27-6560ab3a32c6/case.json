@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-27-6560ab3a32c6",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "styles": [
+      "写实",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case27.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "27",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/anemone_sd",
+      "title": "人物角色设定图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-27",
+      "version": "v1"
+    }
+  ],
+  "title": "人物角色设定图",
+  "title_aliases": [
+    "人物角色设定图"
+  ]
+}

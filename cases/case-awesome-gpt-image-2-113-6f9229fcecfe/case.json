@@ -1,0 +1,64 @@
+{
+  "case_id": "case-awesome-gpt-image-2-113-6f9229fcecfe",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "社媒",
+      "叙事"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Social",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Illustration"
+      ]
+    },
+    "styles": [
+      "界面",
+      "插画"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case113.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "113",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Social",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/REd8358",
+      "title": "动漫插画创作图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-113",
+      "version": "v1"
+    }
+  ],
+  "title": "动漫插画创作图",
+  "title_aliases": [
+    "动漫插画创作图"
+  ]
+}

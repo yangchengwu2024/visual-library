@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 277095,
+      "path": "images/4191ee91bcfbf65bcd10dcec97e95fa96c3a72faa190b8cd17c7c5b53746f4a3.jpg",
+      "role": "source_example",
+      "sha256": "4191ee91bcfbf65bcd10dcec97e95fa96c3a72faa190b8cd17c7c5b53746f4a3",
+      "source_path": "data/images/case7.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-7-a0033cdfa393",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bfa7d7b01663ea383f584080d1a9b0b1d0df53d8eb15ceb4725e87ed6f983448",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "生成一张竖版手机截图风格的图片，整体比例接近 9:16。画面中心偏上是一位真人 coser，扮演上传图片中的二次元角色。人物为写实风格，但五官略带动漫感，皮肤细腻，眼睛稍大，表情温柔地看向镜头，坐在室内的休闲场景中，例如咖啡厅或酒吧吧台前，背景有符合场景的道具。画面最上方加入手机系统状态栏 UI，包括时间、电量、信号、网络等图标，让整张图看起来像手机截图。画面底部叠加一块宽大的半透明 galgame 风格对话框，对话框左侧放一个与画面人物对应的动漫或 Q 版头像；对话框右侧排版文字：第一行用较大字体显示与前面相同的角色名字，下面一到两行显示一段适合这个角色人设的、温柔治愈风格的简体中文台词，由你自动创作。再在对话框下方加一条操作栏，仿照 galgame UI。整体风格高清、细节丰富、光线柔和、二次元与真人写真自然融合。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case7.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "7",
+    "source_tags": {
+      "scenes": [
+        "Fashion",
+        "Food",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-7",
+    "title": "应用界面样机图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-7"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "应用界面样机图",
+  "version": "v1"
+}

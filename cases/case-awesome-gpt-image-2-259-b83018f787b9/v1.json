@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 231620,
+      "path": "images/250f56b26ed8f61800c723fe99187890d354051b46e5cc57a511b81cdecfb5e0.jpg",
+      "role": "source_example",
+      "sha256": "250f56b26ed8f61800c723fe99187890d354051b46e5cc57a511b81cdecfb5e0",
+      "source_path": "data/images/case259.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-259-b83018f787b9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b90a82fc6b03a15311b3af84328f8370eabc687d5b37eb8f5762e38287ad2898",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成小红书内容截图，主题：精致女孩背后都有网贷，iPhone尺寸\n\n[English]\nGenerate Xiaohongshu content screenshot, theme: Behind every exquisite girl there is online loan, iPhone size",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case259.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "259",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2045373105041007013",
+    "title": "精致女孩背后的网贷真相",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-259"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "精致女孩背后的网贷真相",
+  "version": "v1"
+}

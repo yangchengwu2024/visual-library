@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 156859,
+      "path": "images/805315e32aaa1b8fffab7da96b2f4f7eb40832162c50b04413f93f32853fbc28.jpg",
+      "role": "source_example",
+      "sha256": "805315e32aaa1b8fffab7da96b2f4f7eb40832162c50b04413f93f32853fbc28",
+      "source_path": "data/images/case209.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-209-ac620345c3e3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b4ff26ddefe54f0ee7858b3be8d805b0a1e7b6363afbeb33c8bc68786971b95f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n模仿《无畏契约》的风格，生成一个三国神话的 FPS 游戏\n\n[English]\nImitating the style of Valorant, generate a Three Kingdoms mythological FPS game",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case209.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "209",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/op7418/status/2046519666047426967",
+    "title": "神话三国枪战世界",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-209"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "神话三国枪战世界",
+  "version": "v1"
+}

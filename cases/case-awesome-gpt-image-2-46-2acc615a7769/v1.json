@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 209944,
+      "path": "images/053d5711c13e84b8049ba57d558a4660d0fabe8af0468f705fb77c312e89098a.jpg",
+      "role": "source_example",
+      "sha256": "053d5711c13e84b8049ba57d558a4660d0fabe8af0468f705fb77c312e89098a",
+      "source_path": "data/images/case46.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-46-2acc615a7769",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "07d934d8c209ae3b14e6a99ac67602ec094d9b7635c8ee84f61ccdf5bf7d65bb",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A highly detailed, realistic photograph of a young East Asian woman sitting in a cluttered backstage dressing room, getting ready for a cosplay event. She has {argument name=\"hair color\" default=\"vibrant short red\"} hair styled in a bob with bangs and is wearing an elaborate fantasy warrior costume featuring a {argument name=\"costume color\" default=\"glossy red\"} and gold tiered mini skirt, a white corset top with black lace and red lacing, matching glossy arm guards, and thigh-high boots. She is looking down with a focused expression, using her right hand to adjust the arm guard on her left arm. The vanity counter in front of her is messy, covered with makeup brushes, bottles, a hairbrush, and extra hairpieces. A large, ornate {argument name=\"prop\" default=\"fantasy sword with a blue blade and gold hilt\"} leans against the edge of the counter. The background shows a brightly lit vanity mirror with round bulbs reflecting a clothing rack, capturing a candid, slightly over-sharpened, and highly textured photographic style.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case46.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "46",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/lakeside529",
+    "title": "建筑空间场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-46"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景图",
+  "version": "v1"
+}

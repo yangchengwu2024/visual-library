@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 377405,
+      "path": "images/2f71aa26b2a73d0420aaef93f3414a4a9020a78db8dc4914de344b3aadd3b648.jpg",
+      "role": "source_example",
+      "sha256": "2f71aa26b2a73d0420aaef93f3414a4a9020a78db8dc4914de344b3aadd3b648",
+      "source_path": "data/images/case471.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-471-4ed64dcac2cd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "879a790ddc50167b9ca3b3a69995e22011cf9de36c7f03d76c0c0c305ad4c7f7",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-detailed anime-style portrait of a young girl with large expressive eyes, soft blush cheeks, and delicate facial features. She wears a vibrant floral kimono with intricate colorful patterns. Large blooming flowers are placed in her hair like accessories. Smooth gradient warm background in coral and peach tones. Soft cinematic lighting, dreamy atmosphere, high-end digital illustration",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case471.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "471",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration"
+      ]
+    },
+    "source_url": "https://x.com/Mind_Boticni/status/2059133066694779343",
+    "title": "花簪和服动漫肖像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-471"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "花簪和服动漫肖像",
+  "version": "v1"
+}

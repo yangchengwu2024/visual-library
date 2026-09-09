@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 264838,
+      "path": "images/ac3eba6ce5375852aa70d1900679d1ece1cdd032111e3c3502cc4f4648e3a0d8.jpg",
+      "role": "source_example",
+      "sha256": "ac3eba6ce5375852aa70d1900679d1ece1cdd032111e3c3502cc4f4648e3a0d8",
+      "source_path": "data/images/case324.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-324-e693a8c44189",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "94f0fe2a6df3c2d77298d85d00db92dd619991f11e321bb331305f8b84b50d5d",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一位时尚年轻女子坐在老式复古巴士的前缘，身穿红色长风衣、羊毛无檐小便帽、圆形蓝色反光太阳镜、叠层项链和粗犷的棕色皮靴。她有着波浪状金发，带着自信而梦幻的表情，仰望天空。巴士漆面剥落，呈青绿色与铁锈红色调。明亮清澈的蓝天，城市背景建筑极少，柔和日光，电影级色彩分级，浅景深，高端时尚旅行氛围，编辑摄影，超写实，4K分辨率，锐利对焦，自然肌肤质感，戏剧性构图，电影静帧美学。\n\n[English]\nA stylish young woman sitting on the front edge of an old vintage bus, wearing a long red trench coat, woolen beanie cap, round blue reflective sunglasses, layered necklaces, and rugged brown leather boots. She has wavy blonde hair and a confident, dreamy expression, looking upward toward the sky. The bus is weathered with peeling paint in turquoise and rust red tones.Bright clear blue sky, urban background with minimal buildings, soft daylight, cinematic color grading, shallow depth of field, high fashion travel vibe, editorial photography, ultra-realistic, 4K resolution, sharp focus, natural skin texture, dramatic composition, film still aesthetic.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case324.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "324",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/iamsofiaijaz/status/2015337737860403283",
+    "title": "复古巴士上的红风衣女郎",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-324"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "复古巴士上的红风衣女郎",
+  "version": "v1"
+}

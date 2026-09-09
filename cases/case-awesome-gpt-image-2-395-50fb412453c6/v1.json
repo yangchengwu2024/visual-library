@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 665337,
+      "path": "images/7fa0c58de2a999eaf8a513a48d2c35735133691e13700df19d3f34145478c004.jpg",
+      "role": "source_example",
+      "sha256": "7fa0c58de2a999eaf8a513a48d2c35735133691e13700df19d3f34145478c004",
+      "source_path": "data/images/case395.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-395-50fb412453c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bbad3d1b364e68ff06e2fed1da6023b841dc9dff20a0751378cf1c711c18d5a2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a cinematic dark fantasy action scene in a ruined cathedral hall: a {argument name=\"hero type\" default=\"female armored knight-mage\"} crouches in a defensive lunge on the left foreground, wearing ornate dark steel and leather plate armor with a long cream-and-black tabard, one arm extended behind her gripping a spiked mace or morning star crackling with golden magic sparks, the other arm braced forward behind a round glowing shield rimmed with warm light. Opposite her in the right midground is a massive {argument name=\"enemy type\" default=\"headless stone golem\"}, built from cracked gray masonry plates and bound with broken chains, charging with one huge fist raised and rubble falling from its body. Set the battle inside a grand, damaged palace-cathedral interior with towering arches, carved stone columns, tall broken windows, gold-trimmed marble floor in circular geometric patterns, scattered chunks of stone, dust, and debris. Use dramatic backlighting from a bright arched window behind the golem, warm golden magical highlights on the shield and weapon, deep shadows, volumetric dust beams, realistic textures, high-detail armor and stone, dynamic low-angle wide composition, shallow cinematic depth, epic game-cinematic realism, 16:9 widescreen, no text, no UI.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case395.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "395",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/RamonVi25791296/status/2051568239142973832",
+    "title": "骑士法师大战石像魔像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-395"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "骑士法师大战石像魔像",
+  "version": "v1"
+}

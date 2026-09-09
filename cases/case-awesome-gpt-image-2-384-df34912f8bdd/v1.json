@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 440088,
+      "path": "images/a42186a48624baca73cdb436a3daf074de66b55187361dd9525a4186cfbe6bd2.jpg",
+      "role": "source_example",
+      "sha256": "a42186a48624baca73cdb436a3daf074de66b55187361dd9525a4186cfbe6bd2",
+      "source_path": "data/images/case384.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-384-df34912f8bdd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7412ef7314696ec061e136130a302ec5ab4ca18fc6c10f413a34791ba021a34b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A 10-Nation Cinematic Fashion Transformation of One Timeless BeautyChatGPT Prompt:\n\nA highly aesthetic, ultra-realistic cinematic collage featuring the exact same beautiful young woman from the reference image, shown in 10 different poses within one single image layout (5x2 grid style). Each frame represents a different country’s traditional cultural dress, styled in a modern, elegant, fashion-forward way. The woman is the SAME person in every frame: she has shoulder-length wavy dark brown hair, captivating dark brown eyes, full plump lips with a subtle confident smile, flawless warm olive-toned skin, high cheekbones, and a voluptuous yet athletic figure with a prominent bust, slim waist, and toned physique — exactly matching the woman in the provided reference photo.\n\nDesign details:\n\nEach of the 10 frames shows this same woman in different traditional outfits inspired by the following countries: Suriname, Guyana, Puerto Rico, Spain, Italy, India, Pakistan, Venezuela, Brazil, and the USA.\n\nEvery outfit is a modern, elegant, fashion-forward interpretation of that country’s cultural heritage.\n\nEach mini-frame includes a small national flag icon in the top-right corner.\n\nThe woman’s expressions vary: smiling, confident, graceful, playful, elegant, royal, modern fusion fashion poses.\n\nHigh-fashion editorial photography style.\n\nSoft cinematic lighting, ultra-detailed textures, realistic skin tones.\n\nBackgrounds subtly match each country’s cultural aesthetic (landmarks, streets, patterns, colors, architecture).\n\nLuxury fashion magazine layout style.\n\nClean grid composition, visually balanced, highly shareable social media design.\n\nStyle: Ultra-realistic, 8K resolution, Vogue editorial shoot, cinematic lighting, soft depth of field, trending Instagram aesthetic, fashion photography masterpiece.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case384.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "384",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/amynys/status/2051287229532639677",
+    "title": "十国传统服饰时尚拼贴",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-384"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "十国传统服饰时尚拼贴",
+  "version": "v1"
+}

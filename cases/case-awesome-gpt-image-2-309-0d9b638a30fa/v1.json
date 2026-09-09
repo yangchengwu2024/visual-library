@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 69900,
+      "path": "images/fde45da90ff24cdd9a3860dea5fa12cfb40e828e122a7c84d18c8fa040881da2.jpg",
+      "role": "source_example",
+      "sha256": "fde45da90ff24cdd9a3860dea5fa12cfb40e828e122a7c84d18c8fa040881da2",
+      "source_path": "data/images/case309.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-309-0d9b638a30fa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eb6fc75c3ad131ed98526d66732b5ecbacc34c5bd7f42cd021add6b7fde1a3b3",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n{ 角色名称 } 完全由天然树叶制成，创意树叶拼贴艺术，分层绿叶和干叶构成身体、面部和衣服，可见叶脉和纹理，手工植物艺术风格，干净的白色背景，俯视平铺构图，高度细节，柔和自然光，逼真树叶纹理，8k\n\n[English]\n{\n  CHARACTER NAME\n} made entirely from natural leaves,\ncreative leaf collage art,\nlayered green and dry leaves forming body,\nface and clothes,\nvisible leaf veins and textures,\nhandcrafted botanical art style,\nclean white background,\ntop-down flat lay composition,\nhighly detailed,\nsoft natural lighting,\nrealistic leaf textures,\n8k",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case309.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "309",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/meng_dagg695/status/2032019839070716170",
+    "title": "创意树叶拼贴构成的角色画像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-309"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "创意树叶拼贴构成的角色画像",
+  "version": "v1"
+}

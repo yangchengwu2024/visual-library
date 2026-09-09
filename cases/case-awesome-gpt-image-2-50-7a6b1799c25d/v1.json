@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 258255,
+      "path": "images/aa4ea1d4236d6c8ad66869312b1ad2c51af78e83101b773c0e6d6617c7cf9e2a.jpg",
+      "role": "source_example",
+      "sha256": "aa4ea1d4236d6c8ad66869312b1ad2c51af78e83101b773c0e6d6617c7cf9e2a",
+      "source_path": "data/images/case50.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-50-7a6b1799c25d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "75ca1b650cc73eb9d6a9afbad62dddc21dc108eba33e5b4cd3f05f8dfd3efaaa",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A highly detailed, cinematic wide shot of a grand, dark gothic hall with a {argument name=\"atmosphere\" default=\"dark fantasy\"} aesthetic. In the center, a single figure wearing a {argument name=\"clothing\" default=\"long white robe\"} kneels on a highly reflective stone floor, facing an ornate golden altar illuminated by a row of lit candles. To the right of the kneeling figure, a single {argument name=\"floor object\" default=\"wooden violin\"} rests on the ground. The cavernous room is framed by massive dark stone pillars detailed with {argument name=\"accent color\" default=\"glowing blue\"} ethereal cracks and veins. Suspended from the high ceiling are dozens of {argument name=\"floating objects\" default=\"white porcelain theatrical masks\"} hanging on thin strings, filling the upper half of the space and creating a haunting, surreal atmosphere. The lighting is dramatic and moody, featuring a rich color palette of deep blacks, tarnished golds, and cool blue accents. Format 16:9.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case50.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "50",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Fashion",
+        "Story"
+      ],
+      "styles": [
+        "Architecture"
+      ]
+    },
+    "source_url": "https://x.com/nomen_machine",
+    "title": "建筑空间场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-50"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景图",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-430-cd07726e148a",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Illustration",
+        "3D"
+      ]
+    },
+    "styles": [
+      "插画",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case430.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "430",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Illustration",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/harboriis/status/2054573031343931418",
+      "title": "铅笔素描时尚编辑插画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-430",
+      "version": "v1"
+    }
+  ],
+  "title": "铅笔素描时尚编辑插画",
+  "title_aliases": [
+    "铅笔素描时尚编辑插画"
+  ]
+}

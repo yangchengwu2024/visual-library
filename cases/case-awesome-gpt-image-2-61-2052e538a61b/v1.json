@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 387845,
+      "path": "images/a8590a8bf974d93cdd92718cd5154320ce156047b96a4bed9673bc2a844ae040.jpg",
+      "role": "source_example",
+      "sha256": "a8590a8bf974d93cdd92718cd5154320ce156047b96a4bed9673bc2a844ae040",
+      "source_path": "data/images/case61.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-61-2052e538a61b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "384e5499b322350e224866f7e64ae5615596e0f34131695506ede115648ab5f4",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"2x2 grid of banner advertisements\",\n  \"theme\": \"{argument name=\\\"school name\\\" default=\\\"SNSスクール\\\"}\",\n  \"target_audience\": \"{argument name=\\\"target audience\\\" default=\\\"学生\\\"}\",\n  \"layout\": {\n    \"grid\": \"2x2\",\n    \"panels\": [\n      {\n        \"position\": \"top-left\",\n        \"style\": \"dark neon, blue and purple\",\n        \"subject\": \"young woman looking up hopefully, holding a smartphone, wearing a purple sweatshirt\",\n        \"main_text\": \"{argument name=\\\"banner 1 headline\\\" default=\\\"SNSを仕事にしたい人へ\\\"}\",\n        \"sub_text\": \"“好き”をカタチに。未来を変える一歩を、今。\",\n        \"elements\": [\n          \"white and yellow typography\",\n          \"yellow call-to-action button: チェックする >\",\n          \"hand-drawn neon accents (crown, stars, heart)\"\n        ]\n      },\n      {\n        \"position\": \"top-right\",\n        \"style\": \"bright, pop, cyan and white\",\n        \"subject\": \"young woman smiling directly at camera, holding a smartphone, wearing a teal hoodie, hair in a bun\",\n        \"main_text\": \"{argument name=\\\"banner 2 headline\\\" default=\\\"好きな発信を武器にする\\\"}\",\n        \"sub_text\": \"企画・編集・投稿を学ぶ\",\n        \"elements\": [\n          \"torn paper texture backgrounds for text\",\n          \"yellow starburst sticker: 無料体験\",\n          \"3 feature icons with text: lightbulb (企画力), pencil (編集力), paper plane (投稿力)\"\n        ]\n      },\n      {\n        \"position\": \"bottom-left\",\n        \"style\": \"dark, analytical, neon purple and green\",\n        \"subject\": \"young man looking thoughtfully at his smartphone, wearing a black hoodie\",\n        \"main_text\": \"{argument name=\\\"banner 3 headline\\\" default=\\\"バズるだけじゃない 分析まで学べる\\\"}\",\n        \"sub_text\": \"#伸びる理由がわかると、もっと伸ばせる。\",\n        \"elements\": [\n          \"3 floating holographic data panels with line graphs and stats (125.6万, 23.8%, 12.6%)\",\n          \"3 feature icons at bottom: bar chart (データ分析), magnifying glass (改善提案), target (成果につなげる)\",\n          \"yellow call-to-action button: 詳しく見る >\"\n        ]\n      },\n      {\n        \"position\": \"bottom-right\",\n        \"style\": \"bright, friendly, purple and white\",\n        \"subject\": \"group of 4 young people (3 women, 1 man) huddled together smiling at a smartphone\",\n        \"main_text\": \"SNSで未来の可能性を広げよう\",\n        \"sub_text\": \"仲間と学べるコミュニティ\",\n        \"elements\": [\n          \"torn paper texture backgrounds for text\",\n          \"3 bullet points with icons (people, speech bubbles, rising chart)\",\n          \"2 polaroid-style inset photos showing students studying at a desk\",\n          \"yellow call-to-action button: 今すぐ参加 >\"\n        ]\n      }\n    ]\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case61.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "61",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/masapark95",
+    "title": "主题海报版式设计",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-61"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "主题海报版式设计",
+  "version": "v1"
+}

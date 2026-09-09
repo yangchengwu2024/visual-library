@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 278306,
+      "path": "images/bbffcfa2d5f68f9d2ea62b29393697ffd443fa3cc75abe68afd08a4ef3660ee0.jpg",
+      "role": "source_example",
+      "sha256": "bbffcfa2d5f68f9d2ea62b29393697ffd443fa3cc75abe68afd08a4ef3660ee0",
+      "source_path": "data/images/case522.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-522-567a152e8aad",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3b7613600c61e30f6045f4bf5eb5efb1ea190947344e5b0fc8b1af3ec14b4118",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Use the single uploaded photo as the only visual reference. Transform the person into an adorable hand-drawn 2D children’s storybook character, while keeping their identity immediately recognizable.\n\nPreserve exactly from the photo:\n- Facial features and skin tone\n- Real hairstyle, length, texture, and color\n- Exact clothing, colors, patterns, and layering\n- Glasses, jewelry, headwear, bags, and all visible accessories\n\nDo not invent or copy hairstyles, outfits, accessories, braids, pigtails, bows, bonnets, or headscarves from any reference artwork.\n\n### Character\nUse an oversized rounded head, tiny compact body, short arms, narrow shoulders, soft rounded silhouette, and cute childlike proportions. Keep the head visually dominant. Avoid realistic anatomy.\n\n### Face\nSimplify into tiny dot/oval eyes, minimal nose, tiny smiling mouth, rounded cheeks, and soft peach/pink blush. Keep recognizable facial characteristics. No realistic eyes, detailed lips, anime features, glossy 3D rendering, or heavy shading.\n\n### Hair & Clothing\nRecreate the exact hairstyle and outfit from the uploaded photo, simplified into chunky hand-drawn shapes. Preserve important colors, patterns, jewelry, glasses, and other recognizable details.\n\n### Style\nHandmade 2D picture-book aesthetic using soft gouache, wax crayon, colored pencil, and dry pastel. Use slightly irregular dark-brown linework, subtle paper grain, uneven pigment, soft brush marks, and imperfect painted edges. Avoid clean vector art, CGI, anime, or photorealism.\n\n### Composition\nSquare 1:1 portrait, chest/waist-up, centered and facing mostly forward, with balanced negative space. Use a relaxed, charming pose.\n\n### Background\nSimple warm mustard, butter yellow, ochre, or cream background with subtle paper texture. No scenery, objects, text, borders, or distractions.\n\nFinal feeling: the same person lovingly redrawn as an extremely cute, warm, wholesome, nostalgic, handcrafted children’s-book character—same identity, same hair, same clothes, same accessories, completely simplified and adorable.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case522.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Characters & People",
+    "source_id": "522",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/Sairah_0/status/2090321208441262454",
+    "title": "儿童故事书手绘头像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-522"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "儿童故事书手绘头像",
+  "version": "v1"
+}

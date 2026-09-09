@@ -1,0 +1,61 @@
+{
+  "case_id": "case-awesome-gpt-image-2-476-044c4968c92a",
+  "classification": {
+    "categories": [
+      "插画与艺术"
+    ],
+    "scenes": [
+      "科技",
+      "商业"
+    ],
+    "source_category": "Illustration & Art",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic",
+        "3D"
+      ]
+    },
+    "styles": [
+      "写实",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case476.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "476",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/Zyrellix/status/2059443447602561444",
+      "title": "早安拿铁微缩女孩",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-476",
+      "version": "v1"
+    }
+  ],
+  "title": "早安拿铁微缩女孩",
+  "title_aliases": [
+    "早安拿铁微缩女孩"
+  ]
+}

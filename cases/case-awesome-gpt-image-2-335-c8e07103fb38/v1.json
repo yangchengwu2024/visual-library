@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 472047,
+      "path": "images/48037dfa7b0b5aa88cdd5ee4d53962682ade1bb60f5a7d3bb486ce98cf1c079a.png",
+      "role": "source_example",
+      "sha256": "48037dfa7b0b5aa88cdd5ee4d53962682ade1bb60f5a7d3bb486ce98cf1c079a",
+      "source_path": "data/images/case335.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-335-c8e07103fb38",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1e36d42361db39cfbf70dff9b7bfbab3d187892943da86af4606b7c51309cfe3",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "原文未公开，重点展示 GPT-Image2 在高仿社交截图与中文排版场景中的能力。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case335.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "335",
+    "source_tags": {
+      "scenes": [
+        "Social",
+        "Story"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-335",
+    "title": "朋友圈截图生成",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-335"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "朋友圈截图生成",
+  "version": "v1"
+}

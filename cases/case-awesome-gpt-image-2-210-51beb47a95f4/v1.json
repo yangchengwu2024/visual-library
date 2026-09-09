@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 168726,
+      "path": "images/7e764e544091ead3df77e2ece536b613062c81bd71402c5b99163d518a5ab3ad.jpg",
+      "role": "source_example",
+      "sha256": "7e764e544091ead3df77e2ece536b613062c81bd71402c5b99163d518a5ab3ad",
+      "source_path": "data/images/case210.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-210-51beb47a95f4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c4bf8285b0f5afa5ddca220cc205bbd511fc7de251b543553a75cb340edcb07f",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n可爱地解释一下大语言模型训练过程\n\n[English]\nCute explanation of the large language model training process",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case210.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "210",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Infographic"
+      ]
+    },
+    "source_url": "https://x.com/op7418/status/2046502136973001143",
+    "title": "萌系大模型训练图解",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-210"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "萌系大模型训练图解",
+  "version": "v1"
+}

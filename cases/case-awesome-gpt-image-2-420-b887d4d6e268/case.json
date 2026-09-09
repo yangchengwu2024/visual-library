@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-420-b887d4d6e268",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Brand",
+        "Character"
+      ]
+    },
+    "styles": [
+      "写实",
+      "品牌",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case420.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "420",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic",
+          "Brand",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Shinning1010/status/2053521749967352285",
+      "title": "红跑道低角度夏日人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-420",
+      "version": "v1"
+    }
+  ],
+  "title": "红跑道低角度夏日人像",
+  "title_aliases": [
+    "红跑道低角度夏日人像"
+  ]
+}

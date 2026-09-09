@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 260877,
+      "path": "images/5aac07293d5b3c24cae2ee904280fdfe5b63a66da9b5dd72c8a0562ac605d8cd.jpg",
+      "role": "source_example",
+      "sha256": "5aac07293d5b3c24cae2ee904280fdfe5b63a66da9b5dd72c8a0562ac605d8cd",
+      "source_path": "data/images/case258.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-258-1f4bad5f482d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fce94e6b1c375037941e97709a62a3fd3e92ba1b216b5f215cd3c9dfe12b63d8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成快手内容截图：主题：直播离婚预告，iPhone尺寸\n\n[English]\nGenerate Kuaishou content screenshot: Theme: Live divorce announcement, iPhone size",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case258.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "258",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2045373105041007013",
+    "title": "快手直播离婚预告手机截图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-258"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "快手直播离婚预告手机截图",
+  "version": "v1"
+}

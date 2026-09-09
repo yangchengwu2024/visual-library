@@ -1,0 +1,47 @@
+{
+  "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+  "files": [
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/LICENSE",
+      "source_path": "LICENSE",
+      "sha256": "27a75c48bac29eb78f43c19f75c4e175974c8f1046d848d5562eae1ead2f1176",
+      "bytes": 1069
+    },
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/disclaimer.md",
+      "source_path": "docs/disclaimer.md",
+      "sha256": "acb1e6b8f0bfa58ff5964ce749a65af20269a8f57bb9d3b4aa849ba55e161e43",
+      "bytes": 2073
+    },
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/cases.json",
+      "source_path": "data/cases.json",
+      "sha256": "a9ef652dffdac0802c656e4770f9793315292fa78e955d3e8c6e0e6346eb7da8",
+      "bytes": 1338334
+    },
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/data/style-library.json",
+      "source_path": "data/style-library.json",
+      "sha256": "80f5cae039d0d6f312f0e2de2c9b3fc8a806640b0d517c120d704a71c5e4aa72",
+      "bytes": 41477
+    },
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-1.md",
+      "source_path": "docs/gallery-part-1.md",
+      "sha256": "f95e2567cefa4c6b69621d370e23227a22023a7f74291d8084b304942e0658f0",
+      "bytes": 294876
+    },
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/gallery-part-2.md",
+      "source_path": "docs/gallery-part-2.md",
+      "sha256": "94f97ac410d967e93254477c8b46765c6551aa33f913cd0c221fc061cdb507d2",
+      "bytes": 661415
+    },
+    {
+      "path": "sources/awesome-gpt-image-2/upstream/b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4/docs/templates.md",
+      "source_path": "docs/templates.md",
+      "sha256": "f8e5009821d2099da51e23ab467ec9e938fdab34856e439ac36138c155eec926",
+      "bytes": 47947
+    }
+  ]
+}

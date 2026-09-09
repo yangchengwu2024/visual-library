@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 149346,
+      "path": "images/a3f4551bbf0e5b3da5eeb5d2a6c0125a193879c74cc8e2ea4b0512ca3a5698a4.jpg",
+      "role": "source_example",
+      "sha256": "a3f4551bbf0e5b3da5eeb5d2a6c0125a193879c74cc8e2ea4b0512ca3a5698a4",
+      "source_path": "data/images/case150.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-150-ae382ded6357",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c275e045ccd8d175afa3a036919fa3dc22109d87e2dd3ce9040bd10667aedf13",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A bright, summery commercial product photography shot featuring a refreshing beverage on a weathered wooden table. In the sharp foreground, there is 1 tall glass filled with a golden, bubbly iced drink garnished with 1 lemon slice and a sprig of rosemary, sitting next to 1 silver aluminum can covered in cold condensation. The can prominently displays the English text {argument name=\"product name\" default=\"TOKYO HIGHBALL\"} below a small gold star logo, featuring a graphic of the drink itself and the Japanese text \"アルコール分 7%\" near the bottom. To the right of the can, 2 cut lemon wedges rest on the table. In the softly blurred background, a sunny beach scene unfolds with sparkling turquoise water and a clear blue sky. Standing to the left in the background is 1 young woman with long brown hair, wearing a white sleeveless top and a light blue skirt, looking out toward the ocean. Floating elegantly in the sky above the scene is the Japanese text {argument name=\"catchphrase\" default=\"夏、これがいい。\"}. The overall lighting is radiant and inviting, with sparkling bokeh and lens flares emphasizing the crisp, cold, and refreshing atmosphere of a perfect summer day.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case150.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "150",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Food"
+      ],
+      "styles": [
+        "Poster",
+        "Realistic",
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/highball_cho",
+    "title": "品牌徽标设计图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-150"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "品牌徽标设计图",
+  "version": "v1"
+}

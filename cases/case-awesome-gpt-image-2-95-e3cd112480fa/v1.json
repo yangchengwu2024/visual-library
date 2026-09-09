@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:20+00:00",
+  "assets": [
+    {
+      "bytes": 232497,
+      "path": "images/78e532d9f2a06181ea1daa6d8893a6dfdae55dac617a1fb0888b9c87f24216bc.jpg",
+      "role": "source_example",
+      "sha256": "78e532d9f2a06181ea1daa6d8893a6dfdae55dac617a1fb0888b9c87f24216bc",
+      "source_path": "data/images/case95.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-95-e3cd112480fa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eea0890a9898f59814e9ce0156bf29b870a0d66c3a2f1739bafac6ad9f4e06ed",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"anime-style livestream thumbnail\",\n  \"character\": {\n    \"hair\": \"{argument name=\\\"hair color\\\" default=\\\"short silver hair with cyan underlights\\\"}\",\n    \"eyes\": \"large bright blue\",\n    \"outfit\": \"white collared shirt, black tie with silver accents, black jacket, black beret with a large blue heart jewel, blue jewel brooch, black choker\",\n    \"pose\": \"smiling gently, looking at viewer, positioned on the right side\"\n  },\n  \"background\": \"pastel blue with white clouds, sparkles, stars, small bows, and a subtle grid pattern\",\n  \"typography_and_ui\": {\n    \"top_left_speech_bubble\": \"まったりおしゃべりしよ〜♡\",\n    \"main_title\": {\n      \"text\": \"{argument name=\\\"main title\\\" default=\\\"雑談配信\\\"}\",\n      \"style\": \"large, soft blue gradient, white outline, decorated with small hearts, positioned on the middle-left\"\n    },\n    \"bottom_left_badges\": {\n      \"count\": 3,\n      \"style\": \"white pill-shaped buttons with a purple heart icon on the left\",\n      \"labels\": [\n        \"{argument name=\\\"badge 1 text\\\" default=\\\"初見さん〇\\\"}\",\n        \"{argument name=\\\"badge 2 text\\\" default=\\\"ポイント回収〇\\\"}\",\n        \"{argument name=\\\"badge 3 text\\\" default=\\\"ROM〇\\\"}\"\n      ]\n    },\n    \"bottom_right_cloud_bubble\": \"気軽にコメントしてね♡\"\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case95.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "95",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/sayaka_aiart",
+    "title": "品牌视觉识别图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-95"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "品牌视觉识别图",
+  "version": "v1"
+}

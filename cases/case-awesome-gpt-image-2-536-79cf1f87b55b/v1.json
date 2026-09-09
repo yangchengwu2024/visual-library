@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 271754,
+      "path": "images/9f9259271b4cf6234c5433fd33263458e6f73726e22859373d083f814be82d3d.jpg",
+      "role": "source_example",
+      "sha256": "9f9259271b4cf6234c5433fd33263458e6f73726e22859373d083f814be82d3d",
+      "source_path": "data/images/case536.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-536-79cf1f87b55b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a0d4f6672bd5a8e56cbffd34829dff07d7226851da191377eb290eb4c57a82fc",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"title\": \"WHISPERS OF SPRING\",\n\n  \"scene\": \"A peaceful pathway beneath blooming cherry blossom trees during a warm spring afternoon. Pink blossoms fill the canopy overhead while delicate petals drift gracefully through the air. Soft sunlight filters through the branches, creating a dreamy and enchanting atmosphere.\",\n\n  \"subject\": \"A young woman walks away from the camera before gently turning her head over her shoulder with a soft, mysterious smile. She wears a flowing natural linen dress that moves gracefully with the breeze, highlighting her delicate facial features and effortless elegance.\",\n\n  \"detail\": \"Wind carries countless pink cherry blossom petals across the frame while warm sunlight creates glowing highlights throughout the scene. Every strand of hair moves naturally in the breeze, with ultra realistic skin texture, lifelike fabric folds, soft floral surroundings, and subtle atmospheric haze enhancing the cinematic realism.\",\n\n  \"atmosphere\": \"Elegant, peaceful, romantic, dreamy, timeless, cinematic, graceful, and enchanting.\",\n\n  \"lighting\": \"Warm spring sunlight filtering through cherry blossom branches, soft natural illumination, glowing highlights, volumetric light rays, gentle ambient shadows, and subtle atmospheric haze.\",\n\n  \"composition\": \"Cinematic editorial portrait captured with an 85mm lens, featuring the subject in a three-quarter over-the-shoulder pose. Shallow depth of field, creamy bokeh, balanced framing with flowering trees, soft leading lines, and immersive visual storytelling.\",\n\n  \"style\": \"Photorealistic, masterpiece, editorial fashion photography, analog film aesthetic, dreamy pastel color palette, ultra realistic skin texture, highly detailed, shallow depth of field, creamy bokeh, atmospheric haze, HDR, cinematic realism, 8K.\"\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case536.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "536",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/SheBuildsAI_/status/2092431090095149533",
+    "title": "春日樱花回眸电影人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-536"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "春日樱花回眸电影人像",
+  "version": "v1"
+}

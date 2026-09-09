@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 2734196,
+      "path": "images/b5400d0e43dd73b8d594bd0943522777a60679aba7a8cceb5e1143017d281c4d.png",
+      "role": "source_example",
+      "sha256": "b5400d0e43dd73b8d594bd0943522777a60679aba7a8cceb5e1143017d281c4d",
+      "source_path": "data/images/case340.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-340-6ac3a66b1f27",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "14cfd995c9aa936d4e8046e7683819086cbf5a1b0fb6ebeaac820b92d84047f8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "异质感oc，绝美红妆女子，位于彼岸花丛中，张力。 唐琬《钗头凤·世情薄》 世情薄，人情恶，雨送黄昏花易落。晓风干，泪痕残。欲笺心事，独语斜阑。难，难，难！",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case340.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "340",
+    "source_tags": {
+      "scenes": [
+        "History"
+      ],
+      "styles": [
+        "Scenes"
+      ]
+    },
+    "source_url": "https://x.com/xiaofenggan",
+    "title": "彼岸花丛中的红妆女子",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-340"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "彼岸花丛中的红妆女子",
+  "version": "v1"
+}

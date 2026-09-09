@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 133912,
+      "path": "images/52ae24a367112908455240a20bc594a24cd4382f3b95b3c3cb3b5b497116a49e.jpg",
+      "role": "source_example",
+      "sha256": "52ae24a367112908455240a20bc594a24cd4382f3b95b3c3cb3b5b497116a49e",
+      "source_path": "data/images/case477.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-477-c589d62b9baf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a3b303aac14875cdbc58637c1491f83868b9173ba4f17ab988f09ca81ea6c2f8",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Top-down ultra-wide hyper-realistic shot of 4 real people seated at a square dining table. Pull the camera way back so a wide ring of empty floor surrounds the whole scene, giving a clean minimal composition. Scene [ATMOSPHERE + WARDROBE]: the four are styled in [OUTFIT STYLE]. Each one is doing something specific: [DESCRIBE EACH PERSON'S ACTION].\n\nThe table itself is a physical prop built to look like an Instagram post viewed from above:\n- A solid white band runs along the TOP and BOTTOM edges only, with no white on the left or right sides.\n- Top band: a small drawn profile avatar with [LOGO DESCRIPTION], the handle \"[USERNAME]\", a tiny blue verified check next to it, and a \"...\" on the far right.\n- Bottom band: red heart, comment bubble, and share icons painted on the left, bookmark icon on the right.\n\nThe center of the table is one flat color: [EXACT COLOR + HEX CODE]. All food, drinks, props, and any hand interacting with them must stay strictly inside that central colored zone, nothing crosses the white bands or the table edge. The floor around the table is [FLOOR COLOR] to create clear visual separation. Professional studio lighting with crisp shadows, 8k, tack-sharp focus.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case477.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "477",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "UI",
+        "Realistic",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/iamaiistudio/status/2060210845225980366",
+    "title": "Instagram 餐桌俯拍创意",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-477"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Instagram 餐桌俯拍创意",
+  "version": "v1"
+}

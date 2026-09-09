@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 113443,
+      "path": "images/b05ee7b4a8dc5e374154621dcac07b7cabcab369fb284e3938a5bfea700af4e8.jpg",
+      "role": "source_example",
+      "sha256": "b05ee7b4a8dc5e374154621dcac07b7cabcab369fb284e3938a5bfea700af4e8",
+      "source_path": "data/images/case544.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-544-17752a2360f7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fde070e868d4192c52771c4ff9f00c888335f2a0acf3d9139cd8967164e31473",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a clean, child-friendly educational vocabulary poster for preschool/kindergarten children, inspired by a simple visual learning card.\n\nFeature [FRUIT] as the main large realistic object on the left, and show a [PART / SLICE / SEGMENT] of the same fruit on the right. Connect the two with a playful dotted curved arrow and a tiny simple stick-figure child pointing toward the smaller part.\n\nAdd the word “[FRUIT NAME]” in large bold uppercase letters at the top and “[PART NAME]” in large bold uppercase letters underneath the smaller image. Use a soft white and very light pastel-blue background, rounded image panels, clean spacing, realistic fruit photography, simple blue typography, and minimal playful illustrations.\n\nThe overall design should feel bright, educational, modern, uncluttered, and easy for young children to understand, like a premium preschool vocabulary learning card. Vertical 4:5 composition, high resolution, soft lighting, clear labels, no unnecessary decorations.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case544.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "544",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Poster",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Naiknelofar788/status/2092993830220120231",
+    "title": "幼儿词汇拆解学习卡",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-544"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "幼儿词汇拆解学习卡",
+  "version": "v1"
+}

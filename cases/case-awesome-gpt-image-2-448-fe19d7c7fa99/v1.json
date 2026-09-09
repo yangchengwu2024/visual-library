@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 381373,
+      "path": "images/b57e910a8507b3c01a72c1c9fe043a6c7e30dfba3aee8f7a76d7215bfdc50bea.jpg",
+      "role": "source_example",
+      "sha256": "b57e910a8507b3c01a72c1c9fe043a6c7e30dfba3aee8f7a76d7215bfdc50bea",
+      "source_path": "data/images/case448.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-448-fe19d7c7fa99",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3eb5fa607caf37b30ea96502f2e43dce648e7490e0168fb0a2b82813ea0c7985",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Ultra-realistic cinematic “1942 City” scene, retro WWII arcade-shooter-inspired metropolis in real life, intense aerial-war atmosphere, vertical 4:5 editorial composition\n\nMale, exact face, vintage military-pilot-inspired streetwear from head to toe, bomber jacket with retro aviation patches, fitted cargo trousers, rugged combat boots, fingerless gloves, pilot goggles hanging around neck, walking through the city with fearless ace-pilot expression while fighter planes soar overhead\n\n✈️ 1942 CITY WORLDBUILDING\n\nentire city functions like a living 1942 arcade shooter universe\n• massive WWII fighter planes dogfighting above skyscrapers\n• giant anti-aircraft cannons mounted across rooftops\n• endless bullet patterns streaking through cloudy skies\n• retro military airfields integrated into urban districts\n• giant “MISSION START” alerts projected into the clouds\n• dramatic explosion trails lighting the skyline at night\n• aircraft carriers docked beside futuristic city ports\n• glowing power-up icons floating through aerial battle zones\n• giant radar systems rotating above downtown towers\n• endless enemy squadrons emerging from storm clouds\n• cinematic ocean-and-warzone environments surrounding the metropolis\n\n😂 COMEDIC DETAILS\n\n• random civilians casually dodging fighter planes on the way to work 😭\n• one pilot barrel-rolling dramatically for absolutely no reason\n• giant billboard flashing: “PLAYER 1 READY.”\n• pedestrians treating near-miss explosions like normal traffic\n• somebody still trying to collect every floating power-up midair\n• random mechanic repairing planes using pure confidence\n• one legendary pilot surviving impossible situations through arcade logic alone\n\n💡 LIGHTING & STYLE\n\nretro war-film cinematic lighting, fiery aerial-battle atmosphere, dramatic clouds and explosion reflections, hyper-detailed realistic textures mixed with nostalgic arcade-shooter aesthetics, intense blockbuster-war energy, masterpiece quality\n\n🎥 CAMERA\n\ncinematic aerial tracking shot, immersive dogfight atmosphere, dynamic motion blur from fighter planes and explosions, documentary-meets-retro-arcade realism, futuristic Manila-inspired 1942 metropolis, “classic arcade air combat became civilization” atmosphere",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case448.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Scenes & Storytelling",
+    "source_id": "448",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "UI",
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/Xaroon_x/status/2056940561148363010",
+    "title": "1942 空战街机电影城",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-448"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "1942 空战街机电影城",
+  "version": "v1"
+}

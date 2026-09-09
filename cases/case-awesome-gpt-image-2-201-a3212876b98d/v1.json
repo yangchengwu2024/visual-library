@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 176595,
+      "path": "images/2d075243d660416c0b45dae18c9a00eaa546dea0d0300689f0c79e2922cd9a58.jpg",
+      "role": "source_example",
+      "sha256": "2d075243d660416c0b45dae18c9a00eaa546dea0d0300689f0c79e2922cd9a58",
+      "source_path": "data/images/case201.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-201-a3212876b98d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f913125146227ac67c9d615e25b309ab8c89ad042b984c08468d9f17a6034d3a",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n一张三甲医院的门诊处方笺，医生潦草的手写字，包含真实合理的 诊断、药品名、剂量，右下角有医生签名和科室章。\n\n[English]\nAn outpatient prescription sheet from a Grade 3A hospital, doctor's illegible handwriting, containing realistic and reasonable diagnosis, drug names, dosages, with a doctor's signature and department stamp in the bottom right corner.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case201.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Documents & Publishing",
+    "source_id": "201",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "source_url": "https://x.com/msjiaozhu/status/2046546317766500834",
+    "title": "三甲医院真实门诊处方笺",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-201"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "三甲医院真实门诊处方笺",
+  "version": "v1"
+}

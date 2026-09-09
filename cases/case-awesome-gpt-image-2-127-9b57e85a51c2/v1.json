@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 224581,
+      "path": "images/5c8d33ad3603ea789ec8b3cc45dc644fa391a6b72956ffbfcc8b2dbbc8a6c485.jpg",
+      "role": "source_example",
+      "sha256": "5c8d33ad3603ea789ec8b3cc45dc644fa391a6b72956ffbfcc8b2dbbc8a6c485",
+      "source_path": "data/images/case127.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-127-9b57e85a51c2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c889e42213e84686d23d5c6dd1247f48b781999de32bea881fca465c76f0def2",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "{\n  \"type\": \"manga page\",\n  \"style\": \"anime illustration, full color\",\n  \"characters\": {\n    \"woman\": {\n      \"appearance\": \"long {argument name=\\\"hair color\\\" default=\\\"black\\\"} hair, purple eyes\",\n      \"outfit\": \"{argument name=\\\"shirt color\\\" default=\\\"grey\\\"} long-sleeve shirt, dark grey skinny jeans, barefoot\"\n    },\n    \"delivery_man\": {\n      \"appearance\": \"bald, older man, thick eyebrows\",\n      \"outfit\": \"blue work jacket over a grey shirt\"\n    }\n  },\n  \"layout\": {\n    \"description\": \"Page split vertically. Left side contains 4 stacked horizontal panels. Right side is a single tall vertical panel.\",\n    \"left_column_panels\": [\n      {\n        \"panel_number\": 1,\n        \"scene\": \"Woman sitting on a grey sofa in a living room, holding a white mug.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"text\": \"?\" },\n          { \"type\": \"sound_effect\", \"text\": \"ピンポーン♪\", \"description\": \"doorbell ringing\" }\n        ]\n      },\n      {\n        \"panel_number\": 2,\n        \"scene\": \"Woman opening the front door. Delivery man standing outside holding a cardboard box, smiling.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"{argument name=\\\"delivery greeting\\\" default=\\\"こんにちは〜！宅配便で〜す！\\\"}\" },\n          { \"type\": \"speech_bubble\", \"speaker\": \"woman\", \"text\": \"は、はい…ありがとうございます\" }\n        ]\n      },\n      {\n        \"panel_number\": 3,\n        \"scene\": \"Close-up of the delivery man laughing enthusiastically with a sparkly pink background.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"{argument name=\\\"creepy compliment\\\" default=\\\"おや〜？いや〜美人さんですなあ！こんな綺麗な方がお一人でお住まいなんて、もったいないなあ〜♪\\\"}\" }\n        ]\n      },\n      {\n        \"panel_number\": 4,\n        \"scene\": \"Close-up of the woman looking disgusted and uncomfortable, sweating slightly. The back of the delivery man's head is visible in the foreground.\",\n        \"text_elements\": [\n          { \"type\": \"speech_bubble\", \"speaker\": \"delivery_man\", \"text\": \"それにしてもお肌が綺麗！スタイルも抜群だし〜モデルさんみたいですよ！\" },\n          { \"type\": \"thought_bubble\", \"speaker\": \"woman\", \"text\": \"{argument name=\\\"woman reaction\\\" default=\\\"え…？何この人…ちょっと気持ち悪いかも…\\\"}\" },\n          { \"type\": \"caption_box\", \"text\": \"この後も延々と褒め続ける配達員だった…\" }\n        ]\n      }\n    ],\n    \"right_column_panel\": {\n      \"panel_number\": 5,\n      \"scene\": \"Full-body portrait of the woman standing indoors, looking annoyed and suspicious with her arms crossed.\",\n      \"text_elements\": [\n        { \"type\": \"thought_bubble\", \"speaker\": \"woman\", \"text\": \"誰かしら…？\" }\n      ]\n    }\n  }\n}",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case127.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "127",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Illustration",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/studiomasakaki",
+    "title": "建筑空间场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-127"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "建筑空间场景图",
+  "version": "v1"
+}

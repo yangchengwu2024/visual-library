@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 492780,
+      "path": "images/8aae8ada81d5518d972a910ce3b6efbfd063d0f794d071b8fb9d63ecd5047441.jpg",
+      "role": "source_example",
+      "sha256": "8aae8ada81d5518d972a910ce3b6efbfd063d0f794d071b8fb9d63ecd5047441",
+      "source_path": "data/images/case523.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-523-293e282b3d57",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "54c180bd64dfacf9cfc88bcb26efa1f467fdf40ab92bd268592e756cbc364fd1",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a vertical editorial travel illustration inspired by vintage European travel posters, featuring a peaceful summer afternoon in a grand city park with a recognizable Manhattan-style skyline in the background. Use delicate hand-drawn ink outlines combined with soft, slightly imperfect watercolor washes on warm textured cream paper. Show a wide green lawn filled with people relaxing, reading, walking, jogging, cycling, and having picnics. In the foreground, a casually dressed young couple sits together on a picnic blanket beside a woven basket. Include elegant black vintage park lamps, winding pathways, dense leafy trees framing the composition, and detailed historic and modern skyscrapers rising behind the park. Add a small picturesque stone arch bridge over a calm pond near the bottom of the artwork. Use muted sage green, olive, warm beige, soft blue, pale gray, and subtle golden sunlight, with natural watercolor bleeding, paper grain, fine pen hatching, and an airy sophisticated travel-journal aesthetic. No text, no letters, no logos, no typography, no captions, no signs. Vertical 4:5 composition, highly detailed, elegant, nostalgic, handcrafted watercolor-and-ink illustration.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case523.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Illustration & Art",
+    "source_id": "523",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Travel"
+      ],
+      "styles": [
+        "Poster",
+        "Illustration",
+        "Brand"
+      ]
+    },
+    "source_url": "https://x.com/Taaruk_/status/2090307485374578755",
+    "title": "曼哈顿公园水彩旅行插画",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-523"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "曼哈顿公园水彩旅行插画",
+  "version": "v1"
+}

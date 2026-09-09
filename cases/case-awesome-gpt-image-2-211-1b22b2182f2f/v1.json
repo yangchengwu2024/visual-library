@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 267948,
+      "path": "images/b60d448aa795808ea2ce4cb6f11683169e864b9ced6a2a85f5ff613f1211a87c.jpg",
+      "role": "source_example",
+      "sha256": "b60d448aa795808ea2ce4cb6f11683169e864b9ced6a2a85f5ff613f1211a87c",
+      "source_path": "data/images/case211.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-211-1b22b2182f2f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ed963112f89434cbfe7041b1bbfa0cf00c4ee963278fe35cb6b4124cfb627af5",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一个天坛的建筑拆解图，有详细的说明，中式美学风格\n\n[English]\nGenerate an architectural exploded view of the Temple of Heaven, with detailed annotations, Chinese aesthetic style",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case211.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Architecture & Spaces",
+    "source_id": "211",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Architecture"
+      ]
+    },
+    "source_url": "https://x.com/TanShilong/status/2046524996013662380",
+    "title": "天坛古建拆解全图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-211"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "天坛古建拆解全图",
+  "version": "v1"
+}

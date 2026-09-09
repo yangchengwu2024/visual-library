@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-295-36209691a7ce",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "styles": [
+      "其他应用场景"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case295.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "295",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Other Use Cases"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2044824800909054181",
+      "title": "复古传统老黄历二零二六年四月十八",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-295",
+      "version": "v1"
+    }
+  ],
+  "title": "复古传统老黄历二零二六年四月十八",
+  "title_aliases": [
+    "复古传统老黄历二零二六年四月十八"
+  ]
+}

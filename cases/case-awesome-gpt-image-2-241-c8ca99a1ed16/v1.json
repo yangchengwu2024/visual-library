@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 91751,
+      "path": "images/7547990006cd9345362e27d58b7ac08799e5bd10987192da864de2266ba39e96.jpg",
+      "role": "source_example",
+      "sha256": "7547990006cd9345362e27d58b7ac08799e5bd10987192da864de2266ba39e96",
+      "source_path": "data/images/case241.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-241-c8ca99a1ed16",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c0f9d399e27733b03c1c5955728d80437aae7da233b25dbdce92266e85453521",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n请你生成 《XXX》 的关键人物关系图。\n\n[English]\nPlease generate a key character relationship diagram for \"XXX\".",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case241.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Other Use Cases",
+    "source_id": "241",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Infographic",
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/yihui_indie/status/2045179926270361890",
+    "title": "关键人物关系图谱",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-241"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "关键人物关系图谱",
+  "version": "v1"
+}

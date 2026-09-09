@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 179801,
+      "path": "images/5eef3b2aa2ee92e95a03c79a486d70bb5ada3b7f334a0070b44718220c447cae.jpg",
+      "role": "source_example",
+      "sha256": "5eef3b2aa2ee92e95a03c79a486d70bb5ada3b7f334a0070b44718220c447cae",
+      "source_path": "data/images/case249.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-249-e8e52a50a6f0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4d8699374929d7d70069c63d674f0001be895c2729949acf3fbe58e73b5ee3c9",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一个抖音直播的截图 ，一个美女在直播，美女手里拿着牌子，上面写着：谢谢行者大哥的大火箭！\n\n[English]\nGenerate a screenshot of a TikTok live stream, a beautiful woman is live streaming, the beautiful woman is holding a sign in her hand, on which it says: Thank you Brother Xingzhe for the big rocket!",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case249.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "249",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/joshesye/status/2044796366950703316",
+    "title": "美女举牌感谢大哥打赏大火箭",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-249"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "美女举牌感谢大哥打赏大火箭",
+  "version": "v1"
+}

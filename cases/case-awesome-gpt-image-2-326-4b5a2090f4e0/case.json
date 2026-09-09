@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-326-4b5a2090f4e0",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "时尚"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Fashion"
+      ],
+      "styles": [
+        "Realistic",
+        "Character",
+        "3D"
+      ]
+    },
+    "styles": [
+      "写实",
+      "人物与角色",
+      "3D"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case326.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "326",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic",
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/meng_dagg695/status/2012437899955097836",
+      "title": "红蓝撞色高跟诱惑",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-326",
+      "version": "v1"
+    }
+  ],
+  "title": "红蓝撞色高跟诱惑",
+  "title_aliases": [
+    "红蓝撞色高跟诱惑"
+  ]
+}

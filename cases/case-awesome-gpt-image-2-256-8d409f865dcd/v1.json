@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 131846,
+      "path": "images/db7cc4a9054d38498913c468dc45f9df8ec0c2552a451cabc8f4dcad83cf2531.jpg",
+      "role": "source_example",
+      "sha256": "db7cc4a9054d38498913c468dc45f9df8ec0c2552a451cabc8f4dcad83cf2531",
+      "source_path": "data/images/case256.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-256-8d409f865dcd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c38d96aa79bf952635d55804723eea3977cca990f402eea4edab24ae225fd6bf",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n生成一个抖音直播的截图 里面是一个美女在直播\n\n[English]\nGenerate a screenshot of a Douyin livestream, inside there is a beautiful woman livestreaming",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case256.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "256",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI"
+      ]
+    },
+    "source_url": "https://x.com/joshesye/status/2044796366950703316",
+    "title": "抖音直播间的绝美女主播",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-256"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "抖音直播间的绝美女主播",
+  "version": "v1"
+}

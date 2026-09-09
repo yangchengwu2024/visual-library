@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 259397,
+      "path": "images/9b37ba8f5da1bc956c895c2cbacbd48eedc13cd174934063aac22fd7197d65ce.jpg",
+      "role": "source_example",
+      "sha256": "9b37ba8f5da1bc956c895c2cbacbd48eedc13cd174934063aac22fd7197d65ce",
+      "source_path": "data/images/case192.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-192-98a948a78902",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "edf953c8ead8d74de19e95bc920bb016acb36475354548750d2e0cd5baff7387",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\nAI智能眼镜电商详情图\n\n[English]\nAI smart glasses e-commerce detail image",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case192.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "192",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce"
+      ],
+      "styles": [
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046544209117634735",
+    "title": "电商商品展示图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-192"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "电商商品展示图",
+  "version": "v1"
+}

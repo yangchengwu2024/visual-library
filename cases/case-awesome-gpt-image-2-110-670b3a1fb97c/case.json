@@ -1,0 +1,58 @@
+{
+  "case_id": "case-awesome-gpt-image-2-110-670b3a1fb97c",
+  "classification": {
+    "categories": [
+      "UI 与界面"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "UI & Interfaces",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "UI",
+        "Poster"
+      ]
+    },
+    "styles": [
+      "界面",
+      "海报"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case110.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "110",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "UI",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/TlanoAI",
+      "title": "视频封面界面图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-110",
+      "version": "v1"
+    }
+  ],
+  "title": "视频封面界面图",
+  "title_aliases": [
+    "视频封面界面图"
+  ]
+}

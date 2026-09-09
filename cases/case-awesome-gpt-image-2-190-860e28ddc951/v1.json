@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 183580,
+      "path": "images/74305836dcc20ce8c94440581e86fb671d48240a04c25e92b6ca9fe2540906be.jpg",
+      "role": "source_example",
+      "sha256": "74305836dcc20ce8c94440581e86fb671d48240a04c25e92b6ca9fe2540906be",
+      "source_path": "data/images/case190.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-190-860e28ddc951",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3981576d9e487265d62fad21e37afd86b0ccf0d671c43348bda2857779a45631",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n全自动咖啡机电商详情图\n\n[English]\nFully automatic coffee machine e-commerce detail image",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case190.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Products & E-commerce",
+    "source_id": "190",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Food"
+      ],
+      "styles": [
+        "Products"
+      ]
+    },
+    "source_url": "https://x.com/MrLarus/status/2046544209117634735",
+    "title": "全自动咖啡机产品展示",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-190"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "全自动咖啡机产品展示",
+  "version": "v1"
+}

@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-09T03:38:19+00:00",
+  "assets": [
+    {
+      "bytes": 196926,
+      "path": "images/b59e4fee310125ade43b0a4e76fc4b98bb7479ce54a8c827efdb537daaf9a0ad.jpg",
+      "role": "source_example",
+      "sha256": "b59e4fee310125ade43b0a4e76fc4b98bb7479ce54a8c827efdb537daaf9a0ad",
+      "source_path": "data/images/case146.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-146-28a410a656fc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5867fe534592a303ad035564d89892f5922a2f5bb56590467c6b9d81a4222d9b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "A {argument name=\"platform\" default=\"Taobao\"} product detail page for {argument name=\"robot model\" default=\"T-800 robot\"}, displaying: front, side, and back three-view drawings of the robot, product price, product details, functions, and usage scenarios, etc.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case146.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "146",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Story"
+      ],
+      "styles": [
+        "Product"
+      ]
+    },
+    "source_url": "https://x.com/alanlovelq",
+    "title": "综合应用场景图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-146"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "综合应用场景图",
+  "version": "v1"
+}

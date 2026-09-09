@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 252964,
+      "path": "images/c91915f50664ba3ca11961f90b0ea81f08accf09b321dfe4499e9814eace1063.jpg",
+      "role": "source_example",
+      "sha256": "c91915f50664ba3ca11961f90b0ea81f08accf09b321dfe4499e9814eace1063",
+      "source_path": "data/images/case360.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-360-4f5008305cf9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "893654f2f99205ed4789147a7b9b8f167326dd615c737991f34d1bb5b2a91505",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "Create a professional \"HAIRSTYLE ANALYSIS\" infographic with a different male model (the same face) having long, thick hair (6-10 inches), slightly wavy texture.\n\nStyle should be clean, modern, premium grooming guide (similar layout but not identical).\n\nTOP TITLE:\n\"HAIRSTYLE ANALYSIS - Long Hair Edition\"\n\nLEFT PANEL (Key Features with icons):\nFace Shape: Oval\nHair Type: Thick\nTexture: Wavy\nLength: Long\n\nBEST OPTIONS (Top row with green indicators):\nLayered Flow Cut (Adds movement & volume)\nModern Curtain Hair (Stylish & balanced)\nTextured Long Waves (Natural & full)\nLoose Slick Back (Controlled but not flat)\n\nLESS FLATTERING (Bottom row with red indicators):\nFlat Straight Long Hair (No volume)\nOverly Oily Slick Back (Too heavy)\nUneven Long Layers (Messy shape)\nExcessively Frizzy Look (Uncontrolled)\n\nBEST HAIR LENGTH SECTION:\nIdeal: 6-10 inches with layers\nAvoid: Too flat or too heavy bottom\n\nBEST HAIR COLORS:\nDark Brown\nNatural Black\nWarm Brown\nAsh Brown\n\nDESIGN STYLE:\nClean grid infographic\nWhite/beige background\nSoft shadows\nPremium magazine look\nRealistic face and hair detail\nConsistent spacing and typography\nHigh resolution, 4K",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case360.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Charts & Infographics",
+    "source_id": "360",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Education"
+      ],
+      "styles": [
+        "UI",
+        "Infographic",
+        "Poster"
+      ]
+    },
+    "source_url": "https://x.com/Gemalpha_88/status/2048918707343401034",
+    "title": "长发造型分析信息图",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-360"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "长发造型分析信息图",
+  "version": "v1"
+}

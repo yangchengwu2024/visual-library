@@ -1,0 +1,67 @@
+{
+  "case_id": "case-awesome-gpt-image-2-347-46f4b9df4c9f",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "科技",
+      "商业",
+      "社媒"
+    ],
+    "source_category": "Characters & People",
+    "source_tags": {
+      "scenes": [
+        "Tech",
+        "Commerce",
+        "Social"
+      ],
+      "styles": [
+        "Infographic",
+        "Illustration",
+        "Character"
+      ]
+    },
+    "styles": [
+      "信息图",
+      "插画",
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case347.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "347",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Infographic",
+          "Illustration",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/oggii_0/status/2048614158699217302",
+      "title": "4×4 动作分解参考表",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-347",
+      "version": "v1"
+    }
+  ],
+  "title": "4×4 动作分解参考表",
+  "title_aliases": [
+    "4×4 动作分解参考表"
+  ]
+}

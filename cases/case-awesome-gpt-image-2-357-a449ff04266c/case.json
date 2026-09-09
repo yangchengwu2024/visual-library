@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-357-a449ff04266c",
+  "classification": {
+    "categories": [
+      "摄影与写实"
+    ],
+    "scenes": [
+      "食品饮品"
+    ],
+    "source_category": "Photography & Realism",
+    "source_tags": {
+      "scenes": [
+        "Food"
+      ],
+      "styles": [
+        "Realistic"
+      ]
+    },
+    "styles": [
+      "写实"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case357.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "357",
+      "source_tags": {
+        "scenes": [
+          "Food"
+        ],
+        "styles": [
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/harboriis/status/2049044698900361241",
+      "title": "鱼眼镜面复古咖啡馆人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-357",
+      "version": "v1"
+    }
+  ],
+  "title": "鱼眼镜面复古咖啡馆人像",
+  "title_aliases": [
+    "鱼眼镜面复古咖啡馆人像"
+  ]
+}

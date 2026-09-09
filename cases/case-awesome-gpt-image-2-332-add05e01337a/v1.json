@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 1993580,
+      "path": "images/51e954c6693d4151bc81138bf7968b0d12d96035950c975707c66d424d529381.png",
+      "role": "source_example",
+      "sha256": "51e954c6693d4151bc81138bf7968b0d12d96035950c975707c66d424d529381",
+      "source_path": "data/images/case332.png"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-332-add05e01337a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6e918952bb3949d930bc526763e72e95bb980cabaeb8d9a3384326360758ae31",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "帮这个产品生成宣传图",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case332.png"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Posters & Typography",
+    "source_id": "332",
+    "source_tags": {
+      "scenes": [
+        "Food"
+      ],
+      "styles": [
+        "Poster"
+      ]
+    },
+    "source_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-332",
+    "title": "茶π产品宣传海报",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-332"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "茶π产品宣传海报",
+  "version": "v1"
+}

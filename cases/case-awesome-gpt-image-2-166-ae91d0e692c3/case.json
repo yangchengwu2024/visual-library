@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-166-ae91d0e692c3",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "科技"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Tech"
+      ],
+      "styles": [
+        "Other Use Cases"
+      ]
+    },
+    "styles": [
+      "其他应用场景"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case166.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "166",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Other Use Cases"
+        ]
+      },
+      "source_url": "https://x.com/songguoxiansen/status/2046476566537080849",
+      "title": "十二黄金圣斗士卡牌合集",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-166",
+      "version": "v1"
+    }
+  ],
+  "title": "十二黄金圣斗士卡牌合集",
+  "title_aliases": [
+    "十二黄金圣斗士卡牌合集"
+  ]
+}

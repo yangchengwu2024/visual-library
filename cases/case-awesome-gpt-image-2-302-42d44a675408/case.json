@@ -1,0 +1,55 @@
+{
+  "case_id": "case-awesome-gpt-image-2-302-42d44a675408",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [
+      "创意"
+    ],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "styles": [
+      "人物与角色"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case302.jpg"
+        }
+      ],
+      "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "302",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/TanShilong/status/2045148649869692982",
+      "title": "九位大师的机械键盘设计图鉴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-302",
+      "version": "v1"
+    }
+  ],
+  "title": "九位大师的机械键盘设计图鉴",
+  "title_aliases": [
+    "九位大师的机械键盘设计图鉴"
+  ]
+}

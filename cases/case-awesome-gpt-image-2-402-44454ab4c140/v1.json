@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 238286,
+      "path": "images/aa5e28b22fb0ca0f58ecdd04bba0dd1c953a444306fedb6f48f5612c1b17cc35.jpg",
+      "role": "source_example",
+      "sha256": "aa5e28b22fb0ca0f58ecdd04bba0dd1c953a444306fedb6f48f5612c1b17cc35",
+      "source_path": "data/images/case402.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-402-44454ab4c140",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fd52982e0c7d39bbedbb4979b1fc18895a6e7330553647dd51ae36b7684df863",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "一只手中握着一张3D小红书个人资料卡，卡片中间方形镂空，一个女孩随意地坐在卡片镂空的边缘，温暖的米色和柔和的粉彩美学背景，逼真的深度和阴影，电影般的柔和光线，闪亮光滑的纹理，小红书风格的UI，漂浮的互动图标（点赞、评论、分享）带有发光的霓虹效果，闪光和光晕，背景中温馨的美学布置包括书籍、花瓶里的花和一台复古相机，梦幻氛围，Pixar风格+半现实主义融合，超高品质，4K，居中构图，高端影响者美学",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case402.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "UI & Interfaces",
+    "source_id": "402",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "UI",
+        "3D"
+      ]
+    },
+    "source_url": "https://x.com/MrGafish/status/2052323461268467860",
+    "title": "3D 小红书个人资料卡",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-402"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "3D 小红书个人资料卡",
+  "version": "v1"
+}

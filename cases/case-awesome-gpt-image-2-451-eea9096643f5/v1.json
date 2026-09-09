@@ -1,0 +1,48 @@
+{
+  "archived_at": "2026-09-09T03:38:17+00:00",
+  "assets": [
+    {
+      "bytes": 164564,
+      "path": "images/dfb55dc9a124e0ee702e4846e2a41828fa2cbe61f863445c331e2abed9f4ef95.jpg",
+      "role": "source_example",
+      "sha256": "dfb55dc9a124e0ee702e4846e2a41828fa2cbe61f863445c331e2abed9f4ef95",
+      "source_path": "data/images/case451.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-451-eea9096643f5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "15d2392074278e146327fc47f8f1739bfdbfb3cd560295540ffc6e7dbf93d53b",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "一位成年韩国女孩，人物位于画面中央，半身到大腿视角，身体微微前倾。身形比例协调，肩颈线条舒展，可以看到胸部轮廓，轮廓自然优美，腰部线条柔和，整体凸显丰腴健康的女性美，丝滑黑发随风飘扬，人物气质成熟、温柔、安静，面带自然微笑。身穿白色一字肩连衣裙，背景是热带海滩日落，电影感DSLR摄影，温暖辉光照明，梦幻虚化，超详细，鲜艳色彩，丰富对比，韩国时尚美学氛围，自然欢乐情感，高端生活方式摄影。9:16 竖版构图。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case451.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "Photography & Realism",
+    "source_id": "451",
+    "source_tags": {
+      "scenes": [
+        "Creative"
+      ],
+      "styles": [
+        "Character"
+      ]
+    },
+    "source_url": "https://x.com/MrGafish/status/2057107670226870577",
+    "title": "韩国海滩日落时尚人像",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-451"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "韩国海滩日落时尚人像",
+  "version": "v1"
+}

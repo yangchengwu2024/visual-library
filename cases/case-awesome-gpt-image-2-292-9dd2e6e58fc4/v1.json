@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-09T03:38:18+00:00",
+  "assets": [
+    {
+      "bytes": 120381,
+      "path": "images/2f25a50a8c6ccda29a764bccfce00d0e659d6922bcd9ff55630a4a1bda14482d.jpg",
+      "role": "source_example",
+      "sha256": "2f25a50a8c6ccda29a764bccfce00d0e659d6922bcd9ff55630a4a1bda14482d",
+      "source_path": "data/images/case292.jpg"
+    }
+  ],
+  "case_id": "case-awesome-gpt-image-2-292-9dd2e6e58fc4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ddca8b0ed6a687a939f76eb34b49fb4b487be8119c1bbc03d5b3ff3123e2e8ca",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "[中文]\n创建一个宝玉（查阅 https://x.com/dotey 这个推主的主页及部分推文）穿越到明朝，登基之后依据其业务/个性，绘制的其新的X帖子页面。\n\n[English]\nCreate a new X post page illustrated for Baoyu (refer to the homepage and some posts of this Twitter user at https://x.com/dotey) after time-traveling to the Ming Dynasty and ascending the throne, based on his business/personality.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_example",
+        "source_path": "data/images/case292.jpg"
+      }
+    ],
+    "revision": "b477278bb2a36d4c59655eb0daa4ce48e8dbc4c4",
+    "source": "awesome-gpt-image-2",
+    "source_category": "History & Classical Themes",
+    "source_id": "292",
+    "source_tags": {
+      "scenes": [
+        "Social",
+        "History"
+      ],
+      "styles": [
+        "Classical"
+      ]
+    },
+    "source_url": "https://x.com/tuzi_ai/status/2045193918736736365",
+    "title": "明朝登基宝玉的推文页面",
+    "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-292"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "明朝登基宝玉的推文页面",
+  "version": "v1"
+}
