@@ -284,13 +284,25 @@ def _render_version(root, content):
     directory = _case_dir(root, content["case_id"])
     prompt = content["prompt"]
     fence = "`" * max(3, max((len(m.group(0)) + 1 for m in re.finditer(r"`+", prompt)), default=3))
-    lines = ["<!-- GENERATED from version JSON. Edit personal records, never this file. -->",
-             "# " + str(content.get("title", content["case_id"])), "",
-             "Case: `" + content["case_id"] + "` | Version: `" + content["version"] + "`", "",
-             "Changes: " + "; ".join(content["changes"]), "", "## Original prompt", "", fence + "text", prompt, fence, "", "## Local assets", ""]
-    for asset in content["assets"]:
-        lines += ["- " + str(asset["role"]) + ": [" + asset["path"] + "](../../" + asset["path"] + ")"]
-    lines += ["", "## Model and parameters", "", "```json", json.dumps({"model": content.get("model"), "parameters": content.get("parameters")}, ensure_ascii=False, indent=2), "```", "", "Provenance and source aliases: [case.json](case.json)", ""]
+    title = " ".join(str(content.get("title", content["case_id"])).split())
+    change_labels = {"initial archive": "首次收录", "original prompt changed": "原始提示词变化",
+                     "asset bytes, order, or roles changed": "图片或资源排列变化",
+                     "known model changed": "模型信息变化", "generation parameters changed": "生成参数变化",
+                     "explicitly grouped variant; unknown parameters do not establish identical content": "归入关联版本，未知参数不能认定完全相同"}
+    changes = "；".join(change_labels.get(x, x) for x in content["changes"])
+    lines = ["<!-- GENERATED from version JSON. Do not edit this reading copy. -->",
+             "# " + title, "", "[返回画廊总览](../../docs/gallery.md) · [版本与来源记录](case.json)", "",
+             "案例编号：`" + content["case_id"] + "` · 版本：`" + content["version"] + "`", "",
+             "版本说明：" + changes, "", "## 案例图片", ""]
+    for number, asset in enumerate(content["assets"], 1):
+        lines += ["![案例图片 " + str(number) + "](../../" + asset["path"] + ")", ""]
+    lines += ["## 完整提示词", "", fence + "text", prompt, fence, ""]
+    if content.get("model") is not None or content.get("parameters") is not None:
+        lines += ["## 模型与参数", "", "```json", json.dumps({"model": content.get("model"), "parameters": content.get("parameters")}, ensure_ascii=False, indent=2), "```", ""]
+    provenance = content.get("provenance", {})
+    source = provenance.get("source_url") or provenance.get("upstream_url")
+    if source:
+        lines += ["[查看原始来源](" + source + ")", ""]
     _write(directory / (content["version"] + ".md"), "\n".join(lines).encode("utf-8"))
 
 
@@ -346,6 +358,11 @@ def _rebuild(root):
                         "archived_at": current["archived_at"], "status": "complete"})
     catalog = {"schema_version": SCHEMA_VERSION, "case_count": len(entries), "cases": entries}
     _write(root / "indexes" / "catalog.json", catalog)
+    import importlib.util
+    spec = importlib.util.spec_from_file_location("visual_library_gallery", Path(__file__).with_name("gallery.py"))
+    gallery_module = importlib.util.module_from_spec(spec)
+    spec.loader.exec_module(gallery_module)
+    gallery_module.build_gallery(root, catalog)
     return catalog
 
 
