@@ -86,6 +86,34 @@
       "title": "水晶框国家旅行广告海报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-531",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case531.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "531",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Taaruk_/status/2091391283063361558",
+      "title": "水晶框国家旅行广告海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-531",
+      "version": "v1"
     }
   ],
   "title": "水晶框国家旅行广告海报",

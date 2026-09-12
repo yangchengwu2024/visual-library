@@ -74,6 +74,31 @@
       "title": "花田风动夏日人像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-518",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case518.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "518",
+      "source_tags": {
+        "scenes": [
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/lovimg_com/status/2077036746198618336",
+      "title": "花田风动夏日人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-518",
+      "version": "v1"
     }
   ],
   "title": "花田风动夏日人像",

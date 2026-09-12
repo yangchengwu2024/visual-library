@@ -82,6 +82,33 @@
       "title": "十国传统服饰时尚拼贴",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-384",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case384.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "384",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/amynys/status/2051287229532639677",
+      "title": "十国传统服饰时尚拼贴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-384",
+      "version": "v1"
     }
   ],
   "title": "十国传统服饰时尚拼贴",

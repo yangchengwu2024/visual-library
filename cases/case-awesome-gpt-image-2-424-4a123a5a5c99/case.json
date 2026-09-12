@@ -86,6 +86,34 @@
       "title": "FMCG 棒棒糖霓虹广告",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-424",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case424.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "424",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Diplomeme/status/2054061713583219149",
+      "title": "FMCG 棒棒糖霓虹广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-424",
+      "version": "v1"
     }
   ],
   "title": "FMCG 棒棒糖霓虹广告",

@@ -78,6 +78,32 @@
       "title": "潮流视角重塑精致商品广告",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-181",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case181.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "181",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/genel_ai/status/2046498264774791514",
+      "title": "潮流视角重塑精致商品广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-181",
+      "version": "v1"
     }
   ],
   "title": "潮流视角重塑精致商品广告",

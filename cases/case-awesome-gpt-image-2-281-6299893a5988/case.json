@@ -74,6 +74,31 @@
       "title": "赛博朋克科幻曼荼罗",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-281",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case281.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "281",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/4WEB1/status/2045390207072256179",
+      "title": "赛博朋克科幻曼荼罗",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-281",
+      "version": "v1"
     }
   ],
   "title": "赛博朋克科幻曼荼罗",

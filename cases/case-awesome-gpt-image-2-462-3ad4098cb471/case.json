@@ -78,6 +78,32 @@
       "title": "复古日系迷你橡皮商品包装",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-462",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case462.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "462",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/ZetoGroovin/status/2058408514247410003",
+      "title": "复古日系迷你橡皮商品包装",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-462",
+      "version": "v1"
     }
   ],
   "title": "复古日系迷你橡皮商品包装",

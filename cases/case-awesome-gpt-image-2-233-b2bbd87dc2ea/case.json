@@ -74,6 +74,31 @@
       "title": "蒙娜丽莎畅饮可乐的趣味油画",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-233",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case233.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "233",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Food"
+        ],
+        "styles": [
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2045058142858555733",
+      "title": "蒙娜丽莎畅饮可乐的趣味油画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-233",
+      "version": "v1"
     }
   ],
   "title": "蒙娜丽莎畅饮可乐的趣味油画",

@@ -82,6 +82,33 @@
       "title": "企鹅造型包装结构板",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-475",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case475.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "475",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic",
+          "Illustration",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/iamaiistudio/status/2059305097897914664",
+      "title": "企鹅造型包装结构板",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-475",
+      "version": "v1"
     }
   ],
   "title": "企鹅造型包装结构板",

@@ -86,6 +86,34 @@
       "title": "梦幻波士顿春季城市海报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-298",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case298.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "298",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Travel"
+        ],
+        "styles": [
+          "Poster",
+          "Brand",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/BubbleBrain/status/2045358053831172358",
+      "title": "梦幻波士顿春季城市海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-298",
+      "version": "v1"
     }
   ],
   "title": "梦幻波士顿春季城市海报",

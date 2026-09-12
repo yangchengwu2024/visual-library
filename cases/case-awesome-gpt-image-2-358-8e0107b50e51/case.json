@@ -86,6 +86,34 @@
       "title": "草莓能量饮料商业广告",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-358",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case358.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "358",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/SPEEDAI07/status/2049043627163435040",
+      "title": "草莓能量饮料商业广告",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-358",
+      "version": "v1"
     }
   ],
   "title": "草莓能量饮料商业广告",

@@ -86,6 +86,34 @@
       "title": "手绘涂鸦时尚人物插画",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-533",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case533.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "533",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI",
+          "Illustration",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Sairah_0/status/2092473965927334071",
+      "title": "手绘涂鸦时尚人物插画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-533",
+      "version": "v1"
     }
   ],
   "title": "手绘涂鸦时尚人物插画",

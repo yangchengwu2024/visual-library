@@ -74,6 +74,31 @@
       "title": "拙劣 MS Paint 风重绘",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-409",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case409.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Illustration & Art",
+      "source_id": "409",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/Ciri_ai/status/2052969749878059362",
+      "title": "拙劣 MS Paint 风重绘",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-409",
+      "version": "v1"
     }
   ],
   "title": "拙劣 MS Paint 风重绘",

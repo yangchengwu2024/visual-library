@@ -86,6 +86,34 @@
       "title": "旅行纪念珐琅徽章",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-543",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case543.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "543",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic",
+          "Product",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Emmma__0/status/2093194689222705645",
+      "title": "旅行纪念珐琅徽章",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-543",
+      "version": "v1"
     }
   ],
   "title": "旅行纪念珐琅徽章",

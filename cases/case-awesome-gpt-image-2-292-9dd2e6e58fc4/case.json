@@ -74,6 +74,31 @@
       "title": "明朝登基宝玉的推文页面",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-292",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case292.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "292",
+      "source_tags": {
+        "scenes": [
+          "Social",
+          "History"
+        ],
+        "styles": [
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/tuzi_ai/status/2045193918736736365",
+      "title": "明朝登基宝玉的推文页面",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-292",
+      "version": "v1"
     }
   ],
   "title": "明朝登基宝玉的推文页面",

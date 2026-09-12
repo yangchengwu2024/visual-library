@@ -74,6 +74,31 @@
       "title": "试卷上的涂鸦巨龙",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-196",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case196.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "196",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Social"
+        ],
+        "styles": [
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/GeekCatX/status/2046539797578330152",
+      "title": "试卷上的涂鸦巨龙",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-196",
+      "version": "v1"
     }
   ],
   "title": "试卷上的涂鸦巨龙",

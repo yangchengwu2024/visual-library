@@ -82,6 +82,33 @@
       "title": "烛光侧室写实摄影",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-450",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case450.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "450",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic",
+          "Illustration",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/ToroJushiAi/status/2056926887344042382",
+      "title": "烛光侧室写实摄影",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-450",
+      "version": "v1"
     }
   ],
   "title": "烛光侧室写实摄影",

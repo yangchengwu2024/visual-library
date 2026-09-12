@@ -74,6 +74,31 @@
       "title": "8 套日常穿搭编辑拼贴",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-398",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case398.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "398",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Characters"
+        ]
+      },
+      "source_url": "https://x.com/aiwithaly/status/2052218645951205463",
+      "title": "8 套日常穿搭编辑拼贴",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-398",
+      "version": "v1"
     }
   ],
   "title": "8 套日常穿搭编辑拼贴",

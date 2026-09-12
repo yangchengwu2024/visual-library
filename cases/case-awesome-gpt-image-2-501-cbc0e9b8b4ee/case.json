@@ -86,6 +86,34 @@
       "title": "夏日牵手回眸电影肖像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-501",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case501.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "501",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic",
+          "Character",
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/iamaiistudio/status/2063247373388992790",
+      "title": "夏日牵手回眸电影肖像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-501",
+      "version": "v1"
     }
   ],
   "title": "夏日牵手回眸电影肖像",

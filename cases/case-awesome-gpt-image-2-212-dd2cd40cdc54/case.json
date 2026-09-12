@@ -82,6 +82,33 @@
       "title": "专业设计师打造角色写真集",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-212",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case212.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "212",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Fashion",
+          "Story"
+        ],
+        "styles": [
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/Kashiko_AIart/status/2046492817804099794",
+      "title": "专业设计师打造角色写真集",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-212",
+      "version": "v1"
     }
   ],
   "title": "专业设计师打造角色写真集",

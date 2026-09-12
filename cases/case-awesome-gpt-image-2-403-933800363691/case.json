@@ -74,6 +74,31 @@
       "title": "小红书数字破屏 3D 女孩",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-403",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case403.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "403",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Character",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/MrGafish/status/2052632520563528051",
+      "title": "小红书数字破屏 3D 女孩",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-403",
+      "version": "v1"
     }
   ],
   "title": "小红书数字破屏 3D 女孩",

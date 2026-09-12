@@ -82,6 +82,33 @@
       "title": "旅行美食薯片广告海报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-454",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case454.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "454",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/Naiknelofar788/status/2057282710469767241",
+      "title": "旅行美食薯片广告海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-454",
+      "version": "v1"
     }
   ],
   "title": "旅行美食薯片广告海报",

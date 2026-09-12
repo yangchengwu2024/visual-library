@@ -82,6 +82,33 @@
       "title": "企业级商用画册视觉系统",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-453",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case453.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Documents & Publishing",
+      "source_id": "453",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Poster",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2056974720893939950",
+      "title": "企业级商用画册视觉系统",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-453",
+      "version": "v1"
     }
   ],
   "title": "企业级商用画册视觉系统",

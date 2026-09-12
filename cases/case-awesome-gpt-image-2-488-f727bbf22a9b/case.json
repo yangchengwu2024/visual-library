@@ -74,6 +74,31 @@
       "title": "屋顶球场日落人像",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-488",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case488.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "488",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion"
+        ],
+        "styles": [
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/HaniaAi12/status/2061313477696954522",
+      "title": "屋顶球场日落人像",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-488",
+      "version": "v1"
     }
   ],
   "title": "屋顶球场日落人像",

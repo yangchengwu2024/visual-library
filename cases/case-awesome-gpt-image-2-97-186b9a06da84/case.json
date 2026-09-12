@@ -74,6 +74,31 @@
       "title": "综合应用场景图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-97",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case97.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Posters & Typography",
+      "source_id": "97",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Story"
+        ],
+        "styles": [
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/kawai_design",
+      "title": "综合应用场景图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-97",
+      "version": "v1"
     }
   ],
   "title": "综合应用场景图",

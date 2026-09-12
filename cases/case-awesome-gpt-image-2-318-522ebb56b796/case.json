@@ -86,6 +86,34 @@
       "title": "珊瑚色极简影棚时尚商业大片",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-318",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case318.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "318",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Realistic",
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Maercihh/status/2026941078885310750",
+      "title": "珊瑚色极简影棚时尚商业大片",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-318",
+      "version": "v1"
     }
   ],
   "title": "珊瑚色极简影棚时尚商业大片",

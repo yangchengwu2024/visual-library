@@ -74,6 +74,31 @@
       "title": "朱元璋登基后的推特主页",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-234",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case234.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "234",
+      "source_tags": {
+        "scenes": [
+          "Social",
+          "History"
+        ],
+        "styles": [
+          "Classical"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2045021302315249738",
+      "title": "朱元璋登基后的推特主页",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-234",
+      "version": "v1"
     }
   ],
   "title": "朱元璋登基后的推特主页",

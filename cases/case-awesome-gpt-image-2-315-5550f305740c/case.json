@@ -86,6 +86,34 @@
       "title": "棘龙巨口中的酷飒少女与史前奇观",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-315",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case315.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Scenes & Storytelling",
+      "source_id": "315",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/MrDasOnX/status/2028087254757867560",
+      "title": "棘龙巨口中的酷飒少女与史前奇观",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-315",
+      "version": "v1"
     }
   ],
   "title": "棘龙巨口中的酷飒少女与史前奇观",

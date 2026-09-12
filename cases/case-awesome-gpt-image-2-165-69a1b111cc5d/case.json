@@ -78,6 +78,32 @@
       "title": "清冷佳人夜市烧烤三刀流",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-165",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case165.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "165",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion",
+          "Travel"
+        ],
+        "styles": [
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/BubbleBrain/status/2046564674112831920",
+      "title": "清冷佳人夜市烧烤三刀流",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-165",
+      "version": "v1"
     }
   ],
   "title": "清冷佳人夜市烧烤三刀流",

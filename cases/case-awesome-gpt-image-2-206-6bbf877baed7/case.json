@@ -86,6 +86,34 @@
       "title": "国风工笔八仙长卷插画",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-206",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case206.jpg"
+        }
+      ],
+      "revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "206",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Illustration",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/GeekCatX/status/2046559605074076112",
+      "title": "国风工笔八仙长卷插画",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-206",
+      "version": "v1"
     }
   ],
   "title": "国风工笔八仙长卷插画",
