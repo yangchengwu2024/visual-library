@@ -302,9 +302,9 @@ Catchphrase: "Dialogue here"
 
 </details>
 
-## 美妆产品广告图 · v1
+## 荧光粉绿 Y2K 彩妆产品广告 · v1
 
-- [美妆产品广告图 · v1](../cases/case-awesome-gpt-image-2-264-a7ce2d1f3930/v1.md) — awesome-gpt-image-2 \#264
+- [荧光粉绿 Y2K 彩妆产品广告 · v1](../cases/case-awesome-gpt-image-2-264-a7ce2d1f3930/v1.md) — awesome-gpt-image-2 \#264
 
 原图文案例 · gpt-image
 
@@ -314,7 +314,7 @@ Catchphrase: "Dialogue here"
 
 **输出示例图**
 
-<img src="../images/0a811232d916ea9427a8da642fda422a8d35850747b3b42030bfe3c70fa3d137.jpg" alt="美妆产品广告图" width="760">
+<img src="../images/0a811232d916ea9427a8da642fda422a8d35850747b3b42030bfe3c70fa3d137.jpg" alt="荧光粉绿 Y2K 彩妆产品广告" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

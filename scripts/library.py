@@ -146,11 +146,32 @@ def _light_retrieval(value):
     }
 
 
+def _display_title(entry):
+    retrieval = entry.get("retrieval") or {}
+    if retrieval.get("status") != "unreviewed" and retrieval.get("title"):
+        return retrieval["title"]
+    return entry.get("title", entry.get("case_id", ""))
+
+
+def _legacy_observation(value):
+    """Keep positive legacy visual observations without indexing diagnostics."""
+    text = " ".join(str(value or "").split())
+    markers = ("审核只涉及", "本次核对", "已实际看", "已查看", "已通读", "已阅读全文",
+               "已复核", "已机械读取", "不代表", "尚不能确认", "不能确认", "但原始",
+               "This phrase", "The required", "Required input", "not visually assessed")
+    positions = [text.find(marker) for marker in markers if text.find(marker) >= 0]
+    if positions:
+        text = text[:min(positions)]
+    return text.strip(" ；;，,")
+
+
 def _light_entry(root, entry):
     """Keep search/catalog records small; exact source evidence remains in show()."""
     item = {key: copy.deepcopy(value) for key, value in entry.items()
             if key not in {"evidence", "asset_roles", "review_note", "prompt", "prompt_variants",
                            "retrieval", "effective_labels"}}
+    item["source_title"] = entry.get("source_title", entry.get("title", ""))
+    item["title"] = _display_title(entry)
     item["review_summary"] = " ".join(str(entry.get("review_note") or entry.get("review_summary") or "").split())[:240]
     item["source_evidence"] = _source_references(entry.get("source_evidence", []))
     retrieval = entry.get("retrieval") or _default_retrieval()
@@ -442,7 +463,8 @@ def _render_version(root, content):
     metadata = _case_metadata(root, content["case_id"], content["version"])
     prompt = content["prompt"]
     fence = "`" * max(3, max((len(m.group(0)) + 1 for m in re.finditer(r"`+", prompt)), default=3))
-    title = " ".join(str(content.get("title", content["case_id"])).split())
+    title = " ".join(str(_display_title({"case_id": content["case_id"], "title": content.get("title", content["case_id"]),
+                                           "retrieval": metadata.get("retrieval")})).split())
     change_labels = {"initial archive": "首次收录", "original prompt changed": "原始提示词变化",
                      "asset bytes, order, or roles changed": "图片或资源排列变化",
                      "known model changed": "模型信息变化", "generation parameters changed": "生成参数变化",
@@ -555,6 +577,8 @@ def _rebuild(root):
         entry["effective_labels"] = _effective_labels(entry, corrections)
         for field in RETRIEVAL_LABEL_FIELDS:
             entry[field] = entry["effective_labels"][field]
+        entry["source_title"] = header["title"]
+        entry["title"] = _display_title(entry)
         entries.append(entry)
     catalog = {"schema_version": SCHEMA_VERSION, "case_count": len(entries),
                "cases": [_light_entry(root, entry) for entry in entries]}
@@ -821,6 +845,8 @@ def show(root, case_id, version=None):
     content["styles"] = corrections.get("styles", classification["styles"])
     content["scenes"] = corrections.get("scenes", classification["scenes"])
     content["effective_labels"] = _effective_labels(content, corrections)
+    content["source_title"] = content.get("title", "")
+    content["title"] = _display_title(content)
     content["requested_case_id"] = requested_id
     content["requested_version"] = requested_version
     for asset in content["assets"]:
@@ -834,7 +860,7 @@ def show(root, case_id, version=None):
 
 def query(root, keywords=None, category=None, tags=None, limit=20, full_text=False, favorites=False, *,
           model_family=None, artist=None, movement=None, material=None, record_type=None, review_status=None,
-          preferred_tags=None):
+          preferred_tags=None, include_source=False):
     """Search light metadata by default; --full-text explicitly reads prompts.
 
     All keyword terms must match; category is exact after alias normalization.
@@ -891,15 +917,20 @@ def query(root, keywords=None, category=None, tags=None, limit=20, full_text=Fal
                 ("retrieval.aliases", " ".join(retrieval.get("aliases", [])), 90),
                 ("retrieval.keywords", " ".join(retrieval.get("keywords", [])), 85),
                 ("retrieval.description", retrieval.get("description", ""), 75),
+                ("legacy.observation", _legacy_observation(entry.get("review_summary"))
+                 if retrieval.get("status", "unreviewed") == "unreviewed" else "", 30),
                 ("effective_labels", " ".join(effective_values), 60),
                 ("personal.notes", " ".join(note_texts), 45),
                 ("case_id", entry["case_id"], 35),
                 ("source.name", " ".join(entry.get("sources", [])), 20),
-                ("source.evidence", json.dumps(entry.get("source_evidence", []), ensure_ascii=False), 15),
-                ("metadata.evidence", json.dumps(entry.get("evidence", []), ensure_ascii=False), 10),
             ]
             if retrieval.get("status", "unreviewed") == "unreviewed":
                 fields.append(("source.title", " ".join([entry.get("title", ""), *entry.get("title_aliases", [])]), 25))
+            if include_source:
+                fields.extend([
+                    ("source.evidence", json.dumps(entry.get("source_evidence", []), ensure_ascii=False), 15),
+                    ("metadata.evidence", json.dumps(entry.get("evidence", []), ensure_ascii=False), 10),
+                ])
             match = _matching_fields(groups, fields)
             if match is None and full_text:
                 content = _read(_case_dir(root, entry["case_id"]) / (entry["version"] + ".json"))
@@ -1175,6 +1206,7 @@ def main(argv=None):
     q.add_argument("--category")
     q.add_argument("--tag", action="append", default=[])
     q.add_argument("--preferred-tag", action="append", default=[])
+    q.add_argument("--include-source", action="store_true", help="Include source evidence text in keyword matching")
     q.add_argument("--limit", type=int, default=20)
     q.add_argument("--full-text", action="store_true")
     q.add_argument("--favorites", action="store_true")
@@ -1211,7 +1243,7 @@ def main(argv=None):
         result = query(args.root, args.keywords, args.category, args.tag, args.limit, args.full_text, args.favorites,
                        **{field: getattr(args, field) for field in
                            ("model_family", "artist", "movement", "material", "record_type", "review_status")},
-                       preferred_tags=args.preferred_tag)
+                       preferred_tags=args.preferred_tag, include_source=args.include_source)
     elif args.command == "show":
         result = show(args.root, args.case_id, args.version)
     elif args.command == "validate":

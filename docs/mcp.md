@@ -10,7 +10,7 @@
 - 打开刚才那个案例的v1，给我完整原提示词。
 - 看看资料库有哪些分类和提示词模板。
 
-四个工具：`search_cases`（关键词/类别/标签/偏好标签/全文/收藏）、`get_case`（指定版本的完整原文和来源）、`get_case_image`（实际图片内容与原图链接）、`list_catalog`（分类、别名与模板）。关键词和必须标签为组合匹配，偏好标签只提高排序，不能把它称为视觉语义搜索；已支持model_family、artist、movement、material、record_type、review_status筛选，并显示资料类型、复核状态、有效标签和命中字段。
+四个工具：`search_cases`（关键词/类别/标签/偏好标签/全文/来源证据/收藏）、`get_case`（指定版本的完整原文和来源）、`get_case_image`（实际图片内容与原图链接）、`list_catalog`（分类、别名与模板）。关键词和必须标签为组合匹配，偏好标签只提高排序，`include_source` 才会加入来源证据文本；不能把它称为视觉语义搜索。已支持model_family、artist、movement、material、record_type、review_status筛选，并显示资料类型、复核状态、有效标签和命中字段。
 
 检索先返回轻量结果，再按ID和版本读取图文。每条结果带自有仓库commit；后续传入expected_commit可防重连后换快照。默认最新版本只指当前快照内的最新完整版本，指定不存在的vN会报错，不回退。
 

@@ -77,13 +77,13 @@ class LibrarySnapshot:
 
     def search_cases(self, keywords=None, category=None, tags=None, limit=10, full_text=False, favorites=False, *,
                      model_family=None, artist=None, movement=None, material=None, record_type=None, review_status=None,
-                     preferred_tags=None):
+                     preferred_tags=None, include_source=False):
         if isinstance(limit, bool) or not 1 <= limit <= 30:
             raise ValueError("limit must be between 1 and 30")
         items = library.query(self.root, keywords, category, tags, limit, full_text, favorites,
                               model_family=model_family, artist=artist, movement=movement, material=material,
                               record_type=record_type, review_status=review_status,
-                              preferred_tags=preferred_tags)
+                              preferred_tags=preferred_tags, include_source=include_source)
         for item in items:
             item.update(commit=self.commit, **self.version_links(item["case_id"], item["version"]))
             for version in item.get("versions", []):
@@ -183,12 +183,12 @@ def create_server(snapshot_dir, commit, repository_url, snapshot_status="local")
                      model_family: str | None = None, artist: str | None = None,
                      movement: str | None = None, material: str | None = None,
                      record_type: str | None = None, review_status: str | None = None,
-                     preferred_tags: list[str] | None = None) -> dict:
-        """Search archived cases; AND keywords/tags, preferred_tags only boost ranking, alias-aware categories, limit 1..30. No visual inference."""
+                     preferred_tags: list[str] | None = None, include_source: bool = False) -> dict:
+        """Search archived cases; AND keywords/tags, preferred_tags only boost ranking, include_source enables evidence text, alias-aware categories, limit 1..30. No visual inference."""
         return snapshot.search_cases(keywords, category, tags, limit, full_text, favorites,
                                      model_family=model_family, artist=artist, movement=movement, material=material,
                                      record_type=record_type, review_status=review_status,
-                                     preferred_tags=preferred_tags)
+                                     preferred_tags=preferred_tags, include_source=include_source)
 
     @server.tool(annotations=readonly)
     def get_case(case_id: str, version: str | None = None, expected_commit: str | None = None) -> dict:

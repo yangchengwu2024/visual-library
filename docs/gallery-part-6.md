@@ -1156,9 +1156,9 @@ CLEAR RESET 护肤网页首屏，人物、两件产品及统计卡在成品内�
 
 </details>
 
-## 品牌徽标设计图 · v1
+## 桌面积木房屋与产品包装场景 · v1
 
-- [品牌徽标设计图 · v1](../cases/case-awesome-gpt-image-2-143-1cad66916e41/v1.md) — awesome-gpt-image-2 \#143
+- [桌面积木房屋与产品包装场景 · v1](../cases/case-awesome-gpt-image-2-143-1cad66916e41/v1.md) — awesome-gpt-image-2 \#143
 
 原图文案例 · gpt-image
 
@@ -1168,7 +1168,7 @@ CLEAR RESET 护肤网页首屏，人物、两件产品及统计卡在成品内�
 
 **输出示例图**
 
-<img src="../images/528609836e8c6f99e91c0cd27ae98f7078d067c51e1f01f3821eaafd4ff41c20.jpg" alt="品牌徽标设计图" width="760">
+<img src="../images/528609836e8c6f99e91c0cd27ae98f7078d067c51e1f01f3821eaafd4ff41c20.jpg" alt="桌面积木房屋与产品包装场景" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
@@ -1179,9 +1179,9 @@ A photorealistic amateur photograph of a custom building block set resting on a 
 
 </details>
 
-## 主题海报版式设计 · v1
+## LUMIERE 金盖面霜与丝绸大理石底座广告 · v1
 
-- [主题海报版式设计 · v1](../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144
+- [LUMIERE 金盖面霜与丝绸大理石底座广告 · v1](../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144
 
 原图文案例 · gpt-image
 
@@ -1191,7 +1191,7 @@ LUMIERE 金盖面霜广告，丝绸及大理石底座明确。已实际看样图
 
 **输出示例图**
 
-<img src="../images/5dc31375e55cc0ceb8a8c64e6ee285f9242691c04b16d3142c80b60b32f02db3.jpg" alt="主题海报版式设计" width="760">
+<img src="../images/5dc31375e55cc0ceb8a8c64e6ee285f9242691c04b16d3142c80b60b32f02db3.jpg" alt="LUMIERE 金盖面霜与丝绸大理石底座广告" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
@@ -1382,9 +1382,9 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 </details>
 
-## 品牌徽标设计图 · v1
+## TOKYO HIGHBALL 海滩饮品广告 · v1
 
-- [品牌徽标设计图 · v1](../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150
+- [TOKYO HIGHBALL 海滩饮品广告 · v1](../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150
 
 原图文案例 · gpt-image
 
@@ -1394,7 +1394,7 @@ A {argument name="platform" default="Taobao"} product detail page for {argument 
 
 **输出示例图**
 
-<img src="../images/a3f4551bbf0e5b3da5eeb5d2a6c0125a193879c74cc8e2ea4b0512ca3a5698a4.jpg" alt="品牌徽标设计图" width="760">
+<img src="../images/a3f4551bbf0e5b3da5eeb5d2a6c0125a193879c74cc8e2ea4b0512ca3a5698a4.jpg" alt="TOKYO HIGHBALL 海滩饮品广告" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

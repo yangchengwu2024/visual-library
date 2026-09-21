@@ -42,7 +42,7 @@ class MCPFiltersTest(unittest.TestCase):
         server = create_server(self.root, "a" * 40, "https://github.com/example/library")
         definitions = asyncio.run(server.list_tools())
         search = next(item for item in definitions if item.name == "search_cases")
-        for field in ("model_family", "artist", "movement", "material", "record_type", "review_status", "preferred_tags"):
+        for field in ("model_family", "artist", "movement", "material", "record_type", "review_status", "preferred_tags", "include_source"):
             self.assertIn(field, search.inputSchema["properties"])
         response = asyncio.run(server.call_tool("search_cases", {"material": "Bronze"}))
         self.assertEqual(json.loads(response[0].text)["returned"], 0)

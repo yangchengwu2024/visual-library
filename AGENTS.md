@@ -5,7 +5,7 @@
 ## 检索与展示
 
 1. 先读 README；需要可点击的目录时用 docs/gallery.md，需要结构化检索时用 indexes/catalog.json；按需读取 metadata/taxonomy.json 与 indexes/templates.json。不要默认读全库长提示词或图片。
-2. 有终端时用 scripts/library.py query；中文需求拆成用途/风格/主体关键词，必要时 --full-text。默认优先使用已核对的 retrieval 标题、描述和有效标签；没有自有标注时才回退到来源标题和标签。`--tag` 表示必须满足，`--preferred-tag` 只用于排序偏好。query/show/validate 都不写库。
+2. 有终端时用 scripts/library.py query；中文需求拆成用途/风格/主体关键词，必要时 --full-text。默认优先使用已核对的 retrieval 标题、描述和有效标签；没有自有标注时才回退到来源标题、标签和已清理的旧画面观察。`--tag` 表示必须满足，`--preferred-tag` 只用于排序偏好；只有查来源证据时才使用 `--include-source`。query/show/validate 都不写库。
 3. 按候选案例 ID/版本读 vN.json 或 vN.md，再查看其 assets 中本库图片。没有看图就不要声称视觉匹配已验证。
 4. 返回案例编号、确切版本、图片和简短匹配理由。用户指定 v2 就读 v2，不能自动替换成最新。
 5. 完整提示词按源文保存，不自动删句、压缩或覆盖。需要改写时与原文分开。

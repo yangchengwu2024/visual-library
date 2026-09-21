@@ -1153,9 +1153,9 @@ Cool overhead fluorescent lighting with a slight greenish cast, flat frontal ill
 
 </details>
 
-## ROGUE VIPER 游戏概念设定板 · v1
+## ROGUE VIPER 游戏角色概念设定板 · v1
 
-- [ROGUE VIPER 游戏概念设定板 · v1](../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473
 
 原图文案例 · gpt-image
 
@@ -1165,7 +1165,7 @@ ROGUE VIPER 四区游戏概念板，角色三视和环境参考均是输出内�
 
 **输出示例图**
 
-<img src="../images/5c45b9c8011e3f34abc38ee54723533197e4ffa620c68b4cf8fc1e1c31886a82.jpg" alt="ROGUE VIPER 游戏概念设定板" width="760">
+<img src="../images/5c45b9c8011e3f34abc38ee54723533197e4ffa620c68b4cf8fc1e1c31886a82.jpg" alt="ROGUE VIPER 游戏角色概念设定板" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

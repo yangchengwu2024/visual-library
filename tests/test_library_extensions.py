@@ -103,7 +103,7 @@ class LibraryExtensionsTest(unittest.TestCase):
         self.assertEqual(shown["assets"][0]["role"], "output")
         self.assertEqual(shown["assets"][0]["source_role"], "example")
         self.assertEqual(len(library.query(self.root, "Collage")), 1)
-        self.assertEqual(len(library.query(self.root, "primary-evidence")), 2)
+        self.assertEqual(len(library.query(self.root, "primary-evidence", include_source=True)), 2)
         self.assertEqual(library.query(self.root)[0]["matched_by"], ["structured_filters"])
         self.assertEqual(library.query(self.root, "required input"), [])
 
@@ -160,7 +160,7 @@ class LibraryExtensionsTest(unittest.TestCase):
                       prompt_variants={"en": long_prompt + " English variant"})
         self.ingest([record])
         catalog_item = library._read(self.root / "indexes/catalog.json")["cases"][0]
-        search_item = library.query(self.root, "Sidecar searchable marker", artist="Artist")[0]
+        search_item = library.query(self.root, "Sidecar searchable marker", artist="Artist", include_source=True)[0]
         full_text_item = library.query(self.root, "Only-in-original-prompt", full_text=True)[0]
         self.assertEqual(library.query(self.root, "Only-in-original-prompt"), [])
         for item in (catalog_item, search_item, full_text_item):
@@ -208,6 +208,7 @@ class LibraryExtensionsTest(unittest.TestCase):
         self.assertEqual(shown["retrieval"]["title"], "Distinct retrieval title")
         self.assertEqual(shown["effective_labels"]["categories"], ["Products"])
         self.assertEqual(library.query(self.root, "retrieval alias")[0]["case_id"], self.case_id)
+        self.assertEqual(library.query(self.root, "retrieval alias")[0]["title"], "Distinct retrieval title")
         self.assertEqual(library.query(self.root, category="Products")[0]["case_id"], self.case_id)
         self.assertEqual(library.query(self.root, tags=["Food"])[0]["case_id"], self.case_id)
         self.assertEqual(library.query(self.root, material="Glass")[0]["case_id"], self.case_id)
@@ -229,6 +230,15 @@ class LibraryExtensionsTest(unittest.TestCase):
         self.ingest([dict(self.record, metadata=metadata)])
         self.assertEqual(library.query(self.root, "diagnostic note"), [])
         self.assertEqual(library.query(self.root, review_status="needs_review")[0]["case_id"], self.case_id)
+
+    def test_legacy_positive_observation_survives_without_diagnostic_text(self):
+        metadata = {"review_status": "verified",
+                    "review_note": "城市地上地下剖面与双语编号模块。已通读完整归档指令；不代表生成复现。"}
+        self.ingest([dict(self.record, metadata=metadata)])
+        self.assertEqual(library.query(self.root, "城市地上地下")[0]["case_id"], self.case_id)
+        self.assertEqual(library.query(self.root, "不代表"), [])
+        self.assertEqual(library.query(self.root, "primary-evidence"), [])
+        self.assertEqual(library.query(self.root, "primary-evidence", include_source=True)[0]["case_id"], self.case_id)
 
     def test_preferred_tags_boost_without_filtering(self):
         first = dict(self.record, styles=["Warm"])

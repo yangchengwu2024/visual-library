@@ -32,7 +32,7 @@ python -B scripts/library.py show <案例编号> --version v1
 
 默认查询轻量元数据；关键词不够时使用 `--full-text` 查完整提示词。显示结果包含案例 ID 和版本，图片指向本仓库内文件。查询和展示不写入资料库。当前案例数量见索引中的 `case_count`，模板见 [模板索引](../indexes/templates.json)。
 
-默认查询轻量元数据；`--tag` 是必须满足的条件，`--preferred-tag` 只提高排序，不会排除其他案例。关键词不够时使用 `--full-text` 查当前版本完整提示词。结果中的 `matched_by` 会说明命中的检索层。
+默认查询轻量元数据；`--tag` 是必须满足的条件，`--preferred-tag` 只提高排序，不会排除其他案例。关键词不够时使用 `--full-text` 查当前版本完整提示词。`--include-source` 只在需要查来源 URL、证据摘录或诊断材料时使用。结果中的 `matched_by` 会说明命中的检索层。
 
 ## 分类
 

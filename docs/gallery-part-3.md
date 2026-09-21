@@ -29,9 +29,9 @@ A realistic photograph of a whiteboard with a highly detailed {argument name="ma
 
 </details>
 
-## 室内空间渲染图 · v1
+## 暗场闪光灯下维修街机的男子 · v1
 
-- [室内空间渲染图 · v1](../cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.md) — awesome-gpt-image-2 \#53
+- [暗场闪光灯下维修街机的男子 · v1](../cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.md) — awesome-gpt-image-2 \#53
 
 原图文案例 · gpt-image
 
@@ -41,7 +41,7 @@ A realistic photograph of a whiteboard with a highly detailed {argument name="ma
 
 **输出示例图**
 
-<img src="../images/3ccc35b5539b6aad543896dae4eb66a18d59c80261c330a756eea713e1ac9dd2.jpg" alt="室内空间渲染图" width="760">
+<img src="../images/3ccc35b5539b6aad543896dae4eb66a18d59c80261c330a756eea713e1ac9dd2.jpg" alt="暗场闪光灯下维修街机的男子" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

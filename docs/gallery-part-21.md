@@ -202,9 +202,9 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 
 </details>
 
-## Brutalist Freestyle 角色设定表 · v1
+## Brutalist Freestyle 角色设定表（需要角色参考图） · v1
 
-- [Brutalist Freestyle 角色设定表 · v1](../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512
 
 原图文案例 · gpt-image
 
@@ -214,7 +214,7 @@ Style: premium flat vector, minimalist travel poster, geometric illustration, ed
 
 **输出示例图**
 
-<img src="../images/4d73dc08d7116f0026753e0f58459aea7166bf45ecbb9bf38847a5cab3989a4f.jpg" alt="Brutalist Freestyle 角色设定表" width="760">
+<img src="../images/4d73dc08d7116f0026753e0f58459aea7166bf45ecbb9bf38847a5cab3989a4f.jpg" alt="Brutalist Freestyle 角色设定表（需要角色参考图）" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
@@ -231,9 +231,9 @@ Professional production sheet layout.  Extremely clean linework.  Cinematic conc
 
 </details>
 
-## 单色点缀旅行手账插画 · v1
+## 黑色线稿与单一蓝色点缀的旅行手账插画 · v1
 
-- [单色点缀旅行手账插画 · v1](../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513
+- [黑色线稿与单一蓝色点缀的旅行手账插画 · v1](../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513
 
 原图文案例 · gpt-image
 
@@ -243,7 +243,7 @@ Paris 黑色旅行涂鸦配少量蓝色，地点为可替换文本。已实际�
 
 **输出示例图**
 
-<img src="../images/f9ec3da74470962b67f6e8afb0ba8a97ee62a3c6ae380c6f006c1ca6a4b39166.jpg" alt="单色点缀旅行手账插画" width="760">
+<img src="../images/f9ec3da74470962b67f6e8afb0ba8a97ee62a3c6ae380c6f006c1ca6a4b39166.jpg" alt="黑色线稿与单一蓝色点缀的旅行手账插画" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

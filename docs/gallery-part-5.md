@@ -733,9 +733,9 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 </details>
 
-## 建筑空间场景图 · v1
+## 玻璃破碎中的哥特法阵少女 · v1
 
-- [建筑空间场景图 · v1](../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md) — awesome-gpt-image-2 \#120
+- [玻璃破碎中的哥特法阵少女 · v1](../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md) — awesome-gpt-image-2 \#120
 
 原图文案例 · gpt-image
 
@@ -745,7 +745,7 @@ A high-contrast, black-and-white illustration of an elderly man in a sharp suit,
 
 **输出示例图**
 
-<img src="../images/809990b45791fd5f476c941d704225c799f7c325c058fd59662f0fbc86c81934.jpg" alt="建筑空间场景图" width="760">
+<img src="../images/809990b45791fd5f476c941d704225c799f7c325c058fd59662f0fbc86c81934.jpg" alt="玻璃破碎中的哥特法阵少女" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

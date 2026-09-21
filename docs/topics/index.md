@@ -33,8 +33,8 @@
 ### brutalist · 3
 
 - [当代舞现场 Storyboard · v1](../../cases/case-awesome-gpt-image-2-413-800fbed5664f/v1.md) — awesome-gpt-image-2 \#413 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 
 ### mid-century modern · 2
 
@@ -43,8 +43,8 @@
 
 ### Y2K · 6
 
-- [室内空间渲染图 · v1](../../cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.md) — awesome-gpt-image-2 \#53 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [美妆产品广告图 · v1](../../cases/case-awesome-gpt-image-2-264-a7ce2d1f3930/v1.md) — awesome-gpt-image-2 \#264 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [暗场闪光灯下维修街机的男子 · v1](../../cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.md) — awesome-gpt-image-2 \#53 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [荧光粉绿 Y2K 彩妆产品广告 · v1](../../cases/case-awesome-gpt-image-2-264-a7ce2d1f3930/v1.md) — awesome-gpt-image-2 \#264 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [Y2K 金色时刻人像 · v1](../../cases/case-awesome-gpt-image-2-393-b5550ae3d493/v1.md) — awesome-gpt-image-2 \#393 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [鱼市追猫 CCD 街拍 · v1](../../cases/case-awesome-gpt-image-2-466-fe94a295f286/v1.md) — awesome-gpt-image-2 \#466 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [韩系春日 scrapbook 海报 · v1](../../cases/case-awesome-gpt-image-2-481-7cff58dd928f/v1.md) — awesome-gpt-image-2 \#481 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -144,9 +144,9 @@
 - [90 年代公寓场景参考板 · v1](../../cases/case-awesome-gpt-image-2-381-9efc20798ac2/v1.md) — awesome-gpt-image-2 \#381 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [冬季生存惊悚 Storyboard · v1](../../cases/case-awesome-gpt-image-2-422-7ee0ffbaff3e/v1.md) — awesome-gpt-image-2 \#422 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [铅笔素描时尚编辑插画 · v1](../../cases/case-awesome-gpt-image-2-430-cd07726e148a/v1.md) — awesome-gpt-image-2 \#430 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [双重曝光时尚肖像 · v1](../../cases/case-awesome-gpt-image-2-490-9bb292e87f8e/v1.md) — awesome-gpt-image-2 \#490 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [Rio 旅行票据纸雕立体海报 · v1](../../cases/case-awesome-gpt-image-2-527-52b3df89275e/v1.md) — awesome-gpt-image-2 \#527 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [红光干扰实验编辑人像海报 · v1](../../cases/case-awesome-gpt-image-2-534-cf66fd3365f0/v1.md) — awesome-gpt-image-2 \#534 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
@@ -188,7 +188,7 @@
 - [人物角色设定图 · v1](../../cases/case-awesome-gpt-image-2-27-6560ab3a32c6/v1.md) — awesome-gpt-image-2 \#27 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-51-29458e54b435/v1.md) — awesome-gpt-image-2 \#51 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [信息图可视化设计 · v1](../../cases/case-awesome-gpt-image-2-66-9699a72c928a/v1.md) — awesome-gpt-image-2 \#66 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [LUMIERE 金盖面霜与丝绸大理石底座广告 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [应用界面样机图 · v1](../../cases/case-awesome-gpt-image-2-156-491ce1b6c6a0/v1.md) — awesome-gpt-image-2 \#156 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [银河繁星点缀的冰蓝襦裙 · v1](../../cases/case-awesome-gpt-image-2-173-b57b487eb4ea/v1.md) — awesome-gpt-image-2 \#173 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [韩系极简氛围感少女写真 · v1](../../cases/case-awesome-gpt-image-2-187-bf860f04eaa8/v1.md) — awesome-gpt-image-2 \#187 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -211,13 +211,13 @@
 - [冬季生存惊悚 Storyboard · v1](../../cases/case-awesome-gpt-image-2-422-7ee0ffbaff3e/v1.md) — awesome-gpt-image-2 \#422 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [9-frame 时尚人像拼贴 · v1](../../cases/case-awesome-gpt-image-2-427-3e2b62b101fc/v1.md) — awesome-gpt-image-2 \#427 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [巴黎秋季时装插画 · v1](../../cases/case-awesome-gpt-image-2-458-c464c6274fcf/v1.md) — awesome-gpt-image-2 \#458 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [RCB 冠军混合媒介海报 · v1](../../cases/case-awesome-gpt-image-2-486-e2dbeb787076/v1.md) — awesome-gpt-image-2 \#486 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [双重曝光时尚肖像 · v1](../../cases/case-awesome-gpt-image-2-490-9bb292e87f8e/v1.md) — awesome-gpt-image-2 \#490 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [梦幻花冠仙境肖像 · v1](../../cases/case-awesome-gpt-image-2-500-4e563719cbbc/v1.md) — awesome-gpt-image-2 \#500 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [夏日牵手回眸电影肖像 · v1](../../cases/case-awesome-gpt-image-2-501-cbc0e9b8b4ee/v1.md) — awesome-gpt-image-2 \#501 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [涂鸦拉衣奔跑棚拍 · v1](../../cases/case-awesome-gpt-image-2-509-09743b0e0907/v1.md) — awesome-gpt-image-2 \#509 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [纸雕拼贴乡野人像 · v1](../../cases/case-awesome-gpt-image-2-524-4f89606a400f/v1.md) — awesome-gpt-image-2 \#524 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [酒红棚拍男士时尚肖像 · v1](../../cases/case-awesome-gpt-image-2-525-cdc2f40f8c94/v1.md) — awesome-gpt-image-2 \#525 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [云朵气球山脊旅行人像 · v1](../../cases/case-awesome-gpt-image-2-529-6bef901a0c3d/v1.md) — awesome-gpt-image-2 \#529 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -229,7 +229,7 @@
 - [羊毛毡国家微缩世界 · v1](../../cases/case-awesome-gpt-image-2-390-1ef8db420030/v1.md) — awesome-gpt-image-2 \#390 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [家庭旅行纸雕拼贴 · v1](../../cases/case-awesome-gpt-image-2-461-ea3a0aeb877a/v1.md) — awesome-gpt-image-2 \#461 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [粗糙涂鸦人像改图 · v1](../../cases/case-awesome-gpt-image-2-504-639918d9deb8/v1.md) — awesome-gpt-image-2 \#504 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [单色点缀旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [黑色线稿与单一蓝色点缀的旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
 ### foil · 1
 
@@ -353,7 +353,7 @@
 
 ### rubber · 3
 
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [工业橡胶管品牌造型渲染 · v1](../../cases/case-awesome-gpt-image-2-516-851557abfd8a/v1.md) — awesome-gpt-image-2 \#516 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [橡皮章旅行田野笔记海报 · v1](../../cases/case-awesome-gpt-image-2-538-23c59ef9e46c/v1.md) — awesome-gpt-image-2 \#538 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
@@ -381,7 +381,7 @@
 - [现代地铁工程信息图 · v1](../../cases/case-awesome-gpt-image-2-447-33189cbb5d51/v1.md) — awesome-gpt-image-2 \#447 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [电动巴士工程信息图 · v1](../../cases/case-awesome-gpt-image-2-494-0b95890e6bcf/v1.md) — awesome-gpt-image-2 \#494 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [黑桃国王递归扑克牌 · v1](../../cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.md) — awesome-gpt-image-2 \#502 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 
 ### stone · 20
 
@@ -401,7 +401,7 @@
 - [法式药妆商业分镜封面 · v1](../../cases/case-awesome-gpt-image-2-487-3b7465114e33/v1.md) — awesome-gpt-image-2 \#487 — 原图文案例；缺少必要输入图：请先查看详情并补齐参考图
 - [极简精品店全身时尚写真 · v1](../../cases/case-awesome-gpt-image-2-499-509609095838/v1.md) — awesome-gpt-image-2 \#499 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [夏日牵手回眸电影肖像 · v1](../../cases/case-awesome-gpt-image-2-501-cbc0e9b8b4ee/v1.md) — awesome-gpt-image-2 \#501 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [Guadalajara 复古电影旅行海报 · v1](../../cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.md) — awesome-gpt-image-2 \#515 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [曼哈顿公园水彩旅行插画 · v1](../../cases/case-awesome-gpt-image-2-523-293e282b3d57/v1.md) — awesome-gpt-image-2 \#523 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [地下档案馆暗黑概念海报 · v1](../../cases/case-awesome-gpt-image-2-537-bf46ae0637e9/v1.md) — awesome-gpt-image-2 \#537 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -429,7 +429,7 @@
 
 - [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-9-d2b83755af5e/v1.md) — awesome-gpt-image-2 \#9 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [封面排版设计图 · v1](../../cases/case-awesome-gpt-image-2-138-438051b2711b/v1.md) — awesome-gpt-image-2 \#138 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [LUMIERE 金盖面霜与丝绸大理石底座广告 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [银河繁星点缀的冰蓝襦裙 · v1](../../cases/case-awesome-gpt-image-2-173-b57b487eb4ea/v1.md) — awesome-gpt-image-2 \#173 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [唐朝贵妇遛粉色马甲异形工笔画 · v1](../../cases/case-awesome-gpt-image-2-174-5d36299d06ec/v1.md) — awesome-gpt-image-2 \#174 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [红绸幻化壮阔国潮羊城 · v1](../../cases/case-awesome-gpt-image-2-276-2e84a45cc103/v1.md) — awesome-gpt-image-2 \#276 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -454,7 +454,7 @@
 ### 大理石 · 6
 
 - [漫画分镜叙事设计 · v1](../../cases/case-awesome-gpt-image-2-60-9e822e1d9d72/v1.md) — awesome-gpt-image-2 \#60 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [LUMIERE 金盖面霜与丝绸大理石底座广告 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [VELORA 奢华香水广告海报 · v1](../../cases/case-awesome-gpt-image-2-367-419ef2cde770/v1.md) — awesome-gpt-image-2 \#367 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [骑士法师大战石像魔像 · v1](../../cases/case-awesome-gpt-image-2-395-50fb412453c6/v1.md) — awesome-gpt-image-2 \#395 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [可颂烘焙流程 Storyboard · v1](../../cases/case-awesome-gpt-image-2-419-413b548f6bb4/v1.md) — awesome-gpt-image-2 \#419 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -484,8 +484,8 @@
 - [应用界面样机图 · v1](../../cases/case-awesome-gpt-image-2-107-892980c107b7/v1.md) — awesome-gpt-image-2 \#107 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-117-85e19583cec6/v1.md) — awesome-gpt-image-2 \#117 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-124-4015857c981e/v1.md) — awesome-gpt-image-2 \#124 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [品牌徽标设计图 · v1](../../cases/case-awesome-gpt-image-2-143-1cad66916e41/v1.md) — awesome-gpt-image-2 \#143 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [品牌徽标设计图 · v1](../../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [桌面积木房屋与产品包装场景 · v1](../../cases/case-awesome-gpt-image-2-143-1cad66916e41/v1.md) — awesome-gpt-image-2 \#143 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [TOKYO HIGHBALL 海滩饮品广告 · v1](../../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [应用界面样机图 · v1](../../cases/case-awesome-gpt-image-2-161-5f8d58470e3c/v1.md) — awesome-gpt-image-2 \#161 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [春日禅意水墨群山海报 · v1](../../cases/case-awesome-gpt-image-2-223-fff207f7e4eb/v1.md) — awesome-gpt-image-2 \#223 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [日式温泉旅馆人像 · v1](../../cases/case-awesome-gpt-image-2-272-294a96d5e6d5/v1.md) — awesome-gpt-image-2 \#272 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -540,24 +540,24 @@
 
 ### 混凝土 · 9
 
-- [品牌徽标设计图 · v1](../../cases/case-awesome-gpt-image-2-36-d8bb6074ff3a/v1.md) — awesome-gpt-image-2 \#36 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [体育馆自拍：OpenAI 篮球品牌视觉 · v1](../../cases/case-awesome-gpt-image-2-36-d8bb6074ff3a/v1.md) — awesome-gpt-image-2 \#36 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [写实摄影风格创作 · v1](../../cases/case-awesome-gpt-image-2-154-e90e9d2e3f72/v1.md) — awesome-gpt-image-2 \#154 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [一张采用分层蒙太奇构图的电影海报 · v1](../../cases/case-awesome-gpt-image-2-275-9747d381ef17/v1.md) — awesome-gpt-image-2 \#275 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [NOIR 街头服饰 Campaign · v1](../../cases/case-awesome-gpt-image-2-344-a0291c56fadd/v1.md) — awesome-gpt-image-2 \#344 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [唱片公司楼梯间写真人像 · v1](../../cases/case-awesome-gpt-image-2-399-60ef4a857e9d/v1.md) — awesome-gpt-image-2 \#399 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [都市飞鸟街头肖像 · v1](../../cases/case-awesome-gpt-image-2-483-caa69c7e0757/v1.md) — awesome-gpt-image-2 \#483 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [霓虹涂鸦黑白人像 · v1](../../cases/case-awesome-gpt-image-2-484-6bd5a6f6b37f/v1.md) — awesome-gpt-image-2 \#484 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 
 ### 玻璃 · 30
 
 - [写实摄影风格创作 · v1](../../cases/case-awesome-gpt-image-2-56-409c8ca1363a/v1.md) — awesome-gpt-image-2 \#56 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [漫画分镜叙事设计 · v1](../../cases/case-awesome-gpt-image-2-60-9e822e1d9d72/v1.md) — awesome-gpt-image-2 \#60 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-61-2052e538a61b/v1.md) — awesome-gpt-image-2 \#61 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [建筑空间场景图 · v1](../../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md) — awesome-gpt-image-2 \#120 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [主题海报版式设计 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [品牌徽标设计图 · v1](../../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [玻璃破碎中的哥特法阵少女 · v1](../../cases/case-awesome-gpt-image-2-120-0264a2c1a925/v1.md) — awesome-gpt-image-2 \#120 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [LUMIERE 金盖面霜与丝绸大理石底座广告 · v1](../../cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.md) — awesome-gpt-image-2 \#144 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [TOKYO HIGHBALL 海滩饮品广告 · v1](../../cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.md) — awesome-gpt-image-2 \#150 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [琉璃透明画眉鸟飞舞羊城墨卷 · v1](../../cases/case-awesome-gpt-image-2-229-1805b49ed720/v1.md) — awesome-gpt-image-2 \#229 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [深夜便利店里的性感霓虹少女 · v1](../../cases/case-awesome-gpt-image-2-305-a12f4ff6702c/v1.md) — awesome-gpt-image-2 \#305 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [红蓝光影下的未来都市双重曝光青年 · v1](../../cases/case-awesome-gpt-image-2-314-79b969430666/v1.md) — awesome-gpt-image-2 \#314 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -575,7 +575,7 @@
 - [迪斯科镜面 3D App 图标 · v1](../../cases/case-awesome-gpt-image-2-444-fcc2d1e9de42/v1.md) — awesome-gpt-image-2 \#444 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [现代地铁工程信息图 · v1](../../cases/case-awesome-gpt-image-2-447-33189cbb5d51/v1.md) — awesome-gpt-image-2 \#447 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [品牌奶茶 KV 概念海报 · v1](../../cases/case-awesome-gpt-image-2-459-f842990bf506/v1.md) — awesome-gpt-image-2 \#459 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [企鹅造型包装结构板 · v1](../../cases/case-awesome-gpt-image-2-475-3597dcf846af/v1.md) — awesome-gpt-image-2 \#475 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [东京旅行 13 格视频封面 · v1](../../cases/case-awesome-gpt-image-2-493-b9de32d3fb52/v1.md) — awesome-gpt-image-2 \#493 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [薄荷玫瑰香水电商图 · v1](../../cases/case-awesome-gpt-image-2-519-ffd5a3366493/v1.md) — awesome-gpt-image-2 \#519 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
@@ -711,7 +711,7 @@
 ### 金属 · 27
 
 - [写实摄影风格图 · v1](../../cases/case-awesome-gpt-image-2-52-826ddb2ffb6e/v1.md) — awesome-gpt-image-2 \#52 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [室内空间渲染图 · v1](../../cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.md) — awesome-gpt-image-2 \#53 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [暗场闪光灯下维修街机的男子 · v1](../../cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.md) — awesome-gpt-image-2 \#53 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [动漫插画创作图 · v1](../../cases/case-awesome-gpt-image-2-113-6f9229fcecfe/v1.md) — awesome-gpt-image-2 \#113 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [写实摄影风格创作 · v1](../../cases/case-awesome-gpt-image-2-154-e90e9d2e3f72/v1.md) — awesome-gpt-image-2 \#154 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [电商商品展示设计 · v1](../../cases/case-awesome-gpt-image-2-157-c7cdd985cb4f/v1.md) — awesome-gpt-image-2 \#157 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -733,7 +733,7 @@
 - [迪斯科镜面 3D App 图标 · v1](../../cases/case-awesome-gpt-image-2-444-fcc2d1e9de42/v1.md) — awesome-gpt-image-2 \#444 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [奢华机械腕表技术图鉴 · v1](../../cases/case-awesome-gpt-image-2-449-0f4e3dec59c3/v1.md) — awesome-gpt-image-2 \#449 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [品牌奶茶 KV 概念海报 · v1](../../cases/case-awesome-gpt-image-2-459-f842990bf506/v1.md) — awesome-gpt-image-2 \#459 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [ROGUE VIPER 游戏概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [ROGUE VIPER 游戏角色概念设定板 · v1](../../cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.md) — awesome-gpt-image-2 \#473 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [双重曝光时尚肖像 · v1](../../cases/case-awesome-gpt-image-2-490-9bb292e87f8e/v1.md) — awesome-gpt-image-2 \#490 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [黑桃国王递归扑克牌 · v1](../../cases/case-awesome-gpt-image-2-502-12acf3fa2aa8/v1.md) — awesome-gpt-image-2 \#502 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [夜间手机光沙发肖像 · v1](../../cases/case-awesome-gpt-image-2-505-374d2e8afad3/v1.md) — awesome-gpt-image-2 \#505 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -1014,7 +1014,7 @@
 
 ### limited palette · 1
 
-- [单色点缀旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [黑色线稿与单一蓝色点缀的旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
 ### line art · 10
 
@@ -1047,8 +1047,8 @@
 - [旅游照水墨明信片 · v1](../../cases/case-awesome-gpt-image-2-445-d122dbf14890/v1.md) — awesome-gpt-image-2 \#445 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [巴黎秋季时装插画 · v1](../../cases/case-awesome-gpt-image-2-458-c464c6274fcf/v1.md) — awesome-gpt-image-2 \#458 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [单色水彩城市旅行海报 · v1](../../cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.md) — awesome-gpt-image-2 \#497 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
-- [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
-- [单色点缀旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+- [Brutalist Freestyle 角色设定表（需要角色参考图） · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [黑色线稿与单一蓝色点缀的旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [儿童故事书手绘头像 · v1](../../cases/case-awesome-gpt-image-2-522-567a152e8aad/v1.md) — awesome-gpt-image-2 \#522 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [粗粝手绘搭档肖像海报 · v1](../../cases/case-awesome-gpt-image-2-539-c5c77f1cba30/v1.md) — awesome-gpt-image-2 \#539 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 

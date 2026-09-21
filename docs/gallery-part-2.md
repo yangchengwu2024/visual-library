@@ -325,9 +325,9 @@ A {argument name="photography style" default="photorealistic portrait with shall
 
 </details>
 
-## 品牌徽标设计图 · v1
+## 体育馆自拍：OpenAI 篮球品牌视觉 · v1
 
-- [品牌徽标设计图 · v1](../cases/case-awesome-gpt-image-2-36-d8bb6074ff3a/v1.md) — awesome-gpt-image-2 \#36
+- [体育馆自拍：OpenAI 篮球品牌视觉 · v1](../cases/case-awesome-gpt-image-2-36-d8bb6074ff3a/v1.md) — awesome-gpt-image-2 \#36
 
 原图文案例 · gpt-image
 
@@ -337,7 +337,7 @@ A {argument name="photography style" default="photorealistic portrait with shall
 
 **输出示例图**
 
-<img src="../images/62fcb6b04e6c4de1f7119a6541114e6b95f0ff2c2d86869393c900ae55cf5c46.jpg" alt="品牌徽标设计图" width="760">
+<img src="../images/62fcb6b04e6c4de1f7119a6541114e6b95f0ff2c2d86869393c900ae55cf5c46.jpg" alt="体育馆自拍：OpenAI 篮球品牌视觉" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
