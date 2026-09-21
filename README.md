@@ -24,11 +24,11 @@
 </tr>
 <tr>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-photo.md"><img src="assets/category-covers/photo.jpg" alt="摄影与写实" width="220"></a><br><a href="docs/categories/cat-photo.md"><strong>摄影与写实</strong></a><br><sub>77 条资料</sub><br>人像、手机纪实、胶片质感和商业摄影。</td>
-<td width="33%" align="center" valign="top"><a href="docs/categories/cat-illustration.md"><img src="assets/category-covers/illustration.jpg" alt="插画与艺术" width="220"></a><br><a href="docs/categories/cat-illustration.md"><strong>插画与艺术</strong></a><br><sub>80 条资料</sub><br>插画、艺术风格、材质实验和装饰画面。</td>
+<td width="33%" align="center" valign="top"><a href="docs/categories/cat-illustration.md"><img src="assets/category-covers/illustration.jpg" alt="插画与艺术" width="220"></a><br><a href="docs/categories/cat-illustration.md"><strong>插画与艺术</strong></a><br><sub>79 条资料</sub><br>插画、艺术风格、材质实验和装饰画面。</td>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-character.md"><img src="assets/category-covers/character.jpg" alt="人物与角色" width="220"></a><br><a href="docs/categories/cat-character.md"><strong>人物与角色</strong></a><br><sub>31 条资料</sub><br>角色设定、动作参考、卡牌和 3D 玩具。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="docs/categories/cat-scene.md"><img src="assets/category-covers/scene.jpg" alt="场景与叙事" width="220"></a><br><a href="docs/categories/cat-scene.md"><strong>场景与叙事</strong></a><br><sub>21 条资料</sub><br>分镜、故事场景、直播画面和世界观叙事。</td>
+<td width="33%" align="center" valign="top"><a href="docs/categories/cat-scene.md"><img src="assets/category-covers/scene.jpg" alt="场景与叙事" width="220"></a><br><a href="docs/categories/cat-scene.md"><strong>场景与叙事</strong></a><br><sub>22 条资料</sub><br>分镜、故事场景、直播画面和世界观叙事。</td>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-history.md"><img src="assets/category-covers/history.jpg" alt="历史与古风题材" width="220"></a><br><a href="docs/categories/cat-history.md"><strong>历史与古风题材</strong></a><br><sub>16 条资料</sub><br>古风长卷、历史人物、传统题材和诗词画面。</td>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-document.md"><img src="assets/category-covers/document.jpg" alt="文档与出版物" width="220"></a><br><a href="docs/categories/cat-document.md"><strong>文档与出版物</strong></a><br><sub>11 条资料</sub><br>白皮书、手册、百科图鉴和出版页设计。</td>
 </tr>

@@ -69,5 +69,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "玻璃破碎中的哥特法阵少女",
+    "aliases": ["玻璃碎裂奇幻插画", "哥特城景法阵", "金发少女法术场景"],
+    "description": "奇幻叙事插画：金发少女蹲姿穿过破碎玻璃施法，紫色法阵、哥特城市和玻璃碎片共同构成画面。",
+    "keywords": ["奇幻", "哥特", "法阵", "玻璃碎片", "少女", "叙事插画"],
+    "effective_labels": {
+      "categories": ["场景与叙事"],
+      "styles": ["插画", "奇幻"],
+      "scenes": ["奇幻", "哥特城市"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看金发少女、破碎玻璃、紫色法阵和哥特城景。"},
+      {"basis": "prompt_review", "field": "effective_labels.scenes", "value": "奇幻", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始 prompt 与画面支持奇幻叙事场景；食品饮品不是有效场景。"}
+    ]
+  }
 }
