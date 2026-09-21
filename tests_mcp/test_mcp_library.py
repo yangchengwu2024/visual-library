@@ -160,6 +160,12 @@ class MCPLibraryTest(unittest.TestCase):
         image_schema = next(tool.inputSchema for tool in tools if tool.name == "get_case_image")
         self.assertIn("expected_commit", image_schema["properties"])
 
+    def test_server_setup_receives_live_snapshot_instance(self):
+        received = []
+        create_server(self.root, COMMIT, REPOSITORY, snapshot_setup=received.append)
+        self.assertEqual(len(received), 1)
+        self.assertIsInstance(received[0], LibrarySnapshot)
+
 
 if __name__ == "__main__":
     unittest.main()

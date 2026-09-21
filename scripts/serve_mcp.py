@@ -137,9 +137,14 @@ def main():
         print(json.dumps({'snapshot': str(snapshot), 'commit': commit, 'snapshot_status': status}))
         return
     # Always run the installed code, never code from the downloaded data snapshot.
-    attach_auto_refresh(snapshot, args.cache_root, args.repository_url)
     from mcp_library import create_server
-    server = create_server(snapshot, commit, args.repository_url.removesuffix('.git'), snapshot_status=status)
+    server = create_server(
+        snapshot,
+        commit,
+        args.repository_url.removesuffix('.git'),
+        snapshot_status=status,
+        snapshot_setup=lambda current: attach_auto_refresh(current, args.cache_root, args.repository_url),
+    )
     server.run(transport='stdio')
 
 
