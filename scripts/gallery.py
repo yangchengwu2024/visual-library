@@ -96,7 +96,8 @@ def _html_text(value):
 
 
 def _image(path, document, title, width):
-    relative = html.escape(_relative_link(path, document), quote=True)
+    target = path if str(path).startswith("https://") else _relative_link(path, document)
+    relative = html.escape(target, quote=True)
     return '<img src="' + relative + '" alt="' + _html_text(title) + '" width="' + str(width) + '">'
 
 
@@ -233,9 +234,11 @@ def _contents(root, entries):
                 _relative_link(relative, "docs/gallery.md")
                 if (root / relative).is_file():
                     assets.append(asset)
+            elif asset.get("remote_url", "").startswith("https://"):
+                assets.append(asset)
         content["local_assets"] = assets
         preferred = [asset for asset in assets if asset.get("role") in {"output", "example"}] or assets
-        content["cover"] = preferred[0]["path"] if preferred else None
+        content["cover"] = (preferred[0].get("path") or preferred[0].get("remote_url")) if preferred else None
         result[entry["case_id"]] = content
     return result
 
@@ -250,7 +253,8 @@ def _case_section(entry, content, document):
         lines += [_text(entry["review_note"]), ""]
     for asset in content.get("local_assets", []):
         role = {"input": "输入参考图", "output": "输出示例图", "example": "示例图", "reference": "风格参考图"}.get(asset.get("role"), "图片角色尚未确认")
-        lines += ["**" + role + "**", "", _image(asset["path"], document, title, 760), ""]
+        image_ref = asset.get("path") or asset.get("remote_url")
+        lines += ["**" + role + "**", "", _image(image_ref, document, title, 760), ""]
     prompt = content.get("prompt")
     if isinstance(prompt, str):
         fence = "`" * max(3, max((len(match.group(0)) + 1 for match in re.finditer(r"`+", prompt)), default=3))

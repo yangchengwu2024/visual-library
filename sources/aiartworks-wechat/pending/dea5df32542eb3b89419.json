@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bmc1E-noJuOJIvZTg-705c698660aa",
+  "fingerprint": "2952fa914c79f108ab57b45be2e694ccd23297e9b78eed8d845fc3981b5503c4",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "n8xbxq5",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "prompt": "Nascio personification of the act of birth in the style of Mad Magazine Comics --ar 2:3 --style raw --profile n8xbxq5 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA:prompt-0009",
+    "source_metadata": {
+      "article_index": 262,
+      "article_title": "Vol.78 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1736130636,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491058&idx=1&sn=f6499f66352649f7a8e48fde069ea67a&chksm=96d2bb0f5dc6b6ec73c7f08497627f6646aca9bdfa0bbfee9ba6dd3cc859cd82606c9c47ce2f#rd",
+    "title": "Vol.78 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491058&idx=1&sn=f6499f66352649f7a8e48fde069ea67a&chksm=96d2bb0f5dc6b6ec73c7f08497627f6646aca9bdfa0bbfee9ba6dd3cc859cd82606c9c47ce2f#rd"
+  },
+  "source_id": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA:prompt-0009",
+  "status": "pending",
+  "title": "Vol.78 - Midjourney | 精选作品关键词提示 · 提示词 10"
+}

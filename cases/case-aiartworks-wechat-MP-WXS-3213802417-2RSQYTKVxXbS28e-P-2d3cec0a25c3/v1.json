@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZFHZy6zxjsguvJKotTibABCysfmCulgn5SXDDuLcWGYdv5GXetQhM9Tg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZ6V0y2YYwicbaP3jlP8hW7FQt9ibypKiaBcVgiceJN3Y8VjPqxBVLmejU3Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2RSQYTKVxXbS28e-P-2d3cec0a25c3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "320c7439578e7469572427b4cc0122bc54846a47d4cfbc3040f2540257f22187",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "a surreal cosmic void filled with floating objects, black starry sky background, one large glowing white spiral vortex, one giant floating human eye, one antique pocket watch suspended in zero gravity, soft surreal mist on the ground, black and white, poster illustration style, minimalist composition, each object clearly separated, ultra high resolution --ar 2:3 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZFHZy6zxjsguvJKotTibABCysfmCulgn5SXDDuLcWGYdv5GXetQhM9Tg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZ6V0y2YYwicbaP3jlP8hW7FQt9ibypKiaBcVgiceJN3Y8VjPqxBVLmejU3Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g:prompt-0004",
+    "source_metadata": {
+      "article_index": 55,
+      "article_title": "Vol.277 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1761694232,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 4,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd",
+    "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

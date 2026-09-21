@@ -1,0 +1,110 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1ZMxlWc-RtwXxKlTx-73a10e616d45",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHjpudfpZMjO2TCZYj1BJfWKVOjnT6icZmVLxj4DxugWMwTM7VUSpNIMA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWH4vnoQEwtMPKDCib3DribCEr8Jnricw1fXjRA0m5qiah3U80iaeicmCcRUOQA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHEiacNSUraZYJnNOlSRPSYruXpAXuXs0Cick4QM5v3ksIibdCj1Dxm3zrQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHsINc7Ohl6yOCt3BARu39riaUhIUFIPU1ncmnLspUk3jU1cTBXmn3J0A/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHgG0swtfA4eWtNpEVnxDpg9urBLe5GC7rzVFzTaExiaSRicRzlkuTIibDw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHr0YwU9pYYstIWdIEt5OpVq3D4QwxYKVjWic4yAWf2IdDOjJCxkzq6aQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHFU3xFO1Sp8icE3tapRKHXCTtMQvfaGSx7dhpDJ3RG5rggGUicSR8sFQQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHXdZ6lHSEic9SyWPnVpPjBuBhcjDpt1eicuHnLt8P6K0CYfUBPTSayGRg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-7"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfOYgyTZ8hv1SKhLKAricJ2YRV9mXlCLCib5NjRG2sE0wSrmlia8ruZRdibfiaIkezu1a94wwOjAPtKhjA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-8"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHibqMJFEeRiafEMmnspJjCK56I0yIq3AKUjZjd4ElU9urUmLNgSJnNiclw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-9"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHDGKlK8iaKwKniaaA76qRRgbvu5khdNzcRlMFfwYBxen1GyyuZoiaDNT9w/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-10"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ:prompt-0021",
+      "source_metadata": {
+        "article_index": 62,
+        "article_title": "Vol.269 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1760058571,
+        "image_storage": "external_url",
+        "image_url_count": 11,
+        "prompt_index": 21,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 11
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd",
+      "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 22",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 22",
+  "title_aliases": [
+    "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 22"
+  ]
+}

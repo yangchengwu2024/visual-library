@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEzNTvGfQ6ntibz6rELZB6YboLblAvrZoqOG8NmtUQ7ctMyT8sSHkbhcOBlYibR15FjIrzlpe3PxjA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdEzNTvGfQ6ntibz6rELZB6Yz7a3fbTgibbQfn1ZvlhdmfWia4o28xc9oiaXXNlKO8R4B7bKiaKVSlPQvQ/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wvnpr6wZZXcYSyzpL-ce69043da928",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f78ce270243a3f34547c8123bd08f5203f5a46f887fd453f5f91de095137dcbf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "An awe-inspiring nighttime adventure scene featuring a bright yellow off-road vehicle parked on a rugged, rocky beach beneath a stunning Milky Way sky. The vibrant yellow color of the 4x4 vehicle contrasts dramatically against the cool, dark tones of the night and the rough texture of the stony terrain. Waves crash in the distance, their white foam illuminated faintly by starlight, adding a dynamic sense of nature’s energy to the tranquil environment. Above, the sky bursts to life with a vivid display of stars and the glowing arc of the Milky Way, stretching across the heavens in rich hues of violet, blue, and silver. The starlit sky bathes the scene in a soft celestial glow, highlighting the vehicle as a symbol of freedom, exploration, and the thrill of venturing into the unknown. This image captures the essence of wanderlust, solitude, and resilience the spirit of those who chase the stars and explore off the beaten path. Ideal for themes such as adventure travel, van life, overlanding, outdoor lifestyle, cosmic wonder, and stargazing retreats. Its cinematic composition makes it perfect for use in wallpapers, promotional posters, or digital stories centered on nature, night photography, or rugged outdoor journeys. --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEzNTvGfQ6ntibz6rELZB6YboLblAvrZoqOG8NmtUQ7ctMyT8sSHkbhcOBlYibR15FjIrzlpe3PxjA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdEzNTvGfQ6ntibz6rELZB6Yz7a3fbTgibbQfn1ZvlhdmfWia4o28xc9oiaXXNlKO8R4B7bKiaKVSlPQvQ/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 93,
+      "article_title": "Vol.239 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1754004650,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499307&idx=1&sn=54c6d46a697c30ccaf4a23cbc257d832&scene=58&subscene=0",
+    "title": "Vol.239 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499307&idx=1&sn=54c6d46a697c30ccaf4a23cbc257d832&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.239 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

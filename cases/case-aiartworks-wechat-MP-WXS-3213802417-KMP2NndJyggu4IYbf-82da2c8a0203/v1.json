@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5GibMMHVibyIdnI8TmerXwGMzPW3kXUjy9ibLMy41WCVzD1dsRS1c3Rx2Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KMP2NndJyggu4IYbf-82da2c8a0203",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "72dd9f65295e6795d9b97b0386376f0382cfc6b72a46568cbfac5c9908498f73",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true,
+    "stylize": "200"
+  },
+  "previous_version": null,
+  "prompt": "floating island, movie-themed scenery with vintage film projector, clapperboard, red cinema seats, film reels scattered, funkopop inspired environment, glossy plastic finish, semi-realistic 3D cartoon style, vibrant cinematic color scheme, collectible toy scenery, white background, no characters, only island visible --ar 3:4 --raw --stylize 200",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5GibMMHVibyIdnI8TmerXwGMzPW3kXUjy9ibLMy41WCVzD1dsRS1c3Rx2Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA:prompt-0002",
+    "source_metadata": {
+      "article_index": 104,
+      "article_title": "Vol.225 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751239870,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd",
+    "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

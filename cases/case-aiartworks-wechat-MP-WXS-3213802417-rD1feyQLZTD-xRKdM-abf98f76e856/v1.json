@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheAHzBiaDm01p0iaOdrkSqvYW4tt2Jv26uiboibicEzG6S83w9nd7QicE9ic0Sa2OpqCMCtyHRSK4m28aygw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rD1feyQLZTD~xRKdMq4wpg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rD1feyQLZTD-xRKdM-abf98f76e856",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "af873b38037815f41a91cdba9e6525c451e5ebf8c8d28249190cf72308513792",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A dynamic side-angle shot of a chubby marmot riding a rollercoaster. The marmot's fur is blowing wildly in the wind, its eyes wide open and mouth slightly agape, wearing an expression mixed with surprise and exhilaration. The rollercoaster track and sky blur into the background, creating a sense of speed and motion. The sunlight illuminates the marmot's golden fur, highlighting its fluffy texture. A playful, whimsical, and cinematic moment full of joy and excitement. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheAHzBiaDm01p0iaOdrkSqvYW4tt2Jv26uiboibicEzG6S83w9nd7QicE9ic0Sa2OpqCMCtyHRSK4m28aygw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rD1feyQLZTD~xRKdMq4wpg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rD1feyQLZTD~xRKdMq4wpg:prompt-0010",
+    "source_metadata": {
+      "article_index": 265,
+      "article_title": "Vol.76 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735874491,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rD1feyQLZTD~xRKdMq4wpg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490880&idx=1&sn=5bf60ffdb1921f39f380e674c80e0130&chksm=9689f922bfb92db31590a085686a1870547946023e24cf3c95a352b6d80fd5cf86c4877d325b#rd",
+    "title": "Vol.76 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490880&idx=1&sn=5bf60ffdb1921f39f380e674c80e0130&chksm=9689f922bfb92db31590a085686a1870547946023e24cf3c95a352b6d80fd5cf86c4877d325b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.76 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

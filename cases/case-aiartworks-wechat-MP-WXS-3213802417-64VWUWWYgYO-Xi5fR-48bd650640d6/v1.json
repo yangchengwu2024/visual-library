@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6GVWfdeXlDWsAanxic1tJqbBwO6nXy3V4X66J4X1u5ib7LhJHx6rnluVlw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-64VWUWWYgYO-Xi5fR-48bd650640d6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6481ab48c5114a0277559413c471567b50d11792831c8c398ecda9c19edbf19e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "6eeghto",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Japanese magazine cover, close-up portrait of a gentle-looking young woman with natural makeup, glowing afternoon sunlight, cozy layers (pink hoodie, wool coat), soft bokeh background, delicate handwritten magazine text 'JUN’S EYE', vintage editorial design inspired by POPEYE, Tokyo winter day, pastel filters, analog photo style --ar 2:3 --profile 6eeghto --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6GVWfdeXlDWsAanxic1tJqbBwO6nXy3V4X66J4X1u5ib7LhJHx6rnluVlw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 179,
+      "article_title": "Vol.153 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744165849,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0",
+    "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

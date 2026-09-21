@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWH5OibaqpVYUvwqB6ASZ9YNfxc2mlZIGrU00K6cPbYldB5Gf80HNiakcbg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1ZMxlWc-RtwXxKlTx-48d51a4c954f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e01a4b73112128c25c5a380bcf7f865c8d734a777da18bcbc312b8dbaa5c58be",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Extreme cinematic macro shot of a South Indian Tamil Nadu goldsmith striking a glowing red-hot gold bar on a small black iron anvil. One hand holds a small hammer, and the other grips boiling gold with iron tongs. The gold bar radiates intense heat, bursting with bright red and golden sparks flying in all directions. The goldsmith’s tanned hands glisten with sweat and soot, reflecting the molten glow. The atmosphere is filled with smoke haze, fiery embers, and shimmering light reflections. Captured in hyper-realistic cinematic macro photography, ultra-detailed textures, dramatic warm lighting, and shallow focus on the impact point --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWH5OibaqpVYUvwqB6ASZ9YNfxc2mlZIGrU00K6cPbYldB5Gf80HNiakcbg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 62,
+      "article_title": "Vol.269 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760058571,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd",
+    "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

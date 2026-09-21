@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBfWIVoIQaDCHPak99WgciaicqAh16LD0MkXmxJPiaz0tYGicbnsmamHbhfAKKkyIqTqbyWNVJk3F3iczB5wd7Cpvb8P1j8x82eqNq0/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-b8d7a18e2648",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0fbcc8dd535c2de75e5182634a001ae7c50468f3863582025ee4d38c77fe8f00",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "profile": "ajflprg",
+    "raw": true,
+    "stylize": "50",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "A modern photograph. A large, old, gnarled apple tree growing on barren, dry soil. Large, rotten brown apples hang from the branches. In the foreground, a young woman in a white, short-sleeved T-shirt and white jeans stands high up on a large white stepladder; with a paintbrush in her right hand, she is painting a large, rotten brown apple in a bright, vibrant grass green. Green paint is on the brush bristles, and the bristles are applying the green paint to the brown apple. Part of the apple is still rotten and brown; where she has already painted, the apple is green. The ladder is tall enough for her to comfortably reach and paint the apple. Background: a dramatic thunderstorm with dark gray, turbulent clouds. No illustration! No painting! Real apples! No spheres! --ar 2:3 --raw --profile ajflprg --stylize 50 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBfWIVoIQaDCHPak99WgciaicqAh16LD0MkXmxJPiaz0tYGicbnsmamHbhfAKKkyIqTqbyWNVJk3F3iczB5wd7Cpvb8P1j8x82eqNq0/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0001",
+    "source_metadata": {
+      "article_index": 11,
+      "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+      "association_confidence": "review",
+      "createTime": 1785627022,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+    "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 2",
+  "version": "v1"
+}

@@ -1,0 +1,92 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAGTYKNKrpnNviaPictbDoy8ibRmndbNOqLIsyeVjZTwicXenP9X8awokg7g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKA1LS60GmPefLn2hwA5S05icw6W0QlFnicddIKxHmFRhZ9xWjNd2pExnTg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKA3zdgicIHwvDRNLKPESq2LjMT8UesmJSlasWFsDqq0lkodBEKAIozibxg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAOqp2Niasy40nxnedVSj8vZ4uEiafsqNurb1Gphgxh7f86L6uLP8uN3ZQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKk-Kzv8U08-psNGR-65acfe050b8c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fab204ff97fd55168286920eb59d753a60e155192443f63dba9f2b64f750afa8",
+  "model": "Midjourney",
+  "parameters": {
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "This is a hyper-realistic glass artwork in the shape of an exquisite apple. Its design combines spring elements and natural vitality, like a vivid spring painting. The main body of the apple is made of transparent and light green glass, and the inside of the glass presents a three-dimensional spring pastoral landscape: on the green earth, trees have sprouted new buds, rivers meander and flow, and small ripples can be seen on the water. The scene inside the apple is clear and three-dimensional, showing the beauty of spring recovery, giving people infinite vitality and hope. A layer of warm gold glass coating is used on the top, shining with a soft metallic luster. The golden area not only presents the charm of the ripe apple, but also symbolizes the warmth of the spring sunshine on all things. The smooth mirror-like surface reflects delicate light and shadow, enhancing the exquisiteness of the apple. The branches and leaves are made of a combination of transparent and dark green glass. The branches are naturally curved, and the leaves show a new tender green color, with slightly curved edges and clear veins, as if a new leaf just picked from a spring tree. The apple is placed on an elegant transparent glass base, which is round in shape with smooth and rounded edges. The surface of the base shows a light green, which perfectly echoes the spring theme of the apple, and at the same time, it has a soft light and shadow texture under the light. The base is also engraved with delicate grass leaf patterns, which are vaguely visible inside, adding a spring atmosphere to the overall design. The lighting design is exquisite and delicate, with a beam of warm white light arranged on the top, gently illuminating the top of the apple, highlighting the luster and texture of its warm gold part, reminiscent of the bright sunshine in spring. The side projects a soft cold light, which enhances the freshness and layering of the spring scenery inside the apple. The base also refracts and reflects the delicate texture through the refraction and reflection of light, like the glimmer of spring morning dew, and the overall light and shadow effect is harmonious and unified. The background is pure white, without any superfluous decoration, making the whole work look more pure and bright, perfectly highlighting the details of the glass sculpture itself and the breath of life in spring. This work of art not only reflects the natural vitality of spring, but also presents a pure and dreamy visual effect with its transparent glass texture and fine carving, making people sigh at the perfect combination of nature and art. --stylize 750 --v 6.1 jie30752",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAGTYKNKrpnNviaPictbDoy8ibRmndbNOqLIsyeVjZTwicXenP9X8awokg7g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKA1LS60GmPefLn2hwA5S05icw6W0QlFnicddIKxHmFRhZ9xWjNd2pExnTg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKA3zdgicIHwvDRNLKPESq2LjMT8UesmJSlasWFsDqq0lkodBEKAIozibxg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAOqp2Niasy40nxnedVSj8vZ4uEiafsqNurb1Gphgxh7f86L6uLP8uN3ZQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw:prompt-0016",
+    "source_metadata": {
+      "article_index": 259,
+      "article_title": "Vol.81 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736389825,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 3
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491295&idx=1&sn=9ed3201134d6f64926013a68d1c46779&chksm=96e5d4176f93c39c3a48fee9aadacf1c5770935d13603fa7710c48a0831f22538a055b81c26e#rd",
+    "title": "Vol.81 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491295&idx=1&sn=9ed3201134d6f64926013a68d1c46779&chksm=96e5d4176f93c39c3a48fee9aadacf1c5770935d13603fa7710c48a0831f22538a055b81c26e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.81 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

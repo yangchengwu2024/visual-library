@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaLibUTTjXbTqZLmQQOxGfic1d0ycJiboSD1riaRZTtYXAF4exjXTtFaZsQoe8eFbAyaqCliahGHq22qg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qRanLm9kbAv1WC5Sf-76f2b634a8e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d7085f78a7c3624de195a322bd70a92106167c7bd833b035fd7ff00a29adaa56",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A egg made of transparent glass. Inside the egg, there is a tiny hill with green grass. A flock of lambs is grazing with their shepherd. On the top of the hill, a shiny cross is standing. The egg is standing on an altar table of a protestant church. It is surrounded by decorated easter egges --ar 2:3 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaLibUTTjXbTqZLmQQOxGfic1d0ycJiboSD1riaRZTtYXAF4exjXTtFaZsQoe8eFbAyaqCliahGHq22qg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 199,
+      "article_title": "Vol.138 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742524215,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd",
+    "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

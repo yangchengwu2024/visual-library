@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicxAoVOs4NENxZAd3h9AMOPDic79d9Dkv6S5v68ibRxraOeTCS0ibSZoA7cQDjf7sMv15jQqr8aWtyQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hD-LeUoICZ1wLpmwMegbBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hD-LeUoICZ1wLpmwM-412b6ab4e3c3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0d1479a8dd40291f1f50f9a4ab308d1509e24250184208643b29ce06e25cc962",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "jhejb9c"
+  },
+  "previous_version": null,
+  "prompt": "A hand-drawn colored pencil illustration on bright white paper in a soft, vintage storybook style. Three small, anthropomorphic mice walk in a gentle line across subtle grassy terrain, each holding a delicate cane and following the tail of the mouse ahead. They are upright yet charmingly mouse-like, with oversized pink ears, soft gray textured fur, and little round pink noses. Each wears a unique, whimsical accessory--such as a tiny sunhat, a vest, or a small cap--and all three wear simple dark sunglasses. Their eyes are softly shut or subtly hinted closed, conveying gentle blindness with innocence and charm. The ground is lightly sketched with soft green and pale blue pencil strokes for grass and texture. No detailed background--just soft atmosphere and breathing room. The overall tone is sweet, slightly humorous, and filled with classic children's book warmth, perfect for illustrating the rhyme \"Three Blind Mice.\" --profile jhejb9c",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicxAoVOs4NENxZAd3h9AMOPDic79d9Dkv6S5v68ibRxraOeTCS0ibSZoA7cQDjf7sMv15jQqr8aWtyQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hD-LeUoICZ1wLpmwMegbBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hD-LeUoICZ1wLpmwMegbBQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 113,
+      "article_title": "Vol.216 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750289457,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hD-LeUoICZ1wLpmwMegbBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498241&idx=1&sn=61f8b5c43c56f7f202902cbd924bacc5&chksm=96746128d31bef00eae2616f132c867437d1cab06475bcd9db87eea7a5d0b15f75503bab85ce#rd",
+    "title": "Vol.216 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498241&idx=1&sn=61f8b5c43c56f7f202902cbd924bacc5&chksm=96746128d31bef00eae2616f132c867437d1cab06475bcd9db87eea7a5d0b15f75503bab85ce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.216 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

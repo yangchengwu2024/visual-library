@@ -1,0 +1,112 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na51ia61WTNIEO2SIBXzibZ043Xld5ghoHBJJ0ypscs2iczpzhUn0YIK0pcA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAwIDWkPnXfpWghIltrINwEibqIkEvRTUWlelJwHrfVrOjn6ibticOaicIcA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAehrhGWPiarxpH7BCib0Wq3z61vgyGsRR5BH1dhQLlNslBYPPwjGMwCdw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5W9ju1mqVBmzrAFiaWCIposWytk0ZCRDxIHaEIj51GQtpLSpRDvwicA0w/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAcDKFj7BvK3JP8ibu01vsf3dAZayIJea0xAJrl05VDwnOnJNQ1lwKwRw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-4"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5KW24OuD8LqFhBcneWQ0te3JWYJcicCD1x9x1QVwyXamebQLzvjCbUmQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-5"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F-pXlZdwqzvC4xpuB-94ed31ee8f96",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "98b91c6dfb49814b0fd766bee9ce6979da7682f59d73ced0c5da83a0534d246c",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "10",
+    "profile": "3owh83i"
+  },
+  "previous_version": null,
+  "prompt": "A halftone collage from the 60s of a monster made of garbage --chaos 10 --profile 3owh83i",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na51ia61WTNIEO2SIBXzibZ043Xld5ghoHBJJ0ypscs2iczpzhUn0YIK0pcA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAwIDWkPnXfpWghIltrINwEibqIkEvRTUWlelJwHrfVrOjn6ibticOaicIcA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAehrhGWPiarxpH7BCib0Wq3z61vgyGsRR5BH1dhQLlNslBYPPwjGMwCdw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5W9ju1mqVBmzrAFiaWCIposWytk0ZCRDxIHaEIj51GQtpLSpRDvwicA0w/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAcDKFj7BvK3JP8ibu01vsf3dAZayIJea0xAJrl05VDwnOnJNQ1lwKwRw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-4"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5KW24OuD8LqFhBcneWQ0te3JWYJcicCD1x9x1QVwyXamebQLzvjCbUmQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-5"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA:prompt-0013",
+    "source_metadata": {
+      "article_index": 60,
+      "article_title": "Vol.271 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760484668,
+      "image_storage": "external_url",
+      "image_url_count": 6,
+      "prompt_index": 13,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd",
+    "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

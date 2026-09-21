@@ -1,0 +1,70 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F-pXlZdwqzvC4xpuB-2f2514c3c041",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5AnZuSoqnUBm386siaWicHHamw1pFIq6X9KlXBRXClPSPVx09csRZ2fVA/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aADsmSUaO2TWdhiaaVjSQfjd8X3XHxCT8Y4z6815dZibw22a0tfHj8LWyg/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5JHxA9XT6UM1OgNtmQkemFdxye86H8wpGic9JHKT4QjGR9kcopocFPTw/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-2"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA:prompt-0005",
+      "source_metadata": {
+        "article_index": 60,
+        "article_title": "Vol.271 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1760484668,
+        "image_storage": "external_url",
+        "image_url_count": 3,
+        "prompt_index": 5,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd",
+      "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 6",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "title_aliases": [
+    "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 6"
+  ]
+}

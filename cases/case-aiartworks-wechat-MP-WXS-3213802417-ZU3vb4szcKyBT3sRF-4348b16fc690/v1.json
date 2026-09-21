@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNfAmX0Uibs8UwupniaenG4xrw2GKJnwSEmB6cIWrSRj9CvKo1e85NbYeUQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZU3vb4szcKyBT3sRF-4348b16fc690",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8e3b729d7a9333654e81a74cee94066e735bbf95f6a02a436292ec484d8b7e26",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "bild eines Katzenkopfes auf weißem hintergrund. Katze ist weiß, langhaarig und hat blaue augen. --chaos 5 --ar 3:4 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNfAmX0Uibs8UwupniaenG4xrw2GKJnwSEmB6cIWrSRj9CvKo1e85NbYeUQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg:prompt-0007",
+    "source_metadata": {
+      "article_index": 108,
+      "article_title": "Vol.221 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750721460,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd",
+    "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

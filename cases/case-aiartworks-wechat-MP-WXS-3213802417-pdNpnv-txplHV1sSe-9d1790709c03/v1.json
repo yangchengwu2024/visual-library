@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdGJnZh58DR6BZyick1256Rcac3LdAsDcW3GIeQGdRgwXiaiax3peoH9fxG1MYAgsZZtf6vAuL3bUZw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pdNpnv-txplHV1sSe-9d1790709c03",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4135a989180126a0358c36efee2d6ea47665f3a8acd30fd45fc26889975450e2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Modern living room with Klein Blue walls (Pantone 19-4052 TCX), morning sunlight through floor-to-ceiling windows casting soft shadows, prominent white wall-mounted air conditioner with blue LED display occupying 40% of upper frame, pregnant woman (25% scale) reclining on mid-century sofa below, book resting on round belly, metallic AC vent reflections, Fujifilm Pro 400H color profile, architectural digest photography, 8k realism --ar 9:16 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdGJnZh58DR6BZyick1256Rcac3LdAsDcW3GIeQGdRgwXiaiax3peoH9fxG1MYAgsZZtf6vAuL3bUZw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ:prompt-0017",
+    "source_metadata": {
+      "article_index": 202,
+      "article_title": "Vol.136 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742351449,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495035&idx=1&sn=7017367d5db16c1ed3233b218b0f3506&scene=58&subscene=0",
+    "title": "Vol.136 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495035&idx=1&sn=7017367d5db16c1ed3233b218b0f3506&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.136 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

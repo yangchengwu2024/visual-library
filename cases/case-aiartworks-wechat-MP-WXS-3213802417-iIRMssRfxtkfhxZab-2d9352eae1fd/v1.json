@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDKIFjnicicDDZHDZAibDiaicbgeqp3ibXDhJaXhbEvFjT6ATNUflD9GaZZXzxicPxwzzhKpsbT357OgfPtpc8fPuAphbCibrUrM3xjibhU/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDGaOFPoPoia7icYO4MEAbdicnJ6Rnyh0lNcQG4DLJ4Wqf7gdzHk1kicQlOH65HjbnCEMOHc6Cq4UBFNDQVQ1aIyfAW2b3ldHk3pHM/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIRMssRfxtkfhxZab-2d9352eae1fd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d70e7d3a262fb46cd56db6ab661a97ff533f9a35a5d26fdba66d87a3352b21b5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Prompt: A hyper-realistic side profile portrait of a futuristic female cyborg. White and black glossy ceramic armor plates on the head and neck, intricate silver metal gears, ball joints, and braided steel cables. She has long flowing white hair peeking out from under the helmet. The front half of her face is human-like with pale porcelain skin, realistic pink lips, and a subtle blush. The upper half of her head is covered by a large, glossy black visor with subtle blue holographic digital codes and a small silver rectangular chip. The cybernetic jaw and chin are made of dark chrome. A bright red glossy mechanical shoulder piece is visible at the bottom. Pure white background, studio lighting, 8k resolution, highly detailed, cinematic, sci-fi concept art, octane render. --ar 9:16 --raw --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDKIFjnicicDDZHDZAibDiaicbgeqp3ibXDhJaXhbEvFjT6ATNUflD9GaZZXzxicPxwzzhKpsbT357OgfPtpc8fPuAphbCibrUrM3xjibhU/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDGaOFPoPoia7icYO4MEAbdicnJ6Rnyh0lNcQG4DLJ4Wqf7gdzHk1kicQlOH65HjbnCEMOHc6Cq4UBFNDQVQ1aIyfAW2b3ldHk3pHM/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A:prompt-0000",
+    "source_metadata": {
+      "article_index": 5,
+      "article_title": "Vol.327-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1787700637,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd",
+    "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0UobpaxqTG5bS4TnaOAveNz1iaicEY4zQ5r62xLR0wzZicibjYQaT8QWDxMd5S8A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1mazupHQHwezoh1U5-339716391ed1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2b9bcd10f86a13ee48e443d23120948d5f5fd2666944a681fd95d944f02c28ce",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "exp": "25",
+    "profile": "7bztxmg",
+    "raw": true,
+    "stylize": "600",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Clos-up in motion blur, of A futuristic a korean woman riding a sleek, high-tech hoverbike through a city on another planet. The bike is elegant, minimalist, and glows with subtle lights. The rider wears a long, stylish suit with gloves and goggles. The city background features alien architecture, tall organic-shaped buildings, glowing signs, and two moons in the sky. Wide-angle, cinematic lighting, ultra detailed, sci-fi fashion aesthetic, 8K --ar 2:3 --exp 25 --raw --profile 7bztxmg --stylize 600 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0UobpaxqTG5bS4TnaOAveNz1iaicEY4zQ5r62xLR0wzZicibjYQaT8QWDxMd5S8A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA:prompt-0013",
+    "source_metadata": {
+      "article_index": 146,
+      "article_title": "Vol.182 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1747103455,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496834&idx=1&sn=4e7e2b584663e4acc43c59e8e741e9d7&chksm=965ac41df5d64c718f78d22356eb63c9924359720c8fd57630c08366c81900721aaa4a9728d3#rd",
+    "title": "Vol.182 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496834&idx=1&sn=4e7e2b584663e4acc43c59e8e741e9d7&chksm=965ac41df5d64c718f78d22356eb63c9924359720c8fd57630c08366c81900721aaa4a9728d3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.182 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

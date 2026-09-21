@@ -1,0 +1,59 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Lg05bhJsgNIgB--Ob-94d024d769a3",
+  "fingerprint": "5d3b1ba488e40cffb184fb4c0bf2c033a73c6fdb19fed65401ee1c118739233f",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "personalize": "hn373xu",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "prompt": "A colorful Arctic tern, swimming in the sea, in the style of Hasselblad photography. The face is yellow and orange with black stripes on its head. It has white feathers around its neck that turn into blue at their ends --ar 3:4 --personalize hn373xu --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA:prompt-0001",
+    "source_metadata": {
+      "article_index": 304,
+      "article_title": "Vol.42 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1732536121,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd",
+    "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd"
+  },
+  "source_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA:prompt-0001",
+  "status": "pending",
+  "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 2"
+}

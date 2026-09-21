@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5sXRaQ7SQWCRwJekzv2hKDL8Z1mCd2KZGSic8aAgRiadfVRa08hqm7rAakgVT70DCZBKpiaYK6jUvw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-w8WwBNF57EA5bymqH-7266400e746e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e40ec135a4cc83ab9291369351b54f99df480f805cfec8dd1560b228645d4532",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "shadowy black silhouette with glowing white eyes and a glowing white smile, terrifying shadow silhouette, white background --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5sXRaQ7SQWCRwJekzv2hKDL8Z1mCd2KZGSic8aAgRiadfVRa08hqm7rAakgVT70DCZBKpiaYK6jUvw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA:prompt-0000",
+    "source_metadata": {
+      "article_index": 139,
+      "article_title": "Vol.190 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747970485,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497150&idx=1&sn=5a25e24ab686f03c339bff640fb174b2&scene=58&subscene=0",
+    "title": "Vol.190 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497150&idx=1&sn=5a25e24ab686f03c339bff640fb174b2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.190 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

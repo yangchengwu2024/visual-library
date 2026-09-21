@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBNaAHfaauGXUL7hDDubZZQ2ZHObIO4lO8ZvkrIo79OKLvof3ncJKaxg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBkYOwJlEWUAH00n6qVYnnUTRica9Y2tyHibK9wuBalda5E6sBhRTtYicTg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkyaRuQ5zW5lk2MaM-1bd3c63dd068",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "59e8df59f6639b7eb12155451adf8e95a84aa0387087b9988b0d1ff4c274ca2e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "minimalist studio portrait of a woman with wavy blonde hair just below the shoulder, natural skin texture, subtle makeup, golden hoop earrings, black high-neck outfit, sharp lighting, deep blue background and aA vicious Doberman dug snarling with jaws wide open, wearing custom diamond grillz covering its sharp teeth, each tooth shimmering with brilliant-cut diamonds, iced-out luxury hip-hop style, sleek black and tan fur gleaming under harsh studio lighting, muscular body exuding raw power, extravagant diamond-studded collar matching the grillz, surreal mix of danger and opulence, bold and intimidating yet glamorous, high-fashion photography aesthetic, crisp hyper-realistic textures, sparkling reflections on every jewel, dramatic contrast against a vivid all-red background, cinematic luxury portrait with street culture influence standing next to her --chaos 10 --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBNaAHfaauGXUL7hDDubZZQ2ZHObIO4lO8ZvkrIo79OKLvof3ncJKaxg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBkYOwJlEWUAH00n6qVYnnUTRica9Y2tyHibK9wuBalda5E6sBhRTtYicTg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q:prompt-0012",
+    "source_metadata": {
+      "article_index": 68,
+      "article_title": "Vol.263 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758848961,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500477&idx=1&sn=8b84412e2502f9d65d4c775faa295270&chksm=962487a17484810da408fb6d672ce996d9c4c8cf83dd1304f9f296b70ecb72b6c0fa3d562621#rd",
+    "title": "Vol.263 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500477&idx=1&sn=8b84412e2502f9d65d4c775faa295270&chksm=962487a17484810da408fb6d672ce996d9c4c8cf83dd1304f9f296b70ecb72b6c0fa3d562621#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.263 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

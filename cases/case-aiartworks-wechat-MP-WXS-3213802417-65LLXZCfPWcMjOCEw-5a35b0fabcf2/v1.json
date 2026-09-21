@@ -1,0 +1,91 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAfKDe39uTJ07hRrS11yiaFzyic4bzRXh9RGXiaJ0yJVWDrxqoKuRoQ7zHhXQiaqDBbWfpH1FyEjGKkhdZ76jtLr7oZJJVfpNZueDg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WB1xlticGdEFPoKgN7kicTia8kaLMO7Z93JEiaPsuHSHaa39QBZB3cSB5iaHGIlcLyCJdUiaXNVgnI8iazCK11GbGMfm3qIpmpxfRtuaA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-65LLXZCfPWcMjOCEw-5a35b0fabcf2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b58f94f6b2eee501c2785d4b0388806eef2acda4a590a4f64c64ce46c3d1984b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "100",
+    "hd": true,
+    "preview": true,
+    "profile": "ytjnlrv",
+    "sref": [
+      "6496769934"
+    ],
+    "stylize": "50",
+    "sw": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "love. Soft colour --ar 9:16 --exp 100 --sref 6496769934 --profile ytjnlrv --sw 50 --stylize 50 --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAfKDe39uTJ07hRrS11yiaFzyic4bzRXh9RGXiaJ0yJVWDrxqoKuRoQ7zHhXQiaqDBbWfpH1FyEjGKkhdZ76jtLr7oZJJVfpNZueDg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WB1xlticGdEFPoKgN7kicTia8kaLMO7Z93JEiaPsuHSHaa39QBZB3cSB5iaHGIlcLyCJdUiaXNVgnI8iazCK11GbGMfm3qIpmpxfRtuaA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 14,
+      "article_title": "Vol.318-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785022221,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd",
+    "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-67t-VGcbm0VDW9qVH-8d4b2fbaaf52",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefDIcVyAx6iciaw1Bq9VgfVYiboVTFC4ibN1wbWkthC6OvMsDj4FhEibnH5I20ByZ0pRfvibvE2AugjIAA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_67t-VGcbm0VDW9qVHIqE5g#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVEAPM9oJh2S1dyXsibxbFEbiaxKib8HnriaAr06SWNFCRWdz8Aib3HxaHu3A/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_67t-VGcbm0VDW9qVHIqE5g#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_67t-VGcbm0VDW9qVHIqE5g:prompt-0010",
+      "source_metadata": {
+        "article_index": 42,
+        "article_title": "Vol.290 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1766532671,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 10,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_67t-VGcbm0VDW9qVHIqE5g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504359&idx=1&sn=2344d0a857538171579c6325d1562b61&chksm=9668317ec040140f8eb691a022f434726cf5aa74317aa67e07a42296d1865474e3734e10366e#rd",
+      "title": "Vol.290 - Midjourney | 精选作品关键词提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504359&idx=1&sn=2344d0a857538171579c6325d1562b61&chksm=9668317ec040140f8eb691a022f434726cf5aa74317aa67e07a42296d1865474e3734e10366e#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.290 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "title_aliases": [
+    "Vol.290 - Midjourney | 精选作品关键词提示 · 提示词 11"
+  ]
+}

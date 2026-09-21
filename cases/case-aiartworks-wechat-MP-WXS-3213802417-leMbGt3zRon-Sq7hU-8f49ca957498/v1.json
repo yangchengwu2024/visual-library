@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShe7tBnBiaInCU3jmiasiajSzpv7xmU1cmzDzMTCiblpALRbV1tfb17knnbTOxE9FHYKxAFJ7ibILXwk5Jg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc16y1dD3Bcmq75AA0BI5qXUkRuRdkdtzp01rl2OpDpVa7kNAmtYBmd22cJtSs2ALOQUpjN1gpW1Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-leMbGt3zRon-Sq7hU-8f49ca957498",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "17560b4b74142ca99bd002f2e505d7d883e09d9c85fd463a1394fbc6055d5e41",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "kzilt9y"
+  },
+  "previous_version": null,
+  "prompt": "ANDREA ANTINORI STYLE,A cute CAT, gradual, abstract, disperse --profile kzilt9y",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShe7tBnBiaInCU3jmiasiajSzpv7xmU1cmzDzMTCiblpALRbV1tfb17knnbTOxE9FHYKxAFJ7ibILXwk5Jg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc16y1dD3Bcmq75AA0BI5qXUkRuRdkdtzp01rl2OpDpVa7kNAmtYBmd22cJtSs2ALOQUpjN1gpW1Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg:prompt-0011",
+    "source_metadata": {
+      "article_index": 85,
+      "article_title": "Vol.246 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1755473450,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd",
+    "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

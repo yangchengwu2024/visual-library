@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfukdK19ht4LNtYGShDrPJSeftG1Qibzcgz0AxagibWO9bCXKJ5vxic76quSH3orax3zqoRlnljZPWgA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_h8nByFqqg5cLErJSsBVPrQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorRpmcSIYttkVonpIiazR4kE39kEmAxo6fAC2c4jzWmGSBEk3ekelC9fQ/0?wx_fmt=other&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_h8nByFqqg5cLErJSsBVPrQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-h8nByFqqg5cLErJSs-65b1a648b1d9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "98ce92700cebf2e5b997ae059378f186f634d92e5dd947ed31dd057945b74751",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "57:62",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cute little girl with short black hair, wearing yellow overalls and white long sleeves is waving her hand happily. The background color of the illustration should be light beige. Flat vector illustrations in Japanese style, simple lines, simple details, minimalist art. She has pink cheeks and wears an orange beret on top of it. Her eyes have big eyelashes, she smiles sweetly, giving off warm vibes. --ar 57:62 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfukdK19ht4LNtYGShDrPJSeftG1Qibzcgz0AxagibWO9bCXKJ5vxic76quSH3orax3zqoRlnljZPWgA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_h8nByFqqg5cLErJSsBVPrQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorRpmcSIYttkVonpIiazR4kE39kEmAxo6fAC2c4jzWmGSBEk3ekelC9fQ/0?wx_fmt=other&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_h8nByFqqg5cLErJSsBVPrQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_h8nByFqqg5cLErJSsBVPrQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 339,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.09",
+      "association_confidence": "high",
+      "createTime": 1729217245,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_h8nByFqqg5cLErJSsBVPrQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485247&idx=1&sn=7bbe50a48e8d570ae935ab75889961a1&chksm=9652ef1fa809c8cc212c4cae37258c44498187eb102c705143e41a526f60a7f6572e3f700087#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.09 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485247&idx=1&sn=7bbe50a48e8d570ae935ab75889961a1&chksm=9652ef1fa809c8cc212c4cae37258c44498187eb102c705143e41a526f60a7f6572e3f700087#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.09 · 提示词 20",
+  "version": "v1"
+}

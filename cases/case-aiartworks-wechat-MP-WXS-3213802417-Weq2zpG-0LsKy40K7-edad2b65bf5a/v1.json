@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBp1pUVicLZIgYIIxuf6GbICm0ibA1kicUmg6AG2kyJNiasxTETzGbmNpyGyncJciao4fCYwWcgR3PERkOgnlD8PAvSH6W13DicAInvI/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBicL6j9UzBU6dZ6yrZibLSUuiaibTsFVLxibZquFBicXibX2zicAeySJoSHmCHkXyyOV9iays3qTf3ic6k2pricCxxlYG98I4069eApItf7g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-edad2b65bf5a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1edc520523d133fc82fed60dc8d3f0bf225172ea9fb68b58b7aba78dd8fbb72f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A blurry silhouette behind a bright opaque backlit surface, like a glowing veil. Entire background pure white and luminous. A feminine figure with long hair visible only as a soft shadow. A hand pressed against the surface, palm forward, with gentle diffuse contours. Ethereal, mysterious, dreamlike atmosphere, soft shadows, high-key lighting, minimalist composition, cinematic, surreal glow. a close-up photo of a light-skinned black woman with curly black hair, wearing hoop earrings, posing for a vogue fashion shoot. she has soft glam makeup, glossy lips, and a natural look. --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBp1pUVicLZIgYIIxuf6GbICm0ibA1kicUmg6AG2kyJNiasxTETzGbmNpyGyncJciao4fCYwWcgR3PERkOgnlD8PAvSH6W13DicAInvI/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBicL6j9UzBU6dZ6yrZibLSUuiaibTsFVLxibZquFBicXibX2zicAeySJoSHmCHkXyyOV9iays3qTf3ic6k2pricCxxlYG98I4069eApItf7g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0011",
+    "source_metadata": {
+      "article_index": 35,
+      "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1777851036,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+    "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

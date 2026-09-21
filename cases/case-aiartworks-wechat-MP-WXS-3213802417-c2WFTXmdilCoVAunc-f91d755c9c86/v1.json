@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqp8rwiaicvS1yYfJoXKsWy6IibSYHck84KzZdKMh1NHNuBOTqf401HJnicXA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c2WFTXmdilCoVAunc-f91d755c9c86",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "65fdef66bdc433757959708c219498f64fed5dd52c2e363d3e3e1ee990605a70",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Based on the \"Classic of Mountains and Seas\", a giant Yinglong flying in the sky and hovering over the sea of clouds is created. It is snow-white, with a strong body, lively eyes, majestic, delicate dragon beard and dragon head. Every detail is like a god, looking down at the tiny humans on the ground, extraordinary, energetic, and a sense of battle. In the evening, movie realism, 8K --ar 9:16 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqp8rwiaicvS1yYfJoXKsWy6IibSYHck84KzZdKMh1NHNuBOTqf401HJnicXA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q:prompt-0002",
+    "source_metadata": {
+      "article_index": 209,
+      "article_title": "Vol.130 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741746626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494683&idx=1&sn=ae36dd6737be2fffbd173f3e61367278&scene=58&subscene=0",
+    "title": "Vol.130 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494683&idx=1&sn=ae36dd6737be2fffbd173f3e61367278&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.130 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

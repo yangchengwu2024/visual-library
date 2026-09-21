@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qTZhmuvCv-35LLdES-09231ec0a534",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcvbhykRohusCX46GTRuGtVLU4PngZFGKO2ByRwsolXibPibPX7ZjQXM99IXfghA02Qm0Beemurt34g/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw:prompt-0003",
+      "source_metadata": {
+        "article_index": 97,
+        "article_title": "Vol.232 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1752622272,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 3,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499001&idx=1&sn=b9fcef5b1d26a728548e893bcef39bd7&chksm=96a304fa761c7d1786583d8976ad948f0a539074b4124b9d28ba70b624836acf6e90c4babefe#rd",
+      "title": "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499001&idx=1&sn=b9fcef5b1d26a728548e893bcef39bd7&chksm=96a304fa761c7d1786583d8976ad948f0a539074b4124b9d28ba70b624836acf6e90c4babefe#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "title_aliases": [
+    "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 4"
+  ]
+}

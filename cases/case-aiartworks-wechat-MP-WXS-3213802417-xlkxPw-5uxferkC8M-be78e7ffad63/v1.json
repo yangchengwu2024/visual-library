@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnISysp7yFaXDSQLlVD2kc2GAQ7rjJUdQJUEXwV8dOClU1dejJNEtxdicw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xlkxPw-5uxferkC8M-be78e7ffad63",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "631eefe9c29701cd14ef54802a9ecce9781131054cdc2496322866bf5179ead4",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "so8l645",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A medical-style photograph showing two lips side by side: on the left, a pair of dry, cracked lips with faint tears and rough patches, while on the right, smooth, hydrated lips, plump and healthy. The setting has a sterile, laboratory-like feel, with a clean, neutral-colored background. The lighting is crisp, illuminating both sets of lips equally to highlight the stark contrast between dryness and moisture. The focus is sharp on both lips, emphasizing the texture differences, creating a comparative visual that feels both clinical and analytical. --style raw --profile so8l645 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnISysp7yFaXDSQLlVD2kc2GAQ7rjJUdQJUEXwV8dOClU1dejJNEtxdicw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ:prompt-0018",
+    "source_metadata": {
+      "article_index": 250,
+      "article_title": "Vol.91 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1737426646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0",
+    "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

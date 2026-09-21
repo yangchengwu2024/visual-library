@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJHGxiconcAibppGV5LiaYWc4VqJZ4PXAvStS2tLyuKicJUC5HF9Xb1naMRQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5qVS5WWyq3VLY6ws--263f7980143f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3cc6dcd71e6baa578e447f6c865a5f8bae0a32016d0912ecd53851f5d7d7da2a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "personalize": "kzilt9y",
+    "quality": "2",
+    "sref": [
+      "680572301"
+    ],
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A car driving to a house on top of a mountain, --ar 2:3 --quality 2 --sref 680572301 --personalize kzilt9y --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJHGxiconcAibppGV5LiaYWc4VqJZ4PXAvStS2tLyuKicJUC5HF9Xb1naMRQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g:prompt-0010",
+    "source_metadata": {
+      "article_index": 341,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.05",
+      "association_confidence": "high",
+      "createTime": 1728876635,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484957&idx=1&sn=fb7ebbbf791fe85f0135d18769f7273e&chksm=962498552ae17fd573f352a2dadc4972e570747012fb27da3c23e623fbfede46a3e623f70d63#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.05 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484957&idx=1&sn=fb7ebbbf791fe85f0135d18769f7273e&chksm=962498552ae17fd573f352a2dadc4972e570747012fb27da3c23e623fbfede46a3e623f70d63#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.05 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,75 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIQ8TGJu6mhbbPICV-a22fcb6eea43",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WC7hvWcAOXgMiaNwfibhnE4gic6YlADbuIOhe3YdFuOWTxPK82POwcl14gGPgFCP4vUreAXtiaSxKkwvxMoibjZNicm6BKC8Mt5gxMgg/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCnFib7taBmW53mvzO8e1JJndLCQmCCWPaaNa0BxVXosqKzdd59lnic4ItiapqKpaIGo7v0YbeBlU9NU3wic00tct5B7wr8OqhuhW4/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCc10vDTSZ2nLftWBNUPMX2ia1iarOyMukQ5I6xiaA3XWbiapIwooQIYRGntvnuicy9wibvdbpngriaeaaXZviaVTNChf2t1By8Dz5jtPU/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBTU3wCKBzT2usoVwZ0wgJKNJJicK0sUG9gCKKjDTOqIydLUo1NdkOIcngiaggzOcOqs9g1NGeM0nTxa8BYOhAY62H3HIHkOCMA4/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-3"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ:prompt-0003",
+      "source_metadata": {
+        "article_index": 9,
+        "article_title": "Vol.323-Midjourney 精选作品提示词与赏析",
+        "association_confidence": "high",
+        "createTime": 1786145451,
+        "image_storage": "external_url",
+        "image_url_count": 4,
+        "prompt_index": 3,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 4
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0",
+      "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 4",
+  "title_aliases": [
+    "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 4"
+  ]
+}

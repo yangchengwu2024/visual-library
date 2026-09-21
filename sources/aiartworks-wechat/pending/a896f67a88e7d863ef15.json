@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-b8ca75cfa17a",
+  "fingerprint": "3589961104168213fe14485e1c6ac4c8e1d672ff2c31009ab4cfc9350a9b8ddf",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "sref": [
+      "870024435"
+    ],
+    "v": "6.1"
+  },
+  "prompt": "A dramatic misty shot of a tall Big Foot seen in the near distance - striding and leaning forward with great power as he walks, with his arms swinging. He is about 50 feet away from us and mostly hidden by the trees between us and him. He glances over at us furtively. He is partly hidden in a forest of immense massive Sequoia trees, dressed in elaborate traditional Monkey King make-up with an elaborate Chinese Opera cap and headdress and robes and headress. He has hairy feet and hands, like a Yeti but he is wearing sandals, with his hair bound up. He has a short white goatee and mustache and eyebrows. The rest of his beard and other hair is darker. His face area is painted with the elaborate patterns of white and red paint used in traditional Chinese Opera productions. He is glancing at us with suspicion. It is lightly raining and misty, like a rainforest. With finely detailed MANGA ink lines in the B&W GRAPHIC NOVEL character style of Frank Miller. --ar 2:3 --sref 870024435 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA:prompt-0008",
+    "source_metadata": {
+      "article_index": 215,
+      "article_title": "Vol.127 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1741401031,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0",
+    "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA:prompt-0008",
+  "status": "pending",
+  "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

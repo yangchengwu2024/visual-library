@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdnqPKVygibZ7FHtT4ZlAXQzZQNYibs0BJTKQ8zPBsKmC2huicO4em8l7JKRH0sQcQCYiaVhHtSPG0D6A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ox1j8sKa3sgpTBA0D-91d27215b50a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7dd9a1dbe97b8ef2bd40aebb0a9fdb75bd95ed117d54970b36583a47b9d8810c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cute cat's head hides behind the newspaper and shows its head, Photorealistic, Close up, --ar 1:1 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdnqPKVygibZ7FHtT4ZlAXQzZQNYibs0BJTKQ8zPBsKmC2huicO4em8l7JKRH0sQcQCYiaVhHtSPG0D6A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw:prompt-0019",
+    "source_metadata": {
+      "article_index": 312,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.35",
+      "association_confidence": "high",
+      "createTime": 1731810031,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487179&idx=1&sn=7ed71e34c3296f98dfd31645d07a336f&chksm=9622fed3689121b122faf932e3a737c4ee1a153850b501f49a799334f9f0c8869fe08d47f61e#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.35 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487179&idx=1&sn=7ed71e34c3296f98dfd31645d07a336f&chksm=9622fed3689121b122faf932e3a737c4ee1a153850b501f49a799334f9f0c8869fe08d47f61e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.35 · 提示词 20",
+  "version": "v1"
+}

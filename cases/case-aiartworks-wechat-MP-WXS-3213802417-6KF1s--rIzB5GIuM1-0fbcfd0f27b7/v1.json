@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc8hNiclC4uC4E96BxCbSVuQPBTiaCbiaS2CPdngVvd9qM737MP125qZptMUo5gaPXqlTHmERLADMlSw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6KF1s--rIzB5GIuM1-0fbcfd0f27b7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4531e5cf6540454efe141bcfc9c50b21946a10f4c83ac9a737b0fba612bd5d9c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "30",
+    "personalize": "n8ll5lc",
+    "stylize": "400",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A highly realistic image set in a dark forest at night. Captured with a Canon R5 camera using an 85mm lens and flash. In the center of the image, a blonde woman stands holding a mirrored disco ball, her hair flowing dramatically ::1 The dense trees in the background are blurred, and the ground is covered with a thick layer of pink-tinged mist, creating an ethereal atmosphere. ::1 --chaos 30 --ar 2:3 --personalize n8ll5lc --stylize 400 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc8hNiclC4uC4E96BxCbSVuQPBTiaCbiaS2CPdngVvd9qM737MP125qZptMUo5gaPXqlTHmERLADMlSw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 302,
+      "article_title": "Vol.44 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732701649,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488206&idx=1&sn=f7b06433662be8b1744e604d538b6d14&scene=58&subscene=0",
+    "title": "Vol.44 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488206&idx=1&sn=f7b06433662be8b1744e604d538b6d14&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.44 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

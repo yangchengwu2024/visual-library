@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedOQMrxOnDA2m93TSpGuUcts2CpIUy5DB6Vp9OJHxwgWYjjjWtpBxtHUAQOWBUOdZQibCPdiaGOPBw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkERsZtOGuwK9jqwU-10f379ae5629",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9ff10343d361144f0255e5d466e82d7da6713e1b0ea7ecf32bdeef27126b52df",
+  "model": "Midjourney",
+  "parameters": {
+    "sref": [
+      "https://s.mj.run/o5BERpk1jb0",
+      "https://s.mj.run/DxQXc8ddvS4"
+    ],
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1",
+    "weird": "3000"
+  },
+  "previous_version": null,
+  "prompt": "minimal sketch of a king wearing a gold crown, walking out of a tomb in Bible times, similar to King Jeus, wearing a white robe --style raw --sref https://s.mj.run/o5BERpk1jb0 https://s.mj.run/DxQXc8ddvS4 --stylize 1000 --weird 3000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedOQMrxOnDA2m93TSpGuUcts2CpIUy5DB6Vp9OJHxwgWYjjjWtpBxtHUAQOWBUOdZQibCPdiaGOPBw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw:prompt-0016",
+    "source_metadata": {
+      "article_index": 211,
+      "article_title": "Vol.129 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741660236,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd",
+    "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

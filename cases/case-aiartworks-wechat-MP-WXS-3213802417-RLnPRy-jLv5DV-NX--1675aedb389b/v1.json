@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVJwpRfciaKgzRibwOkBGU2oviaGhPKVFeGUGYetn3rOuAVKtB7ElVjKhzA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAwIDWkPnXfpWghIltrINwEibqIkEvRTUWlelJwHrfVrOjn6ibticOaicIcA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RLnPRy-jLv5DV-NX--1675aedb389b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e0071d400de6c2491642f18c7b8b86c516b830dcfe1a10c1a0c074ed12cf7848",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Origami-style cartoon dancer, folded paper hat casting geometric shadows, warm backlight creating amber silhouettes, minimalist Japanese kirigami, isometric view --ar 9:16 --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVJwpRfciaKgzRibwOkBGU2oviaGhPKVFeGUGYetn3rOuAVKtB7ElVjKhzA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAwIDWkPnXfpWghIltrINwEibqIkEvRTUWlelJwHrfVrOjn6ibticOaicIcA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 123,
+      "article_title": "Vol.205 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1749345399,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd",
+    "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

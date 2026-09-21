@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkiaibJQ1Eommnsa3WxfnRiaaf0BqvrDNjSegLG2AbPmsicKjsCxCoLAYOuA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2b2xnLTutjWBvtHnN-12957cbf3641",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7ebcd6f3c2ef7fe48ff6dcf8f08130072f2056bbde09912dd6347f6ca8028e5f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Surreal scene, a giant Corgi dog standing on the street with pedestrians around, with the dog’s size much larger than the surrounding buildings, making all the buildings appear only as tall as the dog’s legs. The dog stands in between towering American buildings, with the Statue of Liberty appearing tiny. The background features a vibrant blue sky and fluffy white clouds. The dog’s legs are short, with highly detailed fur texture and a soft, majestic shine. Dreamlike scene with a cinematic effect, emphasizing the dog’s massive size and adorable appearance. Ultra-detailed 8K resolution, professional photography style, warm tones, whimsical atmosphere, extreme detail and texture. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkiaibJQ1Eommnsa3WxfnRiaaf0BqvrDNjSegLG2AbPmsicKjsCxCoLAYOuA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q:prompt-0012",
+    "source_metadata": {
+      "article_index": 275,
+      "article_title": "Vol.67 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735007432,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0",
+    "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

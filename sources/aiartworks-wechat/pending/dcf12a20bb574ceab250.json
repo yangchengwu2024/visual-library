@@ -1,0 +1,62 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-J4NJNFSsNwBneTiFd-b34ad40d8bd3",
+  "fingerprint": "b8fae69aad512bf401beb72a08ddbd1896a0376b47d20cefdb2d024e0b5f8d56",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "oref": "https://s.mj.run/hrGU5Whd_Pw",
+    "ow": "20",
+    "sref": [
+      "https://s.mj.run/sPZqA3yQkLM",
+      "https://s.mj.run/aDPFb1_0BpI",
+      "https://s.mj.run/hrGU5Whd_Pw"
+    ]
+  },
+  "prompt": "korean female model walking on a rocky mountain trail, full body shot with framing and lighting that emphasize the slim light gray technical pants with articulated seams, fabric folds and ergonomic cut clearly visible, wearing a fitted black short sleeve t-shirt, trail running shoes in mid-motion, one hand near her face brushing hair, natural terrain with plants and soft rocks, daylight subtly sculpting the shape and texture of the pants, outdoor fashion editorial focus, realistic photography, Canon EOS R5, 35mm lens, f/4.0 --ar 2:3 --sref https://s.mj.run/sPZqA3yQkLM https://s.mj.run/aDPFb1_0BpI https://s.mj.run/hrGU5Whd_Pw --oref https://s.mj.run/hrGU5Whd_Pw --ow 20",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw:prompt-0003",
+    "source_metadata": {
+      "article_index": 66,
+      "article_title": "Vol.265 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1759275078,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0",
+    "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw:prompt-0003",
+  "status": "pending",
+  "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 4"
+}

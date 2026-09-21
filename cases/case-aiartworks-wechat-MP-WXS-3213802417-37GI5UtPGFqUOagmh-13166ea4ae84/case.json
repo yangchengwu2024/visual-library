@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-37GI5UtPGFqUOagmh-13166ea4ae84",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdmWoxW2hWHjjW8D1Ndu8lFsIlZYyhjpFFqr0goWUILljvoTj1e2Sc0MfunNmZrTGCShicMfne888g/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkII7A3kmqVnb24rgQsdk4ia4rd0SXaVyZ7oy5Yg54Bz1tF786fprEI1A/0?wx_fmt=other&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ:prompt-0019",
+      "source_metadata": {
+        "article_index": 273,
+        "article_title": "Vol.69 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1735175988,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 19,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490404&idx=1&sn=6166446c21ae7931fe676e3996645fb5&chksm=96789cd1e2902305e5779e50478be769054dc64323dfec20f92955041838b2ab7aa222bed8e6#rd",
+      "title": "Vol.69 - Midjourney | 精选作品关键词提示 · 提示词 20",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490404&idx=1&sn=6166446c21ae7931fe676e3996645fb5&chksm=96789cd1e2902305e5779e50478be769054dc64323dfec20f92955041838b2ab7aa222bed8e6#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.69 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "title_aliases": [
+    "Vol.69 - Midjourney | 精选作品关键词提示 · 提示词 20"
+  ]
+}

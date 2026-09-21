@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycicSdjBj7Xf9fGEzzEVOClfZmztEvZzuUNtb0NdLiab9ozENI8gJhdIHEQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycic0zHLy8dq9ghibxJgFEZ5ic3eaBTpwDF9j4Le6vZlvMzuziaGUWaia9mLAg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Mj35-k7nUC-hAdIln-3dcebfa76335",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5bd15df5dd5c168d7c2d335f7059881aa95649f739228035a3cbf14de7e5be0d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "rged with swirling black and white vortexes, glitching pastel hues, and QR-pattern textures. Irrotational spirals surge outward from beneath the kayak, stretching past the borders of reality. Plant growth emerges organically from the water’s edge, hyperreal and fluid, blending seamlessly with the space-station liquid. Glitch effects shimmer across the current like digital scales, while floating funnels and exotic planets drift nearby, their surfaces warped with glitch distortions and cosmic tears in spacetime. The river contains open zipper dioramas--each a portal to chaotic other-dimensional realms filled with swirling nebulas, binary code streams, and coalescing fractal geometries blooming in organized chaos. Above, a multicolored starscape glows. The man’s expression is manic awe, surrounded by a surreal blend of sea and void, with every paddle stroke sending ripples of structured light and digital bloom across this infinite, expanding hyperscape. --ar 9:16 --quality 4 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycicSdjBj7Xf9fGEzzEVOClfZmztEvZzuUNtb0NdLiab9ozENI8gJhdIHEQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycic0zHLy8dq9ghibxJgFEZ5ic3eaBTpwDF9j4Le6vZlvMzuziaGUWaia9mLAg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA:prompt-0004",
+    "source_metadata": {
+      "article_index": 126,
+      "article_title": "Vol.202 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749079826,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 4,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd",
+    "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

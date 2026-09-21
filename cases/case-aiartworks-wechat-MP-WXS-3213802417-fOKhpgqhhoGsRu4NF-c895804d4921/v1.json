@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EGiaqb6IpDmTaDvCkSbypZtfqWrkA6pvu2086aOry3SbwX9OfHkF4CIg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EDylWOD67oUGyBGD0MgpHHaDO3Rib92eU3twhS4nTtGzzUtm0WemHWIQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fOKhpgqhhoGsRu4NF-c895804d4921",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "046fcb15df72930659ba514bf402a1f27a81d5684f562d3dc29a3fa1d505806e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "raw": true,
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A dramatic high-fashion editorial photograph of a woman in an elaborate flowing red gown with voluminous sleeves and long trailing fabric, positioned inside a circular tunnel made entirely of twisted red organic branches and roots, the woman is centered in the composition lying or reclining gracefully, her dress merging with the red branch structure, dark teal-blue foggy background visible through the circular opening, surreal and dreamlike atmosphere, the branches are densely intertwined creating a vortex-like frame, deep crimson and scarlet red tones dominating the entire scene, the fabric has a silk-like lustrous quality, ethereal and mystical mood, cinematic lighting with soft shadows, photorealistic style, ultra detailed textures on both the fabric and organic branches, fashion photography, avant-garde aesthetic, 8k resolution, shot from front view looking into the tunnel --chaos 20 --ar 9:16 --raw --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EGiaqb6IpDmTaDvCkSbypZtfqWrkA6pvu2086aOry3SbwX9OfHkF4CIg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EDylWOD67oUGyBGD0MgpHHaDO3Rib92eU3twhS4nTtGzzUtm0WemHWIQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw:prompt-0004",
+    "source_metadata": {
+      "article_index": 57,
+      "article_title": "Vol.275 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1761262237,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 4,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd",
+    "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

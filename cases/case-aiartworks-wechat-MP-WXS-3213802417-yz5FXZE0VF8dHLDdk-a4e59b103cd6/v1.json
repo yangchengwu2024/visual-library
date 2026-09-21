@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDUG2Rm3wQHhzOS90TXkNomIeuIdEql7I5HezdEQhDIHsxVyBDY36YPh7rIk5nAlibuyac0TbKjtcQzE1P1q7ARHyiawX2blwvao/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-a4e59b103cd6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "445d545a662055a3367d35d3b43d623f5854e0efdc83cf79e78a93a4b51f431b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "hd": true,
+    "profile": "vanqh1h",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "millions people in different poses, shapes and sizes together form a young female human face, inspired by fractals. the human shapes bend and stretch to function as the different shapes in the face - quality 2 --chaos 15 --ar 9:16 --raw --profile vanqh1h --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDUG2Rm3wQHhzOS90TXkNomIeuIdEql7I5HezdEQhDIHsxVyBDY36YPh7rIk5nAlibuyac0TbKjtcQzE1P1q7ARHyiawX2blwvao/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0007",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 8",
+  "version": "v1"
+}

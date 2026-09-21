@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdXbGzn0VVl474n6WpkByciccMSGt6lRcn4HpFibhkZIdkKL6NOZBWqK6v8LjnEziatQdWjgAxnlEj4g/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Mj35-k7nUC-hAdIln-ef17df120f01",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "aff4ab818cb61200f779d98d9802d4a2d13a1bfca2d3621969342733de44cec6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "oref": "https://s.mj.run/q1fSBNOffPM",
+    "sref": [
+      "https://s.mj.run/OOHyIpHgZ18",
+      "https://s.mj.run/7qwegz7VqJY",
+      "https://s.mj.run/hd1tWP2ietY"
+    ],
+    "stylize": "700",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A stylized toy character inspired by Labubu, wearing luxurious crystal samurai armor, extremely detailed and shimmering, reflective and ornate, kneeling on one knee in a noble samurai pose, holding two glowing katana swords in both hands, with a very kind, innocent and recognizable face wide smile, starry eyes, childlike expression, full-body view from a dramatic low angle, in front of a massive imperial Chinese palace made entirely of delicate blue-and-white porcelain, surreal atmosphere, cinematic lighting, porcelain surfaces glowing in daylight, film still aesthetic, shallow depth of field, highly stylized editorial tone --ar 9:16 --sref https://s.mj.run/OOHyIpHgZ18 https://s.mj.run/7qwegz7VqJY https://s.mj.run/hd1tWP2ietY --oref https://s.mj.run/q1fSBNOffPM --stylize 700 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdXbGzn0VVl474n6WpkByciccMSGt6lRcn4HpFibhkZIdkKL6NOZBWqK6v8LjnEziatQdWjgAxnlEj4g/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA:prompt-0007",
+    "source_metadata": {
+      "article_index": 126,
+      "article_title": "Vol.202 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749079826,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd",
+    "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

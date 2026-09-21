@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQsCAvWguou6NfG9YqoJAqFveZalDLJibfvBFl7hRuyT1RIZtSmEc6vOA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQH8spYvuH9FfvXlRjo0xuRF2lkgKccibqTYBXJKa2A5LaxX5TO2C5V6A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yyaNoAf-0ezSHtHh8-818225b28c27",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c27cd2aee7be7fcba3bb9d426187235e4b304ecfe5c7d3937df45420b3ac02ff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "cozy living room, floor cushions and low table; a woman reclining on a sofa, eyes closed, headphones half-off, afternoon sun stripes across her face from blinds; floating dust illuminated; warm neutral palette, soft textiles; shallow DOF, gentle lens flare, cinematic still; lofi/chill R&B atmosphere; negative space for title --ar 1:1 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQsCAvWguou6NfG9YqoJAqFveZalDLJibfvBFl7hRuyT1RIZtSmEc6vOA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQH8spYvuH9FfvXlRjo0xuRF2lkgKccibqTYBXJKa2A5LaxX5TO2C5V6A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g:prompt-0010",
+    "source_metadata": {
+      "article_index": 81,
+      "article_title": "Vol.250 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756251064,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 10,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd",
+    "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

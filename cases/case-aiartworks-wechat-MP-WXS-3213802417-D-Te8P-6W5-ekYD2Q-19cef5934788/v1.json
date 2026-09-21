@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL0JlibC1Eic0PEBybrLSmXpYdU9cLibomQTULc3bh9Jeoicw69CDf83Jl4w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL46kqqK9q2yBMyxNwRthvD766310ecFCZTpBy8dictbA1htkPEPdHRibg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLYskyBDQo7HPLFjoicd62Fv5tGjrj42sqJ7VAFwCE2sHCgHQOLToPtJQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLX8YAxqPrSPaZqGzVDRGB18T5y7QJUCEr0UrzCTbqvLN4Qiau1wSJS8A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D-Te8P-6W5-ekYD2Q-19cef5934788",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fc2ace543f3c47779a883a4bde335e0119ce2e078e753ca2da98e12e972fceaf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "profile": "kdtzd3z",
+    "stylize": "200",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A National Geographic-style photograph of a solitary camel standing on a windswept sand dune under a vibrant, star-filled sky. The scene captures the soft, rolling dunes with intricate details of the wind patterns on the sand. The camel is silhouetted against the deep blue night sky, illuminated by the soft glow of the Milky Way. Minimalist composition with professional lighting techniques and crisp detail on the camel’s textured fur, evoking a sense of solitude and wonder. --ar 4:3 --profile kdtzd3z d9tenvv tmiuvbw --stylize 200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL0JlibC1Eic0PEBybrLSmXpYdU9cLibomQTULc3bh9Jeoicw69CDf83Jl4w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL46kqqK9q2yBMyxNwRthvD766310ecFCZTpBy8dictbA1htkPEPdHRibg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLYskyBDQo7HPLFjoicd62Fv5tGjrj42sqJ7VAFwCE2sHCgHQOLToPtJQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLX8YAxqPrSPaZqGzVDRGB18T5y7QJUCEr0UrzCTbqvLN4Qiau1wSJS8A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g:prompt-0005",
+    "source_metadata": {
+      "article_index": 257,
+      "article_title": "Vol.83 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736564431,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 4
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0",
+    "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

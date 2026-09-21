@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:30+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3cIkB1LoEibvRzW6fhEiaBXQCwjwKa9ibEVviaKFtBq0iaUjY003aTHUFz0w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gqefcEU41oKfmLh6J-c6c1f2e303c2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b7751634493b445d1b922bf919d93a4f5e49e08996c18d2f676ab23eff68e205",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Surreal and fantasy portrait of a young woman in profile wearing a blue airplane pilot uniform with smooth porcelain thin skin. Looking up with her eyes raised upward and smiling. On her head, the pilot's cap forms a textured landscape with three miniature porcelain airplanes performing various stunt actions. The background is a soft gradient going from a rich bright blue to a heavenly white, creating a sunset atmosphere. Blue with orange accents. Bright sky. Summer lighting. --v 6.1 --ar 1:2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3cIkB1LoEibvRzW6fhEiaBXQCwjwKa9ibEVviaKFtBq0iaUjY003aTHUFz0w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 305,
+      "article_title": "Vol.41 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1732453234,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487963&idx=1&sn=ac434ca95db232e7cb10cd8f6687072e&chksm=9662716ca5f0e95acaddadd9deb695daea8a2542077ab26ee443c3eae96ea52c3e34b06a5127#rd",
+    "title": "Vol.41 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487963&idx=1&sn=ac434ca95db232e7cb10cd8f6687072e&chksm=9662716ca5f0e95acaddadd9deb695daea8a2542077ab26ee443c3eae96ea52c3e34b06a5127#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.41 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

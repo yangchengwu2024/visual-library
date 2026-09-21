@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eykwNkzQia5kxicLxMUn0sWKkQjO1MpqDaLVnibLkSu4pAVxT51vQBn28BA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-4VauCwzwjh-E8ssAb-11bd5b6eb046",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8ccb9b1b80821d0b75f499022d60facfd1077555f7cc51063b29a5c3a1cdb2b4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:7",
+    "profile": "hmdm9ey",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "people in weird situations in the style of Man Ray --ar 4:7 --style raw --profile hmdm9ey --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eykwNkzQia5kxicLxMUn0sWKkQjO1MpqDaLVnibLkSu4pAVxT51vQBn28BA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg:prompt-0015",
+    "source_metadata": {
+      "article_index": 260,
+      "article_title": "Vol.80 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736303430,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491206&idx=1&sn=5308d0cdb6a752d1e84e4cd827ca5008&chksm=962435a58c4c9338df608d64911aadfeb29fc6f32cf82cabb3dbe292573326fc351cc668ae12#rd",
+    "title": "Vol.80 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491206&idx=1&sn=5308d0cdb6a752d1e84e4cd827ca5008&chksm=962435a58c4c9338df608d64911aadfeb29fc6f32cf82cabb3dbe292573326fc351cc668ae12#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.80 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

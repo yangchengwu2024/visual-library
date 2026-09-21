@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherBwWJjav3bcv3mGFicqyWtVTjm7P8CwJabpWYRIotuyFibQjdsJdFwNr3WzgbSaCticbRAuVf7XQnA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WM4z0jOGaIJ~lX8XjKQE-g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WM4z0jOGaIJ-lX8Xj-d40663a5cf6e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4ac743a35a29f067fe3ac9a295767deaf70497cf5500df8f5791a143f1b4dfd8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "45:64",
+    "profile": "uzlv7h8",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Minimalist illustration of an abstract landscape with people, colorful shapes, and a black sphere in the middle, on a white background. --ar 45:64 --profile uzlv7h8 ai3pgk8 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherBwWJjav3bcv3mGFicqyWtVTjm7P8CwJabpWYRIotuyFibQjdsJdFwNr3WzgbSaCticbRAuVf7XQnA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WM4z0jOGaIJ~lX8XjKQE-g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WM4z0jOGaIJ~lX8XjKQE-g:prompt-0012",
+    "source_metadata": {
+      "article_index": 235,
+      "article_title": "Vol.109 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1739588545,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WM4z0jOGaIJ~lX8XjKQE-g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493183&idx=1&sn=1cb548aeb2f09a46ee8e52330815204b&scene=58&subscene=0",
+    "title": "Vol.109 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493183&idx=1&sn=1cb548aeb2f09a46ee8e52330815204b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.109 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

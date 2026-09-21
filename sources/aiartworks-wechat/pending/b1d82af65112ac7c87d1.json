@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkERsZtOGuwK9jqwU-c99f71349367",
+  "fingerprint": "06e669e7ce8415952742bd4f7c1dbeedcabd53361cdf49088b55742f6c0a580b",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "v": "6.1"
+  },
+  "prompt": "cinematic photography style, lady justice, blindfolded, smooth clear features, black and white, smooth blends, accent lighting, global illumination, dynamic contrast --ar 1:2 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw:prompt-0008",
+    "source_metadata": {
+      "article_index": 211,
+      "article_title": "Vol.129 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1741660236,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd",
+    "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd"
+  },
+  "source_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw:prompt-0008",
+  "status": "pending",
+  "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

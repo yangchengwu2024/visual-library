@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1aJSCCSPgXTQlibn2LoEm6Lwd6jDyEf3icQ10N7WicNZbSFtgKoic3E6DwA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-f5KZulwbxXsz76IFC-9850cd7557e1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a2e9e53f74f100bf9c8ea2b334e0b57bf410af7a428a0058fb9240ad610dd864",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "20",
+    "profile": "ith6kab",
+    "raw": true,
+    "sref": [
+      "701108399"
+    ],
+    "stylize": "300",
+    "sv": "4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Synthetic Pollination A butterfly with wings made of thin plastic fibers hovers over a glass flower, glowing faintly with orange data pulses, In the dark room, there is an open square skylight on top of which colorful butterfly and flowers swim in the light and shadow that shines through from outside. The entire scene creates a dreamy atmosphere with high-definition photography. High resolution, bright colors, and soft lighting create an indoor environment. It was photographed in the style of Ryoji Matsumoto, grainy, DSLR, Telephoto lens, Studio lighting, Bold and dynamic, Digital, Shutter speed: 1/125 sec, Aperture: f/5.6, ISO: 100 --chaos 20 --ar 2:3 --raw --sref 701108399 --profile ith6kab --sv 4 --stylize 300 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1aJSCCSPgXTQlibn2LoEm6Lwd6jDyEf3icQ10N7WicNZbSFtgKoic3E6DwA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 165,
+      "article_title": "Vol.166 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745461837,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496167&idx=1&sn=029d6162b73a6c64da17a30ec2c23d1b&scene=58&subscene=0",
+    "title": "Vol.166 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496167&idx=1&sn=029d6162b73a6c64da17a30ec2c23d1b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.166 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

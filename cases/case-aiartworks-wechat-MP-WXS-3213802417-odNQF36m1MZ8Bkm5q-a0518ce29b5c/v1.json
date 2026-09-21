@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2MVZ27fRP56DicAPt1nR8IiaNxBkFGicxOLts19WyAchZI6dJPz8vn0GCQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-odNQF36m1MZ8Bkm5q-a0518ce29b5c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e1413ef1c7f7242b9bf846ef59614bdb0e9a8c6c35abce2c4fe99492851e1f78",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Spicy Pani Puri hollow crisps with spicy water, three-quarter, white backdrop, top for captions, Indian street snack, tamarind --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2MVZ27fRP56DicAPt1nR8IiaNxBkFGicxOLts19WyAchZI6dJPz8vn0GCQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg:prompt-0007",
+    "source_metadata": {
+      "article_index": 69,
+      "article_title": "Vol.262 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758670286,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd",
+    "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

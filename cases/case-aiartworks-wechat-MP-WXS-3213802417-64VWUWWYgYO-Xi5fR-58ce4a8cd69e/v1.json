@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6G3xbqqE48eDxlpwSV76FEVSm7yeMxa9s35IywuB6uxYqY8hsUVxo3Pg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-64VWUWWYgYO-Xi5fR-58ce4a8cd69e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "589d7e42d439cafe4b4b9a134beca3bad0895166a6f0b815b27c46ec4865a93d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "71:128",
+    "profile": "c26xnhs",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A vintage tarot card design with an ornate border of a skull and rose, in a detailed engraving style from the Victorian era. The color palette features pastel shades of pink and blue, with a symmetrical composition and decorative borders. --ar 71:128 --style raw --profile c26xnhs --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6G3xbqqE48eDxlpwSV76FEVSm7yeMxa9s35IywuB6uxYqY8hsUVxo3Pg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 179,
+      "article_title": "Vol.153 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744165849,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0",
+    "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

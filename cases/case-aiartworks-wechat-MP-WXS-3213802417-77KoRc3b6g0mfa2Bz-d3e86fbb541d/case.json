@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-d3e86fbb541d",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFypQ0tro3NYlWDEQm2WKCR4mrNaacICnXsBdXcsByTlGWkAgBF7pFPw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA:prompt-0017",
+      "source_metadata": {
+        "article_index": 309,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.38",
+        "association_confidence": "high",
+        "createTime": 1732062009,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 17,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0",
+      "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 18",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 18",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.38 · 提示词 18"
+  ]
+}

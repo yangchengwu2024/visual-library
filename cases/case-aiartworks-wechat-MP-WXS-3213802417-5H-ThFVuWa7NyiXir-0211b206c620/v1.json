@@ -1,0 +1,91 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7t5cVx7x4fNDr5N2ZzT9TfW7HU3LicV0NJqs1sKm94C5S8krWPVXoHiag/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVHzwoHRnCuIkyvLvIECHnWOeRMTicUVPKKHp9iabgbekypI4hmc02Hyog/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7BezwK8rYOM1pm64viaYuyORUnEAJlk0yLImQ5Ygzth5JVV5bPcjTiblw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WV7w3wdJmZg367C5LteCTX5iad6rJLNY8WEcKlSiaTh72AXdEwTBktkuzw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5H-ThFVuWa7NyiXir-0211b206c620",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "12f2aa5c2d78ccd722e2e0a4ebc27a813ce239f7142c39927937933287d5924e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "An image that portrays vintage photo of a biblical cyclops eyeing the viewer with a slight grin on his face. Apply a hazy, vintage filter to the entire image to create a nostalgic atmosphere reminiscent of 1980s and 1990s horror imagery. This filter should give the impression of an aged photograph as if it’s a still shot of the moment before a tragedy. The edges should be slightly vignetted to draw attention to the center. There should be a soft glow effect around light sources, enhancing the dreamy quality of the scene. The overall result should evoke the feel of an old postcard or a snapshot taken with an analog camera, complete with the imperfections and character of film photography from that era with an A24, midsommar style aesthetic. Add a grainy, comic style film over the finished product image gives the feeling of unease and discomfort. eerie. real photo, cinematic, 32k --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7t5cVx7x4fNDr5N2ZzT9TfW7HU3LicV0NJqs1sKm94C5S8krWPVXoHiag/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVHzwoHRnCuIkyvLvIECHnWOeRMTicUVPKKHp9iabgbekypI4hmc02Hyog/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7BezwK8rYOM1pm64viaYuyORUnEAJlk0yLImQ5Ygzth5JVV5bPcjTiblw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WV7w3wdJmZg367C5LteCTX5iad6rJLNY8WEcKlSiaTh72AXdEwTBktkuzw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg:prompt-0016",
+    "source_metadata": {
+      "article_index": 44,
+      "article_title": "Vol.288 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1764631874,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 16,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503959&idx=1&sn=a8b50506eb1098da8bf5d94dfa35217d&scene=58&subscene=0",
+    "title": "Vol.288 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503959&idx=1&sn=a8b50506eb1098da8bf5d94dfa35217d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.288 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1IGu1icNwoJojuPHd16mPewzdWu1ia0bhvRia5mTRPRViasjhtjfhNw9BqQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hbX1OubEmN7alYRjN-b18f8aee69a3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2264f8be9f44586b3ae87674db78369cd1cc4f38c69745d2cb97874093348e5b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "no": [
+      "cartoon,",
+      "anime,",
+      "manga,",
+      "big",
+      "eyes,",
+      "logo,",
+      "text,",
+      "title,",
+      "signature,",
+      "watermark"
+    ],
+    "profile": "7364xlb",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A dynamic streetwear fashion concept blending Sony Alpha-level photo realism with industrial sketch energy. The model wears a modular cropped urban tech jacket in matte olive, paired with off-black pants featuring layered thigh pockets, diagonal panels, and a built-in gear belt with graphic print. Motion is caught mid-step, arms shifting, weight changing. Over the garments: fashion construction lines and functional marks waistband notches, hip alignment curves, fold axes and garment balance indicators, drawn in Pantone 309 C and soft peach. The composition feels like a schematic blueprint of movement, framed in expressive draftsmanship. In the style of Jomaro Kindred and Alphonse Mucha. Background is solid dark teal-blue (HEX #003F4A). --no cartoon, anime, manga, big eyes, logo, text, title, signature, watermark --ar 9:16 --profile 7364xlb --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1IGu1icNwoJojuPHd16mPewzdWu1ia0bhvRia5mTRPRViasjhtjfhNw9BqQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA:prompt-0007",
+    "source_metadata": {
+      "article_index": 164,
+      "article_title": "Vol.167 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1745548538,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0",
+    "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

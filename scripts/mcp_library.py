@@ -14,13 +14,41 @@ import os
 from pathlib import Path, PureWindowsPath
 import re
 import sys
-from urllib.parse import quote
+from urllib.parse import quote, urlsplit
+from urllib.request import Request, urlopen
 
 sys.dont_write_bytecode = True
 import library
 from mcp.server.fastmcp import FastMCP, Image
 from mcp.types import CallToolResult, TextContent, ToolAnnotations
 from PIL import Image as PILImage, ImageOps
+
+
+def _fetch_remote_image(url):
+    """Fetch one approved source image into memory for this read only.
+
+    The response is never written to the snapshot or a persistent cache.
+    """
+    library._validate_remote_url(url)
+    request = Request(url, headers={"User-Agent": "visual-library-mcp/1.0"})
+    try:
+        with urlopen(request, timeout=30) as response:
+            final_url = response.geturl()
+            library._validate_remote_url(final_url)
+            content_type = response.headers.get_content_type()
+            payload = response.read(64 * 1024 * 1024 + 1)
+    except Exception as exc:
+        raise ValueError("Remote image unavailable (" + type(exc).__name__ + ")") from None
+    if len(payload) > 64 * 1024 * 1024:
+        raise ValueError("Remote image exceeds the 64 MiB preview limit")
+    if not payload:
+        raise ValueError("Remote image returned no bytes")
+    if content_type and not content_type.startswith("image/"):
+        # Some WeChat responses omit a useful content type. PIL remains the
+        # authoritative decoder check below; reject explicit non-image HTML.
+        if "text/html" in content_type:
+            raise ValueError("Remote image returned HTML instead of an image")
+    return payload
 
 
 def _public_metadata(value):
@@ -128,7 +156,12 @@ class LibrarySnapshot:
         item = _public_metadata(self._show(case_id, version, expected_commit))
         item.update(self.version_links(item["case_id"], item["version"]))
         for index, asset in enumerate(item["assets"]):
-            asset.update(image_index=index, github_url=self.url(asset["path"]), original_url=self.url(asset["path"], raw=True))
+            if asset.get("path"):
+                asset.update(image_index=index, github_url=self.url(asset["path"]), original_url=self.url(asset["path"], raw=True))
+            elif asset.get("remote_url"):
+                asset.update(image_index=index, github_url=None, original_url=asset["remote_url"], external_url=asset["remote_url"])
+            else:
+                raise ValueError("Asset lacks local path and remote_url")
         return {**self.context(), "case": item}
 
     def get_case_image(self, case_id, version=None, image_index=0, max_size=1600, expected_commit=None):
@@ -138,18 +171,27 @@ class LibrarySnapshot:
         if isinstance(max_size, bool) or not 1 <= max_size <= 1600:
             raise ValueError("max_size must be between 1 and 1600")
         asset = content["assets"][image_index]
-        path = library._safe_asset(self.root, asset["path"])
-        if not path.resolve().is_relative_to(self.root):
-            raise ValueError("Asset resolves outside snapshot")
-        if path.stat().st_size > 64 * 1024 * 1024:
-            raise ValueError("Image exceeds the 64 MiB preview limit; use its original repository link")
-        try:
-            payload = path.read_bytes()
-        except OSError as exc:
-            raise ValueError("Snapshot image unavailable (" + type(exc).__name__ + ")") from None
-        digest = hashlib.sha256(payload).hexdigest()
-        if digest != asset["sha256"] or len(payload) != asset["bytes"] or path.stem != digest:
-            raise ValueError("Snapshot image hash, size, or filename mismatch")
+        remote_url = asset.get("remote_url")
+        if remote_url:
+            payload = _fetch_remote_image(remote_url)
+            digest = hashlib.sha256(payload).hexdigest()
+            original_url = remote_url
+            github_url = None
+        else:
+            path = library._safe_asset(self.root, asset["path"])
+            if not path.resolve().is_relative_to(self.root):
+                raise ValueError("Asset resolves outside snapshot")
+            if path.stat().st_size > 64 * 1024 * 1024:
+                raise ValueError("Image exceeds the 64 MiB preview limit; use its original repository link")
+            try:
+                payload = path.read_bytes()
+            except OSError as exc:
+                raise ValueError("Snapshot image unavailable (" + type(exc).__name__ + ")") from None
+            digest = hashlib.sha256(payload).hexdigest()
+            if digest != asset["sha256"] or len(payload) != asset["bytes"] or path.stem != digest:
+                raise ValueError("Snapshot image hash, size, or filename mismatch")
+            original_url = self.url(asset["path"], raw=True)
+            github_url = self.url(asset["path"])
         try:
             with PILImage.open(io.BytesIO(payload)) as source:
                 source.seek(0)
@@ -168,10 +210,11 @@ class LibrarySnapshot:
                     "effective_status": content["effective_status"], "review_note": content["review_note"],
                     "role": asset.get("role"), "role_reason": asset.get("role_reason"),
                     "image_index": image_index, "role": asset.get("role", "unknown"), "sha256": digest, "original_bytes": len(payload),
-                    "original_url": self.url(asset["path"], raw=True), "github_url": self.url(asset["path"]),
+                    "original_url": original_url, "github_url": github_url,
                     "original_size": original_size, "preview_size": preview_size,
                     "preview_sha256": hashlib.sha256(data).hexdigest(),
-                    "preview_note": "PNG display preview; first frame only; original bytes remain unchanged"}
+                    "preview_note": "PNG display preview; first frame only; original bytes remain unchanged",
+                    "remote_fetch": bool(remote_url)}
         return CallToolResult(content=[TextContent(type="text", text=json.dumps(metadata, ensure_ascii=False)),
                                        Image(data=data, format="png").to_image_content()], structuredContent=metadata)
 

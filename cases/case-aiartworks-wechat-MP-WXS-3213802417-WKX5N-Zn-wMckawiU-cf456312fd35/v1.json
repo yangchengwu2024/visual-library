@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyYme6u22q0Uoz34YcNE4jQEJGkGFVbFoOfxCt7ADp7d7FiaAL7GJw9ug/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WKX5N-Zn-wMckawiU-cf456312fd35",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "aa0a2dee90c48634596b43c54fe9c6717565c8fe9a9cc7c5ab86b6c8cfe2465b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "50",
+    "niji": "6",
+    "profile": "5r4cj14",
+    "sref": [
+      "https://s.mj.run/64jaoA61lzg",
+      "https://s.mj.run/Kuh76w5d1zw"
+    ],
+    "style": "raw",
+    "stylize": "500"
+  },
+  "previous_version": null,
+  "prompt": "A Colorful Spray Paint Graffiti Pop Art/Street Art and a Stencil Art of The Bored Ape NFT character as a Military Navy Seal Soldier in combat as a campaign advertisement --chaos 50 --ar 4:5 --style raw --sref https://s.mj.run/64jaoA61lzg https://s.mj.run/Kuh76w5d1zw --profile 5r4cj14 --stylize 500 --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyYme6u22q0Uoz34YcNE4jQEJGkGFVbFoOfxCt7ADp7d7FiaAL7GJw9ug/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg:prompt-0012",
+    "source_metadata": {
+      "article_index": 261,
+      "article_title": "Vol.79 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1736228664,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491147&idx=1&sn=ddf2a0fe84d3327ef8d2e51af1fa0e4f&chksm=9632c277cabbf9aebfb18c0cbe73ff1ac999b6acbac4a2eb5776830f6153950763ea59e71fdf#rd",
+    "title": "Vol.79 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491147&idx=1&sn=ddf2a0fe84d3327ef8d2e51af1fa0e4f&chksm=9632c277cabbf9aebfb18c0cbe73ff1ac999b6acbac4a2eb5776830f6153950763ea59e71fdf#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.79 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

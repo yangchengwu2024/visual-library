@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OiaTRjYuxLlmpmAEjbWrmDfuCthicIiaial4JFmOMulD6qmEuxnoKasichWA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-XrJXIk9OaYRAN6rHJ-56d53757cad7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f4f05fe48b1fd4220149d5e6cd318388718567b1e901b8145f90bd51506c4337",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "The style of the picture is a realistic style with bright colors and rich details. A creative zongzi with glutinous rice as the main body and zongye firmly wrapped into the shape of [Giant Panda]. The body of [Giant Panda] is full, the shape is cute, and the glutinous rice particles are full, shiny, and closely arranged, showing a delicate texture. [Giant Panda] The zongzi are placed on the light green zongye mat, and the overall warm color highlights the cuteness of the zongzi. In the composition, the long view, the zongzi are located in the center of the picture, and the zongye mat enhances the stability of the picture. --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OiaTRjYuxLlmpmAEjbWrmDfuCthicIiaial4JFmOMulD6qmEuxnoKasichWA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w:prompt-0013",
+    "source_metadata": {
+      "article_index": 134,
+      "article_title": "Vol.194 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1748394094,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd",
+    "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6gS7DWJrpDTu5SoonSG5JB48oNna7mMgLOviccKaosuCLYzyUsKTILrg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BO82AOBgp8YdYjkxk-18ae384c871e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "61166b62209d4e19ecba5f4c9e2ec37656cc0c0382915d757c2c7ce109db5c1c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "cc3wsvd",
+    "sref": [
+      "https://s.mj.run/JVkf4Oxh6os"
+    ],
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A huge realistic white cat resting on the top of a shop on Regent Street, London. The cat is huge compared to the surrounding buildings, with beautiful soft white fur and blue eyes. The cat tilts its head slightly to look at the people walking on the street, with a relaxed posture. Realistic photo, high resolution, street view, hyper-detailed, flawless. --ar 3:4 --style raw --sref https://s.mj.run/JVkf4Oxh6os --profile cc3wsvd --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6gS7DWJrpDTu5SoonSG5JB48oNna7mMgLOviccKaosuCLYzyUsKTILrg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw:prompt-0015",
+    "source_metadata": {
+      "article_index": 246,
+      "article_title": "Vol.99 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738636240,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd",
+    "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

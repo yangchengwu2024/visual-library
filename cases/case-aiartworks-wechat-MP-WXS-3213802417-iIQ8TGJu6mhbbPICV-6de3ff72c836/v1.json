@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WClr3FsaQaicIACByXib3BuaakQaLrWkn0pZFKic18yI8gEgPsPBf60Qk0btQdr80P05Z303hA2Wy1pjO2Xd3gC2N08CycQGic1CdM/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIQ8TGJu6mhbbPICV-6de3ff72c836",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "99387bdc7f5336b1594a984bbf652e3bd17aebaa783bdd8b0b99df1418ac8290",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "profile": "sg48ydw",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "a high-concept advertising poster, a minimalist monochrome studio with a semi-reflective floor, a fashion model in an all-black outfit in a relaxed profile pose, \"Sleep\" in massive bold white condensed sans-serif typography partially occluded by the model for depth, soft cool even lighting with gentle shadows and floor reflections, a clean modern high-concept aesthetic --ar 4:3 --profile sg48ydw --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WClr3FsaQaicIACByXib3BuaakQaLrWkn0pZFKic18yI8gEgPsPBf60Qk0btQdr80P05Z303hA2Wy1pjO2Xd3gC2N08CycQGic1CdM/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 9,
+      "article_title": "Vol.323-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1786145451,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0",
+    "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,78 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCOvT2XcakbqibzdSsklYrPFAic6SrsIVafBmkJVGul12A7stVYUPibEULU7gVHqPbbx34D6GX4oqy1PMJEEEbldX2wjJxdLTr2OA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDUXp2oZtB0G4ibyNMuusrL3NicmZEpJu9gFZSPeBFyB80ZRe36mm3dW6E35kM4ofaoUKGflksdPrTEeRSJdH8yib4JPme8ET1hMI/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-4c56530a86cc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d6cd523b84ed261e7393df4b852239aa8ed027109390b368fc22c00621adda12",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:14",
+    "hd": true,
+    "profile": "hjf34yn",
+    "sref": [
+      "3915868282"
+    ],
+    "sv": "6",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a photorealistic high definition image of a vase of roses on a kitchen table next to a pack of Marlboro cigarettes --ar 9:14 --sref 3915868282 --profile hjf34yn --sv 6 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCOvT2XcakbqibzdSsklYrPFAic6SrsIVafBmkJVGul12A7stVYUPibEULU7gVHqPbbx34D6GX4oqy1PMJEEEbldX2wjJxdLTr2OA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDUXp2oZtB0G4ibyNMuusrL3NicmZEpJu9gFZSPeBFyB80ZRe36mm3dW6E35kM4ofaoUKGflksdPrTEeRSJdH8yib4JPme8ET1hMI/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0009",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAfPduDjq4lKyaJuUZCOdhwYskCvfYkZR5Y28ZwlEIs6By1nicfnbic789NL6XpLwJicZjKcmpjiaADlibK353vVnzLCcElcNuAwdibQ/0?wx_fmt=webp&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBycAUZgJGP8bFSIN0RVOmlIoPFIJQXUKWM1lcIj8VRw7bLleFYHRpqQJaqvK7RFGibZmG3hNVgAMeYkNpkQFjMkst2LMAiahjlU/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCc10vDTSZ2nLftWBNUPMX2ia1iarOyMukQ5I6xiaA3XWbiapIwooQIYRGntvnuicy9wibvdbpngriaeaaXZviaVTNChf2t1By8Dz5jtPU/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCAuhVsyu1o0yxpmylUZpWia059icayBo3mbMYNWiaZaWVNVqyueB5Nt9p5V36d60LibK63TOaP7COcj9QFJcbzf5IyRF2TcALmAQ8/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIRMssRfxtkfhxZab-a3fe149399c8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "595fe4c629014de7f0fd61e07787859c57353ef3748f22693fd30b02638721f9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "main subject: a tall transparent glass cup with a wide rim and thick base, fruits placed inside the glass, apples and pears stacked inside the cup, black hand-drawn doodle lines on the glass surface, funny handwritten quirky english text scattered on the cup, humorous silly short words, tiny cartoon faces on the fruits, floating speech bubbles, mini lightning bolts, starbursts, playful scribbles, surreal still life, pop art accents, bold outlines, high contrast, clean white studio background, graphic illustration, text is part of the doodle decoration, text not block fruits, hand drawn silly text: WHAT’S IN HERE, FRUIT PARTY, NO SPOON --ar 3:4 --raw --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAfPduDjq4lKyaJuUZCOdhwYskCvfYkZR5Y28ZwlEIs6By1nicfnbic789NL6XpLwJicZjKcmpjiaADlibK353vVnzLCcElcNuAwdibQ/0?wx_fmt=webp&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBycAUZgJGP8bFSIN0RVOmlIoPFIJQXUKWM1lcIj8VRw7bLleFYHRpqQJaqvK7RFGibZmG3hNVgAMeYkNpkQFjMkst2LMAiahjlU/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCc10vDTSZ2nLftWBNUPMX2ia1iarOyMukQ5I6xiaA3XWbiapIwooQIYRGntvnuicy9wibvdbpngriaeaaXZviaVTNChf2t1By8Dz5jtPU/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCAuhVsyu1o0yxpmylUZpWia059icayBo3mbMYNWiaZaWVNVqyueB5Nt9p5V36d60LibK63TOaP7COcj9QFJcbzf5IyRF2TcALmAQ8/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A:prompt-0003",
+    "source_metadata": {
+      "article_index": 5,
+      "article_title": "Vol.327-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1787700637,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 4
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd",
+    "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 4",
+  "version": "v1"
+}

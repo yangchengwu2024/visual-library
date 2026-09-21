@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:37+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd57ibChZIIicjF93D1P0txeTT47cMW1yfahcnRQMrRbcRp1SgSia5cRaUC8tltib8PIbDkJ27ymIZI9w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YciOgJ-r58dzXigW5-d099793e1078",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "89129f0496bd72cba47f961eede200677ba1cbf6bd780e701babb0bdea09365c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A huge golden Buddha head with an oriental monk standing in front of it, surrounded by white clouds and sand dunes, with a digital art style, fantasy illustrations, digital airbrushing techniques, glowing light effects, and a yellow color scheme. The close-up perspective highlights the contrast between golds and whites, creating a mysterious atmosphere. A man stands at its feet, gazing up into its eyes. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd57ibChZIIicjF93D1P0txeTT47cMW1yfahcnRQMrRbcRp1SgSia5cRaUC8tltib8PIbDkJ27ymIZI9w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ:prompt-0004",
+    "source_metadata": {
+      "article_index": 344,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.02",
+      "association_confidence": "high",
+      "createTime": 1728624973,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484805&idx=1&sn=3816332fdc764c36128cb71a080e61ba&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.02 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484805&idx=1&sn=3816332fdc764c36128cb71a080e61ba&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.02 · 提示词 5",
+  "version": "v1"
+}

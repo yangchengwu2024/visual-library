@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:37+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd57ibChZIIicjF93D1P0txeT36vT4y0sOhLd0rJSChk49CIiaBRwzOFE0WPvt287VzIw0tqCbAVa7Ig/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-3vXXGKFHiLzHVqcFN-936a81d4dc77",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6ff873ca065ecb55c16a109f1629ac46cdd186f789f02adb671643c4061cda8e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A dreamy night sky with deep blue tones, and a hand holding a clear glass jar with blue and green butterflies inside, their wings shimmering like magical fireflies. The jar is slightly open, and sparkling star particles float out, gently drifting into the night sky. The background is a soft sunset transitioning into dusk, with warm orange and pink tones fading into the night. The scene is whimsical and ethereal, with a magical, dreamlike quality, full of sparkling light and a sense of wonder and freedom. Rich in detail, realistic yet fantastical, the soft bokeh effect and gentle highlights on the butterflies and particles create a serene and poetic atmosphere. --ar 3:4 --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd57ibChZIIicjF93D1P0txeT36vT4y0sOhLd0rJSChk49CIiaBRwzOFE0WPvt287VzIw0tqCbAVa7Ig/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 343,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.03",
+      "association_confidence": "high",
+      "createTime": 1728703898,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484854&idx=1&sn=c1c94da079269f59c5eda5839aa89b90&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.03 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484854&idx=1&sn=c1c94da079269f59c5eda5839aa89b90&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.03 · 提示词 6",
+  "version": "v1"
+}

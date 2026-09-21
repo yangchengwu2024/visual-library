@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFphLq8aHlqiaabPfGic0mibgicQibDa8TUvk5h6Cqbu7S5icF7MrGjmfCSbicQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-e0549dc7bddd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0d0a5424f4a8d9b1692de75c8fc09fa7a44919bc0cb6c07806376f9bbac00080",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "style": "raw",
+    "stylize": "300",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Close-up of a framed canvas print featuring a canva print POD, presented in a flat view against a white background. This image appears to be a hyper-realistic photograph. --ar 3:4 --style raw --stylize 300 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFphLq8aHlqiaabPfGic0mibgicQibDa8TUvk5h6Cqbu7S5icF7MrGjmfCSbicQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA:prompt-0013",
+    "source_metadata": {
+      "article_index": 309,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.38",
+      "association_confidence": "high",
+      "createTime": 1732062009,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y-EvUmrF-n1m24aw--f0c90124477d",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShff8ibNiatD1rqpS1JDQaF0VMZx52pHg3DBeMFOGLmXSic7aNmR0Amx3VYPiaNvNFXfM5PKiaGLp67XPZQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA:prompt-0006",
+      "source_metadata": {
+        "article_index": 329,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.18",
+        "association_confidence": "high",
+        "createTime": 1730083151,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 6,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd",
+      "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 7",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 7",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.18 · 提示词 7"
+  ]
+}

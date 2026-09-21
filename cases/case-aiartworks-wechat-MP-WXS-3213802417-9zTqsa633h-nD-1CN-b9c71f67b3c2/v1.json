@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLh1ovwjb5etrtrfOEFWWX7FsGmB6ISn4REkzDgP8PH8ecCTaMar9QGib0M0Fz8yia8ic6ktZUSpX9ibLQv7bWws57RpR7vBTOYnQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-b9c71f67b3c2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b679d7ff224e8e7e17acb9f64329143015117c33b92d334e4d68bc00395e37d7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "15",
+    "hd": true,
+    "profile": "w5tgviu",
+    "raw": true,
+    "sref": [
+      "6531962495"
+    ],
+    "stylize": "90",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "하늘이 떠다니는 물고기 A high tech high-fashion editorial photograph of a woman robot flying on a high tech flyer saucer through a surreal galaxy filled with holographic oversized stars, , moon beams, and planets , elegant styling, soft colours, magical realism, cinematic photography --chaos 15 --ar 2:3 --raw --sref 6531962495 --profile w5tgviu 8jr11hw at5lqfr ak5hsxq g485zll ifnksq1 --stylize 90 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLh1ovwjb5etrtrfOEFWWX7FsGmB6ISn4REkzDgP8PH8ecCTaMar9QGib0M0Fz8yia8ic6ktZUSpX9ibLQv7bWws57RpR7vBTOYnQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0011",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 12",
+  "version": "v1"
+}

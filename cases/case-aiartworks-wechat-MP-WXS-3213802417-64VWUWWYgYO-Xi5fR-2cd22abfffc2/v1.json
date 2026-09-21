@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6GwAaQTWZqgGxUbElEv9DOSIrppJm1iaFicYJOBKXibJrbXzialhficBJoBhQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-64VWUWWYgYO-Xi5fR-2cd22abfffc2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e3d9ce1870d0a7d81085d25aab537905ad3bc0b24acaa9b6bb5e994270765aba",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "high quality Photography portrait of freemason bowl with a goldfish, anthropomorphism, the bowl with a goldfish is wearing a black suit, a white shirt, a black tie, real details --ar 3:4 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6GwAaQTWZqgGxUbElEv9DOSIrppJm1iaFicYJOBKXibJrbXzialhficBJoBhQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 179,
+      "article_title": "Vol.153 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744165849,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0",
+    "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

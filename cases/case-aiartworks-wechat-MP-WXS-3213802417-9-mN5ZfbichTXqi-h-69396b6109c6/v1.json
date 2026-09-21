@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4tElWjYzj8lkd2iaAicGRl0RsRDdJ6Lvtf4XS3m8jEeVbZ7CXsgiazhsIA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4BQzFDVu4ic1SzJZSVaplfcX2YZzv6xgCg92mkgAI6lhltO7qT5dhuhg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n47s75ROKAtynArxXJNuS750MnHCqj5CKCxIibNvmjnicC1dEGWafd636w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n46IeAwiaYeDYnxVE5lmUllEiau72KPU9wQ0o6fWRiaUgQnIgm6t36xo73g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9-mN5ZfbichTXqi-h-69396b6109c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "633e4f9db382be7b687e9b8a82bd366f12c214787ee038832c3534bef01ace46",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A rabbit wearing sunglasses and a white coat, a black sweater, posing for the camera. Anthropomorphic modeling photography with soft lighting, a monochrome background, and a vintage portrait style. The image has a retro fashion magazine cover feel, with a minimalist, symmetrical composition. The overall style is fashionable, elegant, and cool, with a high-end aesthetic. This is a black and white photography style. --ar 9:16 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4tElWjYzj8lkd2iaAicGRl0RsRDdJ6Lvtf4XS3m8jEeVbZ7CXsgiazhsIA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4BQzFDVu4ic1SzJZSVaplfcX2YZzv6xgCg92mkgAI6lhltO7qT5dhuhg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n47s75ROKAtynArxXJNuS750MnHCqj5CKCxIibNvmjnicC1dEGWafd636w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n46IeAwiaYeDYnxVE5lmUllEiau72KPU9wQ0o6fWRiaUgQnIgm6t36xo73g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw:prompt-0016",
+    "source_metadata": {
+      "article_index": 243,
+      "article_title": "Vol.102 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738895457,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 16,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd",
+    "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

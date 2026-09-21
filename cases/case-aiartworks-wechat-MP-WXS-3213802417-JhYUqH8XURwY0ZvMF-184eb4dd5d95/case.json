@@ -1,0 +1,606 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JhYUqH8XURwY0ZvMF-184eb4dd5d95",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0005",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 5,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 6",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0006",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 6,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 7",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0007",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 7,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 8",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0009",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 9,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0010",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 10,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0011",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 11,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 12",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0012",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 12,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 13",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKvFkaYKZeZK18Yb7DIacEKnvXk4uyFgmKLm3BLGcNfCoYUQ2T5s3QbQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuiaUiarWso1n6pZlKqG4jMNc7LUgB8JFNCQ13Vv04vKraIPfUVzPb7xw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaQI5mOvlyaHic4ibnCxUzs0Y3WhsVoa4Fwt22wdNjia5GlJLAexBZLbEA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKuJVG4CzB268vZjtbkNjTVy4Muja0icMLib4Bm5XmrNIu6236EvCcasyg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKr9PgelaJSlpbFrZOnWDIVTabibTjibtBwTZr3lrxMY1FTAe038j4WRhg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKlZUicfcCkj1OJ0KhZ141fviaLXKDFKiaCePW94kbZhCYIOobh7Xg6jebA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKNGn0JjkVyWlHDicMmGTichuxUlkDHq9R4bsDzicsEm7k05gIbfLD4oNuA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKEOQYuybNzbTbw0SyHj4Xbw2tmOyslUhibxdB9quWXT8lIx7TvicpLvmw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ:prompt-0013",
+      "source_metadata": {
+        "article_index": 190,
+        "article_title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743301863,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 13,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_JhYUqH8XURwY0ZvMFnITYQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 8
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495380&idx=1&sn=8a52dc388fb36ba7f32ce431ae857bf9&chksm=963dab8a7d977e9ac58083e35d2e90617cde2feedfafe81bf6e4d1944dea4499d5b6e3261b02#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 14",
+  "title_aliases": [
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 6",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 7",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 8",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 10",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 11",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 12",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 13",
+    "周末特别版 | 宝藏提示词盲盒-Iv83的神奇动物 - Midjoureny | 精选作品与提示 · 提示词 14"
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAOKcPOWD5IConVjP9IyAmica7QjtAuYMFBQ18ONeeScXv0PoftLgu0PeRkycaBX6ia9Acmr5TJeJFcuTuSbVEs3WMNJDGutib2g4/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAib0pGULjuOOOyEzzibwEs5iahiaWN5vyBB1ryn0PGG8yxYZd4T2SMElpKtJjeRBH99lPPJkDNvbMxQcJd3VSZHcRBVkcKWndHAIk/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OqIXwnjr0vrqwwC5o-d5d2046d8cf5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c474a73d2a51691c14b9a8633b8a3df2ea56e32845cb5bc6355b090f1ba80306",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "wjdwy1w",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Close-Up Portrait of two 20-years old couple kissing each other, standing at a wall of a building, both of them wear a suit, 1980s aesthetics, 35mm Kodak Portra film, subtle grain, editorial photography --ar 2:3 --profile wjdwy1w --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAOKcPOWD5IConVjP9IyAmica7QjtAuYMFBQ18ONeeScXv0PoftLgu0PeRkycaBX6ia9Acmr5TJeJFcuTuSbVEs3WMNJDGutib2g4/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAib0pGULjuOOOyEzzibwEs5iahiaWN5vyBB1ryn0PGG8yxYZd4T2SMElpKtJjeRBH99lPPJkDNvbMxQcJd3VSZHcRBVkcKWndHAIk/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w:prompt-0007",
+    "source_metadata": {
+      "article_index": 15,
+      "article_title": "Vol.317-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1784676626,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd",
+    "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 8",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBZceFTeDiaVdDDQOvCDLWLNjOFZA4BSn8wvlwKtpyLX58CchehKHpOHFsictoUshszI4LHVQ9icMeg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wpsylSYESH7O9aZcAWCIXA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wpsylSYESH7O9aZcA-8be8f7984526",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1c5cca2e675b3d425338d67537c51a58b43afdfad98638a842cd98bd06d13b78",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The heroine of a shojo manga, sparkling eyes, black and white, 80s style, drama-style, She holds her hand over her mouth in surprise. A powerful illustration, --ar 16:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBZceFTeDiaVdDDQOvCDLWLNjOFZA4BSn8wvlwKtpyLX58CchehKHpOHFsictoUshszI4LHVQ9icMeg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wpsylSYESH7O9aZcAWCIXA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wpsylSYESH7O9aZcAWCIXA:prompt-0004",
+    "source_metadata": {
+      "article_index": 247,
+      "article_title": "Vol.98 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738549864,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wpsylSYESH7O9aZcAWCIXA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492488&idx=1&sn=f048ebdbab8f65575dcdd306c9f880d7&chksm=9696c539af792a1dbb7104fdc7508b4bb2d66acfc5966734eb0a6f9a6174e71e0bc7699f4afe#rd",
+    "title": "Vol.98 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492488&idx=1&sn=f048ebdbab8f65575dcdd306c9f880d7&chksm=9696c539af792a1dbb7104fdc7508b4bb2d66acfc5966734eb0a6f9a6174e71e0bc7699f4afe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.98 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

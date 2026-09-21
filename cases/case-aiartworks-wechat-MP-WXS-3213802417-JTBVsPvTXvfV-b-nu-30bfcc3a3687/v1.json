@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcB09XvDHI1EJdzQzxJhicSlQvcJdKY5WZIng1fMW1mvia8nWEzLdRYrHw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59Ic2YxY8V3FMbPiawMOgdEvGg5Wia5X7fsLv8Q19fbrLfJ1AGUnK4iaqrAcQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTBVsPvTXvfV-b-nu-30bfcc3a3687",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "90ec0403ba5bf1f5afe4c9f6210a3a05e01f8310c8888b3ce89b5b7225811b5b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "bewcb8e",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Digital portrait of a young woman in a crouched pose, with platinum blonde bobbed hair, pale skin, and striking red lips. She wears a form-fitting black high-neck blouse with voluminous sleeves, black tights, and high-heeled YSL logo shoes. The background is soft beige. The character’s pose is graceful, with one knee raised and the other tucked under her, giving a very long and sleek leg appearance. Her expression is serene with closed eyes, and the overall style should have a smooth, clean, and semi-realistic aesthetic, not overly detailed or hyper-realistic. --chaos 10 --ar 9:16 --profile bewcb8e --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcB09XvDHI1EJdzQzxJhicSlQvcJdKY5WZIng1fMW1mvia8nWEzLdRYrHw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59Ic2YxY8V3FMbPiawMOgdEvGg5Wia5X7fsLv8Q19fbrLfJ1AGUnK4iaqrAcQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0019",
+    "source_metadata": {
+      "article_index": 153,
+      "article_title": "Vol.176 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746498625,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd",
+    "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

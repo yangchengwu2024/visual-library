@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShercHS1u3PiaeKOyhQBXO7RQqLaMppNwb5RMZkQHhVRrssw5Z2m1vMHibKGmYY6DDRoumF3sOtFzCEg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bxaArQ95mSrpz-4gu-64d1337cb883",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "400f08b955ec23a9f520aee48e31ae5cd8bab2dfb15b4fcb1b2168c363994331",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "soft feminine human-cat hybrid face, delicate human bone structure blended with black feline features, subtle cheekbones, human-like eyelids, soft eyebrows barely visible, large expressive eyes with human depth, gentle human lip shape blended with cat muzzle, smooth transition from skin to fine black fur around eyes/nose, short nose bridge retaining human structure with small pink cat nose tip, soft pale skin mixed with white fur texture, natural human facial proportions with feline elements, elegant expression, calm, slightly dreamy look, high-detail whiskers, soft subsurface scattering, studio lighting, shallow depth of field, 8k quality, hyper-detailed fur-skin blend, keep human femininity, keep human face ratio, add cat traits gracefully, 3/4 body visible --ar 3:4 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShercHS1u3PiaeKOyhQBXO7RQqLaMppNwb5RMZkQHhVRrssw5Z2m1vMHibKGmYY6DDRoumF3sOtFzCEg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg:prompt-0006",
+    "source_metadata": {
+      "article_index": 47,
+      "article_title": "Vol.285 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763335848,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503586&idx=1&sn=31d1c5b4229e5bc2b96ae20eea47cea1&chksm=96b8f081d1baab6701a8a62f3d010832cf18f0e9bfba3ca9a7fcd772c815196185aa0415cc67#rd",
+    "title": "Vol.285 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503586&idx=1&sn=31d1c5b4229e5bc2b96ae20eea47cea1&chksm=96b8f081d1baab6701a8a62f3d010832cf18f0e9bfba3ca9a7fcd772c815196185aa0415cc67#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.285 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

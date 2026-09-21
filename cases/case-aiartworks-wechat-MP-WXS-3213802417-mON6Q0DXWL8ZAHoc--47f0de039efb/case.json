@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-mON6Q0DXWL8ZAHoc--47f0de039efb",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJuz7LL4jicDo6PHpibiaFfibyK5GPZjA8popBLbMf9mQCvyLjSKuI0CFoEA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorRpmcSIYttkVonpIiazR4kE39kEmAxo6fAC2c4jzWmGSBEk3ekelC9fQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw:prompt-0019",
+      "source_metadata": {
+        "article_index": 342,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.04",
+        "association_confidence": "high",
+        "createTime": 1728796732,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 19,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484953&idx=1&sn=c3aabd80601a7881ff040a108ed935e0&chksm=96805ea8d3f065a2a8af0b0617974f1960a86677569fcf3fb010ce16e1b911c665f8b41fb273#rd",
+      "title": "Midjourney | 精选作品及提示 - Vol.04 · 提示词 20",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484953&idx=1&sn=c3aabd80601a7881ff040a108ed935e0&chksm=96805ea8d3f065a2a8af0b0617974f1960a86677569fcf3fb010ce16e1b911c665f8b41fb273#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.04 · 提示词 20",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.04 · 提示词 20"
+  ]
+}

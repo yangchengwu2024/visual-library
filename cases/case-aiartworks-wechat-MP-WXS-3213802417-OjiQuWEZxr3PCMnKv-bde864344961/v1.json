@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vKBSrNEmbFKkoX0aO2Kj4QNg6uDQCUAUlbic4EF4rlstl22IiclEPz2Vg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OjiQuWEZxr3PCMnKv-bde864344961",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4dbedf3f78aab27e5c383619aad97b68852633b0e4d3e9bdd9fbf702d054afe1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A highly realistic 9:16 vertical satellite image of Antarctica showing a massive, unidentified reptilian creature partially submerged beneath a fractured iceberg. The creature’s body resembles an ancient sea serpent with distorted scales, a spiny tail, and a partially visible outline beneath the icy surface. A small snow vehicle nearby provides a scale reference, dwarfed by the creature's size. The image includes authentic satellite HUD elements: grid overlays, GPS coordinates, altitude indicators (e.g. \"ALT: 6.2 KM\"), timestamp (e.g. \"2025/06/04 13:47 UTC\"), and a data code in the corner. The lighting is natural, with realistic icy blue, white, and steel gray tones. Slight image grain, atmospheric haze, and a surveillance feel. No cinematic lighting, no fantasy colors, no logos, no text overlays unrelated to the HUD. --ar 9:16 --quality 2 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vKBSrNEmbFKkoX0aO2Kj4QNg6uDQCUAUlbic4EF4rlstl22IiclEPz2Vg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A:prompt-0001",
+    "source_metadata": {
+      "article_index": 125,
+      "article_title": "Vol.203 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749166227,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd",
+    "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

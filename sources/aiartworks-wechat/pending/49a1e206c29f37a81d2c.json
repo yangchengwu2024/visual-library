@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NLJ7hXDjxXx8sWsQi-ac86ecffd9b6",
+  "fingerprint": "0a0b1f8be769b8c2c63c3d54d4e4d78832ff83e6c2dba9721c0ad95bc50bac38",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "prompt": "An illustration of a bee, weird proportions, inflated, plastic material, in the style of Tom of Finland --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A:prompt-0008",
+    "source_metadata": {
+      "article_index": 197,
+      "article_title": "Vol.139 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1742610613,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495107&idx=1&sn=bba8533b456dae3b2e700fb44bfe951e&chksm=96a9f605921c0e5f442fa2b7776678f952138886b3a4a05f6d8492525a05d86547e7bffe015d#rd",
+    "title": "Vol.139 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495107&idx=1&sn=bba8533b456dae3b2e700fb44bfe951e&chksm=96a9f605921c0e5f442fa2b7776678f952138886b3a4a05f6d8492525a05d86547e7bffe015d#rd"
+  },
+  "source_id": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A:prompt-0008",
+  "status": "pending",
+  "title": "Vol.139 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

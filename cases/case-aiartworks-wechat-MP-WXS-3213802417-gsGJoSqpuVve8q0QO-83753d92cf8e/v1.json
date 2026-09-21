@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCoYgRAW6DDxibHWGRfgvicVY4rDHnbmmTbEwB1FoX7Am0CZtQnunq0o1HhxAZnFTNVJufqNB46Xzhiav7Bqe16E7JfEw9I2J5TOA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gsGJoSqpuVve8q0QO-83753d92cf8e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d68e2904bdc59f15c5ea2317a68c408091b77343aaf982016ad4f0881ae0acc1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "25",
+    "exp": "25",
+    "hd": true,
+    "profile": "i821oef",
+    "sref": [
+      "1995773328",
+      "2432781387"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Asian Female DJ Artist profile sharepic, the name of the DJ is \"AIART WORKS\" --chaos 25 --ar 9:16 --exp 25 --sref 1995773328 2432781387 --profile i821oef --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCoYgRAW6DDxibHWGRfgvicVY4rDHnbmmTbEwB1FoX7Am0CZtQnunq0o1HhxAZnFTNVJufqNB46Xzhiav7Bqe16E7JfEw9I2J5TOA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg:prompt-0005",
+    "source_metadata": {
+      "article_index": 37,
+      "article_title": "Vol.295 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1777246268,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0",
+    "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

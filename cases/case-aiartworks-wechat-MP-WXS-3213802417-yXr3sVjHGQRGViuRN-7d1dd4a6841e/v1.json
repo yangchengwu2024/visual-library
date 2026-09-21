@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKK6NR5IfE5oVrnX4YrQSZibDFQIWicthkLicKl1PsHMChmPj5QkQcafLsrw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-7d1dd4a6841e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d7514f9f8905635c87ba86602d686fc82292cdb646f136b80b296552cc01e6c8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "profile": "zgx462d",
+    "raw": true,
+    "stylize": "0",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Close-up image of a pregnant person gently holding their belly with both hands, warm natural skin tones, soft directional lighting creating gentle shadows, minimal dark background, serene and intimate atmosphere, celebrating pregnancy and the human form, photorealistic, fine art editorial style --chaos 5 --ar 3:4 --raw --profile zgx462d --stylize 0 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKK6NR5IfE5oVrnX4YrQSZibDFQIWicthkLicKl1PsHMChmPj5QkQcafLsrw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg:prompt-0001",
+    "source_metadata": {
+      "article_index": 148,
+      "article_title": "周末特别版 | 母亲节专题 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1746930646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496765&idx=1&sn=0a228430efc649c5e390799e9a1f6c91&chksm=961d45e706d31d5e41c7154fab40592f7414a9558846da7ed931410ff1cdd99a158863a69074#rd",
+    "title": "周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496765&idx=1&sn=0a228430efc649c5e390799e9a1f6c91&chksm=961d45e706d31d5e41c7154fab40592f7414a9558846da7ed931410ff1cdd99a158863a69074#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 2",
+  "version": "v1"
+}

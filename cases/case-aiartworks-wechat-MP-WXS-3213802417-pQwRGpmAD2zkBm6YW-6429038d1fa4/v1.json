@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFk6g12HjVqluxnLcicMRH0NiaLPp40BqxEpWsGBARnBT8UuEbd9Zz7kqIQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pQwRGpmAD2zkBm6YW-6429038d1fa4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "280c9437f3460b2d8d40f4e7c00905fe434d8500afb9c66e83872c493f93bcf6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "james rizzi,卧室,cat, 高级艺术杂志, 清新的颜色, 粉蓝+粉紫+粉色, 局部照明, 新工笔,朦胧彩铅, 浪漫古风, 炫彩光影, 赵无极, 常玉, 光纤, 金色, 意境水墨, 暗黑魔幻, 星汉灿烂, 新工笔, 极黑的背景, 浪漫古风, 炫彩光影, 夜晚, 星空, 发光的星星, 指纹, 深蓝色调, 沙漠发光, 梦幻光影, 极致的光影, 虚实结合, 一个非常美丽的金色飘飘的少女在银河里, by james turrell, 干净的画面,陈家泠, 刘海栗, 荧光, 荧光 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFk6g12HjVqluxnLcicMRH0NiaLPp40BqxEpWsGBARnBT8UuEbd9Zz7kqIQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg:prompt-0016",
+    "source_metadata": {
+      "article_index": 173,
+      "article_title": "Vol.159 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744770630,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495889&idx=1&sn=6b96a0660d6939bc5f5b3b2f09d7db2e&chksm=960dc902bef8c52560cbeea2457b62ef9cf8366aa8c286188f04e51b1c9565b1b199bc1bf1ab#rd",
+    "title": "Vol.159 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495889&idx=1&sn=6b96a0660d6939bc5f5b3b2f09d7db2e&chksm=960dc902bef8c52560cbeea2457b62ef9cf8366aa8c286188f04e51b1c9565b1b199bc1bf1ab#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.159 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

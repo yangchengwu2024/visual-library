@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2VZZ3uJF4Es4stnJKb4aBogGG8LibJbflQYC7ISX9CvCiaXbovuw1KBYw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtRYh3ndsicg1UM8j6OPXUoM99icfj8Jg0JTiaJsPjEvVO7Ze1GSXfsKKMQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-76016ec17385",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6f6291486ed5750276544945fa16eae6e4e4afd5f5abd75b1c4512826e597f61",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "g2nn8bj",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "3D orange and white ribbon in the shape of an \"8\" with small flowers. --profile g2nn8bj --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2VZZ3uJF4Es4stnJKb4aBogGG8LibJbflQYC7ISX9CvCiaXbovuw1KBYw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtRYh3ndsicg1UM8j6OPXUoM99icfj8Jg0JTiaJsPjEvVO7Ze1GSXfsKKMQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA:prompt-0007",
+    "source_metadata": {
+      "article_index": 215,
+      "article_title": "Vol.127 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741401031,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0",
+    "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

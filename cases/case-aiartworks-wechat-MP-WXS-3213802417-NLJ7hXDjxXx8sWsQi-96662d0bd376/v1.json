@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFZDETLicCWX0sWxqKJfufTKYClXMH5bkShqgWur4ViaJVJKoGaibCAvdhBpNXE8licJJkb2h5pqGicHQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NLJ7hXDjxXx8sWsQi-96662d0bd376",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "86921b66c16e7c1cc23171706e74ad27e16012aea921381a0c5564dcc692bab6",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Create a Counter-Unmanned Aerial System (UAS) Holistic Response diagram tailored for a trading estate, illustrating detection and defeat mechanisms using radar, RF jamming, and cyber mitigation. The diagram should depict a radar detection zone covering a 10KM range, monitoring the estate with electrical optical and infrared cameras for enhanced security. An RF jammer should be positioned on the perimeter, connected via a dashed line to signify its role in detecting and jamming unauthorized RF signals. A smaller overlapping zone should represent RF over Cyber, labeled with \"3K DETECT\" and \"2K MITIGATE\" to indicate its capability to detect and counter potential threats. The right side of the diagram should highlight a \"DEFEAT\" zone, where security measures neutralize intrusions. Ensure a structured layout with distinct labels, visually separating detection and defeat phases while maintaining clarity in the trading estate security context. --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFZDETLicCWX0sWxqKJfufTKYClXMH5bkShqgWur4ViaJVJKoGaibCAvdhBpNXE8licJJkb2h5pqGicHQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A:prompt-0015",
+    "source_metadata": {
+      "article_index": 197,
+      "article_title": "Vol.139 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742610613,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NLJ7hXDjxXx8sWsQikN0~A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495107&idx=1&sn=bba8533b456dae3b2e700fb44bfe951e&chksm=96a9f605921c0e5f442fa2b7776678f952138886b3a4a05f6d8492525a05d86547e7bffe015d#rd",
+    "title": "Vol.139 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495107&idx=1&sn=bba8533b456dae3b2e700fb44bfe951e&chksm=96a9f605921c0e5f442fa2b7776678f952138886b3a4a05f6d8492525a05d86547e7bffe015d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.139 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

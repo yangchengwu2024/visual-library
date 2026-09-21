@@ -1,0 +1,95 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WB3YrZFWxXEDiaLUCfXKzB9OibbKFxN0xuxicM5mTAFRRubg6e9Fuazj1pK9UO9Oe1sAHiatPicK55amOOrnxZ9D72zCMrpn99UkcSQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAFKlIvTMniamsGgIu9Niarz32XTJOaOruZrZ3zY2YCQWhkzXov9FJwtzicJvibvevWnOScRGupJMc5dRjib5DA5xgzqmdicMLwbLyTs/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBwEPFpqYnyJkmZoclZibPsfOwC6wasFicnyPNJXdMvshLK9tXuY18cqMm57a19rRicFPRKh7MZCLNYGAMS99Jdbbm5OnxgoOp4yE/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/BcwWuR022WCrThhs9TZKoiaha8jD6qDJSw4sS9uUTbCv66Y75Ztariah6icBRxYZLldtt8a2fok6d8bPp61OLE0q2uOolCwZbJ89ibfmYucK6js/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dLDwdXfce2GQ2enLa-f709b98038d7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4d128814b517e10c0fb87bf1aa1efcd0efd9c05e19335c4a0a5a68f33ae7d6c1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "1tadml1",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A calm young man around 25-30 years old in a black suit and tie sitting on a red folding chair in the middle of a flat desert, reading a newspaper with a completely unbothered expression. Behind him, a graffiti-covered vintage sedan fully engulfed in massive flames and black smoke. Flat sandy terrain, overcast pale sky. Editorial deadpan humor. Analog film grain, desaturated warm palette --ar 9:16 --raw --profile 1tadml1 fp5frzq --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WB3YrZFWxXEDiaLUCfXKzB9OibbKFxN0xuxicM5mTAFRRubg6e9Fuazj1pK9UO9Oe1sAHiatPicK55amOOrnxZ9D72zCMrpn99UkcSQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAFKlIvTMniamsGgIu9Niarz32XTJOaOruZrZ3zY2YCQWhkzXov9FJwtzicJvibvevWnOScRGupJMc5dRjib5DA5xgzqmdicMLwbLyTs/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBwEPFpqYnyJkmZoclZibPsfOwC6wasFicnyPNJXdMvshLK9tXuY18cqMm57a19rRicFPRKh7MZCLNYGAMS99Jdbbm5OnxgoOp4yE/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/BcwWuR022WCrThhs9TZKoiaha8jD6qDJSw4sS9uUTbCv66Y75Ztariah6icBRxYZLldtt8a2fok6d8bPp61OLE0q2uOolCwZbJ89ibfmYucK6js/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g:prompt-0010",
+    "source_metadata": {
+      "article_index": 21,
+      "article_title": "Vol.311-Midjourney | 6月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1782603024,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 10,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+    "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 11",
+  "version": "v1"
+}

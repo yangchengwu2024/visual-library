@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAZdzjsPD09QmRXGh09WbeNPa4tohJZw7RPqNepXbt4pphU2sT5VYSgd3GBIVzupAXlicmmPUoxJTwl9VSCtR5oicenE8nNcFHibU/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-65LLXZCfPWcMjOCEw-eb07a23b9e44",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "00c2cbd5af23504637e71977963822ab1355f70a91bc7383ba4d028b81bdabbe",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "6nmh4lo",
+    "raw": true,
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A colossal Venus flytrap floating on the surface of a silent lake at sunrise. Its open trap is naturally filled with perfectly still water, functioning like an organic bathtub. A woman peacefully floats inside with her eyes closed, while dragonflies rest on the rim, tiny frogs sit among the veins of the plant, and morning mist drifts across the water. The carnivorous plant has evolved into a nurturing organism, transforming a predator into a sanctuary. Impossible botanical evolution, poetic surrealism, museum-quality editorial photography, ultra-realistic biology, quiet luxury aesthetic. --ar 9:16 --raw --profile 6nmh4lo nf6sahk --stylize 50 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAZdzjsPD09QmRXGh09WbeNPa4tohJZw7RPqNepXbt4pphU2sT5VYSgd3GBIVzupAXlicmmPUoxJTwl9VSCtR5oicenE8nNcFHibU/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 14,
+      "article_title": "Vol.318-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785022221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd",
+    "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 8",
+  "version": "v1"
+}

@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfT9cIYzBbsWsQTKDMibgtEKoHdo4VRHKuzIMk6OiaDOgko8Wk6oSziaCPIETN1AokicYhS8mRCEmGFaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y69Hu94j2aZLiNVD6-abadd24657fa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "07537b3c0d43a47bb6c44446d955f38f31a9181c0ec3f32409b4e2e0e8fbb762",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "no": [
+      "dust,",
+      "splash,",
+      "noise"
+    ],
+    "profile": "tjj8vnp",
+    "raw": true,
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Golden hour interior with person practicing breathwork beside cup of green tea. Face in calm profile, soft smile visible, ultra-realistic lighting --no dust, splash, noise --chaos 20 --ar 9:16 --raw --profile tjj8vnp --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfT9cIYzBbsWsQTKDMibgtEKoHdo4VRHKuzIMk6OiaDOgko8Wk6oSziaCPIETN1AokicYhS8mRCEmGFaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg:prompt-0004",
+    "source_metadata": {
+      "article_index": 133,
+      "article_title": "Vol.195 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748482250,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497357&idx=1&sn=a58bb5f4147d901f73f8ee6afe1561b9&scene=58&subscene=0",
+    "title": "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497357&idx=1&sn=a58bb5f4147d901f73f8ee6afe1561b9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

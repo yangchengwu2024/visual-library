@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qP6pBX6G3IyU9tvky-47fcd80207f1",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJAnshHVmIzTgHJVgsJPfGwPVmayMJiaFUNiaJEHVicHOvEicLzQH25IvCuA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg:prompt-0014",
+      "source_metadata": {
+        "article_index": 141,
+        "article_title": "Vol.188 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1747794647,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 14,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd",
+      "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 15",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "title_aliases": [
+    "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 15"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bA9ElbXbHw7sEAeNlibb0WO0Y0g47y2OQM7Jo2hfGzOuraloJBkIWLIA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-0be31399ef52",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e0554424647f47a42820a1a192a3ea3fe3ef72bbf7c8b840538ae643f9362b5b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "15",
+    "raw": true,
+    "stylize": "0",
+    "weird": "400"
+  },
+  "previous_version": null,
+  "prompt": "A painting of black sheep herding in the snow in the style of Atkinson Grimshaw, a low-angle shot from ground level. A shepherd is seen amidst thick fog and heavy blizzard conditions at nighttime, with a distant house faintly visible in the background. The detailed brushwork features fine lines and texture, with soft lighting creating gentle shadows on the canvas. The vivid colors and deep contrast capture the cold weather of winter, and the sharp focus highlights the details of each animal. using dark colors in a gouache painting, a masterpiece. --chaos 15 --ar 2:3 --raw --stylize 0 --weird 400",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bA9ElbXbHw7sEAeNlibb0WO0Y0g47y2OQM7Jo2hfGzOuraloJBkIWLIA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg:prompt-0004",
+    "source_metadata": {
+      "article_index": 80,
+      "article_title": "Vol.251 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1756423847,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0",
+    "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

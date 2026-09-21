@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8AZvcFt1PcUBADtnegyR1gJnD9R7YJwzCmf3CphsiaOoFrOyCKiaCVOicw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E1qBJqBXPRQxdE7JI-f9f70790b4a8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "88dba1806b6519b6bbd3599fc37f5d39586aad6a5ab570b3eccc661c3137a53d",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Generate an image of a face shaped like a banana, with human-like skin texture and a natural curve. The face should look extremely angry and dangerous, with intense, glaring eyes hidden behind dark sunglasses that give it a menacing, cold aura. The expression should be fierce, with deep furrows in the brow and a twisted, sinister mouth showing sharp, jagged teeth. The overall look should evoke a sense of criminality, aggression, and intimidation. The art style should be simple, low-poly, and reminiscent of early 2010s low-graphics video games. The background should be plain white, emphasizing the dangerous nature of the banana-faced character. --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8AZvcFt1PcUBADtnegyR1gJnD9R7YJwzCmf3CphsiaOoFrOyCKiaCVOicw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg:prompt-0014",
+    "source_metadata": {
+      "article_index": 223,
+      "article_title": "Vol.119 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740623422,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493828&idx=1&sn=b8315aa6a915ea9cc1a73d7447c54eed&scene=58&subscene=0",
+    "title": "Vol.119 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493828&idx=1&sn=b8315aa6a915ea9cc1a73d7447c54eed&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.119 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:34+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShff8ibNiatD1rqpS1JDQaF0VMg9jX1uPPV7QhSWIAASubAWMhNzzvEnr30g0sZeYJib498GMSEWJBFqg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShff8ibNiatD1rqpS1JDQaF0VMsFCm9lEoaZFgEzWtia3iaXtCG0AaichEUT90KzQKAP4MibiaREtRCU2BjLA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y-EvUmrF-n1m24aw--b704f830a9b5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8a12add41631a15df68adcc934acdcc990a7969d1cbf8435153bc8d41ddd6d54",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "squirrel with a gun. threatening fbi agent. photorealistic. --ar 16:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShff8ibNiatD1rqpS1JDQaF0VMg9jX1uPPV7QhSWIAASubAWMhNzzvEnr30g0sZeYJib498GMSEWJBFqg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShff8ibNiatD1rqpS1JDQaF0VMsFCm9lEoaZFgEzWtia3iaXtCG0AaichEUT90KzQKAP4MibiaREtRCU2BjLA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA:prompt-0000",
+    "source_metadata": {
+      "article_index": 329,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.18",
+      "association_confidence": "review",
+      "createTime": 1730083151,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 1",
+  "version": "v1"
+}

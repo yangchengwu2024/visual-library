@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OU3ib6LArk3AUcQxobAtjonnbxTYcoTliagWT437icIuG9XzvrgSGx9zibA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-2c50a5fabed5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "24bf21755e636023838de4bfa8d750c8403659ec72ee89424182ff2f429e55dd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Christmas night view of the village, there is snow on some houses and they glow from the inside, while other houses are without lights. The light falls in the form of stars through the beautiful sky, with twinkling white Christmas lights. A close-up of a cozy little house, with many small toy decorations and a Christmas tree decorated with colorful lights and bright colors. Photorealistic, high-resolution photography, with insanely detailed fine details and professional color grading. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OU3ib6LArk3AUcQxobAtjonnbxTYcoTliagWT437icIuG9XzvrgSGx9zibA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA:prompt-0015",
+    "source_metadata": {
+      "article_index": 277,
+      "article_title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734834474,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd",
+    "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNf4hWNrBTmtDibmSYmjaSBeuTrpOqJPzs7pG0iaFX7lRLzt9DqslPXcvvg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNfGgHaru5H2aeIxJEG6ObH9SkrhR4hjJw39z2f7qw7uEAXTzmVPdSFeQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZU3vb4szcKyBT3sRF-123b580c2cde",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dcc7c14477f492aa2a7b6e9ada65dac70ab33a8adaae4cb681fdf7aa4e68c593",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A photo, two apes wearing spaceuits and playing guitar while riding missiles --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNf4hWNrBTmtDibmSYmjaSBeuTrpOqJPzs7pG0iaFX7lRLzt9DqslPXcvvg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNfGgHaru5H2aeIxJEG6ObH9SkrhR4hjJw39z2f7qw7uEAXTzmVPdSFeQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg:prompt-0012",
+    "source_metadata": {
+      "article_index": 108,
+      "article_title": "Vol.221 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1750721460,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd",
+    "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

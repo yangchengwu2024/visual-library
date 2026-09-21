@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0VJC0rXkdGnXGApOgDvjjdmFo5uiagcLK6u07scOJwfgqfdc4MM4lAHrg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kKdkmpDuiXSh4N6fl-e1e6b261af15",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7c4ec8b782cba41805fcff4f73df5f9d1e3c18ea426879c7c3409287015f318c",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "pcku651",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "blonde with green eyes, name Lisa --raw --profile pcku651 ms5h14j --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0VJC0rXkdGnXGApOgDvjjdmFo5uiagcLK6u07scOJwfgqfdc4MM4lAHrg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA:prompt-0019",
+    "source_metadata": {
+      "article_index": 149,
+      "article_title": "Vol.180 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746844247,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd",
+    "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

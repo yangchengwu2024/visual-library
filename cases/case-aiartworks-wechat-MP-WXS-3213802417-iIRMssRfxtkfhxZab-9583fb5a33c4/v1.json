@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDdI8ag8dd4oEwia1Z7w0OKlUjFPHF6lHLr7pschletpeTSaeEemHRwMWpBiabH5RicfzrIP15XbuuibyEibBBvphBgobtOrTb2bdLQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCA5Kq1xJegGCWJg4D64RWmTU47lg37icuIeUcPlkwKdWUiafTJxsTTttBniaAQjjcJJO5Aib81bobYff51ibSRY7bRYtgBaYVYAIFw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIRMssRfxtkfhxZab-9583fb5a33c4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1e107db4d8900c5e454efb34335f2dfcfca3229139bd6fd04e70e31c859d2b98",
+  "model": "Midjourney",
+  "parameters": {
+    "no": [
+      "人物，汽车，裸露基础设施，室外，日光，微型房屋，天空，航拍视角，高空视角，鸟瞰视角，俯视视角，家具，雕像，吊灯，画作，植物，道具"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "手持手机相机第一视角，人站立眼平高度，从一扇敞开的门踏出，来到巨型后室住宅巨型建筑内部，一栋超大豪宅风格高层的狭窄阳台。画面边缘可见门框与部分敞开的房门。阳台栏杆处于紧邻的前景。向外望去：下方是庞大迷宫，铺着潮湿地毯、人造草坪、狭窄住宅通道、小片庭院，层层堆叠无尽的郊区建筑。数百层高耸的巨型豪宅外立面：仿石饰面、米色灰泥外墙、乙烯基壁板、凸窗、百叶窗、山墙、车库区域、带顶入户门。无数阳台、桥梁、楼梯、悬空廊道充斥垂直空间。远处高处是荧光灯吊顶格栅。幽深远处缝隙中可见泛黄污损的后室风格墙面。空旷寂静，如梦似幻的阈限郊区景象。压迫感极强的封闭尺度，繁复循环的建筑结构。平淡的荧光环境光，柔和全向照明。无手电筒、聚光灯、高光点、刺眼前景光晕与浓重暗角。 --no 人物，汽车，裸露基础设施，室外，日光，微型房屋，天空，航拍视角，高空视角，鸟瞰视角，俯视视角，家具，雕像，吊灯，画作，植物，道具",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDdI8ag8dd4oEwia1Z7w0OKlUjFPHF6lHLr7pschletpeTSaeEemHRwMWpBiabH5RicfzrIP15XbuuibyEibBBvphBgobtOrTb2bdLQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCA5Kq1xJegGCWJg4D64RWmTU47lg37icuIeUcPlkwKdWUiafTJxsTTttBniaAQjjcJJO5Aib81bobYff51ibSRY7bRYtgBaYVYAIFw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A:prompt-0005",
+    "source_metadata": {
+      "article_index": 5,
+      "article_title": "Vol.327-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1787700637,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd",
+    "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 6",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0a9yh9LRJzlyxicnGEIchhLKkd5DlZjNCGqku1ODFeglNcSia1SKKbnGw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xjAa-pNRLX0OgoOIA-225b34b52549",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c823afdf03a20da928983ba5243457ca12e06972c260ce08588dd7be52024bdd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Pixiu, 32K, wide angle, cartoon, Chinese myths and legends, has six legs, looks like a tiger, a bear, the coat color is grayish-white, the body is like a tiger and a leopard, the head and tail are like a dragon, its color is also gold and jade, its shoulders have a pair of wings but cannot be extended, and the head has a horn and leans back. --ar 3:4 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0a9yh9LRJzlyxicnGEIchhLKkd5DlZjNCGqku1ODFeglNcSia1SKKbnGw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g:prompt-0007",
+    "source_metadata": {
+      "article_index": 313,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.34",
+      "association_confidence": "high",
+      "createTime": 1731724952,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 8",
+  "version": "v1"
+}

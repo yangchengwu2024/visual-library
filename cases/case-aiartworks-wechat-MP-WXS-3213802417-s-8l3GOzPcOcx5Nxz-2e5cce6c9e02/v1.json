@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vKfmhRJZ0BUwAaZCYZmMEbdKD9CcROibq2JN8TsqeiaDFmEbjNrbHXKvw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-s-8l3GOzPcOcx5Nxz-2e5cce6c9e02",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5aec826eaff529afc947ad9b37d1f421d8294395116dfba6c6dadd9277a408b8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "cref": "https://s.mj.run/rfqLcGrPqd0",
+    "cw": "100",
+    "no": [
+      "realism,",
+      "distortion,",
+      "poor",
+      "anatomy,",
+      "extra",
+      "limbs,",
+      "mutated",
+      "hands,",
+      "low",
+      "quality,",
+      "oversaturation"
+    ],
+    "sref": [
+      "https://s.mj.run/EMqNc3xeaAY"
+    ],
+    "sw": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A long-range night view taken horizontally from the exterior of a car looking out of the window to the back seat. A girl of about eight years old, with short black hair and bangs, sat quietly in the back seat of a black car, staring thoughtfully out the window, her face softly illuminated by the warm interior light. The interior of the car is clearly visible, with a clean, sleek design and minimalist features. The window glass reflects the faint street lights and the blurred scenery outside, creating a dreamlike layering. The surrounding night scene adds depth to the scene, and the distant lights cast soft glows and shadows that outline the girl's introspective expression. The focus is on the girl and her quiet moments of reflection, while the car's structure and nighttime environment enhance the calm, contemplative atmosphere ... --no realism, distortion, poor anatomy, extra limbs, mutated hands, low quality, oversaturation --ar 16:9 --sref https://s.mj.run/EMqNc3xeaAY --sw 1000 --cref https://s.mj.run/rfqLcGrPqd0 --cw 100 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vKfmhRJZ0BUwAaZCYZmMEbdKD9CcROibq2JN8TsqeiaDFmEbjNrbHXKvw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw:prompt-0018",
+    "source_metadata": {
+      "article_index": 272,
+      "article_title": "Vol.70 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735266618,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd",
+    "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

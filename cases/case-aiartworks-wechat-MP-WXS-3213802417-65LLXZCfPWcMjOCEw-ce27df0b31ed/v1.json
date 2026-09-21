@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDrrQS5vlWyN6UL4hvrK7XbeABc48AuC3XEDDvdiavg982lmiacE50EeguyhYMIgLwe0EDiaUU3u2icOticx9RiaFp3DBXMD3SrKlC8I/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-65LLXZCfPWcMjOCEw-ce27df0b31ed",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b5d1d5909d66e6d88a5e871af867b8092a01442ba3603281fde31b8eab928285",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "hd": true,
+    "profile": "pcc7jhc",
+    "sref": [
+      "471375903"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "worried person, doctor i did yoga ... am I now stuck in this unsanitary location --ar 3:2 --sref 471375903 --profile pcc7jhc w6g7l9b --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDrrQS5vlWyN6UL4hvrK7XbeABc48AuC3XEDDvdiavg982lmiacE50EeguyhYMIgLwe0EDiaUU3u2icOticx9RiaFp3DBXMD3SrKlC8I/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 14,
+      "article_title": "Vol.318-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785022221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd",
+    "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

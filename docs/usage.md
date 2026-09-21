@@ -2,7 +2,7 @@
 
 仓库地址：https://github.com/yangchengwu2024/visual-library
 
-供 Codex 检索和整理的图片、提示词与模板资料库。没有网站、登录系统或在线生图服务。图片和完整提示词保存在本仓库，原站链接用于溯源；上游断链或删除案例不会自动删除本库内容。
+供 Codex 检索和整理的图片、提示词与模板资料库。没有网站、登录系统或在线生图服务。完整提示词和元数据保存在本仓库；本地图片型案例保存图片文件，用户选中的公众号案例可保存受控图片外链并在 MCP 读取时按需取图。原站链接用于溯源；上游断链或删除案例不会自动删除本库内容。
 
 ## 查看资料
 
@@ -30,7 +30,7 @@ python -B scripts/library.py query --tag 商品与电商 --preferred-tag 玻璃 
 python -B scripts/library.py show <案例编号> --version v1
 ```
 
-默认查询轻量元数据；关键词不够时使用 `--full-text` 查完整提示词。显示结果包含案例 ID 和版本，图片指向本仓库内文件。查询和展示不写入资料库。当前案例数量见索引中的 `case_count`，模板见 [模板索引](../indexes/templates.json)。
+默认查询轻量元数据；关键词不够时使用 `--full-text` 查完整提示词。显示结果包含案例 ID 和版本，图片可能指向本仓库文件或受控来源外链。查询和展示不写入资料库。当前案例数量见索引中的 `case_count`，模板见 [模板索引](../indexes/templates.json)。
 
 默认查询轻量元数据；`--tag` 是必须满足的条件，`--preferred-tag` 只提高排序，不会排除其他案例。关键词不够时使用 `--full-text` 查当前版本完整提示词。`--include-source` 只在需要查来源 URL、证据摘录或诊断材料时使用。结果中的 `matched_by` 会说明命中的检索层。
 
@@ -57,8 +57,9 @@ python -B scripts/library.py query --favorites
 ## 完整存储与版本
 
 - `cases/<id>/vN.json`：原始提示词、图片清单、内容摘要、模型/参数（来源未提供则未知）、来源版本与差异。
-- `cases/<id>/vN.md`：从 JSON 生成的可读版本，图片链接指向本库。
+- `cases/<id>/vN.md`：从 JSON 生成的可读版本，图片链接指向本库或受控来源外链。
 - `images/<sha256>.<ext>`：原始图片文件；完全相同的文件只保存一份，各案例/版本保留各自引用。
+- `assets[].remote_url`：用户明确选中的公众号图片外链；当前仅允许 `https://mmbiz.qpic.cn`，MCP 按需在内存中取图，不写入持久缓存。
 - `sources/`：来源映射、同步状态、原始画廊和模板文档副本。
 - `indexes/`：可重建的轻量索引。
 - `docs/`：自动生成的画廊总览、分类目录、案例分册与模板入口。

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBHLB8TepMuRKTEeRib6MZld9GWgu9BOzVDHANLvy0sPGbqaEtibF6wkEL2IXENiaegCiaQnWAx5nSpjIPfpqvribfKABU9xcDnaLia0/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-a17M2Tzx0-nURnlI4-46daa46bced3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4e024fc93cc70623cef938cc8a6cd3868e6fdec1a8ce33391c4359113ff69817",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "sref": [
+      "3005928567"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A digital illustration of a powerful typhoon lashing the Guangzhou skyline at night. The Canton Tower and IFC buildings stand tall in the background, partly obscured by horizontal rain and fast-moving dark storm clouds. A rain-drenched illustration of a modern suburban road in Conghua district, Guangzhou, near a lychee orchard on a hillside. A small but fast-moving muddy torrent has overflowed from a drainage ditch across the clean asphalt road. A new energy SUV is pulled over cautiously. In the background, a small landslide has just covered the edge of a terraced hillside, with warning barriers placed nearby. A highway patrol officer in a bright raincoat uses a flashlight to direct traffic. The mood is tense but orderly. Color palette: earthy browns, wet slate grays, muted moss greens, and the bright orange of safety vests. Style: animated feature film concept art, realistic yet stylized, clear composition. --ar 3:4 --sref 3005928567 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBHLB8TepMuRKTEeRib6MZld9GWgu9BOzVDHANLvy0sPGbqaEtibF6wkEL2IXENiaegCiaQnWAx5nSpjIPfpqvribfKABU9xcDnaLia0/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw:prompt-0001",
+    "source_metadata": {
+      "article_index": 27,
+      "article_title": "Vol.306-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780702463,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507323&idx=1&sn=9af232b2c80a7e5e81b9400068e94295&chksm=96f65bb965fb0360110af4de70057515032edbbdbffa3d1974a1e793899de25769c8ee2d7517#rd",
+    "title": "Vol.306-Midjourney 精选作品提示词与赏析 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507323&idx=1&sn=9af232b2c80a7e5e81b9400068e94295&chksm=96f65bb965fb0360110af4de70057515032edbbdbffa3d1974a1e793899de25769c8ee2d7517#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.306-Midjourney 精选作品提示词与赏析 · 提示词 2",
+  "version": "v1"
+}

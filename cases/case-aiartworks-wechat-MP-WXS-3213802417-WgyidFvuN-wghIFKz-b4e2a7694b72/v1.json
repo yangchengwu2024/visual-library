@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOYGG1PP97LWsHgUJciayw71jaeAmB2lSMvQu8ics0DhCIghZZdszbKicj8dhhp4YDykzBloO4MiajKw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOYGG1PP97LWsHgUJciayw7r8iaEbibZyLzOpoW3MeEgoYRkdtLdciazXgQHJbSKq76YxSdbVoy5cpiaw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WgyidFvuN-wghIFKz-b4e2a7694b72",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4e27776d7bcee791ed4d45dfe634981b95cb1819fe497399b05bec51624867bb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3"
+  },
+  "previous_version": null,
+  "prompt": "Advertorial quality texture, 45 degree oblique viewing angle, dramatic lighting, simple and elegant style, large blank space, orange-gold gradient, beige stone slab foreground,white high-legged plate, porcelain-gloss mooncakes,Two exquiTwo exquisite rectangular gift boxes, osmanthus branches decoration, giant round moon background, HDR ultra-clear, 32K details --ar 2:3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOYGG1PP97LWsHgUJciayw71jaeAmB2lSMvQu8ics0DhCIghZZdszbKicj8dhhp4YDykzBloO4MiajKw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOYGG1PP97LWsHgUJciayw7r8iaEbibZyLzOpoW3MeEgoYRkdtLdciazXgQHJbSKq76YxSdbVoy5cpiaw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA:prompt-0000",
+    "source_metadata": {
+      "article_index": 64,
+      "article_title": "Vol.267 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759707019,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500647&idx=1&sn=c638d3fece9412167af065227814bba5&scene=58&subscene=0",
+    "title": "Vol.267 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500647&idx=1&sn=c638d3fece9412167af065227814bba5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.267 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

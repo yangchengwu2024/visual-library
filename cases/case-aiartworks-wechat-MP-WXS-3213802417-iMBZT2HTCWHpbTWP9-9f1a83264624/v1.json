@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEpMtgR6FFZgtxttEhEiasTmXCFR9dI2JnqSicBNuOFdzsSBlvlrPhadlA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEuNRiaMH6QCvGlia7BFLaSWKZkiaKKaPsU2W8Y6P6SxiaW35OWKPWib789gw/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iMBZT2HTCWHpbTWP9-9f1a83264624",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "56f22863c37b6a04834eba21bec50df1c54379d5a2b0639a7cc042e881d87ef4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-detailed and ultra-realistic depiction of a bluefin tuna swimming powerfully through the ocean, captured from a mounted action camera attached to its body. The image conveys an intense sense of speed and movement, with bubbles, light rays, and turbulent water rushing past. The camera angle feels immersive and dynamic, as if the viewer is racing through the sea alongside the tuna. Photorealistic, cinematic motion blur, ultra-detailed textures, 4K resolution, masterpiece, --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEpMtgR6FFZgtxttEhEiasTmXCFR9dI2JnqSicBNuOFdzsSBlvlrPhadlA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEuNRiaMH6QCvGlia7BFLaSWKZkiaKKaPsU2W8Y6P6SxiaW35OWKPWib789gw/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w:prompt-0015",
+    "source_metadata": {
+      "article_index": 53,
+      "article_title": "Vol.279 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762154286,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd",
+    "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

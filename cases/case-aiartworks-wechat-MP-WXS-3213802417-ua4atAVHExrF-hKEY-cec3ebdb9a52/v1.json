@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3FGCT576bZ2yHy837oFkPpicxIkTyXjT9lcgaJlBxL93Q2u6ia643QibXrl0PicWA7f6H7VfyhSQsiaQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ua4atAVHExrF~hKEYEwjvA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ua4atAVHExrF-hKEY-cec3ebdb9a52",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "96c2364b44e0bc0a820f42d525526af7d62d5313f161844ecdaa1a095dbf7dff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "oref": "https://s.mj.run/ko1S0_f_xgc",
+    "profile": "u1ik3lm",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/UmNHlVxxLqE"
+    ],
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "A cinematic close-shot focus on Michael Jordan while he's dribbling captured by a camera full-frame, 135mm lens, wide aperture f/2, slow shutter speed 1/60s to emphasis motion blur and movement. Mid-angle shot. Slightly back light, high contrast. The light is landing on the muscle contours, the jersey and shoes. --chaos 5 --ar 3:4 --raw --sref https://s.mj.run/UmNHlVxxLqE --profile u1ik3lm 5fleq67 --oref https://s.mj.run/ko1S0_f_xgc --stylize 250",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3FGCT576bZ2yHy837oFkPpicxIkTyXjT9lcgaJlBxL93Q2u6ia643QibXrl0PicWA7f6H7VfyhSQsiaQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ua4atAVHExrF~hKEYEwjvA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ua4atAVHExrF~hKEYEwjvA:prompt-0017",
+    "source_metadata": {
+      "article_index": 111,
+      "article_title": "Vol.218 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750462216,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ua4atAVHExrF~hKEYEwjvA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498344&idx=1&sn=ee36769a837aad26b9d77f6a7e09ff55&scene=58&subscene=0",
+    "title": "Vol.218 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498344&idx=1&sn=ee36769a837aad26b9d77f6a7e09ff55&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.218 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

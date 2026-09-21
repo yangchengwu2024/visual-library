@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDIJU63icTgpFLTkAibC87eTEJtOr6pLbwzQNTNJ0a18ORE30Ce8WPicVdVjD0d5yBsgLoTYPY4Yp2Ug3noVl3HmibvawTFwgOKhOk/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0YR006aXV7dKYCXC1-ba6c87cde1e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "449e49f8138eacf614bc17a9293cc85c1c611b4c15732dc7d4bffc97aec2b972",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "30",
+    "profile": "xg1wvhe",
+    "stylize": "1000",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Retro anime poster, 90s cel-shaded key art, film grain, no text. Side profile portrait of a cyborg, eyes wide with something dangerously close to fear, brushed metal jaw catching sharp side light, muted blue circuitry flickering erratically beneath synthetic skin, extreme minimal composition, vast pale white emptiness, quiet dread --chaos 30 --ar 9:16 --profile xg1wvhe ojaglve --stylize 1000 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDIJU63icTgpFLTkAibC87eTEJtOr6pLbwzQNTNJ0a18ORE30Ce8WPicVdVjD0d5yBsgLoTYPY4Yp2Ug3noVl3HmibvawTFwgOKhOk/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA:prompt-0002",
+    "source_metadata": {
+      "article_index": 7,
+      "article_title": "Vol.325-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1786750265,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510994&idx=1&sn=97a3bfb9a60f805262757a2afee0587a&chksm=96b8a9dcfb0d16b4159d0777fff0359a8bae9afa0e15d181fde3602a7bc836bddcfb1023e87d#rd",
+    "title": "Vol.325-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510994&idx=1&sn=97a3bfb9a60f805262757a2afee0587a&chksm=96b8a9dcfb0d16b4159d0777fff0359a8bae9afa0e15d181fde3602a7bc836bddcfb1023e87d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.325-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

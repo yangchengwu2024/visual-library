@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdVQO3SJXG1sQLOhelVaibdgCsica1WqiaeVcA6M8ldyIRzDDib4ibMbO0Wgw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdZLUnoqxKiazPE0ollY4YoaAqlyDOcBHR7NecQEETuUyrFufczYw4Brg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N30sGqNyJxLHBoa5j-daffd6c46700",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8ec975c3f8041f9a8cf9c47182df4f1a8b21c99146ecbf13991a2bcc4a280e90",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "8c6bhn4",
+    "stylize": "90",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Award winning astrophotography. An astronaut has a campfire on moon. He's burning a marshmallow. An iron kettle hanging on tripod woodstick above the fire. Vacation mood. Hyper realism --ar 9:16 --profile 8c6bhn4 --stylize 90 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdVQO3SJXG1sQLOhelVaibdgCsica1WqiaeVcA6M8ldyIRzDDib4ibMbO0Wgw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdZLUnoqxKiazPE0ollY4YoaAqlyDOcBHR7NecQEETuUyrFufczYw4Brg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw:prompt-0019",
+    "source_metadata": {
+      "article_index": 116,
+      "article_title": "Vol.212 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749952875,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0",
+    "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

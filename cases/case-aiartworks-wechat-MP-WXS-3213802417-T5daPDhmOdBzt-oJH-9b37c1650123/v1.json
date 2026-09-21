@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShde6DAkLxp7T0TnNKvtahlX3tIHJPY1wic0ulwIzt66piczO5lCSGHcvQu6PxOg9n9QmocU0FrNqPQw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-T5daPDhmOdBzt-oJH-9b37c1650123",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fec5a914ef059d62f5738b06c2b7e38074d65140eaba3110291484031f756218",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A surrealistic, highly stylized and 3D rendered chibi character with a porcelain-like shiny face, large and expressive eyes, the character is wearing headphones with a crystalline and liquid effect, childlike appearance, and soft and rounded features, large head and small body. The character has an ethereal, dreamlike aesthetic with vibrant neon pink tones. He tilts his head upward with a cheerful expression. The perspective is a close-up from a low angle, which accentuates her large facial features and creates a sense of depth and immersion. This slightly distorted, almost fisheye-like viewpoint enhances the dreamlike quality, making her seem grand and otherworldly. The camera lens appears to be positioned in a three-quarter perspective just below her chin, looking upward. The lighting is soft and diffused, creating a luminous, almost translucent effect. The art style combines cartoony with anime, evoking a mix of cyberpunk-inspired whimsy and kawaii fashion surrealism. Translated with DeepL.com (free version) --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShde6DAkLxp7T0TnNKvtahlX3tIHJPY1wic0ulwIzt66piczO5lCSGHcvQu6PxOg9n9QmocU0FrNqPQw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw:prompt-0013",
+    "source_metadata": {
+      "article_index": 183,
+      "article_title": "Vol.150 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743815357,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495546&idx=1&sn=cb43139f490aff7482be29eac09f8349&chksm=96fc1e49a1ba14b6bc4ac7770478f483dc0cc63e86f95bc8b2c625395b16bbaeb7a8566e4e10#rd",
+    "title": "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495546&idx=1&sn=cb43139f490aff7482be29eac09f8349&chksm=96fc1e49a1ba14b6bc4ac7770478f483dc0cc63e86f95bc8b2c625395b16bbaeb7a8566e4e10#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

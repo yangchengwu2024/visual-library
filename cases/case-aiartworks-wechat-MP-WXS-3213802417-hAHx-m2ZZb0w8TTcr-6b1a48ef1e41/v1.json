@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmvmwpNAtOPlg88uqUG93yYon3krugKUNBic0CVicDbu73kUTEcmqibotXQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmQxFgBgqfK02FkOXfLfJIuVlnIfK9DriaoWflmIPObhw9yl1Q1q89EPA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hAHx-m2ZZb0w8TTcr-6b1a48ef1e41",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1949372332f1d05c15ae8bcc703ace757c62372b967cb4d727638401cff219e3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "zgmelws",
+    "stylize": "500",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A sacred mount selection ground under a golden sky, five unique fantasy steeds standing apart in a semi-circle a flaming red warhorse with metal armor, a giant eagle with glowing eyes and feathered armor, an icy stag with misty hooves, a shadow lion with violet runes etched into its mane, and a mechanical steed with glowing blue core grand scale, cinematic fantasy setting, high detail, ultra realistic textures, golden light --ar 9:16 --profile zgmelws --stylize 500 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmvmwpNAtOPlg88uqUG93yYon3krugKUNBic0CVicDbu73kUTEcmqibotXQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmQxFgBgqfK02FkOXfLfJIuVlnIfK9DriaoWflmIPObhw9yl1Q1q89EPA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg:prompt-0019",
+    "source_metadata": {
+      "article_index": 120,
+      "article_title": "Vol.208 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749598239,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497963&idx=1&sn=2464e49b63feb297c71ed019c6735a90&chksm=96e7a23581a0f08d2612c8b481f8942ab0ea4fe485da842331db31679fab9dd43f0fa27316d6#rd",
+    "title": "Vol.208 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497963&idx=1&sn=2464e49b63feb297c71ed019c6735a90&chksm=96e7a23581a0f08d2612c8b481f8942ab0ea4fe485da842331db31679fab9dd43f0fa27316d6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.208 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

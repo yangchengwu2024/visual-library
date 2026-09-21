@@ -1,0 +1,82 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAxtNj40Yoxo8hf81MjZwC8nPxuIDjFWCic5tmyaTOqlNpK7tITWU4CjQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAeHTiaYBqD5GB9DuBXVSGNX3hd5q4AdIRdyH0iaPlqiaI7Pw0fLPrmfWfw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAesicJN1kXHAzguA2OIC34ibXDibrREYGjZS4F1lIJOxIrDuutq1gfN3hg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKk-Kzv8U08-psNGR-a397cb98cc43",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8a4d8f9ad8e6809cc7e6c23fa9c956e3dcfc644b8cc2d7aea557214245016c8b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "cute kawaii cartoon snake fridge magnet, lovely, clay material snake shape fridge magnet, stick on the fridge, high-key photography, in the style of intricately sculpted, studio light, anime aesthetic, colorful arrangements, young, lively, rustic charm, 32k uhd, Isometric view --ar 3:4 --v 6.1 charlesma44rtin_09467",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAxtNj40Yoxo8hf81MjZwC8nPxuIDjFWCic5tmyaTOqlNpK7tITWU4CjQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAeHTiaYBqD5GB9DuBXVSGNX3hd5q4AdIRdyH0iaPlqiaI7Pw0fLPrmfWfw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAesicJN1kXHAzguA2OIC34ibXDibrREYGjZS4F1lIJOxIrDuutq1gfN3hg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw:prompt-0000",
+    "source_metadata": {
+      "article_index": 259,
+      "article_title": "Vol.81 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736389825,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491295&idx=1&sn=9ed3201134d6f64926013a68d1c46779&chksm=96e5d4176f93c39c3a48fee9aadacf1c5770935d13603fa7710c48a0831f22538a055b81c26e#rd",
+    "title": "Vol.81 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491295&idx=1&sn=9ed3201134d6f64926013a68d1c46779&chksm=96e5d4176f93c39c3a48fee9aadacf1c5770935d13603fa7710c48a0831f22538a055b81c26e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.81 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

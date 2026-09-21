@@ -1,0 +1,96 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbzMdJ7908DKz8Hia18aRv4oIatvwM0maqIOE2EyibnXu2F0qFicBBmH5RSHoKqJNyU6XuK9mZmFo1Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WxeIFoDqN1St6g1ib4JjSPBZ05jyV3ViaC1faeibiccUFB4tXUzpib3qCUoB5vKVJCIIryXDcks3DWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WxeIFoDqN1St6g1ib4JjSib7qDkTlgrMxINIjSwEmoDz1sL1Ag2ZGNekccSb1nNKsbWial9uKV1jQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbzMdJ7908DKz8Hia18aRv4ge4VLdRTfbsWXU9anYlg7AhVTFJXov1VhPicpv5Ud51zrQoXnLjVuag/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-064v1TRULkSriXfKq-cb6172acdd64",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f1923b992788a755f5ef64fdd1dd5ed12781e15f8f73e1bdc045b8b188d0d68d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "85:128",
+    "chaos": "20",
+    "profile": "oj4xud3",
+    "style": "raw",
+    "stylize": "50",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Gosha Rubchinskiy style short haired boy, front view, set in a cyberpunk setting with lots of mechanical parts and technological equipment. Digital illustrations by Tatsuya Yoshikawa, featured in CGSociety. Art deco style design, digital illustration of anime character with mechanical arm. Portrait of robot man, full face, porcelain skin, with cyberpunk decoration, black background, rich details. Concept art inspired illustration. --chaos 20 --ar 85:128 --style raw --profile oj4xud3 --stylize 50 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbzMdJ7908DKz8Hia18aRv4oIatvwM0maqIOE2EyibnXu2F0qFicBBmH5RSHoKqJNyU6XuK9mZmFo1Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WxeIFoDqN1St6g1ib4JjSPBZ05jyV3ViaC1faeibiccUFB4tXUzpib3qCUoB5vKVJCIIryXDcks3DWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WxeIFoDqN1St6g1ib4JjSib7qDkTlgrMxINIjSwEmoDz1sL1Ag2ZGNekccSb1nNKsbWial9uKV1jQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbzMdJ7908DKz8Hia18aRv4ge4VLdRTfbsWXU9anYlg7AhVTFJXov1VhPicpv5Ud51zrQoXnLjVuag/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 269,
+      "article_title": "Vol.72 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735530145,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 9,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490665&idx=1&sn=b92042179daff5e2360f4796206bbf6e&scene=58&subscene=0",
+    "title": "Vol.72 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490665&idx=1&sn=b92042179daff5e2360f4796206bbf6e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.72 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

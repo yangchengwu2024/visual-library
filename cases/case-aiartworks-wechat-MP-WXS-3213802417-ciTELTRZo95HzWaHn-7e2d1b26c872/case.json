@@ -1,0 +1,70 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ciTELTRZo95HzWaHn-7e2d1b26c872",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBSheJ3jDElhZRVb9WUBrUSIejLmN01xSwAdrmibqzM3qkEeXbCX6WjqLGzmgT6VenviaicQVzql9iblEx5Q/0?wx_fmt=gif&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJ3jDElhZRVb9WUBrUSIejInpAEc54J3paM9hrZzeFrV61D9TKo53QOsq47LxzXzK81Cib0OAlKicw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJ3jDElhZRVb9WUBrUSIejPpM28cn95IZGarEZunBndlTxdQOm7I6ft8Zbpk1rPXOvnwZBvHyQaw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-2"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ:prompt-0009",
+      "source_metadata": {
+        "article_index": 49,
+        "article_title": "Vol.283 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1762903843,
+        "image_storage": "external_url",
+        "image_url_count": 3,
+        "prompt_index": 9,
+        "review_url_count": 3,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503403&idx=1&sn=17beb9c6fa53878107121d690a564932&scene=58&subscene=0",
+      "title": "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503403&idx=1&sn=17beb9c6fa53878107121d690a564932&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "title_aliases": [
+    "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 10"
+  ]
+}

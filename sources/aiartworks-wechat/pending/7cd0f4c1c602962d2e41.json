@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yyaNoAf-0ezSHtHh8-6272f4fc97fe",
+  "fingerprint": "9685fd8b4d6d31209d154915addbaa4142a2732d336c2f7e58b312f2cdf65f9a",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "motion": "low",
+    "video": "1"
+  },
+  "prompt": "snorkel cam on gorilla running through the jungle --ar 51:91 --motion low --video 1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g:prompt-0016",
+    "source_metadata": {
+      "article_index": 81,
+      "article_title": "Vol.250 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1756251064,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd",
+    "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd"
+  },
+  "source_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g:prompt-0016",
+  "status": "pending",
+  "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 17"
+}

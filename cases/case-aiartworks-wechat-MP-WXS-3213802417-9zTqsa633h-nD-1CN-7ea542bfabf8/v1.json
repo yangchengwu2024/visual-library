@@ -1,0 +1,88 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA4dsdeib8QrNzLFkic46h39UHzpHymGHiciap8Gzg7gkVhaT9GibP2LCPkiaEwHia8McH0ERUzVX2Iia9TZl7lUk60Y82JYEqKuTnicd4U/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBNrs2AQVDhPSAhTesgzeaIyhDmq7kdg6ePtmMvQDK4btoNcsq9cewynUvgxSZrzJARia4cKymdfvHnZ2KI4EHYdQRhXTdAbdq0/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-7ea542bfabf8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dd0638baf70fa28368ddbefc05d51625df2d9966d0c4fd3ab351c7da8dc0d2bc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "hd": true,
+    "profile": "kt4mwt1",
+    "raw": true,
+    "sref": [
+      "3633381587"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "young girl with braided or tied-up hair, holding hands near face, face and hands covered with colorful stickers including stars, fruits, flowers, each sticker different design, clear skin, natural makeup, vivid striped knit in green, red, and blue, close-up high-resolution, minimal background --ar 51:91 --raw --sref 3633381587 --profile kt4mwt1 cofmuqj swvhw3y 2yabz78 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA4dsdeib8QrNzLFkic46h39UHzpHymGHiciap8Gzg7gkVhaT9GibP2LCPkiaEwHia8McH0ERUzVX2Iia9TZl7lUk60Y82JYEqKuTnicd4U/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBNrs2AQVDhPSAhTesgzeaIyhDmq7kdg6ePtmMvQDK4btoNcsq9cewynUvgxSZrzJARia4cKymdfvHnZ2KI4EHYdQRhXTdAbdq0/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0000",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 1",
+  "version": "v1"
+}

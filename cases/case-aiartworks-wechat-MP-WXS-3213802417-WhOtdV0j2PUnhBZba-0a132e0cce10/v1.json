@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibsw1jvCyLMibibRJYvniaEe60xcf1nOpBhoHYmicKUznUkfeX9D54gNanLQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibbktLtdW2XjiafSVEwL4PXZPfKLZ448QzozQ9tpaGEtyCoFbs5Kia8bpA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WhOtdV0j2PUnhBZba-0a132e0cce10",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "86fb3dd007342e70a6d7e405ecc935f3cc7c87e90b6cdba14f010eff31561916",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "5",
+    "profile": "h9i44vd",
+    "sref": [
+      "3776989357::2",
+      "https://s.mj.run/X1PfagEQKno",
+      "https://s.mj.run/c91Z1DaR0b0",
+      "https://s.mj.run/AEEgXpL617Y",
+      "https://s.mj.run/VgzudqQ5ADk",
+      "https://s.mj.run/en_L-kLsBxo"
+    ],
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/Z1JbdV9EJo0 Magazine cover, industrial revolution. An incredibly gorgeous cyberpunk robot with circular heads and details glowing in orange light in an avant-garde dress made of spreadsheets holds the skull of a saint, the robot has a rococo hat also made of flying spreadsheets. This is a fashion photography image, featuring hyper-realistic, photorealistic, cinematic effects, studio lighting, a full-body shot, and a portrait. The image has been professionally color-graded, showcasing intricate details. --chaos 5 --ar 9:16 --sref 3776989357::2 https://s.mj.run/X1PfagEQKno https://s.mj.run/c91Z1DaR0b0 https://s.mj.run/AEEgXpL617Y https://s.mj.run/VgzudqQ5ADk https://s.mj.run/en_L-kLsBxo --profile h9i44vd c6so3sz::2 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibsw1jvCyLMibibRJYvniaEe60xcf1nOpBhoHYmicKUznUkfeX9D54gNanLQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibbktLtdW2XjiafSVEwL4PXZPfKLZ448QzozQ9tpaGEtyCoFbs5Kia8bpA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 270,
+      "article_title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1735433475,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490600&idx=1&sn=8dc24886c554f289a41ea3260c863e35&scene=58&subscene=0",
+    "title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490600&idx=1&sn=8dc24886c554f289a41ea3260c863e35&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 12",
+  "version": "v1"
+}

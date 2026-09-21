@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicicsnl31sl3YoG2SeSY7wPDx8HPX50J4cxZu49qzOswibdfSqic3DXBFbPUiaQTmDpYlA9zNjyFv3IqXcibSXByoA0Z3pQjPO1X2c/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZqAcibMpicoAS5sxQUzsDiaQt8td96uUwoGIQTaZFBIq1bA6w3fOyFbjwlLUfia0q2ztNrIU7HBVxUkdAFgEQ3mpjT79KticnpQ7Y/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBxrJzwubk1CiabgjOwFGvAuBFNOc3ELiaCicN5FiccfaMBYEQm4AlI4VbJiaFPf6hPmMEPlnTubria1y6Dlra1g44qGyNj4hl2doHZw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WA9NAibQ96Rg0icCoonP8s1L2zQPy178wMEXFKcYfv9lT7maSLRaSDZHxwSm1evbqIPwsYicY2AxEoVicCq94CbG31Ceiacjt1vMUkk/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-2d49112be567",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c81b92013b0eec126e00b315e8333d1ad2eae9de0c3ab17e9fd7835b0a32b970",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "5",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A fat hen mother and a chicken tries to escape under it, surrealistic Illustration by michael sowa Quint buchholz --chaos 5 --ar 2:3 --raw --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicicsnl31sl3YoG2SeSY7wPDx8HPX50J4cxZu49qzOswibdfSqic3DXBFbPUiaQTmDpYlA9zNjyFv3IqXcibSXByoA0Z3pQjPO1X2c/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZqAcibMpicoAS5sxQUzsDiaQt8td96uUwoGIQTaZFBIq1bA6w3fOyFbjwlLUfia0q2ztNrIU7HBVxUkdAFgEQ3mpjT79KticnpQ7Y/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBxrJzwubk1CiabgjOwFGvAuBFNOc3ELiaCicN5FiccfaMBYEQm4AlI4VbJiaFPf6hPmMEPlnTubria1y6Dlra1g44qGyNj4hl2doHZw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WA9NAibQ96Rg0icCoonP8s1L2zQPy178wMEXFKcYfv9lT7maSLRaSDZHxwSm1evbqIPwsYicY2AxEoVicCq94CbG31Ceiacjt1vMUkk/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0013",
+    "source_metadata": {
+      "article_index": 35,
+      "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1777851036,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 13,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+    "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

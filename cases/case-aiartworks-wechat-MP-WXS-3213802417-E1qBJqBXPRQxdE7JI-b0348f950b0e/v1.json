@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8KoyFrT5vxvVczpgnk8iauYzm93yb9tefKhBdWEt3RsQvE0yZrlyGb7Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8McPe4PVtqpKlNq8ib0FYcQWbRb0G5Hhoh2tYTy4GMz7tUicYFiclQNueA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E1qBJqBXPRQxdE7JI-b0348f950b0e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a5a4ddb3fe0ce9deeac9ca41d459a9de3a4139776dda25b7eb32aec3162aedf1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "7",
+    "quality": "2",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "First-person perspective (POV) of an astronaut waking up on Mars, lying on the ground with their legs stretched out in front of them, slightly buried in the red dust. Their gloved hands are visible, resting on the sand, fingers twitching slightly as they regain consciousness. The cracked visor of their helmet is partly visible at the bottom of the frame, with condensation fogging a small section. The deep orange Martian sky looms above, with the dim sun casting long shadows. Distant rocky formations and sand dunes stretch across the barren landscape. A faint emergency signal flashes from a broken communication device nearby, half-buried in the dust. The atmosphere is eerily silent, evoking a sense of isolation and mystery. Hyper-realistic textures, cinematic sci-fi lighting, 8K ultra-realistic rendering, immersive first-person perspective, shallow depth of field to enhance realism. --chaos 7 --ar 9:16 --quality 2 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8KoyFrT5vxvVczpgnk8iauYzm93yb9tefKhBdWEt3RsQvE0yZrlyGb7Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8McPe4PVtqpKlNq8ib0FYcQWbRb0G5Hhoh2tYTy4GMz7tUicYFiclQNueA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg:prompt-0007",
+    "source_metadata": {
+      "article_index": 223,
+      "article_title": "Vol.119 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740623422,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E1qBJqBXPRQxdE7JI7epcg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493828&idx=1&sn=b8315aa6a915ea9cc1a73d7447c54eed&scene=58&subscene=0",
+    "title": "Vol.119 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493828&idx=1&sn=b8315aa6a915ea9cc1a73d7447c54eed&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.119 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

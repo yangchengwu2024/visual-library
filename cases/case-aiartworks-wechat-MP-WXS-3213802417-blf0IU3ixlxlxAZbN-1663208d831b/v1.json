@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jAEcicsSE6TvnzN0yJbAMFLBecibrgp3WON3icibaPicx3AIica7HTzvCQVmA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-blf0IU3ixlxlxAZbN-1663208d831b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6c0ede975b89284f79d9136b066c6026fa9c95b32d164d81f0454e9aeba1609c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A Chinese baby mermaid lies peacefully on a fishing net by the river. The baby mermaid has a delicate, almost translucent appearance, covered in wet water, smooth, pale skin and a small, round head. Her hair was short and dark, her eyes were closed, and she seemed to be sleeping. Her ears were pointy, pixie, and her tail, fishy in color and orange, became a slender, fin-like structure. The net beneath her was white and coarse, in contrast to her smooth, almost transparent skin. The background is a vague natural environment, perhaps a lake or a river, with green and blue marks indicating water. The net is placed on a flat surface, maybe a rock or a piece of wood, and some dry brown vegetation can be seen in the upper right corner. The overall ambiance of this photo is serene and dreamy, emphasizing the peaceful coexistence of Chinese baby mermaids. --ar 9:16 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jAEcicsSE6TvnzN0yJbAMFLBecibrgp3WON3icibaPicx3AIica7HTzvCQVmA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 314,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.33",
+      "association_confidence": "high",
+      "createTime": 1731640592,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 14",
+  "version": "v1"
+}

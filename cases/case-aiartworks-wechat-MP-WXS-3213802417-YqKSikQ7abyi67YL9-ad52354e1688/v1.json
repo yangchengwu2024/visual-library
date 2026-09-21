@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfOvL6rc6g3aEIclZ6swxhTicrribFX1jzIEzJWxNp1zk3xruBaiayXnibnj4yiaqsowekFw5THFZUCib1g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YqKSikQ7abyi67YL9-ad52354e1688",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0f99c9ea5465140122b1a8b3ef3e4c21d77b0a0392e8d01a24384a22c4dc77e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "profile": "2jpk21t",
+    "raw": true,
+    "stylize": "40"
+  },
+  "previous_version": null,
+  "prompt": "a faceless human figure with undefined features standing against a blurred green horizon, their entire body rendered in soft red-orange gradients as if glowing from within, surrounded by dreamlike chromatic aberration and diffusion blur, abstract neon yellow light forms scribbled across their chest and shoulder like an electrical pulse or symbolic language, highly stylized surreal photography aesthetic, the air thick with hazy digital fog, soft background blending seamlessly into atmospheric distortion, futuristic and emotional tone evoking themes of isolation, subconscious energy, and internal transformation, painterly finish with a sci-fi conceptual fashion mood --ar 4:5 --raw --profile 2jpk21t --stylize 40",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfOvL6rc6g3aEIclZ6swxhTicrribFX1jzIEzJWxNp1zk3xruBaiayXnibnj4yiaqsowekFw5THFZUCib1g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg:prompt-0008",
+    "source_metadata": {
+      "article_index": 100,
+      "article_title": "Vol.229 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752019384,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0",
+    "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBwsicz0u97pKjyNJ66tAe3LRH0uQbVH63eIBxJW2qXMyf4JR5lORvcKIUStZVia77kzBrQ4YRF2lcENcSPRXdjCztB3sriaGdLsQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dLDwdXfce2GQ2enLa-91a6ac5cc457",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "162aae7c36d72b8786c34549fa8951b635208c1118e75148a074aae6de262d9f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "rlb1x65",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A photorealistic fashion portrait of a lovely woman in her early 20s with delicate natural features and soft youthful elegance in a minimal white studio room, wearing a pale blue fitted top and an ivory cotton skirt with subtle vintage feminine details, calm innocent expression, clean skin texture, effortless Korean editorial mood, soft direct flash mixed with diffused daylight, shot with a Canon EOS R5, 50mm f/1.8 lens, airy pastel color palette with soft whites, powder blue, cream tones and gentle film grain --ar 9:16 --profile rlb1x65 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBwsicz0u97pKjyNJ66tAe3LRH0uQbVH63eIBxJW2qXMyf4JR5lORvcKIUStZVia77kzBrQ4YRF2lcENcSPRXdjCztB3sriaGdLsQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g:prompt-0005",
+    "source_metadata": {
+      "article_index": 21,
+      "article_title": "Vol.311-Midjourney | 6月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1782603024,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+    "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 6",
+  "version": "v1"
+}

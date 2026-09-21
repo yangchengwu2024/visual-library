@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedOQMrxOnDA2m93TSpGuUczQl9IBm0YcfQV5HKBicSOwSouZcphxptkRJiaJqxmMz7WjaXb8Yg1nvw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkERsZtOGuwK9jqwU-11506b8f2b6e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "db1192a48b222d4630c689af182d010f67b86cbfa98c1072de72d3959cd74d68",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The outline and shape of China's Thousand Miles of Rivers and Mountains map are designed using line patterns in a flat geometric cover design, with advanced black and white lines and black and white colors --ar 1:2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedOQMrxOnDA2m93TSpGuUczQl9IBm0YcfQV5HKBicSOwSouZcphxptkRJiaJqxmMz7WjaXb8Yg1nvw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw:prompt-0017",
+    "source_metadata": {
+      "article_index": 211,
+      "article_title": "Vol.129 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741660236,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd",
+    "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

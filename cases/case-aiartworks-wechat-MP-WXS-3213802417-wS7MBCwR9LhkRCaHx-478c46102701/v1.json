@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDpn30cGoyK3dYWq24CvOhdzLjHAkuZia2Vib7356bg0TCy1ef3ma1I8qQ/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDjrm31NyLzStiaqUiaNC5icpcGrFfdibQenbBVU2FNFkjKtTvTeRO7mTw6A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKD9TE7ribbHgRnNkaslOiaqMWxM2kMkUHuvE1Lq0MepzqoCvNXj0SneFXg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDicfvt5dMbQ14glScibFwOqlxJh17tghSicLsMAUE64qdTibGePtcic4X2VA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wS7MBCwR9LhkRCaHx-478c46102701",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "880cba675840290169314cb2794195b637b31fb73a5b3e71d6e29b8af5736af4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "motion": "low",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic photo of a cat standing upright like a human, carefully repairing an electric socket on the wall with a screwdriver. Next to the cat, a small mouse acting as an apprentice, realistically handing over tools to the cat. Detailed textures, natural lighting, sharp focus, looks like a real-life moment, humorous but photorealistic scene. --ar 51:91 --motion low --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDpn30cGoyK3dYWq24CvOhdzLjHAkuZia2Vib7356bg0TCy1ef3ma1I8qQ/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDjrm31NyLzStiaqUiaNC5icpcGrFfdibQenbBVU2FNFkjKtTvTeRO7mTw6A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKD9TE7ribbHgRnNkaslOiaqMWxM2kMkUHuvE1Lq0MepzqoCvNXj0SneFXg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDicfvt5dMbQ14glScibFwOqlxJh17tghSicLsMAUE64qdTibGePtcic4X2VA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg:prompt-0009",
+    "source_metadata": {
+      "article_index": 65,
+      "article_title": "Vol.266 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759451166,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 9,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500604&idx=1&sn=49b7480021e0a2ce5b552a4279017e19&chksm=96a7798cc2c0f6b39a335e1bece6a65ddf7511ad07374d8b2d28e12849b97e276b3169d02adb#rd",
+    "title": "Vol.266 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500604&idx=1&sn=49b7480021e0a2ce5b552a4279017e19&chksm=96a7798cc2c0f6b39a335e1bece6a65ddf7511ad07374d8b2d28e12849b97e276b3169d02adb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.266 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

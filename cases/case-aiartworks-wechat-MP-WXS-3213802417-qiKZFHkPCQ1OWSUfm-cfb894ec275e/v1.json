@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwqtzPlPIrUlMoaMOUXaHbqLwnodZjTRRLaxAwMgM22TGuK7wVeBa2bg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwPHjs7kNkICWyDG0q469iaNlw7TOIRnJOCXnm7oleyNRhrQKJqSeaViaw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qiKZFHkPCQ1OWSUfm-cfb894ec275e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a88217ad37f68d8195e586ef26e852125351f5b18a1ad51ef6cd59343b0d61e9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "personalize": "hn373xu",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A woman in a white cable-knit sweater, styled in the style of Alex Strohl and James Bidgood, trending on Pinterest for its aestheticism, oshare kei, full-body profile, hyper-realistic street style photography, with a minimalist white wall background, wearing gloves and a long-sleeve turtleneck sweater, in a profile picture. --ar 3:4 --personalize hn373xu --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwqtzPlPIrUlMoaMOUXaHbqLwnodZjTRRLaxAwMgM22TGuK7wVeBa2bg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwPHjs7kNkICWyDG0q469iaNlw7TOIRnJOCXnm7oleyNRhrQKJqSeaViaw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA:prompt-0000",
+    "source_metadata": {
+      "article_index": 315,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.32",
+      "association_confidence": "review",
+      "createTime": 1731550840,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486969&idx=1&sn=e56b7c0f0d34cd67b93cbb5415938d1a&chksm=9684308ee8ee227c874a13b49014ffb67d5a714890172cb3b00aa2637e58cb936aecd1e41aeb#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.32 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486969&idx=1&sn=e56b7c0f0d34cd67b93cbb5415938d1a&chksm=9684308ee8ee227c874a13b49014ffb67d5a714890172cb3b00aa2637e58cb936aecd1e41aeb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.32 · 提示词 1",
+  "version": "v1"
+}

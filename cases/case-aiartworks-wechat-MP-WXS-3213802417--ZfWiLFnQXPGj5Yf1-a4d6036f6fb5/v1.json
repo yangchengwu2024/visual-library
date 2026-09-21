@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZW5Jg6SmEZj6pu5WCnBTNdiaS2J4kDeCsOsibqP9iaAdKIE61ibBT41hmR3A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWRq7EMdWsKUziafwXK15TbAvoMNf3VNOamibqGGfLQeHNhpGGlbbtcezQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWW3icsxuBHicSFvoLjk3RzkCuzqvnjvUiaiarc9Vo1FFVAVt4PWSFkicicQxQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZW8L43BkBMEmvz7zauucH91p0mc7FR7LoxOpMiabxA6uHpYtlTa9jt9iaQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--ZfWiLFnQXPGj5Yf1-a4d6036f6fb5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b31800232a9d1adad9b48ae7dafd81e9f4e9777ae3cc5c80423cfab8b501a899",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "vbtlxgp",
+    "stylize": "750"
+  },
+  "previous_version": null,
+  "prompt": "This image generates a vast desert scene in black and white, with tens of thousands of wooden stakes connected and intertwined with colorful strips of cloth, creating a magnificent piece of land art. The style is avant-garde and edgy. Dark clouds fill the sky, and strange flocks of birds fly past some of the stakes. It boasts cinematic-quality photography, a super-magical style, 8K resolution, and strong overhead lighting--a truly exceptional photograph. --ar 9:16 --profile vbtlxgp --stylize 750",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZW5Jg6SmEZj6pu5WCnBTNdiaS2J4kDeCsOsibqP9iaAdKIE61ibBT41hmR3A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWRq7EMdWsKUziafwXK15TbAvoMNf3VNOamibqGGfLQeHNhpGGlbbtcezQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWW3icsxuBHicSFvoLjk3RzkCuzqvnjvUiaiarc9Vo1FFVAVt4PWSFkicicQxQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZW8L43BkBMEmvz7zauucH91p0mc7FR7LoxOpMiabxA6uHpYtlTa9jt9iaQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g:prompt-0011",
+    "source_metadata": {
+      "article_index": 50,
+      "article_title": "Vol.282 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762731024,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 11,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0",
+    "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

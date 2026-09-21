@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63I9zLsnzORcPDI7fxLwcBL4ibLbxiaemIDuEYGWsnaAMqZiaKzo1m6v1AgQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63IYgsraPWOOJ8oRBH6lOOTIGjSkvyEKPvdNkOkx2HmjuywWicdRkW3YPQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-mOF-ECuCpSBlsYAk--8f18c2b3f254",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3057a8eed411734ab4e26f51f429bf5d44d7321ac7be5baea39db8d07ccaa84c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/JK9mbmiln_A A boy in red and blue short sleeves, wearing white gloves and a helmet, skates on the ice track with a happy, racing posture. The cool sports photography style captures his smiling expression against a blue sky background with snow-capped mountains in the distance. This full-body photograph would be suitable for a children's fashion magazine cover, with high-definition, high-resolution photography. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63I9zLsnzORcPDI7fxLwcBL4ibLbxiaemIDuEYGWsnaAMqZiaKzo1m6v1AgQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63IYgsraPWOOJ8oRBH6lOOTIGjSkvyEKPvdNkOkx2HmjuywWicdRkW3YPQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q:prompt-0008",
+    "source_metadata": {
+      "article_index": 267,
+      "article_title": "Vol.74 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735698646,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490772&idx=1&sn=a4162690c62b94cb24869ff53ff7b898&chksm=96313d502ce2470b007b26e9fa516d12b41c89e3cadee8b09f1278753f3dcee955b90752ce50#rd",
+    "title": "Vol.74 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490772&idx=1&sn=a4162690c62b94cb24869ff53ff7b898&chksm=96313d502ce2470b007b26e9fa516d12b41c89e3cadee8b09f1278753f3dcee955b90752ce50#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.74 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

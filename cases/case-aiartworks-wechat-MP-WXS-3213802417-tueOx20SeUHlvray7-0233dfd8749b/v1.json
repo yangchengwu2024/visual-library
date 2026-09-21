@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBa1BRxTc2kSQicpictsNtR0mx0YF5pLtkibJLcDyLVhoHwoUk7K53YFrAKoiauOqHbXmKBGXNiaFsRD25sX79GUV3y3ch5wzNXCzSE/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD7T2BGnAIm4sThvQJGERPIxEBWamgfgX88MbsLiccBpJicAJ7O6MdDibjKT37lh8665Kc2pFfrJy1iawWUP5mPFDTOx4e4LTic8v7k/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDAYFXbzYbvDjkGvWrI8SAPzNJmse9Fd04iciaE81rhibr9INvPjBnsVHxU6npogMYBEPfLI8dticPiaPnaF8RvXibWX5tNWJLS4Uib0c/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tueOx20SeUHlvray7-0233dfd8749b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "79df304bb8b456de9aa646b1b7ac164322b3916ee19a5e52ea32e1bd2525e372",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "lkr9pcr",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A photorealistic wide-angle interior photograph of a compact off-road UTV, shot with a prominent fisheye lens, creating a claustrophobic and distorted cockpit view. The vehicle is moving through a mud track under an overcast sky. The front windshield and the foreground of the shot are heavily splattered with gritty, wet brown mud textures. An orange tabby cat is sitting upright in the driver’s seat, paws gripped onto the steering wheel, wearing a fitted black canvas harness; its expression is completely stoic and unbothered. Beside him in the passenger seat, a Siberian Husky, also harnessed, is reacting in wild panic, its head tilted back, mouth wide open in a loud, shouting howl. A tiny, bright orange 'Little Trees' pine-tree air freshener hangs from the central rear-view mirror. The vehicle has blue and teal structural frames. Gritty, natural lighting, high detailed textures on fur and mud, action shot, 4k --ar 9:16 --profile lkr9pcr --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBa1BRxTc2kSQicpictsNtR0mx0YF5pLtkibJLcDyLVhoHwoUk7K53YFrAKoiauOqHbXmKBGXNiaFsRD25sX79GUV3y3ch5wzNXCzSE/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD7T2BGnAIm4sThvQJGERPIxEBWamgfgX88MbsLiccBpJicAJ7O6MdDibjKT37lh8665Kc2pFfrJy1iawWUP5mPFDTOx4e4LTic8v7k/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDAYFXbzYbvDjkGvWrI8SAPzNJmse9Fd04iciaE81rhibr9INvPjBnsVHxU6npogMYBEPfLI8dticPiaPnaF8RvXibWX5tNWJLS4Uib0c/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw:prompt-0002",
+    "source_metadata": {
+      "article_index": 33,
+      "article_title": "Vol.300-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1778801495,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0",
+    "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

@@ -1,11 +1,11 @@
 <!-- VISUAL-LIBRARY-GALLERY:START -->
 ![个人视觉资料库](assets/banner.svg)
 
-**563 条资料 · 13 个分类 · 22 个模板**
+**7090 条资料 · 13 个分类 · 22 个模板**
 
 [打开完整画廊](docs/gallery.md) · [提示词模板](docs/templates.md)
 
-原图文案例 554 · 风格参考 9。待复核 31；缺少必要输入图 7。
+原图文案例 7081 · 风格参考 9。待复核 6558；缺少必要输入图 7。
 
 [按模型浏览](docs/models/index.md) · [艺术家、流派与材质](docs/topics/index.md) · [复核说明](docs/collection-status.md) · [PDF关键词补遗](docs/pdf-keywords.md)
 
@@ -33,7 +33,7 @@
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-document.md"><img src="assets/category-covers/document.jpg" alt="文档与出版物" width="220"></a><br><a href="docs/categories/cat-document.md"><strong>文档与出版物</strong></a><br><sub>11 条资料</sub><br>白皮书、手册、百科图鉴和出版页设计。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="docs/categories/cat-other.md"><img src="assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="docs/categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>28 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
+<td width="33%" align="center" valign="top"><a href="docs/categories/cat-other.md"><img src="assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="docs/categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>6555 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
 <td width="33%" align="center" valign="top"></td>
 <td width="33%" align="center" valign="top"></td>
 </tr>
@@ -43,14 +43,14 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top"><a href="cases/case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393/v1.md"><img src="images/9d95cb479e1b2e86b48ee6099ce230b76a0d619c71b420b9f514a095ca8c10d1.jpg" alt="人物纸艺剪纸" width="220"></a><br><a href="cases/case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393/v1.md"><strong>人物纸艺剪纸 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-picotrex-nano-banana-selected-pro-case35-794ac658a42b/v1.md"><img src="images/7ba928208579a0fdc9a55a766645050ede838d6092f0c1cb3da7b56305402764.jpg" alt="城市冰箱贴" width="220"></a><br><a href="cases/case-picotrex-nano-banana-selected-pro-case35-794ac658a42b/v1.md"><strong>城市冰箱贴 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case35-794ac658a42b</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-picotrex-nano-banana-selected-pro-case28-b00e453b047a/v1.md"><img src="images/e7c7366af77add187d65f409caaf8855747c4e14cfa232572f893d3bcdc9dc0c.jpg" alt="黑板粉笔画" width="220"></a><br><a href="cases/case-picotrex-nano-banana-selected-pro-case28-b00e453b047a/v1.md"><strong>黑板粉笔画 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case28-b00e453b047a</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-fb9972c350fd/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDibC1kgviaLgibd7ZHBQuFM5zwO0nK22GMAkToV7hlmbgj57dBM9KINuY0F6w1lbXscHib9eYmHoXDH5YicXqAytGUDWiaUhE9mnicPQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 3" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-fb9972c350fd/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 3 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-fb9972c350fd</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e882ab74fe49/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBIMicv82vHs8Y8icjseicrFu0buFYb7LYGsbuic1LHjpVa4gY5wXEDW5OibOR0EiaWQtjPO6PMj1HW5Cklw78gtibkEiaoELalKTnM3ibo/0?wx_fmt=other&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 15" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e882ab74fe49/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 15 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e882ab74fe49</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCpuP9ZxLU5ibWLZiagMwicA0UjxzPTqEKiclTTwMovxjQxyFNkiafDOibdot4qtbibrYhCia4icVfjYkxbAcopcblsicHWpDd1usts2GbDc/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 7" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 7 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="cases/case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d/v1.md"><img src="images/dd50b48744aca48af4d6c63508ecdd16dc0b130007bdff31ac049c40f0d6db51.jpg" alt="清明上河图风格图像" width="220"></a><br><a href="cases/case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d/v1.md"><strong>清明上河图风格图像 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4/v1.md"><img src="images/8a910801a8df64a02da7aaf464b98bb6f6a1d83c7f20aa9d7a4ebf04d8dc8551.jpg" alt="手绘等距图" width="220"></a><br><a href="cases/case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4/v1.md"><strong>手绘等距图 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-picotrex-nano-banana-selected-pro-case13-d75720310f38/v1.md"><img src="images/9906c83f8d723d767ca9da5719372fb501dc2e3c56d90651ae8f3d5f9c98b0fa.jpg" alt="水晶质感emoji" width="220"></a><br><a href="cases/case-picotrex-nano-banana-selected-pro-case13-d75720310f38/v1.md"><strong>水晶质感emoji · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case13-d75720310f38</sub><br><sub>风格参考 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBbZDAAL3VWdnDrY1adGtXZRJ7jwP9pibFGoC12rejCUGzh7zib0gAJPn0LYZrp9m0vm5CslbH6kVOdkWicbzHsmsicTiavIbPF42Qc/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 1" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 1 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e1c64f3a1436/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCLWg3l4yDF2lahSxwrm1MhxLNgI7uFD2nmBlhMiav2AhSydsFEHHAfFDF6ysibUnrYaL8nEiaxKwPMibnj9RLTukyE3YUNk5AcOVw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 2" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e1c64f3a1436/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 2 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e1c64f3a1436</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-b45fd325b3cb/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDLSjMZ7291BdG2uEzplpxtOP2yVH8EZuv1BdELFMhPX0RCYMrtIPuppUL06sGcv8Vdk9Cq63FUYPNEIcDADm0l2pXsPYjBia48/0?wx_fmt=jpeg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 5" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-b45fd325b3cb/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 5 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-b45fd325b3cb</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 </table>
 
@@ -58,7 +58,7 @@
 
 ## 使用资料库
 
-你可以直接看图挑选，也可以把仓库链接交给 Codex，让它读取项目说明后查找资料。每个案例保留图片、完整提示词、版本和原始来源。
+你可以直接看图挑选，也可以把仓库链接交给 Codex，让它读取项目说明后查找资料。每个案例保留图片、完整提示词、版本和原始来源；公众号外链案例保留受控图片链接，MCP 使用时按需读取，不在本地快照持久保存图片二进制。
 
 <details>
 <summary><strong>让 Codex 帮我找参考</strong></summary>
@@ -74,14 +74,14 @@
 - [Codex 项目规则](AGENTS.md)
 - [查看同步任务](https://github.com/yangchengwu2024/visual-library/actions/workflows/sync.yml)
 
-图片和提示词保存在本仓库。定时同步追加新资料，保留旧版本和个人记录；普通上游删除不会自动删除本库内容。
+本地图片型资料和提示词保存在本仓库；公众号外链型资料保存原始提示词、来源和受控图片链接。定时同步追加新资料，保留旧版本和个人记录；普通上游删除不会自动删除本库内容。
 
 </details>
 
 ## 来源
 
-资料主要来自 [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2)，保留作者与来源信息。使用范围见 [第三方内容说明](THIRD_PARTY.md)。
+资料主要来自 [awesome-gpt-image-2](https://github.com/freestylefly/awesome-gpt-image-2) 和用户选中的 [AIArtWorks 微信公众号](https://mp.weixin.qq.com/s/WOi2W6mw41kkaORyj8sVkw)，保留作者与来源信息。公众号图片采用受控外链并标记复核状态；使用范围见 [第三方内容说明](THIRD_PARTY.md)。
 
 ## Codex MCP入口
 
-已提供自有只读MCP：查案例、读指定版本、查看图片、查分类与模板。[连接与使用说明](docs/mcp.md)。资料仍保存在本仓库。
+已提供自有只读MCP：查案例、读指定版本、查看图片、查分类与模板。[连接与使用说明](docs/mcp.md)。本地资产和外链资产均会标明来源与复核状态。

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCF0BCMgXN0ECFSapGOiadNmdG2Plmd2icCZ7DPgL8bhiaicrWD2vhdPiaouQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BxkkpsAtmtGQJM5ta-991c996da542",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ddb6d54af34274453df81989b943acc08752ecba0ffa4a2e8bedc238e12c59a9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "7",
+    "exp": "4",
+    "profile": "7sc8gys",
+    "raw": true,
+    "stylize": "70"
+  },
+  "previous_version": null,
+  "prompt": "A children illustration. It depicts a young child, dynamic playful pose, seen in profile, wearing a simple white sleeveless top, green plaid shorts, and light blue rubber boots. Setting is a narrow dirt path bordered by lush green grass. The child's head is playfully hidden beneath a large, undulating lotus leaf, which they hold up like an umbrella. --chaos 7 --ar 3:4 --exp 4 --raw --profile 7sc8gys --stylize 70",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCF0BCMgXN0ECFSapGOiadNmdG2Plmd2icCZ7DPgL8bhiaicrWD2vhdPiaouQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA:prompt-0001",
+    "source_metadata": {
+      "article_index": 84,
+      "article_title": "Vol.247 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755646256,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499804&idx=1&sn=a623a07e719182a5df528aa5c0769c4f&chksm=96c8c648efd488a37c8aa5f827b126029ca618d3b1468423b0078dc7c4dd40b5d455ecab254f#rd",
+    "title": "Vol.247 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499804&idx=1&sn=a623a07e719182a5df528aa5c0769c4f&chksm=96c8c648efd488a37c8aa5f827b126029ca618d3b1468423b0078dc7c4dd40b5d455ecab254f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.247 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

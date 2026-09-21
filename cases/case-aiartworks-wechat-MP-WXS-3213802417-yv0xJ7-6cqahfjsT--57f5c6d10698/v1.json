@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxiaQFn5PibJQhicDIKFdK1fFZC336vK32cgZfFfugH4C6jYR0iaibV2jIyXA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--57f5c6d10698",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9ec546834b412789c5f4d0caebafa09116e2c60d356945623146abfe0fde848f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "alien royal cat with cosmic silver-blue fur and nebula patterns, black obsidian collar with皇室徽记, tail transforms between fluffy/scale-covered modes, glowing瞳孔显示星图, dynamic posing with爱心形炸毛, chibi-anime style, magical aura，Cute sci-fi --ar 16:9 --stylize 250",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxiaQFn5PibJQhicDIKFdK1fFZC336vK32cgZfFfugH4C6jYR0iaibV2jIyXA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA:prompt-0011",
+    "source_metadata": {
+      "article_index": 106,
+      "article_title": "Vol.223 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750894240,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498669&idx=1&sn=d8a794fd5bca5b0b8cc6adf71b9c3d1b&scene=58&subscene=0",
+    "title": "Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498669&idx=1&sn=d8a794fd5bca5b0b8cc6adf71b9c3d1b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfjD5dWE8l9FP4odTLfPTqGdIsibyu7tTNomticHsAaMkyourYTM87njGYu2HHX0QujgP2WWOppw7cg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9TkGTW0K3fN-jV-V--6730761e8148",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5eaeacc3a0c6bd7c9c928c200ed775301ab2339a85d9212d80086b231f2a7b8d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "xnv4ts4",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "a full-body shot of a trendy Korean girl dancing confidently in the street at night, wearing a cropped black top with white trim and high-waisted jeans, subtle makeup, long brown wavy hair flowing naturally, soft expression with a slight smirk, mid-wave dance motion, arms gracefully curved, realistic lighting, tiktok-style urban background with bokeh city lights and modern storefronts, candid camera angle, photorealistic --ar 9:16 --raw --profile xnv4ts4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfjD5dWE8l9FP4odTLfPTqGdIsibyu7tTNomticHsAaMkyourYTM87njGYu2HHX0QujgP2WWOppw7cg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA:prompt-0010",
+    "source_metadata": {
+      "article_index": 112,
+      "article_title": "Vol.217 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750375816,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498278&idx=1&sn=490c5e8ca65aa94d1121c1eb5ea319f1&chksm=964bbdc3021977020e48d2721f06095c01196f93cac18bb767d3bece364a5ac9c9188906da9b#rd",
+    "title": "Vol.217 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498278&idx=1&sn=490c5e8ca65aa94d1121c1eb5ea319f1&chksm=964bbdc3021977020e48d2721f06095c01196f93cac18bb767d3bece364a5ac9c9188906da9b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.217 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

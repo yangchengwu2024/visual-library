@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39h0ibrQbFoLzHgJ7dQibCzJOD58xtCS6OloVeke6Z8FTlOCdoevPguZmQA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TFQshpGj7kL8f-ZkA-8ce0d9f91250",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5b12d512e4b64c105062920cb2974fad72d6a76a10c6e7bb99049fd298ed73f9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "2tnwgwe",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Michael floating in the air, with a shimmering halo above her head. --chaos 10 --ar 9:16 --profile 2tnwgwe --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39h0ibrQbFoLzHgJ7dQibCzJOD58xtCS6OloVeke6Z8FTlOCdoevPguZmQA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw:prompt-0009",
+    "source_metadata": {
+      "article_index": 204,
+      "article_title": "Vol.134 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742178659,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd",
+    "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

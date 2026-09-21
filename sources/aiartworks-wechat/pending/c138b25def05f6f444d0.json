@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqSgTfyX-BL96CnTv-f83fafd2f62c",
+  "fingerprint": "87d4ae75b95413b1dd7a80449c06ade2bb5f9c33f7a297f9f9176feaf7701b3d",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "prompt": "A black-and-white panoramic view: on the nighttime streets of old Shanghai, under the glow of neon lights, a woman in a vintage Chinese form-fitting qipao walks barefoot down the street in the distance, holding a bottle of liquor in her hand. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 226,
+      "article_title": "Vol.116 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1740364242,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493641&idx=1&sn=9ba2da8e394bf4440865410712b53b2a&chksm=9600eaae784dbc62a1ff50332493e744e1ebc216596a3df02b5deca184e622f1f6247a40d2e0#rd",
+    "title": "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493641&idx=1&sn=9ba2da8e394bf4440865410712b53b2a&chksm=9600eaae784dbc62a1ff50332493e744e1ebc216596a3df02b5deca184e622f1f6247a40d2e0#rd"
+  },
+  "source_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ:prompt-0008",
+  "status": "pending",
+  "title": "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

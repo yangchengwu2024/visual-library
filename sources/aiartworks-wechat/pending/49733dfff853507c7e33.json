@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-0a48efa0379f",
+  "fingerprint": "67834dfc33f88df549f12e7445ab32bd6ed64fbb31dac0e3ecf1d9527bdaf4dc",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "profile": "2rwgatq",
+    "v": "8.1"
+  },
+  "prompt": "Fine art editorial photography, symbolic motherhood, brunette mother holding her child close, both with dark hair, portrayed entirely in black and white, representing memory and eternal presence, emotional connection, serene and powerful expression, soft but directional sculptural light creating deep shadows, minimalist background, matte skin, flawless beauty, no shine, no imperfections, subtle film grain, timeless composition, inspired by Herb Ritts and gallery fine art photography, 85mm lens, f/2, cinematic depth, ultra realistic, no text --ar 4:5 --profile 2rwgatq --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0012",
+    "source_metadata": {
+      "article_index": 35,
+      "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1777851036,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+    "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd"
+  },
+  "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0012",
+  "status": "pending",
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 13"
+}

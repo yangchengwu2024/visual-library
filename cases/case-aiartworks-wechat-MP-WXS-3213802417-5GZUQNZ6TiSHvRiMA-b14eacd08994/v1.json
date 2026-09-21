@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCmb7N6CbzSZO9Pwfc6bRtOiaspQjpy9Xu1hWkEJbgkVafJKZS1WuK8nz2BwWpVHB9o31fIUX0YeZdQRkFzeF26HiaqicicYP1P3QQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-b14eacd08994",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "58bbcf882882e3d6b347b0b240b09d2c81e28234549e8019154c2dcf9e96d32d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "4eah1yo",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Three salarymen laugh like mad men in a crowded japanese subway wagon. The people around them don't react at all. --ar 3:4 --profile 4eah1yo --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCmb7N6CbzSZO9Pwfc6bRtOiaspQjpy9Xu1hWkEJbgkVafJKZS1WuK8nz2BwWpVHB9o31fIUX0YeZdQRkFzeF26HiaqicicYP1P3QQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0008",
+    "source_metadata": {
+      "article_index": 11,
+      "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+      "association_confidence": "review",
+      "createTime": 1785627022,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+    "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 9",
+  "version": "v1"
+}

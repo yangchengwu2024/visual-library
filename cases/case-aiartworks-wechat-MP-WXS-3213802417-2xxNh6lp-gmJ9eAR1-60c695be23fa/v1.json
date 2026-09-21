@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n42OqXoFbo7hRBujwM4SBDd7tiaMr03X3NmychLpgfibBjhxyC1bDYcKEQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4J96qvca9ladic7drnQ09oicZL2JvZ4w3jE6h4TNMdRAjibficF2tRhHs1g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd9qY8Nb9ibdcfy7GhhMkRtqrXQoziaQiajxlzhmoicjQ67COM246iaaKCpAJs3EJHFnfKEIAialvfBiaf6g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd9qY8Nb9ibdcfy7GhhMkRtquQr2bvHPdgUdia5mRDTUmPSQbEMBG849ZhqF58OBYswlgyjvibLMrTrA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2xxNh6lp-gmJ9eAR1-60c695be23fa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8bfd3607743609492a4babafa8268f2e8b6dde57e85dc63fd5cecdb9e99de941",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "p9wjf3g",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An ancient Chinese female general wearing a simple white Hanfu and metal armor, with black hair, riding a black horse, the scene is an ancient battlefield, realistic shooting, movie texture --ar 9:16 --profile p9wjf3g --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n42OqXoFbo7hRBujwM4SBDd7tiaMr03X3NmychLpgfibBjhxyC1bDYcKEQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4J96qvca9ladic7drnQ09oicZL2JvZ4w3jE6h4TNMdRAjibficF2tRhHs1g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd9qY8Nb9ibdcfy7GhhMkRtqrXQoziaQiajxlzhmoicjQ67COM246iaaKCpAJs3EJHFnfKEIAialvfBiaf6g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd9qY8Nb9ibdcfy7GhhMkRtquQr2bvHPdgUdia5mRDTUmPSQbEMBG849ZhqF58OBYswlgyjvibLMrTrA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA:prompt-0002",
+    "source_metadata": {
+      "article_index": 242,
+      "article_title": "Vol.103 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738981862,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 2,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492742&idx=1&sn=a40d4b5371cc035d4584e652e8d56800&scene=58&subscene=0",
+    "title": "Vol.103 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492742&idx=1&sn=a40d4b5371cc035d4584e652e8d56800&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.103 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

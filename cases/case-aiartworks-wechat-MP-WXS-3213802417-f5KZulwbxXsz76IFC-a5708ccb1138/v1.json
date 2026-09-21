@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR11SAIcGVU0KTjZW3NgxolP3ImOZWMrasXb9byDIENXoGibJDYkicms4dA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-f5KZulwbxXsz76IFC-a5708ccb1138",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "89ad17973bd0307322d1a040e618f7295c3c3663761a305e97ad870a7c9684d8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "10",
+    "raw": true,
+    "stylize": "600",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "a mysterious humanoid figure with glowing red eyes and a dark silhouette face, wearing a futuristic long coat with fiery red and orange accents, glowing rings of plasma energy orbiting around its body,inspired by Moebius and Katsuhiro Otomo, illustrated in the style of Greg Tocchini and Simon Stålenhag, with color grading by Roger Deakins, digital painting, ink and neon fusion style, surreal and apocalyptic background, cinematic lighting and intense shadows, epic scale, --chaos 10 --ar 4:5 --raw --stylize 600 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR11SAIcGVU0KTjZW3NgxolP3ImOZWMrasXb9byDIENXoGibJDYkicms4dA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 165,
+      "article_title": "Vol.166 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745461837,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_f5KZulwbxXsz76IFC0bnJQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496167&idx=1&sn=029d6162b73a6c64da17a30ec2c23d1b&scene=58&subscene=0",
+    "title": "Vol.166 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496167&idx=1&sn=029d6162b73a6c64da17a30ec2c23d1b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.166 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

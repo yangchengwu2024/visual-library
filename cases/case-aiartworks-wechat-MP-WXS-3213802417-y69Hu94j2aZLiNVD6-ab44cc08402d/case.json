@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y69Hu94j2aZLiNVD6-ab44cc08402d",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfT9cIYzBbsWsQTKDMibgtEKxMwTOB7y8iban5oqia2PQW90RHyxOy9HxiaVoDet0OwSOAB89xK7PIHaQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg:prompt-0009",
+      "source_metadata": {
+        "article_index": 133,
+        "article_title": "Vol.195 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1748482250,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 9,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497357&idx=1&sn=a58bb5f4147d901f73f8ee6afe1561b9&scene=58&subscene=0",
+      "title": "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497357&idx=1&sn=a58bb5f4147d901f73f8ee6afe1561b9&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "title_aliases": [
+    "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 10"
+  ]
+}

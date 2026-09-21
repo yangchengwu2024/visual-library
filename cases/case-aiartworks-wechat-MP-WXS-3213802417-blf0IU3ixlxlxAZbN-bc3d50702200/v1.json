@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jOLnIE7FyKWeHicC924Vf1F0DN7GbbKzS1REC6VRvrT7aEico0BwSyupQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-blf0IU3ixlxlxAZbN-bc3d50702200",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "32c6ea126607259ca536d98eb6891d575596a86702d6aa6666facbb168e67edc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/QveWY3fGXdw one-tone black sleek long leather boot, fashion photography, richard avedon, closeup, modern, minimalist, editorial, single neutral color fill background, muted colors, neutral colors, grey, black, studio lighting, subtle details, elegant, the row aesthetic, dark grey long leather skirt --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jOLnIE7FyKWeHicC924Vf1F0DN7GbbKzS1REC6VRvrT7aEico0BwSyupQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ:prompt-0004",
+    "source_metadata": {
+      "article_index": 314,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.33",
+      "association_confidence": "high",
+      "createTime": 1731640592,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 5",
+  "version": "v1"
+}

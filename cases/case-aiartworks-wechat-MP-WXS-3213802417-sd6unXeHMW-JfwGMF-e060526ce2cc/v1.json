@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:21+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef2rTqMw5UWDG51icVqEQwnOq3XJYrVTnvVAEHn0jXnSXYbSuT4wgJkrnBkbsgeELh5kkL9sRTxYg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-sd6unXeHMW-JfwGMF-e060526ce2cc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "61478ace7741028e26dec1a2dd4c3273dc55734b0c783f06d6b3446925cec292",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "cref": "https://s.mj.run/2RSgrCNfPpI",
+    "cw": "100",
+    "sref": [
+      "https://s.mj.run/aqfvxjckJNg"
+    ],
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "long shot,In the vegetable market, a cat in a space suit stands on green vegetables, wearing black cotton gloves, acting as a vegetable salesperson. It is raining heavily, and is supported by his right arm for shooting. In the front, there is a white board hanging above, with \"2 dollars\" written on it. People come and go,cyberpunk, --ar 9:16 --sref https://s.mj.run/aqfvxjckJNg --cref https://s.mj.run/2RSgrCNfPpI --cw 100 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef2rTqMw5UWDG51icVqEQwnOq3XJYrVTnvVAEHn0jXnSXYbSuT4wgJkrnBkbsgeELh5kkL9sRTxYg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w:prompt-0004",
+    "source_metadata": {
+      "article_index": 256,
+      "article_title": "Vol.84 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736735415,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491685&idx=1&sn=4663c93795ce17bd0d102873631e18f7&scene=58&subscene=0",
+    "title": "Vol.84 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491685&idx=1&sn=4663c93795ce17bd0d102873631e18f7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.84 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TPN1GKZBMPyhEQlZA-a61fd039e3a4",
+  "fingerprint": "ccb081933d7169aa8f7f249715ef8ef071adb5425cadae1fbda6b56cbd3b5606",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "bs": "1",
+    "motion": "high",
+    "video": "1"
+  },
+  "prompt": "Rat Running in the airport carying his bag, comical scene, photo realistic, immersive environment --ar 51:91 --bs 1 --motion high --video 1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg:prompt-0016",
+    "source_metadata": {
+      "article_index": 79,
+      "article_title": "Vol.252 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1756683043,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500015&idx=1&sn=8c24c7dffeb36b7fdd5ccd6b35c06106&chksm=96c1bc2170e8ff0b61c7762f2bdb5dbb7207646a62855a0a5af0d44bd589c2554649724a4fd6#rd",
+    "title": "Vol.252 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500015&idx=1&sn=8c24c7dffeb36b7fdd5ccd6b35c06106&chksm=96c1bc2170e8ff0b61c7762f2bdb5dbb7207646a62855a0a5af0d44bd589c2554649724a4fd6#rd"
+  },
+  "source_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg:prompt-0016",
+  "status": "pending",
+  "title": "Vol.252 - Midjourney | 精选作品关键词提示 · 提示词 17"
+}

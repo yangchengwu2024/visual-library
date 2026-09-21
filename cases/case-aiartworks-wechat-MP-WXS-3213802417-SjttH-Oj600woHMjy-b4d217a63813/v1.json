@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOvcibYokVic6NbjdsVRx8O0ib7ujaAh2lCqmws5WWJ5xnjnIeVA7ayqyXhA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOv4RrQjm8M6vRXeZtLbsLsJR3zbUCktspBGDTcFC8ZkWlNibCNOBVfJUw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SjttH-Oj600woHMjy-b4d217a63813",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "28ff6f48c60d71490858cfca3fd7c58bbbac35b59bdafeca05cb40c4d30f6e17",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "50",
+    "quality": "4",
+    "raw": true,
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "FORCED BY THE DARK HAND --ar 9:16 --exp 50 --quality 4 --raw --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOvcibYokVic6NbjdsVRx8O0ib7ujaAh2lCqmws5WWJ5xnjnIeVA7ayqyXhA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOv4RrQjm8M6vRXeZtLbsLsJR3zbUCktspBGDTcFC8ZkWlNibCNOBVfJUw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 118,
+      "article_title": "Vol.210 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1749771081,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd",
+    "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

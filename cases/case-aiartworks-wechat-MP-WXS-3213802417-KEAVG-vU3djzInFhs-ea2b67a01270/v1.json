@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WC5RibzElRcfxEzkMEg59JHiaaTM24vicdJLtXM9vahnFbXSYAIbq8mXEKx9elbwh4eLkO1eOLrFccp9dY4Kax6pMia3R9zSDZEM9U/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDibwj79Ks91qu6GUUlMHYQDia68kJpS1LS33uXXNbSeVBkCXlssOiablib2OGFp837Z87GLhJOXzfyhURuf7alY415oKdiaZWicYeOQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KEAVG-vU3djzInFhs-ea2b67a01270",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "41865f28f68d6ca3f21d8e8d40892d5d8f6ce3d6bf59cdf56b6f057db08e6084",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "e41kwqb",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "masterpiece，8k，超写实影视剧照，真人写真，竖画幅，中全景， 清冷年轻东方女子，小龙女造型，武侠武术打斗姿态，一只手臂高高抬起，另一只手臂向前伸出，手掌张开， 乌黑浓密超长黑发，头顶两侧编发盘起，头顶点缀三颗细小白色珍珠，后方乌黑长发自然垂落，两侧各有一绺极长黑发，顺着胸前垂落，发髻后系两根极长极薄的白色缎面飘带，随风形成优美流线， 全套素白色武侠古装，交领上衣，超大荷叶宽摆广袖，袖子非常宽大，袖口是波浪荷叶边剪裁，面料轻薄，风灌入袖子，袖摆呈波浪荷叶形态，袖子有隐约极淡同色暗纹， 极宽白色束腰腰封，腰封带有同色立体压印菊花暗纹，没有彩色刺绣， 超大垂坠感白色长裙，哑光雪纺薄纱面料，面料垂顺，无亮面反光绸缎， 人物身处山洞岩洞洞口，背景粗糙灰褐色岩石峭壁，岩边生长绿色野草灌木， 户外柔和自然光，柔和侧光，发丝轮廓光，衣褶层次丰富， 浅景深，焦点在人物，背景轻微虚化，干净素雅色调，飘逸江湖侠女氛围感，高细节，皮肤真实肌理。 --ar 9:16 --raw --profile e41kwqb --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WC5RibzElRcfxEzkMEg59JHiaaTM24vicdJLtXM9vahnFbXSYAIbq8mXEKx9elbwh4eLkO1eOLrFccp9dY4Kax6pMia3R9zSDZEM9U/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDibwj79Ks91qu6GUUlMHYQDia68kJpS1LS33uXXNbSeVBkCXlssOiablib2OGFp837Z87GLhJOXzfyhURuf7alY415oKdiaZWicYeOQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg:prompt-0008",
+    "source_metadata": {
+      "article_index": 6,
+      "article_title": "Vol.326-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1787268652,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511000&idx=1&sn=45e8026860fdb612e7bb4e0f895dab1d&chksm=969916e5fae8af973427766a8b77bbe6338927a55bce531c7dc61d3d34499e63ec2d5c53939f#rd",
+    "title": "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511000&idx=1&sn=45e8026860fdb612e7bb4e0f895dab1d&chksm=969916e5fae8af973427766a8b77bbe6338927a55bce531c7dc61d3d34499e63ec2d5c53939f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

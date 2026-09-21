@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V96COBTWEVtB843GN3B6tHflXfprV5Bmsms8bYWXND0U0t9vUDbRnmOg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SdZ9AZ4Dg-VWtZWG9-84d79fcb622d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e43775bf5d142d07c58aeed3cd0d51ffa08ccfc25d61b1bd0aa367ee856352a2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "personalize": "vevrky5",
+    "sref": [
+      "1547732208",
+      "966"
+    ],
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "2D rendering of a beautiful faerie with pointed ears and red semi-translucent wings, wearing a sheer high-tech tight-fitting Gossa-Mer cheongsam in lemon grey, embroidered with light peony and impatiens. Ethereal light, line tracing neon super detail, embedded fibre filament, lifelike, Iris Van Hepburn Fashion Style, Ground View, Panoramic View, Full Body Shot, Hybrid Heat Deformation Design, Elegant, High Detail, Sharp Focus, Wet, Cinematography, Photography, Model Photography, Surrealism, Reality, High Contrast, Kodak, Hybrid Helmuth-New York Tun and llya Kuvshinov art style, virtual engine, high quality, Cano n EOS 5D Mark IV SLR camera, f/5. 6 Aperture, 1/125 second Shutter Speed, ISO 100, Adobe Photoshop, Award-winning, Octal Rendering, Detail Attention. 32KUHD --ar 9:16 --sref 1547732208 966 --personalize vevrky5 --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V96COBTWEVtB843GN3B6tHflXfprV5Bmsms8bYWXND0U0t9vUDbRnmOg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w:prompt-0018",
+    "source_metadata": {
+      "article_index": 283,
+      "article_title": "Vol.60 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734346460,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0",
+    "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

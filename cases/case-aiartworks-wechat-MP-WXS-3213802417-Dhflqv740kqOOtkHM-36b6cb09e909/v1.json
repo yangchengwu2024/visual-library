@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheGhhAVjAicYPvmuYTcwNPN6qcrDp8zSylicR1VMzXnksJ4ArPBPc6iaIswfYoGicnHK9o2HxDdXeC2Vg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Dhflqv740kqOOtkHM-36b6cb09e909",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6efe41fd722a4baee3337e1481fafb364b3309f1be0c0353b3b479dff3ff2a53",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "soft brown background, seamless repeating pattern featuring hand-drawn illustrations of adorable hedgehogs with pine cones and leaves in neutral tones. The pattern is seamless, evenly lit, high resolution, high detail, high contrast, and high quality. The style is vector graphics with a flat design and high sharpness, resulting in a hyper-realistic appearance. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheGhhAVjAicYPvmuYTcwNPN6qcrDp8zSylicR1VMzXnksJ4ArPBPc6iaIswfYoGicnHK9o2HxDdXeC2Vg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA:prompt-0006",
+    "source_metadata": {
+      "article_index": 184,
+      "article_title": "Vol.149 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743733844,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495504&idx=1&sn=a405d27ea70717061e21f979eeb694f0&scene=58&subscene=0",
+    "title": "Vol.149 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495504&idx=1&sn=a405d27ea70717061e21f979eeb694f0&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.149 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

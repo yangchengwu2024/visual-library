@@ -1,0 +1,89 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCY3zj7gfItCEH0VuFia6sibib4DvVoweJuMnu35TA9103Sck5uYChqbibmy6vUK7KLWL4MohEa5rZ5O1umcOVGaY7oc3KstSho39M/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-898c2864acec",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f4a6c3e9dc566276757f368e76b31d87b55b789f5b3be6ca2a80c166d09cd9e9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "no": [
+      "horror,",
+      "creepy,",
+      "eerie,",
+      "unsettling,",
+      "gloomy,",
+      "gibberish",
+      "text,",
+      "misspelled",
+      "words,",
+      "cartoon,",
+      "anime,",
+      "illustration,",
+      "3d",
+      "render,",
+      "CGI,",
+      "clay,",
+      "plasticine,",
+      "toy",
+      "look,",
+      "miniature,",
+      "chibi,",
+      "cute",
+      "proportions"
+    ],
+    "profile": "fzh6u2q",
+    "stylize": "190",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Hyper realistic commercial photograph, vertical composition. Kinetic airport corridor editorial: three young East Asian models racing along a glass walled terminal walkway, green landscape visible beyond the panes, cool daylight flooding through glazing, terrazzo floor sheen. Foreground: woman, glossy black bob, orange tint shield sunglasses, white boxy tee, low slung belted trousers, caramel leather tote with circular patches - razor sharp, authentic skin texture. Mid ground: man in black track jacket and cap, sprinting, towing tangerine hardshell suitcase, hiking backpack on shoulders - motion blur. Background: woman in butter and navy striped polo mini dress, white fringe boots, pulling silver aluminum roller - motion blur. Medium format digital, 55mm, f/8. Microscopic material fidelity: aluminum case ridges, leather patch stitching, glass reflections. Palette locked to white, tangerine, caramel, butter, navy. No readable text on clothing or bags. Typography: exactly one element - giant ultra bold clean sans serif masthead \"SPRING SALE\" along corridor ceiling line, razor sharp, high contrast. Y2K jet set energy, premium optimism. --no horror, creepy, eerie, unsettling, gloomy, gibberish text, misspelled words, cartoon, anime, illustration, 3d render, CGI, clay, plasticine, toy look, miniature, chibi, cute proportions --ar 9:16 --profile fzh6u2q 5m5t2zc --stylize 190 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCY3zj7gfItCEH0VuFia6sibib4DvVoweJuMnu35TA9103Sck5uYChqbibmy6vUK7KLWL4MohEa5rZ5O1umcOVGaY7oc3KstSho39M/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0007",
+    "source_metadata": {
+      "article_index": 11,
+      "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+      "association_confidence": "high",
+      "createTime": 1785627022,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+    "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 8",
+  "version": "v1"
+}

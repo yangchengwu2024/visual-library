@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gob9RTLv7drXsy3Nh-6369948c273b",
+  "fingerprint": "b0e3533cb3f3555510f722dc240725265981f2cd46ee6c2ee971a946e9a36a30",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "niji": "6",
+    "profile": "cuif2gu"
+  },
+  "prompt": "harry potter Hermione Granger sticker --profile cuif2gu --niji 6",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0008",
+    "source_metadata": {
+      "article_index": 255,
+      "article_title": "Vol.86 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1736908245,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd",
+    "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd"
+  },
+  "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0008",
+  "status": "pending",
+  "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

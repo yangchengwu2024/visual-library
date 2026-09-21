@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OjiQuWEZxr3PCMnKv-293c1730f52b",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vnRZBHYhThD6OPH4YqBSnWFLDbpYlrBohtSBxguhCq5OjCziaF4vWwBw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A:prompt-0003",
+      "source_metadata": {
+        "article_index": 125,
+        "article_title": "Vol.203 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1749166227,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 3,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd",
+      "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "title_aliases": [
+    "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 4"
+  ]
+}

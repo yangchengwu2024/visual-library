@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCQKkfiaxlm582WTk697WoOTQh5Krp9PoEgJsj7KUBeyyjxnWWJPXteNxQlJnIYuSVuzTFBA5P0pQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-e9Xr561HG6-qROaD2-922d276c6029",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "72d48446b028e80ca05510a5503da1aa3ed691147ca0a267ffe5781dd0df4e98",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "personalize": "3ojljec",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/vh-pJSU8fok Hot beauty girl profile face divine attractive cute passional gorgeous portrait desertpunk afropunk afrogoth desertgoth desertpunk, i can't believe how beautiful this is, elegant pose, elegant make up, long eyelashes, beauty lips, Wearing big hoop earrings, tribal symmetrical tattoos multicolor rainbow colorful everywhere, art style by Robert Mapplethorpe and Peter Hujar and David Wojnarowicz and Salvador Dali and Hajime Sorayama and Gerald Brom and Junji Ito and Tomer Hanuka and Enki Bilal and Oleg Oprisco and Inna Mosina and Michael Hussar, Erica Hopper and Frank Frazetta and Casey Weldon and Moebius and Loish, Shot Photography by Ellen von Unwerth and Wes Anderson and Jimmy Nelson, Nikon photography, octane render, unreal engine 5, hyper-detailed, diffuse lighting, fashion, photorealism, 300mm, HD --chaos 10 --ar 2:3 --personalize 3ojljec --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCQKkfiaxlm582WTk697WoOTQh5Krp9PoEgJsj7KUBeyyjxnWWJPXteNxQlJnIYuSVuzTFBA5P0pQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg:prompt-0000",
+    "source_metadata": {
+      "article_index": 293,
+      "article_title": "Vol.52 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1733458464,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488778&idx=1&sn=52685e39b9d92f08c15f52cf97d287c1&chksm=963dc451502a9c69040cc9fe1c96579f97b2eb29ef41cdc4b25726424b9a3368645e705e8573#rd",
+    "title": "Vol.52 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488778&idx=1&sn=52685e39b9d92f08c15f52cf97d287c1&chksm=963dc451502a9c69040cc9fe1c96579f97b2eb29ef41cdc4b25726424b9a3368645e705e8573#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.52 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

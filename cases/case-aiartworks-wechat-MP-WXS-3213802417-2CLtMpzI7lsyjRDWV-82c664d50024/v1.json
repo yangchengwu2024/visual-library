@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565pia6b2ViaLdIcII6G54qrjU5DgK3RD09ykOyJXMSsibpnbbG0FoHglkPxWw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2CLtMpzI7lsyjRDWV-82c664d50024",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "334068e6d7ceb7dafd5d42794822efd616bb90a5a344e526c9a9c3e1647cf58a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "profile": "hdb2l6j",
+    "quality": "2",
+    "sref": [
+      "1",
+      "https://s.mj.run/eYYhRYgHQok",
+      "https://s.mj.run/OGyYng57yPU",
+      "https://s.mj.run/WeWQNms8JYw"
+    ],
+    "style": "raw",
+    "stylize": "450",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Midjourney swaggering jello cake: photorealistic photo of a jello cake piece on dessert plate. Shown straight at eye level and set slightly in profile on the plate, sharp light from the left. The jello cake is glossy and perfectly smooth, with coloured layers. Duotone background --chaos 10 --ar 2:3 --quality 2 --style raw --sref 1 https://s.mj.run/eYYhRYgHQok https://s.mj.run/OGyYng57yPU https://s.mj.run/WeWQNms8JYw --profile hdb2l6j --stylize 450 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565pia6b2ViaLdIcII6G54qrjU5DgK3RD09ykOyJXMSsibpnbbG0FoHglkPxWw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig:prompt-0007",
+    "source_metadata": {
+      "article_index": 227,
+      "article_title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1740290221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0",
+    "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 8",
+  "version": "v1"
+}

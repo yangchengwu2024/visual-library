@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-01KmuobBBi7BVif0F-37cde7a3f1b4",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShflwpDWK9HrXgTaE8uibDbEibB6dQUh62QjVVTxrEGJKzsRBEE1Xuza7jHPgUgnJUib0MibJbyoQRqLuQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q:prompt-0009",
+      "source_metadata": {
+        "article_index": 318,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.29",
+        "association_confidence": "high",
+        "createTime": 1731327639,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 9,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486737&idx=1&sn=cda06b91ee33455f3ba7112c63e8d4c8&chksm=9688bc4e614b7e8e676febed825f9607c91783930f08b279022cab1ac69d7770e70ee5c4e4d8#rd",
+      "title": "Midjourney | 精选作品及提示 - Vol.29 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486737&idx=1&sn=cda06b91ee33455f3ba7112c63e8d4c8&chksm=9688bc4e614b7e8e676febed825f9607c91783930f08b279022cab1ac69d7770e70ee5c4e4d8#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.29 · 提示词 10",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.29 · 提示词 10"
+  ]
+}

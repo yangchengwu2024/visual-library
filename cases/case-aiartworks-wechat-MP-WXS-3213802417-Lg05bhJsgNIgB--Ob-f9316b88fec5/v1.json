@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:30+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3fN1jMQfz6s6XUkNziawdiaoibdibbdNsB49tgSibViabjqbeHuvhpcZ8QlzA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3faQkcGM98ibc80ZhJUNCCVictBdMO5HER67lZfdMVM5FzsNzAxWOUG9Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Lg05bhJsgNIgB--Ob-f9316b88fec5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f4baf0313730192ac333da9c0a9d592f36119501ebbe70d5d84d4be657a6bab6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "personalize": "qq6tp8p",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A young woman with magenta hair and a shaved head, in a Fujifilm-style photograph, looking down at the ground. --ar 3:4 --personalize qq6tp8p --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3fN1jMQfz6s6XUkNziawdiaoibdibbdNsB49tgSibViabjqbeHuvhpcZ8QlzA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3faQkcGM98ibc80ZhJUNCCVictBdMO5HER67lZfdMVM5FzsNzAxWOUG9Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA:prompt-0000",
+    "source_metadata": {
+      "article_index": 304,
+      "article_title": "Vol.42 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1732536121,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd",
+    "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

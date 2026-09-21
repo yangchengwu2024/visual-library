@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVIZOv4Diajoico1wdKbjoJc4QxVNNNqRM20ibvrHLL3HVpDNm2Qicp82rzg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5H-ThFVuWa7NyiXir-5372c71f2fde",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9142da0e716f0a806d76c00ea4e1104891044de3d08b088e708c4e8c26a50e0b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "40",
+    "profile": "c3shrvq",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "A view from inside an old car, looking out through the rearview mirror. The mirror reflects a long, empty \"back road\" under a wide, cloudy sky in a flat, agricultural landscape. A single, tiny, indistinct figure is standing by the side of the road in the reflection, growing smaller as the car moves away. Hanging from the rearview mirror is a small, gold cross on a chain, swinging slightly. The image has a vintage, faded photograph look with light leaks. --chaos 40 --ar 9:16 --raw --profile c3shrvq uamzhpt wu8i68u",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVIZOv4Diajoico1wdKbjoJc4QxVNNNqRM20ibvrHLL3HVpDNm2Qicp82rzg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg:prompt-0011",
+    "source_metadata": {
+      "article_index": 44,
+      "article_title": "Vol.288 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1764631874,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503959&idx=1&sn=a8b50506eb1098da8bf5d94dfa35217d&scene=58&subscene=0",
+    "title": "Vol.288 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503959&idx=1&sn=a8b50506eb1098da8bf5d94dfa35217d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.288 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

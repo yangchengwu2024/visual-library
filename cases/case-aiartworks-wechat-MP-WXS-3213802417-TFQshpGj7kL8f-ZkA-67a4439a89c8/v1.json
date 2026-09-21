@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39hzj0d0nOBPs4tnTdYquCXibnOAPcaUJycDibs7p2ygDrpeLBoXmO5lXfw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TFQshpGj7kL8f-ZkA-67a4439a89c8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d7c9c00d7e3e4e7553b24fcfd4fd6f071f5f004c356d7564514e7908cbfe9346",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "100",
+    "quality": "2",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Create stock photo hd 3d 4k digital really wild futuristic ai imagination new hd digital imagination beautiful 2d --chaos 100 --ar 9:16 --quality 2 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39hzj0d0nOBPs4tnTdYquCXibnOAPcaUJycDibs7p2ygDrpeLBoXmO5lXfw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw:prompt-0002",
+    "source_metadata": {
+      "article_index": 204,
+      "article_title": "Vol.134 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742178659,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd",
+    "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

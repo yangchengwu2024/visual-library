@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-X11mziQDF7Jmoj9PJ-c3de45129ee9",
+  "fingerprint": "6d3d52dc7237ce413138797dec7a1b8a7df20d6f6d27d6bb1e26ea2ef3cdace9",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "v": "6.1"
+  },
+  "prompt": "Overhead shot of a background made up of a single layer sun-shaped soft toys. Comforting, warm, soft lighting. --ar 16:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw:prompt-0001",
+    "source_metadata": {
+      "article_index": 311,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.36",
+      "association_confidence": "prompt_only",
+      "createTime": 1731896423,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487195&idx=1&sn=17e5df0fbfbf1cae4d765d4e0f630dbb&chksm=97b00205a0c78b13f04ba69444046e348dc444dfcc56efbb3bd4eaf67a348a59e41333485db3#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.36 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487195&idx=1&sn=17e5df0fbfbf1cae4d765d4e0f630dbb&chksm=97b00205a0c78b13f04ba69444046e348dc444dfcc56efbb3bd4eaf67a348a59e41333485db3#rd"
+  },
+  "source_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw:prompt-0001",
+  "status": "pending",
+  "title": "Midjourney | 精选作品及提示 - Vol.36 · 提示词 2"
+}

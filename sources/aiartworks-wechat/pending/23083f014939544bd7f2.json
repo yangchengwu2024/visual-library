@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6qXBRr8Jzfwj6LWjY-a2d730369c39",
+  "fingerprint": "58bb4b86dc18ee0e0864ffb0636499393625f61500f1310993d1b2b32ff599f8",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "8y3lf5f",
+    "stylize": "50"
+  },
+  "prompt": "portrait photo Mark Twain, clear photo without blur, excellent photo quality, soft light, light background --profile 8y3lf5f --stylize 50",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw:prompt-0010",
+    "source_metadata": {
+      "article_index": 88,
+      "article_title": "Vol.244 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1755041571,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499586&idx=1&sn=c7c8da14acedc04d28c387958662e56f&chksm=96e9a17793d78cd92fddc86683bf480168b660ea0354a2af217ffe523f03cabf4439fed91927#rd",
+    "title": "Vol.244 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499586&idx=1&sn=c7c8da14acedc04d28c387958662e56f&chksm=96e9a17793d78cd92fddc86683bf480168b660ea0354a2af217ffe523f03cabf4439fed91927#rd"
+  },
+  "source_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw:prompt-0010",
+  "status": "pending",
+  "title": "Vol.244 - Midjourney | 精选作品关键词提示 · 提示词 11"
+}

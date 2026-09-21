@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAKhYKhk3tria3mbxkaH6gjp8yicH54FkibN8dmbmTJIDPnRlk9UjsTUQgrrFBe8FDvrLatGy4N9kg3Cg6VDIMTZDbrbEBTniawF0s/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WC6s9L4gTaF3oIPbCw2FZgpKoF8D90vgibjs3GK33EnZYTP0mb3UwiaT4Q5rxDTbyDh21jWQSxGpyARflHQ4bZZbmmKpDtXYzfcE/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBPTSZiaSdqwHBE22g8ChZgM5EI94ibZdIico9tucWq0B42ZwuMmAXFWnatgfcQNxP2LGa1QWOVLQB0LW1iccRCma73db7rVyiaYHsA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAib4lxvA9UGxJHoqa2ibCbeKDsFSYvlfqgFVp1lfxuX3eb4S8wzzoshwwUPbGopibAowLdnHyJ41PmRKxwvI0r8QnDZVUI4ZXibEs/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIQ8TGJu6mhbbPICV-452dee5f4ed5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a4650bd34376fa196ba79002adc8627664aade8fff0fed928eb14e3b410fd678",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "profile": "ou1zee9",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "black-and-white fashion editorial photography, close-up composition of a woman’s legs putting on a sharp black stiletto heel, one foot in a chunky white sneaker, oversized ribbed white leg warmers, bent dynamic pose, cropped upper body, piles of paperwork, loose documents, folders and folded newspapers scattered chaotically across the studio floor, several tall uneven paper stacks in foreground and background, papers caught mid-air, surreal office overload, minimalist gray seamless studio backdrop, high-key soft lighting, subtle film grain, low contrast monochrome tones, 1980s avant-garde fashion magazine aesthetic, sculptural composition, clean negative space, realistic paper texture, elegant yet chaotic, editorial still life styling --ar 4:5 --raw --profile ou1zee9 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAKhYKhk3tria3mbxkaH6gjp8yicH54FkibN8dmbmTJIDPnRlk9UjsTUQgrrFBe8FDvrLatGy4N9kg3Cg6VDIMTZDbrbEBTniawF0s/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WC6s9L4gTaF3oIPbCw2FZgpKoF8D90vgibjs3GK33EnZYTP0mb3UwiaT4Q5rxDTbyDh21jWQSxGpyARflHQ4bZZbmmKpDtXYzfcE/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBPTSZiaSdqwHBE22g8ChZgM5EI94ibZdIico9tucWq0B42ZwuMmAXFWnatgfcQNxP2LGa1QWOVLQB0LW1iccRCma73db7rVyiaYHsA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAib4lxvA9UGxJHoqa2ibCbeKDsFSYvlfqgFVp1lfxuX3eb4S8wzzoshwwUPbGopibAowLdnHyJ41PmRKxwvI0r8QnDZVUI4ZXibEs/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 9,
+      "article_title": "Vol.323-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1786145451,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 5,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0",
+    "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 6",
+  "version": "v1"
+}

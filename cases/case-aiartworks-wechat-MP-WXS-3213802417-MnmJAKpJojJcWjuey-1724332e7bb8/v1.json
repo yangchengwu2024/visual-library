@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfSBfotzsgMbMnoHWdUNqtyro6PHfm7P4SR8XPCNRSp2eSCEtzO76mqklHCjibA4NVcfJoYrX7WKQA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MnmJAKpJojJcWjuey-1724332e7bb8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c31a37520ec4ec4a0089e115f811a3e84d9c96d25cbf5e7dea58b3811b0d4f5d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Hungarian horseman archer performing the backward shot (Parthian shot), 9th century Honfoglalás era, mounted nomadic warrior riding at full gallop, twisting in the saddle and firing a recurved composite bow behind him, flowing fur and leather clothing with embroidered details, braided hair and topknot, tense muscular horse in motion, dust and grass flying across the Eurasian steppe, extreme dynamic action, low-angle cinematic perspective, sense of speed and precision, dramatic sky, Marvel comic-style realism, graphic novel aesthetic, bold lighting and strong contrasts, ultra-detailed textures, motion blur accents, epic historical concept art, 8k resolution --ar 3:4 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfSBfotzsgMbMnoHWdUNqtyro6PHfm7P4SR8XPCNRSp2eSCEtzO76mqklHCjibA4NVcfJoYrX7WKQA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw:prompt-0007",
+    "source_metadata": {
+      "article_index": 41,
+      "article_title": "Vol.291 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1767074895,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504452&idx=1&sn=a9948b9611013ccebe13739bb09f0179&chksm=96d26532266a749fef7e4d97979c81043eb2171f8535e10f6776fee7d59f4b2d964d3940e886#rd",
+    "title": "Vol.291 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504452&idx=1&sn=a9948b9611013ccebe13739bb09f0179&chksm=96d26532266a749fef7e4d97979c81043eb2171f8535e10f6776fee7d59f4b2d964d3940e886#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.291 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2LeABtVY0jtXGpCq1kEGS15LevibQ63KXibxa0gHHCJoI6sgCr87RicNeA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-odNQF36m1MZ8Bkm5q-21b3b5d01a9e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8eaa8315b58d1c073d57522599cfd2bdf441ea44c60652e335bd1fd0963698a8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "50",
+    "profile": "rou6ods",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A painting depicting an overhead view of a pond covered with lush green lotus leaves. The lotus leaves are stacked layer upon layer, and through the gaps between them, red carp can be seen swimming in the water. The scene is well-lit by the sun, and the lotus leaves create reflections on the water's surface, adding depth to the picture. There are two people in a small boat, rowing with wooden oars in the water. This artwork, in the style of John Singer Sargent, conveys a sense of tranquility and harmony between nature and human presence. --ar 9:16 --exp 50 --profile rou6ods --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2LeABtVY0jtXGpCq1kEGS15LevibQ63KXibxa0gHHCJoI6sgCr87RicNeA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg:prompt-0006",
+    "source_metadata": {
+      "article_index": 69,
+      "article_title": "Vol.262 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758670286,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd",
+    "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

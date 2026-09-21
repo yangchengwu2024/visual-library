@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBXcmD10I5Wzlpia9zDKKWHY2N6EJY1Za5bRIUCDiaICVLIvUIufakmAJw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-CaEitySavy9dlipNV-72510b053028",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fdab551ed244b173ae756118486ba6e70dad8f91aa4d3e788ceb428478771185",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "400.5",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic full-body portrait of a teenage high school girl inspired by Cinderella from Disney. She is styled for a 90s high-teen school movie. She has fair skin, soft blonde hair in a voluminous half-up ponytail tied with a powder blue ribbon, and a gentle, graceful expression. Her outfit reflects a clean-cut popular girl style: baby blue cardigan over a white collared blouse, cream plaid skirt (mid-thigh), white socks, and pastel sneakers. She is accessorized with a small mint backpack, silver charm bracelet, and a light pink notepad in hand. She is standing in a bright school hallway with turquoise lockers and clean white tile flooring, evenly lit with cool daylight for a fresh, crisp look. eye-level camera, full-body, fashion editorial, ultra-detailed, UHD, 9:16 vertical --ar 9:16 --stylize 400.5 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBXcmD10I5Wzlpia9zDKKWHY2N6EJY1Za5bRIUCDiaICVLIvUIufakmAJw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg:prompt-0006",
+    "source_metadata": {
+      "article_index": 136,
+      "article_title": "Vol.192 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748226626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497252&idx=1&sn=103a3318825f54c3950b2d84fc82012f&chksm=96b59a467893c6051984efefe1c1534d6c00ed1161d11a0a6734d4345c75cc6d474499658402#rd",
+    "title": "Vol.192 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497252&idx=1&sn=103a3318825f54c3950b2d84fc82012f&chksm=96b59a467893c6051984efefe1c1534d6c00ed1161d11a0a6734d4345c75cc6d474499658402#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.192 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

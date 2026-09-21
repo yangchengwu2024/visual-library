@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qef4xfW2XqO7-zGDX-f8d02202b9d1",
+  "fingerprint": "fad7ce752ee4575885b9e88b4971d584a604c15a93982f3e17f504a60972a3e0",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "39:64",
+    "stylize": "50"
+  },
+  "prompt": "The Chinese goddess is dancing gracefully. She was wearing a flowing pink long dress with peony petal-shaped cuts and a hair accessory on her head. The background is black, and the long sleeves are characterized by transparent lace chiffon made of rubber. Elegant posture, meticulous character design, game style, and overall transparency. A long dress will make the entire outfit more perfect. Based on \"augmented reality\" technology 6 --ar 39:64 --stylize 50",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ:prompt-0003",
+    "source_metadata": {
+      "article_index": 56,
+      "article_title": "Vol.276 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1761521416,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502182&idx=1&sn=46a1746e881fc22211edeb95136cb043&chksm=96880c110684c2945c662c05190c70983b1aecebf833fb0b85cab483bccc83dcd8916308f107#rd",
+    "title": "Vol.276 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502182&idx=1&sn=46a1746e881fc22211edeb95136cb043&chksm=96880c110684c2945c662c05190c70983b1aecebf833fb0b85cab483bccc83dcd8916308f107#rd"
+  },
+  "source_id": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ:prompt-0003",
+  "status": "pending",
+  "title": "Vol.276 - Midjourney | 精选作品关键词提示 · 提示词 4"
+}

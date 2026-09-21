@@ -1,0 +1,75 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N8IAkGH4PI86lkUJn-466177a26fb1",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNogTnNibKMV2X3MIVoSLwnibseCtG5JUMw6xZ6MsBwGsgrricsNk9HHHbQ/0?wx_fmt=gif&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNlCYup0Zg8SUHS3iavANzyX9zwY4LLibxmibvsydgvkIcTWMcQI5oMKclw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNv7nT60lYQqxYq3nYwGy7w7k4Zu4ndvXRuPe5Xr6dLed62ib0HNvyjVA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNgu4mo786eicI0OOldfNkTvSGDto7gChyI2rrOJl7ePhFicpFC69Y80Rg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-3"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0009",
+      "source_metadata": {
+        "article_index": 63,
+        "article_title": "Vol.268 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1759879860,
+        "image_storage": "external_url",
+        "image_url_count": 4,
+        "prompt_index": 9,
+        "review_url_count": 4,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+      "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "title_aliases": [
+    "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 10"
+  ]
+}

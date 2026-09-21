@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531WRdmj6Hs3Pfcek2K3IxYGUeacWtnxDfuiajWcrJ4WRJIP5u5Mb59kvRg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DHurP5GAURdLMGIFg-b3eee8a56f27",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "83297d60ee0f2f3444fc9e7f145d27172e908ba1b88cc1fb05b8d8b7fb4bde16",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A photorealistic scene of a colossal Ice Golem designed as a glacial castle fortress made entirely of ice and snow, shot from an extremely low angle with dramatic perspective to emphasize overwhelming massive size. The golem towers impossibly high, filling most of the frame from bottom to top, with one arm extended forward launching massive ice spears and the other arm creating an ice shield barrier. Body composed of transparent ice blocks, frozen water, snow crystals, icicle formations, frost patterns, and glacial ice structures. Spires and battlements made of pure ice, glowing blue crystal heart made of frozen water. Extreme perspective makes the golem appear to loom over the viewer. Background: frozen arctic landscape with glaciers appearing tiny below. Clear sky, no people or debris. Cinematic lighting, epic scale, movie quality, 8K, --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531WRdmj6Hs3Pfcek2K3IxYGUeacWtnxDfuiajWcrJ4WRJIP5u5Mb59kvRg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 131,
+      "article_title": "Vol.197 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748657273,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0",
+    "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

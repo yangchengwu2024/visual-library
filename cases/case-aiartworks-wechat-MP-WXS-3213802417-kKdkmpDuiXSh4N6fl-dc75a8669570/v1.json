@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0V8qBJXek72qR7KCY8nKWTeKdTxS7FOdQLXIGf309BSCAdVd8c8zWmzg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kKdkmpDuiXSh4N6fl-dc75a8669570",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "13e23029b18ffe458a4fd572dd17edf108ce0624149fbdce11018d6d6b0dd7f9",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "22",
+    "profile": "lwavud7",
+    "sref": [
+      "https://s.mj.run/fZGF8NDx038"
+    ],
+    "stylize": "1000",
+    "sw": "888",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/uPi14Ml8ONM girl doll,Show two little tiger teeth and smile,vinyl hands and vinyl feet are all made of vinyl material serious expression wild and girl intractable toy doll of the character in a furry suit with animal expression and animal ears,full body,The nnimal long, flat, , featuring a red fluffy plush texture, a round shape, and big eyes. The 3D rendering has a soft lighting effect and a simple background with a high-saturation color scheme and a solid white background. The details are super-detailed, created using C4D modeling and OC renderer renderings at a 2K resolution. The character is wearing . --chaos 22 --sref https://s.mj.run/fZGF8NDx038 --profile lwavud7 --sw 888 --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0V8qBJXek72qR7KCY8nKWTeKdTxS7FOdQLXIGf309BSCAdVd8c8zWmzg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA:prompt-0013",
+    "source_metadata": {
+      "article_index": 149,
+      "article_title": "Vol.180 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746844247,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd",
+    "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

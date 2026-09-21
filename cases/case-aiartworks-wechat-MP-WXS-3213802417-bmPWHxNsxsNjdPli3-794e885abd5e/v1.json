@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQMJj3jE92iahAj1XOgbWWpK1m9P1NABQIdSjudrvHc75iahZV2YHFhjFH1KDhER7euPSr9yjmI9UA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bmPWHxNsxsNjdPli3-794e885abd5e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6e34f17b7b6897c47be280b46cdf1915c5924e7d8e7801f6717bfc47e0f4bb48",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "50",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A handsome prince with blond hair and a sword is sitting on the bed of a sleeping beauty with blond hair, the beauty is wearing a medieval style dress, sleeping in a retro style four-poster bed covered with red roses, hands on the abdomen, the bed is wrapped with flowers and vines, the whole room is medieval castle style, soft light, reference to Andersen's fairy tale style Sleeping Beauty, vista --ar 9:16 --stylize 50 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQMJj3jE92iahAj1XOgbWWpK1m9P1NABQIdSjudrvHc75iahZV2YHFhjFH1KDhER7euPSr9yjmI9UA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q:prompt-0015",
+    "source_metadata": {
+      "article_index": 231,
+      "article_title": "Vol.112 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739932586,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493362&idx=1&sn=87d5c616a8da316ceda36d1f7f4913f2&scene=58&subscene=0",
+    "title": "Vol.112 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493362&idx=1&sn=87d5c616a8da316ceda36d1f7f4913f2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.112 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

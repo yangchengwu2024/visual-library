@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAYng6avSyw5perHiaI2m5F2HaKTJedoshScyvPZ6YzRhx7t4LPMVGPOMBNvpqBW5D0fLh1xn2ADjx7qzjI1TEWX0pbJdlm3MJQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-O5srJBMvPSkrepVwj-f570b22b3e49",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ccf80b8368f50de417e667d507767ac58459e024198713bc955598515927bcad",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "5",
+    "profile": "3b7vmz1",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "An editorial beauty shot, close-up of a woman’s hands holding a glass skincare serum bottle, matte finish, soft morning light through sheer curtains, linen background, warm beige tones, high-end Vogue aesthetic --chaos 5 --ar 4:5 --raw --profile 3b7vmz1 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAYng6avSyw5perHiaI2m5F2HaKTJedoshScyvPZ6YzRhx7t4LPMVGPOMBNvpqBW5D0fLh1xn2ADjx7qzjI1TEWX0pbJdlm3MJQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g:prompt-0005",
+    "source_metadata": {
+      "article_index": 30,
+      "article_title": "Vol.303-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780044635,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506632&idx=1&sn=5c7f391eefd31291700111045b1b2592&chksm=965b8d543aa1d1c43d26ba896fde1a9ddcd1bc9dd9f24b46a5f4bcdd18781bc4d30a71b6e76c#rd",
+    "title": "Vol.303-Midjourney 精选作品提示词与赏析 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506632&idx=1&sn=5c7f391eefd31291700111045b1b2592&chksm=965b8d543aa1d1c43d26ba896fde1a9ddcd1bc9dd9f24b46a5f4bcdd18781bc4d30a71b6e76c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.303-Midjourney 精选作品提示词与赏析 · 提示词 6",
+  "version": "v1"
+}

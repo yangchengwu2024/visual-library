@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:30+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdicbBEMcQzsdYsIalkCaUqtdMZrT5wuaaibdHPoricr2fkaH6F7cpL9hh3VAicZXWBMPbCzw6DeK5H4w/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-lMkca7KurFBZtDt-y-fd2bac2c183f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cca4492cbd9ec335593a39b2efe7eaf44e8f5a8f03c7c1e3aecfbfb90be37f37",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "chaos": "50",
+    "personalize": "iuynfo3",
+    "sref": [
+      "https://s.mj.run/p-UnDIfktA4",
+      "https://s.mj.run/kldhyGci5hE"
+    ],
+    "stylize": "700",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "mummy with 3 eyes doing brain surgery --chaos 50 --ar 3:2 --sref https://s.mj.run/p-UnDIfktA4 https://s.mj.run/kldhyGci5hE --personalize iuynfo3 --stylize 700 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdicbBEMcQzsdYsIalkCaUqtdMZrT5wuaaibdHPoricr2fkaH6F7cpL9hh3VAicZXWBMPbCzw6DeK5H4w/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw:prompt-0002",
+    "source_metadata": {
+      "article_index": 306,
+      "article_title": "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1732329011,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487884&idx=1&sn=bd9d1460c0a0b9134f5b004752f7fd09&chksm=96da824fa17d3ac9e289de7608e4f2f09250db45f99ce261ea5393ec88c0a9411750719112c5#rd",
+    "title": "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487884&idx=1&sn=bd9d1460c0a0b9134f5b004752f7fd09&chksm=96da824fa17d3ac9e289de7608e4f2f09250db45f99ce261ea5393ec88c0a9411750719112c5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示 · 提示词 3",
+  "version": "v1"
+}

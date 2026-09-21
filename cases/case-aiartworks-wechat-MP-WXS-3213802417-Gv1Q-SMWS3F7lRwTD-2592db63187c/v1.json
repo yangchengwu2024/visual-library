@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYFicgzmpav5Ftj1qTfCWFbWibqjzaePxibg1IFM5Q1T5jdFibHoPOTCmFkw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gv1Q-SMWS3F7lRwTD-2592db63187c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "09c7a6860364ab5d0ac3d27bd7ef1a525311fe549260e01d29d6c430e56acb28",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic live-action portrait of Jigoro Kuwajima from Demon Slayer, Zenitsu’s master. An elderly Japanese man with spiky white hair, thick white eyebrows, and a large mustache. He wears a traditional yellow kimono patterned with white triangles. His expression is stern yet warm, as if teaching Zenitsu. The scene looks like a nostalgic flashback, slightly hazy and blurred around the edges, soft glowing light, cinematic film tone, ultra-realistic skin texture, photographic detail. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYFicgzmpav5Ftj1qTfCWFbWibqjzaePxibg1IFM5Q1T5jdFibHoPOTCmFkw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA:prompt-0001",
+    "source_metadata": {
+      "article_index": 74,
+      "article_title": "Vol.257 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1757633415,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0",
+    "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

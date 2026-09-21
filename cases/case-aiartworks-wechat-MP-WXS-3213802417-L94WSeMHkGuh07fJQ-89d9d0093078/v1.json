@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnRgjuibqgIbXx9QXlnG2yAstokckS4e9UHv6chyqG2HicnnibiaETszHxYg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jn0sqtBK4MyaP6QlMfySaXsN8mdddmDOicOgkuW0OAL83vb15BFt9eMOA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-L94WSeMHkGuh07fJQ-89d9d0093078",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "21f8e69189d4a960a7372916612ac98454c69d362a3b60cd42da4be25606d5c2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "11:12",
+    "chaos": "25",
+    "iw": "1.2",
+    "profile": "1g92ni9",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "Minimalist telephoto macro silhouette of an ancient Sumerian technocratic female soldier, standing poised with a long spear and a crescent-shaped shield, perfectly aligned with the setting sun. The solar disk directly behind her creates a radiant glowing halo/corona around her helmet’s crest and armor contours. Subtle etched circuitry-like engravings on the armor suggest advanced proto-technological aesthetics, blending myth and futurism. The figure’s silhouette is ultra-sharp, every edge crisp against the sky, while her backlit ornamental plumes and spear filaments glow like dandelion seeds in golden fire. Background: warm golden-amber to deep chocolate gradient sky, low dark horizon line, cinematic negative space composition (rule of thirds). Slightly softened background from shallow depth of field, high-contrast natural vignetting, HDR tonality, no clouds, no text, no watermark. Lens metadata look: 200mm, f/4, 1/1000s, ISO 100. Masterpiece, 8K, ultra-photorealistic, dramatic yet minimalist fine art photography. --chaos 25 --ar 11:12 --profile 1g92ni9 --stylize 50 --iw 1.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnRgjuibqgIbXx9QXlnG2yAstokckS4e9UHv6chyqG2HicnnibiaETszHxYg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jn0sqtBK4MyaP6QlMfySaXsN8mdddmDOicOgkuW0OAL83vb15BFt9eMOA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 78,
+      "article_title": "Vol.253 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1756855830,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd",
+    "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

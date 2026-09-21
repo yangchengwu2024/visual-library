@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpbJriacjfxiaTfyI70s02qlGLyHYBHA2QnFO1hF9u1Yu3uE8lY9hNnUsg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c2WFTXmdilCoVAunc-78c94c1cb2fc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b1f454c4d738768a1652d82dd72afb55d79f66e7bdee6bdb896850496be72a43",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "90s anime-style Latina girl with a melancholic yet confident look, inspired by Studio Ghibli and Neon Genesis Evangelion, in a hand-drawn aesthetic with soft lines and slight film grain. She has short black messy hair, expressive eyebrows, and deep, emotional eyes. The scene is structured like a comic page with multiple panels, dynamic compositions, and a Prussian blue color palette, featuring neon-lit cityscapes. Each panel shows different emotions and angles, with dramatic lighting, capturing a bittersweet, introspective mood in late 90s anime style. --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpbJriacjfxiaTfyI70s02qlGLyHYBHA2QnFO1hF9u1Yu3uE8lY9hNnUsg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q:prompt-0011",
+    "source_metadata": {
+      "article_index": 209,
+      "article_title": "Vol.130 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741746626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494683&idx=1&sn=ae36dd6737be2fffbd173f3e61367278&scene=58&subscene=0",
+    "title": "Vol.130 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494683&idx=1&sn=ae36dd6737be2fffbd173f3e61367278&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.130 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

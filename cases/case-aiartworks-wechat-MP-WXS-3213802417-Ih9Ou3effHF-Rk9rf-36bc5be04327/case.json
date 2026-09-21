@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ih9Ou3effHF-Rk9rf-36bc5be04327",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS59bU8M7BVowpkl9ph7894ZicGu4SqXjZ3GYr0EibN8WUQjy6qfgM1yt7w/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g:prompt-0017",
+      "source_metadata": {
+        "article_index": 182,
+        "article_title": "周末特别版 | V7效果概览专辑 | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1743906618,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 17,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495572&idx=1&sn=962ceaa48ea88da2ddf4df490acf95ec&chksm=9640842cdf6122c118b4d862d52e54fcc468872f09bb06e7dbff62a02ea74a7805e1db1438b6#rd",
+      "title": "周末特别版 | V7效果概览专辑 | 精选作品与提示 · 提示词 18",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495572&idx=1&sn=962ceaa48ea88da2ddf4df490acf95ec&chksm=9640842cdf6122c118b4d862d52e54fcc468872f09bb06e7dbff62a02ea74a7805e1db1438b6#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | V7效果概览专辑 | 精选作品与提示 · 提示词 18",
+  "title_aliases": [
+    "周末特别版 | V7效果概览专辑 | 精选作品与提示 · 提示词 18"
+  ]
+}

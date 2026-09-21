@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8aqVtCvfvuwhnDXVeg4OojeseiajiaxPTE4h9VmyfeKMkZfyMp8SSdvvw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fKTnbR5aW2tEzyaTH-90b895226ef4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cbb6330a51c4ae52776d63ea868ee374860e938002ba9414229a3888f8d1033c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "wgy5kya",
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "a hyper-detailed close-up portrait of an anthropomorphic monkey warrior, intense gaze, tribal red and black face paint, ancient red and gold armor with black trims, cinematic warrior look, greyish-brown fur with photo-realistic textures and natural specular highlights, highly detailed skin pores and fine facial hair, dramatic cinematic lighting inspired by Denis Villeneuve, costume design influenced by ancient Chinese dynasty armor and dark fantasy lore, captured with a Sony A7S III 35mm f/2 lens, shallow depth of field, ultra sharp focus on one eye, epic storytelling tone, moody background blur, National Geographic realism, in the style of Annie Leibovitz + Dune + War for the Planet of the Apes, 8K,HDR, --ar 9:16 --raw --profile wgy5kya --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8aqVtCvfvuwhnDXVeg4OojeseiajiaxPTE4h9VmyfeKMkZfyMp8SSdvvw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw:prompt-0001",
+    "source_metadata": {
+      "article_index": 147,
+      "article_title": "Vol.181 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747017012,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496793&idx=1&sn=32d5c37a0a8b1299ddae9beef5fbff82&chksm=96370cfe29ec46a9fb9b39934313e17998447dcc2fefdd21f4de9c0bb55d5730b203cdea641b#rd",
+    "title": "Vol.181 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496793&idx=1&sn=32d5c37a0a8b1299ddae9beef5fbff82&chksm=96370cfe29ec46a9fb9b39934313e17998447dcc2fefdd21f4de9c0bb55d5730b203cdea641b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.181 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

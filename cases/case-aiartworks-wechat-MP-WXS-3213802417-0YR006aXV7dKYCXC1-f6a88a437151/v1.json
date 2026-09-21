@@ -1,0 +1,88 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDQfLfHnr4Uib8zuPBdsrtLB9bYXz7b6qJ7T6vw5L05mNmo1xnX9gTqXcJQnVkHOI3QxH5E3fHheFs4eVqauZMXXTtTfBbWaE0k/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDkb0XgNUpLK7sqGzSyjY0thPaRWYExaocGLZC6utelwQ5mBarFBP82YyMiambYItmMDDcJd7hCs0U67ndkG9ic5wxoOXXvKCKCA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBTclhHPPFmKSvbkxfpPQrzhW7RRDOEIByaXglsF2lZAW76NEC0MqD8Rf9n0FVoqCsic6SMicz2mlsXkBbo1szfAw2rMu5008Zfo/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0YR006aXV7dKYCXC1-f6a88a437151",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "697ee237bac56e64377b4a8fb94a1593bf3afe48ec2da7439147c79c498bcf66",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "no": [
+      "windows,",
+      "doors,",
+      "grass"
+    ],
+    "profile": "d6dq5am",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "photograph of concrete brutalist buildings along a beach shore line. The buildings are Populated by people with tvs for heads wearing hospital gowns. --no windows, doors, grass --ar 3:4 --profile d6dq5am --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDQfLfHnr4Uib8zuPBdsrtLB9bYXz7b6qJ7T6vw5L05mNmo1xnX9gTqXcJQnVkHOI3QxH5E3fHheFs4eVqauZMXXTtTfBbWaE0k/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDkb0XgNUpLK7sqGzSyjY0thPaRWYExaocGLZC6utelwQ5mBarFBP82YyMiambYItmMDDcJd7hCs0U67ndkG9ic5wxoOXXvKCKCA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBTclhHPPFmKSvbkxfpPQrzhW7RRDOEIByaXglsF2lZAW76NEC0MqD8Rf9n0FVoqCsic6SMicz2mlsXkBbo1szfAw2rMu5008Zfo/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA:prompt-0006",
+    "source_metadata": {
+      "article_index": 7,
+      "article_title": "Vol.325-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1786750265,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 6,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510994&idx=1&sn=97a3bfb9a60f805262757a2afee0587a&chksm=96b8a9dcfb0d16b4159d0777fff0359a8bae9afa0e15d181fde3602a7bc836bddcfb1023e87d#rd",
+    "title": "Vol.325-Midjourney 精选作品提示词与赏析 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510994&idx=1&sn=97a3bfb9a60f805262757a2afee0587a&chksm=96b8a9dcfb0d16b4159d0777fff0359a8bae9afa0e15d181fde3602a7bc836bddcfb1023e87d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.325-Midjourney 精选作品提示词与赏析 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9wRiaibdFCZwx5QAzy0wbazfgnWHyvC9PctPMiauRcXYkTCwrBicBew5mLoA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-l2P3D5Jp75qis-YzM-d1ddaaa12ab3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b352bd93306bb721e236cc2fe0be97a0ccae5c050dfd70cd004849dfdeb1fe37",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "zm56p5n",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "a cinematic moonlit forest seen from a high branch, the camera positioned just behind a realistically-sized owl perched in the tree the owl is small and sharply detailed in the foreground, watching a noble young man riding his horse through the forest path below the man, dressed in traditional robes, is illuminated by soft silver moonlight breaking through the trees the scene is quiet and mysterious, filled with shadows, mist, and depth both the owl and the rider are in focus but realistically scaled ultra realistic, 8K, top-down cinematic angle, dramatic moonlight, noble atmosphere, storytelling rich and immersive --ar 9:16 --profile zm56p5n --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9wRiaibdFCZwx5QAzy0wbazfgnWHyvC9PctPMiauRcXYkTCwrBicBew5mLoA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA:prompt-0005",
+    "source_metadata": {
+      "article_index": 119,
+      "article_title": "Vol.209 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749684621,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497999&idx=1&sn=eb26f0badb65e80513f9dad97e80a832&chksm=969cbc1089f5008947988dbbc74832f8f02be63d03e25c59a5eff9599b399234f64adc003579#rd",
+    "title": "Vol.209 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497999&idx=1&sn=eb26f0badb65e80513f9dad97e80a832&chksm=969cbc1089f5008947988dbbc74832f8f02be63d03e25c59a5eff9599b399234f64adc003579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.209 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAOYpGL06WOlZhnLy8qkGKhz0TeXqwLy3z9vJXaKoibGM0ZTCtx5JYIKLFvoh0xp2Sawr8wbMA8DeeNn2DJ5XZYqdL0DOXxQgAM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-8b73634198a1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "779fb6e0601f887975cc4ff3c15127255a6c52efd56fc2452badf803ad506ecb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "hd": true,
+    "profile": "i9lih7n",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Retro 1980s Japanese pop art comic illustration. Bold halftone dot textures, thick colorful outlines, playful graphic composition. Central expressive female character: hair blowing dynamically, sparkling cosmic eyes with tiny planets and stars in pupils, determined expression, fists clenched confidently, energetic pose. Floating elements: stars, hearts, pencils, cameras, ribbons, clouds, lightning bolts, musical notes, cute icons. Pastel toned dreamy aesthetic; vintage print textures; screen tone shading; colorful pop graphic design. \"I CAN DO IT\" in cute handwritten brush script at top with layered sticker style text effects. Color palette: pastel pink, milk yellow, sky blue, lavender. Clean white highlights, retro animation package design style, highly detailed, playful Japanese commercial art aesthetic, centered composition, graphic poster feel. --ar 4:5 --profile i9lih7n --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAOYpGL06WOlZhnLy8qkGKhz0TeXqwLy3z9vJXaKoibGM0ZTCtx5JYIKLFvoh0xp2Sawr8wbMA8DeeNn2DJ5XZYqdL0DOXxQgAM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A:prompt-0008",
+    "source_metadata": {
+      "article_index": 32,
+      "article_title": "Vol.301-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1779147050,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0",
+    "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

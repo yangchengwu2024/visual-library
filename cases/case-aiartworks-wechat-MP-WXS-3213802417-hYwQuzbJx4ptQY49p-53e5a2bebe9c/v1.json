@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhMPQXvuwYgvmQ59GYNHWBoKS1C7ysaN0UJFjSibK2u0m5Ccs7mAQpicAQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hYwQuzbJx4ptQY49p-53e5a2bebe9c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1f99c933629eb8a18826e843b89d790b8702941177005066e7dcad7fca9ebb89",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "profile": "wotns24",
+    "stylize": "200",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "High-angle view of a red-haired woman wearing a mohair dress, black boot walking along a beach, facing a large, dramatic wave, pale sand beach, muted grayish-blue water, the wave is a dark, almost black, turbulent mass, surreal, soft lighting, muted color palette, detailed water textures, aerial perspective, dramatic lighting contrasts, minimalist style, surrealism, abstract, photographic style, realistic, detailed waves, dramatic composition, calm, dark grey-blue hues, light beige-tan sand, powerful, surreal beach scene, minimalist aesthetic, 8k resolution Shot in analog with a RAW format, this 8K ultra HD image captures intricate details, taken with a Fujifilm XT3 camera and a 50mm F/2.8 lens, featuring HDR for dynamic colors. Photorealistic, hyper-detailed, insane details, intricate details, Photoshoot, DOF, White Balance --chaos 5 --ar 3:4 --profile wotns24 --stylize 200 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhMPQXvuwYgvmQ59GYNHWBoKS1C7ysaN0UJFjSibK2u0m5Ccs7mAQpicAQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 157,
+      "article_title": "Vol.173 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746151214,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0",
+    "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

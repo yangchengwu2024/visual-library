@@ -1,0 +1,14 @@
+{
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "公众号正文图片候选；未完成逐图视觉核验。",
+      "role": "output"
+    }
+  ],
+  "model_family": "midjourney",
+  "model_version": "5.1",
+  "record_type": "case",
+  "review_note": "自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。",
+  "review_status": "needs_review"
+}

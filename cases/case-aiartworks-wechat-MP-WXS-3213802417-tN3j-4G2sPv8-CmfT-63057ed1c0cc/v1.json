@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD0aKH3ELWnTXZVOCMosAXwq7z9UpyoL3wwqhJSjvGNtdPZ6icrSbxRL3A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tN3j-4G2sPv8-CmfT-63057ed1c0cc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "702078c34771b042f906a6583481fca10d9ad52e62a88e181340ed0ab2f63364",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a women is wearing dress with soccer shoes while jumping and kicking a soccer ball, left hand holding a clutch bag, right hand holding lipstick, full body realistic photography, stripes background consist of pink-blue-gold, front angle, --ar 9:16 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD0aKH3ELWnTXZVOCMosAXwq7z9UpyoL3wwqhJSjvGNtdPZ6icrSbxRL3A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA:prompt-0005",
+    "source_metadata": {
+      "article_index": 301,
+      "article_title": "Vol.45 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732797057,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0",
+    "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

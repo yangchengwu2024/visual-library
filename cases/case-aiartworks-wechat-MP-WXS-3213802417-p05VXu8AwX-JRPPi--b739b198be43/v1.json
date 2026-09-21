@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917b4uia21HhuocNT6JpEZ9DkVJbKkQVxOP1VntfzfUqtnVeYHhSE5T0Inw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917bv7k5xiasb1j26abHyGhlngQGblkic9eR2ovV0icD9Ed4SBMwDwHkuTaTQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917b3aggLBa7ZmX7ZjobSwcHTauVPfh6BiaTyzb4HEtzwBzbf1Prib6Mnic5w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-p05VXu8AwX-JRPPi--b739b198be43",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4f0d9d799bdb530ad91ba5fdc9eb3fbaaaec62025fe27b8398deba3b3bea6145",
+  "model": "Midjourney",
+  "parameters": {
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "A damaged satellite dish and broken car in the background, with muted, neutral tones, a desolate landscape, a post-apocalyptic style, post-apocalyptic art, car artwork, abandoned cars, Mad Max vibes, a detailed poster, and a \"michal k.store\" logo on it. --stylize 250",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917b4uia21HhuocNT6JpEZ9DkVJbKkQVxOP1VntfzfUqtnVeYHhSE5T0Inw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917bv7k5xiasb1j26abHyGhlngQGblkic9eR2ovV0icD9Ed4SBMwDwHkuTaTQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917b3aggLBa7ZmX7ZjobSwcHTauVPfh6BiaTyzb4HEtzwBzbf1Prib6Mnic5w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA:prompt-0010",
+    "source_metadata": {
+      "article_index": 95,
+      "article_title": "Vol.234 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1753054294,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 10,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499102&idx=1&sn=af36e63b7b805927bffbd106dd51e44d&chksm=961cf822b4a3fd3a24e45fde79720f183018cf9827f0ddaed2f3a3e0e3499556f906c10e0b99#rd",
+    "title": "Vol.234 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499102&idx=1&sn=af36e63b7b805927bffbd106dd51e44d&chksm=961cf822b4a3fd3a24e45fde79720f183018cf9827f0ddaed2f3a3e0e3499556f906c10e0b99#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.234 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

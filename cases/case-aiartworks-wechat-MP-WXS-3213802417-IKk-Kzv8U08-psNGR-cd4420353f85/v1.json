@@ -1,0 +1,91 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAxtNj40Yoxo8hf81MjZwC8nPxuIDjFWCic5tmyaTOqlNpK7tITWU4CjQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAeHTiaYBqD5GB9DuBXVSGNX3hd5q4AdIRdyH0iaPlqiaI7Pw0fLPrmfWfw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAesicJN1kXHAzguA2OIC34ibXDibrREYGjZS4F1lIJOxIrDuutq1gfN3hg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAdfiaD1icI1Xg1B74DOSXOE2j7ZgHnoCpYl15lw8gqoFIRbHYS3j7uZ9w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKk-Kzv8U08-psNGR-cd4420353f85",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d82039ed558ca67eb61c3d51ba7cb75e3c44a76c4f6b9eeff44d345f48ddc48e",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "photograph,indoor,night,man Views,slightly above head level perspective, looking_at_viewer,eye-contact,Eyeball,young gril,Chinese girl,Twinbuns,Dual horsetail,Twintails,long black hair,dark hair styled in two pigtails.white long-sleeve top, purple skirt, white socks,pink shoes, holding plush toy,This photograph capturesfeatures a large indoor pool with clear, glass wall tilted at 45 degrees, Tilted glass wall,blue water, surrounded by a tiled deck. The pool is enclosed by a glass wall with black metal framing, The swimming pool is surrounded by sloping glass curtain walls, and the entire structure of the swimming pool resembles a trapezoid,allowing natural light to flood the space. Outside the pool, a few colorful pool floats are visible, including a green and black striped one and a red and white life preserver. There is also a small plant in a pot on the pool deck, adding a touch of greenery to the scene. The overall atmosphere is bright and summery, with the clean lines and modern design of the pool area suggesting a luxurious, well-maintained space, --v 6.1 nelson701085",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAxtNj40Yoxo8hf81MjZwC8nPxuIDjFWCic5tmyaTOqlNpK7tITWU4CjQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAeHTiaYBqD5GB9DuBXVSGNX3hd5q4AdIRdyH0iaPlqiaI7Pw0fLPrmfWfw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAesicJN1kXHAzguA2OIC34ibXDibrREYGjZS4F1lIJOxIrDuutq1gfN3hg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAdfiaD1icI1Xg1B74DOSXOE2j7ZgHnoCpYl15lw8gqoFIRbHYS3j7uZ9w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw:prompt-0001",
+    "source_metadata": {
+      "article_index": 259,
+      "article_title": "Vol.81 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736389825,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 1,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKk-Kzv8U08-psNGRZSwpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491295&idx=1&sn=9ed3201134d6f64926013a68d1c46779&chksm=96e5d4176f93c39c3a48fee9aadacf1c5770935d13603fa7710c48a0831f22538a055b81c26e#rd",
+    "title": "Vol.81 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491295&idx=1&sn=9ed3201134d6f64926013a68d1c46779&chksm=96e5d4176f93c39c3a48fee9aadacf1c5770935d13603fa7710c48a0831f22538a055b81c26e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.81 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

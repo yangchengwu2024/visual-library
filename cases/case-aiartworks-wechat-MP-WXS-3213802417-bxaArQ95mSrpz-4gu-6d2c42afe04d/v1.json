@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTZGwhPQu25WNjqCI7oRhIFRQNIWg7O8aucjib5IomquiaD4EQQHmBGSRwUCM3RY88ISQnY3NUgxug/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShercHS1u3PiaeKOyhQBXO7RQP6gx4CdCalfK9qjbjNBk9gPoeTf1Dw1FnBVbm09h1VvPtlHDskw5iaQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bxaArQ95mSrpz-4gu-6d2c42afe04d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d1b3c70334cfea154f3a3f579c5ea4efad6dd1dc96f409f057655022faf0a21c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "chaos": "35",
+    "quality": "2",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Surreal masterpiece, morphing themself recursively. Style of metaphysical collage, hyper-detailed, melancholic whimsy.surreal high quality oil paint --chaos 35 --ar 1:1 --quality 2 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTZGwhPQu25WNjqCI7oRhIFRQNIWg7O8aucjib5IomquiaD4EQQHmBGSRwUCM3RY88ISQnY3NUgxug/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShercHS1u3PiaeKOyhQBXO7RQP6gx4CdCalfK9qjbjNBk9gPoeTf1Dw1FnBVbm09h1VvPtlHDskw5iaQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg:prompt-0014",
+    "source_metadata": {
+      "article_index": 47,
+      "article_title": "Vol.285 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763335848,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 14,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503586&idx=1&sn=31d1c5b4229e5bc2b96ae20eea47cea1&chksm=96b8f081d1baab6701a8a62f3d010832cf18f0e9bfba3ca9a7fcd772c815196185aa0415cc67#rd",
+    "title": "Vol.285 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503586&idx=1&sn=31d1c5b4229e5bc2b96ae20eea47cea1&chksm=96b8f081d1baab6701a8a62f3d010832cf18f0e9bfba3ca9a7fcd772c815196185aa0415cc67#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.285 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

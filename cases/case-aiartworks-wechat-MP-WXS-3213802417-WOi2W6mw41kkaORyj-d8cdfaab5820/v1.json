@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBic4nrQVbrKDKNZMZ573vOXSHIKnOcTow2uMLTLt8XdRcO6yv7m97X1Fibh3gXibiaQl75HeTkR84nlp6CE72NiaRBSic6afSNHRgD4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WOi2W6mw41kkaORyj-d8cdfaab5820",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b9c340682431bd14001981bf2e92e222b1f4bde9aa4a20567f4f3d33288d216e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true,
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "a vibrant digital render featuring a futuristic, anime-style character. The character has long, flowing hair and is wearing a sleek, high-tech suit with glowing accents. She is holding a large, futuristic gun that emits a bright pink laser beam, creating dynamic light effects across the scene. Her eyes are large and expressive, with a determined look, and she wears a visor with neon highlights. The background is a dark, gradient mix of blues and purples, enhancing the neon glow of the character and her weapon. The overall composition is dynamic, with a focus on action and movement, emphasized by the character's pose and the swirling lines of light around her. 32k uhd --ar 2:3 --raw --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBic4nrQVbrKDKNZMZ573vOXSHIKnOcTow2uMLTLt8XdRcO6yv7m97X1Fibh3gXibiaQl75HeTkR84nlp6CE72NiaRBSic6afSNHRgD4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw:prompt-0011",
+    "source_metadata": {
+      "article_index": 38,
+      "article_title": "Vol.294 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776900578,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0",
+    "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

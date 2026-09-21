@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcD0scKicEic4HLXH0kAZP7KgLM5KFvR3GTwibztUOgSh9yqff974VeEUYv946dKw8Vq4nX3L3cMX6OA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Fx1cF5enqoaSvBaV1-b5983a4a1d03",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f35126e866628625a61ce00abc4066663fa6444a24ad5a502bd16bb2aad759f0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "First-person POV, extremely close-up as if the viewer is about to collide with a poor Heian-period commoner mother clutching a feverish baby. She is at arm’s length, filling the frame, clearly frantic and panicked: brows furrowed, eyes wide and desperate, cracked lips parted in shock, sweat and dirt on her sunburnt skin, lifelike wrinkles and pores visible, real human skin texture, no stylization. Her hair is messy, tangled, frizzy, dusty, greasy, strands sticking to her sweaty face, roughly tied with hemp cord. Her clothing is torn rags of coarse hemp fabric, dirty, stained, patched many times, frayed edges, faded dull colors, rope sash. The baby looks weak and flushed with fever, beads of sweat on its forehead, wrapped in filthy patched cloth. Background slightly blurred: dilapidated Heian street, broken wooden houses, cracked earthen walls, dusty path. Style: hyper-realistic, photorealistic, lifelike, RAW photo, documentary realism, award-winning candid street photography, DSLR, 85mm lens, f/1.8, shallow depth of field, cinematic lighting, 8k high-end magazine photo. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcD0scKicEic4HLXH0kAZP7KgLM5KFvR3GTwibztUOgSh9yqff974VeEUYv946dKw8Vq4nX3L3cMX6OA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 72,
+      "article_title": "Vol.259 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758065428,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500311&idx=1&sn=da91bec3be12fbbc4d3fa058652cebb4&scene=58&subscene=0",
+    "title": "Vol.259 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500311&idx=1&sn=da91bec3be12fbbc4d3fa058652cebb4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.259 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

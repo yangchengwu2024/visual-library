@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd7m9vwmP7HMKJJfhEBU1GOeRfEW8RNheUoaWiaHicbpTgdFmajXy1iaic7CPGzwB0R6HHqfkfHoibSEicg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MijnAaE-Nx6NhJTSw-d934b77e24aa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d3b26d1d7bdbca3143a3719a2a265675964bdacf66376a17c55316a446f565f5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "3o7uc2i",
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A dynamic, cinematic action scene of Moana performing a powerful parkour gainer (backflip while moving forward) between two rooftops in a stylized urban environment. The camera angle is low and dramatic, capturing her mid-air in slow motion with motion blur and wind flowing through her hair. Moana is wearing a modified athletic version of her traditional outfit, designed for movement, with Polynesian tattoos visible on her arm. The setting is a neon-lit city at twilight, with glowing ocean-themed graffiti and tropical elements integrated into the urban architecture. The background shows depth with a wide-angle lens effect, and her expression is fierce and focused as she soars through the air like a true warrior princess. --ar 9:16 --profile 3o7uc2i --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd7m9vwmP7HMKJJfhEBU1GOeRfEW8RNheUoaWiaHicbpTgdFmajXy1iaic7CPGzwB0R6HHqfkfHoibSEicg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg:prompt-0012",
+    "source_metadata": {
+      "article_index": 170,
+      "article_title": "Vol.162 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745029863,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495990&idx=1&sn=517f9ce184bf60a8b5aa60671c5d4b4a&scene=58&subscene=0",
+    "title": "Vol.162 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495990&idx=1&sn=517f9ce184bf60a8b5aa60671c5d4b4a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.162 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

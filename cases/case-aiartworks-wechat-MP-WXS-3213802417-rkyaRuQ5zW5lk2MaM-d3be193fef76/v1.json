@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBeVSc5jpRtiajPmLMHrOkqrGNqK1KBwlbtbtbqxnHbNgJ3vETX0mwckw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkyaRuQ5zW5lk2MaM-d3be193fef76",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b64baef065b9204c0abf189aff4f3c9ff062885971c2f4d4e386764251317870",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A young man in a futuristic metropolis like New York, standing on the rooftop of a skyscraper, jumping upward as if rising into the sky, behind him a massive lunar eclipse glowing over the night cityscape, from his body a transparent neon-white digital spirit emerges, separating from him, cinematic, hyper-realistic, wide-angle, sci-fi atmosphere, 9:16 aspect ratio, ultra detailed, high resolution. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBeVSc5jpRtiajPmLMHrOkqrGNqK1KBwlbtbtbqxnHbNgJ3vETX0mwckw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q:prompt-0004",
+    "source_metadata": {
+      "article_index": 68,
+      "article_title": "Vol.263 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1758848961,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500477&idx=1&sn=8b84412e2502f9d65d4c775faa295270&chksm=962487a17484810da408fb6d672ce996d9c4c8cf83dd1304f9f296b70ecb72b6c0fa3d562621#rd",
+    "title": "Vol.263 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500477&idx=1&sn=8b84412e2502f9d65d4c775faa295270&chksm=962487a17484810da408fb6d672ce996d9c4c8cf83dd1304f9f296b70ecb72b6c0fa3d562621#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.263 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

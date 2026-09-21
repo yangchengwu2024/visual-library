@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:37+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd57ibChZIIicjF93D1P0txeTicuXticboZPdnXJICHAFVSxl3s2Vc8kD417Y0NmkN8wkwYnFHdYEiaicGQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YciOgJ-r58dzXigW5-9943e50288ea",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d8300c47277c03c84990e0642c5f34c53c2cdd2abe73294097a11fc397d11718",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "an open hand over which a big power cube flies, the cube glows, energy emanates from it, soccer stadium background, low perspective, cinematic lighting, soft shadows, professional color grading, realistic, blue neon lights on character, taken on sony a7r5 with 50mm 1.4f lens --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd57ibChZIIicjF93D1P0txeTicuXticboZPdnXJICHAFVSxl3s2Vc8kD417Y0NmkN8wkwYnFHdYEiaicGQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ:prompt-0014",
+    "source_metadata": {
+      "article_index": 344,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.02",
+      "association_confidence": "high",
+      "createTime": 1728624973,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YciOgJ~r58dzXigW5f8LJQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484805&idx=1&sn=3816332fdc764c36128cb71a080e61ba&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.02 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484805&idx=1&sn=3816332fdc764c36128cb71a080e61ba&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.02 · 提示词 15",
+  "version": "v1"
+}

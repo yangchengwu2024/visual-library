@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhtTzicrT0n7PiaEtmNF7rp9LL8OcSaGNuYm6NcOVyCcZqamNVPBZY0iaCQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-HqagCxPorX9k-ufUR-189dca74ddbd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "accd62647dcb7e1684c35090769a8e67a07be36369adb9a7f95b970db77fc04b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "8uo2d4k",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Create a minimalistic and cinematic book cover design featuring a confident man with a slick hairstyle and a slight smirk, wearing a dark suit and tie. He is holding a lit lighter with a flame in the foreground, emphasizing strong contrasts of black, white, and hints of red. Include subtle highlights, such as a floating halo above his head, symbolizing irony. The background should be red, enhancing the focus on the central figure and elements. The overall mood should feel witty, sharp, and stylish. --ar 9:16 --raw --profile 8uo2d4k --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhtTzicrT0n7PiaEtmNF7rp9LL8OcSaGNuYm6NcOVyCcZqamNVPBZY0iaCQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg:prompt-0005",
+    "source_metadata": {
+      "article_index": 158,
+      "article_title": "Vol.172 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746057736,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0",
+    "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

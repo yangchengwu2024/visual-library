@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQOazTrNPaqKcLsnXXdRglAPSaxwMO8uGLvgvRnKQWWAQ5Viaw4JQyJ8A/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yyaNoAf-0ezSHtHh8-eb3393053841",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b406a27e802bbcd860c85c675b1fbd1a7806b6b8eeba7e62d9eb2d557a9d1ef7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "6zbf6ia",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/tF5YCneI4-8",
+      "https://s.mj.run/7rvGu2m4xDg"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "A high-fashion beauty editorial close-up, focusing tightly on a model’s face from the bridge of the nose to the lips, with soft film grain and cinematic sharpness. The model’s makeup is bold and editorial: shimmering metallic lavender and silver eyeshadow blended across the lids, extending outward with soft black eyeliner, thick natural brows, and a gradient blush in vivid pink sculpting the cheekbones. Her lips are full and matte, painted in a pastel cotton-candy pink, slightly parted. Lighting is bright and directional, emphasizing uneven skin texture, small pores, freckles, and natural imperfections, fine lines and wrinkles, enhancing a raw, tactile realism. The framing is extreme close-up, emphasizing sensual details of the skin, eyes, and lips, with a 90s supermodel nostalgia meets modern hyperrealism aesthetic. Post-production grading enhances contrast, vibrancy, and cinematic grain, giving the image an iconic Vogue editorial finish. --ar 3:4 --raw --sref https://s.mj.run/tF5YCneI4-8 https://s.mj.run/7rvGu2m4xDg --profile 6zbf6ia a5uu36q",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQOazTrNPaqKcLsnXXdRglAPSaxwMO8uGLvgvRnKQWWAQ5Viaw4JQyJ8A/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g:prompt-0000",
+    "source_metadata": {
+      "article_index": 81,
+      "article_title": "Vol.250 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756251064,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd",
+    "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

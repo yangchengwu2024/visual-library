@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShekwWiahUCAne69BKCudMsWb3z9vTOG7uAYk02aiaFKofYPFicJhwQkhxZX9Jp6TNYZHK6z1X9gh0hFA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OcYqMUF8yBPGh5Iop-c33727aaddde",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "afa1438279e5dd5683c96b5fac6b05ca27234387dedccde5ed138c77f618f4b1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "80",
+    "profile": "s2fk8kr",
+    "style": "raw",
+    "stylize": "900",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/JKumSy1Utmg woman surrounded by gigantic Ranunculus flowers, peonies and succulents, she holds flower in her hands, whimsical garden --chaos 80 --ar 2:3 --style raw --profile s2fk8kr --stylize 900 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShekwWiahUCAne69BKCudMsWb3z9vTOG7uAYk02aiaFKofYPFicJhwQkhxZX9Jp6TNYZHK6z1X9gh0hFA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg:prompt-0013",
+    "source_metadata": {
+      "article_index": 196,
+      "article_title": "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1742697051,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495156&idx=1&sn=83b43d69f80d453134915f195a85128e&chksm=962650b02de8e788980f919e999ffc9ea0cfa0220cf137d9d7c913cecc52a253a0ab4a99e17f#rd",
+    "title": "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495156&idx=1&sn=83b43d69f80d453134915f195a85128e&chksm=962650b02de8e788980f919e999ffc9ea0cfa0220cf137d9d7c913cecc52a253a0ab4a99e17f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示 · 提示词 14",
+  "version": "v1"
+}

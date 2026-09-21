@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bmPWHxNsxsNjdPli3-e27732b7291e",
+  "fingerprint": "86efdf21dad08b00b353b55ebb807ccbc48a43d2d9d70173d0cdf188d79d3da9",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "prompt": "A cute cat and dog, vying for a bone, whole body, yellow background, Keith Haring style graffiti, Sharp illustrations, bold lines and solid colors, simple details, minimalism --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q:prompt-0008",
+    "source_metadata": {
+      "article_index": 231,
+      "article_title": "Vol.112 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1739932586,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493362&idx=1&sn=87d5c616a8da316ceda36d1f7f4913f2&scene=58&subscene=0",
+    "title": "Vol.112 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493362&idx=1&sn=87d5c616a8da316ceda36d1f7f4913f2&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q:prompt-0008",
+  "status": "pending",
+  "title": "Vol.112 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

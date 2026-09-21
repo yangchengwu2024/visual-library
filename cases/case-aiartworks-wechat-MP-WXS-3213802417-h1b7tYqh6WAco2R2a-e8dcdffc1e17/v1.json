@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCtzibwUqIWlqTBlTht5FVEApxwQibx77cHlClQNiab8sqA91wiccNDQZkMRlMGa9B6nNKOslnuicpbSeVEeAM64W4dDdepkvT7YWa0/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-h1b7tYqh6WAco2R2a-e8dcdffc1e17",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "00510305a1a3702b08eccd11c7738f61ea6556dbef1c87d5d95e27e6018a3d79",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "profile": "cr5awaj",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "The color dies. The stars vanish. Total, featureless darkness. A sensory deprivation that feels like an end. --ar 2:3 --profile cr5awaj --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCtzibwUqIWlqTBlTht5FVEApxwQibx77cHlClQNiab8sqA91wiccNDQZkMRlMGa9B6nNKOslnuicpbSeVEeAM64W4dDdepkvT7YWa0/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA:prompt-0008",
+    "source_metadata": {
+      "article_index": 31,
+      "article_title": "Vol.302-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1779319833,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd",
+    "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

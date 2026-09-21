@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0V2P470ptw45vsPnNcWY7EpzkuVEgHnUIl7IICRPEVIpugzxSRTTz7cw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kKdkmpDuiXSh4N6fl-60ed8d61dd53",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "705d09926494283fe3aec16323d6f6ea976b3256cf020d85313cb5e9ea162895",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A Soviet propaganda poster celebrating the victory in World War II, featuring a smiling soldier with medals and sun rays behind him, holding a star-shaped red banner reading \"Stvarao v Maharashtra CCCP/org Third part of February\" above his head. The background is adorned with auspicious symbols like stars, stripes, and flowers. In bold text at the top center, it reads \"20th Salt Day morning\", while below it says \"34 years to victory! Long live your title as victor over evil.\" --ar 3:4 --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0V2P470ptw45vsPnNcWY7EpzkuVEgHnUIl7IICRPEVIpugzxSRTTz7cw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA:prompt-0009",
+    "source_metadata": {
+      "article_index": 149,
+      "article_title": "Vol.180 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746844247,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd",
+    "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-4kv2VFxWUqtlNMKUx-21af712fccb2",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfxpZwZWnEMrIn6nKMr4MBGgLX6GAlz1ico06vs4lVQ26FFdTrAlickhfU9FO90v6fhQApiaAibMiaic2OQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_4kv2VFxWUqtlNMKUxs-MYg#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_4kv2VFxWUqtlNMKUxs-MYg:prompt-0012",
+      "source_metadata": {
+        "article_index": 284,
+        "article_title": "周末特别版 | Mr.Indolent的极简主义静物世界 - Midjourney | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1734264054,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 12,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_4kv2VFxWUqtlNMKUxs-MYg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489451&idx=1&sn=9d249b324f70aa30224087ed3aff4432&chksm=96a6312a76497d95b0ab16c403e67251a8ffcd78122a3eb5f22b349db52ad0422821e44a5b81#rd",
+      "title": "周末特别版 | Mr.Indolent的极简主义静物世界 - Midjourney | 精选作品与提示 · 提示词 13",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489451&idx=1&sn=9d249b324f70aa30224087ed3aff4432&chksm=96a6312a76497d95b0ab16c403e67251a8ffcd78122a3eb5f22b349db52ad0422821e44a5b81#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Mr.Indolent的极简主义静物世界 - Midjourney | 精选作品与提示 · 提示词 13",
+  "title_aliases": [
+    "周末特别版 | Mr.Indolent的极简主义静物世界 - Midjourney | 精选作品与提示 · 提示词 13"
+  ]
+}

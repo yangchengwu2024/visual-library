@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnL21lRr0ldcX4QLwI65agyozRDscJGzqwjjPzuMKXB5LzicblLQPJdsA/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnrCQc1pBcufrCy5eME2MbrSkn3c4ibG3ZByb5WKrjIbNnXqdkJSe2iakA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-L94WSeMHkGuh07fJQ-c999ab6c21a6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dfe1fe5022df227f4b1c508fa4eb530225de67f4437105dfc699ee000bb7738e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "motion": "high",
+    "raw": true,
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic still of a couple on a streetbike racer speeding through a tunnel, captured from a high angle with a fisheye perspective, their bodies leaning into the curve, intense motion blur on tunnel walls, shot on ARRI Alexa Mini LF with an 8mm fisheye lens, gritty 35mm film grain, dramatic low-key tunnel lighting with streaks of artificial light reflecting off the wet asphalt, moody color grade, evoking speed, tension, and intimacy in a stylized action-thriller composition Represent lookbook style --ar 51:91 --motion high --raw --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnL21lRr0ldcX4QLwI65agyozRDscJGzqwjjPzuMKXB5LzicblLQPJdsA/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnrCQc1pBcufrCy5eME2MbrSkn3c4ibG3ZByb5WKrjIbNnXqdkJSe2iakA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 78,
+      "article_title": "Vol.253 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756855830,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd",
+    "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

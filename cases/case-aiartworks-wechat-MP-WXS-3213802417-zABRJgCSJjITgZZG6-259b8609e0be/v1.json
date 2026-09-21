@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2Dc9OpO40EbIPvyWLOHbdiaqrQjQVFKTepgyM0dxAoibkSkW1vJ9SCpbH3w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-259b8609e0be",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dcc4668ffe0f1c9b2266b7b7e8f9db6d8e63d174a000a9216141977b1fe97dfe",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "personalize": "b7w49b8",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The British Shorthair cat and Charles Spaniel puppy are seated in a vintage toy car, with the puppy 'driving' and the cat navigating from the passenger seat. As they cruise through a scenic road, the puppy sticks its tongue out, while the cat calmly adjusts its map or goggles --ar 9:16 --personalize b7w49b8 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2Dc9OpO40EbIPvyWLOHbdiaqrQjQVFKTepgyM0dxAoibkSkW1vJ9SCpbH3w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 296,
+      "article_title": "Vol.49 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733193054,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0",
+    "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

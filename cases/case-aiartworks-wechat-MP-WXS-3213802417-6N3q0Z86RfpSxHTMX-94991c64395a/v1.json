@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefa8xK8a6QXeESdjanNn3ZBtNyGgPQzZ94xCC5xR0GoQaG7qGhgnNpiceyc21cZQwaE2zR4koOrGQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6N3q0Z86RfpSxHTMX-94991c64395a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "81f5233cfc85f64ce6e41c51b44e4c81b700ffdb2a4245c8925a979409665cb0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A Hello Kitty-themed subway train is parked at a modern subway station platform. The train's front is designed as Hello Kitty's classic face, featuring the iconic pink bow, yellow nose, and black eyes. The surface is covered in soft pink and white plush material, giving it a dreamy and cute appearance. The platform has a sleek arched metal structure with bright, soft lighting. The ground is covered with light-colored tiles, and a few passengers are standing nearby on the platform. The camera captures the scene from a low-angle perspective, highlighting the train's front and its detailed plush texture. The image has a dreamy, kawaii aesthetic with ultra-realistic details. --ar 3:4 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefa8xK8a6QXeESdjanNn3ZBtNyGgPQzZ94xCC5xR0GoQaG7qGhgnNpiceyc21cZQwaE2zR4koOrGQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 287,
+      "article_title": "Vol.57 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733970611,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0",
+    "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCoian1MuYfsA09aYSP6DaF4LFuuYKU8eOstgxDov4ducdia2zZiaJOJZTzLvLoHo5LHmx1kdPCsicJmzAOQ4V1py7r3tHQK3YNav4/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCJQlkSZbEGqhgu61pcy4BibIiaiasj0g2eAvTIjwibgJC1rIibkq2KLloNXr0STtQQib8QcRMZJ2Jb6CrLGaNicOHS5wKrrPUP5lHkRs/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dNiBvwrdR4qabGNmD-3953ebde020f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bdf68f7c03c8d5c741d2a43382618dd83c397f65f0b230d28702a274fd74f903",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "7np1ucw",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "QQ Space-era non-mainstream girl，liu haocun，2000s Popteen model,short youthful round oval face, full soft facial subcutaneous tissue, faint natural flat eyebrows, oversized round deer-like eyes, solid dark brown round pupils, wide palpebral fissure, moderate interpupillary distance; short tiny plump fleshy nose tip, soft low nasal bridge, narrow alae nasi, dull youthful babyish nose, all facial features soft and rounded, pure sweet girl with youthful bone structure, low-impact light facial style, no sharp bony contours, face full of collagen --ar 3:4 --profile 7np1ucw --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCoian1MuYfsA09aYSP6DaF4LFuuYKU8eOstgxDov4ducdia2zZiaJOJZTzLvLoHo5LHmx1kdPCsicJmzAOQ4V1py7r3tHQK3YNav4/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCJQlkSZbEGqhgu61pcy4BibIiaiasj0g2eAvTIjwibgJC1rIibkq2KLloNXr0STtQQib8QcRMZJ2Jb6CrLGaNicOHS5wKrrPUP5lHkRs/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw:prompt-0000",
+    "source_metadata": {
+      "article_index": 13,
+      "article_title": "Vol.319-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785195029,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd",
+    "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFArsjic5ZUtCmyCZ3J6k3PAuhGod2M4N3RFbwvrDJXq068zwpsbjCEGMmA2P1l08RdH8QZEjZqOw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jWXTfrR8ib4pNOdxMTQuyGXRy9BI6L8o43jpxLeAXLLahuHD5WbshJcQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-blf0IU3ixlxlxAZbN-4591e3a4be60",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "25740ab3c857fa33de3d60ea0fa07f6eb530ef608f1179815a1b8e9b92657e66",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "flat black and white illustration, a girl, clouse-up shot, in the style of anime art, minimalism, strong contrast between light and dark, 32k UHD, cartoonish figures, avocadopunk, sombre --ar 3:4 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFArsjic5ZUtCmyCZ3J6k3PAuhGod2M4N3RFbwvrDJXq068zwpsbjCEGMmA2P1l08RdH8QZEjZqOw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jWXTfrR8ib4pNOdxMTQuyGXRy9BI6L8o43jpxLeAXLLahuHD5WbshJcQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 314,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.33",
+      "association_confidence": "review",
+      "createTime": 1731640592,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tXPbIazPqsu8eVTSU-9e8b9da68103",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShda5kWficA2G6OXfYzWnwee0xaJ5Ex1EQMZHEjrZOL9UvRFp1kBY5ibicfSz4cm7fc1KrdEIULjcxO5A/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ:prompt-0008",
+      "source_metadata": {
+        "article_index": 292,
+        "article_title": "Vol.53 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1733540763,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 8,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd",
+      "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 9",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "title_aliases": [
+    "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 9"
+  ]
+}

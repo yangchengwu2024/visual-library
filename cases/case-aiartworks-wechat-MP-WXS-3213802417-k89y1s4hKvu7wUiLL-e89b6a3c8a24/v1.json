@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFxIoDSmU9jfUTBOGZIwzvKZshHzKZ4qlCTe9oC1lpr8ia8g6vyU81fRw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-e89b6a3c8a24",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5edcdd0a1d91b91f750e01b484c6be91935adf0cf4ad75dfbcf7fdb45ef5604c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "40:71",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A retro, pulp sci-fi painting of an attractive woman on the surface of Mars with red alien rocks in the background and a distant flying saucer. She has short brown hair and green eyes. The sky is a dark pink, and there's moonlight coming from behind her head. Her expression looks terrified as she watches the spaceship land. --ar 40:71 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFxIoDSmU9jfUTBOGZIwzvKZshHzKZ4qlCTe9oC1lpr8ia8g6vyU81fRw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 191,
+      "article_title": "Vol.145 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743215455,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd",
+    "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

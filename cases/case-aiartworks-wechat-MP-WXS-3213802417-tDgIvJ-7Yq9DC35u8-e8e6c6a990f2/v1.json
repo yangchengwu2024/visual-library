@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZfpkUTASib0toMnElL2fjFpoQQUnj4UGz3UjiazkliaoHhY19XKshUuooA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZ6WBd2FXvdicMIQyKk6SDZOuE0SnYia5edavTib3zXZAA9AicOPJg1VfN3w/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tDgIvJ-7Yq9DC35u8-e8e6c6a990f2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "46e4d052a9d361a3281a53b6336043ddd198769e217eda1893a7f4b9c03605ba",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "38lehag",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "and the lips appear hydrated and defined. Clean, soft lighting accentuates the gold details of the lipstick case and the subtle shine on the lips. Product photography style, hyper-detailed, clean lighting, 8K resolution --profile 38lehag --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZfpkUTASib0toMnElL2fjFpoQQUnj4UGz3UjiazkliaoHhY19XKshUuooA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZ6WBd2FXvdicMIQyKk6SDZOuE0SnYia5edavTib3zXZAA9AicOPJg1VfN3w/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA:prompt-0011",
+    "source_metadata": {
+      "article_index": 177,
+      "article_title": "Vol.155 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744338626,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495749&idx=1&sn=3b7359efc5df851898b988b90c63716f&chksm=96aa9e7b62e1576d89a643662dca8bd40acd01cd80177324db69e987470228ccc9c4a022a22d#rd",
+    "title": "Vol.155 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495749&idx=1&sn=3b7359efc5df851898b988b90c63716f&chksm=96aa9e7b62e1576d89a643662dca8bd40acd01cd80177324db69e987470228ccc9c4a022a22d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.155 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

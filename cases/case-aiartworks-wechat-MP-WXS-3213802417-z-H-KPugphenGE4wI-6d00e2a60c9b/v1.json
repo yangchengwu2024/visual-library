@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsZbuhYuI7eNl3kcibxibkPNib38nBoODKVRicx8P93zBDicqfChUhZWyj5Tg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-6d00e2a60c9b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "12305eaafa8389c4b54ae695e18213f6fc5182ee9fdebb7d9de087a3b7c9c44c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Vintage metal tin Sign A silhouette of an artist with his guitar and cat walking towards the sun, creating a beautiful sunset backdrop. The scene is captured in high resolution, showcasing intricate details of both the man's figure and his feline companion. This design evokes a sense of tranquility as they walk hand-in-hand into the setting glow of the evening sky. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsZbuhYuI7eNl3kcibxibkPNib38nBoODKVRicx8P93zBDicqfChUhZWyj5Tg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ:prompt-0018",
+    "source_metadata": {
+      "article_index": 192,
+      "article_title": "Vol.144 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743129064,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495309&idx=1&sn=b173cd1448429c9bde9e8c9f1d106fd2&scene=58&subscene=0",
+    "title": "Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495309&idx=1&sn=b173cd1448429c9bde9e8c9f1d106fd2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

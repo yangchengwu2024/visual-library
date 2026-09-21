@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:21+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdoWO1qzKFkmDRg0aazz86Iy5p3GcAmriaYGlnya6pg4P03sscHMjvB99x2M1NYiaHhKkqVa833WdNg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZSO-xoWZugclm6srk-179a1a55145b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4db2f619277ec214eafab82254487af6e8b64b2e0a5de3e07b16fe12c8dbc9c0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "profile": "xzh1vmw",
+    "quality": "2",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A blurry, out-of-focus photograph of an abstract grey and white gradient background with the shape of a an astronaut lavitating in soft focus at its center. The photo is taken from above. It has an ethereal feel to it, as if you were looking through foggy glass or a prism. In smooth contrast, the rest of the frame remains hazy, blurring into gradient colors that create depth and dimension on the subject's face. This creates a dreamy, surreal atmosphere that suggests mystery and magic. --ar 1:2 --quality 2 --style raw --profile xzh1vmw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdoWO1qzKFkmDRg0aazz86Iy5p3GcAmriaYGlnya6pg4P03sscHMjvB99x2M1NYiaHhKkqVa833WdNg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 253,
+      "article_title": "Vol.89 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737178476,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491975&idx=1&sn=9e9e6351532407f49dcddad26c3f4772&chksm=9663ef477f998ebd234c34c407db77aebe1d7c20bef55cf1c36806956a61634b632457308150#rd",
+    "title": "Vol.89 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491975&idx=1&sn=9e9e6351532407f49dcddad26c3f4772&chksm=9663ef477f998ebd234c34c407db77aebe1d7c20bef55cf1c36806956a61634b632457308150#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.89 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

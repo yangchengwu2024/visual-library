@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565piacxvzCmBQXoBsJfUVen5ac6OPc8gurY0xNVEfJqFGzg7s4nqwrwD1nA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xfGX8Qx0RqGVu6E-g-b7598d7f8206",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "73c37833d08a1f2f32da58271c79a88fddb47702d6f82c79374f024ccaccb846",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "9qhonjx",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic cinematic shot of four cinnamon rolls with cherries, floating gracefully in mid-air against a warm pastel brown background. The golden-brown swirls of the pastries are perfectly textured, with rich layers of dough visible beneath a glossy drizzle of vanilla glaze. Each roll is adorned with glistening deep-red cherries, their surfaces reflecting soft ambient light. A few tiny sugar granules and cinnamon dust particles are subtly suspended in the air, adding a sense of motion and depth. The scene is illuminated by warm, diffused lighting, casting soft shadows and enhancing the rich textures. The color palette consists of warm, earthy tones--caramel browns, creamy whites, and deep reds--evoking a sense of comfort and indulgence. Shot with a Canon EOS R5, 100mm f/2.8 macro lens, 8K resolution, HDR, shallow depth of field, cinematic food photography style. --ar 9:16 --profile 9qhonjx --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565piacxvzCmBQXoBsJfUVen5ac6OPc8gurY0xNVEfJqFGzg7s4nqwrwD1nA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 224,
+      "article_title": "Vol.118 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740537018,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd",
+    "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

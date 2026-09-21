@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc6wkeaBnJIibaWdtq1czC1sE0eDyQbVDMNu7icplV3t7ZuiaXlibshewyos8gyukxc2Ts7KDdkKJkouA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hYwQuzbJx4ptQY49p-8077fb18668b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a592627157e6e27f7a74e62ec354ab7f1d3e8ba357625fa6dd8cf5dac248ba6c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "On the lake, a wooden boat sails leisurely. This is a Chinese-style arched shed wooden boat. On the wooden boat stand two young women in Chinese oriental costumes, one girl in a blue dress and the other in a wind-colored dress. The boat is dotted with lotus leaves and lightly floating pink flowers. The drone lens shows the delicate texture of the water plants and the tranquil atmosphere. The natural light creates a tranquil scene with soft colors and a peaceful and peaceful atmosphere. High-definition photography captures every detail, presenting a beautiful landscape painting from an aerial perspective. --ar 2:3 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc6wkeaBnJIibaWdtq1czC1sE0eDyQbVDMNu7icplV3t7ZuiaXlibshewyos8gyukxc2Ts7KDdkKJkouA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 157,
+      "article_title": "Vol.173 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746151214,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0",
+    "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

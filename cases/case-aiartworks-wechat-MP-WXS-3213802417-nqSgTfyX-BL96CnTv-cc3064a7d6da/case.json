@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqSgTfyX-BL96CnTv-cc3064a7d6da",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfU0oGzd1hvqZxJ8gMjbCvPJKCN7z1bibqCXjpAky3RXDorhhkZux0pdJ779gE3JoSXCMIujxrgjxQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ:prompt-0002",
+      "source_metadata": {
+        "article_index": 226,
+        "article_title": "Vol.116 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1740364242,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 2,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493641&idx=1&sn=9ba2da8e394bf4440865410712b53b2a&chksm=9600eaae784dbc62a1ff50332493e744e1ebc216596a3df02b5deca184e622f1f6247a40d2e0#rd",
+      "title": "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 3",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493641&idx=1&sn=9ba2da8e394bf4440865410712b53b2a&chksm=9600eaae784dbc62a1ff50332493e744e1ebc216596a3df02b5deca184e622f1f6247a40d2e0#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "title_aliases": [
+    "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 3"
+  ]
+}

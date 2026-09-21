@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibvzFhrAWWwE4wFDtl7icLnLWBwribNfrYcL9lKURWH6lnWtR55ic6E9TSA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-6ea67f852abe",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c7fc9e1fdf7d4acaa854a1c6ad67af937d3561731d6d25b790668f8d6fdf0c78",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "40",
+    "niji": "6",
+    "profile": "z8jjdmz",
+    "style": "raw",
+    "stylize": "500"
+  },
+  "previous_version": null,
+  "prompt": "executive assassin girl, eye patch --chaos 40 --ar 9:16 --style raw --profile z8jjdmz --stylize 500 --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibvzFhrAWWwE4wFDtl7icLnLWBwribNfrYcL9lKURWH6lnWtR55ic6E9TSA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA:prompt-0005",
+    "source_metadata": {
+      "article_index": 214,
+      "article_title": "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1741487443,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494332&idx=1&sn=eeff359c16ef62d575677306fceb8493&scene=58&subscene=0",
+    "title": "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494332&idx=1&sn=eeff359c16ef62d575677306fceb8493&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 6",
+  "version": "v1"
+}

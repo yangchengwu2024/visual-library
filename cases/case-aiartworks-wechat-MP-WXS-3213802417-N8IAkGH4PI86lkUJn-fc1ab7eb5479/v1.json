@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNB7fXAyzvV5rvbB5AiccfeUdFHycdGEurD8ice5M0icpIpFlkaqYMgMqOA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N8IAkGH4PI86lkUJn-fc1ab7eb5479",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "35a3a9482ea167206aa91e660f3225d1b17e343cd32bbe3425c25a3d28963774",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "y5rg7ot",
+    "sref": [
+      "1636736761"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "Full-figured Woman --ar 9:16 --sref 1636736761 --profile y5rg7ot",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNB7fXAyzvV5rvbB5AiccfeUdFHycdGEurD8ice5M0icpIpFlkaqYMgMqOA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0005",
+    "source_metadata": {
+      "article_index": 63,
+      "article_title": "Vol.268 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759879860,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+    "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

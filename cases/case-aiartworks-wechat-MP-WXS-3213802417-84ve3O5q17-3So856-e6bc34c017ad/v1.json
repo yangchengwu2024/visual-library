@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCMqWVrB8RpPiaHSicTGOjbNMZYD9PibInSUrWicS7RMUA1Sdfh4tR7kXuVkhbTBicgPAuV1GjHehnVxiaMI3zoDicXKBMx8SibeT4jrPA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-84ve3O5q17-3So856-e6bc34c017ad",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0b890d283e438bad9a5010597d648e120499c67f3709e30ac775f79f62ef656e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "8mkvllj",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A vibrant, cartoonish illustration of a divine vs. demonic conflict. Top left: a surprised orange sun with spiky rays. Upper right: a large angry blue cloud creature with horns, wide red eyes, open mouth, and sharp teeth. Left: a white robed, bearded, winged figure (god/angel) on a red rocky peak, gesturing with an open hand. Right: a blue hand pointing at the cloud creature. Center: a jagged red outlined white lightning bolt between the figures. Below the rocky peak: three sad white ghost like figures floating among red textured mountains. Bottom right: a small red devil with horns, pointed ears, and a long tail running away fearfully. Background: swirling red and orange fiery patterns on the lower half; textured blue sky/clouds on the upper half. --ar 2:3 --profile 8mkvllj --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCMqWVrB8RpPiaHSicTGOjbNMZYD9PibInSUrWicS7RMUA1Sdfh4tR7kXuVkhbTBicgPAuV1GjHehnVxiaMI3zoDicXKBMx8SibeT4jrPA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg:prompt-0004",
+    "source_metadata": {
+      "article_index": 18,
+      "article_title": "Vol.314-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783553474,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0",
+    "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

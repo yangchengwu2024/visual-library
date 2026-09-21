@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7t5cVx7x4fNDr5N2ZzT9TfW7HU3LicV0NJqs1sKm94C5S8krWPVXoHiag/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBgNqP6kL0NiaAcQNeL6cZwYXHTabtNnHeISW6Z8pHVZ11mJTGarT2JIJ42pD46ZxDWrjJWBEAyd1RKKXKgSl7lInfTO0XpATbk/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WOi2W6mw41kkaORyj-39d3b0b679f9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "51cf84ae900c26d0d67f0f8968ad048db6600aad236370bd2aa1559aec87de26",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A surreal, high-key, full-body shot of a man in a modern office, captured upside down as if gravity has disappeared. He is wearing a navy blue formal business suit. His head is positioned near the floor while his legs extend upward toward the ceiling. His hands are raised near his torso with palms facing upward, and his body shows natural tension as if suspended mid-air. The office environment is completely normal and realistic nothing in the room itself is altered. It looks like a typical everyday office. There is a wooden desk, and the walls are painted in a very light, pale green tone. However, only the man and the objects around him are floating in mid-air, creating a strong sense of weightlessness and controlled chaos. A white desk telephone with a coiled cord is split mid-motion the handset drifting in one direction while the base floats separately. A coffee cup is suspended nearby. Other office objects are also floating: a bulky vintage computer monitor, a matching old-style keyboard, a mouse, and an office chair all drifting in different orientations, slightly rotating and tilted. A red geranium flower pot is also floating in the air, adding a vivid color contrast to the otherwise soft and neutral palette. The window is open, and bright noon sunlight (12 PM) is pouring into the room. Outside the window, the view of Azadi Square in Tehran is clearly visible. A pigeon has flown into the room and is also suspended mid-air, with its wings slightly open as if frozen in motion. Lighting is bright, high-key, and clean, with a minimal aesthetic. The color palette is soft, slightly desaturated, and cinematic. The overall mood emphasizes surrealism, weightlessness, and a moment frozen in time. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7t5cVx7x4fNDr5N2ZzT9TfW7HU3LicV0NJqs1sKm94C5S8krWPVXoHiag/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBgNqP6kL0NiaAcQNeL6cZwYXHTabtNnHeISW6Z8pHVZ11mJTGarT2JIJ42pD46ZxDWrjJWBEAyd1RKKXKgSl7lInfTO0XpATbk/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw:prompt-0014",
+    "source_metadata": {
+      "article_index": 38,
+      "article_title": "Vol.294 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776900578,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 14,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0",
+    "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

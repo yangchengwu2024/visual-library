@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcd8KoP27sItTX0qktyPyfu2OG5RXgycPRFrScugiatguQmqMn36y7gDtYibHJnhM1ic4MHSQ9RXILRw/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqUjJVXI4FeKXfX04IlYFfgQvK5KPoSwNlE416dB1PzSM6tHvULp8Y4G5Gicmo5rNxHdAg1NGxlicg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n9WwGSVgwjuDWVAyb-3f6ef2f271a6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bd2affca0973ff99b39beb50a2f19689c8e94cd96e7a769a1c3f225f3a4d0a5f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "143:256",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/iAe5gKccMLY A hyper-realistic POV shot, grainy imperfect 2000s CCTV footage, from a ceiling-mounted security camera inside a brightly lit grocery store. A large male lion walks over to woman and sits next to her. Fluorescent halogen lights cast cold bluish tones.The camera is stationary, with a subtle VHS-style time-stamp overlay like 'CAMERA 02 2009/04/17 14:32:07'. No dramatic music, just low ambient hum. Aspect ratio 4:5 vertical. Color grading should match old security footage with muted, slightly greenish hues. --ar 143:256 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcd8KoP27sItTX0qktyPyfu2OG5RXgycPRFrScugiatguQmqMn36y7gDtYibHJnhM1ic4MHSQ9RXILRw/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqUjJVXI4FeKXfX04IlYFfgQvK5KPoSwNlE416dB1PzSM6tHvULp8Y4G5Gicmo5rNxHdAg1NGxlicg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg:prompt-0017",
+    "source_metadata": {
+      "article_index": 101,
+      "article_title": "Vol.228 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751844624,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 17,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd",
+    "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

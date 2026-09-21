@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFklvho5w6ibOu7u43Mo2hu8mh9L9FEpoeRzyibSIUlxkcXNtzrVV70AGAw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-d9jMy36psjzBnNzmV-22b7a0d65ddd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1b3610f9a72a1a34bef4f957cfdae608ab6101a065b5547363deb34a96800414",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "500",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Zhong Kui, the Demon Queller, capturing ghosts, set in an indoor environment. Meticulous Gongbi painting style with fine and precise brushwork. Zhong Kui is dressed in traditional attire that fits his mythical status, perhaps with bold and imposing robes that exude a sense of power. His appearance is fierce, with a stern expression and unruly hair, complemented by appropriate accessories. He wields a weapon, ready to subdue the ghosts in his presence. The ghosts are depicted with grotesque and eerie features, adding to the dramatic tension of the scene. Wisps of strange, ghostly mist float around, enhancing the spooky atmosphere. The color palette uses classic muted Song dynasty mineral pigments (elegant Song dynasty color scheme: azurite blue, malachite green, ochre, lead white). The composition includes a vertical calligraphy inscription that may describe the heroic deeds of Zhong Kui and red artist seals to add authenticity. A tense and thrilling atmosphere prevails, with high detail that gives it a masterpiece quality. Presented in a vertical scroll format. --ar 9:16 --stylize 500 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFklvho5w6ibOu7u43Mo2hu8mh9L9FEpoeRzyibSIUlxkcXNtzrVV70AGAw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w:prompt-0001",
+    "source_metadata": {
+      "article_index": 174,
+      "article_title": "Vol.158 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744684229,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd",
+    "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

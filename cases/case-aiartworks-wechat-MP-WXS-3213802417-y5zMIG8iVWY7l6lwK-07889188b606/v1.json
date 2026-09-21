@@ -1,0 +1,84 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBp4G8geZFDs38IkpAgtEpFO2HvhnQl1JZQdZdKicEBMoALvKGpFbRcqNSuADqERlCs7OuCia6RGrAqoy4wAtqcEoVCGrgnPvjKc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBzhJOJrXQHXxtdq8VBxM2wTWUz2ib2atKIBnFemicUHXkmPg6iaJ7xic9p27s5QMGOAqnI5VibfaD3Fg8faHxYEN5z2mPmwb4iaBgLI/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBbIX8ogChx84tHgdvodMJahZIX428R7Ra3RcpLpibjQYVBaCKuONhGibof9JTictnvwsqZePvmIQyTb00Jn4rQLDPqTSibr9HGxH8/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y5zMIG8iVWY7l6lwK-07889188b606",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7f4ebd8045e8f7c62b4493eca9aec07eaf152430c03daffc97218ab860cdc99c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "10:7",
+    "preview": true,
+    "profile": "m2wxy5p",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "An E8-dense node-graph collapsed into an ophidian silhouette, gold filaments so numerous they read as scales, gem-nodes clustered where a serpent's head would form, a single black mirror-sphere as the eye reflecting a rainbow band, terminal-black background, cold jeweled light, operator noodles spilling off the frame edge. --ar 10:7 --profile m2wxy5p m8uu6zb oo88xpv --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBp4G8geZFDs38IkpAgtEpFO2HvhnQl1JZQdZdKicEBMoALvKGpFbRcqNSuADqERlCs7OuCia6RGrAqoy4wAtqcEoVCGrgnPvjKc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBzhJOJrXQHXxtdq8VBxM2wTWUz2ib2atKIBnFemicUHXkmPg6iaJ7xic9p27s5QMGOAqnI5VibfaD3Fg8faHxYEN5z2mPmwb4iaBgLI/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBbIX8ogChx84tHgdvodMJahZIX428R7Ra3RcpLpibjQYVBaCKuONhGibof9JTictnvwsqZePvmIQyTb00Jn4rQLDPqTSibr9HGxH8/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w:prompt-0005",
+    "source_metadata": {
+      "article_index": 10,
+      "article_title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑",
+      "association_confidence": "high",
+      "createTime": 1785886230,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 5,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+    "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 6",
+  "version": "v1"
+}

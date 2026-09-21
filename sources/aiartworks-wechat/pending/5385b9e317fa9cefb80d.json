@@ -1,0 +1,61 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-0441b5b1c03c",
+  "fingerprint": "ae0bfd8e6b4d43d7fd49001aed54961e6418c529df1257d735d95f940cfce95a",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "30",
+    "personalize": "enw6yop",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "prompt": "Aerial view young businesswoman sits on a cloud high above the city, working on her laptop, symbolizing remote work, creativity, and modern cloud computing. The image blends fantasy with urban technology --chaos 30 --ar 9:16 --style raw --personalize enw6yop --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 296,
+      "article_title": "Vol.49 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1733193054,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0",
+    "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ:prompt-0009",
+  "status": "pending",
+  "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 10"
+}

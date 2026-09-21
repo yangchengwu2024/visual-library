@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD2DlichUdxWQYmjZegaeBgrSnFgTvSL2r6ZLdGVXibrGAj4VbwWx0vQBcCunXMXzy0sIbibERmppqQ8BowkG2IrAlnt6iapEyPSjc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAc6mykB8OeLibJibXysRcsasG50esjHDAblaG2fw3rPhYpyehzpNUYaIoKEJ6yhpPYFQu54qH9KpgG5z874zEkRkNWANs7meOL0/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-5e866f09d331",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c1ecb2a465ce8193631090d9c443f9c0b8f93626269497d6fea5afa15e812705",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "45",
+    "hd": true,
+    "profile": "ihioo4i",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Neon colored-haired humanoid fembot funk guitarist, inspired by sleek French electronic duo stage aesthetics, futuristic chrome helmet with feminine contours and glowing visor, hot pink illuminated hair accents, retro-futuristic disco armor, performing an infectious funk guitar riff on a glowing stage, neon LEDs pulsing to the beat, glossy metallic bodysuit, chrome gloves, stylish robotic elegance, high-energy electro-funk concert atmosphere, dramatic concert lighting, haze and lasers, vibrant magenta, cyan, and gold reflections, cinematic low-angle shot, ultra-detailed textures, retro-future nightclub energy, synthwave-meets-disco aesthetic, 35mm film grain, Roger Deakins-style cinematic lighting, volumetric side lighting, dynamic motion, highly detailed, premium music video frame --chaos 45 --ar 9:16 --profile ihioo4i a4zoorg --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD2DlichUdxWQYmjZegaeBgrSnFgTvSL2r6ZLdGVXibrGAj4VbwWx0vQBcCunXMXzy0sIbibERmppqQ8BowkG2IrAlnt6iapEyPSjc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAc6mykB8OeLibJibXysRcsasG50esjHDAblaG2fw3rPhYpyehzpNUYaIoKEJ6yhpPYFQu54qH9KpgG5z874zEkRkNWANs7meOL0/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0013",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 13,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 14",
+  "version": "v1"
+}

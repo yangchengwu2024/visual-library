@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jntqicJ0Iib5Lq38h1judzEyXXgYqe1g9s3iaYRh8yAFBqhSwUyZTZTsuJA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-L94WSeMHkGuh07fJQ-48bc9feb1a60",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cb3815a814de392e5a40c513f4388d42b93e602fa3ecea07e25be30a1210be8e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/9D2IJ95l_5Y",
+      "https://s.mj.run/ARd48Keh4gk"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/k5D5OQmR2X4 A close-up portrait of a cybernetic anime girl, her face filling the frame with chilling detail. Her eyes are glowing LED displays, flickering with glitching error codes and shifting neon symbols. When she smiles, her sharp silver teeth glisten under the neon light, reflecting a dangerous metallic sheen. Her messy neon-colored hair is braided into twin ponytails, strands glitching and glowing in shades of hot pink, electric blue, and acid green. Small mechanical implants and exposed wires run along her jawline and temples, sparking faintly as if malfunctioning. The background is a blurred neon cyberpunk cityscape, covered in graffiti and holographic static, casting fractured light across her face. Ultra-detailed, surreal anime cyberpunk horror style, cinematic close-up, 8K resolution --ar 51:91 --raw --sref https://s.mj.run/9D2IJ95l_5Y https://s.mj.run/ARd48Keh4gk",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jntqicJ0Iib5Lq38h1judzEyXXgYqe1g9s3iaYRh8yAFBqhSwUyZTZTsuJA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 78,
+      "article_title": "Vol.253 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756855830,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd",
+    "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfU0oGzd1hvqZxJ8gMjbCvP1W3rmK8F2JJ8U0y8bnTHtQUO2S1ePMrAnhQvTTIh2m9TUK6Eia3fVxA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqSgTfyX-BL96CnTv-8b0cd78e7a33",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c8572ce69cbd3fae53911868a33d8ca43eaa544f9852526d53079fe687df95c7",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "\"Stylized and modern hand-drawn illustration of a mudskipper, using smooth, flowing lines and playful curves. The design simplifies its body into a streamlined, minimal shape while keeping its signature large, round eyes and expressive face. The pectoral fins are exaggerated slightly to highlight their movement on mudflats. A bright and bold color palette with soft gradients adds depth while maintaining a clean, contemporary aesthetic. The composition is dynamic, giving the impression of the mudskipper playfully skipping across the surface.\" --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfU0oGzd1hvqZxJ8gMjbCvP1W3rmK8F2JJ8U0y8bnTHtQUO2S1ePMrAnhQvTTIh2m9TUK6Eia3fVxA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 226,
+      "article_title": "Vol.116 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740364242,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nqSgTfyX~BL96CnTv6TytQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493641&idx=1&sn=9ba2da8e394bf4440865410712b53b2a&chksm=9600eaae784dbc62a1ff50332493e744e1ebc216596a3df02b5deca184e622f1f6247a40d2e0#rd",
+    "title": "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493641&idx=1&sn=9ba2da8e394bf4440865410712b53b2a&chksm=9600eaae784dbc62a1ff50332493e744e1ebc216596a3df02b5deca184e622f1f6247a40d2e0#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.116 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

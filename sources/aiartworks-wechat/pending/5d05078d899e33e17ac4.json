@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BUPMtK-JZ-r-Y37aX-870d9e0bc45b",
+  "fingerprint": "1ac75d1a390e32eee09e93775b82ebb4c83320d8654cbab4065335f8ceb94dd9",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "65",
+    "raw": true,
+    "stylize": "700",
+    "v": "7"
+  },
+  "prompt": "\"This is a surreal representation of a foreign model with long, straight white hair dyed with a blue-blue flower pattern, inspired by traditional Chinese ceramics. There is a subtle reflection. We shot it in soft natural lighting and ultra-high definition. It is a high-quality surreal expression. Please do not write.\" --chaos 65 --ar 3:4 --raw --stylize 700 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0014",
+    "source_metadata": {
+      "article_index": 172,
+      "article_title": "Vol.160 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744857016,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+    "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0014",
+  "status": "pending",
+  "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 15"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2DcJfr4BT7DQB2ULxQTeGWF9ibZEvR5RP91npCQEW7QzWgKzALa8KibvNsw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-a9b90e59d065",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0ac172b7ef144c81932f4d971c26eb8096e67ebc62acffa0331d69b3184e2a7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "racing car, Light painting, Bullet Time, dark gray XIAOMI'sdecisive moment of overtaking on a nighttime bendsplashing small particles of gravel. car light stripes,high speed, motion blur, dynamic motion ancenergy, original and unpolished style,super realisticmasterpiece,original photos.32k.hdr --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2DcJfr4BT7DQB2ULxQTeGWF9ibZEvR5RP91npCQEW7QzWgKzALa8KibvNsw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 296,
+      "article_title": "Vol.49 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733193054,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0",
+    "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

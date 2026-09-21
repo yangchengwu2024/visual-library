@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCmkjcPSYrAxlP0ic5x0icw8IicMzUNH1kBqx4qjCBEtRa3gCzBiaHKU0wzdx5WaCMdUAYlLlhvhLbqVTpUI5rHZwGHBcBj3lVxTTE/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-0c8a4d5216f9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "26f362babda635e335678bd56b3c16fa01f696fdb6f3abac214807fd4f44ab81",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "black and white film photograph, vintage 1990s Chinese family group portrait in a photo studio, three generations sitting together, grandparents, middle-aged parents, two children, looking at camera with diverse natural expressions, not posed uniformly, backdrop is a painted fake European garden landscape with noticeable fabric folds, harsh on-camera flash lighting creating distinct shadows, film grain, analog quality, nostalgic atmosphere, cinematic realism --ar 3:4 --raw --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCmkjcPSYrAxlP0ic5x0icw8IicMzUNH1kBqx4qjCBEtRa3gCzBiaHKU0wzdx5WaCMdUAYlLlhvhLbqVTpUI5rHZwGHBcBj3lVxTTE/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0012",
+    "source_metadata": {
+      "article_index": 11,
+      "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+      "association_confidence": "review",
+      "createTime": 1785627022,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+    "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 13",
+  "version": "v1"
+}

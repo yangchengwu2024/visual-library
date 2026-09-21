@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcfuFvRiaHyUbgQ96OQuhKica1yS5Z7c9jHiaib5xwzfYg9BRia8lxibJfUaZB9GvKEemsh68s1I9k03CQQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RM40jX2VgntI7hyeI-3991d49dea05",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a28554dfa42cd3257601939aa1960e9573058452aec2ab75af2c3de241ddaa02",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "personalize": "jmupltd",
+    "sref": [
+      "680572301"
+    ],
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A surreal cosmic garden where giant flowering cacti float in space, their vibrant pink blooms unfurling like nebulae. A terrified young boy in an astronaut suit leaps from cactus to cactus, pursued by a pack of comically elongated dachshunds with rocket boosters. The dogs' bodies stretch across star systems, their barks visualized as colorful sound waves. In the background, a massive moon glows, its craters forming a whimsical face watching the chase. The cactus spines sparkle like stardust, and shooting stars streak by, narrowly missing the boy as he bounds through the otherworldly landscape. --ar 2:3 --style raw --sref 680572301 --personalize jmupltd --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcfuFvRiaHyUbgQ96OQuhKica1yS5Z7c9jHiaib5xwzfYg9BRia8lxibJfUaZB9GvKEemsh68s1I9k03CQQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg:prompt-0015",
+    "source_metadata": {
+      "article_index": 338,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.10",
+      "association_confidence": "high",
+      "createTime": 1729338056,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485285&idx=1&sn=1fa8ec060d868d5a1ef7d62d6dde63b2&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.10 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485285&idx=1&sn=1fa8ec060d868d5a1ef7d62d6dde63b2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.10 · 提示词 16",
+  "version": "v1"
+}

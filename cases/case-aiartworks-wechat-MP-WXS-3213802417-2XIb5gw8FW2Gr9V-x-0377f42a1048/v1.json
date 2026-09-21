@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo8ToO9N1r2W737vohVSIZPAVItUqvt0nPVN5GwevVrScRAC4q2j29On87dSOu1uXOJkHo5ArLyw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2XIb5gw8FW2Gr9V-x-0377f42a1048",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6a83e83319e272737e04f3f18db340d5c87e4b659a5a897b10f01d50f017c7d8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "hg59241",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A celestial scene where Apollo, the Greek god of light and perfection, stands in divine radiance, his golden aura glowing with ethereal energy. His expression is one of quiet envy as he gazes at a mortal. The mortal stands in below apollo. full of life, emotion, and wisdom. The mortal’s face reflects fleeting joy, pain, and the beauty of imperfection --ar 9:16 --profile hg59241 zjj3zxf --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo8ToO9N1r2W737vohVSIZPAVItUqvt0nPVN5GwevVrScRAC4q2j29On87dSOu1uXOJkHo5ArLyw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A:prompt-0012",
+    "source_metadata": {
+      "article_index": 240,
+      "article_title": "Vol.104 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1739154648,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd",
+    "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

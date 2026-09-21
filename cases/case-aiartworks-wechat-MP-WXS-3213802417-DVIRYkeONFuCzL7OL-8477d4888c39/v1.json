@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcuKia6YxmtJz0eicRpFPQHXDedUglia5w0WPQT7uT2bXZI9VbSqtiakGxTbH8fL4v6esUVumbKSvoYqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DVIRYkeONFuCzL7OL-8477d4888c39",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "638a60f6ca46d7f6dd5f40e9cd7ddb37ead713f4eb7465b6caeca07d11463bdf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "6",
+    "personalize": "ixymx9k",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Star Wars inspired room, realistic, super realistic --chaos 6 --ar 9:16 --quality 2 --style raw --personalize ixymx9k lrc8tco --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcuKia6YxmtJz0eicRpFPQHXDedUglia5w0WPQT7uT2bXZI9VbSqtiakGxTbH8fL4v6esUVumbKSvoYqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg:prompt-0011",
+    "source_metadata": {
+      "article_index": 336,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.12",
+      "association_confidence": "high",
+      "createTime": 1729494059,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485521&idx=1&sn=30ed4f1648fa892ead0cb93a4cc1fbe4&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.12 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485521&idx=1&sn=30ed4f1648fa892ead0cb93a4cc1fbe4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.12 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorPM6VIWS0vUOrJ2bItytaAQEFKm4LmIceib3btXweYuAhHjeuoo19WmA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-0b7ff36599db",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2a78780697f491224d8cf91a05b848f7827ece4bb5f240baf81bfa657d5abcdf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "In the living room, against a soft, blurred background of festive lights, the foreground is filled with towering piles of colorful, beautifully wrapped gift boxes in various shapes and sizes, stacked high like mountains. The gift boxes are adorned with elegant ribbons and bows in red, gold, green, and silver, creating a cheerful and cozy holiday scene. The floor is covered with plush carpets, and in the background, a luxurious Christmas tree stands, adorned with glittering gold and silver ornaments, colorful pendants, gold foil, and crystal snowflakes. The tree is decorated with white and colored fairy lights that emit a warm, magical glow, and at its top is a glittering star-shaped decorative light casting a soft golden glow. The scene is a close-up, with the towering piles of gifts filling the foreground and the beautifully decorated tree glowing softly in the background, creating a warm and festive atmosphere. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorPM6VIWS0vUOrJ2bItytaAQEFKm4LmIceib3btXweYuAhHjeuoo19WmA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA:prompt-0004",
+    "source_metadata": {
+      "article_index": 277,
+      "article_title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734834474,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd",
+    "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

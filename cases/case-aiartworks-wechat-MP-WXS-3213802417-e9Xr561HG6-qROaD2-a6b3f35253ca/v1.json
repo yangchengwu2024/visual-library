@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCQKkfiaxlm582WTk697WoOkFPIJncg8ic1Ox1o2DpIH7gJLNicjLtHuBSzzdByiaHabArV3oaBSkib8A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-e9Xr561HG6-qROaD2-a6b3f35253ca",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "de077bfe51a18a7dc7ed7cc22c0d034539e68bf54d508911a811c8f06de70000",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "vintage girly poster pink. demure. graphic design-ey. nail art and beautiful kakegurui aesthetic. --ar 3:4 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCQKkfiaxlm582WTk697WoOkFPIJncg8ic1Ox1o2DpIH7gJLNicjLtHuBSzzdByiaHabArV3oaBSkib8A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg:prompt-0006",
+    "source_metadata": {
+      "article_index": 293,
+      "article_title": "Vol.52 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1733458464,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488778&idx=1&sn=52685e39b9d92f08c15f52cf97d287c1&chksm=963dc451502a9c69040cc9fe1c96579f97b2eb29ef41cdc4b25726424b9a3368645e705e8573#rd",
+    "title": "Vol.52 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488778&idx=1&sn=52685e39b9d92f08c15f52cf97d287c1&chksm=963dc451502a9c69040cc9fe1c96579f97b2eb29ef41cdc4b25726424b9a3368645e705e8573#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.52 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

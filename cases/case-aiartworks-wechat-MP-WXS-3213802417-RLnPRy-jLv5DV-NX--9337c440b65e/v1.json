@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88HPBBE6QuW661k4tMzngibgrZMmbrBEGXkR4utekkqs9ic2ENmviaG40nA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aA0lZgzB2SrONeIm5Vv9UC4FCJ7QS7hiaHBISFNsmrLHtZ6lDyz3a6ibGQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShch5MNotScUIGKgw1LcmHWV4MYSWyqiarW5XjYAlEbhweYYRWpric6QlDCHhgzoDn5NOJyn7nU5sMTw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAf8GV0mc4gwPPcVdxk64s0o5356wcq2hn6kOxrX6GR7rWaIkM3TLTJg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RLnPRy-jLv5DV-NX--9337c440b65e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2d5ec1d83f1bb06fdccc0cd68040208e2c2e51d8911251123a232f5446ad6f4e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A strong, mature female secret agent, dressed in a sleek, form-fitting black tactical suit similar to the \"Black Widow\" character from Marvel. The suit is designed for high mobility and is slightly damaged from recent combat, with several small rips and tears that reveal hints of her athletic physique underneath. The suit remains tight, emphasizing her powerful, confident posture, and she is gripping a subway handrail with one hand while holding a communication device in the other, reporting back to headquarters. The woman has long black hair and an expression of focused fatigue as she recovers from a challenging mission. She appears to be in her mid-20s, exuding a blend of strength and resilience, yet there’s a sense of weariness in her demeanor. The subway car's lighting casts soft shadows, accentuating the tactical nature of her uniform and her serious but composed expression. --ar 9:16 --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88HPBBE6QuW661k4tMzngibgrZMmbrBEGXkR4utekkqs9ic2ENmviaG40nA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aA0lZgzB2SrONeIm5Vv9UC4FCJ7QS7hiaHBISFNsmrLHtZ6lDyz3a6ibGQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShch5MNotScUIGKgw1LcmHWV4MYSWyqiarW5XjYAlEbhweYYRWpric6QlDCHhgzoDn5NOJyn7nU5sMTw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAf8GV0mc4gwPPcVdxk64s0o5356wcq2hn6kOxrX6GR7rWaIkM3TLTJg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 123,
+      "article_title": "Vol.205 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749345399,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 0,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd",
+    "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

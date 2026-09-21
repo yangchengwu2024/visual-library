@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflYzAA7fhS7U0PiaXMughyEpQDtPJFKiayUtlChORoRAydKgf1oMVCHq6zuWyCTE9BTQEfgNoMiatLg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--ZfWiLFnQXPGj5Yf1-0919ac34e09a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3e676d54cc268e9f7e96e1cd93fec54749aac0b8007b12edde23d63a8388ac27",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "oref": "https://s.mj.run/pLo5ELIDu60",
+    "ow": "1000",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/QPfaj5uPqrM",
+      "https://s.mj.run/caOG5HG12-c",
+      "https://s.mj.run/YdTjXLMnYr0",
+      "https://s.mj.run/EbbPrqAiObE"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/wKrQHunoAbk a person with blonde hair sleeping on soft grass, warm sunlight filtering through leaves, vintage film photography aesthetic, gentle shadows, peaceful and serene outdoor mood, soft highlights and natural textures, --ar 3:4 --raw --sref https://s.mj.run/QPfaj5uPqrM https://s.mj.run/caOG5HG12-c https://s.mj.run/YdTjXLMnYr0 https://s.mj.run/EbbPrqAiObE --oref https://s.mj.run/pLo5ELIDu60 --ow 1000",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflYzAA7fhS7U0PiaXMughyEpQDtPJFKiayUtlChORoRAydKgf1oMVCHq6zuWyCTE9BTQEfgNoMiatLg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g:prompt-0012",
+    "source_metadata": {
+      "article_index": 50,
+      "article_title": "Vol.282 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1762731024,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0",
+    "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

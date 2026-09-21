@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2UTeZBdIicQ21yRMgU0TEqHFq1thY2dcTojPyl1hzW54sBWG6AuCFGMA/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-odNQF36m1MZ8Bkm5q-9035a0d274d4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5ee3f19048c518179344d8f7bec2f9f62854cc22f4adc074755dd71a5a277c7c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "motion": "high",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "一幅寫實真人8k畫質圖，一位留著一頭烏黑長髮的日本年輕女子，身穿寬鬆的白色T卹，手托著頭，悠閒地坐在現代辦公空間的辦公椅上。她脖子上掛著一副黑色的頭戴式耳機。她雙腿交叉，赤腳擱在木桌上。桌上擺放著一台大型電腦顯示器、一台MIDI鍵盤、音訊設備、揚聲器和一支滑鼠，彷彿置身於一個音樂製作或創意環境中。背景是一塊釘著筆記的軟木板，一盞檯燈提供柔和的燈光。畫面以高解析度的寫實風格呈現，營造出舒適愜意、創意十足的氛圍。 --ar 51:91 --motion high --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2UTeZBdIicQ21yRMgU0TEqHFq1thY2dcTojPyl1hzW54sBWG6AuCFGMA/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg:prompt-0014",
+    "source_metadata": {
+      "article_index": 69,
+      "article_title": "Vol.262 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758670286,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd",
+    "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNRuwlVwJzDqGogIVXJiajUNdB1Dmg0jia1lOlDvoXxsGeatIEYbEy8A3g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNDDhd3LR0ib55YG3qYVhibzELiay4OITrYOb7u48h613lW67aWtDYdHm8w/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6jPVffp3X01MzCwsp-b2edceb7cd24",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ef731d8f2011b7ab26bc109a92450217273392e27ae1d361b0cf0c70a578ab06",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2"
+  },
+  "previous_version": null,
+  "prompt": "Photo of Black Widow holding her feet up, showing her soles, barefoot, the soles of her feet are wet --ar 1:2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNRuwlVwJzDqGogIVXJiajUNdB1Dmg0jia1lOlDvoXxsGeatIEYbEy8A3g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNDDhd3LR0ib55YG3qYVhibzELiay4OITrYOb7u48h613lW67aWtDYdHm8w/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg:prompt-0014",
+    "source_metadata": {
+      "article_index": 82,
+      "article_title": "Vol.249 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756078218,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 14,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd",
+    "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

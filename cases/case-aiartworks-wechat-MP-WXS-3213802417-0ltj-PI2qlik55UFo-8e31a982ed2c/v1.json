@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:30+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFTwdu06DCvTXUngfEkDmBvF8iaCJyZlaqNRkyCXdHNuGKTWReavwDyGg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0ltj-PI2qlik55UFo-8e31a982ed2c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7689af4c1346b2ca978eb2e3d36dcc6c41b41ad7d15688c3766e1c2f97c5d810",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "gogo dancers with a fan of pink feathers in their hands sitting on the back seat of a 1959 turquoise cadillac coupe de ville --ar 16:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFTwdu06DCvTXUngfEkDmBvF8iaCJyZlaqNRkyCXdHNuGKTWReavwDyGg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 308,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.39",
+      "association_confidence": "high",
+      "createTime": 1732157425,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487643&idx=1&sn=f59d55be648d4a7ee0b40130a0b11433&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.39 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487643&idx=1&sn=f59d55be648d4a7ee0b40130a0b11433&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.39 · 提示词 2",
+  "version": "v1"
+}

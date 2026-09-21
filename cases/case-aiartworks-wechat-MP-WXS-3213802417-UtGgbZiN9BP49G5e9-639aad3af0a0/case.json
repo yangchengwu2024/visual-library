@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-639aad3af0a0",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZtlMOnRVnjJtwO3RBLS3ehE4r53MOPGG1ds4bcAicrX42xBGQxiaPXS8Q/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA:prompt-0013",
+      "source_metadata": {
+        "article_index": 137,
+        "article_title": "周末特别版 | 端午元素专题 | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1748140256,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 13,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497222&idx=1&sn=a69011252a69d093f62dfa7563826eee&chksm=96f4a0ed5a4c173fcdfce8c917fea995da081a2df2f408947c9d41892a51880e3ca29e8a613e#rd",
+      "title": "周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497222&idx=1&sn=a69011252a69d093f62dfa7563826eee&chksm=96f4a0ed5a4c173fcdfce8c917fea995da081a2df2f408947c9d41892a51880e3ca29e8a613e#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 14",
+  "title_aliases": [
+    "周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 14"
+  ]
+}

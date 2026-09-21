@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc3cSLcPGbr08Db4Uar5icKT80T1xHGn4oJyh60uvU94AicYIbsF1RS1Lcia010AefdqeroRiaiby3P8UQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IT1lLzj3xCfcV9-KR-e48571a41929",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d9d80d1721973130a52041441b9e1f639eee348b1ac32c477d598b6bf4184d77",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Silhouettes of dancers, women and children, dressed in clothes for dancing, in the hall for dancing all in a light pink haze, the basis of soft blue tones, --ar 3:2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc3cSLcPGbr08Db4Uar5icKT80T1xHGn4oJyh60uvU94AicYIbsF1RS1Lcia010AefdqeroRiaiby3P8UQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg:prompt-0014",
+    "source_metadata": {
+      "article_index": 288,
+      "article_title": "Vol.56 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733884231,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489115&idx=1&sn=b33ae60ce3b0c67cd2a59c954ebaccb7&scene=58&subscene=0",
+    "title": "Vol.56 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489115&idx=1&sn=b33ae60ce3b0c67cd2a59c954ebaccb7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.56 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

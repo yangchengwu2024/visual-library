@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOISrgJWbUGnm1MDUMuhW2vrHd8XDl9F7SaXqep5mPwbFtO1HK256zUrg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZqeXLr-1oCDbg-RXJ-52c96318d2df",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8ae0922a920cccbe6f3d4a9f7f27cb124676c3d480f3364f8075bf48f2f59851",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "50",
+    "exp": "90",
+    "profile": "odgejwb",
+    "raw": true,
+    "sref": [
+      "250133471",
+      "2414327575"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "realistic, high detail, high definitition, monocromatioc, stark black and white, ulktra realistic 3d model, a head spinning scene a cross section of a persons head with a spiral staricase making up thei insides of the complex head. metallic gold highlights. shiny 3d model that doesnt feel reel, a transparent brain, imagine someone screaming with their mouth open and inside their mouth is a spiral staircase that goes deep within the unknown and wind through their brain. The person is feeling the effects of vertigao and you can see a version of them walking on the steps unbalanced deep withing their throat realistic photography, think of a person loosing their mind delving deeply into insanity as they start to become their environment, a surreal scene where a person is clibing a spiral staircase that feels as tall as the heavens. The woman has verigo and is loosing her mind spinning in her head and spinning out of contril and she tries to reach the top of the stairs. in her mind the stairs repete like a maddening pattern. taunting her and her vertigo is winning the fight. --chaos 50 --ar 4:5 --exp 90 --raw --sref 250133471 2414327575 --profile odgejwb 1nrvvdz iottnue degqu11",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOISrgJWbUGnm1MDUMuhW2vrHd8XDl9F7SaXqep5mPwbFtO1HK256zUrg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ:prompt-0003",
+    "source_metadata": {
+      "article_index": 71,
+      "article_title": "Vol.260 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758238274,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500350&idx=1&sn=767689354734bfa086a34b1bee87f5fd&scene=58&subscene=0",
+    "title": "Vol.260 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500350&idx=1&sn=767689354734bfa086a34b1bee87f5fd&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.260 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdGekFaHoTZibI0JWfnrzDgaAwiaLO70sxjG21h3dgt5w7nTIicKgMtlMsf1LtibZVHPFmj28key7YvgA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-t4q0CluwXujDbUbqV-108b1121376f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "84d50e7892f05e3463b7a4a74c0121ce11a73e5f9c7832a4c10448bc3d0ea3df",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "kvt14es",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "X-Wing starfighter soaring through deep space, captured in a dramatic cinematic angle, S-foils spread wide in iconic X formation, illuminated by distant stars and glowing nebulae, hull marked with battle scars and red squadron stripes, engines blazing with bright energy trails, detailed cockpit with visible pilot, astromech droid behind the canopy, distant planets and space debris in the background, moody lighting and high-contrast shadows, in the style of Star Wars video game cutscenes, ultrarealistic, epic composition --ar 9:16 --raw --profile kvt14es --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdGekFaHoTZibI0JWfnrzDgaAwiaLO70sxjG21h3dgt5w7nTIicKgMtlMsf1LtibZVHPFmj28key7YvgA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g:prompt-0008",
+    "source_metadata": {
+      "article_index": 121,
+      "article_title": "Vol.207 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749522667,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497930&idx=1&sn=a0701e20ce4437d1d44ccae96ad9e284&scene=58&subscene=0",
+    "title": "Vol.207 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497930&idx=1&sn=a0701e20ce4437d1d44ccae96ad9e284&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.207 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2XIb5gw8FW2Gr9V-x-90984d1f0d60",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5TwpWhBQcpnecKPX3wogwU4TCBuhiaic6laYUx7bjEwGfrNZTg0elt2PnCQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A:prompt-0011",
+      "source_metadata": {
+        "article_index": 240,
+        "article_title": "Vol.104 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1739154648,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 11,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd",
+      "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 12",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "title_aliases": [
+    "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 12"
+  ]
+}

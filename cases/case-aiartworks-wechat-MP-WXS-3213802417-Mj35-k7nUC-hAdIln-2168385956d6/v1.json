@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycicXQJI496mib9A8y1oC7d7pV9kiaiaKmK5rlva34X8Mu4sdwGSaXLjKRYhA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Mj35-k7nUC-hAdIln-2168385956d6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9c060b7d5c32f2c11998371ac1123d54da2383e2af9bbb5e503ee447a4b526d6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "4zxypfz",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "a stylish black 3D bunny character, serious and confident, wearing black oversized t-shirt and plain cream oversized shorts, standing in the center of a 9:16 image, grey background, wearing sunglasses, relaxed but bold model-like pose, Versace fashion campaign style, highly detailed, cinematic lighting, hyperrealistic --ar 9:16 --raw --profile 4zxypfz --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycicXQJI496mib9A8y1oC7d7pV9kiaiaKmK5rlva34X8Mu4sdwGSaXLjKRYhA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA:prompt-0014",
+    "source_metadata": {
+      "article_index": 126,
+      "article_title": "Vol.202 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749079826,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd",
+    "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

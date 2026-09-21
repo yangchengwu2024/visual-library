@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc6wkeaBnJIibaWdtq1czC1sAibjgKQkO0vFFXPDvTZQnBKwMMeibXdxUHBP5DePVR8T5egoFXx4Svow/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc6wkeaBnJIibaWdtq1czC1soDtLU4XBz7CdXicQRCPKCcGU9ORDodxsRcfoicibzj05ajKWn0JWDTE4Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hYwQuzbJx4ptQY49p-e060fc842d16",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3a3ebc949ab1e387d6473b6e61bc4efada3fdf9456fa255171e563cfd5defe64",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Chinese ink painting style, sika deer, Qi Baishi master painting style, pure white background, Chinese style composition --chaos 10 --ar 3:4 --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc6wkeaBnJIibaWdtq1czC1sAibjgKQkO0vFFXPDvTZQnBKwMMeibXdxUHBP5DePVR8T5egoFXx4Svow/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc6wkeaBnJIibaWdtq1czC1soDtLU4XBz7CdXicQRCPKCcGU9ORDodxsRcfoicibzj05ajKWn0JWDTE4Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 157,
+      "article_title": "Vol.173 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746151214,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0",
+    "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

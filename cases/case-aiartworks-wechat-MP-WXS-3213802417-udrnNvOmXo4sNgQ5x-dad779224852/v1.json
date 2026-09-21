@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6h73DvRfT35hlUztKheOsG92LbcD9cyrticAy3VODz42R0doicoQgRGcYg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6hcKguJgYA9own9iberurgfgblbuWVlPHYehQmJICjJzst3hPbeMV88gw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-udrnNvOmXo4sNgQ5x-dad779224852",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dc9de7ca1dd6c3155bfa15f43e233d7442ad640cf73d554affedb81d205da358",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A splash dynamic commercial photograph of a fresh salad flying in the air, ingredients swirling in a spiral motion, crisp lettuce, cherry tomatoes, sliced cucumber, red onion rings, avocado, olives, and croutons suspended mid-air, droplets of olive oil and water splashing around them, forming a vortex shape, bright studio lighting, high-speed photography, clean light gray background, shallow depth of field, ultra sharp focus, captured with a 70-200mm lens, commercial food photography style, hyperrealistic, cinematic presentation, crisp shadows and highlights, professional studio setup --chaos 10 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6h73DvRfT35hlUztKheOsG92LbcD9cyrticAy3VODz42R0doicoQgRGcYg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6hcKguJgYA9own9iberurgfgblbuWVlPHYehQmJICjJzst3hPbeMV88gw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA:prompt-0017",
+    "source_metadata": {
+      "article_index": 161,
+      "article_title": "Vol.169 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745807946,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 17,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd",
+    "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

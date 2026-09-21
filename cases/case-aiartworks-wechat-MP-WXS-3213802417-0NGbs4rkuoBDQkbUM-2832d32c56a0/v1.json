@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCzrV0prByoVowH3a6xlQkOEFVPd7iboHldrsKy0OLaI2Gr3yaUXZ0jvXDBQuic3tTtpLHFqYfytK5h9JZvTZq5dg2FU9P8jcjcg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-2832d32c56a0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "53283ba132c28c44fd129eae3ba343e7c6c7a545915d42b3a500d9af6697a1fe",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "rejlbxp",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "dreamy illustration of a cute chibi purple-haired girl with oversized cream headphones and tiny angel wings on a purple train seat traveling by the train, leaning on a small train table and looking out of a large window, mini round portable fan facing her and cute iced milk tea on the table, beautiful coastal ocean view outside the train, blue sea, green mountains, seaside houses, soft sunlight, lavender and cream palette, cozy healing summer travel mood, delicate illustration pencil texture --ar 3:4 --profile rejlbxp --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCzrV0prByoVowH3a6xlQkOEFVPd7iboHldrsKy0OLaI2Gr3yaUXZ0jvXDBQuic3tTtpLHFqYfytK5h9JZvTZq5dg2FU9P8jcjcg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0002",
+    "source_metadata": {
+      "article_index": 17,
+      "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783812654,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+    "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBvCgDZ6xWyQLgXQpfRS8gfdZPhqqok9cGxaS4PJ6fqYPm2CvqDlwTWBvV26KIW5Dqlj3EKGL1j6Tg7sq6C7BNANPR9I1vEw1Y/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-53G17zz-m8LaNeYaq-85fecd1808e7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e1bd5fa8d40abeeb625fd1879a102a2a680f8a46165b2be5b5da6c1179811515",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "f9zdn93",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "astronaut navigating a clean futuristic medical interface in space, floating UI panels with simple charts, health data and appointment booking screens, minimal design, one highlighted panel labeled smart results, calm and controlled atmosphere, soft blue and white tones, cinematic lighting, ultra realistic, high detail, modern UX aesthetic --ar 9:16 --profile f9zdn93 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBvCgDZ6xWyQLgXQpfRS8gfdZPhqqok9cGxaS4PJ6fqYPm2CvqDlwTWBvV26KIW5Dqlj3EKGL1j6Tg7sq6C7BNANPR9I1vEw1Y/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA:prompt-0006",
+    "source_metadata": {
+      "article_index": 25,
+      "article_title": "Vol.308-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781307046,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507947&idx=1&sn=76fc63322cc1a6cbdcd9733edbab0651&chksm=9617e3570867994c845d44efbbc0b9e66064c23c8c29944b7b4472a32ff18f415ddece64518a#rd",
+    "title": "Vol.308-Midjourney 精选作品提示词与赏析 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507947&idx=1&sn=76fc63322cc1a6cbdcd9733edbab0651&chksm=9617e3570867994c845d44efbbc0b9e66064c23c8c29944b7b4472a32ff18f415ddece64518a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.308-Midjourney 精选作品提示词与赏析 · 提示词 7",
+  "version": "v1"
+}

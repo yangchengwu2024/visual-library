@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4iaW1C1ribbhiaEswk0OhW6ggVCC2gBFia3icQ9LOuEwJrUwNsb5TL6X912g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9-mN5ZfbichTXqi-h-0e20de474c6e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "899c809009aaf4656a96871041d78b34f477a96bb04afe45766a5c455ee9cd23",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cute and bubbly female idol looking at herself in the mirror with an excited and surprised expression, her eyes wide with anticipation. Her hands gently touch her face as if she just saw something amazing. She wears a trendy K-pop-inspired outfit in pastel tones, with playful accessories like heart-shaped earrings or colorful hair clips. The background is filled with vibrant pop-art elements, including neon signs, comic book-style halftone patterns, and playful doodles. A bold \"OMG!\" speech bubble appears near her, enhancing the fun and dynamic atmosphere. The overall mood is youthful, energetic, and full of excitement. --ar 16:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4iaW1C1ribbhiaEswk0OhW6ggVCC2gBFia3icQ9LOuEwJrUwNsb5TL6X912g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw:prompt-0000",
+    "source_metadata": {
+      "article_index": 243,
+      "article_title": "Vol.102 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738895457,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd",
+    "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcvbhykRohusCX46GTRuGtVMMIicVmqQxLuR6u2QpzMdMzcO4kWKib265EpD9pfic0IFJT6mo4icJHIbQ/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qTZhmuvCv-35LLdES-62b4096c0002",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ab65f3708a34c1dbf4081342399851c1b6e346b81712c3d984c73f9457d1507c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "motion": "high",
+    "raw": true,
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "A cinematic vertical video capturing her entire figure, a beautiful 20-something Korean female college student majoring in design is seen wearing a short pleated skirt and dressed comfortably without a bag, running naturally through the city streets at the soft golden hour just before sunset, precisely filmed from an accurate side angle. The camera smoothly tracks her from the side at a speed perfectly matching her own, with absolutely no motion blur in either the subject or the background. Ultra-high-resolution photographic details are rendered with exceptional clarity and sharpness. The video features the full body, facial expressions, natural running movements, detailed pleated skirt and backpack, warm cinematic lighting, and a highly realistic, cinematic, and surreal rendering. --ar 1:1 --motion high --raw --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcvbhykRohusCX46GTRuGtVMMIicVmqQxLuR6u2QpzMdMzcO4kWKib265EpD9pfic0IFJT6mo4icJHIbQ/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw:prompt-0004",
+    "source_metadata": {
+      "article_index": 97,
+      "article_title": "Vol.232 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752622272,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499001&idx=1&sn=b9fcef5b1d26a728548e893bcef39bd7&chksm=96a304fa761c7d1786583d8976ad948f0a539074b4124b9d28ba70b624836acf6e90c4babefe#rd",
+    "title": "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499001&idx=1&sn=b9fcef5b1d26a728548e893bcef39bd7&chksm=96a304fa761c7d1786583d8976ad948f0a539074b4124b9d28ba70b624836acf6e90c4babefe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

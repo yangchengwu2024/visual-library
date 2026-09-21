@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe7tBnBiaInCU3jmiasiajSzpvj3SEyqcpRXTAgEDdJOqh34X3libQpPWFsKK75l5l5Dibxs054NmHMRlA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-leMbGt3zRon-Sq7hU-b03650a03b8d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d816720ed5339b1f7e0d5247d3baecce8d60be1693ab0163f1aa8b925b62d10a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2"
+  },
+  "previous_version": null,
+  "prompt": "ultra photorealistic cinematic full-body panoramic wide shot of a colossal 10000-year-old Eastern dragon Huanglong, embodiment of eternity and divine supremacy. Its endless golden body arcs across the sky like the backbone of the heavens, every scale burning with radiant brilliance beyond sunlight. An immense ivory mane flows as if woven from celestial light, stretching endlessly with the wind. Its towering horns blaze with halos of divine fire, splitting the clouds into luminous patterns. The dragon’s piercing azure eyes shine like twin stars, casting their light over oceans, mountains, and continents below. Around it, auroras and cosmic rings spiral across the horizon, while golden rays break through a storm-torn sky, crowning the dragon as the eternal ruler of all realms. Captured from an infinite aerial wide-angle, its sheer size fuses with the sky and earth itself, making it indistinguishable from the very fabric of creation. DSLR clarity, ultra photorealistic, cinematic lighting, 8k, sharp focus --ar 9:16 --quality 2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe7tBnBiaInCU3jmiasiajSzpvj3SEyqcpRXTAgEDdJOqh34X3libQpPWFsKK75l5l5Dibxs054NmHMRlA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg:prompt-0001",
+    "source_metadata": {
+      "article_index": 85,
+      "article_title": "Vol.246 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755473450,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd",
+    "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

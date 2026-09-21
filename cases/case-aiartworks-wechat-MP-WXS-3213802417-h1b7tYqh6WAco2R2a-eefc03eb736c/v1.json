@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDvKh2vJtMQy6eE6qeEOKLUTGliagQ2JibV4DwJNQcNryr3v5jibiblOqibVaufeII2DVz89hfjNZRYew623lYCNX9SA3GmNcicubIak/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-h1b7tYqh6WAco2R2a-eefc03eb736c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f494083a23320aff822cf754f50b7e9f2f694c907ae227c89d55c14f4e325458",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "3gzedj2",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a digital painting in cool tones depicts a light orange and white striped cat with closed eyes and a slight smile, lying comfortably on a dark blue blanket or . a human hand, positioned from the right, gently pets the cat's back. bright rays of sunlight stream diagonally from the top right, illuminating parts of the cat and casting dappled light on the surrounding blue fabric. the background features various shades of blue and hints of lighter, possibly cloud like, forms. --ar 3:4 --raw --profile 3gzedj2 tcvgq4n 3l9gpxu --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDvKh2vJtMQy6eE6qeEOKLUTGliagQ2JibV4DwJNQcNryr3v5jibiblOqibVaufeII2DVz89hfjNZRYew623lYCNX9SA3GmNcicubIak/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA:prompt-0004",
+    "source_metadata": {
+      "article_index": 31,
+      "article_title": "Vol.302-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1779319833,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd",
+    "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

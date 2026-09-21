@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4bNia9VJcEHHkECribiaRiaTMiaCjTHA0gxDWYChYvB9t6RCMBAB9cjW9e4zA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rV2xv2NAUC8ICZClV-2326bdd28dc6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4eeda9886134375c8f814a63894e8cbe971e4fd58d164ff89df77f4fb0f30c65",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "In the vastness of the universe, a huge space station surrounds a giant glowing book. The metal shell of the station reflects the light emanating from the book, and mysterious symbols and galactic patterns glitter on the pages of the book. The astronauts, dressed in advanced space suits, are relaxing in zero gravity, flipping through the cosmic encyclopedia in their hands, their silhouettes standing out in the light of the book. The surrounding nebulae are like flowing paint, forming a gorgeous background, and the colors of the nebulae blend into the pattern of the book, as if the book and the universe are one. At the bottom of the picture, The whole poster is presented in a hard sci-fi light and shadow effect, showing the connection between the mystery of the universe and reading to explore the unknown. --ar 3:4 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4bNia9VJcEHHkECribiaRiaTMiaCjTHA0gxDWYChYvB9t6RCMBAB9cjW9e4zA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg:prompt-0008",
+    "source_metadata": {
+      "article_index": 163,
+      "article_title": "Vol.168 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745634624,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd",
+    "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

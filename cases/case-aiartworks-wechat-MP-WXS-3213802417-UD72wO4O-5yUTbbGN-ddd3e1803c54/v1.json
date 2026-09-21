@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxrsd9yPRrIvibwnZQvhuhw5vG0g7ZyYnt0mLQia4zwJ56M5FaoulCibJVg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-ddd3e1803c54",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b0fddf1f23f4649dea33c1adb0ff0c95d79c6f9ecd9695416d302a6df2a4161d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "fashion magazine cover a caucasian woman with black sunglasses and full make up. kissing lips. colorful --ar 1:2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxrsd9yPRrIvibwnZQvhuhw5vG0g7ZyYnt0mLQia4zwJ56M5FaoulCibJVg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA:prompt-0000",
+    "source_metadata": {
+      "article_index": 276,
+      "article_title": "Vol.66 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734926418,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490208&idx=1&sn=3faad140f6380fedc4ca276bcb90c88b&scene=58&subscene=0",
+    "title": "Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490208&idx=1&sn=3faad140f6380fedc4ca276bcb90c88b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0UobpadrWYx5OqoeWIPPCcrDeicks77omxSlUB1Rv47lQmaiczB4R4ZDSS0vIg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0Uobpaqol8L7aibVUq3hYOTjYGZngt3fqTNONpIhCTbjBxR943GckFFHI4Mvg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1mazupHQHwezoh1U5-2b83f0d77944",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e9646c7946db25773ca108c3ab45e7daff912e170205a50636d25f08a0dcbb5a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "gb3efzh",
+    "stylize": "200",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A minimalist and elegant ballet poster featuring a graceful ballerina in mid-motion. She wears a flowing, soft peach-pink dress that moves fluidly with her pose, and delicate pointe shoes. Her expression is serene and focused, with arms extended in a refined ballet position. The background is a clean, light gray, emphasizing the dancer's form and elegance. Overlaying the composition is an intricate, modern typographic design in bold pink, with large, swirling calligraphic elements that interact harmoniously with the dancer’s figure. The overall aesthetic is sophisticated, contemporary, and visually striking, combining high-fashion photography with artistic typography. --ar 2:3 --profile gb3efzh --stylize 200 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0UobpadrWYx5OqoeWIPPCcrDeicks77omxSlUB1Rv47lQmaiczB4R4ZDSS0vIg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0Uobpaqol8L7aibVUq3hYOTjYGZngt3fqTNONpIhCTbjBxR943GckFFHI4Mvg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA:prompt-0019",
+    "source_metadata": {
+      "article_index": 146,
+      "article_title": "Vol.182 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747103455,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496834&idx=1&sn=4e7e2b584663e4acc43c59e8e741e9d7&chksm=965ac41df5d64c718f78d22356eb63c9924359720c8fd57630c08366c81900721aaa4a9728d3#rd",
+    "title": "Vol.182 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496834&idx=1&sn=4e7e2b584663e4acc43c59e8e741e9d7&chksm=965ac41df5d64c718f78d22356eb63c9924359720c8fd57630c08366c81900721aaa4a9728d3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.182 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

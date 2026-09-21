@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-L94WSeMHkGuh07fJQ-1d03d2fdc9fa",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jngxIGJ8W44UO8PCrxYVh9xc1Q03icQibIcTBOjswGCibnSNeHBQ5HVyLicg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnJbVbmwPBYq0B34YV18ZZRQlKuQEvIjjmXrBoqaJibjHKYetxkLQ6Uibw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ:prompt-0010",
+      "source_metadata": {
+        "article_index": 78,
+        "article_title": "Vol.253 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1756855830,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 10,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_L94WSeMHkGuh07fJQT79ZQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd",
+      "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500056&idx=1&sn=c9e6d573a69de6098612329eede38233&chksm=9620d803120fda011c824ad8a249e47c9a8b4a5765a631b8dc38504c531a5b967a77e6445791#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "title_aliases": [
+    "Vol.253 - Midjourney | 精选作品关键词提示 · 提示词 11"
+  ]
+}

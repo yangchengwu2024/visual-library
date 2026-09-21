@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAygtjaRZJZPIsLIxvrGGTwN6Qq5Am8pV2EDovHtJ5qjQG4dPsf7siaNan8GIanaYTk1Yc26eLVlu1nBDwsib1wdolO6e0sqB7g8/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WD6OO6dicriczr8JJJ7ElFOx02iaemM7Vs2YQrD2BaojLRaKQ8KBT6Hd4Mv6fIwLxsFwqrdfX5fetCLB308eFtsctmL4Kck93kO90/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vPFVyUmZkDO--qxwr-7e6a44bb6864",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8906030de9c6925c8ccf66aba0fdb6806eb03f88b9b9529e0ceb6b88985efef2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "5",
+    "hd": true,
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Kawaii black cat happily eating a steaming bowl of ramen with chopsticks, sitting at a traditional ramen counter, large expressive eyes, vintage Japanese advertising poster from the 1950s, warm cream paper texture, bold retro typography, hand-painted illustration, subtle ink outlines, nostalgic Showa-era design, ramen steam swirling elegantly, Japanese text \"ラーメン大好き\" and \"いただきます\", red hanko seal stamp, muted red, black and beige color palette, premium wall art, highly detailed illustration, vintage travel poster aesthetic --chaos 5 --ar 2:3 --raw --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAygtjaRZJZPIsLIxvrGGTwN6Qq5Am8pV2EDovHtJ5qjQG4dPsf7siaNan8GIanaYTk1Yc26eLVlu1nBDwsib1wdolO6e0sqB7g8/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WD6OO6dicriczr8JJJ7ElFOx02iaemM7Vs2YQrD2BaojLRaKQ8KBT6Hd4Mv6fIwLxsFwqrdfX5fetCLB308eFtsctmL4Kck93kO90/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag:prompt-0001",
+    "source_metadata": {
+      "article_index": 26,
+      "article_title": "Vol.307-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1781134251,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0",
+    "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 2",
+  "version": "v1"
+}

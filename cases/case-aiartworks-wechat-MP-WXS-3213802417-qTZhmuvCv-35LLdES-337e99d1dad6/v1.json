@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcvbhykRohusCX46GTRuGtVTQAlXq8BC4e1cyibE8QfzSfC4Caobrgjkmjfy2qsibm7gQSW2SXoJkNw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qTZhmuvCv-35LLdES-337e99d1dad6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f75f63168f0b7124f69d7fab2a32aa8847378befe54c9c47c3ab402fe7696432",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "10",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Scenery, They will just sit back and pretend ignorance… comfort is more beneficial to them than what’s going on in people’s lives., Newton's rings pattern on fur, neon green and light blue, bio-tech fusion style, evironment of all bioms, detailed fur, cinematic focus, The data flows, hyperreal textures, clear upper space, --ar 9:16 --exp 10 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcvbhykRohusCX46GTRuGtVTQAlXq8BC4e1cyibE8QfzSfC4Caobrgjkmjfy2qsibm7gQSW2SXoJkNw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw:prompt-0007",
+    "source_metadata": {
+      "article_index": 97,
+      "article_title": "Vol.232 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752622272,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qTZhmuvCv-35LLdESfySrw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499001&idx=1&sn=b9fcef5b1d26a728548e893bcef39bd7&chksm=96a304fa761c7d1786583d8976ad948f0a539074b4124b9d28ba70b624836acf6e90c4babefe#rd",
+    "title": "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499001&idx=1&sn=b9fcef5b1d26a728548e893bcef39bd7&chksm=96a304fa761c7d1786583d8976ad948f0a539074b4124b9d28ba70b624836acf6e90c4babefe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.232 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

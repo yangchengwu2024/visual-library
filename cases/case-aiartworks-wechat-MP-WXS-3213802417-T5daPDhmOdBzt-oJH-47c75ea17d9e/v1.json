@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShde6DAkLxp7T0TnNKvtahlXnnajHxH1JBUdE9cPHLDyQGnJMQJ261wIonLbgCTHB1vBWib6Xn9GMDQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-T5daPDhmOdBzt-oJH-47c75ea17d9e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5f2ae66d7d9967ab06d37165361ed4e0827f2e4af19eb7571d852ded7c5b9fb7",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "It's the silhouette of a successful CEO. Create a vector-style silhouette of a businessman with arms crossed. Keep it as simple as possible. A low-angle perspective would be ideal. The silhouette should have white for the illuminated areas and black for the shadowed areas --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShde6DAkLxp7T0TnNKvtahlXnnajHxH1JBUdE9cPHLDyQGnJMQJ261wIonLbgCTHB1vBWib6Xn9GMDQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw:prompt-0019",
+    "source_metadata": {
+      "article_index": 183,
+      "article_title": "Vol.150 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743815357,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495546&idx=1&sn=cb43139f490aff7482be29eac09f8349&chksm=96fc1e49a1ba14b6bc4ac7770478f483dc0cc63e86f95bc8b2c625395b16bbaeb7a8566e4e10#rd",
+    "title": "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495546&idx=1&sn=cb43139f490aff7482be29eac09f8349&chksm=96fc1e49a1ba14b6bc4ac7770478f483dc0cc63e86f95bc8b2c625395b16bbaeb7a8566e4e10#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

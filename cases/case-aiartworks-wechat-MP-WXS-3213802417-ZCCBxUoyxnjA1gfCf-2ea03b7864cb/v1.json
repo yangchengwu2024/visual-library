@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheyibEuAPfn3w7TQHss3MEr4GHcgrZVpWcyAhnibfnutTsReOqehKLlIXY87lY3Bq58n0nqyyvsy01Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZCCBxUoyxnjA1gfCf-2ea03b7864cb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4a6f957a09f6a17bac7bf1b6210b59778954d5dedfe9e82f5bd995caa47e9bff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:5",
+    "oref": "https://s.mj.run/oWdc7bH7GSI",
+    "sref": [
+      "https://s.mj.run/IxLEoFhO8h4",
+      "https://s.mj.run/BqNcD6dUq3Y"
+    ],
+    "sw": "500"
+  },
+  "previous_version": null,
+  "prompt": "Another ancient Chinese door god, also in armored robes, stands behind a Ming-style chair. Beside him, on a flower stand, sits an old vase containing several withered lotus pods. The photographs are taken from different angles, with a symmetrical composition. The background is an ancient Chinese landscape painting, \"A Thousand Miles of Mountains and Rivers.\" This surrealist photograph explores the relationship between humanity and the environment. Unsealed. --ar 3:5 --sref https://s.mj.run/IxLEoFhO8h4 https://s.mj.run/BqNcD6dUq3Y --sw 500 --oref https://s.mj.run/oWdc7bH7GSI",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheyibEuAPfn3w7TQHss3MEr4GHcgrZVpWcyAhnibfnutTsReOqehKLlIXY87lY3Bq58n0nqyyvsy01Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA:prompt-0004",
+    "source_metadata": {
+      "article_index": 48,
+      "article_title": "Vol.284 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1763076640,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503527&idx=1&sn=3917d9e526e80cc600c2af6966e9f0fd&chksm=9624949d27cf321415606f7991edf4a6e81aec0c1e2e6d29043a618ee671be62fec70a3ab870#rd",
+    "title": "Vol.284 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503527&idx=1&sn=3917d9e526e80cc600c2af6966e9f0fd&chksm=9624949d27cf321415606f7991edf4a6e81aec0c1e2e6d29043a618ee671be62fec70a3ab870#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.284 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

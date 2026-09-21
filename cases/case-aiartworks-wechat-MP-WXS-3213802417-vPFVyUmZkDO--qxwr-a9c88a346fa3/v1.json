@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAJW280BmM3JQ8ibslKRPiaViaJXTQ3ibuoBriaibNUQPYkZzRsnP3ewvW2IRXjUHianeIDibiaQYz6NvYYpicSdiaOkU1TOJ1uG4jMkX1niaE/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLyoxvS90cb62tvweT8gwNVZOI1bLicibRicW3f66CxbBeibZXplYqDo9gXqRsnL0ic47hdYl4AkalbxGYRnojZfTclIbLTslwH7ls/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vPFVyUmZkDO--qxwr-a9c88a346fa3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7cd45f333ca778477fb4c48269f803f5cee3cf35befec6fc8a1025fc5610c0d5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "raw": true,
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "一个甜欲感很强的少女妆容，韩系纯欲风，白皙透亮的奶油肌底妆，皮肤细腻柔和、瑕疵感低，眉毛自然柔雾，眼妆以浅粉棕和奶茶棕为主，眼型圆润放大，黑眼珠存在感强，明显卧蚕，睫毛纤长卷翘，上下睫毛清晰，眼神无辜、湿润、微微惊讶，腮红是淡粉蜜桃色，集中在苹果肌和面中，鼻梁轻微提亮，鼻头小巧，嘴唇是水润果冻感嘟嘟唇，偏草莓红色，整体妆感精致幼态，甜中带一点撩，像短剧女主的高清上镜妆。 --ar 2:3 --raw --stylize 50 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAJW280BmM3JQ8ibslKRPiaViaJXTQ3ibuoBriaibNUQPYkZzRsnP3ewvW2IRXjUHianeIDibiaQYz6NvYYpicSdiaOkU1TOJ1uG4jMkX1niaE/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLyoxvS90cb62tvweT8gwNVZOI1bLicibRicW3f66CxbBeibZXplYqDo9gXqRsnL0ic47hdYl4AkalbxGYRnojZfTclIbLTslwH7ls/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag:prompt-0012",
+    "source_metadata": {
+      "article_index": 26,
+      "article_title": "Vol.307-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781134251,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0",
+    "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 13",
+  "version": "v1"
+}

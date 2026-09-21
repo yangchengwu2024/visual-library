@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1c24tQi9jbnvYAQ7r-80410ae75f9a",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCiaRuELn2clZHu1xESHaXPhdom8Ybwf87ILzBicOh5Vwj6pZibIWvHicULQHyFcQ9vefdum77h60vI68ib9FBib0LxQPfeNHMUbDqOs/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA:prompt-0010",
+      "source_metadata": {
+        "article_index": 1,
+        "article_title": "Vol.331-Midjourney 精选 | 科幻作品选辑",
+        "association_confidence": "review",
+        "createTime": 1789344088,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 10,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+      "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 11",
+  "title_aliases": [
+    "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 11"
+  ]
+}

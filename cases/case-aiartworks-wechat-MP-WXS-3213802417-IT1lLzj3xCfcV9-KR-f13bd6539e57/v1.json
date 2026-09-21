@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybKzCHXqic4BEHP52OnxicJYYSuRajaPdeXRFsAzf8e1lnTrBiar6V179Ag/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IT1lLzj3xCfcV9-KR-f13bd6539e57",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6d5051bc9ad8c60cf011ed17dfdda7553314b6e6e297cfa318d99e04d5e41c6e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "no": [
+      "fog"
+    ],
+    "personalize": "rpsr7zt",
+    "stylize": "800",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The scene is in Shanghai, with a giant pure gray Ragdoll cat lying on the highest floor. The cat's body is almost as wide as a building. Giant object sensation, An 8-year-old girl is lying on top of it，surreal sensation. The overall color tone is advanced cream, with a misty feel, advanced grayscale, hazy light, and a sense of illusion and mystery --no fog --ar 9:16 --personalize rpsr7zt --stylize 800 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybKzCHXqic4BEHP52OnxicJYYSuRajaPdeXRFsAzf8e1lnTrBiar6V179Ag/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg:prompt-0019",
+    "source_metadata": {
+      "article_index": 288,
+      "article_title": "Vol.56 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733884231,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IT1lLzj3xCfcV9~KRx3rJg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489115&idx=1&sn=b33ae60ce3b0c67cd2a59c954ebaccb7&scene=58&subscene=0",
+    "title": "Vol.56 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489115&idx=1&sn=b33ae60ce3b0c67cd2a59c954ebaccb7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.56 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

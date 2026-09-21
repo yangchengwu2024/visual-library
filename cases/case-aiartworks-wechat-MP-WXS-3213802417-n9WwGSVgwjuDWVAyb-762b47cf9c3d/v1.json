@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqUjJVXI4FeKXfX04IlYFfn8L1pZoDD9aIq8slYvLrfpfKWIMb7gBw9sw7tj9jKR4Rw63YFrZ9ibg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n9WwGSVgwjuDWVAyb-762b47cf9c3d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f632123c3da45725e13cb58a2604bf6f4f218bec443ae74c5094d5bd9f8f4771",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "gzawc6d",
+    "stylize": "400"
+  },
+  "previous_version": null,
+  "prompt": "samurai with wildstyle graffiti. The intricate and dynamic graffiti lettering covers all the surface, featuring bold tags, complex shapes, and bursts of contrasting colors. The minimalist white backdrop enhances the focus on the graffiti-covered samurai, creating a visually dynamic and thought-provoking composition. The clash of the urban with the energetic chaos of wildstyle graffiti symbolizes the intersection of political expression and contemporary urban culture in a clean and minimalist setting --ar 3:4 --profile gzawc6d --stylize 400",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqUjJVXI4FeKXfX04IlYFfn8L1pZoDD9aIq8slYvLrfpfKWIMb7gBw9sw7tj9jKR4Rw63YFrZ9ibg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg:prompt-0006",
+    "source_metadata": {
+      "article_index": 101,
+      "article_title": "Vol.228 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751844624,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd",
+    "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

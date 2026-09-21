@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9wmcM6moCz9dtTRXlib4F3iaf2TlRvEZiaZk5p6UqqRmWgMEaYlcuqiciaKicA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9weSzz8EsTLKFLzQjInSgibcfJHhGw125xsia1lQIiaKiahrQbE92Gq6Rmsw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-l2P3D5Jp75qis-YzM-f0f544ea3bb0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9cfea17a216bf88ffede243b7849a293e44929f95e56ed5a9459f09761f1ccd8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "7zak4p3",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "一名穿着传统短袖校服和吊带袜的25岁女人，穿着球鞋，手拿黑客帝国的激光剑，站在电梯里，面向镜头准备走出电梯。这名学生戴着一顶有猫耳朵的光滑的白色头盔，配有反光面罩看不到脸。柔和的漫射光点亮了洁白无瑕的室内空间，投下细腻的阴影。整个场景给人一种超现实、富有诗意且宁静的感觉，带着科幻的基调与梦幻般的静谧。电影画面，居中构图，柔和的质感，超现实的细节，带有颗粒感 --ar 9:16 --profile 7zak4p3 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9wmcM6moCz9dtTRXlib4F3iaf2TlRvEZiaZk5p6UqqRmWgMEaYlcuqiciaKicA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9weSzz8EsTLKFLzQjInSgibcfJHhGw125xsia1lQIiaKiahrQbE92Gq6Rmsw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA:prompt-0015",
+    "source_metadata": {
+      "article_index": 119,
+      "article_title": "Vol.209 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1749684621,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497999&idx=1&sn=eb26f0badb65e80513f9dad97e80a832&chksm=969cbc1089f5008947988dbbc74832f8f02be63d03e25c59a5eff9599b399234f64adc003579#rd",
+    "title": "Vol.209 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497999&idx=1&sn=eb26f0badb65e80513f9dad97e80a832&chksm=969cbc1089f5008947988dbbc74832f8f02be63d03e25c59a5eff9599b399234f64adc003579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.209 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

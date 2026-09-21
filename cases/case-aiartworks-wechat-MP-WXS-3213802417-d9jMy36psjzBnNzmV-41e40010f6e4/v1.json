@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFkc1iaosbEz3EqmhRmC4msnTfXic3jRqErSToQibbrUzGH5EPZfvicAYC4vg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-d9jMy36psjzBnNzmV-41e40010f6e4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cac7d439bfc2e807bde44d5df744ded46cad13707e35e868ddd492a9c142bb85",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "black and white anti-war poster. a u.s. vietnam war soldier (1960s, wearing jungle fatigues and m1 helmet) hands a cigarette to a russian soldier from the chechen war (1990s, in flak jacket and *telnyashka* undershirt). both are wounded but calm, their faces showing exhausted brotherhood. the background is a surreal purgatory a misty wasteland with broken rifles growing like dead trees, barbed wire twisting into dna helixes, and shadowy figures of other soldiers fading into the fog. the composition resembles a socialist realist woodcut print but with grotesque details: a faceless clock without hands, a dove with bullet holes in its wings, a child’s toy half-buried in mud. stark high-contrast lighting, ink-like textures, and a faint glow around the cigarette as the only light source. the style mixes soviet wartime propaganda with francisco goya’s *disasters of war* etchings. --chaos 10 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFkc1iaosbEz3EqmhRmC4msnTfXic3jRqErSToQibbrUzGH5EPZfvicAYC4vg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w:prompt-0018",
+    "source_metadata": {
+      "article_index": 174,
+      "article_title": "Vol.158 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744684229,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd",
+    "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

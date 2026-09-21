@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDqib0KKe3JQwMeOdz8PrcXbSMpbCb2Crm7b3IrIlogcXFIO4X5jcqv8A/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZxvqyuzKY8gTctrlZ-3eba85f68455",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6c60d6c4dc12a6c5191ff53d06eb4e809ef84aac6b739cbc345c913c6b7feb1b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Main visual: A brown old mother chicken stands out among a group of identical looking hens. Compared to other monochrome or soft chickens, prominent chickens are dressed in bright and unique colors or pose in eye-catching ways. The central character may hold their head high, walk in different directions, or emit light to represent confidence and personality. Background: All other chickens are slightly lighter in color than the protagonist, looking left and right to blend in with the surrounding environment. The number is not too many, and the prominent chicken body becomes the focus. The background should not shift attention away from the theme, but emphasize the contrast between integration and highlighting Color contrast: Neutral tones such as pale yellow, yellow, and white are used for background elements, while bold and vibrant colors are used to symbolize personality and purpose for the prominent chicken body Symbolic significance: Consider adding subtle symbolic elements, a spotlight or light for unique characters, to indicate that standing out will bring enlightenment or a higher state of existence Emotion: The overall emotion of the image should make people feel powerful, optimistic, and inspired. The underlying motivation should be conveyed not only through text, but also through visual effects, Photography, Natural Light, Author: Rene Magritte, Surrealism, Keyshot, High Angle Perspective, Feather Made, Drone Camera, Warm Color Filter, Music Video Scene --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDqib0KKe3JQwMeOdz8PrcXbSMpbCb2Crm7b3IrIlogcXFIO4X5jcqv8A/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 333,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.15",
+      "association_confidence": "high",
+      "createTime": 1729737668,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 20",
+  "version": "v1"
+}

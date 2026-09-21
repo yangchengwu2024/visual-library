@@ -1,0 +1,95 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAzNMEibibib162ftjzHxgj3yNPsM2gLxgY8DNQX15OOgGajUODtTD7w6PYia46x64OkNdbwbd6U17SldB3Dw8dTSrXiaBxyNfOf6tE/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDx0KIGNo7EAd6j3CwZPvGiaH9zcBwHbKmmoauT6M24gnRvnFaqqnEDoUBJsKpevKs1RTiaC3tgjm9zia4iaanu9qFHF0HFl6tot20/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCnIbrzeKjlafLeqZENRmespWFl8dINFFJtibszbcGNpicoSvW2WxIRTf3MToCvWtVvBeiaTzEPLy2PaIVSI1n7pDFWHwz3XIWeTc/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBrp4gA9icLyU5gIrADbkNickONV6GfOHajJR3DAqBuJDtPmRcMmdeDbo02w5Jwb7qzV9rFLfZksF0fiam2gawurINJkLyRDeCJfY/0?wx_fmt=webp&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vNrP6Kx44Y9UMaVje-dd1382e808c5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d1cb06d800d993fefdced8b444301514fc9ce72d3ca44d4faffc6515ab10441c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "tog88t9",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "phénoménologie du bruit, symbolisme, by arthur tress, by lee miller, by Ray MAN --chaos 10 --ar 9:16 --raw --profile tog88t9 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAzNMEibibib162ftjzHxgj3yNPsM2gLxgY8DNQX15OOgGajUODtTD7w6PYia46x64OkNdbwbd6U17SldB3Dw8dTSrXiaBxyNfOf6tE/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDx0KIGNo7EAd6j3CwZPvGiaH9zcBwHbKmmoauT6M24gnRvnFaqqnEDoUBJsKpevKs1RTiaC3tgjm9zia4iaanu9qFHF0HFl6tot20/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCnIbrzeKjlafLeqZENRmespWFl8dINFFJtibszbcGNpicoSvW2WxIRTf3MToCvWtVvBeiaTzEPLy2PaIVSI1n7pDFWHwz3XIWeTc/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBrp4gA9icLyU5gIrADbkNickONV6GfOHajJR3DAqBuJDtPmRcMmdeDbo02w5Jwb7qzV9rFLfZksF0fiam2gawurINJkLyRDeCJfY/0?wx_fmt=webp&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g:prompt-0007",
+    "source_metadata": {
+      "article_index": 0,
+      "article_title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天",
+      "association_confidence": "high",
+      "createTime": 1789687866,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 7,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+    "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 8",
+  "version": "v1"
+}

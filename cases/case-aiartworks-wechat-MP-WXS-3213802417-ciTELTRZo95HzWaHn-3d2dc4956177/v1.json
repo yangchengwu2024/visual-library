@@ -1,0 +1,79 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShczK53uhzqWc91HVIm0N4jfDM1ePLibZIu4G9I9RnE1fC4c4Mzeyr3nMtghqCyofD21TN8rPnEpzKQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJ3jDElhZRVb9WUBrUSIejoHKCdymQxXfYFGjHYlSBzIQrYy1FXl5An4ticJGMDZicc96EkYFGvMGg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ciTELTRZo95HzWaHn-3d2dc4956177",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2a5f7d360b2635f711da567647ce334a40124d07e394d9e9e945437a12d24f37",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:7",
+    "chaos": "100",
+    "sref": [
+      "https://s.mj.run/E8-HhpGmLss",
+      "::5",
+      "https://s.mj.run/9Trgecu1Ypw",
+      "https://s.mj.run/HdvCVDCs0q8",
+      "https://s.mj.run/F8sHh_z-zqo"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "a composition of 6 to 10 squares of different sizes, each square containing one person, all separate and not overlapping, forming a unified overall picture, people of various ages and genders, half body, each isolated in their own square, all absorbed in their phones, Everyone was absent-minded about their work and just playing with their mobile phones. symbolizing digital addiction and loneliness, clear composition, accurate human proportions, detailed figures, Modern Gongbi painting style, new Gongbi style, fine and clear lines, layered coloring, muted gold and gray tones, delicate texture, detailed composition, artistic golden grid patterns, surreal visual effect, elegant and minimalist aesthetic, soft lighting, harmonious contrast, high resolution, inspired by James Jean, refined modern illustration style --chaos 100 --ar 4:7 --sref https://s.mj.run/E8-HhpGmLss ::5 https://s.mj.run/9Trgecu1Ypw https://s.mj.run/HdvCVDCs0q8 https://s.mj.run/F8sHh_z-zqo",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShczK53uhzqWc91HVIm0N4jfDM1ePLibZIu4G9I9RnE1fC4c4Mzeyr3nMtghqCyofD21TN8rPnEpzKQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJ3jDElhZRVb9WUBrUSIejoHKCdymQxXfYFGjHYlSBzIQrYy1FXl5An4ticJGMDZicc96EkYFGvMGg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 49,
+      "article_title": "Vol.283 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1762903843,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503403&idx=1&sn=17beb9c6fa53878107121d690a564932&scene=58&subscene=0",
+    "title": "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503403&idx=1&sn=17beb9c6fa53878107121d690a564932&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

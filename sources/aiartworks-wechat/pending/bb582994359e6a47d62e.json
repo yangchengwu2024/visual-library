@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-p05VXu8AwX-JRPPi--fab63869bf3f",
+  "fingerprint": "4151d1f7c41baaa0dd5e387535d60875a1242be4d71e7fca5bb4acef4a186624",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3"
+  },
+  "prompt": "modern day, an 8 year old latina child’s with a ponytail silhouette in front of a corn field, fading into immigration agents and LAPD police on horseback, border patrol, black vans, police cruisers, dust forming the shape of a latina child with a ponytail, emotionally charged, Kubrick symmetry, Stephen King poster influence, dreamlike and haunting --ar 2:3",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA:prompt-0012",
+    "source_metadata": {
+      "article_index": 95,
+      "article_title": "Vol.234 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1753054294,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499102&idx=1&sn=af36e63b7b805927bffbd106dd51e44d&chksm=961cf822b4a3fd3a24e45fde79720f183018cf9827f0ddaed2f3a3e0e3499556f906c10e0b99#rd",
+    "title": "Vol.234 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499102&idx=1&sn=af36e63b7b805927bffbd106dd51e44d&chksm=961cf822b4a3fd3a24e45fde79720f183018cf9827f0ddaed2f3a3e0e3499556f906c10e0b99#rd"
+  },
+  "source_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA:prompt-0012",
+  "status": "pending",
+  "title": "Vol.234 - Midjourney | 精选作品关键词提示 · 提示词 13"
+}

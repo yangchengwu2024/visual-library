@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vj8bicXeGS1T0yj30vwFBnUdKviaHN9pjDLJJrGePdyNEPq57uzf1HE7w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OjiQuWEZxr3PCMnKv-028eac0c6479",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e1dc6c31cf161579f6b1e14c77e43f13f22cf90354bf0313c6236f14c64bc8ea",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "35",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/Hw0mdJdUZMo",
+      "https://s.mj.run/sFbYA4YtO5E",
+      "https://s.mj.run/Pq6wJnKmULQ",
+      "https://s.mj.run/ujiTLnoO66w",
+      "https://s.mj.run/gOekyM7w_Qo",
+      "https://s.mj.run/MoPPKY2tAzM",
+      "https://s.mj.run/fYTsFfR47ag",
+      "https://s.mj.run/KI7UWMw2oIo"
+    ],
+    "stylize": "1000",
+    "v": "7",
+    "weird": "30"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/NUXECKJAfDc https://s.mj.run/hbYP_7_GTBs https://s.mj.run/ot_Mbt2S1Bk https://s.mj.run/mj6mZa1UvQg https://s.mj.run/AJjSLkGyMls https://s.mj.run/iuS6eM1JkHM \"Epic anime warrior with spiky green hair styled like Broly, sharp intense eyes, and a muscular physique. Wears ancient fantasy battle armor with ornate gold-trimmed shoulder plates, layered colored chest armor in red, blue, and bronze, and a deep green scarf draped around the neck. Holds a glowing, enchanted sword with a red-gem hilt and light-blue blade. Fierce, stoic expression with battle scars. Background is a cracked ancient stone wall, moody lighting, dramatic shadows. Manga-style linework blended with painterly shading. Highly detailed, cinematic composition, dynamic pose, intricate textures, with a dark fantasy atmosphere\" --chaos 35 --ar 2:3 --raw --sref https://s.mj.run/Hw0mdJdUZMo https://s.mj.run/sFbYA4YtO5E https://s.mj.run/Pq6wJnKmULQ https://s.mj.run/ujiTLnoO66w https://s.mj.run/gOekyM7w_Qo https://s.mj.run/MoPPKY2tAzM https://s.mj.run/fYTsFfR47ag https://s.mj.run/KI7UWMw2oIo --stylize 1000 --weird 30 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vj8bicXeGS1T0yj30vwFBnUdKviaHN9pjDLJJrGePdyNEPq57uzf1HE7w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A:prompt-0008",
+    "source_metadata": {
+      "article_index": 125,
+      "article_title": "Vol.203 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749166227,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd",
+    "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6waJSs9ic52lBSCTFPQiaCmCud3Bxs4r4PIsI3TKu6dakdKKrPdYYfwibw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-7407777988d3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9a037aa7f68dea845dd84a99523479ffc379509eb4ae6d3778061d7021c6f1ba",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "personalize": "pag2gtj",
+    "sref": [
+      "https://s.mj.run/WYTY8m62tbw"
+    ],
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/Fk9-h_1-aX4 https://s.mj.run/WigiPOgXWUI Postcard with a sectional drawing of the Hong Kong's underground layer. with a vertical city built along the mountain, with very deep metro tunnels and beneth that layer the and also adjunct to the metro layers are demolished buildings and cityscapes that locates in the gaps of the earth layers --ar 9:16 --style raw --sref https://s.mj.run/WYTY8m62tbw --personalize pag2gtj --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6waJSs9ic52lBSCTFPQiaCmCud3Bxs4r4PIsI3TKu6dakdKKrPdYYfwibw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw:prompt-0011",
+    "source_metadata": {
+      "article_index": 335,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.13",
+      "association_confidence": "high",
+      "createTime": 1729568093,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OvKc5fLd4pZ4FIJpwFhfwPyJZfDvvEmc8Rv5571p0ljrPBv54w3WThg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Yr4IeCA9u0ASnyl8m-1fe992bfd85f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9ff72205a4b8fe4d91aa8f62b8d938dc2d5a37c7fad8e75a3c6b8949132a6c8e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "17:31",
+    "niji": "6",
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/K7U60u2GrhQ Traditional Chinese pattern background, heavy rain in the rainy season, flying swallows, distant mountains and rivers, a doll riding on the back of a buffalo, blooming flowers on a small house at the foot of the mountain, light green gradient sky, the overall color scheme is mainly green and gold. The illustration style has delicate lines and smooth curves, giving it a sense of mystery. Illustration style HD details, fisheye lens, one point perspective, ultra high definition, super details, 8k --ar 17:31 --stylize 250 --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OvKc5fLd4pZ4FIJpwFhfwPyJZfDvvEmc8Rv5571p0ljrPBv54w3WThg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g:prompt-0001",
+    "source_metadata": {
+      "article_index": 271,
+      "article_title": "Vol.71 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735357807,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0",
+    "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

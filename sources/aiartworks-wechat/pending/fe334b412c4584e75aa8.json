@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gob9RTLv7drXsy3Nh-212d7917a62e",
+  "fingerprint": "3d216a3b9850ef9370bd1e04bc97c4948d8cac1eff00e61ff9c9916aa0ba00e8",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "prompt": "\"A playful and minimal cartoon graffiti wallpaper with quirky doodles, simple characters, and clean, smooth lines, offering a fun and stylish aesthetic.\" --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0016",
+    "source_metadata": {
+      "article_index": 255,
+      "article_title": "Vol.86 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1736908245,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd",
+    "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd"
+  },
+  "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0016",
+  "status": "pending",
+  "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 17"
+}

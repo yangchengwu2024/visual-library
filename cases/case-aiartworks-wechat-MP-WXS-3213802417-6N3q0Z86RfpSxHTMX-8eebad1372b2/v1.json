@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybiaibMQ9wfv0TNeT9ajeGAoMeyUofAhpuPvAXrUo76TOQ7WQ2mluotNSw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6N3q0Z86RfpSxHTMX-8eebad1372b2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1c4ecf88f00b1447354be80389268144b1342fd49d079008f3e2d9f30e10e820",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "personalize": "st4z7jv",
+    "sref": [
+      "148518958"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Hamster slicking a giant Peking roast duck, holding a tiny knife, duck skin is crispy and golden, side dishes include spring pancakes and shredded scallions and sweet bean paste, background of a Chinese round table, in the style of photograph,nikon camera f3.5, 32k uhd --ar 3:4 --sref 148518958 --personalize st4z7jv --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybiaibMQ9wfv0TNeT9ajeGAoMeyUofAhpuPvAXrUo76TOQ7WQ2mluotNSw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 287,
+      "article_title": "Vol.57 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733970611,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0",
+    "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

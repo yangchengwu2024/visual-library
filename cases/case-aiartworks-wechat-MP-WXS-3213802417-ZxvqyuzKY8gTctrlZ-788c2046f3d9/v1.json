@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDLqssibFyJp7lYziafchs424tqmTUWiburM1JLWiaxfLTCoVk5kqkC6WXpw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZxvqyuzKY8gTctrlZ-788c2046f3d9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "57ac378e7ec326b2093a00c5f49d605a7d9b38ba69ee6b1339ca087dae9a1cca",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "personalize": "k9rpo1o",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "雲の上のお城ネイル,☁️🏯,nail art looks like asian castle on the cloud,雲海,nails,dreamy,photorealistic --ar 2:3 --style raw --personalize k9rpo1o --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDLqssibFyJp7lYziafchs424tqmTUWiburM1JLWiaxfLTCoVk5kqkC6WXpw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ:prompt-0014",
+    "source_metadata": {
+      "article_index": 333,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.15",
+      "association_confidence": "high",
+      "createTime": 1729737668,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 15",
+  "version": "v1"
+}

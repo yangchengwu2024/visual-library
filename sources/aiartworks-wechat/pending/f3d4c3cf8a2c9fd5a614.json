@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-h1b7tYqh6WAco2R2a-a5d6be0281a6",
+  "fingerprint": "c6fb5d3fa3ac1cc09dde8497cff52f0a15972a7ddd9d840693610c55f9fcee84",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "v9sc26v",
+    "v": "7"
+  },
+  "prompt": "The Red River Jig, national dance of the Métis, this is the most famous jig. It is performed to a specific, iconic fiddle tune. circular, rhythmic step performed while the fiddle plays a high section. dancers execute complex, rapid-fire, and often improvised \"fancy\" footwork. upper body relatively still and straight, while the legs and feet perform incredibly fast, complex movements. --profile v9sc26v rwjhoss --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA:prompt-0010",
+    "source_metadata": {
+      "article_index": 31,
+      "article_title": "Vol.302-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1779319833,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd",
+    "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd"
+  },
+  "source_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA:prompt-0010",
+  "status": "pending",
+  "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 11"
+}

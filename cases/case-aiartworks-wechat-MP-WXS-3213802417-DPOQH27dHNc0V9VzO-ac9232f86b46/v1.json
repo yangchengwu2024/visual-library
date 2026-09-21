@@ -1,0 +1,89 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCZmD7XRKbqsq4JQxOMwWWo833KcbeFRzygWPwrp1joToXrc7F5PkgHnVKgZiaNAjsrsicC0WflqGkOJUDurtnlmt5LolwyhyuGQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBWXia1WFfMmk0ZmZiag5NvlEBTDWurh6g434FricKT5wWMicgicH34KkqUpdTDcRAYxxSvOwst4TlCia66bm5VALavsfmtPDVhEghNk/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCE6KE8Dsk0zPXseGia6GpGag6HR80JRWicJ6ZScuSuZ4icUzc3YBxw1fynxu7cVdYz0icTnfvkOG7z5OJQ06kiaNqrnibh6ic8u6YPIE/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-ac9232f86b46",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3a3cf2594b71937d7efaaafad290071d1e0523bd8b8a7ec78c70f13db7939775",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "50",
+    "hd": true,
+    "profile": "zj43l74",
+    "sref": [
+      "1168609102"
+    ],
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "35mm film, 日本人女性のWednesday Addams, calm face with dynamic pose, a nearby cat sitting in the stone。黒いゴシック服。広角。春のシャツ、朝の光。新緑。海が見える。周辺減光。石畳 --chaos 50 --ar 2:3 --sref 1168609102 --profile zj43l74 hfrpcim --stylize 50 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCZmD7XRKbqsq4JQxOMwWWo833KcbeFRzygWPwrp1joToXrc7F5PkgHnVKgZiaNAjsrsicC0WflqGkOJUDurtnlmt5LolwyhyuGQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBWXia1WFfMmk0ZmZiag5NvlEBTDWurh6g434FricKT5wWMicgicH34KkqUpdTDcRAYxxSvOwst4TlCia66bm5VALavsfmtPDVhEghNk/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCE6KE8Dsk0zPXseGia6GpGag6HR80JRWicJ6ZScuSuZ4icUzc3YBxw1fynxu7cVdYz0icTnfvkOG7z5OJQ06kiaNqrnibh6ic8u6YPIE/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A:prompt-0007",
+    "source_metadata": {
+      "article_index": 32,
+      "article_title": "Vol.301-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1779147050,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0",
+    "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 8",
+  "version": "v1"
+}

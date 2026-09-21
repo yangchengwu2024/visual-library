@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcX6PIqiaEa7D66OMrGdJeGgXORverucDdicCY5cKpQjd8JwCkRJmHANC6GibyhJ0LOnIdpibBqPHZGfg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BP5g2MMnuAq0lMmkY-5a5d7627c1a2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "58e500984e0d354c6545eb22e729f0ef39c33cd94a76922273d321be5b34f7ed",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "no": [
+      "sunglasses"
+    ],
+    "profile": "fhf85hg",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "\"slay\" , spirit aura photography, anaglyph image, dancing till the break of dawn, carefree moments --no sword --no sunglasses --ar 9:16 --profile fhf85hg --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcX6PIqiaEa7D66OMrGdJeGgXORverucDdicCY5cKpQjd8JwCkRJmHANC6GibyhJ0LOnIdpibBqPHZGfg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw:prompt-0004",
+    "source_metadata": {
+      "article_index": 135,
+      "article_title": "Vol.193 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748311396,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497283&idx=1&sn=82c9f0dcd7ee18682310b4504163da9a&chksm=96479c169670eb1176d19881a79fdb1012f03376f75a0780e51b6ef1e02eed21437c5c4c3463#rd",
+    "title": "Vol.193 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497283&idx=1&sn=82c9f0dcd7ee18682310b4504163da9a&chksm=96479c169670eb1176d19881a79fdb1012f03376f75a0780e51b6ef1e02eed21437c5c4c3463#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.193 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

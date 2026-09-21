@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFd6u2d1R96soWD2nyuMxwNQ5E2x7GwAnLqsPmNnSKHrJXY5EibRaysp4Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N30sGqNyJxLHBoa5j-43751c3a5794",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cdd47fb05f4c50bddcbf4a0fef4f5cc0c6e22349eec5931c045be98eef5a7581",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:5",
+    "oref": "https://s.mj.run/LGcNjbFNCfU",
+    "ow": "400",
+    "profile": "3veljtk",
+    "sref": [
+      "https://s.mj.run/4kI1gH5vqkM"
+    ],
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A cheerful young woman with long, light brown hair stands beside a colorful community sports day poster on a bulletin board. She wears a sporty-casual outfit with bright accents, holding a water bottle and smiling at the camera. The poster features bold text and playful illustrations of running figures, jump rope, and team games, with phrases like \"Join Us!\" and \"Community Sports Day - Saturday 10AM.\" The background includes a sunny outdoor community center or schoolyard with trees and flags. Friendly, lively atmosphere, daytime lighting, shallow depth of field.Come join the fun!Caucasian girl,black hair,long hair,influencer style, tiktok style, dynamic pose, puffy eyes, fair porcelain skin, slim body, slim legs, slim waist, --ar 3:5 --sref https://s.mj.run/4kI1gH5vqkM --profile 3veljtk --oref https://s.mj.run/LGcNjbFNCfU --ow 400 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFd6u2d1R96soWD2nyuMxwNQ5E2x7GwAnLqsPmNnSKHrJXY5EibRaysp4Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw:prompt-0017",
+    "source_metadata": {
+      "article_index": 116,
+      "article_title": "Vol.212 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749952875,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0",
+    "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

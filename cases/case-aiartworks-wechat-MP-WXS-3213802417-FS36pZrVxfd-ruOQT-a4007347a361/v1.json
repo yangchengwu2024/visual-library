@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:34+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvdtYrMMcGel4sEdsaz6N4GUHS4YkuG9N5pZbb86zco7cMQrSWTxVyUQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-a4007347a361",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6c230dc541958906ee684fbf4342e1b7e56dcc5c18d09e83d6fa3c81ccb1f989",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "chaos": "40",
+    "stylize": "200",
+    "v": "6.1",
+    "weird": "600"
+  },
+  "previous_version": null,
+  "prompt": "A realistic horizontal background inspired by the whimsical and dark aesthetics of Tim Burton, designed for a photo montage with space for four people. The scene features a foggy, enchanted forest with gnarled, twisted trees that have exaggerated, spiraling branches and rich, detailed bark textures. The sky is a deep twilight blue with a luminous full moon casting a soft, ethereal glow through swirling clouds. In the foreground, oversized, peculiar flowers with vibrant colors and whimsical shapes add to the magical atmosphere. A crooked Victorian-style house with slanted roofs and unique architectural details stands in the distance, partially shrouded in mist. The ground is covered with a mix of cobblestones and lush grass, creating a natural yet fantastical setting. The color palette includes deep blacks, muted purples, and soft blues, establishing a darkly enchanting ambiance. There is ample open space in the center of the composition for four people, perfect for a photo montage --chaos 40 --ar 3:2 --stylize 200 --weird 600 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvdtYrMMcGel4sEdsaz6N4GUHS4YkuG9N5pZbb86zco7cMQrSWTxVyUQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ:prompt-0012",
+    "source_metadata": {
+      "article_index": 331,
+      "article_title": "Midjourney | 精选作品及提示 - 万圣节特别版",
+      "association_confidence": "high",
+      "createTime": 1729909843,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485950&idx=1&sn=73073d8efe0529bdd3f7182262dc794b&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485950&idx=1&sn=73073d8efe0529bdd3f7182262dc794b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 13",
+  "version": "v1"
+}

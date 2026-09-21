@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDIDZSE31riaicAO4WI8QqiatB1z3icia7MaOY5fUM7H3gwuclFFhfZ2dckRK0YlcuDzbh46q45d6PuZH4WNQIBUSVRCWvPTAxHaR6g/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-65LLXZCfPWcMjOCEw-015b15324bc0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "94e566a20dc8ebe18804077c91945fca397102e1e6c846c7edc18d8d407c2617",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "j1ckgld",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Johnny cash --ar 3:4 --raw --profile j1ckgld --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDIDZSE31riaicAO4WI8QqiatB1z3icia7MaOY5fUM7H3gwuclFFhfZ2dckRK0YlcuDzbh46q45d6PuZH4WNQIBUSVRCWvPTAxHaR6g/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 14,
+      "article_title": "Vol.318-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785022221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd",
+    "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

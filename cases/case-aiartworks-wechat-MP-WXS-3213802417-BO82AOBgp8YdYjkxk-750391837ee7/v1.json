@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6V6UON6sQ9hGlVAXZsHed6BDVoBiaHiaQ5q4tdLticvj3ZzhZvrhmcQwmw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BO82AOBgp8YdYjkxk-750391837ee7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8233632ea5c518ecdef4633b45fb52af0f2ba8e514ba079b3e5dab1874482280",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "5",
+    "profile": "4ovwhxi",
+    "style": "raw",
+    "stylize": "600",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Mirror reflection concept, split body art design, one side realistic anatomical painting, other side abstract patterns, studio lighting, perfect symmetry --chaos 5 --ar 9:16 --style raw --profile 4ovwhxi c1ejid5 --stylize 600 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6V6UON6sQ9hGlVAXZsHed6BDVoBiaHiaQ5q4tdLticvj3ZzhZvrhmcQwmw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw:prompt-0002",
+    "source_metadata": {
+      "article_index": 246,
+      "article_title": "Vol.99 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1738636240,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd",
+    "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

@@ -1,0 +1,99 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WC4kHHYd6WwXP1P2OxAibrMHW88T5fhHcrlzw9WRk8Vu2jSe1uSxnu1hx8niaKgCjve8aQk5qfbZ3CdA2cOibZJH3RDQicXCg7UsvQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA6tShhKOCxPg3wEA2Jr9ILFxD6JavORbeaPjXFfOLESm1WyeLbOTkV0Nkcw5iaPlzkhib2jJv6KXXiblaLrYhWazb3iafBeQF0Jvo/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-0cc33f94577c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f3b0ac7ddfdfa5bb7823b46157edaace0d308012e0915cfd5d46c43cdb5316cb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "7:10",
+    "chaos": "40",
+    "hd": true,
+    "profile": "6p7zcyl",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/mdsfasap-uk",
+      "https://s.mj.run/wHOhbxDO7IE",
+      "https://s.mj.run/nhQMGeVW2qw",
+      "https://s.mj.run/z8TA2s4mWZg",
+      "https://s.mj.run/AXR9OZ9WRGQ",
+      "https://s.mj.run/F9vOAI_tN0Y",
+      "https://s.mj.run/1XeAElKX2Io",
+      "https://s.mj.run/Eoy-iDOUTtA",
+      "https://s.mj.run/5qdyqLXCz7M",
+      "https://s.mj.run/DKQ8rQBLIQE",
+      "https://s.mj.run/snCyTDIwr8o",
+      "https://s.mj.run/Hk_j13rHQTQ",
+      "https://s.mj.run/S4IjbmEtIws",
+      "https://s.mj.run/MOlp2Snw01w",
+      "https://s.mj.run/uq88eSBHQhw",
+      "https://s.mj.run/FaJaeqWc13c",
+      "https://s.mj.run/EpsNmVQ6_Ks",
+      "https://s.mj.run/EO5Ujn0OHXQ",
+      "https://s.mj.run/Gcf5qaBhkak",
+      "https://s.mj.run/q3_lcv3szKE"
+    ],
+    "v": "8.1",
+    "weird": "8"
+  },
+  "previous_version": null,
+  "prompt": "an artwork image of1970s parisian young woman in the 1900s clothes writing at table at sidewalk cafe, black and white, dramatic, clean and bright photo like shot in 2026, outside cafe distressed image --chaos 40 --ar 7:10 --raw --sref https://s.mj.run/mdsfasap-uk https://s.mj.run/wHOhbxDO7IE https://s.mj.run/nhQMGeVW2qw https://s.mj.run/z8TA2s4mWZg https://s.mj.run/AXR9OZ9WRGQ https://s.mj.run/F9vOAI_tN0Y https://s.mj.run/1XeAElKX2Io https://s.mj.run/Eoy-iDOUTtA https://s.mj.run/5qdyqLXCz7M https://s.mj.run/DKQ8rQBLIQE https://s.mj.run/snCyTDIwr8o https://s.mj.run/Hk_j13rHQTQ https://s.mj.run/S4IjbmEtIws https://s.mj.run/MOlp2Snw01w https://s.mj.run/uq88eSBHQhw https://s.mj.run/FaJaeqWc13c https://s.mj.run/EpsNmVQ6_Ks https://s.mj.run/EO5Ujn0OHXQ https://s.mj.run/Gcf5qaBhkak https://s.mj.run/q3_lcv3szKE --profile 6p7zcyl --weird 8 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WC4kHHYd6WwXP1P2OxAibrMHW88T5fhHcrlzw9WRk8Vu2jSe1uSxnu1hx8niaKgCjve8aQk5qfbZ3CdA2cOibZJH3RDQicXCg7UsvQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA6tShhKOCxPg3wEA2Jr9ILFxD6JavORbeaPjXFfOLESm1WyeLbOTkV0Nkcw5iaPlzkhib2jJv6KXXiblaLrYhWazb3iafBeQF0Jvo/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0012",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 13",
+  "version": "v1"
+}

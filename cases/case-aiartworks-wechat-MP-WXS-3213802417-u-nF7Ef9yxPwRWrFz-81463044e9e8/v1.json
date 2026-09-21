@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheIYqIV5FwmfHLpxjpuzGouEbaQDqZ23HyWMBZlibJJbJ0Vjh2RM9mhlVPxXAvwhInSS4CDibfJ5Ntg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-u-nF7Ef9yxPwRWrFz-81463044e9e8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b91e4af6ef89ccae8b6a417945e28538b0c087fae639f8a33c23a4849757bcc7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "21",
+    "profile": "dttgld9",
+    "sref": [
+      "1721176525"
+    ],
+    "style": "raw",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Amazing happy face model fashion dressed in avant-garde haute couture, in the style of the Comme des Garçons brand. Editorial catalog photography, magazine cover from the 80s. Fashion photography, high contrast, grainy texture. Hyperrealistic poster, with face partially covered by shadows. ARRIFLEX 35 BL camera, Canon K35 fixed lenses, beautiful, imposing, delicate man. Perfect silkscreen hyper-realistic poster in the style of Caravaggio, symmetrical ::1 Ralph mcquarrie ::1 --chaos 21 --ar 9:16 --style raw --sref 1721176525 --profile dttgld9 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheIYqIV5FwmfHLpxjpuzGouEbaQDqZ23HyWMBZlibJJbJ0Vjh2RM9mhlVPxXAvwhInSS4CDibfJ5Ntg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw:prompt-0007",
+    "source_metadata": {
+      "article_index": 188,
+      "article_title": "Vol.146 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743474638,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495414&idx=1&sn=c7609670a592aafaac299f44252233c3&chksm=967001a03f082a470eca2bab1f42687d62bbe810140bc8628b4e058f95718d36432ddfa0e3a6#rd",
+    "title": "Vol.146 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495414&idx=1&sn=c7609670a592aafaac299f44252233c3&chksm=967001a03f082a470eca2bab1f42687d62bbe810140bc8628b4e058f95718d36432ddfa0e3a6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.146 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

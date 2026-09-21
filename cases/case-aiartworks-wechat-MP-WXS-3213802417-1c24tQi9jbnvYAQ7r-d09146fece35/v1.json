@@ -1,0 +1,88 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBbjy7gq1SdWluSzTh3AibvoZDBrFAZGceH9weibjnY4EwVN8C0gmsRecOkJcABM0L8980WH1m23FATApy9QR5vbCibic8YQpmtWDk/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1c24tQi9jbnvYAQ7r-d09146fece35",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "337162bc9be4070aa6f6fe02fd75224e014dbc671e05e4cba806c574864191db",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "7",
+    "hd": true,
+    "no": [
+      "insect,",
+      "arthropod,",
+      "spider,",
+      "crab,",
+      "robot,",
+      "machine,",
+      "bird,",
+      "bat,",
+      "dragon,",
+      "city,",
+      "ruins,",
+      "illustration,",
+      "concept",
+      "art,",
+      "matte",
+      "painting,",
+      "3d",
+      "render,",
+      "cartoon,",
+      "anime"
+    ],
+    "raw": true,
+    "stylize": "120",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "AVast karst peak forest at dawn, steep limestone towers rising from forested valleys, layers of cyan blue mist between peaks, wet vegetation on stone, a tiny human figure on a narrow ridge for scale. A gigantic alien sky swimming lifeform drifts between the towers - unmistakably biological, vertebrate like, thick and muscular with soft skin folds, no exoskeleton, no many legs. Multiple large dorsal buoyancy sacs with semi translucent pale gray green skin reveal internal vessel lines; broad stabilizing membrane folds run along the upper body; a long trailing tail aids balance. The smooth, heavy head has dark sensory grooves and recessed pits - ancient, calm. Several distant individuals drift through fog at varying heights, suggesting a species inhabiting the whole forest. Cinematic live action realism, photorealistic creature design, practical VFX realism, immense scale, atmospheric depth, sharp focus, low ISO. Colors: deep forest green, pale limestone gray, cyan blue mist, cold white highlights, muted gray brown skin. --no insect, arthropod, spider, crab, robot, machine, bird, bat, dragon, city, ruins, illustration, concept art, matte painting, 3d render, cartoon, anime --chaos 7 --ar 9:16 --raw --stylize 120 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBbjy7gq1SdWluSzTh3AibvoZDBrFAZGceH9weibjnY4EwVN8C0gmsRecOkJcABM0L8980WH1m23FATApy9QR5vbCibic8YQpmtWDk/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA:prompt-0014",
+    "source_metadata": {
+      "article_index": 1,
+      "article_title": "Vol.331-Midjourney 精选 | 科幻作品选辑",
+      "association_confidence": "review",
+      "createTime": 1789344088,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+    "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 15",
+  "version": "v1"
+}

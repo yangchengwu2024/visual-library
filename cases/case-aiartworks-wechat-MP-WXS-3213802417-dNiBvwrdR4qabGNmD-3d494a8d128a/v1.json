@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDxverRuPV1uiboMB0UOtBAvvY2GQlUNytkBFP8yFoGcib1AG9ZblBibRfrcOf3A41vOwUlESP2ydLqHJHGwpBUV9hLWhCiazYInXk/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dNiBvwrdR4qabGNmD-3d494a8d128a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "464babdc570756395a9d66728db30b1a7d55a1d21d816cea4cb136e8095ef526",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "z7wajft",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A vertically symmetrical winged form on a black background, merging a bulbous headed Baroque altarpiece with a psychedelic stage prop. Sweeping ribbed membranes unfold in symmetrical arcs recalling Art Nouveau ironwork and Bernini's drapery. Coral, lavender, seafoam green, and pale gold ripple across the wings like Fauvist striations, with serrated edges evoking ecclesiastical sunburst motifs and medieval spined halos, in organic marine texture. A central nautilus spiral in pastel enamel echoes Haeckel's natural history illustrations. Set against a black abyss, evoking Ernesto Neto's biomorphic installations, McQueen's costume constructions, and Es Devlin's scenography in soft ribbed tissue. Devotional yet futuristic, ornamental yet anatomical - an angelic configuration blending Renaissance sacred composition, psychedelic poster art, and scientific illustration, suspended between natural history and mythic apparition. --ar 9:16 --raw --profile z7wajft --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDxverRuPV1uiboMB0UOtBAvvY2GQlUNytkBFP8yFoGcib1AG9ZblBibRfrcOf3A41vOwUlESP2ydLqHJHGwpBUV9hLWhCiazYInXk/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw:prompt-0002",
+    "source_metadata": {
+      "article_index": 13,
+      "article_title": "Vol.319-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785195029,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd",
+    "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

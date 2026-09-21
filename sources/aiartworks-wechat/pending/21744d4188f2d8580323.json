@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Yr4IeCA9u0ASnyl8m-3035b53587b6",
+  "fingerprint": "3594fea78b42a6bc673e27679492c03462c694fcbd5a032dab7fd1aece7b3240",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "style": "raw",
+    "v": "6.1"
+  },
+  "prompt": "The cute little donkey is wearing a small suit and standing on the soft ground with a bow tie around his neck. --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g:prompt-0009",
+    "source_metadata": {
+      "article_index": 271,
+      "article_title": "Vol.71 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1735357807,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0",
+    "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g:prompt-0009",
+  "status": "pending",
+  "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 10"
+}

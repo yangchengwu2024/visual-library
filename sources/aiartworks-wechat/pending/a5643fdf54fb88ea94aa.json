@@ -1,0 +1,59 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KEAVG-vU3djzInFhs-81ab255b27b3",
+  "fingerprint": "14322a7f29419d387cc65457d0d9d3d5677ca1190b58c127e7e0ac5e283ad39b",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.2",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "8tnwj6x",
+    "stylize": "0",
+    "v": "8.2"
+  },
+  "prompt": "A surreal, dreamlike scene of human figures endlessly duplicated in dense, flowing patterns, as if reality is looping and over rendering the same people. Figures shift and slide in waves with slight delays between copies, creating a rippling assembly line motion bodies march but never progress. Faces blink out of sync, heads lag behind bodies, and rows drift horizontally and vertically like a malfunctioning playback buffer. Copies stretch, compress, and realign in slow hypnotic motion, as though the scene breathes. Minimal, flat environment emphasizes artificiality. Styled as surreal retro futurism with analog degradation: visible grain, soft blur, scanlines, color drift, and temporal smearing between frames. Movement is continuous and dreamlike calm yet unsettling evoking identity loss, social replication, and being trapped in an endlessly repeating moment that refuses to resolve. --ar 9:16 --profile 8tnwj6x --stylize 0 --v 8.2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg:prompt-0012",
+    "source_metadata": {
+      "article_index": 6,
+      "article_title": "Vol.326-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1787268652,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511000&idx=1&sn=45e8026860fdb612e7bb4e0f895dab1d&chksm=969916e5fae8af973427766a8b77bbe6338927a55bce531c7dc61d3d34499e63ec2d5c53939f#rd",
+    "title": "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511000&idx=1&sn=45e8026860fdb612e7bb4e0f895dab1d&chksm=969916e5fae8af973427766a8b77bbe6338927a55bce531c7dc61d3d34499e63ec2d5c53939f#rd"
+  },
+  "source_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg:prompt-0012",
+  "status": "pending",
+  "title": "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 13"
+}

@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5UeedqO1Kmj1Nq42MuWIJufnKvkp0hOLo7nq1ZsA8JMbQdib4UsF6APw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KMP2NndJyggu4IYbf-b67328345938",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5c91f1ab291219cd025547d39bd344f7183b867b5c37a6846b0a742a57c4461b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2"
+  },
+  "previous_version": null,
+  "prompt": "Pink bunny, furry, slightly open mouth, smile, wearing blue hoodie, sunglasses with letter X on the lens, open white shirt, well-proportioned figure, realistic style, very rich details, 3D, real, delicate, --ar 1:2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5UeedqO1Kmj1Nq42MuWIJufnKvkp0hOLo7nq1ZsA8JMbQdib4UsF6APw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA:prompt-0000",
+    "source_metadata": {
+      "article_index": 104,
+      "article_title": "Vol.225 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751239870,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd",
+    "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

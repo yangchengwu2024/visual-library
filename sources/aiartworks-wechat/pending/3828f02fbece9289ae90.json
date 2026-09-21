@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BUPMtK-JZ-r-Y37aX-002aa7fd96f5",
+  "fingerprint": "482d33f2186987cebdad0c746aa590739b894a9c95ed82fa5ccd2259a9d714ad",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "prompt": "lionfish/human hybrid male. attractive, masculine features and fluted ears that look like fins. scaled chest and neck. hyper-realistic fantasy character art, illustration --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 172,
+      "article_title": "Vol.160 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744857016,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+    "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0008",
+  "status": "pending",
+  "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

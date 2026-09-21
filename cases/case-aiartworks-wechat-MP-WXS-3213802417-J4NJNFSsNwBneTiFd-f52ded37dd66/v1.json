@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedia9lUkCNrMoTMRrMiasFHSTHYgUt58EtxCkM4JhHKVCaHuicbsJtKSznLmkI3yqqCSGUBV08SBHFQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-J4NJNFSsNwBneTiFd-f52ded37dd66",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "607d328bb7f8bb17fda4c3763f5a6f019bd4f8e1370393a552ddd6fc482c3c61",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic action-oriented photograph of a woman playing tennis. She is in motion, captured from the side as they swing a tennis racket.She wearing a white simple top and off-white tennis small and fine pleated skirt and a green baseball cap . Her hair is long, brown, and styled in loose waves, appearing to be in motion with the swing. The background is a blurry mix of dark shadows and sunlight filtering through trees. The sunlight illuminates the subject and their hair, highlighting their form against the dark background. motion low --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedia9lUkCNrMoTMRrMiasFHSTHYgUt58EtxCkM4JhHKVCaHuicbsJtKSznLmkI3yqqCSGUBV08SBHFQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw:prompt-0008",
+    "source_metadata": {
+      "article_index": 66,
+      "article_title": "Vol.265 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759275078,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0",
+    "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

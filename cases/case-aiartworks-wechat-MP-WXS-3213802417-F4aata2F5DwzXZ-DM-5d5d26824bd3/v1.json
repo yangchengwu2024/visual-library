@@ -1,0 +1,79 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQG9SFG7vytanlZibXzQBfPKlbOQPHtU0YKPiaicBf9u7Jibfbvh0J3sia2VA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQkuQ9XbeiavicuYwtwVWekAC3w5ialDjicUE5cXAWicdj3AxRVMXV85zzl7A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-5d5d26824bd3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ed69045df906ea324911d8f8376c82117b6b4fa04e76511bda4f48c83aec878e",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "50",
+    "profile": "17qkmu2",
+    "raw": true,
+    "sref": [
+      "3779990045"
+    ],
+    "stylize": "1000",
+    "sv": "4",
+    "sw": "100"
+  },
+  "previous_version": null,
+  "prompt": "a white cat wearing an open white shirt and blue beret is sitting in front of the camera, reading a newspaper. the image was shot on fujifilm pro400h film stock. --chaos 50 --raw --sref 3779990045 --profile 17qkmu2 --sv 4 --sw 100 --stylize 1000",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQG9SFG7vytanlZibXzQBfPKlbOQPHtU0YKPiaicBf9u7Jibfbvh0J3sia2VA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQkuQ9XbeiavicuYwtwVWekAC3w5ialDjicUE5cXAWicdj3AxRVMXV85zzl7A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg:prompt-0012",
+    "source_metadata": {
+      "article_index": 80,
+      "article_title": "Vol.251 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1756423847,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0",
+    "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

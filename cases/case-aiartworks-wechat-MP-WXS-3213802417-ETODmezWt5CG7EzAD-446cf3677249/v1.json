@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOIMwgwQA6fJmhcTiavuRnjq1xfic2enWOkBc03bEdibMzTOJFnoJhqJlPQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ETODmezWt5CG7EzAD-446cf3677249",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eb8b577aae7d7095e11058364d697d3bde8c3c9146423ae62c124f1e0c93b832",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "47:64"
+  },
+  "previous_version": null,
+  "prompt": "japanese movie poster of the film \"the man who\". the title is written in japanese characters on a white background. a middle-aged man wearing a black suit and smoking a cigarette stands in front of the camera. the image is in black and white, in the style of yoji shinkawa. --ar 47:64",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOIMwgwQA6fJmhcTiavuRnjq1xfic2enWOkBc03bEdibMzTOJFnoJhqJlPQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA:prompt-0005",
+    "source_metadata": {
+      "article_index": 46,
+      "article_title": "Vol.286 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763508615,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd",
+    "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

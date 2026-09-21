@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4b7s759QoApNyxSCsb2ic1jG31wib9kyTZFn8PZv5gnRpuH9wlYqQCN5aw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hbX1OubEmN7alYRjN-33561c7bd30a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b12f5af84c181ea8e69a0a71a2d831122104b84d8fed15a8b7771485bf516420",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A black cloaked elven man rides on the back of an elk with long antlers, surrounded by crows in the style of Isabelle Arsenault. --ar 2:3 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4b7s759QoApNyxSCsb2ic1jG31wib9kyTZFn8PZv5gnRpuH9wlYqQCN5aw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA:prompt-0017",
+    "source_metadata": {
+      "article_index": 164,
+      "article_title": "Vol.167 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745548538,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0",
+    "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

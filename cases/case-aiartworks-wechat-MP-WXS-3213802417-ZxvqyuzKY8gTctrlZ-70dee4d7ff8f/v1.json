@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDuLUWWILiaVv0NPTkOs5OBg7vYkCrG1M6hD4sic52U05oLOWz4Wibia5ZbQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDfHXbqiao8s0lRyCGicG0sKQh5ZGrG4zf6Bicev1CSdVz346rBXf5TicHVA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZxvqyuzKY8gTctrlZ-70dee4d7ff8f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0df5089e8ed19afe03e866ce21a6aaffb71ed83269e2b8cd8d5b4f8dc7a5ff00",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "style": "raw",
+    "stylize": "500",
+    "v": "6.1",
+    "weird": "300"
+  },
+  "previous_version": null,
+  "prompt": "A dark person standing at the very bottom center of the frame, facing away from the viewer, at the edge of a volcanic crater, a gigantic whale floating above the crater, its massive body slowly navigating the sky above the volcanic pit, the landscape is barren and desolate, with dark volcanic rocks and ash, soft natural sunlight illuminating the scene, calm and serene atmosphere, pastel red, orange, and muted gray tones, minimal and clean background, photorealistic, ultra-realistic, cinematic lighting, symmetrical composition, no lens distortion, shot on ARRI Alexa with 135mm lens, a raw realistic photo, UHD, 8K --chaos 10 --ar 3:4 --style raw --stylize 500 --weird 300 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDuLUWWILiaVv0NPTkOs5OBg7vYkCrG1M6hD4sic52U05oLOWz4Wibia5ZbQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWDfHXbqiao8s0lRyCGicG0sKQh5ZGrG4zf6Bicev1CSdVz346rBXf5TicHVA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 333,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.15",
+      "association_confidence": "review",
+      "createTime": 1729737668,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 1",
+  "version": "v1"
+}

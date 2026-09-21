@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-669e691e94ca",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnIC3DloPlAOpKz3A2ib1JeVGWCoQggGMWwTbSygqm1jeCOUas4B8Jsszw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q:prompt-0004",
+      "source_metadata": {
+        "article_index": 249,
+        "article_title": "Vol.92 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1737513108,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 4,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0",
+      "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 5",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "title_aliases": [
+    "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 5"
+  ]
+}

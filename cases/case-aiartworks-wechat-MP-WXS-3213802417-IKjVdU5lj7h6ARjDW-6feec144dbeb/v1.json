@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJfR6udmW0ib1Jw1bm1bAKUtUicWgKCwSet8b84FMB0nwcJxVQjrsk0XTg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAEvPsUoBaC3JFTR5OibezUwZFYzHkNicLZVVYd3pVeeAkEicLibDMH0wdEg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKjVdU5lj7h6ARjDW-6feec144dbeb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "de7331b9716f951f86814d992932d6673cee44b56a8fa70e6114b39b238c74cc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true,
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "an installation art style, with cod as the main shape. It is densely wrapped and woven with colored fibers (yarn, rope), simulating the visual effect of \"marine garbage (fishing nets) wrapping organisms\". The colors are mainly warm tones: orange red, pink purple, and light yellow are interwoven, with local accents of dark fiber reinforced layers; The shape of the fish is clear, with a disordered fiber texture that fits the structure of the fish body. The fish eyes are highlighted with deep purple to highlight details; The background is pure black, highlighting the texture and color contrast of the subject; The overall transmission of the environmental theme of \"marine pollution restraining organisms\" is soft in texture but with a suppressed sense of restraint, featuring ultra realistic fiber texture, artistic installation texture, and high-definition details.; Incorporating internet inspired sentence structures into the copy, such as \"# If [related elements, such as cooling down] have value protection, it would be great\", accompanied by pinyin annotations (such as \"NuanGuoHaoJia\"); The bottom is labeled with the brand \"JD Supermarket\" and promotional information \"Price Protection 11.11, No Matter How You Buy, Rest Assured\". The border is decorated with repeated pinyin and five pointed stars, with an overall style of retro trend and online promotion. The color contrast is vivid (blue background+warm yellow food frame), with rich details and a high-quality commercial poster. --ar 2:3 --raw --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJfR6udmW0ib1Jw1bm1bAKUtUicWgKCwSet8b84FMB0nwcJxVQjrsk0XTg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAEvPsUoBaC3JFTR5OibezUwZFYzHkNicLZVVYd3pVeeAkEicLibDMH0wdEg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA:prompt-0004",
+    "source_metadata": {
+      "article_index": 59,
+      "article_title": "Vol.272 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760657416,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 4,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+    "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

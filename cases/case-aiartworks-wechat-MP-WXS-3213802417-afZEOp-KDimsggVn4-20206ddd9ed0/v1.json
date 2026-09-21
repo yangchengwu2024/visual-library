@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYHV3PrBA3Y7OY06ouJFNU4KNOQsvCWuahg65vxblCZkgibd0Sf3Mpbcw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-afZEOp-KDimsggVn4-20206ddd9ed0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8bc50df42fd3d4a798eee1d41e041f6a1ba8f1f90dcb4029d39d3ed6c490e6b8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "60",
+    "profile": "gy4v17a",
+    "raw": true,
+    "sref": [
+      "1746212544::2",
+      "3799527541"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "Close up shot of Superwoman with blonde flowing hair bursting through clouds, flying dynamically across epic sky towards metropolis in the distant horizon --ar 9:16 --exp 60 --raw --sref 1746212544::2 3799527541 --profile gy4v17a 2xcbcn9",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYHV3PrBA3Y7OY06ouJFNU4KNOQsvCWuahg65vxblCZkgibd0Sf3Mpbcw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 67,
+      "article_title": "Vol.264 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759102216,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd",
+    "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

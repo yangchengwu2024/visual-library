@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpFqcXNcXEM5tTxpvaAafiaTzURJQiaBEzn1UaWM68FuK82mr3am7icOfgw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-M6dSEdRbj3nNPJ6vr-c2d62fede339",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f3e8237af19786a3a11bb6acd4bbc148bef3a3b3e0916142a96fca1d197d0340",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "97:128",
+    "chaos": "20",
+    "style": "raw",
+    "stylize": "150",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Black and white photography of a dramatic sky over the moors in Yorkshire, a tree on the horizon with an empty road leading to it, ominous storm clouds, photorealistic, award-winning photography, epic, cinematic. --chaos 20 --ar 97:128 --style raw --stylize 150 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpFqcXNcXEM5tTxpvaAafiaTzURJQiaBEzn1UaWM68FuK82mr3am7icOfgw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 207,
+      "article_title": "Vol.132 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741919433,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+    "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

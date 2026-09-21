@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8hNiclC4uC4E96BxCbSVuQu9FnQOMQGoPCGK0RtstV0ypw3CMsWXhcByy50uH49056ibyLicODavHg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6KF1s--rIzB5GIuM1-bc5eb1d1a680",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "770028ffd1e19fbe8cd45ae83c4a8141c2df4d2556720535a2c90be2596af5b8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "71:128"
+  },
+  "previous_version": null,
+  "prompt": "Black and white photography of an Asian woman riding quickly on her bicycle in the streets, city portraits, blurry background, fashionable poses. The woman is wearing a coat with long sleeves, and has black hair. --ar 71:128",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8hNiclC4uC4E96BxCbSVuQu9FnQOMQGoPCGK0RtstV0ypw3CMsWXhcByy50uH49056ibyLicODavHg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ:prompt-0002",
+    "source_metadata": {
+      "article_index": 302,
+      "article_title": "Vol.44 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732701649,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488206&idx=1&sn=f7b06433662be8b1744e604d538b6d14&scene=58&subscene=0",
+    "title": "Vol.44 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488206&idx=1&sn=f7b06433662be8b1744e604d538b6d14&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.44 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

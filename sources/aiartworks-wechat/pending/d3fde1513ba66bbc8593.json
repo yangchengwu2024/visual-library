@@ -1,0 +1,72 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N30sGqNyJxLHBoa5j-4ede6ab3ec38",
+  "fingerprint": "4afc2b9ed6b13fc5f9abd0b0bb8bdf7657ed5e247367895e5e37871a8fda814f",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/kt-1YnIsLVk",
+      "https://s.mj.run/UtOkULLycBo",
+      "https://s.mj.run/Ch2giOELXIE",
+      "https://s.mj.run/XZ5MjWVNwyM",
+      "https://s.mj.run/ohyKfHaEe2U",
+      "https://s.mj.run/4yxBIs5XPm4",
+      "https://s.mj.run/3tdKvb1R3zg",
+      "https://s.mj.run/cs3809C1ieI",
+      "https://s.mj.run/l4onl4PQcF4",
+      "https://s.mj.run/OzfKs1ASyd8",
+      "https://s.mj.run/NOBcpXOhceU"
+    ],
+    "v": "7"
+  },
+  "prompt": "https://s.mj.run/1gC2S6u9-K0 https://s.mj.run/3tdKvb1R3zg https://s.mj.run/7qO0rqLS3og https://s.mj.run/vvbFX9pbCyQ Psychedelic cartoon minimal Central Park poster illustration, cartton, central park, forests, meadows, fountains, lakes and other bodies of water,bridgesm, happy flowers, detailed, flat colors, black line, 80s, hippie poster, trees, plants, flowers, NY central park building in the back, Darling building NYC, winner festival poster, minimal, graphic design --chaos 15 --ar 9:16 --raw --sref https://s.mj.run/kt-1YnIsLVk https://s.mj.run/UtOkULLycBo https://s.mj.run/Ch2giOELXIE https://s.mj.run/XZ5MjWVNwyM https://s.mj.run/ohyKfHaEe2U https://s.mj.run/4yxBIs5XPm4 https://s.mj.run/3tdKvb1R3zg https://s.mj.run/cs3809C1ieI https://s.mj.run/l4onl4PQcF4 https://s.mj.run/OzfKs1ASyd8 https://s.mj.run/NOBcpXOhceU --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw:prompt-0016",
+    "source_metadata": {
+      "article_index": 116,
+      "article_title": "Vol.212 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1749952875,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0",
+    "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw:prompt-0016",
+  "status": "pending",
+  "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 17"
+}

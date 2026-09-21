@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:33+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheuXHrHGhhMA4nadvUNQ0bbK4o3SkjEJ7JibYia0rTHL0rmnlHI81XMdPR3nopO84fcuVAhNGE9aNmQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1704XfFBQoPnUx-1O-6607caf5cb89",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eaa49f206206818fff024e4d42e2a0991dabcc2629e0b7ed57fbf14934b07894",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "750",
+    "v": "6."
+  },
+  "previous_version": null,
+  "prompt": "A rectangular gold pin with a green border, featuring an illustration of people in traditional costumes dancing and singing during the Mid-Autumn Festival in ancient China. In the style of manga anime. --ar 3:4 --stylize 750 --v 6.",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheuXHrHGhhMA4nadvUNQ0bbK4o3SkjEJ7JibYia0rTHL0rmnlHI81XMdPR3nopO84fcuVAhNGE9aNmQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg:prompt-0017",
+    "source_metadata": {
+      "article_index": 325,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.22",
+      "association_confidence": "high",
+      "createTime": 1730429770,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486263&idx=1&sn=07e011e255fbe560a72ccf999b0d29ce&chksm=96a460948fe00112d0d02f70af52d5086d1d75f956734eb385bf08fe579fb96d7cd6bf67fb6a#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.22 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486263&idx=1&sn=07e011e255fbe560a72ccf999b0d29ce&chksm=96a460948fe00112d0d02f70af52d5086d1d75f956734eb385bf08fe579fb96d7cd6bf67fb6a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.22 · 提示词 18",
+  "version": "v1"
+}

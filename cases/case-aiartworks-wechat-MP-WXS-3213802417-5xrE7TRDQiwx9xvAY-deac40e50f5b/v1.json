@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdbMuiaMZicOITIyfD2ib2PdjXH80jJWFD0icCWgBnQRJz43DdpfebSzBo08YpCpIRC15t7KXEexDyhKQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5xrE7TRDQiwx9xvAY-deac40e50f5b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9cef11759c2bfec8ef077ca20288733c39bee310c5a4b5143e238a4ce6f6537e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "0",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "create a natural looking professional female tennis player, wearing contrast red and white tennis dress, front angle, visualise a outdoors professional tennis match, competition, dutch angle. Returning ball for match point. Natural pose. Realistic in style, contrast, vibrant colours, high-definition. Natural daytime lighting. Realistic athlete, Heroic pose, Dynamic camera movements to enhance the action and tension, shot on Canon EOS R5 camera using a wide-angle lens at an f/8 aperture setting, 2760840309 --ar 3:4 --stylize 0 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdbMuiaMZicOITIyfD2ib2PdjXH80jJWFD0icCWgBnQRJz43DdpfebSzBo08YpCpIRC15t7KXEexDyhKQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA:prompt-0017",
+    "source_metadata": {
+      "article_index": 221,
+      "article_title": "Vol.121 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740796706,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493900&idx=1&sn=71c8864f92dc48fbbda1be5553516289&chksm=9664d9134bc2875afa1911b21ba08acc796ddf32daec8d42017e4f048a4f14628659d1ca2af9#rd",
+    "title": "Vol.121 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493900&idx=1&sn=71c8864f92dc48fbbda1be5553516289&chksm=9664d9134bc2875afa1911b21ba08acc796ddf32daec8d42017e4f048a4f14628659d1ca2af9#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.121 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

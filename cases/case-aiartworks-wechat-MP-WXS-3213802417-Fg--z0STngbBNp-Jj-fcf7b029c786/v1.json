@@ -1,0 +1,84 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcvnxicFyWoB761iak1Nws0ShzEiciaPyx9dsjb6UurDSgBksJzNaxekcSWsu5A3GtGMYAxzvSp8uMxag/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf1wibyKribxlmhicE1VEmicWGYBPKwSraXJ17GSg8jHpbrYdJ0zOPz7Wkg5Movt1jrrGMj57VlZA2qWg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcvnxicFyWoB761iak1Nws0ShayFx6AmVWaVyGFeribH5sGGGJNBfzA7NlZY3j45L3gibcteY1ktDTBHA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Fg--z0STngbBNp-Jj-fcf7b029c786",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "268c23a8364ef63195aacc73870cdca84586ec360cba6aa1259b289ee22dbb6e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "sref": [
+      "3842409974"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "A whimsical oil painting featuring a blond woman with a festive hairstyle wearing a long black dress paired with a wide, colorful skirt designed in the style of black and white piano keys. She is seated at a white piano, Multicolored musical notes and treble clefs float playfully in the background, surrounded by ornate golden patterns and intricate decorative elements inspired by Klimt. The painting showcases bold brushstrokes and textured layers, emphasizing the richness of the oil medium and creating a dynamic, elegant composition. --ar 3:4 --sref 3842409974",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcvnxicFyWoB761iak1Nws0ShzEiciaPyx9dsjb6UurDSgBksJzNaxekcSWsu5A3GtGMYAxzvSp8uMxag/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf1wibyKribxlmhicE1VEmicWGYBPKwSraXJ17GSg8jHpbrYdJ0zOPz7Wkg5Movt1jrrGMj57VlZA2qWg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcvnxicFyWoB761iak1Nws0ShayFx6AmVWaVyGFeribH5sGGGJNBfzA7NlZY3j45L3gibcteY1ktDTBHA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA:prompt-0014",
+    "source_metadata": {
+      "article_index": 43,
+      "article_title": "Vol.289 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1766374852,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 14,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504256&idx=1&sn=3d87cdb5526216052ebbf31610a29091&scene=58&subscene=0",
+    "title": "Vol.289 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504256&idx=1&sn=3d87cdb5526216052ebbf31610a29091&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.289 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

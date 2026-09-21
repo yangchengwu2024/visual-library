@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAV3b1vvHWWj3L98cj810rhernbJez93cbJphKgQk8YB0TkGvx7jsYW7eXWYpwU6HIqXcFc1XCp7oDMicicWZAb8kRRBHFRY5boE/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-a17M2Tzx0-nURnlI4-9d1e42821adb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "de1d614f38e1a6908da34a79239ffb4c2663b413ea23ad5f7385ab979b43d6f4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "hd": true,
+    "profile": "dp7cipt",
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "one cyclists riding up the white sand dune, minimalist composition, blue sky, aerial view, simple and elegant style, capturing moments in time, sharp angles, bold multicolor shapes, minimalism, neon colors, neon aesthetics --chaos 5 --ar 3:4 --profile dp7cipt fpwglq9 n4qri4k --stylize 50 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAV3b1vvHWWj3L98cj810rhernbJez93cbJphKgQk8YB0TkGvx7jsYW7eXWYpwU6HIqXcFc1XCp7oDMicicWZAb8kRRBHFRY5boE/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw:prompt-0011",
+    "source_metadata": {
+      "article_index": 27,
+      "article_title": "Vol.306-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780702463,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_a17M2Tzx0-nURnlI4NYFDw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507323&idx=1&sn=9af232b2c80a7e5e81b9400068e94295&chksm=96f65bb965fb0360110af4de70057515032edbbdbffa3d1974a1e793899de25769c8ee2d7517#rd",
+    "title": "Vol.306-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507323&idx=1&sn=9af232b2c80a7e5e81b9400068e94295&chksm=96f65bb965fb0360110af4de70057515032edbbdbffa3d1974a1e793899de25769c8ee2d7517#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.306-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

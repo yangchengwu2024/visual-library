@@ -1,0 +1,84 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCth7DDTqWu4ypdrZbzteUTU5w2LLKfP6YstgWuQMQiaFOtHZNkdZl9HQxAyX8iacuf6LJEjtv4M3hPk63jm8J7XoYjZ31L2LS4w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCcn7HAKebxete9TGLRIh1TG1fIelf9pka0Mb5hfU7vEWR3QEOK9DDwXx7BfJdhwLYa3bFYNGQqb3h2N9uuzbHtcqwyJNnzDDI/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WARiaNNzHJCfiayZ9o6r9ZGFc7lPx6MBNUrrtUGT9ZTzu3SxO14pGjc0kAwzHWWf71QhGjJb8YvukuRlCurht6Ta5icFGXmibFKGJc/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-799e603c2e12",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4cf12bde292b6c32086bc651b30d96a2d3ce275bb3b52c085e902d5c16117909",
+  "model": "Midjourney",
+  "parameters": {
+    "hd": true,
+    "preview": true,
+    "profile": "s6i7zye",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "cinematic movie a24 horror movie, desaturated, medium eye-level shot shot, in a forest, straight on, three individuals, poised, looking at something strange. on the left, a young female dressed in a red knitted top with a white lace or ruffled collar. in the center, a young female with a cardigan over a white collared shirt,, a young male with dark hair is in a brown a patterned blaze. looking at something strange. shot on arri alexa camera, heavy film grain, directed by robert eggers and wes anderson, color, prefect symmetry, robert eggers, wes anderson. --profile s6i7zye --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCth7DDTqWu4ypdrZbzteUTU5w2LLKfP6YstgWuQMQiaFOtHZNkdZl9HQxAyX8iacuf6LJEjtv4M3hPk63jm8J7XoYjZ31L2LS4w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCcn7HAKebxete9TGLRIh1TG1fIelf9pka0Mb5hfU7vEWR3QEOK9DDwXx7BfJdhwLYa3bFYNGQqb3h2N9uuzbHtcqwyJNnzDDI/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WARiaNNzHJCfiayZ9o6r9ZGFc7lPx6MBNUrrtUGT9ZTzu3SxO14pGjc0kAwzHWWf71QhGjJb8YvukuRlCurht6Ta5icFGXmibFKGJc/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 19,
+      "article_title": "Vol.313-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783294218,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 7,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0",
+    "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 8",
+  "version": "v1"
+}

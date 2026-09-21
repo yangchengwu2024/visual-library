@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2DcSggEicqG2iaIZnEo1h3ic2VItnzsyUFTgNpqo4RBtSUsFMG01Udjnn8TA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Hj4g3xNG8hv0bZuDc-587ca699d91a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "481bf8df28e62765185302bcfb4e82d24a3cfe5cefa6c021404db43b61062db3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "photorealistic smiling beautiful brunette sitting on a beautiful old armchair, naturally holding a book in her hands that she is reading, in the background you can see a room that looks like an old library, realistic four cats of different colors walk around the room, the woman has very natural hands, face, hair --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2DcSggEicqG2iaIZnEo1h3ic2VItnzsyUFTgNpqo4RBtSUsFMG01Udjnn8TA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA:prompt-0003",
+    "source_metadata": {
+      "article_index": 295,
+      "article_title": "Vol.50 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733279408,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488621&idx=1&sn=7d774a7a45345e508641f05e67c6fb55&scene=58&subscene=0",
+    "title": "Vol.50 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488621&idx=1&sn=7d774a7a45345e508641f05e67c6fb55&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.50 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdGJnZh58DR6BZyick1256RApGFbCpQZg2FkYclpYHQrWfSXFZEZCk64b8aBc9yiaqnp9YR24g79pQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rgS7n-aIch9EJEgk7-d32f8f7bd3c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5abadac2054f16d56e1b9cd1ca2fda92ea2503a38c1480103abbca12f402b98e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "High-contrast black and white view of the Colosseum in Rome, captured from a slightly tilted wide-angle perspective, emphasizing its grandeur. The sky is soft with a few light clouds. The Colosseum is partially illuminated by sunlight from above, highlighting detailed ancient stone textures with sharp, expressive shadows. The foreground features wet cobblestones reflecting subtle light and adding texture. Deep blacks, bright whites, and detailed mid-tones create a striking monochrome effect --ar 2:3 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdGJnZh58DR6BZyick1256RApGFbCpQZg2FkYclpYHQrWfSXFZEZCk64b8aBc9yiaqnp9YR24g79pQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 200,
+      "article_title": "Vol.137 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742437846,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495064&idx=1&sn=df36d300bc3acbc407cfefa3a087263a&chksm=968b9432ee7b72e3fd0f18162e7600094e97e77d2929c84bf0dd9f453b748dcfef8880fe5ed5#rd",
+    "title": "Vol.137 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495064&idx=1&sn=df36d300bc3acbc407cfefa3a087263a&chksm=968b9432ee7b72e3fd0f18162e7600094e97e77d2929c84bf0dd9f453b748dcfef8880fe5ed5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.137 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdm7r4mmDarRrH4xTAe917bgqg2ueicy26UssPJic9j13jYbKlAbK2Pajfpx5veDwelEYVsWtRhCa0w/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917b8qmGia68TbKkhuqZw6Q3IYYFs5xQ6gTk0P5XsX1xb9eyRk0vweLGrXQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-p05VXu8AwX-JRPPi--e7a5a3fce2f6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c4fdcaaed86c6153b00b1acce62465efcbc4e7e6c32f56114f27f26ed2a124eb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "143:256",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/tZz3IpXdzPE fast Side-tracking shot of Ornithomimus walking a jungle storm, feet splashing through puddles, feathers soaked, tails slicing for balance as they dart between trees. --ar 143:256 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdm7r4mmDarRrH4xTAe917bgqg2ueicy26UssPJic9j13jYbKlAbK2Pajfpx5veDwelEYVsWtRhCa0w/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdm7r4mmDarRrH4xTAe917b8qmGia68TbKkhuqZw6Q3IYYFs5xQ6gTk0P5XsX1xb9eyRk0vweLGrXQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA:prompt-0009",
+    "source_metadata": {
+      "article_index": 95,
+      "article_title": "Vol.234 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1753054294,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_p05VXu8AwX~JRPPi-bYZPA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499102&idx=1&sn=af36e63b7b805927bffbd106dd51e44d&chksm=961cf822b4a3fd3a24e45fde79720f183018cf9827f0ddaed2f3a3e0e3499556f906c10e0b99#rd",
+    "title": "Vol.234 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499102&idx=1&sn=af36e63b7b805927bffbd106dd51e44d&chksm=961cf822b4a3fd3a24e45fde79720f183018cf9827f0ddaed2f3a3e0e3499556f906c10e0b99#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.234 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

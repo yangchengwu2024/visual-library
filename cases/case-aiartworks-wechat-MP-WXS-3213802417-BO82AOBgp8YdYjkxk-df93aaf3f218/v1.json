@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6RVhopIr7TXamBNpB3nnjvPoRwudK4oHSq6diaGGJZTs6KZ5YyhWyL7w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BO82AOBgp8YdYjkxk-df93aaf3f218",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "827403d9cc7c3d5cb1f622ac3d111ace8d48b3fb92041fe1c5912b2b2702ecf5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "xn6j7th",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Whimsical illustration of a dog wearing a cozy clothes. The dog has a gentle, happy expression as a small bird with perches on its nose, creating a charming and friendly scene. childlike style, illustration chalk art --ar 3:4 --style raw --profile xn6j7th --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6RVhopIr7TXamBNpB3nnjvPoRwudK4oHSq6diaGGJZTs6KZ5YyhWyL7w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw:prompt-0016",
+    "source_metadata": {
+      "article_index": 246,
+      "article_title": "Vol.99 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1738636240,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd",
+    "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

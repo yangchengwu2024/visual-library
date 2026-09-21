@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKQnvfVojtLWMvVfkxkHe0ribJ8ve3xJ0yCZRobxXiamvoeZBunRHyIzsA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-r-lPX-lsALfvkCf0K-2f5352e45d8e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5f4849d88a4152b0f776d2b32c486069f0da1d7282704f7ca64263fe7cea2ff0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "77:200",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "🐰 Protagonist setting: A lively little white rabbit riding a bike The protagonist is a furry white rabbit with a round and plump face and watery big eyes, with a lively and cute expression; It is wearing a pink hooded sweatshirt, adding a fashionable and playful temperament, and making it more approachable; On its face, it opens its mouth and bends its eyes, seemingly greeting or shouting happily, overflowing with joy and freedom. 🚲 Riding prop: lollipop shaped bicycle The little rabbit rides a highly creative colorful lollipop bike, as if the whole bike is made up of candy: The wheels are two large spiral patterned lollipops; The handles and pedals also have a candy texture, colorful and realistic textures; The whole car is full of fairy tale feeling, like a sweet transportation vehicle exclusive to dreams. 🍭 Environment setting: Candy Fantasy World The background is blurry but it can be seen as a candy paradise like scene: Surrounded by lollipops, chocolate balls, frosting, cream and other elements; The colors are soft but bright, mainly warm yellow, pink, orange red, etc., creating a warm and fantastic atmosphere; The light and shadow processing is filled with fairy tale filters, shining brightly under festive lights. 🎨 Style and Visual Representation Style positioning: Cartoon realistic+dreamy dessert style; Detail texture: The hair of the little rabbit, the suede of the hoodie, the rotating candy pattern of the lollipop, and the glossy reflection are all processed very finely; Emotions and movements are natural and dynamic, with a strong visual affinity; Color application: Using a high saturation candy color scheme to create a happy, relaxed, and cheerful visual mood; Clear foreground, soft background, highlighting the dynamic character. ✨ Emotions and Theme Expression Core emotions: happiness, freedom, innocence, sweetness; Theme meaning: The little rabbit symbolizes innocence and vitality, and the setting of riding a candy cart reinforces the theme of \"sweet childhood\" or \"dream world\"; It can be associated with narrative backgrounds such as \"Worry Free Childhood\", \"Fantasy World Adventure\", and \"Holiday Candy Journey\"; Suitable for children's content, festival decoration, or warm brand visuals. --ar 77:200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKQnvfVojtLWMvVfkxkHe0ribJ8ve3xJ0yCZRobxXiamvoeZBunRHyIzsA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw:prompt-0009",
+    "source_metadata": {
+      "article_index": 189,
+      "article_title": "Vol.145 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743388259,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495385&idx=1&sn=0b265f092cc64274b55fc7572be03c49&chksm=968cba28db8951d815bb87656228e689827d384ed318150c0f852e240c677079855dda24cb0a#rd",
+    "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495385&idx=1&sn=0b265f092cc64274b55fc7572be03c49&chksm=968cba28db8951d815bb87656228e689827d384ed318150c0f852e240c677079855dda24cb0a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheKsEqDz77wbTf8yiagcZ6OgLlYtkRH8RxtAgqnXrtx52OTPlj2C5OUu71glJicSoKRMr9LL5IkGAxA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pS7V5JFZCpnwBDSQx-ed435dc811b1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ad92a5aef5b51e0960b53885356d37d3247c20d895ce7dd68c9d10b4d26980d2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "sref": [
+      "https://s.mj.run/l9iQnSo1KuM"
+    ],
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/zdOSM7OCaec A young elephant, now with a long, majestic trunk, stands under a canopy of glowing marihuana trees. The air around the elephant sparkles with magic, as soft beams of light wrap around the trunk, signifying its mystical transformation. The scene exudes a sense of wonder, with an ethereal glow and dreamlike details, capturing the magical essence of Kipling's world. --ar 9:16 --sref https://s.mj.run/l9iQnSo1KuM --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheKsEqDz77wbTf8yiagcZ6OgLlYtkRH8RxtAgqnXrtx52OTPlj2C5OUu71glJicSoKRMr9LL5IkGAxA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA:prompt-0017",
+    "source_metadata": {
+      "article_index": 178,
+      "article_title": "Vol.154 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744252250,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd",
+    "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

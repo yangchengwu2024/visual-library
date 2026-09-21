@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcJquwaUdjohZffErfdew9jYJlymm7f1nCZpS8RRSPBN164nX721cyEWcbXjMTvkDibTxn0vhLaib0A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-A04c-B-t-Cvn4yKtO-091ab043f485",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fb1e5f8852dd68550ccc1e824c60b029ca66ae4be161348d8ec4dd808d658cca",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A wild rodeo spectacle inside a massive stadium, packed with thousands of screaming fans under bright floodlights. Instead of a bucking bronco, a gigantic, tough-skinned toad stomps across the field, kicking up chunks of turn as it tries to throw off its rider. The cowboy? A filthy, scruffy, covered in dirt and sweat, with a plaid shirt, ripped jeans, and muddy yeezy boots. His unkempt beard drips with beer, he grips the toad’s back with one hand and wildly swings a half-empty beer bottle in the other The massive stadium crowd goes absolutely berserk, waving flags, foam fingers, and chugging beer, while giant LED screens zoom in on the madness. in cinematic, high-energy, ultra-detailed style. --chaos 15 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcJquwaUdjohZffErfdew9jYJlymm7f1nCZpS8RRSPBN164nX721cyEWcbXjMTvkDibTxn0vhLaib0A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw:prompt-0007",
+    "source_metadata": {
+      "article_index": 151,
+      "article_title": "Vol.178 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746671453,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496659&idx=1&sn=da7497c0ce2ea21445e19701364ce359&scene=58&subscene=0",
+    "title": "Vol.178 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496659&idx=1&sn=da7497c0ce2ea21445e19701364ce359&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.178 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

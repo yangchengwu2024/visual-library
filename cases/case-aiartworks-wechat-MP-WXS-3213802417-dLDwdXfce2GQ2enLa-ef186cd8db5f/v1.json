@@ -1,0 +1,80 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDtmB8lbYStpk3icaicIqp4k2ECCK97fz6URiaeVVyXjzZ8xZttuWrNiajgmXU7ic4hB5yAVuLfMiavC7OHt3XjIsaOiaWOTuW2KQetr8/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB105CMADwxdQjj89s9RHbeLStwavibXibJViaicSZNjshT8HUyJBEWPy1zYpmiaMfbMGrWSX6ibia8Lux9vjSEZo3PNzn5bLoYABfSIs/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dLDwdXfce2GQ2enLa-ef186cd8db5f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "815b1ce1a5d83fbd5a4cbfae44cc5371e875a20ff2db7fa4fe5a60d735ec4b01",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "hd": true,
+    "profile": "at5lqfr",
+    "raw": true,
+    "sref": [
+      "6531962495"
+    ],
+    "stylize": "90",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "dancing in a pastel dream, strange garden, soft apocalypse. --chaos 10 --ar 9:16 --raw --sref 6531962495 --profile at5lqfr g485zll 8jr11hw ak5hsxq w5tgviu ifnksq1 --stylize 90 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDtmB8lbYStpk3icaicIqp4k2ECCK97fz6URiaeVVyXjzZ8xZttuWrNiajgmXU7ic4hB5yAVuLfMiavC7OHt3XjIsaOiaWOTuW2KQetr8/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB105CMADwxdQjj89s9RHbeLStwavibXibJViaicSZNjshT8HUyJBEWPy1zYpmiaMfbMGrWSX6ibia8Lux9vjSEZo3PNzn5bLoYABfSIs/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g:prompt-0014",
+    "source_metadata": {
+      "article_index": 21,
+      "article_title": "Vol.311-Midjourney | 6月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1782603024,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 14,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+    "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 15",
+  "version": "v1"
+}

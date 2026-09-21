@@ -1,0 +1,85 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEBraBcehDNFUt15ENR5qlVm0joOPibpFFJtQznLMYSesVZcfbfj3Aw7Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEP2cBQUTwc9FezdwCKed11nzInTxOWFQGyBOOgTiaGUn2gjptic2lzWng/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEL5sFj2TpfZmPLib2fiaspuibav3jR4Hz6kicVgGKPuwkFI1lu9MW7uzASA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iMBZT2HTCWHpbTWP9-77244273eb3f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8ee06b05bbf84d339c1efddf604409d293a14d337c36a31be15073f0818ea69e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "chaos": "5",
+    "profile": "la89oqa",
+    "stylize": "0",
+    "weird": "200"
+  },
+  "previous_version": null,
+  "prompt": "a hyper-realistic digital sculpture of an emotionless woman made from swirling marble, with her hair flowing like liquid white wax and eyes closed in deep focus. the background is dark gray, emphasizing the intricate details of textures on skin and face. this artwork captures emotions as fluid and unsequenced traces. the emptiness of the mind, the lack of facial expression, and the absence of human form. it's a masterpiece that plays with perspective to create depth within the minimalist composition. --chaos 5 --ar 1:1 --profile la89oqa --stylize 0 --weird 200",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEBraBcehDNFUt15ENR5qlVm0joOPibpFFJtQznLMYSesVZcfbfj3Aw7Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEP2cBQUTwc9FezdwCKed11nzInTxOWFQGyBOOgTiaGUn2gjptic2lzWng/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEL5sFj2TpfZmPLib2fiaspuibav3jR4Hz6kicVgGKPuwkFI1lu9MW7uzASA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w:prompt-0012",
+    "source_metadata": {
+      "article_index": 53,
+      "article_title": "Vol.279 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1762154286,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd",
+    "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

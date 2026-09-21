@@ -1,0 +1,65 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-ef8414a1eef6",
+  "fingerprint": "c1b123c506554ba45147de0ca63649ae7740d9697e77e65b9d14044ab408a0e5",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "30",
+    "exp": "30",
+    "hd": true,
+    "profile": "lbffree",
+    "raw": true,
+    "sref": [
+      "2116795492"
+    ],
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "prompt": "A surreal pop-art commercial photography composition with an extreme scale contrast. A gigantic, beautiful young East Asian woman is comfortably resting her chin and hands on top of miniature rolling green hills covered in velvety moss. She is NOT looking at the camera. Her gaze is directed firmly DOWNWARD, looking lovingly at the miniature world below her, with a warm, affectionate smile on her face. Nestled between the green mossy hills directly below her gaze is a magical lake made of glowing, swirling marbled pink liquid. Floating on the pink lake is a tiny wooden sailboat carrying a small, cute white furry rabbit fairy. The background is a flawless, vibrant clear cyan-blue sky. Embedded in the foreground grass are the typography letters \"Oiad\" made of translucent 3D glass. Hyper-realistic, blend of 3D CGI and photorealism, bright studio lighting, vivid highly saturated colors, dreamlike scale contrast --chaos 30 --exp 30 --raw --sref 2116795492 --profile lbffree --stylize 50 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0014",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "prompt_only",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0014",
+  "status": "pending",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 15"
+}

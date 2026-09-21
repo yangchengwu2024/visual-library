@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfjD5dWE8l9FP4odTLfPTqGPgluN6pMWMRoiaWDVqj1pAEx0icvvRGMfZk9Zhj9WAnVzicU2icmZA370Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9TkGTW0K3fN-jV-V--ec49364d43d7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c75dac0d0ecc64ea1b7d3f7b6700443384dc8f3c7ea75494d2bea9ac1604f480",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A flat vector graphic of various colorful shapes and patterns, arranged in an aesthetically pleasing composition with a white background. The design includes geometric stars, circles, triangles, squares, and arches, all in bright colors like pink, blue, yellow, orange, red, green, purple, and gray. Each shape is filled with textured patterns that give it depth and dimension on the white backdrop. This print has bold lines and a modern aesthetic. --ar 9:16 --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfjD5dWE8l9FP4odTLfPTqGPgluN6pMWMRoiaWDVqj1pAEx0icvvRGMfZk9Zhj9WAnVzicU2icmZA370Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA:prompt-0009",
+    "source_metadata": {
+      "article_index": 112,
+      "article_title": "Vol.217 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750375816,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9TkGTW0K3fN~jV-V~Qh9sA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498278&idx=1&sn=490c5e8ca65aa94d1121c1eb5ea319f1&chksm=964bbdc3021977020e48d2721f06095c01196f93cac18bb767d3bece364a5ac9c9188906da9b#rd",
+    "title": "Vol.217 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498278&idx=1&sn=490c5e8ca65aa94d1121c1eb5ea319f1&chksm=964bbdc3021977020e48d2721f06095c01196f93cac18bb767d3bece364a5ac9c9188906da9b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.217 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

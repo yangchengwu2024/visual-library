@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfW1qcbDiaj9nDsc6W0jwo8ej3KnBg9AmNvC17FH3zC3MBAob5WQQckhoO9FDxNLxZffvNic8icqUkSw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-P5A4-tG02a4ozMl6F-960b13a9006b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "24805ebf350be7a4f941f31ceb268cb1fc6cbafe56a27f5c53f9a2ec6f51f998",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "iw": "2",
+    "sref": [
+      "https://s.mj.run/R9Mo_aXpTu0"
+    ],
+    "style": "raw",
+    "stylize": "750",
+    "sw": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/kXrxmAJ7uBw Beautiful realistic light pastel crimson iris on a dark gray background. Light falls beautifully on the petals, transparent petals of delicate and warm iris, glowing inside the bud. Dry pastel. --ar 2:3 --style raw --sref https://s.mj.run/R9Mo_aXpTu0 --sw 1000 --stylize 750 --iw 2 --v 6.1 作者： joehuang_",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfW1qcbDiaj9nDsc6W0jwo8ej3KnBg9AmNvC17FH3zC3MBAob5WQQckhoO9FDxNLxZffvNic8icqUkSw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg:prompt-0008",
+    "source_metadata": {
+      "article_index": 316,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.31",
+      "association_confidence": "high",
+      "createTime": 1731464713,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486942&idx=1&sn=0dd22fc3bfb54a9c282a9b3df19a209f&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.31 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486942&idx=1&sn=0dd22fc3bfb54a9c282a9b3df19a209f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.31 · 提示词 9",
+  "version": "v1"
+}

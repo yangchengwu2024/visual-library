@@ -1,0 +1,85 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WByhdquriauzbhVvsmBicS3xWIRKs3bOvsiaz0946SzWudhZWZSdWNDnlZkBMLOrwOIqibYiaRW13yaswYH5GALuib8aXxic7s8SUBSnQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB8nQuEkiaMd3mFEI3knIhOOvSPibWGYhvqpdkzhqFobpIz9DWLRkI2c7YCK8icLyIPdcDWUx7NS0qrtIIq3P4nricGZNibo6BNuvnE/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBlFyF3X4fawnuD0HftIxILCCcYqNvNfVz3vhez45bz4VFDWs0qmMN0MNnR9S3GTuJS87UNJ8Mp31WYAcjg5PCCsTNgZCSXsIg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-da4f0eae4769",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "66db02832e19aa7d755a8454c0bdcc7e96df1b0916ec7d5622ad93bb09a7f981",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "kiyk1r2",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "hyper realistic, cinematic, Japanese pop art, saturated colour, portrait, female young, funky, fun, medium close up, facing camera, Tokyo gangster, no glasses, big eyes, looks to camera, plain background complementary colour radial fade --ar 9:16 --raw --profile kiyk1r2 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WByhdquriauzbhVvsmBicS3xWIRKs3bOvsiaz0946SzWudhZWZSdWNDnlZkBMLOrwOIqibYiaRW13yaswYH5GALuib8aXxic7s8SUBSnQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB8nQuEkiaMd3mFEI3knIhOOvSPibWGYhvqpdkzhqFobpIz9DWLRkI2c7YCK8icLyIPdcDWUx7NS0qrtIIq3P4nricGZNibo6BNuvnE/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBlFyF3X4fawnuD0HftIxILCCcYqNvNfVz3vhez45bz4VFDWs0qmMN0MNnR9S3GTuJS87UNJ8Mp31WYAcjg5PCCsTNgZCSXsIg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A:prompt-0000",
+    "source_metadata": {
+      "article_index": 32,
+      "article_title": "Vol.301-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1779147050,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0",
+    "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

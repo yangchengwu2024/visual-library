@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OJp2UjHiaw7bictkUNia8FGtSsWUDv2PgNB6yBkuamcQic7ibol2UQMdKaUg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-XrJXIk9OaYRAN6rHJ-32d741ba9d67",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5074d2bda21a36e7ed1147baca6b8ff75f821af1877d67ee5f7657193b37d9eb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "hfl7gwc",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A monumental three-story restaurant building fused with a massive tree, standing alone in the vast golden desert, surrounded by empty sand dunes in every direction. The structure appears as a surreal oasis part modern architecture, part living tree. The bark-like textured facade wraps around glass walls and terraces, while enormous twisting roots anchor the building into the sand. Above, a lush green canopy of real plants creates wide natural shade, forming a living roof. Vines, moss, and flowers cascade down the facade. The fusion of tree and structure feels organic, as if the tree has grown through the building, creating a new wonder of the world. Tiny human figures and camels near the base emphasize the scale. Ultra-realistic, cinematic golden hour lighting, 8K wide shot, calm and majestic atmosphere --ar 3:4 --profile hfl7gwc --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OJp2UjHiaw7bictkUNia8FGtSsWUDv2PgNB6yBkuamcQic7ibol2UQMdKaUg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w:prompt-0005",
+    "source_metadata": {
+      "article_index": 134,
+      "article_title": "Vol.194 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748394094,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd",
+    "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

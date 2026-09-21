@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DCtqstnt3Rs4E4O0h5xQyx8ib9Vjwgc6icNmialD2yWEaANzUGTeDvCPygg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ISTApX-XbK8bn4JFm-f1084cfb8147",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3b36b21516b85accf05fc9f6d90bdbcdf01f719b668c69c566e60944108a2e1f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A revolutionary monochrome fusion where cosmos meets Japanese landscapes through impossible artistic techniques--blending Fujio Akatsuka's playfulness with MARVEL's dynamism in ways only AI can imagine. Tokyo skyscrapers and serene rice fields serve as backdrops where comical Bakabon-style characters interact with cosmic elements through paradoxical perspective shifts. These simplified figures contain intricate impossible details: brush strokes that become 3D optical illusions, hatching that transforms into recursive fractals, and ink splashes that defy visual logic by appearing both solid and transparent simultaneously. The artwork's borders seem to fold inward like paper origami while also expanding outward into infinity. Traditional sumi-e techniques blend seamlessly with mathematical precision as clouds morph into perfectly geometric patterns while maintaining their organic essence. Bold linework breaks unexpectedly into finger-painting textures, creating M.C. Escher-like transitions between detailed manga panels and loose gestural brushwork. Impossible lighting casts shadows that create secondary narratives within the main composition. Background elements include familiar Japanese landmarks rendered through contradictory artistic methods--Mt. Fuji constructed from thousands of tiny recursive characters, city streets that become optical illusions when viewed differently, and shrine gates that appear hand-drawn yet mathematically perfect. Speech bubbles contain text that changes meaning when viewed upside-down. The entire piece operates simultaneously as cartoon, fine art, mathematical diagram, and optical illusion--a singular monochrome vision that could only exist through AI's ability to harmonize contradictory artistic disciplines into one coherent visual, --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DCtqstnt3Rs4E4O0h5xQyx8ib9Vjwgc6icNmialD2yWEaANzUGTeDvCPygg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg:prompt-0011",
+    "source_metadata": {
+      "article_index": 156,
+      "article_title": "Vol.174 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746239438,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496456&idx=1&sn=73d041b61f478caa8c313f613d67955e&chksm=969a4593ae4e94149c3101c7bd6a075feebaedc184b7c250f49bd762e50fe5e68b7d46901db4#rd",
+    "title": "Vol.174 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496456&idx=1&sn=73d041b61f478caa8c313f613d67955e&chksm=969a4593ae4e94149c3101c7bd6a075feebaedc184b7c250f49bd762e50fe5e68b7d46901db4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.174 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

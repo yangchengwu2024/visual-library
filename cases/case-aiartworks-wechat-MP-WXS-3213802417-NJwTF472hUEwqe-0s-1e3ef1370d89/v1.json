@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdDqmG0kyiaNOcekJgE13mia8HGcqBYvC98FaibE8FGM6WK6PwVPJ1icYmTwKOk2GKy2UT8tJAJw7UJlw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NJwTF472hUEwqe-0s-1e3ef1370d89",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "49c7053a92ca5d57db0bda7fa6466d49dd71dc9c8521814a91ef577b75e9923b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "cinematic shot of a colossal steampunk dragon's head made of brass and rusted iron, intricate gears and pipes visible. One glowing orange eye sheds a single, perfect teardrop containing a swirling miniature nebula. The tear is about to fall from eye on cracked, barren earth where a tiny, vibrant green sprout is growing. Background is a post-apocalyptic city skyline at sunrise, epic volumetric lighting, god rays piercing through fog. Hyper-detailed, 8K, octane render, emotional, masterpiece, trending on ArtStation. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdDqmG0kyiaNOcekJgE13mia8HGcqBYvC98FaibE8FGM6WK6PwVPJ1icYmTwKOk2GKy2UT8tJAJw7UJlw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg:prompt-0000",
+    "source_metadata": {
+      "article_index": 83,
+      "article_title": "Vol.248 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755819018,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499848&idx=1&sn=8e0e2e1718c7a33d6ba3c5a8e36e172a&chksm=96067f19bd2dbd200ce5db64e55300fd1b04595632fcf40047ff560160a41fc7e225de99dfaa#rd",
+    "title": "Vol.248 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499848&idx=1&sn=8e0e2e1718c7a33d6ba3c5a8e36e172a&chksm=96067f19bd2dbd200ce5db64e55300fd1b04595632fcf40047ff560160a41fc7e225de99dfaa#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.248 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

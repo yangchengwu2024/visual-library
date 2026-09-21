@@ -1,0 +1,63 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Jjwfe1--URH3vHbfS-c771fea54eb8",
+  "fingerprint": "9a3eadbf155e99677b25ca9f4878e5d74c3da2628f7bd56638c95c7f59edfeaf",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "hd": true,
+    "profile": "sgjilei",
+    "raw": true,
+    "stylize": "50",
+    "v": "8.1",
+    "weird": "4"
+  },
+  "prompt": "Paper-cut art diorama of a smiling man in a striped sweater and a spotted dog. Hand-painted watercolor and pen ink style. Standing on weathered wood. Surrounded by detailed paper cutouts of ferns, daisies, wildflowers, and a butterfly. Soft, warm-lit green forest background. Clear tactile edges of paper figures. High detail, whimsical, and natural lighting. --chaos 5 --ar 3:4 --raw --profile sgjilei --stylize 50 --weird 4 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Jjwfe1--URH3vHbfSIoCIw:prompt-0003",
+    "source_metadata": {
+      "article_index": 36,
+      "article_title": "Vol.296 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1777518044,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Jjwfe1--URH3vHbfSIoCIw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505063&idx=1&sn=f318c904a7d40e2a87fcbe0e64fce323&chksm=9640404f61d8c0a06cb21e50d8dff2f74aa7518039497a33f28cf13226e340359c3e29b4159d#rd",
+    "title": "Vol.296 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505063&idx=1&sn=f318c904a7d40e2a87fcbe0e64fce323&chksm=9640404f61d8c0a06cb21e50d8dff2f74aa7518039497a33f28cf13226e340359c3e29b4159d#rd"
+  },
+  "source_id": "MP_WXS_3213802417_Jjwfe1--URH3vHbfSIoCIw:prompt-0003",
+  "status": "pending",
+  "title": "Vol.296 - Midjourney | 精选作品关键词提示 · 提示词 4"
+}

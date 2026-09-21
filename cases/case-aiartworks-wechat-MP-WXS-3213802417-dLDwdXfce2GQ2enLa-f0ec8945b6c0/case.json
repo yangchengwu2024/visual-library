@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dLDwdXfce2GQ2enLa-f0ec8945b6c0",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA0j7O8UY1S34aAt4L3yUxrcmpZ8YEuNgSicuevuQlARRVTgrfIKBSgWoJickERa2sGDCmuMHYicvz6l86UD8RyZoWuoW47rxu2AA/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g:prompt-0008",
+      "source_metadata": {
+        "article_index": 21,
+        "article_title": "Vol.311-Midjourney | 6月官网热刷作品盘点",
+        "association_confidence": "review",
+        "createTime": 1782603024,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 8,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+      "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 9",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 9",
+  "title_aliases": [
+    "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 9"
+  ]
+}

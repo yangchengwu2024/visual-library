@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdsiaTx9t0Gj4fkCmtsnAZ5M8GxzCARuVFtDN5w3UJd0FDHbONqJwUibktJEia5UJxFJhgAiatNaC76UA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1kPH3i3OjU69RAX2B-8265b043479b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "de518f521f9d32f1fc8a4eb783cfd7442ef2797c767879c8b913a208ef4009e4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Ultra-detistic photograph of a pure white Polish eagle, symbolizing Poland’s national pride, rendered in immaculate snowy-white plumage with zero color variation. The eagle stands regally atop a rocky outcrop, wings fully extended in a powerful, symmetrical pose, every feather flawlessly white--from its razor-sharp talons to its ivory-white beak and pale, piercing ice-blue eyes. Background features a stormy sky transitioning into bold, abstract waves of crimson red and stark white, mirroring the Polish flag’s colors, with dramatic chiaroscuro lighting to accentuate the eagle’s ghostly whiteness. Sunlight breaks through clouds, casting ethereal glows on the eagle’s feathers, creating a halo effect. Extreme detail in texture: individual feathers, subtle wind currents, and dewdrops on its plumage. Low-angle shot for monumental scale, 8K resolution, hyper-realistic shadows, and a grainy matte finish for timeless gravitas. Style: Mythic realism blending national symbolism with Arctic purity--untouched, sovereign, and divine. --ar 9:16 --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdsiaTx9t0Gj4fkCmtsnAZ5M8GxzCARuVFtDN5w3UJd0FDHbONqJwUibktJEia5UJxFJhgAiatNaC76UA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www:prompt-0005",
+    "source_metadata": {
+      "article_index": 238,
+      "article_title": "Vol.106 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739327415,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492972&idx=1&sn=fb2f7e7a64e5b51cb1d8cd9fd4b95b72&scene=58&subscene=0",
+    "title": "Vol.106 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492972&idx=1&sn=fb2f7e7a64e5b51cb1d8cd9fd4b95b72&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.106 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

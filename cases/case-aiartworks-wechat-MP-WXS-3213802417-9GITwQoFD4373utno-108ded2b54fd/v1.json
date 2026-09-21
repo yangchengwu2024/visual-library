@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUxSF3FOBehJxq2IicMOnw9n6c7EGvDAceCwW4Lov4dxNm61J6CclvQhA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9GITwQoFD4373utno-108ded2b54fd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d66cf0e8ed468418fbc75936551110e77161a8c70402e7658c5299678e7e657a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "sref": [
+      "2286453236"
+    ],
+    "stylize": "1000",
+    "sv": "4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A beautiful zombie geisha with red eyes and black hands, wearing an elegant kimono in the style of Japanese horror. She has dark hair styled into two braids that flow down her back. Her face is painted white, as if she is alive but dead. The background features a dense, foggy forest. --ar 9:16 --raw --sref 2286453236 --sv 4 --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUxSF3FOBehJxq2IicMOnw9n6c7EGvDAceCwW4Lov4dxNm61J6CclvQhA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg:prompt-0012",
+    "source_metadata": {
+      "article_index": 159,
+      "article_title": "Vol.171 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745980255,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0",
+    "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

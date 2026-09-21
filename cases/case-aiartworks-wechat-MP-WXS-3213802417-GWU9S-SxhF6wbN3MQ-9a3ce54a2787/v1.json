@@ -1,0 +1,79 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBzyHWn3ZKHrBSdkQdS0nEBDz46mqlQdicPQDxAOsHwagdm6EOda4p1AULThgBiafHibr4AY7ian6slIoz8LPutHaLnaNewamI97ibE/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA38vVriaSgsWnMS3dEWNeTwyN6Q5HjTIeKicY0Z5QgbNNFo1Adgef8Du8eI2wvcSVWeOqTJvpeagdQ7xZfbVOicSYiaia71Pyngcp4/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-9a3ce54a2787",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d2755452e6d3da9f13603e7f3f677783bb0a9165d6c7a2d5312b04689b923c42",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "gjc3smv",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/KeGeQbfHLU0",
+      "https://s.mj.run/EVHQSfbqKTA"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "crea un visual da copertina, un immagine con riflessi gommosi e con della moquette verde, abiti bianchi una una ragazzo alta con una felpa, jeans blu, tiene in una mano uno zainetto, e nell'altra un grande orologio rettangolare rosso, immagine con colori che si abbinano, verde scuro, bianco, e altri, ombre da rendering professionale --ar 9:16 --raw --sref https://s.mj.run/KeGeQbfHLU0 https://s.mj.run/EVHQSfbqKTA --profile gjc3smv --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBzyHWn3ZKHrBSdkQdS0nEBDz46mqlQdicPQDxAOsHwagdm6EOda4p1AULThgBiafHibr4AY7ian6slIoz8LPutHaLnaNewamI97ibE/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA38vVriaSgsWnMS3dEWNeTwyN6Q5HjTIeKicY0Z5QgbNNFo1Adgef8Du8eI2wvcSVWeOqTJvpeagdQ7xZfbVOicSYiaia71Pyngcp4/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0009",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

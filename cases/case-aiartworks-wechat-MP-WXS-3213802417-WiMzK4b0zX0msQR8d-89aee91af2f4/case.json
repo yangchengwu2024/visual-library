@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WiMzK4b0zX0msQR8d-89aee91af2f4",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShctmaiankPXWMShNxHpdeKrvMPiaSfBByc6J0Zx8h1TwtPvExwNJqkBbiaSsXjsEfRR0RQY6L2WaGEPw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpEb8zUQ6RYy90zAUT9tDHot5HRbv0VulXsZogyEjwo0Wibbw7DqvGV3A/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A:prompt-0019",
+      "source_metadata": {
+        "article_index": 203,
+        "article_title": "Vol.135 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1742265063,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 19,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0",
+      "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 20",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "title_aliases": [
+    "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 20"
+  ]
+}

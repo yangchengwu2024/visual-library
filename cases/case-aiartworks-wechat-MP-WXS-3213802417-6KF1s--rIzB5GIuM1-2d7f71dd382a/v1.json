@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD0zL28PJk5N8KibtTnbk7xsQVlSQcWlKhTNXpiaCicEBXXryAUw0eOkSMvA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6KF1s--rIzB5GIuM1-2d7f71dd382a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "71fb4cad8447e5810a4c996ef2d38efe9e2f85185a572575e29738ce01002eae",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "85:128",
+    "chaos": "33",
+    "personalize": "7i9d9fv",
+    "sref": [
+      "https://s.mj.run/_Xg_rX-cNDI",
+      "https://s.mj.run/8JAP9G3jiI8"
+    ],
+    "style": "raw",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "cinematic shot ineffable multidimensional space landscape a mystic is running through lightspeed, ascension chambers of pure enlightenment, surreal futurism, intricate details and setting. Cinematic quality. Hyper-realized scene. Awe-inspiring imagery. Vibrant lighting. Complex scenes with far draw distance, auto focus, depth of field, Ultra-realistic unreal engine, cgi, octane render, highly detailed,in the style of hyper-realistic sci-fi, dynamic analogous chaos, zbrush, photo-realistic techniques, natural vibrant colors, cinematic film, award-winning, strong perspectives from wide angle lenses, ray tracing, high resolution --chaos 33 --ar 85:128 --style raw --sref https://s.mj.run/_Xg_rX-cNDI https://s.mj.run/8JAP9G3jiI8 --personalize 7i9d9fv g1htyiz --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD0zL28PJk5N8KibtTnbk7xsQVlSQcWlKhTNXpiaCicEBXXryAUw0eOkSMvA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ:prompt-0003",
+    "source_metadata": {
+      "article_index": 302,
+      "article_title": "Vol.44 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732701649,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6KF1s~-rIzB5GIuM1UF9dQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488206&idx=1&sn=f7b06433662be8b1744e604d538b6d14&scene=58&subscene=0",
+    "title": "Vol.44 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488206&idx=1&sn=f7b06433662be8b1744e604d538b6d14&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.44 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyINDeTNIbVDUiaN7xO8arazFE9qolVsSzud9nklBklLfKYmxhDda9hbqWOYqN5afHI4ticiaR2yqpw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tAvOB5OKp3grZVuckZWoWA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tAvOB5OKp3grZVuck-46fe69b7cdeb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0697246ac48b1543ea4ad4697092af79055a5f6cb3fd5460453f106ee1cd1748",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/-S9CWXKmi3U 3D light yellow, white, elegant and simple, golden jade carvings, ultra-wide-angle lens, soft lines, smooth lines, Chinese landscape painting of white jade mountains, jade mountains of golden trees, floating clouds, flowing out like streams. Top light, bright, crystal glass texture, simple, solid color background --ar 3:4 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyINDeTNIbVDUiaN7xO8arazFE9qolVsSzud9nklBklLfKYmxhDda9hbqWOYqN5afHI4ticiaR2yqpw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tAvOB5OKp3grZVuckZWoWA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tAvOB5OKp3grZVuckZWoWA:prompt-0003",
+    "source_metadata": {
+      "article_index": 187,
+      "article_title": "Vol.147 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743561069,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tAvOB5OKp3grZVuckZWoWA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495444&idx=1&sn=d6b1801f220d743cede4f95805fe1cc3&chksm=964dd751766a0a204618e45f2101a4ee775ca2a811c0a743d55a6ee5804e5d68416cae0eeabe#rd",
+    "title": "Vol.147 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495444&idx=1&sn=d6b1801f220d743cede4f95805fe1cc3&chksm=964dd751766a0a204618e45f2101a4ee775ca2a811c0a743d55a6ee5804e5d68416cae0eeabe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.147 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

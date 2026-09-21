@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:21+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef2rTqMw5UWDG51icVqEQwnwDUCNxNyPf2MKwh4cpn5rxtcUYIpIQS7bGzP1vO61WgYAJG281RADw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZSO-xoWZugclm6srk-92d62b7f2a90",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "39dee1283cbaa571ec8018a3f663979353996783571ba3b6a61de906b4e591d3",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Medium format shot of A pink hair wig surrounded by various hair accessories and tools, placed on a purple background with space for text or product images. The composition includes elements like bangs, braided wigs, combs, brushes, hair dryers, star-shaped stickers, small gems, makeup sponges, hair straightener, and hairdryer, all arranged in an aesthetically pleasing manner. This scene creates a visually appealing setting that showcases the beauty of different hairstyles and equipment used to shape them.Award-winning photography, shot by the art director, cinematic shot, minimalism core, ultra mega giga minimalism, minimalismcore --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef2rTqMw5UWDG51icVqEQwnwDUCNxNyPf2MKwh4cpn5rxtcUYIpIQS7bGzP1vO61WgYAJG281RADw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ:prompt-0014",
+    "source_metadata": {
+      "article_index": 253,
+      "article_title": "Vol.89 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1737178476,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZSO-xoWZugclm6srkQ5zSQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491975&idx=1&sn=9e9e6351532407f49dcddad26c3f4772&chksm=9663ef477f998ebd234c34c407db77aebe1d7c20bef55cf1c36806956a61634b632457308150#rd",
+    "title": "Vol.89 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491975&idx=1&sn=9e9e6351532407f49dcddad26c3f4772&chksm=9663ef477f998ebd234c34c407db77aebe1d7c20bef55cf1c36806956a61634b632457308150#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.89 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

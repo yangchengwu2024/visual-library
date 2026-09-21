@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD8bGY35FvcAD1G5eicGAJXKVfRS3ySPo2ibyic3EgJLQK2oibibDhFOQibicTR9PwH4icO8D78sGz29OyprHVjdR9m9vSfo4yGYuxl3V8/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-h1b7tYqh6WAco2R2a-d132fdf9604e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a8d04fa049bc3cbae3a0c6c566ce1d873318ef8287f794c49d34b10e041d1f1d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "profile": "mhwjjdb",
+    "stylize": "400",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/RglMxDC9los https://s.mj.run/wLMp_qiEx9Q a gril with two long-haired white Ragdoll cat,It's a style upgrade to a future interior, and the space is a home office, a living room, where a woman is reading on the couch, drinking coffee --chaos 15 --ar 9:16 --profile mhwjjdb --stylize 400 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD8bGY35FvcAD1G5eicGAJXKVfRS3ySPo2ibyic3EgJLQK2oibibDhFOQibicTR9PwH4icO8D78sGz29OyprHVjdR9m9vSfo4yGYuxl3V8/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA:prompt-0014",
+    "source_metadata": {
+      "article_index": 31,
+      "article_title": "Vol.302-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1779319833,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_h1b7tYqh6WAco2R2arjatA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd",
+    "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506466&idx=1&sn=ae74cdeb623b5ad8afc2b8ec661303a2&chksm=960ac11ea34749fab17b634f94c934ef79ffa55710d5536b067026f67e58beb4256ced4f1f20#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.302-Midjourney 精选作品提示词与赏析 · 提示词 15",
+  "version": "v1"
+}

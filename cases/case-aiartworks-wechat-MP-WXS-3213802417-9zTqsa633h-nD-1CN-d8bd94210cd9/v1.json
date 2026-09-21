@@ -1,0 +1,80 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCqDeQpBnPqBAtpcISSXuWzj3IYQ8mJ8cBe0u7y51x6y38J0nklW2sqy9YjWIibSDWtDMB71pEGDCxz4cJMfyvcGWqDmFt7Cbwk/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDOx5WSk95TcLTAdSZyic0iccbnM9DwglnficOodRl1cKsD5xR2YzD3dOkU4zdtNCHXDEeUksLiaNPUCDUic4dr6NdyktCic5wyib2pnA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-d8bd94210cd9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c66855e58b341374c11b7d695a05f83c0fdcf07b21ee0764aa0908450bc5d72d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/AaJZ1UFi5jE",
+      "https://s.mj.run/i4GhfnsSF1s",
+      "https://s.mj.run/ouhCqswWTzg",
+      "https://s.mj.run/cCT5a6_zrGI"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Dystopian luxury advertising poster, bold red monochrome graphic design, glossy inflatable 3D typography. Central subject: hyper realistic Caucasian female face, slightly angled, uncanny symmetry, flawless skin with visible pores, enhanced cheekbones and lips, sealed in a transparent vacuum packed plastic bag like premium supermarket meat - tight plastic folds, reflections, refractions, condensation, subtle facial distortion from pressure. Cinematic studio fashion lighting mixed with harsh supermarket lighting, hyper real glossy surface reflections. Large inflatable 3D headline: \"RENEW YOUR FACE.\" Disclaimer text: \"results may vary,\" \"aesthetic product only,\" \"not responsible for identity changes,\" \"consumer assumes all risks.\" Graphic elements: barcode, product label, sterile packaging icons, minimalist warning symbols, data overlay aesthetics. Satirical beauty industry/consumerism critique. Surreal, dystopian luxury branding, editorial conceptual art, high contrast, polished, unsettling yet beautiful, 8K. --ar 9:16 --raw --sref https://s.mj.run/AaJZ1UFi5jE https://s.mj.run/i4GhfnsSF1s https://s.mj.run/ouhCqswWTzg https://s.mj.run/cCT5a6_zrGI --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCqDeQpBnPqBAtpcISSXuWzj3IYQ8mJ8cBe0u7y51x6y38J0nklW2sqy9YjWIibSDWtDMB71pEGDCxz4cJMfyvcGWqDmFt7Cbwk/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDOx5WSk95TcLTAdSZyic0iccbnM9DwglnficOodRl1cKsD5xR2YzD3dOkU4zdtNCHXDEeUksLiaNPUCDUic4dr6NdyktCic5wyib2pnA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0010",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 10,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 11",
+  "version": "v1"
+}

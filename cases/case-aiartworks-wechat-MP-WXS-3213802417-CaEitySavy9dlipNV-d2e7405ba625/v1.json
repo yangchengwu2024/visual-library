@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBwib0YKgTqAkUmkt30sjF0sWkIbPaXAS984fY7kvqQsm4fvdzuhzGxgQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-CaEitySavy9dlipNV-d2e7405ba625",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "58666781dfbc08d51fc2c15d828a9f413d73b514c427acdede8022eb956e1643",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A photograph of a woman pushing a giant salmon-colored boulder with her head up a steep white chalk hill, in the style of surrealist fashion photography. The image features a blue sky, minimalist design, hyper-realistic rendering, desaturated colors and high resolution, taken with a Hasselblad camera. --ar 2:3 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBwib0YKgTqAkUmkt30sjF0sWkIbPaXAS984fY7kvqQsm4fvdzuhzGxgQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg:prompt-0007",
+    "source_metadata": {
+      "article_index": 136,
+      "article_title": "Vol.192 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748226626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497252&idx=1&sn=103a3318825f54c3950b2d84fc82012f&chksm=96b59a467893c6051984efefe1c1534d6c00ed1161d11a0a6734d4345c75cc6d474499658402#rd",
+    "title": "Vol.192 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497252&idx=1&sn=103a3318825f54c3950b2d84fc82012f&chksm=96b59a467893c6051984efefe1c1534d6c00ed1161d11a0a6734d4345c75cc6d474499658402#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.192 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

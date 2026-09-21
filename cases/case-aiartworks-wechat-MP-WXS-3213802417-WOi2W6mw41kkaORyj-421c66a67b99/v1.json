@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCJfgaezKpy33Ap2KMf5jDpWjjVUOq6tAzG4HMt9PgYkGqiaibGLBfSLsQk06fQJiaBkUw0qeia2bVCVbicHFpzOsFkD1XMslYNwdto/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7Cxcdea1upGviaoLmpuCUthhLticJ5uLzY3iajPFNEicw0AL50XKFVKCbzw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAE9FUM7AEx4yZuyyq5dpVfkdkH6DXNdiapICfpJxErml4iabdeiawyqIRn6Suib4iblxalDS10tJzDEC9nFCb8g1AqX3Wv0cB9LSVI/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WOi2W6mw41kkaORyj-421c66a67b99",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6b85a7111298604813d46ad518ef636b383d1e0a58addc71e1d22131c7fafd88",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true,
+    "stylize": "45"
+  },
+  "previous_version": null,
+  "prompt": "graphic festival poster, giant horse jumping through the sky, ultra simplified horse with bold continuous black line, very graphic minimal style, simplified humanoid rider on top of the horse, dynamic motion, floating spray paint cans surrounding them in the air, spray cans releasing colorful paint trails creating abstract shapes and movement around the horse, strong negative space, flat vibrant background colors, iconic composition, contemporary street art poster, expressive line art, clean visual impact, no realism, no detail, no shading --ar 2:3 --raw --stylize 45",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCJfgaezKpy33Ap2KMf5jDpWjjVUOq6tAzG4HMt9PgYkGqiaibGLBfSLsQk06fQJiaBkUw0qeia2bVCVbicHFpzOsFkD1XMslYNwdto/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7Cxcdea1upGviaoLmpuCUthhLticJ5uLzY3iajPFNEicw0AL50XKFVKCbzw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAE9FUM7AEx4yZuyyq5dpVfkdkH6DXNdiapICfpJxErml4iabdeiawyqIRn6Suib4iblxalDS10tJzDEC9nFCb8g1AqX3Wv0cB9LSVI/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw:prompt-0013",
+    "source_metadata": {
+      "article_index": 38,
+      "article_title": "Vol.294 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776900578,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 13,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0",
+    "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

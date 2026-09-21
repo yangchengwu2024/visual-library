@@ -20,6 +20,7 @@ import sys
 import tempfile
 import time
 from datetime import datetime, timezone
+from urllib.parse import urlsplit
 
 
 SCHEMA_VERSION = 1
@@ -32,6 +33,7 @@ METADATA_ENUMS = {
 }
 METADATA_FIELDS = (*METADATA_ENUMS, "model_version", "artists", "movements", "materials",
                    "techniques", "asset_roles", "review_note", "evidence", "retrieval")
+REMOTE_ASSET_HOSTS = {"mmbiz.qpic.cn"}
 
 
 def _default_retrieval():
@@ -345,6 +347,15 @@ def _tags(value):
     return [value] if isinstance(value, str) else list(value)
 
 
+def _validate_remote_url(value):
+    if not isinstance(value, str) or len(value) > 4096:
+        raise ValueError("Remote asset URL must be a short string")
+    parsed = urlsplit(value)
+    if parsed.scheme != "https" or parsed.hostname not in REMOTE_ASSET_HOSTS or parsed.username or parsed.password:
+        raise ValueError("Remote asset host is not approved: " + str(parsed.hostname))
+    return value
+
+
 def _classification(record, aliases):
     categories = _tags(record.get("category"))
     styles = _tags(record.get("styles"))
@@ -374,6 +385,14 @@ def _effective_labels(entry, corrections=None):
 
 
 def _store_asset(root, asset):
+    if asset.get("remote_url") is not None:
+        return {
+            "remote_url": _validate_remote_url(asset["remote_url"]),
+            "role": asset.get("role", "example"),
+            "source_path": asset.get("source_path"),
+        }, False
+    if "path" not in asset:
+        raise ValueError("Asset requires a local path or approved remote_url")
     path = Path(asset["path"])
     data = path.read_bytes()
     if not data:
@@ -406,7 +425,11 @@ def _fingerprint(content):
         "prompt": content["prompt"],
         "model": content.get("model"),
         "parameters": content.get("parameters"),
-        "assets": [{"sha256": a["sha256"], "role": a.get("role", "example")} for a in content["assets"]],
+        "assets": [
+            ({"remote_url": a["remote_url"]} if a.get("remote_url") else {"sha256": a["sha256"]})
+            | {"role": a.get("role", "example")}
+            for a in content["assets"]
+        ],
     }
     if "prompt_variants" in content:
         identity["prompt_variants"] = content["prompt_variants"]
@@ -418,12 +441,18 @@ def _known_parameters(content):
 
 
 def _provenance(record, source, revision):
+    asset_sources = []
+    for asset in record.get("assets", []):
+        item = {"source_path": asset.get("source_path"), "role": asset.get("role", "example")}
+        if asset.get("remote_url"):
+            item["remote_url"] = asset["remote_url"]
+        asset_sources.append(item)
     result = {"source": source.get("name") if isinstance(source, dict) else source,
               "source_id": str(record["source_id"]), "revision": revision,
               "title": record.get("title", ""),
               "source_url": record.get("source_url"),
               "upstream_url": record.get("upstream_url"),
-              "asset_sources": [{"source_path": a.get("source_path"), "role": a.get("role", "example")} for a in record.get("assets", [])],
+              "asset_sources": asset_sources,
               "source_category": record.get("category"),
               "source_tags": {"styles": _tags(record.get("styles")), "scenes": _tags(record.get("scenes"))}}
     for field in ("license", "license_status", "attribution", "rights", "source_metadata"):
@@ -449,7 +478,10 @@ def _difference(previous, current):
         result.append("original prompt changed")
     if previous.get("prompt_variants") != current.get("prompt_variants"):
         result.append("original prompt variants changed")
-    if [(a["sha256"], a["role"]) for a in previous["assets"]] != [(a["sha256"], a["role"]) for a in current["assets"]]:
+    def asset_identity(asset):
+        return (("remote", asset["remote_url"]) if asset.get("remote_url")
+                else ("local", asset["sha256"]), asset.get("role", "example"))
+    if [asset_identity(a) for a in previous["assets"]] != [asset_identity(a) for a in current["assets"]]:
         result.append("asset bytes, order, or roles changed")
     if previous.get("model") != current.get("model"):
         result.append("known model changed")
@@ -505,7 +537,9 @@ def _render_version(root, content):
                   "来源角色：`" + source_role + "`", ""]
         if role and role["reason"]:
             lines += ["角色依据：" + role["reason"], ""]
-        lines += ["![案例图片 " + str(number) + "](../../" + asset["path"] + ")", ""]
+        image_ref = ("../../" + asset["path"] if asset.get("path") else asset.get("remote_url"))
+        if image_ref:
+            lines += ["![案例图片 " + str(number) + "](" + image_ref + ")", ""]
     lines += ["## 完整提示词", "", fence + "text", prompt, fence, ""]
     for language, variant in content.get("prompt_variants", {}).items():
         if variant == prompt:
@@ -657,6 +691,7 @@ def import_records(root, records, source, revision, *, lock=True, mode="snapshot
             if existing and (_case_dir(root, case_id) / "case.json").exists():
                 case_id, _ = _resolve(root, case_id)
             assets, missing = [], list(record.get("missing_assets") or [])
+            record_metadata = record.get("metadata") or {}
             for asset in record.get("assets", []):
                 try:
                     stored, shared = _store_asset(root, asset)
@@ -666,7 +701,7 @@ def import_records(root, records, source, revision, *, lock=True, mode="snapshot
                     missing.append({"source_path": asset.get("source_path"), "reason": type(exc).__name__ + ": " + str(exc)})
             if not record.get("prompt", "").strip():
                 missing.append({"field": "prompt", "reason": "missing original prompt"})
-            if not assets:
+            if not assets and record_metadata.get("record_type", "case") != "keyword_reference":
                 missing.append({"field": "assets", "reason": "no locally available images"})
             content = {"title": record.get("title", ""), "prompt": record.get("prompt", ""),
                        "model": record.get("model"), "parameters": record.get("parameters"), "assets": assets}
@@ -850,7 +885,12 @@ def show(root, case_id, version=None):
     content["requested_case_id"] = requested_id
     content["requested_version"] = requested_version
     for asset in content["assets"]:
-        asset["absolute_path"] = str(_safe_asset(root, asset["path"]))
+        if asset.get("path"):
+            asset["absolute_path"] = str(_safe_asset(root, asset["path"]))
+        elif asset.get("remote_url"):
+            asset["external_url"] = _validate_remote_url(asset["remote_url"])
+        else:
+            raise ValueError("Asset lacks local path and remote_url")
     for role in content["asset_roles"]:
         if role["index"] < len(content["assets"]):
             asset = content["assets"][role["index"]]
@@ -1007,7 +1047,9 @@ def validate(root):
             version_count += 1
             if content["case_id"] != path.parent.name or content["version"] != path.stem:
                 errors.append(str(path.relative_to(root)) + ": identity mismatch")
-            if content.get("status") != "complete" or not content["prompt"].strip() or not content["assets"]:
+            record_type = _case_metadata(root, content["case_id"], content["version"]).get("record_type", "case")
+            if content.get("status") != "complete" or not content["prompt"].strip() or (
+                    record_type != "keyword_reference" and not content["assets"]):
                 errors.append(str(path.relative_to(root)) + ": invalid complete record")
             if content["fingerprint"] != _fingerprint(content):
                 errors.append(str(path.relative_to(root)) + ": content fingerprint mismatch")
@@ -1015,6 +1057,15 @@ def validate(root):
             if previous and not (path.parent / (_version_name(previous) + ".json")).exists():
                 errors.append(str(path.relative_to(root)) + ": missing previous version")
             for asset in content["assets"]:
+                if asset.get("remote_url"):
+                    try:
+                        _validate_remote_url(asset["remote_url"])
+                    except (TypeError, ValueError) as exc:
+                        errors.append(str(path.relative_to(root)) + ": " + str(exc))
+                    continue
+                if not asset.get("path"):
+                    errors.append(str(path.relative_to(root)) + ": asset lacks local path and remote_url")
+                    continue
                 actual = _safe_asset(root, asset["path"])
                 if asset["path"] not in checked:
                     payload = actual.read_bytes()
@@ -1046,6 +1097,12 @@ def validate(root):
         if pending.get("status") == "pending":
             pending_count += 1
         for asset in pending.get("assets", []):
+            if asset.get("remote_url"):
+                try:
+                    _validate_remote_url(asset["remote_url"])
+                except (TypeError, ValueError) as exc:
+                    errors.append(str(path.relative_to(root)) + ": " + str(exc))
+                continue
             try:
                 local = _safe_asset(root, asset["path"])
                 actual = checked.get(asset["path"])

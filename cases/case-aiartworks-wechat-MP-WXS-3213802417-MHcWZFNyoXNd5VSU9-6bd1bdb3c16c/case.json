@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MHcWZFNyoXNd5VSU9-6bd1bdb3c16c",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShejsBsyMuPkFtTreEmicl5qmGETdXZlqPianeKBNV9JMS6v9iaYJCPJQvgPw2FE9DiapVgSQuwMB9xUbg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA:prompt-0011",
+      "source_metadata": {
+        "article_index": 117,
+        "article_title": "Vol.211 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1749857457,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 11,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498067&idx=1&sn=a3f80f3e37e859ad65b41a0b50265266&chksm=963336b8f1b1b364def9e8ed744ed84fd6d8471210b51249426bf117a20b4778daf54bae9261#rd",
+      "title": "Vol.211 - Midjourney | 精选作品关键词提示 · 提示词 12",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498067&idx=1&sn=a3f80f3e37e859ad65b41a0b50265266&chksm=963336b8f1b1b364def9e8ed744ed84fd6d8471210b51249426bf117a20b4778daf54bae9261#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.211 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "title_aliases": [
+    "Vol.211 - Midjourney | 精选作品关键词提示 · 提示词 12"
+  ]
+}

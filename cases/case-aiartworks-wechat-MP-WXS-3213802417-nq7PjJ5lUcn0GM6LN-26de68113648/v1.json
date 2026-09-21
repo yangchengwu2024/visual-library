@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevjHSPwAo2dJF646Vg3GcicTFlrYXFYt3OYACA0s4QKKdfS9h2GRxUvdIYictqsuPwkDibug4IjfEFw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nq7PjJ5lUcn0GM6LN-26de68113648",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "80cce6c286de312c7ed4fec60372a64c096c93ad2a58bf9d79a26ae749220b6c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/e2p2qx26Ycg A Korean woman wearing a short skirt, flying over the sea, facing down, body straight, parallel to the sea surface, very close to the water, clothes fluttering in the wind, side view, tracking shot, wide angle lens --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevjHSPwAo2dJF646Vg3GcicTFlrYXFYt3OYACA0s4QKKdfS9h2GRxUvdIYictqsuPwkDibug4IjfEFw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw:prompt-0008",
+    "source_metadata": {
+      "article_index": 285,
+      "article_title": "Vol.59 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734143411,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489298&idx=1&sn=ce35242604159da4a08800b6c8264182&chksm=96a9d286fcd2a852c4960fd2f5d95ac4426a45c8d8d475f57efc55ec6125f3e5ce89ab869ff3#rd",
+    "title": "Vol.59 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489298&idx=1&sn=ce35242604159da4a08800b6c8264182&chksm=96a9d286fcd2a852c4960fd2f5d95ac4426a45c8d8d475f57efc55ec6125f3e5ce89ab869ff3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.59 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

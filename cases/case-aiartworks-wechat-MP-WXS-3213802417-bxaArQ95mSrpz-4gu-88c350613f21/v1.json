@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc2lwDXgvpTicLo6l963DZH4KH6vltJTQBgAvtPmeC87V6rgARrBI7R38NA4cQQf9kOWAhzH72E3Fg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bxaArQ95mSrpz-4gu-88c350613f21",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "35b7bd76726bcd2d6a965ce33db68f59cbfc45fbaeec0368c1cd7d5a38aa895c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "65:128"
+  },
+  "previous_version": null,
+  "prompt": "a minimalist painting of \"little red flower\" and a small bird on a branch, with calligraphic-style characters written in the lower right corner of the picture. the background is pure white, featuring traditional ink wash flowers and leaves, creating an elegant atmosphere. it features colorful flowers and birds, rendered using flat colors and thick brush strokes. a traditional scroll-like layout creates harmony between nature and art. --ar 65:128",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc2lwDXgvpTicLo6l963DZH4KH6vltJTQBgAvtPmeC87V6rgARrBI7R38NA4cQQf9kOWAhzH72E3Fg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg:prompt-0001",
+    "source_metadata": {
+      "article_index": 47,
+      "article_title": "Vol.285 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763335848,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bxaArQ95mSrpz-4guM55lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503586&idx=1&sn=31d1c5b4229e5bc2b96ae20eea47cea1&chksm=96b8f081d1baab6701a8a62f3d010832cf18f0e9bfba3ca9a7fcd772c815196185aa0415cc67#rd",
+    "title": "Vol.285 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503586&idx=1&sn=31d1c5b4229e5bc2b96ae20eea47cea1&chksm=96b8f081d1baab6701a8a62f3d010832cf18f0e9bfba3ca9a7fcd772c815196185aa0415cc67#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.285 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

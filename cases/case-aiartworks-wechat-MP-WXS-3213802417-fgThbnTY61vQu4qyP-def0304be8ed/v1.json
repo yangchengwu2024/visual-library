@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:33+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcE9A6rIExmP0eD5bicpoyoDEISRGpI5mEvkWd0G9NakgYbTJ0g292HqmiahMRiaIaGwJxA1WBIBiaKKA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fgThbnTY61vQu4qyP-def0304be8ed",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b9465f58e0b329daaa221898eea1afa47c7a89463278e8257e14cede886a7939",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Camping by the lake at dusk, the leaves of the maple trees gently sway in the breeze. A little cat plays at my feet while I hold a warm cup of tea, my heart filled with tranquility. This moment reminds me that the beauty of life often comes from nature's gifts. No matter how noisy the outside world may be, inner peace is the most precious treasure. I realize that instead of pursuing material wealth, it’s better to enjoy this simple happiness, allowing my soul to find true healing. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcE9A6rIExmP0eD5bicpoyoDEISRGpI5mEvkWd0G9NakgYbTJ0g292HqmiahMRiaIaGwJxA1WBIBiaKKA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw:prompt-0016",
+    "source_metadata": {
+      "article_index": 323,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.24",
+      "association_confidence": "high",
+      "createTime": 1730775889,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486371&idx=1&sn=d2d0ae26d841a7903a66bc1044093c26&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.24 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486371&idx=1&sn=d2d0ae26d841a7903a66bc1044093c26&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.24 · 提示词 17",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pJP8s9Ji3YAUNWgR5-7c40cfacd47b",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdzQibpkNAuVLib76XQOQJNfs8keTBTib1rR38IGNSfianqsz5DtHCXfxhM1km5icWOHiaIUJMdcUqEzOOQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_pJP8s9Ji3YAUNWgR5PZUyw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_pJP8s9Ji3YAUNWgR5PZUyw:prompt-0004",
+      "source_metadata": {
+        "article_index": 129,
+        "article_title": "Vol.199 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1748828777,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 4,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_pJP8s9Ji3YAUNWgR5PZUyw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497554&idx=1&sn=51e266fe66f6d0e6dfa27e8389daa8d2&chksm=960cd9262649e20e4d20d751f4d118b338f774b83f216ec9c67e97807f351d2fd5baf86bd3fd#rd",
+      "title": "Vol.199 - Midjourney | 精选作品关键词提示 · 提示词 5",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497554&idx=1&sn=51e266fe66f6d0e6dfa27e8389daa8d2&chksm=960cd9262649e20e4d20d751f4d118b338f774b83f216ec9c67e97807f351d2fd5baf86bd3fd#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.199 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "title_aliases": [
+    "Vol.199 - Midjourney | 精选作品关键词提示 · 提示词 5"
+  ]
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-T5daPDhmOdBzt-oJH-f679ef4ebfe5",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShde6DAkLxp7T0TnNKvtahlX3RSibL7lbxu6ibfZIUSRrDiaBVpHOkwwwmbSxqEOUqyT3qbOz1V0bUdRA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShde6DAkLxp7T0TnNKvtahlXTibSudlKGP1mVkniaum5JMPzpP60PwEV4Iy311FcyQO5udZR2MJKcNkQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw:prompt-0002",
+      "source_metadata": {
+        "article_index": 183,
+        "article_title": "Vol.150 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1743815357,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 2,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_T5daPDhmOdBzt-oJH3HAzw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495546&idx=1&sn=cb43139f490aff7482be29eac09f8349&chksm=96fc1e49a1ba14b6bc4ac7770478f483dc0cc63e86f95bc8b2c625395b16bbaeb7a8566e4e10#rd",
+      "title": "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 3",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495546&idx=1&sn=cb43139f490aff7482be29eac09f8349&chksm=96fc1e49a1ba14b6bc4ac7770478f483dc0cc63e86f95bc8b2c625395b16bbaeb7a8566e4e10#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "title_aliases": [
+    "Vol.150 - Midjourney | 精选作品关键词提示 · 提示词 3"
+  ]
+}

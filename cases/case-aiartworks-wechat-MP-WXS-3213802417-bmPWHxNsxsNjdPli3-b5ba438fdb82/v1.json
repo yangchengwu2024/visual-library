@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQMJj3jE92iahAj1XOgbWWpicwDLSbho7KzpAaEvp1lJbf9J9dWJUgUfcY6qTzXa8icuiaZq6gOQSuYA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bmPWHxNsxsNjdPli3-b5ba438fdb82",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2c5b653d4e0ef23c9c867df0cd7e88b49c0f25f4da737cf02213098d5dc16c75",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "no": [
+      "peopl,man,women,boy,girl,text,word,txt,watermark,logo"
+    ],
+    "profile": "ta8ezho",
+    "sref": [
+      "1923246294",
+      "4169606994",
+      "2508088134"
+    ],
+    "stylize": "968",
+    "sw": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a Young Angel Happy,FullBody,CleanBackground --no peopl,man,women,boy,girl,text,word,txt,watermark,logo --chaos 5 --ar 3:4 --sref 1923246294 4169606994 2508088134 --profile ta8ezho --sw 500 --stylize 968 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQMJj3jE92iahAj1XOgbWWpicwDLSbho7KzpAaEvp1lJbf9J9dWJUgUfcY6qTzXa8icuiaZq6gOQSuYA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q:prompt-0018",
+    "source_metadata": {
+      "article_index": 231,
+      "article_title": "Vol.112 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739932586,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bmPWHxNsxsNjdPli3tyQ-Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493362&idx=1&sn=87d5c616a8da316ceda36d1f7f4913f2&scene=58&subscene=0",
+    "title": "Vol.112 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493362&idx=1&sn=87d5c616a8da316ceda36d1f7f4913f2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.112 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

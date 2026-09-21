@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpvNXu9zZY6wsoc3vLPrV0jH6eCibdaDiahsWpgyNwWczKRRDqscKDrw0Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpJqfaYZl53osyVaWpfbgsBE47ibzUbLA86U72RJicHdtXvickQaYLukLVA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-324d5a691e11",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3f83e2f7e384846f4b29cee548fc060f69ae7b79ad713f8d2a915741995b1901",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "stylize": "550",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "large view studio photograph of Black-and-White Colobus Monkey (Colobus guereza) – Distinct black and white fur. on a black and grey rock, shot with a Phase One XF IQ4 150MP Achromatic, Schneider Kreuznach 80mm f/2.8 LS lens, black background, soft and envelopping light, hyper-realistic, rich details, strong contrast --ar 9:16 --quality 2 --stylize 550 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpvNXu9zZY6wsoc3vLPrV0jH6eCibdaDiahsWpgyNwWczKRRDqscKDrw0Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpJqfaYZl53osyVaWpfbgsBE47ibzUbLA86U72RJicHdtXvickQaYLukLVA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg:prompt-0019",
+    "source_metadata": {
+      "article_index": 208,
+      "article_title": "Vol.131 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741833013,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494707&idx=1&sn=4de6ee65688eac19c83efed48248051d&scene=58&subscene=0",
+    "title": "Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494707&idx=1&sn=4de6ee65688eac19c83efed48248051d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

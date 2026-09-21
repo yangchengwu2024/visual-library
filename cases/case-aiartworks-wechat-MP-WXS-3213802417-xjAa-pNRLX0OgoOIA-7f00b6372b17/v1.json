@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdnqPKVygibZ7FHtT4ZlAXQzJfQibL6xBWHjJ1bXQeE0VKNvHjEvPu19Y4WDgvXmMQdBRXFZzmTeDmQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xjAa-pNRLX0OgoOIA-7f00b6372b17",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "589f5379c1b0ad62d64ea787821e0ba41cfec3fb1dd7bf24d4901d871913a975",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Chinese embroidery depicting two golden and green peacocks, with exquisite details. Green trees in the background, and red plum blossoms blooming on the tree branches. A super-realistic oil painting art style with a simple composition. --ar 3:4 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdnqPKVygibZ7FHtT4ZlAXQzJfQibL6xBWHjJ1bXQeE0VKNvHjEvPu19Y4WDgvXmMQdBRXFZzmTeDmQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g:prompt-0001",
+    "source_metadata": {
+      "article_index": 313,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.34",
+      "association_confidence": "review",
+      "createTime": 1731724952,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 2",
+  "version": "v1"
+}

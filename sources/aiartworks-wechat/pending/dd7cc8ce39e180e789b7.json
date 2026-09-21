@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ETODmezWt5CG7EzAD-ed22c53e7eb9",
+  "fingerprint": "0add273f4ec90fb617786c3b1750dc3daa8badd671a1181171ccea6cae8499ae",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "prompt": "signature RISE koi pond aesthetic, minimalist composition, clear jade water with soft gradients, tiny koi in the distance, calm concentric ripples, soft bamboo leaf shadows, 3-5 lotus leaves with plenty of negative space, poetic lighting, highly refined and tranquil --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA:prompt-0004",
+    "source_metadata": {
+      "article_index": 46,
+      "article_title": "Vol.286 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1763508615,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd",
+    "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd"
+  },
+  "source_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA:prompt-0004",
+  "status": "pending",
+  "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 5"
+}

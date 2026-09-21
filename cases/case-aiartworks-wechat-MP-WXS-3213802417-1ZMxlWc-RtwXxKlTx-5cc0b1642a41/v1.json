@@ -1,0 +1,92 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHLP6qya5Bib02cWmYMHAPV9jdJTgMMQCBzzpfKrOHssVeFuvhj5GlWiaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHZ13Gy3fxUnbNJ6o6XwelbfpCuSnxibdRKOSSVib81QdKdiaVsfLNUTRwQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1ZMxlWc-RtwXxKlTx-5cc0b1642a41",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "87e88267b07dbc2a2151091157b9fd4fa030e939149593b60c52892bfa2dfed0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "81:128",
+    "chaos": "12",
+    "oref": "https://s.mj.run/TjHORQzID38",
+    "ow": "200",
+    "sref": [
+      "https://s.mj.run/QXHNCiqtYDY",
+      "https://s.mj.run/W6Fx903pNHU",
+      "https://s.mj.run/qbIwqdo4zYw",
+      "https://s.mj.run/cX2PSs3jeyY",
+      "https://s.mj.run/wk487TBkFuk",
+      "https://s.mj.run/jUbNQo1hv6k",
+      "https://s.mj.run/g9xxqIVtonM",
+      "https://s.mj.run/qw--_Dylj3U",
+      "https://s.mj.run/Ck8StTgs1S4",
+      "https://s.mj.run/Nim-KEFKJdQ",
+      "https://s.mj.run/IovZ7sOzMic",
+      "https://s.mj.run/BVWOU3gKruE",
+      "https://s.mj.run/90jscGL6WMw",
+      "https://s.mj.run/0zdjOz9CMz8",
+      "https://s.mj.run/E-N-aX-Bzy0",
+      "https://s.mj.run/fMcp9yLI3V8"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "idol through the reflection of a blade. photo-realistic skin texture, photo-realistic image reflection, intense deep high-detailed, The composition is bold and mysterious with a high-occult sens, evoking a sense of Grimdark aestheticsm. Photorealistic rendering using Octane Render for a high-resolution image, focusing on capturing details like texture and skin tone. in the style of tite kubo, taro okamoto and kazuo umezu, posing for camera, The background is faded gradient vivid monochromatic color, in the style of Moebius. In the style of the Street Fighter video game series by Capcom with a grotesque cartoon comic style, and anime art style, Takehiko Inoue Style, art print, poster, manga, anime, 90s retro nostalgia, poster design, best quality, cell shading, flat colors shading, bold outline use for shape, thiner outline for details, --chaos 12 --ar 81:128 --sref https://s.mj.run/QXHNCiqtYDY https://s.mj.run/W6Fx903pNHU https://s.mj.run/qbIwqdo4zYw https://s.mj.run/cX2PSs3jeyY https://s.mj.run/wk487TBkFuk https://s.mj.run/jUbNQo1hv6k https://s.mj.run/g9xxqIVtonM https://s.mj.run/qw--_Dylj3U https://s.mj.run/Ck8StTgs1S4 https://s.mj.run/Nim-KEFKJdQ https://s.mj.run/IovZ7sOzMic https://s.mj.run/BVWOU3gKruE https://s.mj.run/90jscGL6WMw https://s.mj.run/0zdjOz9CMz8 https://s.mj.run/E-N-aX-Bzy0 https://s.mj.run/fMcp9yLI3V8 --oref https://s.mj.run/TjHORQzID38 --ow 200",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHLP6qya5Bib02cWmYMHAPV9jdJTgMMQCBzzpfKrOHssVeFuvhj5GlWiaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHZ13Gy3fxUnbNJ6o6XwelbfpCuSnxibdRKOSSVib81QdKdiaVsfLNUTRwQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 62,
+      "article_title": "Vol.269 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760058571,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd",
+    "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

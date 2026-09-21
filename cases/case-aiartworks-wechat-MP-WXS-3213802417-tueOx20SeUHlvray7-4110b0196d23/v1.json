@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD3pRZEDEFfaHEEDsnEayUyAAyrktYJTnDNxLh7uJsXM0mYpc8uhwA2c7jST6BibGkEOT3MMsxdGicbI8SH9Eed42Hic2ZU0RrHPY/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDgx0Bw5Jic6ZPu4jmFfHNPFTjV6t5g8O9rwf6kvNHfxQiae7Ma0xqGSMw1Y95scxAc49SXpW4My3Dg0yGVautcw9gE80qGeQrYM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tueOx20SeUHlvray7-4110b0196d23",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "889af9e1b9b24ef87af95f5a9ec1c4873ab2f019b484f9b7c42e0b5781d76aff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "fo8f9li",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "clean but detailed statue in a gallery inspired by retro futuristic military fashion, whole body of a delivery male riding a futuristic Vespa, Japanese anime TOUCAN face superhero, wearing boots, made of matte silver metal --ar 9:16 --profile fo8f9li --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD3pRZEDEFfaHEEDsnEayUyAAyrktYJTnDNxLh7uJsXM0mYpc8uhwA2c7jST6BibGkEOT3MMsxdGicbI8SH9Eed42Hic2ZU0RrHPY/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDgx0Bw5Jic6ZPu4jmFfHNPFTjV6t5g8O9rwf6kvNHfxQiae7Ma0xqGSMw1Y95scxAc49SXpW4My3Dg0yGVautcw9gE80qGeQrYM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw:prompt-0008",
+    "source_metadata": {
+      "article_index": 33,
+      "article_title": "Vol.300-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1778801495,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0",
+    "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,120 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--ZfWiLFnQXPGj5Yf1-df50bccbff7b",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZW2PnuYuMMVHka3dE8myhgcl3kxYuyKu1exibib05icVul99PoeBribjP31Q/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZW9aSXTnWtrm0M7tSWzVXvHKkjRfWibiaLlCEOswpvC6GYNIY2EgRxkcfQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWtaEnc0CpnuyHs7ico338hHlRRPT5bHq0QxrTbwzzbX3Gmxl9CtSXZRg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWibh3Tfc4Ae6snhIuSgPopvTh4Q4TxWPptOQiakss6zAFbCB747mXM85w/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWRwIeHqOE8OG62unU2vDaMjFNBiclL1Jh5JlxUWs4r6xWk1PDW4nrVyA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWk4pEvDcqPiclvibicQykMHagKWHib6HHUlSR4Ticz5L2o0xfvpgx6JDHgdw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWeM7ib3vTxCfMZNtH9BdHqZppZbIGKxOjBJNe9a6ABs7X95iciaTzv9W5Q/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWGJdSWE3Hqs118sft1mcbAm2sush29PPqbFEUhrf9q5xGAVfoI7FAKg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-7"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWEItsAlh3qCfgF9YYCJszJAb4voib6VB2lxKW935ib8vPF4x3YPoAJjTw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-8"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWnCtfg61MxpWnDBibibvYbBvSKs0sW9hHhxsJg1vOADj9mibjEgJbGU7hQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-9"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc9tshF8QOJPIL81dw8iaiccH9ictzltia4q5Ns5RhqT1Q9XvO4Kjppo4EGStRX2RcJ00U8JhVUz3wXSA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-10"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz7ylvicfRgIsJ1USRZmAHF0j580ePk0OqbXoprdT2iaSEnnSxuySc18bdg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-11"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflYzAA7fhS7U0PiaXMughyE7nSDq1ms8XoFLkNJRMGGZyrQiaQT2jAhHqzU3TDKYlIresnTfvPbmZA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-12"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g:prompt-0016",
+      "source_metadata": {
+        "article_index": 50,
+        "article_title": "Vol.282 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1762731024,
+        "image_storage": "external_url",
+        "image_url_count": 13,
+        "prompt_index": 16,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 12
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0",
+      "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 17",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "title_aliases": [
+    "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 17"
+  ]
+}

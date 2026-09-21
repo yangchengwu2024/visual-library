@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D-Te8P-6W5-ekYD2Q-64db0ed9d57e",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL72bCKz40fh6n4r6fyUWY1XPxyjnibYc7oRIjabpD8sLtuoaX9JIoVyA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g:prompt-0008",
+      "source_metadata": {
+        "article_index": 257,
+        "article_title": "Vol.83 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1736564431,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 8,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0",
+      "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 9",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "title_aliases": [
+    "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 9"
+  ]
+}

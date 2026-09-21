@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpScibxXbicNA29ia9zINoTmFsuib6zcw5P8fHJW7CSPCBjnwbNiam7aykibmw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpNBOYl2BUOGtr7XBFOGI9z2BW6CO0rQrJB8MydCpMElhy2c2ia6TEJjA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-M6dSEdRbj3nNPJ6vr-16505a859482",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f509bad36ab5be12d65a97fda8d1408a9c44585e3ee7bdd202f189f5ba3a0083",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Close-up of a vintage Zinger sewing machine. Two tiny cats in the style of Studio Ghibli by Hayao Miyazaki are sitting under the sleeve with their backs to the sewing machine stand. Curtain fabric flows in waves under the presser foot of a sewing machine. One cat holds the thread and needle in his paws, the other straightens the fabric on the needle plate of a sewing machine --ar 9:16 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpScibxXbicNA29ia9zINoTmFsuib6zcw5P8fHJW7CSPCBjnwbNiam7aykibmw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpNBOYl2BUOGtr7XBFOGI9z2BW6CO0rQrJB8MydCpMElhy2c2ia6TEJjA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 207,
+      "article_title": "Vol.132 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741919433,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+    "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

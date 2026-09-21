@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd4ibkRqNtJIBtia72GLDMX7h5R27lFTAm1taYiaE7KPnib3uT6yyPxQ7KlIy3u2OrVzUaTJezUibs5TyQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZjDx9qZy1PXNrb7of-1b59c0364db8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "da6173c592d4ac9929a79a26ed17219be7eba8a668e8e458f4b1baeba7abd13b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Ultra-realistic close-up macro shot of human arm skin with hairs raising to standing on end due to goosebumps, captured in extreme detail. Individual hairs sharply visible against a dark, softly blurred background. A subtle rim light/backlight outlines the hairs, making them stand out with a delicate glow. Skin texture, pores, and fine hair strands are crisp and lifelike, with shallow depth of field and cinematic lighting for dramatic effect --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd4ibkRqNtJIBtia72GLDMX7h5R27lFTAm1taYiaE7KPnib3uT6yyPxQ7KlIy3u2OrVzUaTJezUibs5TyQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg:prompt-0008",
+    "source_metadata": {
+      "article_index": 86,
+      "article_title": "Vol.245 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755214267,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=1&sn=13329e72282fa3f4ee94de15222926c6&scene=58&subscene=0",
+    "title": "Vol.245 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=1&sn=13329e72282fa3f4ee94de15222926c6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.245 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZlZIuLHKkDeKgv3120YH1RCBMjVgJQBtqStXbxgKR5LptGWXib0JXJyg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-15a5f916fae7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1e0f657748dabfa52e7470e52cd84b87ca2ed46f52eecd246e35c879db69ac0f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "25",
+    "raw": true,
+    "stylize": "180",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "3cm tall clay figurine wearing straw hat pushing wooden cart, 5cm bamboo leaves piled high, fresh bamboo leaves, glutinous rice in a wooden bowl, braised pork, salted egg yolks, cotton threads arranged on a woven bamboo plate, warm golden lights, soft brushstrokes, scenes of reunion and joy, warm sunset lighting, tilt-shift blur, 8k, UHD --ar 9:16 --exp 25 --raw --stylize 180 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZlZIuLHKkDeKgv3120YH1RCBMjVgJQBtqStXbxgKR5LptGWXib0JXJyg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA:prompt-0002",
+    "source_metadata": {
+      "article_index": 137,
+      "article_title": "周末特别版 | 端午元素专题 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1748140256,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_UtGgbZiN9BP49G5e9CfwWA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497222&idx=1&sn=a69011252a69d093f62dfa7563826eee&chksm=96f4a0ed5a4c173fcdfce8c917fea995da081a2df2f408947c9d41892a51880e3ca29e8a613e#rd",
+    "title": "周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497222&idx=1&sn=a69011252a69d093f62dfa7563826eee&chksm=96f4a0ed5a4c173fcdfce8c917fea995da081a2df2f408947c9d41892a51880e3ca29e8a613e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 3",
+  "version": "v1"
+}

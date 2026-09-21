@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwjChbODaZ1myD6OlicibFeIt2zd8wfTicB3tvvhd3hVYZVxoiabicdvkyIW7A/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MEg69rRwJEejlRayO-30ec32a94b1a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5dc4ef03d359f3fbed0c35b80f2acc8ebfc99acbe802b4cbe4da16e40a4c3723",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "raw": true,
+    "stylize": "900",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "close up detail of a painting using a Menso brush, colorful mineral pigments, several layers of colors and soot ink on linen cloth , a soothing portrait of a modern woman evoke nostalgia --chaos 10 --ar 2:3 --raw --stylize 900 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwjChbODaZ1myD6OlicibFeIt2zd8wfTicB3tvvhd3hVYZVxoiabicdvkyIW7A/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg:prompt-0017",
+    "source_metadata": {
+      "article_index": 168,
+      "article_title": "Vol.163 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745202015,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496056&idx=1&sn=6abd6f79712400ead67d2fd121b9d6a1&chksm=96178faf18f416252a154bc99acb341bee7f17c4e87ef49c40888c5f53c38baffc360021d778#rd",
+    "title": "Vol.163 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496056&idx=1&sn=6abd6f79712400ead67d2fd121b9d6a1&chksm=96178faf18f416252a154bc99acb341bee7f17c4e87ef49c40888c5f53c38baffc360021d778#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.163 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

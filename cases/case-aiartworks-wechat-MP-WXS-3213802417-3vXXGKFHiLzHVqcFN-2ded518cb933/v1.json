@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:37+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlork79OhxwKFsZEr6NhdKdd6dYPQxcyVKAiblYj0nTsD1FJm86KrGUBQRw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-3vXXGKFHiLzHVqcFN-2ded518cb933",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8cbe6a8eb0c44ded6f88c2fbde62179c49cc42a35d63cabf139fc8843390b354",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "quality": "2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A serene pastel picnic scene set in Switzerland, mountain, by the river, in a peaceful garden with trees, lights, delicate blooming flowers. On a distance, a pastel-colored wooden picknic table, in the middle of a green grass, a fresh, healthy lunch is laid out: a vibrant salad in a soft bowl filled with leafy greens, quinoa, avocado, and cherry tomatoes. Next to it, a plate of grilled salmon or chicken, garnished with herbs and paired with roasted vegetables like sweet potatoes and zucchini. A glass jar of a refreshing smoothie topped with mint leaves sits nearby. Soft sunlight filters through, casting a warm, airy glow over the table. The colors are blurred, light, soft and very gentle pastels--greens, blues, pinks, and creams--creating an inviting, light atmosphere, perfect for writing over --ar 3:4 --quality 2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlork79OhxwKFsZEr6NhdKdd6dYPQxcyVKAiblYj0nTsD1FJm86KrGUBQRw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 343,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.03",
+      "association_confidence": "high",
+      "createTime": 1728703898,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_3vXXGKFHiLzHVqcFNl0WfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484854&idx=1&sn=c1c94da079269f59c5eda5839aa89b90&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.03 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484854&idx=1&sn=c1c94da079269f59c5eda5839aa89b90&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.03 · 提示词 14",
+  "version": "v1"
+}

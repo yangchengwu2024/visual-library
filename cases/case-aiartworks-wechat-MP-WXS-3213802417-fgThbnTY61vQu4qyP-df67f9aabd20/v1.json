@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:33+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwCruaFCktK3wBFxO8bqejuN327TUnYWjhtJzECxdlQnA7y2z7XSg3sA4G79rFyqMTw15ial1ZwQw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fgThbnTY61vQu4qyP-df67f9aabd20",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "909822f62d20c319b04645e27e47c9271cd7c58c5e150973dd3296d0d29ae210",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "an energetically charged flower, cerulean and magenta color scheme, one-line drawing style, crisp color background --ar 9:16 --stylize 250 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwCruaFCktK3wBFxO8bqejuN327TUnYWjhtJzECxdlQnA7y2z7XSg3sA4G79rFyqMTw15ial1ZwQw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw:prompt-0008",
+    "source_metadata": {
+      "article_index": 323,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.24",
+      "association_confidence": "high",
+      "createTime": 1730775889,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fgThbnTY61vQu4qyPN4dSw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486371&idx=1&sn=d2d0ae26d841a7903a66bc1044093c26&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.24 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486371&idx=1&sn=d2d0ae26d841a7903a66bc1044093c26&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.24 · 提示词 9",
+  "version": "v1"
+}

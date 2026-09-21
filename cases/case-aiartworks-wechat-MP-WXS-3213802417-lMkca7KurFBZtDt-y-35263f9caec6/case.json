@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-lMkca7KurFBZtDt-y-35263f9caec6",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicbBEMcQzsdYsIalkCaUqtZLUddrKn7uCPKmTdWzJhOeicH6n8qVIer4J1LoQibTWRPDUQ1t5CHAbg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw:prompt-0009",
+      "source_metadata": {
+        "article_index": 306,
+        "article_title": "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1732329011,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 9,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_lMkca7KurFBZtDt~y0HBBw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487884&idx=1&sn=bd9d1460c0a0b9134f5b004752f7fd09&chksm=96da824fa17d3ac9e289de7608e4f2f09250db45f99ce261ea5393ec88c0a9411750719112c5#rd",
+      "title": "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487884&idx=1&sn=bd9d1460c0a0b9134f5b004752f7fd09&chksm=96da824fa17d3ac9e289de7608e4f2f09250db45f99ce261ea5393ec88c0a9411750719112c5#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示 · 提示词 10",
+  "title_aliases": [
+    "周末特别版 | 天才 × 疯子 = 怪核 - Midjourney | 精选作品与提示 · 提示词 10"
+  ]
+}

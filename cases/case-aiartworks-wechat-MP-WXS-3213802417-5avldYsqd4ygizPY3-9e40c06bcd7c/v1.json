@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88gs1euSvyJNblV3ZY71J7ntp3yjgzhYxBHaYokVAj0oQmGaTgyx25qQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5avldYsqd4ygizPY3-9e40c06bcd7c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b62204766189fe9471b27719fbeabe93e67eeb15be8eda0379f752d62f4597a5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A serene and dramatic scene featuring two AT-AT walkers silhouetted against a stunning sunset. The foreground shows one AT-AT walker in sharp focus, standing tall and imposing, with its massive legs and mechanical body clearly defined. In the background, another AT-AT walker is visible further away, partially obscured by the hazy horizon. The sky is painted with warm, vibrant hues of orange, red, and deep amber, creating a breathtaking gradient that fades into a darker blue at the top. The sun is setting low on the horizon, casting a golden glow that illuminates the landscape and highlights the silhouettes of the AT-ATs. The atmosphere is thick with dust or mist, adding depth and a sense of scale to the scene. The ground is flat and barren, suggesting a desolate, alien-like environment, possibly reminiscent of Tatooine from Star Wars. The overall mood is both epic and contemplative, blending elements of science fiction with the natural beauty of a sunset. Style: Cinematic, photorealistic, high contrast, dramatic lighting, sci-fi, atmospheric. --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88gs1euSvyJNblV3ZY71J7ntp3yjgzhYxBHaYokVAj0oQmGaTgyx25qQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA:prompt-0009",
+    "source_metadata": {
+      "article_index": 124,
+      "article_title": "Vol.204 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749252680,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd",
+    "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXx8iauRln4YAe0iaDTb0Zvqncd7P4u6hSgFhhjTraTiaMHsbP8UQYGOw2EA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8W5Jrk0LeURE1qCj4-1705372d1a4a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "89467f6a3037a59dbab2b61aa761651bfdac0f733468a1659582a558b9a56171",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "quality": "2",
+    "stylize": "1000",
+    "v": "5"
+  },
+  "previous_version": null,
+  "prompt": "A young and strikingly beautiful flamingo dancer is executing the flamenco dance with passion on top of a majestic mountain. The sky above is a dramatic mixture of orange and red hues, lending an air of passion and intensity to the scene. The image is a close up shot in a cinematic style, with intricate details and super-resolution, giving the viewer a sense of hyper-realism. The volumetric lighting creates a sense of depth, while the use of sharp focus and film grain adds texture and dimension to the scene. --ar 16:9 --quality 2 --stylize 1000 --v 5",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXx8iauRln4YAe0iaDTb0Zvqncd7P4u6hSgFhhjTraTiaMHsbP8UQYGOw2EA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA:prompt-0006",
+    "source_metadata": {
+      "article_index": 280,
+      "article_title": "Vol.63 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734575449,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489723&idx=1&sn=522134f09c6483c6bcd4ddb15f930bfb&scene=58&subscene=0",
+    "title": "Vol.63 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489723&idx=1&sn=522134f09c6483c6bcd4ddb15f930bfb&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.63 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

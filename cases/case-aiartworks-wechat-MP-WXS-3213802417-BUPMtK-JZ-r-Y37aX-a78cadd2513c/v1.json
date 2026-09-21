@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheu1wZV2NB3jDPKMt66MDISjvtGlgCdZDCV6Q90iaPyfgsicK28bfD3mWInILs4sSdGKxh6WGPVFoEA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BUPMtK-JZ-r-Y37aX-a78cadd2513c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6b2ac45dc8fd06e2981b202ca4703681117f217d540367cc7bf21c80473b098b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "33",
+    "profile": "ip5kw88",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Weird things are happening, Super Ornate carvings on French armor, photo realistic, masterpiece, skulls, dragons, --chaos 33 --ar 3:4 --raw --profile ip5kw88 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheu1wZV2NB3jDPKMt66MDISjvtGlgCdZDCV6Q90iaPyfgsicK28bfD3mWInILs4sSdGKxh6WGPVFoEA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0018",
+    "source_metadata": {
+      "article_index": 172,
+      "article_title": "Vol.160 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744857016,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+    "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

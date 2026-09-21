@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycicicvlz1gic8kC6cvOdeCbicdqpOFRMCfSbnYjfvswribzibhfVJemYmlibRibg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Mj35-k7nUC-hAdIln-ed52b7621478",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "171b97daeb83d735491cb27e36a702093fd720e9dceb878cc3d061f21f874781",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "35",
+    "profile": "yls4h6m",
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A photograph of the kaleidoscopic woman: a symmetrical repetition of a woman obtained by multiple reflections of an object --chaos 35 --ar 4:5 --raw --profile yls4h6m --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdXbGzn0VVl474n6WpkBycicicvlz1gic8kC6cvOdeCbicdqpOFRMCfSbnYjfvswribzibhfVJemYmlibRibg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA:prompt-0015",
+    "source_metadata": {
+      "article_index": 126,
+      "article_title": "Vol.202 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1749079826,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Mj35-k7nUC-hAdIlnZ1YSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd",
+    "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497709&idx=1&sn=4dbd14f76a19e1d5e0b2ec3c3fcfe853&chksm=96eb85be1b5ff5b3b28939588235cbce223349b6b1c225add70dfa6dbb539cdcaab0ae9b1516#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.202 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

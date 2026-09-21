@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdIMUwqjeyTtc6nYnXYMLV6JA5md6ialSTbgHe2g3FVJkgzichCygmaOldyGzDibNUM3XevaZxxSx8HA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_70wJNfWN1G4cdImXmWWD6Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-70wJNfWN1G4cdImXm-89ef5b2abb34",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9281623763a491d3c51b037c7991227a9b3a747c632b04e32a6d1a0f365405be",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "quality": "2",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "((Master's work)),((Best picture quality)),((Higher quality)),((High detail)),((Ultra-high resolution)),((8k resolution)),((Depth of Field)), cute China little boy, Buddhist gestures, Zen influence, top wheel, relic, halo behind him, ray, perspective, black light style, China style, light painting, Unreal Engine, 3D rendering, ultra-realistic --ar 3:4 --quality 2 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdIMUwqjeyTtc6nYnXYMLV6JA5md6ialSTbgHe2g3FVJkgzichCygmaOldyGzDibNUM3XevaZxxSx8HA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_70wJNfWN1G4cdImXmWWD6Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_70wJNfWN1G4cdImXmWWD6Q:prompt-0001",
+    "source_metadata": {
+      "article_index": 303,
+      "article_title": "Vol.43 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1732620654,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_70wJNfWN1G4cdImXmWWD6Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488124&idx=1&sn=c8b39d39ad5a24f1b3521e360b0db7b6&scene=58&subscene=0",
+    "title": "Vol.43 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488124&idx=1&sn=c8b39d39ad5a24f1b3521e360b0db7b6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.43 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

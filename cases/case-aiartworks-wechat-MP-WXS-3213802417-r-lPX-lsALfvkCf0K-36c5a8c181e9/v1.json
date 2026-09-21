@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaXZe2yJwm6ddfDPPGEAeKo4TYynvvZLiciaYF4fRdp9eZBE6jcCYDAVw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-r-lPX-lsALfvkCf0K-36c5a8c181e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3c4e9626bcbd5c18d17c718332fd2a8391469876391cfc5ac5b4f5788bdf0a18",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ek1k6o9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A glamorous Korean girl in her 20s, her skin beautifully sun-kissed under the bright midday sun, rides her skateboard freely down a quiet seaside slope. Dressed in a short sky-blue pleated skirt, a white polo shirt, ankle socks, and worn canvas sneakers, she embodies the spirit of youth and freedom. Her black baseball cap rests gently over her shoulder-length hair, fluttering softly in the ocean breeze. With perfect balance and effortless grace, she glides along the smooth asphalt road, the salty wind brushing past her and the shimmering waves dancing beside her. On her left stretches a golden beach that seems to go on forever, and on her right, a row of timeworn Japanese-style houses lines the road beneath a web of overhead power lines, creating a timeless, cinematic frame. She never looks back. Her posture is relaxed yet focused, as if she’s chasing the horizon itself. Captured from behind, her silhouette moves gracefully through the sunlit scene, her skirt fluttering in the breeze. This moment, filled with the warmth of the sun and the serenity of the sea, was captured with a Fujifilm X-T4 and a 35mm f/1.4 lens, preserving the richness of natural light and emotional stillness with a soft, film-like texture. --ar 9:16 --profile ek1k6o9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdIKv2tLZYLx7v9Y3qNzowKaXZe2yJwm6ddfDPPGEAeKo4TYynvvZLiciaYF4fRdp9eZBE6jcCYDAVw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw:prompt-0015",
+    "source_metadata": {
+      "article_index": 189,
+      "article_title": "Vol.145 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743388259,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_r~lPX-lsALfvkCf0Keiubw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495385&idx=1&sn=0b265f092cc64274b55fc7572be03c49&chksm=968cba28db8951d815bb87656228e689827d384ed318150c0f852e240c677079855dda24cb0a#rd",
+    "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495385&idx=1&sn=0b265f092cc64274b55fc7572be03c49&chksm=968cba28db8951d815bb87656228e689827d384ed318150c0f852e240c677079855dda24cb0a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

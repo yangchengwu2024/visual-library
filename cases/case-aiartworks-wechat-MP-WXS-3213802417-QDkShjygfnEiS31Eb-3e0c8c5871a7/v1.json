@@ -1,0 +1,140 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia1dPMJgXia2OV0Mnz67MyTywuS2CJVPrbLpnicHWQ7EhxFpnrh70lQCrw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaEIMibBQqFXTSfNSCWSZibuP8VvmLITIJiceobVxGOLicMY03Qsb6ozRd6Q/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iam9xrM71Ajueg9Z40yuXex4qVdalbZicCpib0Mba3UreC1uTQROw8AADw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaODtHvW0JfZ0ziaTUUxvibAzqa5EqibwAEerBI3KnRwnp9jf5eOshT7e3g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaRhyvHgWV8roHFqCqNJkq7zau475GKKafJ2QD3SQWsCt0hJJLEGAjxQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-4"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iat4yBrjwL9tiaVF0M8vlczR1qpDEJhuPFz4m454Qh7PNtuibzDwPmeSmA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-5"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia2bdP0wQ65J1VPvoAoaLVA4RX6uPibzLJYAUtr4y83PjfXBgGMxC8sYw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-6"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaaKX2xe3MSwgtJf8weDWEtNjt7f5oUvBSfuZsICxulnCoNT0X4Cc1Mw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-7"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-3e0c8c5871a7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d0ee42d0c86475d0bf031ccb7f05bcec95abe380d256fad8ba80858dd8d2bff3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "10",
+    "niji": "6",
+    "profile": "bheikqs",
+    "raw": true,
+    "sref": [
+      "1567159629",
+      "680572301"
+    ],
+    "stylize": "500"
+  },
+  "previous_version": null,
+  "prompt": "Heed an anime manga cosmic surreal fantasy painted tale of a character. Misadventures will curse the ones who venture in for an evil witch lives there. Pay heed to the old tales. It may well be that they alone keep in memory what it was once needful for the wise to know, i can’t believe how beautiful it is. unique style. whimsical --chaos 10 --ar 4:5 --raw --sref 1567159629 680572301 --profile bheikqs --stylize 500 --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia1dPMJgXia2OV0Mnz67MyTywuS2CJVPrbLpnicHWQ7EhxFpnrh70lQCrw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaEIMibBQqFXTSfNSCWSZibuP8VvmLITIJiceobVxGOLicMY03Qsb6ozRd6Q/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iam9xrM71Ajueg9Z40yuXex4qVdalbZicCpib0Mba3UreC1uTQROw8AADw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaODtHvW0JfZ0ziaTUUxvibAzqa5EqibwAEerBI3KnRwnp9jf5eOshT7e3g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaRhyvHgWV8roHFqCqNJkq7zau475GKKafJ2QD3SQWsCt0hJJLEGAjxQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-4"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iat4yBrjwL9tiaVF0M8vlczR1qpDEJhuPFz4m454Qh7PNtuibzDwPmeSmA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-5"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia2bdP0wQ65J1VPvoAoaLVA4RX6uPibzLJYAUtr4y83PjfXBgGMxC8sYw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-6"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaaKX2xe3MSwgtJf8weDWEtNjt7f5oUvBSfuZsICxulnCoNT0X4Cc1Mw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-7"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA:prompt-0001",
+    "source_metadata": {
+      "article_index": 169,
+      "article_title": "周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1745116244,
+      "image_storage": "external_url",
+      "image_url_count": 8,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 8
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496028&idx=1&sn=ddf4f9e90436d48bbb1f6b7415bad406&scene=58&subscene=0",
+    "title": "周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496028&idx=1&sn=ddf4f9e90436d48bbb1f6b7415bad406&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 2",
+  "version": "v1"
+}

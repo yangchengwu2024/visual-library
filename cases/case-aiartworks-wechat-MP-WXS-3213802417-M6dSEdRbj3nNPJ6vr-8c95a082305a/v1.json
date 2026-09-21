@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqp6clecEgNFPicWItDyenbCxK7ciaFYG0utoOgib1XK62rm01IbicryR50YA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-M6dSEdRbj3nNPJ6vr-8c95a082305a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "97ddde640970cfec48553f64382d96487a28f2733fa12f1be99586900cd4702b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The photo is a medium shot capturing a joyful moment of three European athletes. The photo shows two joyful athletes and one athlete biting a gold medal, smiling broadly, dressed in purple tracksuits. The medal is large, and they are holding it in their hands and biting it with their teeth. The shot focuses mainly on their upper body and face, capturing the emotion of the moment in great detail. She has long hair, a lock of hair falls over her face, emphasizing her facial features and expression of elation. The lighting is bright, emphasizing her winning expression and the gold medal, making it the focal point of the photo. The background is blurry, but we can see the audience in their seats, blurred, and the stadium lights, making the athlete and the gold medal stand out clearly. Sony α7 III camera, equipped with an 85mm lens with an F1.2 aperture. --ar 2:3 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqp6clecEgNFPicWItDyenbCxK7ciaFYG0utoOgib1XK62rm01IbicryR50YA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 207,
+      "article_title": "Vol.132 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741919433,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+    "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

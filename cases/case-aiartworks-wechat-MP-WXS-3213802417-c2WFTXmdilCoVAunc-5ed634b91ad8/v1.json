@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpHKWxxEjIRdtlMVqrWdt5FcwPewYAFanCiaSR2kjwG0lwNDOWyDzauCw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpEb8zUQ6RYy90zAUT9tDHot5HRbv0VulXsZogyEjwo0Wibbw7DqvGV3A/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c2WFTXmdilCoVAunc-5ed634b91ad8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "81ce7a77575332520e76fab868ac935d8871fdfe46fb6edf3c6cd9a9b37d960a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "215:466",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "tiny astronaut in style of illustration, on black background, astronaut floating in a deep space, wallpaper worthy --ar 215:466 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpHKWxxEjIRdtlMVqrWdt5FcwPewYAFanCiaSR2kjwG0lwNDOWyDzauCw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpEb8zUQ6RYy90zAUT9tDHot5HRbv0VulXsZogyEjwo0Wibbw7DqvGV3A/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q:prompt-0019",
+    "source_metadata": {
+      "article_index": 209,
+      "article_title": "Vol.130 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741746626,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c2WFTXmdilCoVAuncKJ25Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494683&idx=1&sn=ae36dd6737be2fffbd173f3e61367278&scene=58&subscene=0",
+    "title": "Vol.130 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494683&idx=1&sn=ae36dd6737be2fffbd173f3e61367278&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.130 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

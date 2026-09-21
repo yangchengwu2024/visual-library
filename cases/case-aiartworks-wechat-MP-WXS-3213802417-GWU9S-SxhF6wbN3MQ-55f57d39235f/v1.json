@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLPYfhAibWKTyO5cZTEibEN1oLq9cmxfyd2ao5B9YPnU6be08WMKbEUQC3EhBrxm8ULJ7ibUOt9pTfhOZ4fClHlZI77tcOIZdbOo/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WALAlX7TCrALLQuUkkeg8NJ89fxUtPQW7SNx5ccw6VxhkoRX790hul8ia4ou6t0Xl7CtM9ITLSFAF9SwiaGTuLhEhciajcCsMY4Hw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAbFK7aiccQ9adReI8a409M489ZscbVlguOwiaicDlra6O5GCa1UmdjBzN7ZqiaFcz8H1sqswXPtIqicCKI7Zg97mNyK5SACNibDf4eg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-55f57d39235f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e16a03317c17f27228312df6ec58fcc6e71306d344efb202d0df4327531bec26",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "qmhav6e",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Two full body fashion models side by side, high fashion editorial, fully visible head to toe, bright direct summer sunlight, polished campaign photography. Left: striking brunette, dark glossy hair, cobalt blue t shirt tucked into crisp white short shorts, red knee socks, pale blue tabi shoes, one foot on a classic black and white football, strong grounded posture, calm confident victorious expression, looking straight at camera. Right: sweet young blonde, soft supportive expression, white headscarf tied under chin, white and pale blue small gingham vichy spaghetti strap dress, white lace apron tied at waist, red knee socks, glossy red Mary Jane shoes, holding small woven wicker basket, stance gentle and slightly turned toward brunette. No mixed clothing, no duplicated accessories, realistic hands, elegant proportions, editorial precision, subtle cinematic texture, harmonious blue, white and red color palette. --ar 9:16 --profile qmhav6e --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLPYfhAibWKTyO5cZTEibEN1oLq9cmxfyd2ao5B9YPnU6be08WMKbEUQC3EhBrxm8ULJ7ibUOt9pTfhOZ4fClHlZI77tcOIZdbOo/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WALAlX7TCrALLQuUkkeg8NJ89fxUtPQW7SNx5ccw6VxhkoRX790hul8ia4ou6t0Xl7CtM9ITLSFAF9SwiaGTuLhEhciajcCsMY4Hw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAbFK7aiccQ9adReI8a409M489ZscbVlguOwiaicDlra6O5GCa1UmdjBzN7ZqiaFcz8H1sqswXPtIqicCKI7Zg97mNyK5SACNibDf4eg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0004",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

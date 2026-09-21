@@ -1,0 +1,95 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOJOamJkOl5bL5l2Qv43GKpdtunnW606QfC2yR4FM0zlyLywG86HVSqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOAUX7IL8JowkNR5BghO5Ky3Dkc19syKeqwbNibtAicAP6HhaDtwFG0Few/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOgwlMEZSGpsBRT2KQBWqTjNCX6caX47zQCEnqVDvPWxDBC4lJb3lGJQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShercHS1u3PiaeKOyhQBXO7RQFqHw4ZToeb4KvmacxYJBGjAicFL7caZXd6g1SxyJytyqPzib4Zialic6Cg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ETODmezWt5CG7EzAD-70188e5072e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2d7658e5e361d4a7dacca93ca0f3bc56a5cc35165629b3239b5a9f1e13221c00",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "1v84sc5",
+    "sref": [
+      "https://s.mj.run/pp0yGu0Qkp4",
+      "https://s.mj.run/6fdNcNB1YOo"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "Minimal geometric cutout illustration. Winter scent mood cold, fresh, cozy. Window showing a snowy landscape; inside, warm desk scene with book, notebook, teacup, soft lights. Main colors: sky blue, reddish brown, deep green. Use objects like snow, trees, knit or check patterns, warm bulbs. Calm and balanced graphic layout, flat shapes, paper-cut texture. Gentle, poetic winter atmosphere. --sref https://s.mj.run/pp0yGu0Qkp4 https://s.mj.run/6fdNcNB1YOo --profile 1v84sc5",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOJOamJkOl5bL5l2Qv43GKpdtunnW606QfC2yR4FM0zlyLywG86HVSqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOAUX7IL8JowkNR5BghO5Ky3Dkc19syKeqwbNibtAicAP6HhaDtwFG0Few/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOgwlMEZSGpsBRT2KQBWqTjNCX6caX47zQCEnqVDvPWxDBC4lJb3lGJQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShercHS1u3PiaeKOyhQBXO7RQFqHw4ZToeb4KvmacxYJBGjAicFL7caZXd6g1SxyJytyqPzib4Zialic6Cg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA:prompt-0011",
+    "source_metadata": {
+      "article_index": 46,
+      "article_title": "Vol.286 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1763508615,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 11,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd",
+    "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

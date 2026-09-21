@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-X11mziQDF7Jmoj9PJ-6efd596f13c2",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0MItIajjbupMOf36YibIbztiawoqOWZq0KNsmg2zg63gTA6aXbI0UAu7Q/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw:prompt-0014",
+      "source_metadata": {
+        "article_index": 311,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.36",
+        "association_confidence": "high",
+        "createTime": 1731896423,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 14,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487195&idx=1&sn=17e5df0fbfbf1cae4d765d4e0f630dbb&chksm=97b00205a0c78b13f04ba69444046e348dc444dfcc56efbb3bd4eaf67a348a59e41333485db3#rd",
+      "title": "Midjourney | 精选作品及提示 - Vol.36 · 提示词 15",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487195&idx=1&sn=17e5df0fbfbf1cae4d765d4e0f630dbb&chksm=97b00205a0c78b13f04ba69444046e348dc444dfcc56efbb3bd4eaf67a348a59e41333485db3#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.36 · 提示词 15",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.36 · 提示词 15"
+  ]
+}

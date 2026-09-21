@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJldOVDibic0ZZDial5NjEFF9bwJvOPiaAibVasKD0h2G4REm9ZIgIEwosYgA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAliaRtIfyDiaiapW6559icyPxUWic2GQDRcpQ9AP5IufWgjTQ69JnKDwJjMg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKjVdU5lj7h6ARjDW-ab21c0bf8e93",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "81e75d854d5c80eded9bc668bb9bc276963c53379d2071b3f8c3ee9a0617ba42",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4"
+  },
+  "previous_version": null,
+  "prompt": "A relaxed person lying in a hammock tied between trees, tropical outdoor setting with lush greenery, holding a circular object in hand, perspective from above the legs, daylight shining through leaves, soft warm lighting. Apply a Pinktober theme overall color tone slightly pink with gentle magenta and blush accents, dreamy and calm mood, soft shadows, natural textures of skin and fabric, enhance warmth and serenity. Cinematic composition, lifestyle editorial style, high detail, 4k, soft sunlight filters through leaves, natural pink tint overlay. --ar 3:4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJldOVDibic0ZZDial5NjEFF9bwJvOPiaAibVasKD0h2G4REm9ZIgIEwosYgA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAliaRtIfyDiaiapW6559icyPxUWic2GQDRcpQ9AP5IufWgjTQ69JnKDwJjMg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA:prompt-0008",
+    "source_metadata": {
+      "article_index": 59,
+      "article_title": "Vol.272 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760657416,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+    "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

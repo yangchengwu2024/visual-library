@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531WME04PEUjKic2kv2UVWfUPlPbNr8ic2odcAwGiaLPCQF8lOlHL8Tl5xvOg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DHurP5GAURdLMGIFg-975ce51b5f84",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "19c6f48c6d7adb78b4cec365826c56821005012a92e2069292bb320298f48171",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "sk7q23m",
+    "quality": "2",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Grumpy mountain orc portrait taken outdoors under a vibrant blue sky. The orc leans forward slightly, tusked mouth curled into a low growl, furrowed brow casting deep shadows over his small, sharp eyes. Weathered greenish skin with cracked texture and deep pores adds realism. Heavy furs, bone accessories, and rough-forged metal armor show signs of wear. Wind lifts strands of coarse black hair. Rugged alpine cliffs in the distance suggest his native highlands. Shot on Kodak Portra 160 with soft, diffused daylight. Slight film grain enhances authenticity. Photographed in the style of Annie Leibovitz's character portraits. --chaos 10 --ar 9:16 --quality 2 --raw --profile sk7q23m --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531WME04PEUjKic2kv2UVWfUPlPbNr8ic2odcAwGiaLPCQF8lOlHL8Tl5xvOg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 131,
+      "article_title": "Vol.197 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748657273,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0",
+    "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

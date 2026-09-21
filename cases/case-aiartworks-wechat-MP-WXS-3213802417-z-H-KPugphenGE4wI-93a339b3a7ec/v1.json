@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK31SRc6iaUc0AC8pZluDT3DrPalv8nt4gDeeP9ianp2fQLwr63dicOQUtDQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsVzibUKBrW02TwUG39m8cliblX3PEDdpicJZ0l7Q8NFw9RTxA62Fic2qCKg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-93a339b3a7ec",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "758a6277d4b5a969bff96cfd66ab046d93446f23fb2b8d301aade51c5e575ebf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "2",
+    "stylize": "300",
+    "v": "5"
+  },
+  "previous_version": null,
+  "prompt": "A palette knife painting of a sad soldier with a gun, resting in a field of flowers, wind blowing the flowers and grass in a direction, lush green fields, --chaos 2 --ar 9:16 --stylize 300 --v 5",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK31SRc6iaUc0AC8pZluDT3DrPalv8nt4gDeeP9ianp2fQLwr63dicOQUtDQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsVzibUKBrW02TwUG39m8cliblX3PEDdpicJZ0l7Q8NFw9RTxA62Fic2qCKg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 192,
+      "article_title": "Vol.144 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743129064,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495309&idx=1&sn=b173cd1448429c9bde9e8c9f1d106fd2&scene=58&subscene=0",
+    "title": "Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495309&idx=1&sn=b173cd1448429c9bde9e8c9f1d106fd2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

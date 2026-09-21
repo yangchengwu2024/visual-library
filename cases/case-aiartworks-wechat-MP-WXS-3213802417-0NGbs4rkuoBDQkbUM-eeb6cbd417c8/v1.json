@@ -1,0 +1,79 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAHmxHIcM81VYTNuicdichVoVlZUrU99M1KnJLibU8QHIuDL8M04y0ZaJnzNDXRfDF6QTGgO15ryuUhsV14AUnsDkbQ8js6nSZKicU/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-eeb6cbd417c8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7ef69fa4140e26c78b7a791d80e774986a3cff4585b7148e867999de300c58d6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "40",
+    "hd": true,
+    "preview": true,
+    "profile": "gbbrugz",
+    "sref": [
+      "3165465498"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "the new normal, manga mania --chaos 40 --ar 2:3 --sref 3165465498 --profile gbbrugz 5fddqvk qimz1yw yqgyz3g 8k66rnn --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDicjtHSvpNqDYE9gJj36VsBF6fGZ2zyhcy0BfnvLvgho9HPlEn0HiaKaT7oZZcJyNyicwXNLqhnP2BNVMCicBJ7RobJiaKxGaeFOWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAHmxHIcM81VYTNuicdichVoVlZUrU99M1KnJLibU8QHIuDL8M04y0ZaJnzNDXRfDF6QTGgO15ryuUhsV14AUnsDkbQ8js6nSZKicU/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0000",
+    "source_metadata": {
+      "article_index": 17,
+      "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783812654,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+    "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

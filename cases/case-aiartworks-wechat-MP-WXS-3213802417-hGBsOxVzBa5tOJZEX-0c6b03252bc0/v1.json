@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf9Wu1D7DlCre0ASek0VdykvaeuWqDRSO5Y2nYHibQicSuT85VicSt6sicObicxriaNoGcyRUSicDcYY2WNA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hGBsOxVzBa5tOJZEXZX4VQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hGBsOxVzBa5tOJZEX-0c6b03252bc0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4036e15e1ae1ba98dd630e0623dc08b99582cc875251cf238fd607d1010a4110",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "sref": [
+      "417994920",
+      "1037495145::1.5"
+    ],
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An ice blue crystaline dragon attacking a ski resort during Christmas, wings spread, destroying the resort with magical fire. The skiers and employees flee --ar 9:16 --quality 2 --style raw --sref 417994920 1037495145::1.5 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf9Wu1D7DlCre0ASek0VdykvaeuWqDRSO5Y2nYHibQicSuT85VicSt6sicObicxriaNoGcyRUSicDcYY2WNA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hGBsOxVzBa5tOJZEXZX4VQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hGBsOxVzBa5tOJZEXZX4VQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 282,
+      "article_title": "Vol.61 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734402727,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hGBsOxVzBa5tOJZEXZX4VQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489523&idx=1&sn=e3a66b4e844c4bcbfc90183ab3029df7&scene=58&subscene=0",
+    "title": "Vol.61 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489523&idx=1&sn=e3a66b4e844c4bcbfc90183ab3029df7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.61 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

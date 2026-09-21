@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNfRYVMibYn7ALXRIYic5iaQY7sQGIeDotYyNTeiaJiamNSpT5librVpE2yibnqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZU3vb4szcKyBT3sRF-9c1d2a2bfc41",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d0738c59f46c58a7dfb7a15289824e68b9fb858ca5b916ce563327a25a11979f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "9f97rx8"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic low angle shot of a magnificent phoenix rising from flames, its six wing sections each depicting different heroic scenes - achievement medals, warrior battle, protective embrace, survival through adversity, championship victory, sacrificial noble gesture. Vertical composition with bird ascending toward bright light, intense orange and red fire tones with golden highlights, mythical power emanating upward, dramatic film lighting, smoke and ember particle effects --ar 9:16 --profile 9f97rx8",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNfRYVMibYn7ALXRIYic5iaQY7sQGIeDotYyNTeiaJiamNSpT5librVpE2yibnqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg:prompt-0015",
+    "source_metadata": {
+      "article_index": 108,
+      "article_title": "Vol.221 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750721460,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd",
+    "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

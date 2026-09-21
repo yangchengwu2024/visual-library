@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-t4q0CluwXujDbUbqV-4888752b2561",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdGekFaHoTZibI0JWfnrzDgar6xQZbwd8CAgNlzZBQWprFEJMg1hE7dleLeoVGSML9wj3BU6CkarJA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g:prompt-0010",
+      "source_metadata": {
+        "article_index": 121,
+        "article_title": "Vol.207 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1749522667,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 10,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_t4q0CluwXujDbUbqVfQv1g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497930&idx=1&sn=a0701e20ce4437d1d44ccae96ad9e284&scene=58&subscene=0",
+      "title": "Vol.207 - Midjourney | 精选作品关键词提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497930&idx=1&sn=a0701e20ce4437d1d44ccae96ad9e284&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.207 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "title_aliases": [
+    "Vol.207 - Midjourney | 精选作品关键词提示 · 提示词 11"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBicIia1Hn62pJ4bNkM0uictMicN5UVcFgFbdb0Q6z9PExVkZRcbWAPiblcExow3HJdbBIuHACzuic0GWCBpicNgkv6A1s8bd4B6SMUl4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-a128de13ec8e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b647a2bbe8d9ce11211f39da6fea11cc6355f416dc618d026332e114e2f341a9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "hd": true,
+    "profile": "1ews86m",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Candid snapshot of a young woman sleeping drunk, side profile resting on crossed arms on a muted light blue tablecloth at a US prom. She wears a glamorous white tube top prom dress with pearl details, smudged party makeup (pink shimmer eyeshadow, curling mascara, faded rosy lips), silver necklace, and bold ring. Spilled red wine on her table. Background: handsome Caucasian male, toned, sitting cross legged on a wooden chair at a table, drinking champagne, textured wavy gel styled black hair, navy tuxedo, 3 button vest, black dress shoes. Violet carpet littered with popped balloons and confetti. Silver tinsel curtain on wall. Modernly reinterpreted late 90s early 2000s Y2K teen movie still, fashion editorial aesthetic. Strong colorful party lighting, PBR, global illumination, precise contact shadows, high resolution. Slight high angle, medium close up, 35mm lens, shallow depth of field on sleeping girl, subtle motion blur, cinematic color grading. clean detail, no noise --chaos 5 --ar 3:4 --raw --profile 1ews86m bm2mafj --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBicIia1Hn62pJ4bNkM0uictMicN5UVcFgFbdb0Q6z9PExVkZRcbWAPiblcExow3HJdbBIuHACzuic0GWCBpicNgkv6A1s8bd4B6SMUl4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0008",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 9",
+  "version": "v1"
+}

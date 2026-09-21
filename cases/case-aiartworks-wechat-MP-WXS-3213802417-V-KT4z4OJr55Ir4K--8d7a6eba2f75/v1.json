@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheDhUHqK99RCGK13TzM6ar3aEM8EOYmBzE1zLZGkpurlI24RMxrJJuShkHMOwiar2K74tESlfcW2Fg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-V-KT4z4OJr55Ir4K--8d7a6eba2f75",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "720844e9744f37d85de7ee2c9b805ace9d1c6e439da991828994217528cdb712",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "exp": "100",
+    "profile": "yxifoak",
+    "quality": "2",
+    "raw": true,
+    "sref": [
+      "166709980"
+    ],
+    "stylize": "600",
+    "sv": "4",
+    "sw": "370",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A hand floating in the air, against a white background, with a blurry, grainy, and low-quality appearance, in a cinematic style of photography, reminiscent of Fujichrome Provia 400H film, with soft lighting, in the style of Fujifilm. --chaos 10 --ar 3:4 --exp 100 --quality 2 --raw --sref 166709980 --profile yxifoak --sv 4 --sw 370 --stylize 600 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheDhUHqK99RCGK13TzM6ar3aEM8EOYmBzE1zLZGkpurlI24RMxrJJuShkHMOwiar2K74tESlfcW2Fg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g:prompt-0007",
+    "source_metadata": {
+      "article_index": 140,
+      "article_title": "Vol.189 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747881025,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497114&idx=1&sn=d7fed675a7c61aa2022f4f2e0fa38d47&chksm=963cdc18ad60b6113bb14037b7b1a0b84f9ff64c68969ed7faf0f3e86124f22c0501c964d21e#rd",
+    "title": "Vol.189 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497114&idx=1&sn=d7fed675a7c61aa2022f4f2e0fa38d47&chksm=963cdc18ad60b6113bb14037b7b1a0b84f9ff64c68969ed7faf0f3e86124f22c0501c964d21e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.189 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

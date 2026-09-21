@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDDicEyxTNdicXV682dbPAuXuCoJs15gT803gw4POsv7OcrUYvH02Kxf9ibrtt7wxNUDxgicpRjPJiaQ1gHmTlfribekGqG3tfZGtreo/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gsGJoSqpuVve8q0QO-7e8348d4dff4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b638a275fb155e0999e8739c6e81dd2ff45accc13458a80a46477f21a5e8e143",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "fsp9hhw",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Editorial cinematic portrait, ultra close up of a Yakut woman, face filling the frame, centered composition with slight forward angle, direct eye contact, neutral expression, lips gently closed, faint tension in the gaze. Traditional Yakut attire with a structured silver headpiece across the forehead, central engraved medallion with hanging chains framing the face, long straight black hair falling behind, vivid red garment with sculptural sleeves at frame edges. Shot on Canon 100mm macro lens, eye level, extremely shallow depth of field. Strong natural daylight with crisp directional light, uneven falloff, slight highlight clipping on forehead and cheeks, subtle shadow under chin and jawline. Visible skin texture with pores, fine lines, natural sheen, metal surface imperfections, slight tarnish, fabric fibers. Faint facial asymmetry, tight crop at chin and top of headpiece. Background clean blue sky softly blurred with minimal cloud traces, warm skin tones against cool sky, low grain with subtle shadow noise. --ar 9:16 --raw --profile fsp9hhw --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDDicEyxTNdicXV682dbPAuXuCoJs15gT803gw4POsv7OcrUYvH02Kxf9ibrtt7wxNUDxgicpRjPJiaQ1gHmTlfribekGqG3tfZGtreo/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg:prompt-0002",
+    "source_metadata": {
+      "article_index": 37,
+      "article_title": "Vol.295 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1777246268,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0",
+    "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

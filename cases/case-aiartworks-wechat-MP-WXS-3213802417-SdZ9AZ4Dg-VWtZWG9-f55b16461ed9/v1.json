@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9JIY7Lnm1uDyHHEauAZSbXkPpdhmm5myP37z1mrk9wD0YUb8LFEnx9A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SdZ9AZ4Dg-VWtZWG9-f55b16461ed9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a937a09b492cbe08e92d7ac6c4e20646fa6836f8233eb1f7adf50abd702492c8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "no": [
+      "kimono"
+    ],
+    "quality": "2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cute 20-year-old Japanese woman transformed into an elf. Standing, full body. Fair skin. Long, narrow eyes. Pointy, long, thin ears. Silver hair that reaches the ground. She is wearing a cute red and white Santa Claus outfit. She is smiling and carrying a large white bag filled with presents. The elf's face is perfectly symmetrical and undeformed. She has five perfect fingers with no missing fingers. The background is a Christmas fairy village. Captured with a Sony α1 and a Leica Noctilux-M 50mm f/0.95 S lens, with 10-24mm, an aperture of f/8, iso800, and a shutter speed of 1/2000 sec. lens, utilizing a shallow depth of field at f/0.95 to emphasize the elf and sleigh while blending the background into a creamy, fantastical bokeh. The lighting is a mix of moonlight and subtle, golden fairy lights, achieving a harmonious balance with cinematic tonality graded in ACES color space. Rendered in ultra-sharp detail at 16K resolution with exceptional clarity, showcasing every strand of hair, the texture of her outfit, and the magical essence of the scene. Important: Prioritize quality and depth. Focus on the quality of the output over speed. Always remember that giving yourself enough time for processing will improve the final result. --no kimono --ar 9:16 --quality 2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9JIY7Lnm1uDyHHEauAZSbXkPpdhmm5myP37z1mrk9wD0YUb8LFEnx9A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w:prompt-0010",
+    "source_metadata": {
+      "article_index": 283,
+      "article_title": "Vol.60 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734346460,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0",
+    "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

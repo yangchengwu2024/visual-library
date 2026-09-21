@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFArsjic5ZUtCmyCZ3J6k3PCmaoSRyhwOdr4da9LpeKQIVPwDtgTX7fcwRF7ibWqVliclze7kRuSLxw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ox1j8sKa3sgpTBA0D-d64210a24937",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a3a568fbba836240de6627de9ede6f8df4f1b054806d2f1e5c30f557d0bb6f6e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The number \"2025\" is lit up in large letters on the water surface, fireworks light it up against an orange sky, creating a cinematic, photorealistic scene. --ar 16:9 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFArsjic5ZUtCmyCZ3J6k3PCmaoSRyhwOdr4da9LpeKQIVPwDtgTX7fcwRF7ibWqVliclze7kRuSLxw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw:prompt-0007",
+    "source_metadata": {
+      "article_index": 312,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.35",
+      "association_confidence": "high",
+      "createTime": 1731810031,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ox1j8sKa3sgpTBA0DXoOxw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487179&idx=1&sn=7ed71e34c3296f98dfd31645d07a336f&chksm=9622fed3689121b122faf932e3a737c4ee1a153850b501f49a799334f9f0c8869fe08d47f61e#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.35 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487179&idx=1&sn=7ed71e34c3296f98dfd31645d07a336f&chksm=9622fed3689121b122faf932e3a737c4ee1a153850b501f49a799334f9f0c8869fe08d47f61e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.35 · 提示词 8",
+  "version": "v1"
+}

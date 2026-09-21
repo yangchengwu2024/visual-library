@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfBBctkNICQI1gbMqqpESLiaDWnGE31OFtcFib6ZQZJPIwiabfbT3dRfBtG0wldWDLL0THqPAlJBDqkw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JhfeNX2DvcJsIpKcNvUnog#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JhfeNX2DvcJsIpKcN-6fa695b21d06",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e99f4f369fceb7755bac7f76560038d6805410af58086b8b5ebb2fc718beae78",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "vhjqkn7",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/7NYQWKpFGtc",
+      "https://s.mj.run/ueaRHWC_I4Y"
+    ],
+    "sw": "400",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/tB87rtrkN5U https://s.mj.run/_gzfEbhVKiU Dark cinematic background--a single high voltage cable, perfectly centered, sharp from front to back, extending from the bottom center to the distant horizon, photorealistic texture and lighting, minimalistic composition, symmetrical framing, ultra-sharp detail along entire length of the cable, Dark Background shallow depth of field applied only to the dark-grey sky background, creamy bokeh, high-end DSLR lens simulation, 32k resolution --ar 9:16 --raw --sref https://s.mj.run/7NYQWKpFGtc https://s.mj.run/ueaRHWC_I4Y --profile vhjqkn7 --sw 400 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfBBctkNICQI1gbMqqpESLiaDWnGE31OFtcFib6ZQZJPIwiabfbT3dRfBtG0wldWDLL0THqPAlJBDqkw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JhfeNX2DvcJsIpKcNvUnog#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JhfeNX2DvcJsIpKcNvUnog:prompt-0018",
+    "source_metadata": {
+      "article_index": 176,
+      "article_title": "Vol.156 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744425204,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JhfeNX2DvcJsIpKcNvUnog",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495775&idx=1&sn=4cfe2882f6a06006b1a02fa65596f548&chksm=968727d6cc2d5a906d0d18b76646bd2fdab3f5fd22fc95d956d30d90e2a4eb52860a23d2831d#rd",
+    "title": "Vol.156 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495775&idx=1&sn=4cfe2882f6a06006b1a02fa65596f548&chksm=968727d6cc2d5a906d0d18b76646bd2fdab3f5fd22fc95d956d30d90e2a4eb52860a23d2831d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.156 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

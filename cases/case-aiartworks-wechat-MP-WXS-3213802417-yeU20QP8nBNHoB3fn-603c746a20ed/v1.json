@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaIGwlswQhicNNt3ia0GWnWpic2HzaC1OoIkRCHg7IzLySzTfwv6RaQvI8A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-603c746a20ed",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "01bfa1f091dd47c790d1ace98aa1ad97bd4e49983a74495aed808388c7023a70",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "profile": "jryden7",
+    "sref": [
+      "https://s.mj.run/3D4bXE_WAIw",
+      "https://s.mj.run/0TqqRNNoePI",
+      "https://s.mj.run/TiczqaeYmE0",
+      "https://s.mj.run/Sk8_J1T87-Q",
+      "https://s.mj.run/bApkalOkVac",
+      "https://s.mj.run/CL4Dy4OdxGU"
+    ],
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/CL4Dy4OdxGU https://s.mj.run/WG3ukVlnV5c Cute doodle styles, Thick line drawings, In the center of the forest is a large alien UFO, huge colorful cartoon explosion bursting outward, fragments of ship flying through the air, surprised aliens and shocked expressions watching, a simple line drawing in black, tall, skinny monster with one eye and two arms, cute cartoonish designs, minimalistic drawings, and a playful use of texture --ar 16:9 --sref https://s.mj.run/3D4bXE_WAIw https://s.mj.run/0TqqRNNoePI https://s.mj.run/TiczqaeYmE0 https://s.mj.run/Sk8_J1T87-Q https://s.mj.run/bApkalOkVac https://s.mj.run/CL4Dy4OdxGU --profile jryden7 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaIGwlswQhicNNt3ia0GWnWpic2HzaC1OoIkRCHg7IzLySzTfwv6RaQvI8A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA:prompt-0018",
+    "source_metadata": {
+      "article_index": 152,
+      "article_title": "Vol.177 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746585014,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496619&idx=1&sn=2ecbccf42b82483fbb01986acb6b934a&scene=58&subscene=0",
+    "title": "Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496619&idx=1&sn=2ecbccf42b82483fbb01986acb6b934a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

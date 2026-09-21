@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCaTWdJeLpdcMJLyf6dHFZJ1QRI0d2YAqke4q7ymxXyQMbPp26fPh63xspicNLavk4ykyhIoz4gbszc616CtjXPZhQs5RBTSYGY/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w31CKSyAjnS-IeMmjyYVqA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCdiayVgU8aL0bkhRY5U3VuhRgSHFPdic41RqbHArqibfrGhvq1xjwC2fy0I6YOwDzaaVLoqdlibYI921rcPqia7jX4s4PchSdvRdbQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w31CKSyAjnS-IeMmjyYVqA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-w31CKSyAjnS-IeMmj-e8bea2717fdc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7bfe8b1b5cc039f6154143a5a4c24e52613125fee029541010072acf4c9ab033",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "a dark wooden cottage stands on a vast, slanted green grassy field. towering behind the green pasture are rugged, stone mountains with sharp peaks reaching toward a stormy, cloud filled sky. patches of white mist and low clouds cling to the sides of the mountains and the pine forests below. the scene is captured in a vertical orientation, highlighting the verticality of the mountain range and the isolation of the cabin. --ar 9:16 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCaTWdJeLpdcMJLyf6dHFZJ1QRI0d2YAqke4q7ymxXyQMbPp26fPh63xspicNLavk4ykyhIoz4gbszc616CtjXPZhQs5RBTSYGY/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w31CKSyAjnS-IeMmjyYVqA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCdiayVgU8aL0bkhRY5U3VuhRgSHFPdic41RqbHArqibfrGhvq1xjwC2fy0I6YOwDzaaVLoqdlibYI921rcPqia7jX4s4PchSdvRdbQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w31CKSyAjnS-IeMmjyYVqA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_w31CKSyAjnS-IeMmjyYVqA:prompt-0009",
+    "source_metadata": {
+      "article_index": 8,
+      "article_title": "Vol.324-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1786491050,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_w31CKSyAjnS-IeMmjyYVqA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510899&idx=1&sn=a699e44ad8ef06c51ece10488a7231d6&chksm=969b5617fb1a90404930b5e8d7a0370fcc34b47dea1de0344fd27cdd675fe330ec2f237586ae#rd",
+    "title": "Vol.324-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510899&idx=1&sn=a699e44ad8ef06c51ece10488a7231d6&chksm=969b5617fb1a90404930b5e8d7a0370fcc34b47dea1de0344fd27cdd675fe330ec2f237586ae#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.324-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

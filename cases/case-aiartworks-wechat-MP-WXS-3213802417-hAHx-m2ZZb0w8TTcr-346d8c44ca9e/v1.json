@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmgUUbDukcXFxW9eVoWmQ0mIuhwWIboUjBHRRicGvibQib1qxwjnEcC8qFg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hAHx-m2ZZb0w8TTcr-346d8c44ca9e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f8b1188f4fbe2917ca16bdb2aa4e1c1333f7adfc48db29a7f2c18baeb096ea6c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A black and white photograph of the actress Yang Mi wearing sunglasses, smoking with one hand while holding an e-cigarette in her other hand. The background is a solid color. She has a high-end hairstyle, dressed in fashionable , exuding elegance and confidence. The focus is on her face, with studio lighting, in a simple composition with high-definition photography and professional lighting, highlighting the details. \"Mr.\" is written in a signature-like style at the bottom right. --ar 16:9 --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmgUUbDukcXFxW9eVoWmQ0mIuhwWIboUjBHRRicGvibQib1qxwjnEcC8qFg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg:prompt-0007",
+    "source_metadata": {
+      "article_index": 120,
+      "article_title": "Vol.208 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749598239,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497963&idx=1&sn=2464e49b63feb297c71ed019c6735a90&chksm=96e7a23581a0f08d2612c8b481f8942ab0ea4fe485da842331db31679fab9dd43f0fa27316d6#rd",
+    "title": "Vol.208 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497963&idx=1&sn=2464e49b63feb297c71ed019c6735a90&chksm=96e7a23581a0f08d2612c8b481f8942ab0ea4fe485da842331db31679fab9dd43f0fa27316d6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.208 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

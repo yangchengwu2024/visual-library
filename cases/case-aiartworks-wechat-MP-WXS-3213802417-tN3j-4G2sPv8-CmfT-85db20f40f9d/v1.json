@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD01Mvmsom0IqITxoP548ia0nniaC1bnlO5YDn4UtHWAF8X2X1CE7zQZ44Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tN3j-4G2sPv8-CmfT-85db20f40f9d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "011dc1d09d086822d405679755b7cbe5d040077a5b1a50f7c688816e99181320",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:5",
+    "quality": "2",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Dunhuang style, a goddess holding an ancient Chinese pipa stands in the air, dressed in magnificent Dunhuang style Hanfu, with luxurious accessories and makeup, surrounded by highly saturated colored ribbons, and a delicate gold foil painting style and intricate cloud patterns splashed with gold on the background. Symmetrical composition, spatial sense, high saturation, bright colors, strong contrast between light and dark, dazzling shadows, grand and mysterious atmosphere , --ar 3:5 --quality 2 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD01Mvmsom0IqITxoP548ia0nniaC1bnlO5YDn4UtHWAF8X2X1CE7zQZ44Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA:prompt-0006",
+    "source_metadata": {
+      "article_index": 301,
+      "article_title": "Vol.45 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732797057,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0",
+    "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

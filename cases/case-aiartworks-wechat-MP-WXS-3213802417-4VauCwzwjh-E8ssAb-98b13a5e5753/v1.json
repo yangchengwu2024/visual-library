@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyNvFsb04wWzZp5AGk8OpSCqRibVIIxrZ21oJib014jrUBNk66a4cUGM5g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-4VauCwzwjh-E8ssAb-98b13a5e5753",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ac5c00179c90d57b5498c66db456fbed4823435db5e9c2efc30506407bef9e09",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "Futuristic bodies a father and his young son stand in the dark and look at the horizon Maxon cinema 4D, Octane Renderer, pixologic zbrush, Wacom intuos --ar 2:3 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyNvFsb04wWzZp5AGk8OpSCqRibVIIxrZ21oJib014jrUBNk66a4cUGM5g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg:prompt-0011",
+    "source_metadata": {
+      "article_index": 260,
+      "article_title": "Vol.80 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736303430,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_4VauCwzwjh-E8ssAbidVCg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491206&idx=1&sn=5308d0cdb6a752d1e84e4cd827ca5008&chksm=962435a58c4c9338df608d64911aadfeb29fc6f32cf82cabb3dbe292573326fc351cc668ae12#rd",
+    "title": "Vol.80 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491206&idx=1&sn=5308d0cdb6a752d1e84e4cd827ca5008&chksm=962435a58c4c9338df608d64911aadfeb29fc6f32cf82cabb3dbe292573326fc351cc668ae12#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.80 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHx5TIiaDsGRo9QVtKrhxiaTqPhhsvmRoVSan47OhsLF652Zb8ETwaNpUVw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--943179cc760b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7e276a560236b4600b73ffba62523b7a5e24ed1b410f17404ce0ea59e210ec5e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Generate a photo,A cinematic cyberpunk steampunk illustration of \"The Old Man and the Sea\", ultra-wide shot, low dramatic angle, elderly cyborg fisherman standing on a rusty mechanical fishing boat, half-human half-machine face with glowing blue cybernetic eye, steel wire beard, torn iron cloak flowing in the wind, holding a thick electric cable pulling a giant robotic marlin leaping from a liquid mercury sea, the fish is colossal, covered in cracked steel plates, leaking black coolant, glowing red sensor eye, blade-like sword nose, sparking and steaming, broken antennas on its back, metal waves splashing with glowing plasma arcs, distant ruined industrial city on the horizon under a dark cloudy sky, giant mechanical sun sinking in orange haze, abandoned flying drones in the sky, post-apocalyptic atmosphere, highly detailed, realistic textures, cinematic lighting, volumetric light, high contrast shadows, epic sci-fi mood, 4k ultra-detailed, concept art ，Photo quality, film and television quality,photography,detailed,leica lens. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHx5TIiaDsGRo9QVtKrhxiaTqPhhsvmRoVSan47OhsLF652Zb8ETwaNpUVw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA:prompt-0005",
+    "source_metadata": {
+      "article_index": 106,
+      "article_title": "Vol.223 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750894240,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498669&idx=1&sn=d8a794fd5bca5b0b8cc6adf71b9c3d1b&scene=58&subscene=0",
+    "title": "Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498669&idx=1&sn=d8a794fd5bca5b0b8cc6adf71b9c3d1b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

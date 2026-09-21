@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcKcRJbKzoWAsk3HXPGzV2vNCVWWNZJGiarDCjY1aTmUR5SzYNpnplF48t1ILiaNEYRGYyR2qPmJqEg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpEb8zUQ6RYy90zAUT9tDHot5HRbv0VulXsZogyEjwo0Wibbw7DqvGV3A/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--otnoirNRP-oS9QXm-c4595b886ffa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e6e142ea6b593f40d445b09c7e8a54f7d244c7a87a4e77b64f1d86542cc02c6a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "felt style, felt world, wool felt style, stylized felt figures,Minimalist felt depiction of pack of dogs looking down into the camera lens with bovine snout, eyes mismatched in size and focus, solid pastel blue background, nose holes flared in permanent gasp, ears pointing in different directions, collar hanging loosely around neck with empty name tag space, hands with too many fingers clutching invisible paperwork, felt texture showing individual fibers for added realism, overall composition circle form, balanced yet conveying chaotic inner state. empty space at the center of composition, fisheye lense effect --ar 9:16 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcKcRJbKzoWAsk3HXPGzV2vNCVWWNZJGiarDCjY1aTmUR5SzYNpnplF48t1ILiaNEYRGYyR2qPmJqEg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpEb8zUQ6RYy90zAUT9tDHot5HRbv0VulXsZogyEjwo0Wibbw7DqvGV3A/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA:prompt-0018",
+    "source_metadata": {
+      "article_index": 206,
+      "article_title": "Vol.133 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742005826,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494783&idx=1&sn=5ade4c46a30ec4a7de70f1f9830afa66&chksm=96947716253760c45cfbbba1e79fec15475edb27054b76f13c6d5554df5f9d2c2862ba68bb1c#rd",
+    "title": "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494783&idx=1&sn=5ade4c46a30ec4a7de70f1f9830afa66&chksm=96947716253760c45cfbbba1e79fec15475edb27054b76f13c6d5554df5f9d2c2862ba68bb1c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

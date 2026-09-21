@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd037OYrjBXRTHiap6DvN7icYSk9eeUkGZMcC5ngbQou8a8d5BibqrxwkgiavptksbxKichOibia0dDriaTvw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hrWUXrhe8w9MZJI8d-6c38ff7dfc14",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a45725843f053d1caea1fbdbb98c1ee4cf1861ede82b7d3bbe640a2de9f9d998",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3"
+  },
+  "previous_version": null,
+  "prompt": "portrait of a Chinese woman, early 19th century, shy, second-hand clothes, long black hair, hidden away, castle interior, plump figure, painting, oil on canvas --ar 2:3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd037OYrjBXRTHiap6DvN7icYSk9eeUkGZMcC5ngbQou8a8d5BibqrxwkgiavptksbxKichOibia0dDriaTvw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA:prompt-0008",
+    "source_metadata": {
+      "article_index": 54,
+      "article_title": "Vol.278 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1761867020,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502267&idx=1&sn=21ff29860596f048a05328cc6be4f58c&chksm=961e3cec9547c5d1877349761d4aebe104143ae8cc9f8c492293668cf75ad96a47b5ad688880#rd",
+    "title": "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502267&idx=1&sn=21ff29860596f048a05328cc6be4f58c&chksm=961e3cec9547c5d1877349761d4aebe104143ae8cc9f8c492293668cf75ad96a47b5ad688880#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

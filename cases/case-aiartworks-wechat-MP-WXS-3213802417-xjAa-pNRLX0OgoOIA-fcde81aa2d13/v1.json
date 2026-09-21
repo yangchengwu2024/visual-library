@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC01QySkNERib5K8NibMLnlWLccImOA0NvtGY5bChLHG6SDkCR7vtqjtMEg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xjAa-pNRLX0OgoOIA-fcde81aa2d13",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f8c82ab3a388cd2169dea57582b77d18f6450aa3536189571a5abccceff1dcf2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A small figurine of an Asian farmer carrying large bags of rice, walking on a stream with stone boulders and rocks beside it. The background features golden wheat fields, a warm color tone, macro photography, and a miniature food model. Nearby, there are ears of rice growing, with shallow water flowing through them. Soft lighting creates a peaceful atmosphere. High-resolution photography. --ar 2:3 --quality 2 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC01QySkNERib5K8NibMLnlWLccImOA0NvtGY5bChLHG6SDkCR7vtqjtMEg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g:prompt-0018",
+    "source_metadata": {
+      "article_index": 313,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.34",
+      "association_confidence": "high",
+      "createTime": 1731724952,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 19",
+  "version": "v1"
+}

@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NLFtttTHmULbVGnr--09872eee3c42",
+  "fingerprint": "2af4b8121497c2342cdbf72458b3cc1efad6a21c244ca94287fdad28ac34838a",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4"
+  },
+  "prompt": "video of a pirate ship being sucked into a giant, enormous whirlpool in the middle of the ocean --ar 3:4",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A:prompt-0015",
+    "source_metadata": {
+      "article_index": 76,
+      "article_title": "Vol.255 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1757287821,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500149&idx=1&sn=4d7d9435ab5a145dfea0f310264921a9&chksm=962fe56d1a656695dfa23e4c3cc5292328ea86bd9ccb5cbd98db8871d53cd41d507374f94469#rd",
+    "title": "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500149&idx=1&sn=4d7d9435ab5a145dfea0f310264921a9&chksm=962fe56d1a656695dfa23e4c3cc5292328ea86bd9ccb5cbd98db8871d53cd41d507374f94469#rd"
+  },
+  "source_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A:prompt-0015",
+  "status": "pending",
+  "title": "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 16"
+}

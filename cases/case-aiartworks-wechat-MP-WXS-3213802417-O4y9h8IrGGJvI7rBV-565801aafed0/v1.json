@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfaM9e4y9QWkdJhZBQrpScjb7AWed50VgeINXIxSrJe8w3CvJh0mY9vU8mgWbXMTpCSjnkNSdt4Kg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_O4y9h8IrGGJvI7rBVNtduw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-O4y9h8IrGGJvI7rBV-565801aafed0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "768d1c68babc280685277a63f16d30bc4bd2e2f5ffdc3bf4780295e43e2b19e3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "cygodkf",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Pre-Raphaelite, oil painting by Edmund Blair Leighton of a Great Grey Owl standing on a rock. It's in the middle of the desert on an empty planet with a black sky. It's surrounded by succulents. There's a sandstone castle and milkyway in the background. --ar 2:3 --profile cygodkf --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfaM9e4y9QWkdJhZBQrpScjb7AWed50VgeINXIxSrJe8w3CvJh0mY9vU8mgWbXMTpCSjnkNSdt4Kg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_O4y9h8IrGGJvI7rBVNtduw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_O4y9h8IrGGJvI7rBVNtduw:prompt-0019",
+    "source_metadata": {
+      "article_index": 278,
+      "article_title": "Vol.65 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734759026,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_O4y9h8IrGGJvI7rBVNtduw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490023&idx=1&sn=919110741b52505293272671883bda8b&chksm=968119d1100c55058e1c319b89fa59804a0b675a63354de04c53b033b6a5a4657672a4ddd720#rd",
+    "title": "Vol.65 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490023&idx=1&sn=919110741b52505293272671883bda8b&chksm=968119d1100c55058e1c319b89fa59804a0b675a63354de04c53b033b6a5a4657672a4ddd720#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.65 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

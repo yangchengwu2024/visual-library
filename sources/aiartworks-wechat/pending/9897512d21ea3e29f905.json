@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-w4KoDEVv5DIKHm9bv-e8e74ac0d201",
+  "fingerprint": "a52393b979b0a1f89d1aef2e7d70ec8374e99b221f3b57df07ba4bea217b974a",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "qfpp7tg",
+    "raw": true,
+    "stylize": "500"
+  },
+  "prompt": "1980s luxury exterior, overhead view looking down onto a sunlounger that has a white and navy blue striped towel draped over it, sat on the towel is a pair of thin black cateye sunglasses, a glass of champagne on a tray, an old olympus film camera, and a sequined clutch bag. The towel has embroidered text \"Casa Modelli\" on it in red thread. Shot on Hasselblad X1D, 400m lens --ar 9:16 --raw --profile qfpp7tg --stylize 500",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ:prompt-0004",
+    "source_metadata": {
+      "article_index": 110,
+      "article_title": "Vol.219 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1750548618,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498407&idx=1&sn=2df342b542052b31b08ac10813ffcaee&scene=58&subscene=0",
+    "title": "Vol.219 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498407&idx=1&sn=2df342b542052b31b08ac10813ffcaee&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ:prompt-0004",
+  "status": "pending",
+  "title": "Vol.219 - Midjourney | 精选作品关键词提示 · 提示词 5"
+}

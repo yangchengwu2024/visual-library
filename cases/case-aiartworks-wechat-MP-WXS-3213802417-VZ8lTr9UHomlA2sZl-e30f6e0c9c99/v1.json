@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcFxuZxDrovFv6UDjEhs6cPWR2ibjaibUbd471opgz2844HDjaKkmUesamfAw43fIMeTC6giaAqbRdhg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-VZ8lTr9UHomlA2sZl-e30f6e0c9c99",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dc8d522f69e1a8438acab88b46cba3c0d835cb274002314f6024cf3549e72cfc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "mlcc3fy",
+    "sref": [
+      "https://s.mj.run/6-sa1rrOAmk",
+      "https://s.mj.run/sCQp42b6vH0"
+    ],
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "삼국 시대 다초와 소교의 초상화, 사실적인 스타일, 중국 전통 귀족 복장, 각각 약간 왼쪽과 오른쪽을 향함, 우아하고 우아한 존재감, 정교한 비단 자수, 봉황 머리핀, 섬세한 얼굴 특징, 역사적 아름다움, 조화로운 자매 구성, 동한 궁정 요소가 있는 미묘한 배경 --ar 9:16 --sref https://s.mj.run/6-sa1rrOAmk https://s.mj.run/sCQp42b6vH0 --profile mlcc3fy --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcFxuZxDrovFv6UDjEhs6cPWR2ibjaibUbd471opgz2844HDjaKkmUesamfAw43fIMeTC6giaAqbRdhg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg:prompt-0002",
+    "source_metadata": {
+      "article_index": 143,
+      "article_title": "Vol.186 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747621955,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497028&idx=1&sn=6e732a014daaebb330819868c3ef834f&chksm=97b3f99aa0c4708c07acf53ac376257850573af6e75e10a57dec1b2d5029d926a2ca29ced957#rd",
+    "title": "Vol.186 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497028&idx=1&sn=6e732a014daaebb330819868c3ef834f&chksm=97b3f99aa0c4708c07acf53ac376257850573af6e75e10a57dec1b2d5029d926a2ca29ced957#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.186 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

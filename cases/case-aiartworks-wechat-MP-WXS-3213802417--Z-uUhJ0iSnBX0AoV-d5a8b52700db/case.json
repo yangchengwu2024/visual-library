@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-d5a8b52700db",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxlHXwDAn96hvYAVlibXLrbQyqcFhAwjLd1uHxXibF7erHUaxAEQzywiahw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcz3YCrxtJ5SQOuqX8Zobguuia2W8csLuLxsIPZibViaAuamz5Pbib2vUiahP6lNIG4mx0dluYLibosZCNQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA:prompt-0000",
+      "source_metadata": {
+        "article_index": 105,
+        "article_title": "Vol.224 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1750980628,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 0,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498698&idx=1&sn=4395708eaea8f119525f0a2105b9b4da&chksm=96037625ec879320b4768a2bf9ded9d01ef780e5c4bf6ec7785453d3245997928947857c3ff0#rd",
+      "title": "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 1",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498698&idx=1&sn=4395708eaea8f119525f0a2105b9b4da&chksm=96037625ec879320b4768a2bf9ded9d01ef780e5c4bf6ec7785453d3245997928947857c3ff0#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "title_aliases": [
+    "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 1"
+  ]
+}

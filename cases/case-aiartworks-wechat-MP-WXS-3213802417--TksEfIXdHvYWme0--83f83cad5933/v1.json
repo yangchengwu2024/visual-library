@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCNk78Ewiax0qlDKeW7qS65ibDk2PvPEysgv36MydT2YyRVTibYkTqCZh2ANKq0R6OsyPAj3wt1j2aZlHiaXg3zibps1SfKjsa3QQt0/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--83f83cad5933",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "db0d51316495c3e2bf5b4c28dcb9bb7fd017fb0acae68d14c464081057cd7b53",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "A high-fashion editorial portrait of a woman sitting on the floor in a relaxed yet confident pose, legs folded asymmetrically, arms resting casually. She wears a black minimalist dress, vivid green tights, and glossy red high-heeled shoes. Natural makeup with bold red lipstick, short brown hair with soft bangs. The background is a solid deep red studio backdrop, replacing the original interior setting. Clean composition, strong color contrast between red, green, and black, retro-modern aesthetic, editorial fashion photography, soft but directional studio lighting, sharp focus, realistic skin texture, cinematic color grading, magazine-quality styling --ar 2:3 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCNk78Ewiax0qlDKeW7qS65ibDk2PvPEysgv36MydT2YyRVTibYkTqCZh2ANKq0R6OsyPAj3wt1j2aZlHiaXg3zibps1SfKjsa3QQt0/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg:prompt-0010",
+    "source_metadata": {
+      "article_index": 40,
+      "article_title": "Vol.292 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776063365,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504505&idx=1&sn=c5e9cae756aec60080ec766123d8350f&chksm=9693a9290f99f3c6735506b6470db80492e10c9f2eee9123cca089e49cd0762ebd0cd4a9d242#rd",
+    "title": "Vol.292 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504505&idx=1&sn=c5e9cae756aec60080ec766123d8350f&chksm=9693a9290f99f3c6735506b6470db80492e10c9f2eee9123cca089e49cd0762ebd0cd4a9d242#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.292 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y5zMIG8iVWY7l6lwK-ea80ef9a9333",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDZlqAiaibAovK5Djr9B9XMLcUKIruPcIFMRcT4jsBD9Ife4gEw5JrkOKwubd1RcLgrpRgJYUAoo4P9QicpTtDLPdorEy2FnY44cw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDaNibUogaV2ZZEC97L3bzGOMXCicIdWXYBKTQHOkZWBCHeg86VdsqQH3Br6OHr7fqVahZLeZNLLAUwx4LPpwchbvk9MCEZia8XoU/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w:prompt-0001",
+      "source_metadata": {
+        "article_index": 10,
+        "article_title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑",
+        "association_confidence": "high",
+        "createTime": 1785886230,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 1,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+      "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 2",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 2",
+  "title_aliases": [
+    "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 2"
+  ]
+}

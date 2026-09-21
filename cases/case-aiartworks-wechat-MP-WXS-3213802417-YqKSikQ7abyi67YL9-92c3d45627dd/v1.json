@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfOvL6rc6g3aEIclZ6swxhTafP484ic2z0zekSdUu35CgLhvePGlxFwma3hQNMmyvpNzq2Fia8ibxNbw/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YqKSikQ7abyi67YL9-92c3d45627dd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eb900e5305e7d31ab701d430fd4d09680b227ca8e022988aa4397c3cb13f2d5c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "motion": "high",
+    "raw": true,
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "an epic sci-fi movie, a silhouetted exoskeleton robot with glowing eyes in the foreground firing a futuristic rifle in the aftermath of a massive explosion, fires in tall rubble, body armor on the ground, exoskeleton robots firing guns in the far background, plumes of fire and smoke in the background silhouette the scene, red orange black silver, charred chrome, chiaroscuro, silhouettes, epic sci-fi scene, cinematic backlit lighting --ar 51:91 --motion high --raw --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfOvL6rc6g3aEIclZ6swxhTafP484ic2z0zekSdUu35CgLhvePGlxFwma3hQNMmyvpNzq2Fia8ibxNbw/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg:prompt-0000",
+    "source_metadata": {
+      "article_index": 100,
+      "article_title": "Vol.229 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752019384,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0",
+    "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

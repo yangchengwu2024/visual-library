@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOvnyNKSotLn6qhibE1iboQZ5HYNv5KibFxerugUvUCzY8icFWj0BYwkicgqvA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SjttH-Oj600woHMjy-9797b3c7fc80",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9128c87b50f8f8b3855747ec106be67497593af61b9f1812606bcc421cf70428",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Bulma from Dragon Ball in her classic pink outfit, looks like a real person, wearing a pink t-shirt dress with \"BULMA\" written on it, purple scarf around her neck, brown gloves, utility belt and side pouches, cyan-blue ponytail tied with a big red bow, standing on a country path with green hills and blue skies in the background, making a surprised expression with one hand on her hip and the other raised near her mouth, realistic skin texture, pores visible, natural lighting, soft shadows, ultra-realistic editorial photo style, not anime style, not cartoon, not 3D, not CGI --ar 9:16 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOvnyNKSotLn6qhibE1iboQZ5HYNv5KibFxerugUvUCzY8icFWj0BYwkicgqvA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ:prompt-0018",
+    "source_metadata": {
+      "article_index": 118,
+      "article_title": "Vol.210 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749771081,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd",
+    "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

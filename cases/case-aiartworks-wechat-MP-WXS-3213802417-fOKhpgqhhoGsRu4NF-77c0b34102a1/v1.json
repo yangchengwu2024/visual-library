@@ -1,0 +1,78 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EiajfKghUmKoPjNSnXfuNd0AqXF2ZFfAYlq0D6u9XaE3ELP6oEbgBibicg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EF1mHlqXgOeoTuzhyQ9xfkTOBMcgSBkYG19FhecsDov6fPcQTQibw7EA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fOKhpgqhhoGsRu4NF-77c0b34102a1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4f63e8ab5a3d65c41e4a520911c5e9483960e80dbf63e82a696ec3ccc4633d52",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "oref": "https://s.mj.run/oz3CDANGrkw",
+    "ow": "75",
+    "profile": "pu3osol",
+    "sref": [
+      "https://s.mj.run/trR99HX0_44"
+    ],
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "Minimalist jewelry still-life with an architectural feel. The necklace consists of a smooth black cord and a single large teardrop-shaped gold pendant with a glossy, mirror-like surface. The pendant is centered, symmetrical. It drapes over the sharp edge of a large terracotta-red clay block cut like a wedge. The background is a clean warm off-white seamless backdrop. Composition is diagonal--the clay block rises from lower left to upper right--creating strong lines and negative space. Surface of the block shows raw clay texture, scratches and pores; the pendant is glossy and reflective. Lighting & mood: Soft directional studio light from upper left, gentle falloff to the right, subtle shadow under the pendant, warm color temperature that enriches the terracotta tones and adds specular highlights on the gold. Calm, modern, luxe editorial vibe. Optional camera/style tags: product photography, 85-100mm lens, f/5.6-f/8, ISO 100, tripod, large softbox key + flag for shadow control, neutral white balance, clean retouching, high contrast between matte clay and polished metal. --ar 2:3 --sref https://s.mj.run/trR99HX0_44 --profile pu3osol --oref https://s.mj.run/oz3CDANGrkw --ow 75 --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EiajfKghUmKoPjNSnXfuNd0AqXF2ZFfAYlq0D6u9XaE3ELP6oEbgBibicg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EF1mHlqXgOeoTuzhyQ9xfkTOBMcgSBkYG19FhecsDov6fPcQTQibw7EA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw:prompt-0009",
+    "source_metadata": {
+      "article_index": 57,
+      "article_title": "Vol.275 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1761262237,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd",
+    "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

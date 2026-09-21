@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6hSLjbfuCjt9yThH1Hjv6HnkVGAiaJ2b2MUDctjbuqu1MPvG897iasiaMDw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-udrnNvOmXo4sNgQ5x-e6d769a86b0e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c0c8c2e644c844f043d4005d966f675b1d24338ffae2e6c1e77f79018859a73e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "hyper-realistic Snow White, gracefully walking across an enchanted royal courtyard, traditional Germanic navy blue and red military uniform with gold accents, apple insignia, polished black boots, dark bobbed hair with red headband, pure and strong expression, full-body view, fairytale castle and forest background, cinematic soft lighting, 4K realism, vertical frame --ar 9:16 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6hSLjbfuCjt9yThH1Hjv6HnkVGAiaJ2b2MUDctjbuqu1MPvG897iasiaMDw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA:prompt-0000",
+    "source_metadata": {
+      "article_index": 161,
+      "article_title": "Vol.169 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745807946,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd",
+    "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

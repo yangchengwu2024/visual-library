@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39hGbY2UzcuickOABHz6QVhdyWglycf6KCBSUKcEzfh7YPZUGPoqurLPVg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D9cjDDoJvi8jm7Y2h-3b3c2f417a2f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "003ceac79a851c78eb745720440f200057dcd152e97b4c3e38c65260ab7365d5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "40",
+    "sref": [
+      "292502998"
+    ],
+    "style": "raw",
+    "stylize": "400",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/bCh3LW7Jpdc Weird raw photo --chaos 40 --ar 3:4 --style raw --sref 292502998 --stylize 400 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39hGbY2UzcuickOABHz6QVhdyWglycf6KCBSUKcEzfh7YPZUGPoqurLPVg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg:prompt-0001",
+    "source_metadata": {
+      "article_index": 205,
+      "article_title": "周末特别版 | Limarchar的超现实梦幻实验艺术 第2辑 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1742089245,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494861&idx=1&sn=bf5473fc8c6a5ee34a0cbd71b351d732&chksm=96b7939737005a10c67698a3d91c0b511d0529254e97d39ac5482085da108328511dbd60af98#rd",
+    "title": "周末特别版 | Limarchar的超现实梦幻实验艺术 第2辑 - Midjoureny | 精选作品与提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494861&idx=1&sn=bf5473fc8c6a5ee34a0cbd71b351d732&chksm=96b7939737005a10c67698a3d91c0b511d0529254e97d39ac5482085da108328511dbd60af98#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Limarchar的超现实梦幻实验艺术 第2辑 - Midjoureny | 精选作品与提示 · 提示词 2",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:33+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfNTyJIqT4tVDhLDcnXV1UwGggdmCH1RQbibsqI9xvTo4LnOqsVk1X1iahD3QxicmCQEymCfLav8KJfw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1704XfFBQoPnUx-1O-43898c4415f5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3b5c528f211cf16fac9d601d5c25ab8768d19d14c3980361785ec6f2f4a3109c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1",
+    "个性化": "hrjuivh",
+    "无项链": true,
+    "混乱": "50",
+    "风格化": "750",
+    "风格原始": true
+  },
+  "previous_version": null,
+  "prompt": "全身拍摄，摇滚音乐会，一个快乐美丽的朋克女孩，短发，穿着迷你裙弹吉他，阳光明媚，快乐的场景。微笑，非常逼真，超高清，营造出一种紧张而充满活力的氛围。8k --无项链 --混乱 50 --ar 9:16 --风格原始 --个性化 hrjuivh --风格化 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfNTyJIqT4tVDhLDcnXV1UwGggdmCH1RQbibsqI9xvTo4LnOqsVk1X1iahD3QxicmCQEymCfLav8KJfw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg:prompt-0001",
+    "source_metadata": {
+      "article_index": 325,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.22",
+      "association_confidence": "review",
+      "createTime": 1730429770,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486263&idx=1&sn=07e011e255fbe560a72ccf999b0d29ce&chksm=96a460948fe00112d0d02f70af52d5086d1d75f956734eb385bf08fe579fb96d7cd6bf67fb6a#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.22 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486263&idx=1&sn=07e011e255fbe560a72ccf999b0d29ce&chksm=96a460948fe00112d0d02f70af52d5086d1d75f956734eb385bf08fe579fb96d7cd6bf67fb6a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.22 · 提示词 2",
+  "version": "v1"
+}

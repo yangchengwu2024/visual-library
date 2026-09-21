@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:21+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShevCCrx0kzUib9d4Sz2rVbjKksEPoM655hic2DenvJTLkmDia4ry9GCcbj3odMgNHicU2Ujq2dicecs7hQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_sbpRp2qFup2wW08FqRYyGA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-sbpRp2qFup2wW08Fq-7334a2270261",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "69614eaac3c48a7d9f17d7b73dae8d7338816bb315e3e40765e26aa694950f95",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "w9nvkf4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a beautiful woman wearing a powder red sweatshirt with sequin cats embroidered on it and a red lace skirt and long jacquard socks and high heels with bows, she is posing lying on a persian carpet, the wall behing her is covered by gigantic hanging carpet, maximalism and opulence, there is lots of cats around her, they are tigered and very beautiful and elegant, very weird and beautiful cats, it is a very artistic composition, highly realistic photography, a piece of Art, like a vogue cover shooting for PRADA --ar 9:16 --profile w9nvkf4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShevCCrx0kzUib9d4Sz2rVbjKksEPoM655hic2DenvJTLkmDia4ry9GCcbj3odMgNHicU2Ujq2dicecs7hQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_sbpRp2qFup2wW08FqRYyGA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_sbpRp2qFup2wW08FqRYyGA:prompt-0005",
+    "source_metadata": {
+      "article_index": 254,
+      "article_title": "Vol.87 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736994667,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_sbpRp2qFup2wW08FqRYyGA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491850&idx=1&sn=1da25e207d1c17d2e6ef5a0f2d2c7607&chksm=96f280471bbbdac3d9215ba70a6d9b386aa983d9d38a39da1a6cff33ef1cbc8d81e36e723bde#rd",
+    "title": "Vol.87 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491850&idx=1&sn=1da25e207d1c17d2e6ef5a0f2d2c7607&chksm=96f280471bbbdac3d9215ba70a6d9b386aa983d9d38a39da1a6cff33ef1cbc8d81e36e723bde#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.87 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

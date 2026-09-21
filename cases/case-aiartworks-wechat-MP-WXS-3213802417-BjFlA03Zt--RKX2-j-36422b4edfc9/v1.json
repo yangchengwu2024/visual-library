@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfBlKsPvoNgafalem25V9oglHSs3L8TKdZaWqDHZXN5nrMaia50r4eTibnyPibiaAM3wiboFdEDb4pCvYw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BjFlA03Zt--RKX2-j-36422b4edfc9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ed355144f7ae362383a69bd349bb834817fade79c76a614d1cad2d1cebadfee6",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Create a close-up, highly detailed image of a model with a classic, voluminous blow-out hairstyle. The woman's mouth is completely closed.The model has medium-length, rich brown hair with a soft, glossy finish that looks freshly styled, as if from a salon. The hair is smooth and full of volume, with sections that gently curl at the ends, creating a subtle wave for a sophisticated, red-carpet-inspired look. The blow-out effect shows lifted roots and a soft, airy texture throughout, with each layer blending seamlessly for a natural yet luxurious feel. The ends of the hair curve gently outward, giving a polished finish to the look. The brown hair shines with a healthy, natural gloss, enhancing the texture and depth of each strand. Set against a soft, neutral background to focus on the hairstyle. Finishing touches include a smooth, frizz-free appearance and a slightly tousled, voluminous quality to capture an effortless, all-day hold. The overall look is elegant, glamorous, and perfect for any formal or casual occasion. --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfBlKsPvoNgafalem25V9oglHSs3L8TKdZaWqDHZXN5nrMaia50r4eTibnyPibiaAM3wiboFdEDb4pCvYw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA:prompt-0019",
+    "source_metadata": {
+      "article_index": 279,
+      "article_title": "Vol.64 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734661818,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489962&idx=1&sn=14e5ef38a8f08a8be7fc37fa690ccc93&chksm=96c8d4f40d0121608a9e0f945d30ae7df677719fe9b406bbb6e1bad330c2b940f6b246fe81ef#rd",
+    "title": "Vol.64 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489962&idx=1&sn=14e5ef38a8f08a8be7fc37fa690ccc93&chksm=96c8d4f40d0121608a9e0f945d30ae7df677719fe9b406bbb6e1bad330c2b940f6b246fe81ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.64 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5sXRaQ7SQWCRwJekzv2hKMHicLtVPujUtiaKSicWPsZ5IuBpY6YliciauVIWrRJOCO50XCz3KHkxmgwg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-w8WwBNF57EA5bymqH-c8e719e31449",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6ae02bc0c73bda37c45abee3f94f2f9773e4d7aadf40923cdfd19225015d5016",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "a small dragon flying across a romantic night sky, a human riding on its back with hair flowing in the wind, the sky filled with twinkling stars and soft clouds, a bright and warm full moon shining through the misty atmosphere, moonlight gently casting a soft and realistic glow across the scene, the dragon is placed near the bottom of the frame to emphasize the vast and deep sky, realistic style, cinematic wide-shot impression in portrait composition, ultra high resolution, lifelike lighting and texture --ar 9:16 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5sXRaQ7SQWCRwJekzv2hKMHicLtVPujUtiaKSicWPsZ5IuBpY6YliciauVIWrRJOCO50XCz3KHkxmgwg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA:prompt-0007",
+    "source_metadata": {
+      "article_index": 139,
+      "article_title": "Vol.190 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747970485,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_w8WwBNF57EA5bymqHDkZvA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497150&idx=1&sn=5a25e24ab686f03c339bff640fb174b2&scene=58&subscene=0",
+    "title": "Vol.190 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497150&idx=1&sn=5a25e24ab686f03c339bff640fb174b2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.190 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

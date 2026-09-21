@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNft3icNLtarq9KicKhHZ4OGh0tKjl3XyDAcYBiao6bnffygMYQIDF4uYp2A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNf7OvVsGxIRwwD38BOxWulCgns3S0GMrnKnUqXsoQDpG1ncKiaKjsMOfg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZU3vb4szcKyBT3sRF-ea652944b674",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d4dccd51f662ed8ef30c0d532ff5e1e36a396a0c1a3a8552225e46c82f82aa4b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "raw": true,
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic, cinematic scene viewed from a futuristic high-speed transport pod gliding past a vertical alleyway in a dystopian city. The camera angle is from a slight left-side perspective, as the vehicle moves along a suspended rail through the dense urban layers. On the outer wall of a large metal structure, dozens of capsule apartment units are lined up in a tight grid. One specific unit is open with no door, and its interior is fully visible from the outside showing a neatly rumpled bed and a person quietly sleeping inside. The room is small, metallic, and dimly lit, with visible details like soft bedding, a shelf, and faint ambient light. The external structure is industrial but not grimy clean metal surfaces with signs of wear and functionality, not filth. The rail system and capsule units are interconnected with sleek catwalks and suspended pipes. The moment captures the pod speeding past the room, blurring parts of the foreground to enhance motion. Surreal yet grounded, vertical framing, photorealistic, cinematic depth and texture --chaos 10 --ar 9:16 --raw --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNft3icNLtarq9KicKhHZ4OGh0tKjl3XyDAcYBiao6bnffygMYQIDF4uYp2A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShereibxDwlZtt6KTLZ0iaQFNf7OvVsGxIRwwD38BOxWulCgns3S0GMrnKnUqXsoQDpG1ncKiaKjsMOfg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg:prompt-0004",
+    "source_metadata": {
+      "article_index": 108,
+      "article_title": "Vol.221 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1750721460,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZU3vb4szcKyBT3sRFHnNEg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd",
+    "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498529&idx=1&sn=cad980442bd57914bf7d5489b7f64b4a&chksm=9675e13ac416a7e4fea90b14d53583308bcf8bdf899347cfcf1052214cd03b613816a412e836#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.221 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

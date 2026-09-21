@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vSBxcyeax7IAAZ056pziaSmrjCfGJVmKnf45pkATWfmHJMECepTQhZQw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-s-8l3GOzPcOcx5Nxz-c47ac506f7ef",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "aca0be9cf5483f77ab677d30abbbf624bb6a6b2cc14002fe55d8b181cac557f1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A procession of monks in the Potala Palace, minimalist photography, vibrant composition with red and white contrasts, surreal textures and landscapes inspired by Tim Walker's style, bold colors, and dramatic shadow contrasts. The scene highlights a red-dominant color palette, featuring smooth, painterly strokes that create a cinematic atmosphere of light and shadow. Hyper-realistic details, dreamlike surrealism, and a harmonious yet striking visual balance. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vSBxcyeax7IAAZ056pziaSmrjCfGJVmKnf45pkATWfmHJMECepTQhZQw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw:prompt-0009",
+    "source_metadata": {
+      "article_index": 272,
+      "article_title": "Vol.70 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735266618,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd",
+    "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

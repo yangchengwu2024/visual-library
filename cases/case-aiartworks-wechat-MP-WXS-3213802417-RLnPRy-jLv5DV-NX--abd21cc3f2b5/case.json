@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RLnPRy-jLv5DV-NX--abd21cc3f2b5",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVJeV6gQXy6Bm5hrtCxaDdy5pOsRDr2kVgYhSjY5DGbYTE4aguGrof2A/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAehrhGWPiarxpH7BCib0Wq3z61vgyGsRR5BH1dhQLlNslBYPPwjGMwCdw/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ:prompt-0013",
+      "source_metadata": {
+        "article_index": 123,
+        "article_title": "Vol.205 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1749345399,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 13,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd",
+      "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "title_aliases": [
+    "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 14"
+  ]
+}

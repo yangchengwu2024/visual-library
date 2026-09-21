@@ -1,0 +1,85 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAr96035A7h9ofsXib31hCM5fSQ7hW7ciaxOjeKjcTSTe3ibB3L65dObr0oTkNfCpAoicicZSEGrEnHBngibqPiaBDz7AXlkMqyEx0XHg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAlG4GePjLqa5ZJrKSDRamYwX5xsq0eMZiapvUUmt04P6NABDiaPedO7UQxp0kiaibOAPeoQF2dZdgTz4LicA2anVySSmZSl4xHk9iaM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDzk1xQJhHK9VjUSg4YXMwKh94kxOXRQOAFV6jfz9G5DnwJZnTRTKHflujiczYNLzKngGfZCdoOp2ostKqPgQGoUfgCq1icMibqUI/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-84ve3O5q17-3So856-7b4beae7eed0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1b82a892df6467db4849694e1ac39afe6ce50a428ea83c8135b055c15798b733",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "15",
+    "profile": "y3nr3am",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "original minimal black-and-white character concept of \"Mr. Half-a-Beat Late\", pale white face, heavy black eye sockets, tiny tired eyes, black oversized coat, simple thin body, long black shadow, one small old watch as the only muted gold accent, stark paper texture, charcoal grain, adult fable illustration, clean white background, full body design, quiet dark humor, strong silhouette, no cute mascot, no manga style, no colorful background, no text, no logo --chaos 15 --ar 2:3 --raw --profile y3nr3am --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAr96035A7h9ofsXib31hCM5fSQ7hW7ciaxOjeKjcTSTe3ibB3L65dObr0oTkNfCpAoicicZSEGrEnHBngibqPiaBDz7AXlkMqyEx0XHg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAlG4GePjLqa5ZJrKSDRamYwX5xsq0eMZiapvUUmt04P6NABDiaPedO7UQxp0kiaibOAPeoQF2dZdgTz4LicA2anVySSmZSl4xHk9iaM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDzk1xQJhHK9VjUSg4YXMwKh94kxOXRQOAFV6jfz9G5DnwJZnTRTKHflujiczYNLzKngGfZCdoOp2ostKqPgQGoUfgCq1icMibqUI/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg:prompt-0012",
+    "source_metadata": {
+      "article_index": 18,
+      "article_title": "Vol.314-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783553474,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 12,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0",
+    "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 13",
+  "version": "v1"
+}

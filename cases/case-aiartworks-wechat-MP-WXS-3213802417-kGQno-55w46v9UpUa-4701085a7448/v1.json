@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WJFxibibOzXjMpetG7aiaDZmVLf8cD16MV3ibcBpZG8rcsdUjHAJVsRn3M5ynz3pNoOT2dAc3RIoMg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kGQno-55w46v9UpUa-4701085a7448",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eadf9e637c6d3ccac53d33fa001d3c17989b614f4a874d017558265e6424a631",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "girl golden hair smiling wavy hair big nose and wide face sitting in desert and mirrors, glare white dress beautiful, gold, flowers, pearls. Fashion shooting --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WJFxibibOzXjMpetG7aiaDZmVLf8cD16MV3ibcBpZG8rcsdUjHAJVsRn3M5ynz3pNoOT2dAc3RIoMg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog:prompt-0000",
+    "source_metadata": {
+      "article_index": 294,
+      "article_title": "Vol.51 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1733368413,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488707&idx=1&sn=9771b7720698194b7958d83b03d39a69&chksm=960f82922eb1fc225fe2095ea477e431da2c8c612e8a0385dc02408b5f6ba16944f3dd414191#rd",
+    "title": "Vol.51 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488707&idx=1&sn=9771b7720698194b7958d83b03d39a69&chksm=960f82922eb1fc225fe2095ea477e431da2c8c612e8a0385dc02408b5f6ba16944f3dd414191#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.51 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

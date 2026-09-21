@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2Jf0bzDZLgXEJPsfbrAnMNGNbm31axITdT4lDFeBxUsm6KBBwJa8Vjg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-odNQF36m1MZ8Bkm5q-3dcf3e73e0a6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8a372c44b60b05dea31c0a2619a4da1261fd05a302e963aa697ae3977048d292",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "m7ihmpo",
+    "quality": "4",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Extreme close-up front view of a hyper-realistic young woman with the face of Tifa Lockhart (Final Fantasy VII)--large brown eyes, soft facial features, long black hair; wearing a hyper-detailed android cosplay suit that mimics sleek white plates, exposed metal framework, and colorful inner wires from the chest down. Her face dominates the frame, ultra-detailed with a thin transparent protective film covering the entire surface (clearly visible edges, micro-bubbles, gentle specular reflections), natural skin texture and subtle makeup visible through the film. Soft beauty key light with bright catchlights in the eyes, crisp focus on every pore and detail, no visible mechanical parts on the head. Background only faint hints of glossy showroom lighting and panels, minimal and unobtrusive. Photo, clean color grading, calm confident mood, extreme tight head close-up composition, no hands, no touching. --ar 9:16 --quality 4 --raw --profile m7ihmpo",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrvMmIawV2G65sNXuEoRY2Jf0bzDZLgXEJPsfbrAnMNGNbm31axITdT4lDFeBxUsm6KBBwJa8Vjg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg:prompt-0013",
+    "source_metadata": {
+      "article_index": 69,
+      "article_title": "Vol.262 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758670286,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_odNQF36m1MZ8Bkm5q-yNAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd",
+    "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500437&idx=1&sn=b99cfc4894abecb9a5d449e1014eb906&chksm=969148446281da5fa38d786385327825487357ce10f17a8cab69e4fb7eda335e78b4dc5be208#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.262 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

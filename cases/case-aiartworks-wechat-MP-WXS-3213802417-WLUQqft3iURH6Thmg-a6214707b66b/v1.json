@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAaFqa8266MaicInibGxbT4QNmT691fBFYZJUibbvtavnfWvLXULQDttuH5swgI3HHia6mpFWxntyllAQ7C04LiaqLDeSNhvSjVA0PY/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WLUQqft3iURH6Thmg-a6214707b66b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "002cefdb1fb2fbfc57f1dfaa8ef393ff18d0da57363643346dba3d38dc8d561f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "7bw8tfi",
+    "raw": true,
+    "seed": "356061691",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Four highly detailed, realistic anthropomorphic Bremen Town Musicians characters stacked in the classic formation: rooster on top, cat below, dog below, donkey at the bottom. Friendly, innovative and stylish personalities, modern character design, expressive faces, joyful and humorous mood, all four laughing directly into the camera, strong visual chemistry, premium commercial character branding style, realistic fur and feathers, subtle fashionable accessories, natural poses, full-body composition, perfectly balanced stack, pure white seamless studio background, bright high-key portrait photography lighting, professional commercial photoshoot, ultra-sharp focus, clean shadows, premium advertising aesthetic, photorealistic, vibrant details, charming and memorable mascots, award-winning character photography --ar 9:16 --seed 356061691 --raw --profile 7bw8tfi --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAaFqa8266MaicInibGxbT4QNmT691fBFYZJUibbvtavnfWvLXULQDttuH5swgI3HHia6mpFWxntyllAQ7C04LiaqLDeSNhvSjVA0PY/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw:prompt-0009",
+    "source_metadata": {
+      "article_index": 28,
+      "article_title": "Vol.305-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780357352,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd",
+    "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

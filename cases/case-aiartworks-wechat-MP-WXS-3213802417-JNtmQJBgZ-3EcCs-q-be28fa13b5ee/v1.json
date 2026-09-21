@@ -1,0 +1,82 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDzSng85iaKtzDSjIYl3A51b1B8RlXSyDKXaYLe6B7jHOLeLER8Kic2gOA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDF6PoNiayyNr88YmFpcYBDjZXFL0SUeVrXVvq8jYqjRPKU6qvZlcyVibA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDoN9kib6picKKJF7OO8MwQ24N6lv77MCiczAjnmLywQFa0Ong6fvLygrFQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JNtmQJBgZ-3EcCs-q-be28fa13b5ee",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "81bcc1439202ace717c3f1eb65ad31f2a3e41dda702e9b2d389adce0d5eb5bf1",
+  "model": "Midjourney",
+  "parameters": {
+    "quality": "2",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A surreal conceptual portrait of a human figure entirely made of lush green plants and blooming daisies, wearing a glossy white puffer jacket and a white baseball cap without text. The background is minimalistic and pale, emphasizing the vibrant yellow and white flowers growing organically through the jacket. The image symbolizes environmental awareness and the harmony between fashion and nature. Highly detailed, photorealistic style, soft lighting, eco-art aesthetic. --quality 2 --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDzSng85iaKtzDSjIYl3A51b1B8RlXSyDKXaYLe6B7jHOLeLER8Kic2gOA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDF6PoNiayyNr88YmFpcYBDjZXFL0SUeVrXVvq8jYqjRPKU6qvZlcyVibA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDoN9kib6picKKJF7OO8MwQ24N6lv77MCiczAjnmLywQFa0Ong6fvLygrFQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g:prompt-0011",
+    "source_metadata": {
+      "article_index": 70,
+      "article_title": "Vol.261 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758497449,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 11,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500396&idx=1&sn=c450f5e5eab9796429af520a8087eb42&chksm=963318b04b03a71bace8f6dcabd2fffc7e7f8e69930c73f71c2116111e021882b11d4a85a18c#rd",
+    "title": "Vol.261 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500396&idx=1&sn=c450f5e5eab9796429af520a8087eb42&chksm=963318b04b03a71bace8f6dcabd2fffc7e7f8e69930c73f71c2116111e021882b11d4a85a18c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.261 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

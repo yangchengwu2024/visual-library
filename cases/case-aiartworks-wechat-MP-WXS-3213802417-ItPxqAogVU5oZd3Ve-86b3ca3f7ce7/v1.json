@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdkjyLWIT9NRpb933XBV9LPRIlc62f3KBMoLFL9VibqL4iayVxiaI4zZ3rsxzGtgnUgPeDCKJ5lFkKDQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ItPxqAogVU5oZd3Ve-86b3ca3f7ce7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e64f17239f318e7cf5e8679f3685f39b93b3a309f596fd5ed74d1b3bfe81dc81",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "wl2wbdg",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A peaceful and bright natural landscape viewed through a very shallow circular opening made of soft moss, vines, and scattered wildflowers. The lake is the central focus of the image wide, crystal-clear, and calmly reflecting the sky. The background consists of gentle green hills and a soft, glowing sky with a few wispy clouds. Sunlight fills the scene from above, creating soft highlights and a warm atmosphere. The foreground frame is light and unobtrusive, just enough to create a natural window feeling without depth. The entire composition is clean, layered, and emotionally calm, with high clarity and dreamy realism. --ar 9:16 --raw --profile wl2wbdg --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdkjyLWIT9NRpb933XBV9LPRIlc62f3KBMoLFL9VibqL4iayVxiaI4zZ3rsxzGtgnUgPeDCKJ5lFkKDQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A:prompt-0006",
+    "source_metadata": {
+      "article_index": 167,
+      "article_title": "Vol.164 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1745289040,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496082&idx=1&sn=33915106cca69cfabd94bec85d4588e8&chksm=96bee588a29bfd2c819593b6760006b2d49ae7e8da2ecf34d4af281572b41deeff5d39c93803#rd",
+    "title": "Vol.164 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496082&idx=1&sn=33915106cca69cfabd94bec85d4588e8&chksm=96bee588a29bfd2c819593b6760006b2d49ae7e8da2ecf34d4af281572b41deeff5d39c93803#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.164 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

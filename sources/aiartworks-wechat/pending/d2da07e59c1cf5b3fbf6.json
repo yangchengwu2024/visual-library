@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fOKhpgqhhoGsRu4NF-c55620be0c97",
+  "fingerprint": "30390d92e774b077475b4ca2c3224ae1ee552c07670cefa27b2f0ed8607a752f",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "prompt": "Photorealistic photo, a chubby ginger cat with striped fur perched on traditional Chinese curved eaves (gray tiles with carved patterns), gazing at blooming yellow osmanthus flowers above, osmanthus petals scattered on the roof, clear blue sky, gentle autumn light, the fragrance of osmanthus implied, warm color tone, tranquil and poetic scene, high resolution, sharp details. --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw:prompt-0003",
+    "source_metadata": {
+      "article_index": 57,
+      "article_title": "Vol.275 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1761262237,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd",
+    "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd"
+  },
+  "source_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw:prompt-0003",
+  "status": "pending",
+  "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 4"
+}

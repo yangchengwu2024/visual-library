@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwajlKow6ibicribpzYuo8eQArL6mvVGHWpsbl5WhlfmKCQ3qeia8cxTNuZQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-P5A4-tG02a4ozMl6F-db70814939ba",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2d5e2c6ecc3818cdee32c41e4e6555bd6d5f5f6aa19ff831c03efc85817c19fc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "To attempt to transcend contemporary art, What will the apartments of the future look like?, zero gravity, to define is to limit, and to express this definition in symbolic images without humans --ar 1:1 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwajlKow6ibicribpzYuo8eQArL6mvVGHWpsbl5WhlfmKCQ3qeia8cxTNuZQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg:prompt-0015",
+    "source_metadata": {
+      "article_index": 316,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.31",
+      "association_confidence": "high",
+      "createTime": 1731464713,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_P5A4~tG02a4ozMl6FqtXVg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486942&idx=1&sn=0dd22fc3bfb54a9c282a9b3df19a209f&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.31 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486942&idx=1&sn=0dd22fc3bfb54a9c282a9b3df19a209f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.31 · 提示词 16",
+  "version": "v1"
+}

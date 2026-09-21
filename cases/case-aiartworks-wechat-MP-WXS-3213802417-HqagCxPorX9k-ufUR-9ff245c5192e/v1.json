@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhUujd2jrhibgn901bes8YjrPArUoP4EfmFvgGVv9Ao39L48Ascvhm12w/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-HqagCxPorX9k-ufUR-9ff245c5192e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d2f718b700ab3cf1ed96dc8eba5f01f50630e1585afee5ae6c1edfd6784dd883",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "500",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Stylized fantasy portrait of a 40-year-old woman in a haute couture floral composition, set against a landscape of mountains and sky. The woman is shown full height, standing among soft hills and open sky, resembling a sculptural flower figure. Her hair is light reddish-brown (#B87452), thick and wavy, neatly gathered into a low bun at the nape of her neck. A few soft strands are left loose at the front, gently framing her face. The hairstyle is airy and feminine. Her skin is porcelain-smooth with a warm golden-peach undertone (#F9E2D2), stylized without photorealistic pores matte and even. Special attention is given to the face: the features are clearly and precisely detailed expressive gray-green eyes (#8CA59B), well-defined cheekbones, natural shading. The woman gazes directly into the camera, creating a strong connection with the viewer. She wears a monumental coat constructed from voluminous floral forms, crafted in rich pink (#F497B6) and pastel pink (#FAD4DC) tones. The oversized elements mimic peony petals round, soft, multilayered. The base of the outfit is decorated with textile roses and buds in dusty pink (#D8A4B2), creamy white (#F3ECE7), and muted green (#8DA68C), evoking the look of lush foliage. The background is an open mountain landscape under a light blue sky (#A3C6DA) with soft clouds. The distant mountains are painted in blended blue-green tones (#7DA49C), gently framing the central figure. Lighting is soft and diffused, with a slight misty effect, emphasizing the texture of the fabric and the rich sculptural forms without harsh shadows. The illustration is rendered in digital fantasy portrait style fully stylized, focusing on haute couture decorativeness, precisely drawn facial features, floral architectural shapes, and artistic depth. --ar 2:3 --stylize 500 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhUujd2jrhibgn901bes8YjrPArUoP4EfmFvgGVv9Ao39L48Ascvhm12w/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg:prompt-0003",
+    "source_metadata": {
+      "article_index": 158,
+      "article_title": "Vol.172 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746057736,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0",
+    "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

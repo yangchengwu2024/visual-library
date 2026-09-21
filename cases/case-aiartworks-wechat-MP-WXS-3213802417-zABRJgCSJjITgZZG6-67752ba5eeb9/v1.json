@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2Dc0r4bIiarsz2ibJWXOl055bjm5Ega3YcEGW9u7qEAwtsZFToFvI8CdD7g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-67752ba5eeb9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "38fae11bce032768c50651f1780f5c58f08c5f013cd82f9bd3603fc40b335c2f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A white unicorn pin badge, surrounded by soap bubbles and pink heart-shaped marble stones floating in the air. The background is a gradient of blue to purple with soft lighting that creates gentle shadows around it. In front of the background lies an oversized pastel lavender-colored bathtub filled with thick, pale cream, which adds warmth and texture to the scene. This design emphasizes cuteness and playfulness while maintaining elegance through its use of color and shapes. --ar 3:4 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2Dc0r4bIiarsz2ibJWXOl055bjm5Ega3YcEGW9u7qEAwtsZFToFvI8CdD7g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 296,
+      "article_title": "Vol.49 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733193054,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0",
+    "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc3cSLcPGbr08Db4Uar5icKTFvmaib3rcD19XZB9mXsepzibaDicaELQ0KniazT9AezRbEsuibjjU4B6iaMw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_i4Syi3hGrYMgBbOUUTA4zA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-i4Syi3hGrYMgBbOUU-42ecd32e2f13",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b428a28c37edecbf0e205b08477f476fd7c90e22e53d057c6a9345b7befc3752",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "stop": "100",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Beautiful Russian girl in the arms of a bear --stop 100 --ar 1:1 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc3cSLcPGbr08Db4Uar5icKTFvmaib3rcD19XZB9mXsepzibaDicaELQ0KniazT9AezRbEsuibjjU4B6iaMw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_i4Syi3hGrYMgBbOUUTA4zA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_i4Syi3hGrYMgBbOUUTA4zA:prompt-0019",
+    "source_metadata": {
+      "article_index": 289,
+      "article_title": "Vol.55 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733797818,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_i4Syi3hGrYMgBbOUUTA4zA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489078&idx=1&sn=52872d937b136e74cda20493f35942b7&scene=58&subscene=0",
+    "title": "Vol.55 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489078&idx=1&sn=52872d937b136e74cda20493f35942b7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.55 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

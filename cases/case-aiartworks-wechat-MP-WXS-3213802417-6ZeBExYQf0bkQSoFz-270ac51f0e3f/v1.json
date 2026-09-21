@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:21+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxYaopW1zVQbwqgDeogeJjugG9PyAQ8IiaTohOp7ibboeSicibvw5Dl1GljQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6ZeBExYQf0bkQSoFzMjb9g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6ZeBExYQf0bkQSoFz-270ac51f0e3f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c4cc46af298375ad039245b384a7180123084c819226fb4e0243deb639620bde",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "400",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a whale in a traditional Japanese art style, like ukiyo-e (woodblock prints). Extreme design, extra detailed, creative, high quality design, white black background and, strong contour, strong color and contrast true white, wide brush, add some creative extra design to it, tokyo style and text, brush art, phone case design style, detailed, creative, unrealistic cartoon style --ar 9:16 --stylize 400 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxYaopW1zVQbwqgDeogeJjugG9PyAQ8IiaTohOp7ibboeSicibvw5Dl1GljQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6ZeBExYQf0bkQSoFzMjb9g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6ZeBExYQf0bkQSoFzMjb9g:prompt-0002",
+    "source_metadata": {
+      "article_index": 251,
+      "article_title": "Vol.90- Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737340233,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6ZeBExYQf0bkQSoFzMjb9g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491978&idx=1&sn=39ac5851dc1ecf46defc742760b73bd7&scene=58&subscene=0",
+    "title": "Vol.90- Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491978&idx=1&sn=39ac5851dc1ecf46defc742760b73bd7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.90- Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

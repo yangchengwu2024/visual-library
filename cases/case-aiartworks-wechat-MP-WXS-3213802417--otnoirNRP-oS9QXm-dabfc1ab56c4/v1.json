@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcKcRJbKzoWAsk3HXPGzV2vO05xNTzIAu2C2IBA6Mkmm5zhKxRcyQQhvibLTG8cbGic5tLaNWiaDQujA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--otnoirNRP-oS9QXm-dabfc1ab56c4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b0e08d2f9a691478ad0abeb2adfeb466d33671814da9678218742502a74e2844",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A modern-designed Shorts content page UI, concept focused on introducing an album cover, Billboard-style, dynamic layout, sleek typography, immersive music presentation, full-screen experience --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcKcRJbKzoWAsk3HXPGzV2vO05xNTzIAu2C2IBA6Mkmm5zhKxRcyQQhvibLTG8cbGic5tLaNWiaDQujA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA:prompt-0001",
+    "source_metadata": {
+      "article_index": 206,
+      "article_title": "Vol.133 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742005826,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494783&idx=1&sn=5ade4c46a30ec4a7de70f1f9830afa66&chksm=96947716253760c45cfbbba1e79fec15475edb27054b76f13c6d5554df5f9d2c2862ba68bb1c#rd",
+    "title": "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494783&idx=1&sn=5ade4c46a30ec4a7de70f1f9830afa66&chksm=96947716253760c45cfbbba1e79fec15475edb27054b76f13c6d5554df5f9d2c2862ba68bb1c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

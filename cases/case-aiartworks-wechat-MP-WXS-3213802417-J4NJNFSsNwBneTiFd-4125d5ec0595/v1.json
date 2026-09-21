@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedia9lUkCNrMoTMRrMiasFHS72gxicGnfrVnlYSSTJvKUahZkEJT1RpXQaiadGy7ZIibsuPxDUCUWzeuw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-J4NJNFSsNwBneTiFd-4125d5ec0595",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1df367a169da1e3445b60564b517b82ef7ea8e1bc8ed8e22e262c193c402caf3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "Ultra realistic high-fashion portrait of an elegant young woman in side profile, a pure white snake coiled around her head, the snake’s head positioned at the level of her eye, surreal and artistic composition, soft pastel pink monochrome background, cinematic studio lighting, Vogue editorial photography style, medium format Hasselblad look, sharp attention for detail --ar 2:3 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShedia9lUkCNrMoTMRrMiasFHS72gxicGnfrVnlYSSTJvKUahZkEJT1RpXQaiadGy7ZIibsuPxDUCUWzeuw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw:prompt-0007",
+    "source_metadata": {
+      "article_index": 66,
+      "article_title": "Vol.265 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759275078,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0",
+    "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

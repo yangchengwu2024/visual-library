@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEVLTyJ8gYHs8A6oVle9B2iaIurfJJLwCrfEd4PT4WMyGpq63sIQuhbAw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iMBZT2HTCWHpbTWP9-66d02e37a812",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0d0f3eaeaacde150b3b3222479dcb9f1de06d6bb7bc876b025b06cd8d038ddc7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "scquus4",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "A cinematic close-up and wide shot of an androgynous model with sharp platinum hair, wearing oversized Gentle Monster sunglasses with mirrored lenses. The model stands on a futuristic bridge in Seoul at dusk, neon lights reflecting on wet asphalt. The atmosphere is surreal and dreamlike, with fog drifting between LED billboards. --ar 9:16 --raw --profile scquus4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEVLTyJ8gYHs8A6oVle9B2iaIurfJJLwCrfEd4PT4WMyGpq63sIQuhbAw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w:prompt-0000",
+    "source_metadata": {
+      "article_index": 53,
+      "article_title": "Vol.279 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762154286,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd",
+    "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

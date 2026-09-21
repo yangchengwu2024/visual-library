@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqPzqe9cdaLNHpcBfW4Lvwcsj9pSk3UxB3r4QlSgHHXuuomuNfTgicplUNiaq7Dhbiajkax2lfuy5bQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qPRUbhjkq05dqmsWd-c2b8d1ba34b9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "25b8f76c065397ff4102320609de5633baf8a93e7f89167a3defff8b15f6da64",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A black and white photograph of an abstract composition made from hundreds of small, transparent cubes arranged in the shape of people moving around inside them, creating dynamic patterns. The focus is on capturing motion blur to emphasize movement within each cube's space. In the background, blurred figures can be seen interacting with various objects such as shelves filled with boxes or standing near windows. This scene conveys both chaos and order through human activities amidst complex geometric shapes. --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqPzqe9cdaLNHpcBfW4Lvwcsj9pSk3UxB3r4QlSgHHXuuomuNfTgicplUNiaq7Dhbiajkax2lfuy5bQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 218,
+      "article_title": "Vol.123 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741055424,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd",
+    "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

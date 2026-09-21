@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd0brVicwle35LEwoIsY5yBt9oRicauddhFIhmOfv267DqROHtGiaaXqpPtk8UmqfUcFnt28rp7jVQvA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NLFtttTHmULbVGnr--1489b8130710",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8ce18df9ada9e99ab3880efe238b9f82a05dcbf228892cf72e5019bc86eeb77b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "60"
+  },
+  "previous_version": null,
+  "prompt": "female figure in lotus pose, clean pop-art silhouette, entire body bright yellow with gold touch ups, filled with layered energetic textures and abstract contrasting patterns, vibrant contemporary pop-art painting, bold lines, rich texture, striking contrast, background abstract floral energy pattern, stylish gallery artwork --chaos 60 --ar 2:3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd0brVicwle35LEwoIsY5yBt9oRicauddhFIhmOfv267DqROHtGiaaXqpPtk8UmqfUcFnt28rp7jVQvA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A:prompt-0004",
+    "source_metadata": {
+      "article_index": 76,
+      "article_title": "Vol.255 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1757287821,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500149&idx=1&sn=4d7d9435ab5a145dfea0f310264921a9&chksm=962fe56d1a656695dfa23e4c3cc5292328ea86bd9ccb5cbd98db8871d53cd41d507374f94469#rd",
+    "title": "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500149&idx=1&sn=4d7d9435ab5a145dfea0f310264921a9&chksm=962fe56d1a656695dfa23e4c3cc5292328ea86bd9ccb5cbd98db8871d53cd41d507374f94469#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

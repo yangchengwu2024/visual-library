@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBTYXeKW91m9CqebcmfL8O3asroAvD1XuUawE8ic5MoRXABRU5h1238SibN8wmdwQmtkSoYKZNXupRwH9EKfbNia7ibeic7SHUE6D0U/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-c5a5ccd19c4c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cb2f70c556817a39d219b7ac2e47716d7cc0fc2b25c86cd23c25583920d6040a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:17",
+    "hd": true,
+    "preview": true,
+    "sref": [
+      "3252620013",
+      "2457848750"
+    ],
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Two kids sitting outside a bus stop in a cozy hot afternoon in Japanese small town prefecture --ar 9:17 --sref 3252620013 2457848750 --stylize 50 --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBTYXeKW91m9CqebcmfL8O3asroAvD1XuUawE8ic5MoRXABRU5h1238SibN8wmdwQmtkSoYKZNXupRwH9EKfbNia7ibeic7SHUE6D0U/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0005",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 6",
+  "version": "v1"
+}

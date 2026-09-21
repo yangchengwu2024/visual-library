@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkUfibZqsfOLerNRlbEzeLUNJOly7pIbTbbOXHwU5nRQJObibX84N8q0gQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2b2xnLTutjWBvtHnN-5dedb1448259",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f364f11b75a85180735477ba3c4cd96922afdb551f26e896f79ec6cc0b769937",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "chaos": "10",
+    "quality": "2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Succulent nectarines creating a vibrant liquid splash, ultra-realistic rendering, bright natural sunlight enhancing the juicy textures, rich orange and pink hues, dynamic and inviting layout., --chaos 10 --ar 16:9 --quality 2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkUfibZqsfOLerNRlbEzeLUNJOly7pIbTbbOXHwU5nRQJObibX84N8q0gQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q:prompt-0004",
+    "source_metadata": {
+      "article_index": 275,
+      "article_title": "Vol.67 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735007432,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0",
+    "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

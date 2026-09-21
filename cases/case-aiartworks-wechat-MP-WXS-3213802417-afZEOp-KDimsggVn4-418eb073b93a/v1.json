@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYnolV8xRw39ZpHicrX28qKQy4EpjcbdXYncNNr0HDveiceMmeO8mkLPCg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-afZEOp-KDimsggVn4-418eb073b93a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9865d55f5917cda4a3edc8f756e6be83e040c1c633d6d15d675cd4e1658cdc03",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:7",
+    "raw": true,
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A moody beautiful black and white infrared portrait photograph of an orangutan reading a large thick book, behind him is a massive Roman stone capital draped with a lush grape vines , Petzval 85mm lens, f.2.1, bokeh, full spectrum camera with 750nm infrared filter and 750nm flash, slow shutter speed motion blur, glowing white foliage, deep black shadows, ghostly, beautiful and moody, high contrast, raw composition, grainy monochrome film look --ar 5:7 --raw --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYnolV8xRw39ZpHicrX28qKQy4EpjcbdXYncNNr0HDveiceMmeO8mkLPCg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 67,
+      "article_title": "Vol.264 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759102216,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd",
+    "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

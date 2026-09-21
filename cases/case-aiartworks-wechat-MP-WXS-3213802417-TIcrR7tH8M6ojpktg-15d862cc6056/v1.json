@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5UTP1nUy4wrEuFBzQ13Zzu0NOMribGxmV6l10XsDvrC4L72IV1DnY5Rg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TIcrR7tH8M6ojpktg-15d862cc6056",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c06295a314db9a710d94bd11f9259bcde8b68cddefb4c559a0503085e3cfc250",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "11",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Japanese Tiger Oni, midnight blue and gold , clean line art painted by Ilya Kuvshinov, Ed Brubaker, Apollonia Saintclair, Jack Kirby, Brian Michael Bendis --chaos 11 --ar 9:16 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5UTP1nUy4wrEuFBzQ13Zzu0NOMribGxmV6l10XsDvrC4L72IV1DnY5Rg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg:prompt-0008",
+    "source_metadata": {
+      "article_index": 181,
+      "article_title": "Vol.151 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743993036,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd",
+    "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

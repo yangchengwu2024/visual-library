@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdyibve0an51fgwv3lGydtvhEum530P2SgJBtaVzXoia85DcL81blwJicvPOiaf4IibesjY1H3pZ3aK1Hw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-39TNyPm5kUV-g21BA-64ecd9f48084",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d5b207cdec84a7db578e8380ed6f236ec71f5e097dfef36e7969a0d0c58a4f5e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Low angle shooting, many ancient Chinese soldiers wearing armor ride black horses quickly towards the camera, the horses leap across the grass, and the surrounding dynamics are blurred, super realistic, super detailed, and super realistic --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdyibve0an51fgwv3lGydtvhEum530P2SgJBtaVzXoia85DcL81blwJicvPOiaf4IibesjY1H3pZ3aK1Hw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ:prompt-0004",
+    "source_metadata": {
+      "article_index": 102,
+      "article_title": "Vol.227 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1751585451,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd",
+    "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

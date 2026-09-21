@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCnGujmIasYjKTgbrBmeYUTRRPqRczugBr0a7EHM1GEJTIgRe9JCG4wQShdibDwlk5oY9rib9vxRVhBsPQFicB54gcLwuiaFwgqNOs/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-84ve3O5q17-3So856-0ac70670ba5d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3da3dc91aa2a9c29bb0a4c365bb9e28b29ef8e9dd19cb1a238514d85fc2ea3d4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "ze6zjzp",
+    "sref": [
+      "4086643723"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "ein Mädchen mit einem weiten Sweatshirt und einer weiten Barrel Hose kniet auf dem Boden mit einem bunten Teppich und umarmt eine süße Tigerkatze --ar 3:4 --sref 4086643723 --profile ze6zjzp --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCnGujmIasYjKTgbrBmeYUTRRPqRczugBr0a7EHM1GEJTIgRe9JCG4wQShdibDwlk5oY9rib9vxRVhBsPQFicB54gcLwuiaFwgqNOs/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg:prompt-0013",
+    "source_metadata": {
+      "article_index": 18,
+      "article_title": "Vol.314-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783553474,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0",
+    "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 14",
+  "version": "v1"
+}

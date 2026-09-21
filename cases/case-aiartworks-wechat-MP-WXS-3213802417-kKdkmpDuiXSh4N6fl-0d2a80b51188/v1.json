@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0VjO2eww0PHMSSWGddFPvlg2OtE8Y3s2FCdzUsjU6ib63ShsTq3I8wg0w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kKdkmpDuiXSh4N6fl-0d2a80b51188",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6eaa2f01a9270ff33f7e4528ad0be1f15757089fab41c20ba58a35680193bf67",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "15",
+    "profile": "zuz1gv1",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "close-up of Samantabhadra Bodhisattva's left hand, arm naturally lowered, palm facing outward, fingers gently spread or slightly curved in a gesture of giving, a golden serpent coiled along the arm, head rising toward the palm, the hand adorned with intricate Buddhist jewelry and flowing silk sleeves, detailed gold embroidery, divine and serene expression implied, soft diffused lighting, emphasis on texture: polished skin, lustrous gold scales, rich brocade fabric, fusion of Buddhist iconography and high-detail material aesthetics, cinematic composition, 8k --chaos 15 --profile zuz1gv1 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0VjO2eww0PHMSSWGddFPvlg2OtE8Y3s2FCdzUsjU6ib63ShsTq3I8wg0w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA:prompt-0008",
+    "source_metadata": {
+      "article_index": 149,
+      "article_title": "Vol.180 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746844247,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd",
+    "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-PKpv9iGpMZ2QWKJGk-5a032cdc25fb",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCf4nhEZ97FjlCNGXw699AiaEqZ2icQic1M6C5viaJcPVrgk0ibfqnwkyaj18ChvIGiaw7Vr2NzuYFw8Dw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_PKpv9iGpMZ2QWKJGk1E0Pg#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe6xSMyUg9v8RdgQknqmCL5YRzswK9iaaATUyxItLWDj4r9kvzia1t5AkqlB12pYXGDzOtfUibiaCbNlg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_PKpv9iGpMZ2QWKJGk1E0Pg#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_PKpv9iGpMZ2QWKJGk1E0Pg:prompt-0000",
+      "source_metadata": {
+        "article_index": 324,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.23",
+        "association_confidence": "review",
+        "createTime": 1730641532,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 0,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_PKpv9iGpMZ2QWKJGk1E0Pg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486314&idx=1&sn=9b49014c7469052fd38895a94ce21782&chksm=96eec09be737c0fbe3822b3b7e4e412fe3e0195c44b9446acacba09b24d1dabcfa424a87dd2d#rd",
+      "title": "Midjourney | 精选作品及提示 - Vol.23 · 提示词 1",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486314&idx=1&sn=9b49014c7469052fd38895a94ce21782&chksm=96eec09be737c0fbe3822b3b7e4e412fe3e0195c44b9446acacba09b24d1dabcfa424a87dd2d#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.23 · 提示词 1",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.23 · 提示词 1"
+  ]
+}

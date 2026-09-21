@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DCUmHfQymicL5rMoZPBSWlzBWiblOcpsibNuV2M4ReFab1af6trRY1IEheQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DCiaIhNXG1aib1MTiaic9kf81Of9ZgLRbd1oePiczNic0qVkVnOgjvK9Bnlxzw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ISTApX-XbK8bn4JFm-9d1f3a97103d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "049a2154c2ce704b0ff65b966f275cca68cd95b7d61d4fe6f66c53e69a5ede00",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A sci-fi HUD screen showing a warning. T-Rex Dinosaur. Alarm symbols. --ar 3:4 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DCUmHfQymicL5rMoZPBSWlzBWiblOcpsibNuV2M4ReFab1af6trRY1IEheQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DCiaIhNXG1aib1MTiaic9kf81Of9ZgLRbd1oePiczNic0qVkVnOgjvK9Bnlxzw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg:prompt-0019",
+    "source_metadata": {
+      "article_index": 156,
+      "article_title": "Vol.174 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746239438,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496456&idx=1&sn=73d041b61f478caa8c313f613d67955e&chksm=969a4593ae4e94149c3101c7bd6a075feebaedc184b7c250f49bd762e50fe5e68b7d46901db4#rd",
+    "title": "Vol.174 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496456&idx=1&sn=73d041b61f478caa8c313f613d67955e&chksm=969a4593ae4e94149c3101c7bd6a075feebaedc184b7c250f49bd762e50fe5e68b7d46901db4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.174 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

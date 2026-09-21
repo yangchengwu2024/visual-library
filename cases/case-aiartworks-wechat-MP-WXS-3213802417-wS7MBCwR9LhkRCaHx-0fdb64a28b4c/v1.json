@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDSXBpJm1fzqtNS03lYicLSJ92Nu2ZLlQ5OSBQVEdfdymo8266lTYMv0A/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wS7MBCwR9LhkRCaHx-0fdb64a28b4c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "89922b2865c15540419ccdec8c2595e724589609fc85f70e6628ef320c4af14a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "teddy bear climbs on eiffel tower --ar 1:1 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfQ7uUjAd8RRqrptalhEaKDSXBpJm1fzqtNS03lYicLSJ92Nu2ZLlQ5OSBQVEdfdymo8266lTYMv0A/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg:prompt-0013",
+    "source_metadata": {
+      "article_index": 65,
+      "article_title": "Vol.266 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759451166,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wS7MBCwR9LhkRCaHxakpfg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500604&idx=1&sn=49b7480021e0a2ce5b552a4279017e19&chksm=96a7798cc2c0f6b39a335e1bece6a65ddf7511ad07374d8b2d28e12849b97e276b3169d02adb#rd",
+    "title": "Vol.266 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500604&idx=1&sn=49b7480021e0a2ce5b552a4279017e19&chksm=96a7798cc2c0f6b39a335e1bece6a65ddf7511ad07374d8b2d28e12849b97e276b3169d02adb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.266 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

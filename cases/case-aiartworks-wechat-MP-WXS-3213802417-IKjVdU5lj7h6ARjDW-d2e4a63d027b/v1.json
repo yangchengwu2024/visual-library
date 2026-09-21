@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aADsmSUaO2TWdhiaaVjSQfjd8X3XHxCT8Y4z6815dZibw22a0tfHj8LWyg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJnchfevWh2tYGE6lXEEGn2QqvPYa9fxHXek3cwHicYVMCqHic5nkZGqwg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKjVdU5lj7h6ARjDW-d2e4a63d027b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "11e156ea924865cfa276cae238767e5c73b6448538defff8f25c5525d7ed9eb1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2"
+  },
+  "previous_version": null,
+  "prompt": "hotograph of translucent oil and water droplets blending on a smooth matte white surface, minimal composition, soft diffused daylight from one side, pale champagne tint with subtle gradient lighting, natural reflections on droplet edges, thin fluid film with gentle viscosity, even exposure, clean modern skincare texture aesthetic, photorealistic studio shot, with a soft gradient from bright white to warm tone, shot on glossy acrylic plate --ar 9:16 --quality 2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aADsmSUaO2TWdhiaaVjSQfjd8X3XHxCT8Y4z6815dZibw22a0tfHj8LWyg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJnchfevWh2tYGE6lXEEGn2QqvPYa9fxHXek3cwHicYVMCqHic5nkZGqwg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA:prompt-0005",
+    "source_metadata": {
+      "article_index": 59,
+      "article_title": "Vol.272 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760657416,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+    "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8U1ApJIbD2iayiaWu75uC4t5edA9k1dviaAkY6XF0SEEccqpcx63mRmWiaw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fKTnbR5aW2tEzyaTH-53f3ce78d217",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "916b4b5e1bb732c5fdc16a9b2069166b4737fcbb192f63af4d55b4269ff2147d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "40",
+    "exp": "50",
+    "profile": "hzqdi3o",
+    "sref": [
+      "3291335101",
+      "3755246895",
+      "1224680221"
+    ],
+    "stylize": "1000",
+    "sv": "4",
+    "sw": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Photorealism two knights having a sword fight on a mountain ridge. Side on shot 2d Rocky Mountains landscape definition, 8k, uhd, vfx, cinematic, wide angle, futuism, minimalism tilt shift, latent spaces, celestial beauty --chaos 40 --ar 3:4 --exp 50 --sref 3291335101 3755246895 1224680221 --profile hzqdi3o c6pme21 --sv 4 --sw 150 --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8U1ApJIbD2iayiaWu75uC4t5edA9k1dviaAkY6XF0SEEccqpcx63mRmWiaw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw:prompt-0018",
+    "source_metadata": {
+      "article_index": 147,
+      "article_title": "Vol.181 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747017012,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496793&idx=1&sn=32d5c37a0a8b1299ddae9beef5fbff82&chksm=96370cfe29ec46a9fb9b39934313e17998447dcc2fefdd21f4de9c0bb55d5730b203cdea641b#rd",
+    "title": "Vol.181 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496793&idx=1&sn=32d5c37a0a8b1299ddae9beef5fbff82&chksm=96370cfe29ec46a9fb9b39934313e17998447dcc2fefdd21f4de9c0bb55d5730b203cdea641b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.181 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

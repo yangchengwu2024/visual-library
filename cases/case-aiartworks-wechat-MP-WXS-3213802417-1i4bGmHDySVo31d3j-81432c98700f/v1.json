@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcDzyPGN1gSxrfhfKyxHZz2Jlvu8jicnF2pm2Q5IU06tmvCzLxZy4QbYwot06VfGyGh3yxyltkofLg/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1i4bGmHDySVo31d3j-81432c98700f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3dfaaa4fceae0cec56659833b34419d038d4c1d805ce911c36ca8efba6ca8b93",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "Hyper-realistic video of a fluffy gray cat floating in zero gravity inside a futuristic space kitchen. The cat meows in slow motion while spinning gently among floating breakfast items like scrambled eggs, toast, and milk. The camera rotates 360° as the cat tries to catch a sausage mid-air. Cinematic lighting, ultra-detailed textures, playful sci-fi music, 4K, loop-friendly, visually hypnotic, surreal viral humor. --ar 51:91 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShcDzyPGN1gSxrfhfKyxHZz2Jlvu8jicnF2pm2Q5IU06tmvCzLxZy4QbYwot06VfGyGh3yxyltkofLg/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g:prompt-0000",
+    "source_metadata": {
+      "article_index": 91,
+      "article_title": "Vol.241 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1754436667,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499396&idx=1&sn=4975eed01b18afb1390839cb75dc3e92&chksm=96e8ead56357626f7baf61e3f193747d46a2c7c043096c68a34caa26bf2279c9c92b2089035e#rd",
+    "title": "Vol.241 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499396&idx=1&sn=4975eed01b18afb1390839cb75dc3e92&chksm=96e8ead56357626f7baf61e3f193747d46a2c7c043096c68a34caa26bf2279c9c92b2089035e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.241 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

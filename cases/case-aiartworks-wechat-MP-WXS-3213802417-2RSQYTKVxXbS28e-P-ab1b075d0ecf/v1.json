@@ -1,0 +1,89 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZbbmPs6CAeFjupZIluy22QicYDMiaAqTbVMA9ibuyib7b6Eo4Okzorw7rRw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZgafJ9xic22EeLQXGvQkqdX6Umv1jsxuuyzyIpUTSRe7iawUqx4mhJuYQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZvo3dJ9LQTagvY0pFG7AjhonpokK6pUR4u6XmyT4H8sdDoOoZTxONwQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2RSQYTKVxXbS28e-P-ab1b075d0ecf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2383004d2f130d049234e4da4e0717f41ae8b792fc2cd178085aca71dde9053f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "15",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/AMbSAALSzqw",
+      "https://s.mj.run/1EplyV3-GjM",
+      "https://s.mj.run/Te3fAzEay_A",
+      "https://s.mj.run/vSthWrZ_UAE"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "minimalistic abstract shape of a baby full bodyin a fetus position floating in the air soft pastel gradients in orange, pink, violet, glowing light in the head forming a subtle minimalistic brain shape, dreamy blurred edges, calm and ethereal atmosphere, minimal detail --chaos 15 --ar 3:4 --raw --sref https://s.mj.run/AMbSAALSzqw https://s.mj.run/1EplyV3-GjM https://s.mj.run/Te3fAzEay_A https://s.mj.run/vSthWrZ_UAE",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZbbmPs6CAeFjupZIluy22QicYDMiaAqTbVMA9ibuyib7b6Eo4Okzorw7rRw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZgafJ9xic22EeLQXGvQkqdX6Umv1jsxuuyzyIpUTSRe7iawUqx4mhJuYQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZvo3dJ9LQTagvY0pFG7AjhonpokK6pUR4u6XmyT4H8sdDoOoZTxONwQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g:prompt-0002",
+    "source_metadata": {
+      "article_index": 55,
+      "article_title": "Vol.277 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1761694232,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 3
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd",
+    "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

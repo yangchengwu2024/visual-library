@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdMLiajvaicFoDGb4Xaro2FccmJDQLf45dMHa1C82qalHkKN2ic4ibiavGeyOQ92WjIg1QGmC03icE17Hlw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wdlqkkdLhjgxyb6Xk-4cc157c08fba",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0e75c201863cade576794b068574850161d38900a310cd6c146598a8a1e1a64b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A silhouette of a person standing on the edge of a cliff, gazing at a vast horizon at sunset. The scene should symbolize the beginning of a new journey, with warm, golden and purple tones creating a sense of hope, transformation, and introspection --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdMLiajvaicFoDGb4Xaro2FccmJDQLf45dMHa1C82qalHkKN2ic4ibiavGeyOQ92WjIg1QGmC03icE17Hlw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw:prompt-0013",
+    "source_metadata": {
+      "article_index": 299,
+      "article_title": "Vol.47 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732933816,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488389&idx=1&sn=73bb34260b03325f48959d89b67691a1&chksm=968323ec52bdb4900c0436a799174bef5eb65b24e93d7064ebc3a437e216f3f49cce2aef8af5#rd",
+    "title": "Vol.47 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488389&idx=1&sn=73bb34260b03325f48959d89b67691a1&chksm=968323ec52bdb4900c0436a799174bef5eb65b24e93d7064ebc3a437e216f3f49cce2aef8af5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.47 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShda5kWficA2G6OXfYzWnwee0K1hFXMdZMrGPcH3LIicuULGKudMpmatt55I2OrArrPfWLB8ODtbt4Kg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tXPbIazPqsu8eVTSU-495ac7b3d6e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "435d3d0b1babca2abf015fe3d4803013365531905cfe7c2728f561623530331e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A Christmas poster for BLUETOOTH SPEAKER, A Granats\". On the roof top, Santa Claus is pushing a BLUETOOTH SPEAKER with his two hand and throwing it down to chimney . The photo was taken from above, from behind, and we can see snow falling in front of us. In the background there's snowy city. There should be gold ribbon around that big white square heat pumps box, and red gifts wrapping paper flying all over. It says under the picture '985/423' written small in blue letters. This will make people smiling when they look at it! --ar 9:16 --quality 2 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShda5kWficA2G6OXfYzWnwee0K1hFXMdZMrGPcH3LIicuULGKudMpmatt55I2OrArrPfWLB8ODtbt4Kg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 292,
+      "article_title": "Vol.53 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1733540763,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd",
+    "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

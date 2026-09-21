@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601ey5icTHXnicM6qquBth6LVict91vneVcyf1V6TiavnyEu0fqwWrbNUcmu5bg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xlkxPw-5uxferkC8M-67e23af14826",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3d6ec15c9df05e125247638961666779e5da26513f09797bb8fac07ec3dbc77c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A huge, unrealistically magical, hyperbolically large, multi-story building-sized pink cat confidently walks along the streets of a city in Israel, past skyscrapers. The cat is pink, which contrasts with the colorless cityscape. The cat is surrounded by skyscrapers and business centers, an urban atmosphere. Cinematic composition, hyperrealistic textures on the cat and a surreal contrast between color and monochrome. Dramatic lighting emphasizes the bold juxtaposition. --ar 9:16 --style raw --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601ey5icTHXnicM6qquBth6LVict91vneVcyf1V6TiavnyEu0fqwWrbNUcmu5bg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 250,
+      "article_title": "Vol.91 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737426646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0",
+    "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

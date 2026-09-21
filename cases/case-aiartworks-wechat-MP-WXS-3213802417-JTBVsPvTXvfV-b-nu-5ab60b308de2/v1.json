@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcIv0rVJSSKTaN3LZm4yPxicq7zunqibNWJAVD7v3BA3tCiav0WhLUNicDDA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcicIUVZ4icQtCTEOiasffvBkpP0Q8Nr5AbyjZdibNF75vIQMA6g9hvnchVg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTBVsPvTXvfV-b-nu-5ab60b308de2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1f0519a8f246bd87449c9e5fe062effe0f79b7f1f9601616746154dd04840ed7",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Realistic style, cinematic texture, realistic shooting. On the wall of a Huizhou style building, the main subject of the wall painting is an ancient beauty, an anime character. The girl's hair is composed of a large number of lush red roses, which are densely packed and wrap around her head. It's like putting a gorgeous flower hat on the girl's face. These flowers cover the entire wall densely, with dense long branches falling down and many petals falling from the ground. The details of the flowers are realistic, with the roots on one side, a house as the background, and a wide road as the foreground. The depth of field is large, the ultra wide angle, and the real photos are in a realistic style --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcIv0rVJSSKTaN3LZm4yPxicq7zunqibNWJAVD7v3BA3tCiav0WhLUNicDDA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcicIUVZ4icQtCTEOiasffvBkpP0Q8Nr5AbyjZdibNF75vIQMA6g9hvnchVg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0008",
+    "source_metadata": {
+      "article_index": 153,
+      "article_title": "Vol.176 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746498625,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd",
+    "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

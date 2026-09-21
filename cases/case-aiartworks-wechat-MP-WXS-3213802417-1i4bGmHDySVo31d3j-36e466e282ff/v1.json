@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcDzyPGN1gSxrfhfKyxHZz2HdOcpIo2jRicQjlTicH6eHDJYyGxM9ibRhm6UvnN94dT9jgFvcaXTicM9Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1i4bGmHDySVo31d3j-36e466e282ff",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5a9db559e8acb67aebbf698513e96ff24ce680b6819b86bc8eaf79fb9c13e7a7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Art type: Movie special effects image. Main subject: A divine platform in a Chinese - style palace among the sea of clouds, with stars in the background. Environment: The sea of clouds surges like waves yet remains gentle, with white clouds winding around the palace and the divine platform. In the distance, stars shine brightly, nebulae unfold like a dreamy picture, and the Milky Way stretches across the sky. Details: The divine platform is made of simple and thick bluestones, with natural and realistic stone surface textures as if polished by time. Exquisite auspicious beast patterns are carved on the edge of the platform. The auspicious beasts are in different poses, some galloping, some looking back, with distinct hairs and vivid eyes. In the center of the platform, there is a small bronze incense burner. Mysterious runes are engraved all over the incense burner. The lines of the runes are smooth and textured, seemingly emitting a faint glow. Wispy smoke curls up from the incense burner, taking on strange shapes as if containing mysterious power. At each of the four corners of the divine platform, there is a small dragon - coiled stone pillar. The dragon's body winds around, the dragon scales are clearly visible, the dragon whiskers flutter in the wind, and the dragon eyes are bright. Composition: Close - up composition, with the divine platform as the center of the picture, focusing on highlighting the details of the divine platform. Using the sea of clouds and stars as the background, it shows the mystery and solemnity of the divine platform in the fantasy fairyland. Style: Chinese - style fantasy and mysterious style, integrating traditional Chinese elements with fantasy starry sea of clouds, creating an atmosphere full of mystery. Parameters: 8K ultra - high - definition resolution. Use advanced 3D modeling technology to finely shape the divine platform and all details. Through ray - tracing technology, simulate the real lighting effects of clouds and starlight. Use particle - effect technology to create realistic sea of clouds, stars and the smoke from the incense burner. Simulate the texture of top - notch Hollywood movie special effects, and finely render elements such as the divine platform, stone pillars, and incense burner, presenting a realistic and highly visually impactful image. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcDzyPGN1gSxrfhfKyxHZz2HdOcpIo2jRicQjlTicH6eHDJYyGxM9ibRhm6UvnN94dT9jgFvcaXTicM9Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g:prompt-0004",
+    "source_metadata": {
+      "article_index": 91,
+      "article_title": "Vol.241 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1754436667,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499396&idx=1&sn=4975eed01b18afb1390839cb75dc3e92&chksm=96e8ead56357626f7baf61e3f193747d46a2c7c043096c68a34caa26bf2279c9c92b2089035e#rd",
+    "title": "Vol.241 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499396&idx=1&sn=4975eed01b18afb1390839cb75dc3e92&chksm=96e8ead56357626f7baf61e3f193747d46a2c7c043096c68a34caa26bf2279c9c92b2089035e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.241 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

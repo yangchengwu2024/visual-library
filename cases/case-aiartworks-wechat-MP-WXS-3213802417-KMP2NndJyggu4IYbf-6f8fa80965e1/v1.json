@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia50hc1FK9RBHicpRFeJd6P96KDZgMEaPoZS2YpaKTicHzd1NmH165GX7OQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5DmDCT1yp1ia0wib9DDq9K97DPxgiayRrld7WpY4iaTttRCqIPsFA7iarGlg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KMP2NndJyggu4IYbf-6f8fa80965e1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "63de47b2f37088b93163efc46c63ea201c8d5464fd8705624ae0d61b02e65c25",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "r9m7cxx",
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "Create a colorful cartoon caricature of a American Shorthair Cat, in Hanna-Barbera retro cartoon style, groovy 60s vibe, funny, smiley, Full-Body view, Dynamic action pose, dynamic angle, playful pose, standing in a urban landscape, art academia --profile r9m7cxx --stylize 250",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia50hc1FK9RBHicpRFeJd6P96KDZgMEaPoZS2YpaKTicHzd1NmH165GX7OQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5DmDCT1yp1ia0wib9DDq9K97DPxgiayRrld7WpY4iaTttRCqIPsFA7iarGlg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA:prompt-0012",
+    "source_metadata": {
+      "article_index": 104,
+      "article_title": "Vol.225 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1751239870,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd",
+    "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

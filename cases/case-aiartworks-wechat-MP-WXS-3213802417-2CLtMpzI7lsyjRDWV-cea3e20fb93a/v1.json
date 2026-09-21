@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfU0oGzd1hvqZxJ8gMjbCvPVE9Zia2U0g2icCZSynicIZZyibWibdSBiagIs6eh0icsUa6XKREAWeb0DoQMw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2CLtMpzI7lsyjRDWV-cea3e20fb93a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3bf870b65ff9e2004447b759ca9fa60d311de05aa2d40a5500892b7afe51fafe",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A close-up of a pencil now transformed into the raw, spiky skin of a real cactus. The pencil maintains its shape and its surface is deep, dark green with a glossy sheen, mimicking the thick texture of an actual cactus. Large, sharp spines protrude naturally, adding an element of danger to its surreal appearance. The pencil rest directly on a soft light pink background, emphasizing its otherworldly presence. Captured with a Canon EOS R1 in 8K resolution at f/8, the image ensures sharp details and a beautifully balanced depth of field. --ar 4:5 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfU0oGzd1hvqZxJ8gMjbCvPVE9Zia2U0g2icCZSynicIZZyibWibdSBiagIs6eh0icsUa6XKREAWeb0DoQMw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig:prompt-0005",
+    "source_metadata": {
+      "article_index": 227,
+      "article_title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1740290221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0",
+    "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 6",
+  "version": "v1"
+}

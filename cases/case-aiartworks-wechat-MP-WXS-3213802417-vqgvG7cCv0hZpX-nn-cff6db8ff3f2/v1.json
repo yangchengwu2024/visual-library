@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfEZjFkm3GLmHfiaxCicAOKhibUILwndPOezOuNtk2rZETeKNFC5Q9YhHFxNNHic8yKNwudtYVLeW0WPQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vqgvG7cCv0hZpX-nn6HUEA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vqgvG7cCv0hZpX-nn-cff6db8ff3f2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c1a2ede9861b3cb2fd94df565b84c9178811040e8662dd555caeb269eaf967b8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "chaos": "10",
+    "profile": "4vys8ki",
+    "sref": [
+      "628319"
+    ],
+    "stylize": "1000",
+    "sv": "4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Smiling Cybercore monkey, hyper realism, pink ancient symbol patterns, black and gray, white and dark-silver, depth, extraordinary, vibrant, cinematic raking light, subsurface scattering, chromatic aberration --chaos 10 --ar 16:9 --sref 628319 --profile 4vys8ki --sv 4 --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfEZjFkm3GLmHfiaxCicAOKhibUILwndPOezOuNtk2rZETeKNFC5Q9YhHFxNNHic8yKNwudtYVLeW0WPQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vqgvG7cCv0hZpX-nn6HUEA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vqgvG7cCv0hZpX-nn6HUEA:prompt-0005",
+    "source_metadata": {
+      "article_index": 138,
+      "article_title": "Vol.191 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748053834,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vqgvG7cCv0hZpX-nn6HUEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497186&idx=1&sn=6b7782c578aeafa4d03110e5d2882a8e&scene=58&subscene=0",
+    "title": "Vol.191 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497186&idx=1&sn=6b7782c578aeafa4d03110e5d2882a8e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.191 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf05tAP6sanXkmfNZuuxf0cw4DWWk1CIajP258WFVr0Zkr3EbVsRia2RghCbhbtltuRO9TD5vU3rMA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-L3fwGvGQ5D3wGW-Fh-081f3bf60e6b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3c3966f416d77fd8ac54fa7841bd395e23d55c52e31080a67af50b367befd036",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "25",
+    "raw": true,
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Soggetto: Una figura umana parzialmente visibile, indossante un cappotto blu scuro con dettagli rosa acceso sui bordi e bottoni dorati. La testa della figura è quasi completamente oscurata e sostituita da una congerie di entità organiche allungate, simili a serpenti o tentacoli scuri e ruvidi. Ciascuna di queste entità presenta un singolo occhio grande e vivido di colore rosa magenta con una pupilla scura al centro, che sembra osservare in direzioni diverse. Una porzione del viso umano, con una carnagione chiara e un'espressione neutra o assente, è visibile tra le entità. Scena: L'immagine è impostata su uno sfondo astratto che sfuma da un rosa intenso nella parte superiore a un arancio più chiaro nella parte inferiore, creando una transizione di colore surreale e leggermente inquietante. La luce è diffusa ma mette in risalto le texture scure delle entità e la lucentezza degli occhi rosa. La composizione è focalizzata sulla figura centrale, con le entità che sembrano emergere o avvolgerla. Stili Artistici: Surrealismo psicologico, Arte concettuale oscura, Pittura digitale dettagliata. Dettagli: Texture delle entità scura e ruvida, quasi organica, con sottili variazioni di colore. Occhi rosa magenta vividi e luminosi. Dettaglio del cappotto blu scuro con pieghe realistiche e texture del tessuto definita, dettagli rosa acceso saturi e ben delineati, bottoni dorati con leggera lucentezza. Viso umano parziale reso con delicatezza, suggerendo fragilità o perdita di individualità. Sfumatura dello sfondo rosa-arancio graduale e uniforme. Parametri aggiuntivi --chaos 25 --ar 9:16 --raw --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf05tAP6sanXkmfNZuuxf0cw4DWWk1CIajP258WFVr0Zkr3EbVsRia2RghCbhbtltuRO9TD5vU3rMA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA:prompt-0005",
+    "source_metadata": {
+      "article_index": 166,
+      "article_title": "Vol.165 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745375564,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496123&idx=1&sn=f71bbba4124e99f2c0c1d938fd70d3d8&chksm=96f74a4d342ab1b7ee0fdea0040aec06ddf7539ea5604135dfb93282b7c4393a89d45ac21c94#rd",
+    "title": "Vol.165 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496123&idx=1&sn=f71bbba4124e99f2c0c1d938fd70d3d8&chksm=96f74a4d342ab1b7ee0fdea0040aec06ddf7539ea5604135dfb93282b7c4393a89d45ac21c94#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.165 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

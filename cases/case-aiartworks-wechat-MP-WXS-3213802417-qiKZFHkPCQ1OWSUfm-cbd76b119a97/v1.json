@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwZTVEwUibxibCJCSWo3ERzvpibY8U0uND0s6nmJJjMex8qRUBkqpVu9LjQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qiKZFHkPCQ1OWSUfm-cbd76b119a97",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f71325f66eae1e99663c157fdc3848543c9c5596995ac3dc326958f87ff99136",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "personalize": "fwd7ivk",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "fantastical woman radiant, otherworldly beauty holding guns, wearing a tall, elaborately designed top hat with metallic roses and abstract foliage, intricate patchwork in jewel tones of red, green, blue, and gold. Her makeup is dramatic and vibrant, with shimmering teal and aqua eyes, metallic skin, and glossy red lips. Detailed ornamental filigree designs adorn her cheeks, adding a touch of mystery. High-collared, mosaic-patterned jacket in geometric shapes with rich textures. Fantasy-inspired, regal elegance, modern Mad Hatter or harlequin aesthetic, ultra-realistic, cinematic lighting, intricate detail, hyper-realistic textures, 8K resolution --chaos 15 --ar 9:16 --quality 2 --style raw --personalize fwd7ivk --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjwZTVEwUibxibCJCSWo3ERzvpibY8U0uND0s6nmJJjMex8qRUBkqpVu9LjQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA:prompt-0003",
+    "source_metadata": {
+      "article_index": 315,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.32",
+      "association_confidence": "high",
+      "createTime": 1731550840,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486969&idx=1&sn=e56b7c0f0d34cd67b93cbb5415938d1a&chksm=9684308ee8ee227c874a13b49014ffb67d5a714890172cb3b00aa2637e58cb936aecd1e41aeb#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.32 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486969&idx=1&sn=e56b7c0f0d34cd67b93cbb5415938d1a&chksm=9684308ee8ee227c874a13b49014ffb67d5a714890172cb3b00aa2637e58cb936aecd1e41aeb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.32 · 提示词 4",
+  "version": "v1"
+}

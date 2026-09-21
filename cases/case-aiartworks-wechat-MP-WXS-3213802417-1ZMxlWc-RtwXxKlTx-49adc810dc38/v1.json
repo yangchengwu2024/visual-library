@@ -1,0 +1,77 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHH2J8wI2W49nuzTianqBeBKqmBlicnzGJ3duZkiaian500PVzWtDmOa4pVw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWH2GlGwvEVt0xxA8VZ5JiaWhaibQN9cpdQZaupuUxJaCnPiaIWdE52FCnag/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1ZMxlWc-RtwXxKlTx-49adc810dc38",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9b8c8566bd609cb15b2041218cfe32258abb4fee26f0bcec04fa0eb3f6b5b7ca",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "jrbvh4l",
+    "sref": [
+      "2518849299::0.5",
+      "2416440974",
+      "2300313089::2"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "the lonely queen is wearing a Tang Dynasty Chinese dress Stand on a high platform, reveals the majesty and bearing of the king,covering the ground with a thick layer of huge oriental palace complex background，environment,plant.golden style,epic, Large-scale scene Oppression (Shot size: Wide-angle wide-screen,ultra-fine photography, Hasselblad, HDR 32K,daytime light.large light ratio,creatice foreground composition, rich story and emotional picture setting, director Wong Kar-wai's style, based on the picture composition setting of the movie House of Flying Daggers, Fujifilm Color s400, capturing the landscape scenes of \"Dream of the Red Chamber\", Zen, mysterious,exquisite color scheme, inspired by the Tang Dynasty of China, A large scene with small characters in the composition --ar 2:3 --sref 2518849299::0.5 2416440974 2300313089::2 --profile jrbvh4l fcmgfck 5bj1shd fix1c6t t61v24y",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHH2J8wI2W49nuzTianqBeBKqmBlicnzGJ3duZkiaian500PVzWtDmOa4pVw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWH2GlGwvEVt0xxA8VZ5JiaWhaibQN9cpdQZaupuUxJaCnPiaIWdE52FCnag/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 62,
+      "article_title": "Vol.269 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760058571,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd",
+    "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

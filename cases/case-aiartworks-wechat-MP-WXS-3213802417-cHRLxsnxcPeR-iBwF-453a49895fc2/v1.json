@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCpEdP0yeqtcUxiaDsV4JFwbEXME0XbdHjavfXuLcpoeez5sKPRcicYGfzt9ftX2ylDZruic6ktBI50v3AHnyomcx9g4SQAOPpO9I/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cHRLxsnxcPeR-iBwF-453a49895fc2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5f02a676e055184db35ad4082c068521b9ab58504aff751e99180b6b02a3a8f7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "pale skeletons emerging from yellow-gold desert sand, dramatic close foreground skeleton clawing its way out of the sand, cracked skull, hollow eye sockets, tattered ancient rags, several other skeletons emerging in the background, ancient desert city or fortress faintly visible far behind, harsh blazing sun, dust in the air, cinematic golden light, grimdark but beautiful, epic adult dark fantasy, tragic mysterious mood, warm desert browns, black charcoal shadows, high contrast, detailed fantasy book cover art, vertical composition, empty dark smoky space at the top for typography, clear lower space for call to action button, no text, no logo, no watermark --ar 9:16 --raw --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCpEdP0yeqtcUxiaDsV4JFwbEXME0XbdHjavfXuLcpoeez5sKPRcicYGfzt9ftX2ylDZruic6ktBI50v3AHnyomcx9g4SQAOPpO9I/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0010",
+    "source_metadata": {
+      "article_index": 34,
+      "article_title": "Vol.298 - Midjourney V8.1 HD 特辑",
+      "association_confidence": "review",
+      "createTime": 1778196671,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd",
+    "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 11",
+  "version": "v1"
+}

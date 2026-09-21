@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZQlibPXvIm2K0F4VJpiaCF04MqquMywDfLj0yH7VEb2LwmibJLqJqQHahQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZCnYsXKMXt8b3ZpI0FraEqYMiakhPs3RUAicmfibDxddaSuDY5IbGX7FJA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tDgIvJ-7Yq9DC35u8-66babc9221d8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "51c391275d0bd74fc702150ca29cd88fb7a3dea49776fad4fbbeade56d130d3c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ebd9552",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Hyperrealistic,medium shot** of asmiling cat astronaut**, floating gently in space,Earth orbit visible behind**, bright sunlight, detailed helmet visor reflecting Earth, cheerful pose, clear and focused, optimistic mood, --ar 9:16 --profile ebd9552 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZQlibPXvIm2K0F4VJpiaCF04MqquMywDfLj0yH7VEb2LwmibJLqJqQHahQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficLlibcXnibBfpiaMTEsicCHCZCnYsXKMXt8b3ZpI0FraEqYMiakhPs3RUAicmfibDxddaSuDY5IbGX7FJA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA:prompt-0013",
+    "source_metadata": {
+      "article_index": 177,
+      "article_title": "Vol.155 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744338626,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tDgIvJ~7Yq9DC35u8zRvUA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495749&idx=1&sn=3b7359efc5df851898b988b90c63716f&chksm=96aa9e7b62e1576d89a643662dca8bd40acd01cd80177324db69e987470228ccc9c4a022a22d#rd",
+    "title": "Vol.155 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495749&idx=1&sn=3b7359efc5df851898b988b90c63716f&chksm=96aa9e7b62e1576d89a643662dca8bd40acd01cd80177324db69e987470228ccc9c4a022a22d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.155 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

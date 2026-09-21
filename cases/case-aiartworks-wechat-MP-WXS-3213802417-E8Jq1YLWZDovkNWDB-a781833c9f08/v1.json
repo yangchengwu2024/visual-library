@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz74DIcHWtTbdX2HhnZAtQKIibb2wscBaVXTp26JH5iaLMkicia59Sr9LwmPw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E8Jq1YLWZDovkNWDB-a781833c9f08",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ce0d0dd49490c7f99360cbf9e2d9531c807ba843de1205b4d8a2bcab828d397f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "40",
+    "weird": "3000"
+  },
+  "previous_version": null,
+  "prompt": "a french conductor in front of a 1600s orchestra of musicians; the conductor uses in this right hand a heavy baston; they are inside the court of king louis; illustration in the style of renaiscence painting; he is surrounded by kings and duchesses; jewlery, richness; power, kings. --chaos 40 --ar 9:16 --weird 3000",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz74DIcHWtTbdX2HhnZAtQKIibb2wscBaVXTp26JH5iaLMkicia59Sr9LwmPw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw:prompt-0006",
+    "source_metadata": {
+      "article_index": 52,
+      "article_title": "Vol.280 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762299062,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0",
+    "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

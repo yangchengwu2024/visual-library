@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrStWF1SicohPsAXoVgVd0SyUibjJibTfVkWHIOHg8DxFp3HDmMuvhiaaa9a2dnUib15vGb3LKmdPHkiag/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rziuBh4zFM-Uzd~VwaFsYg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrStWF1SicohPsAXoVgVd0SQOxgYiciceI6wS6TiayP8hZUsFEYaa3uuNsjny6dF5KKe171vc234zOEA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rziuBh4zFM-Uzd~VwaFsYg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rziuBh4zFM-Uzd-Vw-82c57a9a0368",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cad0e0056bb3f2f00b9c60e2cc0f734343f67197cfab10e9d578658475549d12",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "cartoon-style chibi hero with exaggerated 3-head-tall proportions wearing a blue-and-white vertically striped tunic, standing on a high rocky ledge with his back slightly turned to the viewer, holding detailed construction blueprints, midground a sprawling medieval city under construction with wooden scaffolding, stone masons chiseling blocks and hauling materials, prominently featuring the iconic blue-roofed stone castle from the reference image rising above half-built walls, dozens of workers bustling below, epic sweeping vista of dramatic skies and rolling hills, bold outlines, flat cell-shaded colors, hyper-detailed textures, epic western fantasy vibe, --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrStWF1SicohPsAXoVgVd0SyUibjJibTfVkWHIOHg8DxFp3HDmMuvhiaaa9a2dnUib15vGb3LKmdPHkiag/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rziuBh4zFM-Uzd~VwaFsYg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrStWF1SicohPsAXoVgVd0SQOxgYiciceI6wS6TiayP8hZUsFEYaa3uuNsjny6dF5KKe171vc234zOEA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rziuBh4zFM-Uzd~VwaFsYg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rziuBh4zFM-Uzd~VwaFsYg:prompt-0011",
+    "source_metadata": {
+      "article_index": 94,
+      "article_title": "Vol.238 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1753831841,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rziuBh4zFM-Uzd~VwaFsYg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499265&idx=1&sn=816bbd00ea1edd7989e04c4d33f97253&scene=58&subscene=0",
+    "title": "Vol.238 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499265&idx=1&sn=816bbd00ea1edd7989e04c4d33f97253&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.238 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

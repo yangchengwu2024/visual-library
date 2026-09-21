@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCpuP9ZxLU5ibWLZiagMwicA0UjxzPTqEKiclTTwMovxjQxyFNkiafDOibdot4qtbibrYhCia4icVfjYkxbAcopcblsicHWpDd1usts2GbDc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fd89a637f8d996b12b9e62d326b315f4fe17b9ccbc47f15fdae60660ba3f2c00",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "jcaly31",
+    "sref": [
+      "https://s.mj.run/b2TtT7CA0pI",
+      "https://s.mj.run/e9B2ctqbvMI"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "contemporary abstract painting, neutral beige cream taupe and soft black palette, delicate minimalist line work, layered acrylic brush textures, subtle burnt orange accents, elegant asymmetrical balance, refined modern abstraction, gallery-worthy fine art painting, sophisticated negative space, quiet luxury aesthetic, painted canvas texture, flat artwork presentation, isolated composition, artwork only, no interior scene, no frame --ar 9:16 --sref https://s.mj.run/b2TtT7CA0pI https://s.mj.run/e9B2ctqbvMI --profile jcaly31 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCpuP9ZxLU5ibWLZiagMwicA0UjxzPTqEKiclTTwMovxjQxyFNkiafDOibdot4qtbibrYhCia4icVfjYkxbAcopcblsicHWpDd1usts2GbDc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 19,
+      "article_title": "Vol.313-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783294218,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0",
+    "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfNNZCCttc8kWlNibLRv9MfcuSrNdR8Zic5Nv6jXQsQAoyicF4YicAic93TDWI8LgZ3iclH79ibhPibgBvpKw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-U-MxVk0EqH902SU7r-b40ca2dfb830",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "715fd9648a5863bd4ddfc8394177182d890ab64a61a03e92567bfc1cd1b292e6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Chinese 1980s Wuxia movie still, VHS aesthetic, film grain, Composition: close-up composite shot focusing on the faces of three noble sect leaders floating outdoors in a triangular formation above a dilapidated ancestral residence; Environment: soft blurred background emphasizing the elders’ expressions, dressed in luxurious red, blue, and purple Taoist robes; Characters: the three elders’ proud and scrutinizing expressions have vanished, replaced by extreme, twisted fear--eyes wide open with pinpoint pupils, mouths slightly agape, cold sweat dripping from their temples; Details: intense lighting highlights wrinkles, sweat beads, and terrified eyes, capturing profound disbelief and mortal terror; Style: cinematic, realistic, live-action feel, Chinese mythological, 1980s retro, film grain, HD, 8K --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfNNZCCttc8kWlNibLRv9MfcuSrNdR8Zic5Nv6jXQsQAoyicF4YicAic93TDWI8LgZ3iclH79ibhPibgBvpKw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ:prompt-0017",
+    "source_metadata": {
+      "article_index": 98,
+      "article_title": "Vol.231 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752449468,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498959&idx=1&sn=3b7abd60655674769477516d2ef7a297&chksm=97b3f011a0c47907e1cb89860755085baab000a9b33a27cb178339a3b0610547441bad859e32#rd",
+    "title": "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498959&idx=1&sn=3b7abd60655674769477516d2ef7a297&chksm=97b3f011a0c47907e1cb89860755085baab000a9b33a27cb178339a3b0610547441bad859e32#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

@@ -1,0 +1,118 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCEobSSzpRRZOnqFWgpmdMLhZI5vbokC7K23tDss5Olqx1Fm2UzvdDoNSAQKF5M5Ur8fHI9q7mkWhGDN1UX0AUJSGoa14Gu3YE/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAT050gWMKtwib3YRxlI5XVmszOr6ib0YS9y9eY54iaYoAY3OgPcjzFZcZy116ICM7o8h1ibBUia376MIOhPz1DibFqGLflNUMpvUbias/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCic0RhTEdibRs5dLdLthS6LsG7xfPoEJx7cW1UMp6x5Uf7Cr0rkNkD1Jsz68gQnVaRaFH9y7VUDEewBKnicZkACSGdPJ9SUhsDKM/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDFanViaibIZjzYvibBcOBm85saU3vCVLOkhw6lmvg88Q90UFWMoeWcyVE26PbhEq0bibGPclQfDKXBVM5vImwGj5TuzAklEiaFKDgk/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCKny6WQmH91ctERxvFjcfqFicQiao3icu2qia43ShnbBXPQawrZDaGSzSyiafWbSB0ia3K3APciaNeDqWju6gRlY1ibKCAVn8I14ePgTE/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-4"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WB26iaUUnDQVRGrmtFibJZO5cR0ssefPian1NGj5vD7S1icvZwq4Vfn2TuJVicvWiaYlLLYFdZL8723u0n7qStShmibksWloLIcWTJiaicE/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-5"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-84ve3O5q17-3So856-40f4ec4065d3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ce30d42f62c8fd3dd454421c63e872119c66357c99013e5e1454710867e771bc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "5",
+    "hd": true,
+    "preview": true,
+    "profile": "bvsl8ha",
+    "raw": true,
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Fashion character boy doll, shiny porcelain skin, futuristic glossy textured, super glossy skin, black hair with sculpted expressive bob, sticker huge glossy black heart near the eye, surreal fashion aesthetic, icy colour palette, minimalist white blank background, designer art toy meets fashion editorial, dressed white t-shirt - --chaos 5 --ar 2:3 --raw --profile bvsl8ha --stylize 50 --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCEobSSzpRRZOnqFWgpmdMLhZI5vbokC7K23tDss5Olqx1Fm2UzvdDoNSAQKF5M5Ur8fHI9q7mkWhGDN1UX0AUJSGoa14Gu3YE/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAT050gWMKtwib3YRxlI5XVmszOr6ib0YS9y9eY54iaYoAY3OgPcjzFZcZy116ICM7o8h1ibBUia376MIOhPz1DibFqGLflNUMpvUbias/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCic0RhTEdibRs5dLdLthS6LsG7xfPoEJx7cW1UMp6x5Uf7Cr0rkNkD1Jsz68gQnVaRaFH9y7VUDEewBKnicZkACSGdPJ9SUhsDKM/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDFanViaibIZjzYvibBcOBm85saU3vCVLOkhw6lmvg88Q90UFWMoeWcyVE26PbhEq0bibGPclQfDKXBVM5vImwGj5TuzAklEiaFKDgk/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCKny6WQmH91ctERxvFjcfqFicQiao3icu2qia43ShnbBXPQawrZDaGSzSyiafWbSB0ia3K3APciaNeDqWju6gRlY1ibKCAVn8I14ePgTE/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-4"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WB26iaUUnDQVRGrmtFibJZO5cR0ssefPian1NGj5vD7S1icvZwq4Vfn2TuJVicvWiaYlLLYFdZL8723u0n7qStShmibksWloLIcWTJiaicE/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg#image-5"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg:prompt-0002",
+    "source_metadata": {
+      "article_index": 18,
+      "article_title": "Vol.314-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783553474,
+      "image_storage": "external_url",
+      "image_url_count": 6,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_84ve3O5q17-3So856I7nOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 6
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0",
+    "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510127&idx=1&sn=1a76bdef686b8e266b1ad0277921aedf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.314-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

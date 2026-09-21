@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdnqPKVygibZ7FHtT4ZlAXQzZNbB42cvpEY7EVp4S0OgR77KibdIIfERNzNLeOjzhrzFH9ibbRUiayn5w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xjAa-pNRLX0OgoOIA-10c17d7d5ae3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d19943b52a8c20a3a49e416fc91496f55ac7dccd5818786a78775383d0b9ef1d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Q-version design, a cute 3D snake with rich deep red scales, decorated with golden patterns of rotating clouds and flames, symbolizing strength and vitality. The snake's eyes shone with a fiery light, like dancing flames. It wore jade decorations on its head and a series of cloud shaped small decorations embedded on its back, creating a majestic and festive white background design with a 3D cartoon style, C4D renderer, mixer, perfect renderer, full body, and white background,8K --ar 1:1 --quality 2 --style raw --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdnqPKVygibZ7FHtT4ZlAXQzZNbB42cvpEY7EVp4S0OgR77KibdIIfERNzNLeOjzhrzFH9ibbRUiayn5w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g:prompt-0002",
+    "source_metadata": {
+      "article_index": 313,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.34",
+      "association_confidence": "high",
+      "createTime": 1731724952,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xjAa~pNRLX0OgoOIAkxV~g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487116&idx=1&sn=c94b38240cf2793cf577ade60efeaa04&chksm=96341004ad903070d326ec1b09ba6bd0dca151022279328c5129eff5ef3d185cf66632a5baec#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.34 · 提示词 3",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnksa8Rfhxl7WZwia51NrXicE2ZxlsnVNE3rVdyRwJbUW3WjRuvnnlOlxkw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cd96f59fde68",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9d7452fe50843f6140c67735b5aeb4a4fb510fdfd0bca26d6dd532e016540d06",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "profile": "w9kqsnn",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "un escargot styléen noir et blanc, avec des lignes géométriques, style by marie france guillen, --ar 1:1 --profile w9kqsnn --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnksa8Rfhxl7WZwia51NrXicE2ZxlsnVNE3rVdyRwJbUW3WjRuvnnlOlxkw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA:prompt-0015",
+    "source_metadata": {
+      "article_index": 276,
+      "article_title": "Vol.66 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734926418,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_UD72wO4O~5yUTbbGNXEKUA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490208&idx=1&sn=3faad140f6380fedc4ca276bcb90c88b&scene=58&subscene=0",
+    "title": "Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490208&idx=1&sn=3faad140f6380fedc4ca276bcb90c88b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

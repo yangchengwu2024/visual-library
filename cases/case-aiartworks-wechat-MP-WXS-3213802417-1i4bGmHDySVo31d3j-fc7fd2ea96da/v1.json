@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:55+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcDzyPGN1gSxrfhfKyxHZz2f5oFibEB4raUI9kSdCNj5sJUlA3YLaj1yDJhS2ZrAKypmHjXVkIRUZQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1i4bGmHDySVo31d3j-fc7fd2ea96da",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "64ffa6c4a2f40b01127f6c5617c75e433e27e5b52dc5c3922c899539c89466a3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A wise Buddha sitting under a Bodhi tree, gently pointing at a small mouse sitting humbly at his feet, the mouse is surrounded by a soft spiritual glow, symbolizing its transformation into a human in a past life, the forest background is tranquil and filled with morning mist, calm and contemplative mood, evoking deep reflection and inner peace, Illustration, digital art with detailed line work and soft shading, photorealistic, 8k, natural lightning, HDR, high resolution, shot on Canon EOS R5, Canon RF 50mm f/1.2L USM, depth of field --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcDzyPGN1gSxrfhfKyxHZz2f5oFibEB4raUI9kSdCNj5sJUlA3YLaj1yDJhS2ZrAKypmHjXVkIRUZQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g:prompt-0002",
+    "source_metadata": {
+      "article_index": 91,
+      "article_title": "Vol.241 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1754436667,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1i4bGmHDySVo31d3jrdK8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499396&idx=1&sn=4975eed01b18afb1390839cb75dc3e92&chksm=96e8ead56357626f7baf61e3f193747d46a2c7c043096c68a34caa26bf2279c9c92b2089035e#rd",
+    "title": "Vol.241 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499396&idx=1&sn=4975eed01b18afb1390839cb75dc3e92&chksm=96e8ead56357626f7baf61e3f193747d46a2c7c043096c68a34caa26bf2279c9c92b2089035e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.241 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

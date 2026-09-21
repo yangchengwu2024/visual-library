@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMFEOkFDa25NLAHMqowTm5KrkRclj5N2icX29ZKtRjrTkKekRo2n5v19w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BpjwbBX8K1fYvZ6PI-a132ac0f9eeb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bcfefd7af69ee1ae36bf05aa09e19e2ee6111a1d617721a024382c9fb7fedcc5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "35",
+    "raw": true,
+    "stylize": "400",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "anime style, mature anime aesthetic, illustration, masterpiece, best quality, highly detailed. A beautiful adult woman wearing a casual sundress, sitting on a park bench under the dappled shade of a large tree. A sketchbook rests on her lap, a pencil in hand. Bright but soft mid-afternoon light. soft colors, pale color palette, low contrast, relaxed and pleasant atmosphere. Capturing the quiet beauty of the afternoon. --chaos 35 --ar 9:16 --raw --stylize 400 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMFEOkFDa25NLAHMqowTm5KrkRclj5N2icX29ZKtRjrTkKekRo2n5v19w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 171,
+      "article_title": "Vol.161 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744943421,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495961&idx=1&sn=c01ec6ad2cefb373ea375b8176943247&scene=58&subscene=0",
+    "title": "Vol.161 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495961&idx=1&sn=c01ec6ad2cefb373ea375b8176943247&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.161 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevzPWbdnx3GfXg3DkucUEjQ9fZqs7fCptCliadXoiauRbiciby4ic7cxOfa564JqJ26bxHgP4h4AcZ8jA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pQwRGpmAD2zkBm6YW-8669fecdd2a6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0036476f70dc8873acc85d52a9b3baab69cd02fd056d6c8c4fdcafacc85c6c44",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Male Arctic Tabaxi rogue, snow leopard humanoid, slick slender build, bright white fur with subtle grey spots,caught in the motion of drawing or sheathing his katana**. Sleek deep black leather armor covering torso, legs, andfull-length sleeves covering arms completely to the wrists**. Deep hood pulled fully up, face in deep shadow, onlyintensely luminous glowing purple eyes** visible.Bright purple energy glows intensely from emitters/bracers on top of the covered forearms/wrists**. His hand is on the hilt/scabbard of hissingle katana**, thephysical steel blade partially drawn/sheathed, glowing vibrantly with purple psionic energy**. Dark atmospheric background (alleyway or guild den). Cinematic fantasy character art style, dramatic lighting,high contrast focus**, emphasizing the interaction with the weapon and the glowing purple energy. --ar 2:3 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevzPWbdnx3GfXg3DkucUEjQ9fZqs7fCptCliadXoiauRbiciby4ic7cxOfa564JqJ26bxHgP4h4AcZ8jA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg:prompt-0002",
+    "source_metadata": {
+      "article_index": 173,
+      "article_title": "Vol.159 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744770630,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495889&idx=1&sn=6b96a0660d6939bc5f5b3b2f09d7db2e&chksm=960dc902bef8c52560cbeea2457b62ef9cf8366aa8c286188f04e51b1c9565b1b199bc1bf1ab#rd",
+    "title": "Vol.159 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495889&idx=1&sn=6b96a0660d6939bc5f5b3b2f09d7db2e&chksm=960dc902bef8c52560cbeea2457b62ef9cf8366aa8c286188f04e51b1c9565b1b199bc1bf1ab#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.159 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

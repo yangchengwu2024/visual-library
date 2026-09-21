@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BpjwbBX8K1fYvZ6PI-564c19f5c0c0",
+  "fingerprint": "5049a0625eb7b939897a4dbc3fd4e34a50f0fa9a1929255299db588d35d47d32",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "qzd58or",
+    "v": "7"
+  },
+  "prompt": "long-view, M&M's brand style, fun style, many cookies with colorful M&M's beans fly in the clean background，hyper quality photography --ar 9:16 --profile qzd58or --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 171,
+      "article_title": "Vol.161 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744943421,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495961&idx=1&sn=c01ec6ad2cefb373ea375b8176943247&scene=58&subscene=0",
+    "title": "Vol.161 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495961&idx=1&sn=c01ec6ad2cefb373ea375b8176943247&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ:prompt-0010",
+  "status": "pending",
+  "title": "Vol.161 - Midjourney | 精选作品关键词提示 · 提示词 11"
+}

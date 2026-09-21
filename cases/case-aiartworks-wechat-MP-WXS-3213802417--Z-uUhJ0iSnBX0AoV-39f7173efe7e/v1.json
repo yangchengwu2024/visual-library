@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcz3YCrxtJ5SQOuqX8ZobgudyRIfwJJNqmjxlht3eSGJs2255xCQYKL72POg15yCAZMOEIeJyCVSw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-39f7173efe7e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3049d7d0cdc5bac2025ff1866164a7ed769dfe054aa0df1dd9944c5d2d15fdb7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "profile": "mfhrofh"
+  },
+  "previous_version": null,
+  "prompt": "studio-lit front-facing close-up showing full lips in frame, naturally plump lips with clear watery pink lip gloss, ultra glossy and glass-like shine, soft blurred lip edges, porcelain fair skin, East Asian features, Korean beauty style, photographed in a professional studio, no shimmer, no glitter, no sparkle, clean lighting, hyper realistic, high-resolution cosmetic product shot --ar 4:3 --profile mfhrofh",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcz3YCrxtJ5SQOuqX8ZobgudyRIfwJJNqmjxlht3eSGJs2255xCQYKL72POg15yCAZMOEIeJyCVSw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA:prompt-0015",
+    "source_metadata": {
+      "article_index": 105,
+      "article_title": "Vol.224 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750980628,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498698&idx=1&sn=4395708eaea8f119525f0a2105b9b4da&chksm=96037625ec879320b4768a2bf9ded9d01ef780e5c4bf6ec7785453d3245997928947857c3ff0#rd",
+    "title": "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498698&idx=1&sn=4395708eaea8f119525f0a2105b9b4da&chksm=96037625ec879320b4768a2bf9ded9d01ef780e5c4bf6ec7785453d3245997928947857c3ff0#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

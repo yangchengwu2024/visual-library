@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8lRIodUcUbTuyhiacFlVqstbBoicibZeMySopEmNyLfc8eZjuvcNh0QU4Q/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-267289ee3af7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fcf02c002856ce2dd5855579c92941c77adb97519491697f2c30af7c3a9232b3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "profile": "8d25oem",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A beautiful woman with blonde hair and blue eyes is holding her baby boy in the style of stock photography. She is wearing light pink and looking at him lovingly as he smiles back up close to her face. A mother gently caresses her baby's head, on soft blue background, photo-realistic, isolated on transparent background --ar 3:2 --profile 8d25oem --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8lRIodUcUbTuyhiacFlVqstbBoicibZeMySopEmNyLfc8eZjuvcNh0QU4Q/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg:prompt-0011",
+    "source_metadata": {
+      "article_index": 148,
+      "article_title": "周末特别版 | 母亲节专题 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1746930646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yXr3sVjHGQRGViuRNoQ5Xg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496765&idx=1&sn=0a228430efc649c5e390799e9a1f6c91&chksm=961d45e706d31d5e41c7154fab40592f7414a9558846da7ed931410ff1cdd99a158863a69074#rd",
+    "title": "周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496765&idx=1&sn=0a228430efc649c5e390799e9a1f6c91&chksm=961d45e706d31d5e41c7154fab40592f7414a9558846da7ed931410ff1cdd99a158863a69074#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 12",
+  "version": "v1"
+}

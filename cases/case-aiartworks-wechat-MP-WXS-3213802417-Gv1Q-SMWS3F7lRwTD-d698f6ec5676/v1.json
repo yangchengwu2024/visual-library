@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYdHMMldJMZicb9IzyAS81qoAfqKbUgTtYANRZLdjVNic1dXofB2mhJeYQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gv1Q-SMWS3F7lRwTD-d698f6ec5676",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8763636270bd44f917f73dbee0de12013b9dd98f43438d15001ce803840bf475",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "75"
+  },
+  "previous_version": null,
+  "prompt": "dragon, a huge Chinese dragon woven on an ancient oriental carpet, begins to detach from the fabric and come alive, majestically moving toward the man, wise and calm gaze, radiating ancient power, the dragon faces the viewer, epic large-scale moment, the carpet fills part of the scene, cinematic lighting, magical realism, film-like composition, ultra-detailed, high quality, --ar 9:16 --stylize 75",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYdHMMldJMZicb9IzyAS81qoAfqKbUgTtYANRZLdjVNic1dXofB2mhJeYQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA:prompt-0003",
+    "source_metadata": {
+      "article_index": 74,
+      "article_title": "Vol.257 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1757633415,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0",
+    "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

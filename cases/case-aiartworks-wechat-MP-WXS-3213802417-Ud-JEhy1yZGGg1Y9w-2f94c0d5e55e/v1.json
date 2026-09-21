@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ23D3aYeEiaibqNyCo0MrSW7svAyukqxwpY9iaErmaXALGVCD6F2U9cgJFw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-2f94c0d5e55e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f2bfba9c6794faf1b3f6ea7e61ef848166da06e72d8268029d26b587ded351b6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A realistic image of an eagle with very, very bright red eyes that shine in absolute darkness. Its background is black (specifically for photography). Its beak is also golden and shining. The eagle's head is a dark red color that emits a faint light in the darkness --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ23D3aYeEiaibqNyCo0MrSW7svAyukqxwpY9iaErmaXALGVCD6F2U9cgJFw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA:prompt-0010",
+    "source_metadata": {
+      "article_index": 215,
+      "article_title": "Vol.127 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741401031,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0",
+    "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

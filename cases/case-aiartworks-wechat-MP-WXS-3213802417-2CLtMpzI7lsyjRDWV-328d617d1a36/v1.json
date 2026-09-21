@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565piaRx4J7XiastiblpjgYnIMlVImJqC6Mf7on9Cw9Q4rmffAMSIVjA7PSdWw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2CLtMpzI7lsyjRDWV-328d617d1a36",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d2e3087eaa245329798a3a70f23b18293bfc228f59248a9414d91d3f598df2bc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "10:13",
+    "profile": "phjpkaw",
+    "sref": [
+      "10",
+      "371",
+      "4246777357",
+      "770259548",
+      "4270736322",
+      "https://s.mj.run/IXAZ6iAbDBE",
+      "https://s.mj.run/_2E3VFvPl18"
+    ],
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/U25y4qytjmo Minimal 3D \"Taiga\" event poster featuring sticks from a taiga landscape made from primary shapes of untinted wood. The composition is arranged in the centre of the poster, isolated on studio background. --ar 10:13 --sref 10 371 4246777357 770259548 4270736322 https://s.mj.run/IXAZ6iAbDBE https://s.mj.run/_2E3VFvPl18 --profile phjpkaw --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565piaRx4J7XiastiblpjgYnIMlVImJqC6Mf7on9Cw9Q4rmffAMSIVjA7PSdWw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig:prompt-0006",
+    "source_metadata": {
+      "article_index": 227,
+      "article_title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1740290221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0",
+    "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 7",
+  "version": "v1"
+}

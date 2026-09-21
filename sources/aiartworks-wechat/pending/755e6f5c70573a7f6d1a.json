@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WiMzK4b0zX0msQR8d-a63c5e13b755",
+  "fingerprint": "6980e9eb01fc805815fa282837f2f5b62e6191ddd9b676ab848fe9593a04f247",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "prompt": "A radiant, golden Buddha sits in perfect lotus posture on a large, glowing lotus flower that reflects on a still, mirror-like water surface. The Buddha’s entire form seems to be illuminated from within, radiating warm, golden light. Around His head, an intense aura forms a luminous halo, emphasizing His divine presence. Delicate streams of energy swirl around Him, adding a sense of sacred mysticism to the scene. The lotus petals below are richly detailed, each one shimmering in shades of gold and orange. In the Buddha’s chest area, a soft glow appears, symbolizing spiritual power or enlightenment. The background is pitch black, providing a stark contrast that highlights every bright detail, making the entire figure appear even more transcendent. The overall mood conveys profound serenity, spiritual depth, and an uplifting sense of enlightenment. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A:prompt-0008",
+    "source_metadata": {
+      "article_index": 203,
+      "article_title": "Vol.135 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1742265063,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0",
+    "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A:prompt-0008",
+  "status": "pending",
+  "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

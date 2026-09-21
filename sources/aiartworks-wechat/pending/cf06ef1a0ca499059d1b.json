@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N8IAkGH4PI86lkUJn-918dde109bde",
+  "fingerprint": "85e9e5dac92472d75d37394609df9ab956850924c037e937fae692dcd6a0b9df",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "raw": true,
+    "stylize": "28"
+  },
+  "prompt": "photorealistic first-person cockpit POV from a helicopter hovering low over a city boulevard (≈30-40 m AGL), looking straight down the road as an immense tsunami drives toward the city; subtle windshield frame edges and faint cockpit glass reflections (no helicopter exterior visible), a hint of instrument panel corner; slight vibration micro-blur, raindrops streaking across the windshield; below: braking cars and a jackknifed bus, lane markings and median barriers forming strong leading lines; ahead: a towering 70-90 m wall of water curling between glass mid-rises, dense spray, foam sheeting, torn signage, floating debris, realistic scale and water physics; natural overcast storm lighting, neutral color, balanced dynamic range, no CGI look; 35mm full-frame perspective, high shutter 1/2000s, f/5.6, ISO 200, RAW photo realism, fine film grain; no people, no pilot body parts, no text, no logos --ar 9:16 --quality 2 --raw --stylize 28",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0008",
+    "source_metadata": {
+      "article_index": 63,
+      "article_title": "Vol.268 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1759879860,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+    "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd"
+  },
+  "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0008",
+  "status": "pending",
+  "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

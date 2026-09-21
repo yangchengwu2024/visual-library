@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9wiczK2cbYwo4cJx8Ack2dwAjbKQUBVKd6Qe7S4LHTibZhibb6PB2Kc1ANQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-l2P3D5Jp75qis-YzM-7ee8c8cbb102",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f84dcb6ee3078090a955eff03b051b11e6c8a2a71f612e281bd992af59412c72",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "side view ,Photography of an 3D rendering of a cute panda baby in style of Pixar riding on seat of a bicycle, gainst a clear sky background. creating a contrast between softness and sharp details. This composition creates a sense of luxury and sophistication, emphasizing vibrant colors and high resolution. --ar 3:4 --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheqlaTicGDGpOicHdYibHRYp9wiczK2cbYwo4cJx8Ack2dwAjbKQUBVKd6Qe7S4LHTibZhibb6PB2Kc1ANQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA:prompt-0018",
+    "source_metadata": {
+      "article_index": 119,
+      "article_title": "Vol.209 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749684621,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_l2P3D5Jp75qis-YzM1c4xA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497999&idx=1&sn=eb26f0badb65e80513f9dad97e80a832&chksm=969cbc1089f5008947988dbbc74832f8f02be63d03e25c59a5eff9599b399234f64adc003579#rd",
+    "title": "Vol.209 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497999&idx=1&sn=eb26f0badb65e80513f9dad97e80a832&chksm=969cbc1089f5008947988dbbc74832f8f02be63d03e25c59a5eff9599b399234f64adc003579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.209 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

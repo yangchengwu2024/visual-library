@@ -1,0 +1,62 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OqIXwnjr0vrqwwC5o-97fecd3cd5e5",
+  "fingerprint": "4d54af3c9cfd4a0349e6db817adaea3b390a97ed61bda3148a2e92b581fb669d",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "sref": [
+      "https://s.mj.run/W-QofAHCRj8",
+      "https://s.mj.run/0XZcbJM-mDE"
+    ],
+    "sw": "50",
+    "v": "8.1"
+  },
+  "prompt": "a detailed drawing in a style of alex ross of a medieval tournament master. the master is sat at a desk writing something with a feather quill. behind him is an arena with two knights having a sword fight. the camera is in front of the master and the arena behind him --ar 9:16 --sref https://s.mj.run/W-QofAHCRj8 https://s.mj.run/0XZcbJM-mDE --sw 50 --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w:prompt-0010",
+    "source_metadata": {
+      "article_index": 15,
+      "article_title": "Vol.317-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1784676626,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd",
+    "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd"
+  },
+  "source_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w:prompt-0010",
+  "status": "pending",
+  "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 11"
+}

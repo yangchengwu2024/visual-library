@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EkaTDIj2H3G8mz82uPmTe8CWbeBBzzjSu9w6WOcaMa3FzDg6XBh8jFA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fOKhpgqhhoGsRu4NF-913091c27298",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a77d21f18af0008f3581b16b5da5c8af7c741dca9d446779f0f6bf634b08abfb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A minimalist Fauvist painting of Tibetan Wind Horses bursts with spiritual energy through colour rather than detail. The composition is inspired by fluttering prayer flags five galloping horses reduced to flowing, abstract forms, their bodies made of sweeping brushstrokes in fiery red, cobalt blue, emerald, saffron, and white. Each hue symbolizes an element: fire, water, air, earth, and space. The background is calm and pale, letting the colours vibrate like wind in motion. Though simplified, the horses seem alive with movement and purpose, carrying invisible mantras across the sky a visual meditation on strength, freedom, and spiritual ascent. --ar 3:4 --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0EkaTDIj2H3G8mz82uPmTe8CWbeBBzzjSu9w6WOcaMa3FzDg6XBh8jFA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw:prompt-0001",
+    "source_metadata": {
+      "article_index": 57,
+      "article_title": "Vol.275 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1761262237,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd",
+    "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

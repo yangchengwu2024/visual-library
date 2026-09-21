@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88DJh8Ficff2bib4lsZrJ5vicO0XKglZBVmODefWNEx30D8opjSRO8I5lcw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5avldYsqd4ygizPY3-fba6dfdcc8e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1732d33f05ad2fa04758ec2f165c13da37860a88b4b25db4d1438ddc7b69886c",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "puw6xzu",
+    "quality": "2",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A Tai Chi Bagua diagram made of swirling white smoke on a pure black background, the yin-yang symbol emerging from misty vapor, ink style, resembling Daoist ink painting, delicate yet powerful, expressing the philosophy of balance between hardness and softness, edges of the smoke subtly glowing with inner strength, flowing lines, ethereal and spiritual atmosphere, high contrast, photo-realistic with ink wash aesthetics --quality 2 --profile puw6xzu --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88DJh8Ficff2bib4lsZrJ5vicO0XKglZBVmODefWNEx30D8opjSRO8I5lcw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA:prompt-0013",
+    "source_metadata": {
+      "article_index": 124,
+      "article_title": "Vol.204 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749252680,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd",
+    "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

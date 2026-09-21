@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDbo07FKgWp5tqcNz5F5Popo9qSGlh3pmJvhhxGvCkibvcMws7IjwveIBzHuR1Wrjgr9ZiarwD22iaTTzF4mqnibnLF5C2ibZUpehlI/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZyYKn78wqCpPiaP8FsjJRs1FWBtmGuFl2jz0sjzFEjxabRwanoc46DG8fW75N4KCPBicLIdYKmGOdmLkQS5gbxMu6ajGRvO6RY/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-cb09af9197c1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1d698b5e5c29e55c923810de390bade4831049d3b8072823d5b68abc1019df5c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "80",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "East Asian female idol, soft wavy blonde hair, retro Y2K school inspired outfit, standing at a crowded Tokyo downtown crosswalk. Camera at waist level inches below her outstretched hand, palm fully open toward lens, creating dramatic forced perspective with oversized foreground hand and perfectly sharp face behind it. Playful funky open mouth expression, direct eye contact. 18mm ultra wide lens, subtle barrel distortion, gentle fisheye look. Deep depth of field, edge to edge sharpness, crisp focus throughout. Towering glass skyscrapers, colorful Japanese billboards, bustling pedestrians. Bright afternoon natural sunlight, crisp shadows, Kodak Portra 400 color grading, warm skin tones, saturated blues. Premium street fashion editorial, realistic anatomy, ultra detailed, photorealistic. --ar 2:3 --stylize 80 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDbo07FKgWp5tqcNz5F5Popo9qSGlh3pmJvhhxGvCkibvcMws7IjwveIBzHuR1Wrjgr9ZiarwD22iaTTzF4mqnibnLF5C2ibZUpehlI/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZyYKn78wqCpPiaP8FsjJRs1FWBtmGuFl2jz0sjzFEjxabRwanoc46DG8fW75N4KCPBicLIdYKmGOdmLkQS5gbxMu6ajGRvO6RY/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0011",
+    "source_metadata": {
+      "article_index": 17,
+      "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783812654,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+    "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

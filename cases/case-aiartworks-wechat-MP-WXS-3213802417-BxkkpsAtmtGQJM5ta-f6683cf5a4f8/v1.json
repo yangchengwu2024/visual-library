@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCjcRazSdLBmZNcJhJGPSpkATlA57cexLgFEyw2o2ykaGB5luKTF2FOA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BxkkpsAtmtGQJM5ta-f6683cf5a4f8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "49cf77bdf9182c2df8ba6a7f05d05b3552a80661c077729495d8e34b6ada2d27",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "46:61"
+  },
+  "previous_version": null,
+  "prompt": "Three-dimensional white drawing of ancient China on the ground, blue and green lines forming mountains in a perspective view. There is a curved road leading to mountain buildings along the sides of several small, tall houses. The curved paper has a Chinese landscape painting style, with a simple background, a minimalist art installation, and a white background. This is a C4D rendering in high resolution. --ar 46:61",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCjcRazSdLBmZNcJhJGPSpkATlA57cexLgFEyw2o2ykaGB5luKTF2FOA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA:prompt-0002",
+    "source_metadata": {
+      "article_index": 84,
+      "article_title": "Vol.247 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755646256,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499804&idx=1&sn=a623a07e719182a5df528aa5c0769c4f&chksm=96c8c648efd488a37c8aa5f827b126029ca618d3b1468423b0078dc7c4dd40b5d455ecab254f#rd",
+    "title": "Vol.247 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499804&idx=1&sn=a623a07e719182a5df528aa5c0769c4f&chksm=96c8c648efd488a37c8aa5f827b126029ca618d3b1468423b0078dc7c4dd40b5d455ecab254f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.247 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

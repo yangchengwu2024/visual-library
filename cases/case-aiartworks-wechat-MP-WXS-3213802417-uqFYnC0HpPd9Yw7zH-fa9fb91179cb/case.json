@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-fa9fb91179cb",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorKzmARWevgdUASibRXJBAOqRo14SeVNebFchI45ObEXOrrTlRjdSV5AA/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA:prompt-0011",
+      "source_metadata": {
+        "article_index": 277,
+        "article_title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1734834474,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 11,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd",
+      "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 12",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "title_aliases": [
+    "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 12"
+  ]
+}

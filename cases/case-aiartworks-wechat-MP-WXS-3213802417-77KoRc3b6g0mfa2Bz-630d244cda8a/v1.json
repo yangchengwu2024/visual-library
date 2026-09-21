@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFGuib6bEXtjZWAzAibggGubP0ws4vDN6puHZ66icDTgR3SFibutwQkv0URg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-630d244cda8a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a45d3579916e9266ef686da13cfde474fae800bdee25fd27ececaff4e72be248",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An Asian girl in ancient coarse linen clothes rides a giant panda and carries a wooden cage. A chubby little girl with two buns walks on the snow. High-precision clothing texture, real tactile skin, foggy white tone, low saturation, retro film texture, tranquil atmosphere, minimalism, long-range view, telephoto lens --ar 9:16 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFGuib6bEXtjZWAzAibggGubP0ws4vDN6puHZ66icDTgR3SFibutwQkv0URg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA:prompt-0004",
+    "source_metadata": {
+      "article_index": 309,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.38",
+      "association_confidence": "high",
+      "createTime": 1732062009,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 5",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceWzPTACtmL8OEHq4cR7icHic0n4nqerQPGfvCs9xYgpGicPP4M4lRISyAjkkM1Pw1YSFRG8hcqzzfg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_j5~Bik99I~R2joQjYN4fzw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-j5-Bik99I-R2joQjY-487c8961d182",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ca8a58e518c1c4f1dfc46540531ba966ec791600ed8f56695f98869ef136dc8f",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "hip logo for streetwear using 3 or 4 stripes --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceWzPTACtmL8OEHq4cR7icHic0n4nqerQPGfvCs9xYgpGicPP4M4lRISyAjkkM1Pw1YSFRG8hcqzzfg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_j5~Bik99I~R2joQjYN4fzw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_j5~Bik99I~R2joQjYN4fzw:prompt-0011",
+    "source_metadata": {
+      "article_index": 127,
+      "article_title": "Vol.201 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748993443,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_j5~Bik99I~R2joQjYN4fzw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497668&idx=1&sn=feb57f3c02e51d1e964fc632d1cbfc8b&scene=58&subscene=0",
+    "title": "Vol.201 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497668&idx=1&sn=feb57f3c02e51d1e964fc632d1cbfc8b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.201 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

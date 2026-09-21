@@ -1,0 +1,84 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHoAK2NNOVAKjUx23rylY5mB9c3F5bO8Au7eRTaGRFcH6WQbfL6rgUxw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHdFswJ6RqN5ssolXWluydgDRFZYOs2BpqXZBxa3jLy39r2sfEzh9LSg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNXFvGbxodGib9JiagNulQib0w691Xpqib0osO0w0V929qDYtcUswNVOHMYg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1ZMxlWc-RtwXxKlTx-9a2b7d378359",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5e47f0eac294e4d30fb95c46bc31eee5a0593eef56abaa3833b6c03450a4bb8a",
+  "model": "Midjourney",
+  "parameters": {
+    "sref": [
+      "449152374",
+      "2534270704"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "\"As are your repeated imaginations, so will your mind be, for the soul is dyed by its imaginations.\" Frontal portrait, --sref 449152374 2534270704",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHoAK2NNOVAKjUx23rylY5mB9c3F5bO8Au7eRTaGRFcH6WQbfL6rgUxw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdtKUBYs3IPOfOibp6Wp3ibWHdFswJ6RqN5ssolXWluydgDRFZYOs2BpqXZBxa3jLy39r2sfEzh9LSg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNXFvGbxodGib9JiagNulQib0w691Xpqib0osO0w0V929qDYtcUswNVOHMYg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 62,
+      "article_title": "Vol.269 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760058571,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 10,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1ZMxlWc-RtwXxKlTxS1HIQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd",
+    "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500730&idx=1&sn=a8654cc5a94f443dedcbe9e187dd6c3c&chksm=96fe2062735ad0c3d2a0c0a334bd788e3d657d60fcc646206ac1b310281ec2af7323f39de579#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.269 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherBwWJjav3bcv3mGFicqyWtETM9JfRbq4DPXg5Vhun6QPSdeW9giaIWFwKywnxsibXJ1cicjCud07dWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-EN60LA-iOMAJhTPuu-bf623efecd6e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eb20f5a95d5613c05ef502d3ba1026c603bd67bc5b0f3d6abeaa2f61d01b8856",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "emwcdm1",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "very realistic photo for a fashion magazine full-length girl with short to shoulder brown hair and in cozy beautiful warm white pajamas with red hearts in the style of Dior, in cozy minimalist fluffy ivory slippers with an open toe and wide soft straps, pulls out of the closet bedding, facing the white closet in a luxurious house in Miami, ylang-ylang and fleurdorange are on the shelves around the closet next to the linen, lemons on the shelves next to the towels, many beautiful dresses hanging on white hangers, red roses and lily of the valley flowers, jasmine flowers around the closet with a light haze, lifestyle photo, golden hour,lifestyle photo, golden hour, Sony A1 --ar 3:4 --profile emwcdm1 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherBwWJjav3bcv3mGFicqyWtETM9JfRbq4DPXg5Vhun6QPSdeW9giaIWFwKywnxsibXJ1cicjCud07dWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g:prompt-0016",
+    "source_metadata": {
+      "article_index": 236,
+      "article_title": "Vol.108 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1739500231,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493068&idx=1&sn=a7342130eaea3dd29d6f3efd1699c30c&scene=58&subscene=0",
+    "title": "Vol.108 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493068&idx=1&sn=a7342130eaea3dd29d6f3efd1699c30c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.108 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

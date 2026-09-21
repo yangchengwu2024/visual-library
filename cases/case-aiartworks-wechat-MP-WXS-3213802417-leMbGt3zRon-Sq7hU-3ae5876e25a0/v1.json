@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShe7tBnBiaInCU3jmiasiajSzpv2yHFjRRfVEMeL6icXfXwib8x5nz0P1OLwd74FvGBVNKExQeMYQjT20sA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-leMbGt3zRon-Sq7hU-3ae5876e25a0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2302163880657b59bda5b75848e6d904f621e2c4d4e2bf1cea5748802dfb9689",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "profile": "6z1eipk",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic Halloween witch in a claustrophobic underground stone tunnel, captured as if with a modern smartphone camera. Slight wide-angle lens distortion, faint digital noise, and a subtle handheld shake effect, giving the photo a raw, authentic feel. The witch has an exaggeratedly large crooked nose, wrinkled pale skin, piercing glowing eyes, and messy gray hair falling over her shoulders. She wears a ragged black cloak, faint glowing runes shining on it, illuminating the damp mossy tunnel walls. Water drips from the ceiling, reflections glisten on the stones, creating a suffocating claustrophobic vibe. The witch leans unnaturally close toward the phone camera, almost invading personal space, with a sinister grin, as if she’s about to whisper a curse. Extreme realism, cinematic horror atmosphere, DSLR quality yet with smartphone imperfections, no blood. --chaos 20 --ar 9:16 --raw --profile 6z1eipk",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShe7tBnBiaInCU3jmiasiajSzpv2yHFjRRfVEMeL6icXfXwib8x5nz0P1OLwd74FvGBVNKExQeMYQjT20sA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg:prompt-0000",
+    "source_metadata": {
+      "article_index": 85,
+      "article_title": "Vol.246 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755473450,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd",
+    "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

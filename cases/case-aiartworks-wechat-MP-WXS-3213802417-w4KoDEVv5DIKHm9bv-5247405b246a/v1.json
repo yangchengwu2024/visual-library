@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShel3vRTgb1DtuWvuoWBx1N7h7ccXYdwN1lGLG6KbNnoGFCZE9sicctic4sgsczUa2HNT6yE9lxicbQiaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-w4KoDEVv5DIKHm9bv-5247405b246a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cf7cc8965b993e7c0befcf245ae14b0d8f2da7b38fdd8f453e4d029c9a7b8879",
+  "model": "Midjourney",
+  "parameters": {
+    "raw": true,
+    "stylize": "750"
+  },
+  "previous_version": null,
+  "prompt": "Abstract illustration of astronaut dissolving into stars and particles, cosmic colors, surreal composition, symbolic of dreams and infinite space, watercolor or digital art style --raw --stylize 750",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShel3vRTgb1DtuWvuoWBx1N7h7ccXYdwN1lGLG6KbNnoGFCZE9sicctic4sgsczUa2HNT6yE9lxicbQiaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 110,
+      "article_title": "Vol.219 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750548618,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_w4KoDEVv5DIKHm9bv9pWSQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498407&idx=1&sn=2df342b542052b31b08ac10813ffcaee&scene=58&subscene=0",
+    "title": "Vol.219 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498407&idx=1&sn=2df342b542052b31b08ac10813ffcaee&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.219 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

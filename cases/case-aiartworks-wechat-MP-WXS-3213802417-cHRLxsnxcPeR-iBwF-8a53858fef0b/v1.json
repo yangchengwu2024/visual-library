@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDEa0xTC2kicHKao9ibPg9gH6AzArzwmNNQsSpIEfb9lSIXoOsAnfnY6fYuAvcVPcLmuVcwibyTpibAxXojQfGHexqyibjTI2Go0C3c/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cHRLxsnxcPeR-iBwF-8a53858fef0b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c5be61f287c3d7ce053ae94bfbc383535661868dd3abb7c3d9f86a3713bb81cb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A fierce young female warrior standing in a dynamic battle pose, wearing detailed ancient Asian-inspired armor with layered fabrics and leather plates, holding a sword raised behind her back. Her hair is tied in a tight bun, her expression focused and intense. Surrounding her is a glowing, ethereal blue spirit dragon made of swirling energy and mist, coiling around her body in a circular motion. The dragon has a semi-transparent, luminous form with flowing, smoky textures and glowing eyes. Blue energy trails wrap around her legs and arms, with sparks and particles floating in the air. Dark background, cinematic lighting, high contrast, ultra-detailed, photorealistic, dramatic atmosphere, fantasy style --ar 2:3 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDEa0xTC2kicHKao9ibPg9gH6AzArzwmNNQsSpIEfb9lSIXoOsAnfnY6fYuAvcVPcLmuVcwibyTpibAxXojQfGHexqyibjTI2Go0C3c/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0011",
+    "source_metadata": {
+      "article_index": 34,
+      "article_title": "Vol.298 - Midjourney V8.1 HD 特辑",
+      "association_confidence": "review",
+      "createTime": 1778196671,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd",
+    "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 12",
+  "version": "v1"
+}

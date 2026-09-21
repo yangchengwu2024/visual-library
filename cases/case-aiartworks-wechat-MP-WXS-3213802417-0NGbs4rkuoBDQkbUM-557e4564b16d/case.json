@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-557e4564b16d",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBpNWDbE5fYjAnogXU8dic73G6SjI3icLUsXlOf51qPNNTeEJ7XLmAFKSFGn7oumxalQgolfGzK0nzN2ttKXWEHjtbBydxuHz2Vo/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0012",
+      "source_metadata": {
+        "article_index": 17,
+        "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+        "association_confidence": "review",
+        "createTime": 1783812654,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 12,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+      "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 13",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 13",
+  "title_aliases": [
+    "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 13"
+  ]
+}

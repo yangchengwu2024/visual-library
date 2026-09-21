@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6Mib8ZIZFqTo1JfDribpPdfLjOgjamibeLsTGPS3TXCrDldLgRayMicNMWw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-4d85018315eb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a0f3e5009f0b71c62cfa368a0854fb4037ae5f9bdc4807ca414491f8bc762ebf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "53:64",
+    "personalize": "4222xsf",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A white shopping bag with the word \"Apartment\" written on it, on a clean background, with a modern and minimalistic design, a minimalist font style, a minimalist logo design, a simple layout, a professional brand design, and professional photography, 80s magazine ad, dark background, in the style of Peter Fountain. --ar 53:64 --personalize 4222xsf --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6Mib8ZIZFqTo1JfDribpPdfLjOgjamibeLsTGPS3TXCrDldLgRayMicNMWw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw:prompt-0004",
+    "source_metadata": {
+      "article_index": 335,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.13",
+      "association_confidence": "high",
+      "createTime": 1729568093,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 5",
+  "version": "v1"
+}

@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZwCCQj9O6622Tf7ckptPNqeOsIcIAHy4Kv1TwkwGRGHEnS7lDlagqrO9Htib0drdwDGXGChA7ib4mDhJiclGml1jhk3icdiaiawRNI/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBicB23dGeLFngT3X6cpobj0TBKho4xShicmiadtGicNFavLenHPG5NJ3VdtwQcWvhAq6mONkVicFpkg4VfwpZcjxhZAXs1mG6HiazjQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1c24tQi9jbnvYAQ7r-9acb0c71e8be",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2fbf01c8b2389f5fcdc4deecb1d5c53ba32925a031bc989346d9ca5b4d34fe32",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "80",
+    "hd": true,
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Hyper photorealistic masterpiece fusing Dutch Golden Age masters (Rembrandt, Vermeer, Ruisdael) with modern hyperrealism: A monumental human face dominates the frame, opening like a mechanical vessel. Skin rendered with pore level fidelity, subsurface scattering, and Rembrandt chiaroscuro, parting along cybernetic seams glowing with amber circuitry. Inside the hollowed cranial chamber sits a small, serene alien in an intricate biomechanical chair of polished titanium, neural filaments, and micro actuators. The alien's luminous eyes and slender fingers hold a single orange tulip, inspecting it with quiet wonder. Every petal rendered in botanical precision velvety, dew kissed, cadmium orange. Behind the scene: a Dutch rolling hill landscape at golden hour emerald meadows, windmills, winding canals, ancient oaks, atmospheric mist, and jewel like color harmony. Soft volumetric light illuminates the opening face and alien within. 8K, museum quality, cinematic depth of field, perfect anatomical and mechanical accuracy, emotional resonance. --chaos 80 --ar 9:16 --raw --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZwCCQj9O6622Tf7ckptPNqeOsIcIAHy4Kv1TwkwGRGHEnS7lDlagqrO9Htib0drdwDGXGChA7ib4mDhJiclGml1jhk3icdiaiawRNI/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBicB23dGeLFngT3X6cpobj0TBKho4xShicmiadtGicNFavLenHPG5NJ3VdtwQcWvhAq6mONkVicFpkg4VfwpZcjxhZAXs1mG6HiazjQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA:prompt-0001",
+    "source_metadata": {
+      "article_index": 1,
+      "article_title": "Vol.331-Midjourney 精选 | 科幻作品选辑",
+      "association_confidence": "review",
+      "createTime": 1789344088,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 1,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+    "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 2",
+  "version": "v1"
+}

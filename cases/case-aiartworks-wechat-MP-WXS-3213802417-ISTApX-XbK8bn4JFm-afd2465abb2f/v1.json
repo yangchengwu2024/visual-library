@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DC1WgPDK2k88ia2FGaS8SqiaYpibyPq7XNdGX56WAlz0Of2cDEgQb9HVOkg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ISTApX-XbK8bn4JFm-afd2465abb2f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a61491ade8eac84228a765af26e8f1ab1d76c7aaaa0f85fe75f77dadea7d707f",
+  "model": "Midjourney",
+  "parameters": {
+    "exp": "50",
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "female silhouette, serene and pensive, standing in a surreal dreamy landscape under a twilight sky aurora palette, soft gradients, shimmering silk textures, misty sky, frame within a frame, diagonal flow, worm’s-eye view, low horizon, foreground-midground-background layers, ambient twilight glow, dream pop aesthetic --exp 50 --raw --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfH2myibJ96eGe0TU3Kjia4DC1WgPDK2k88ia2FGaS8SqiaYpibyPq7XNdGX56WAlz0Of2cDEgQb9HVOkg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg:prompt-0010",
+    "source_metadata": {
+      "article_index": 156,
+      "article_title": "Vol.174 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746239438,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ISTApX-XbK8bn4JFm-osTg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496456&idx=1&sn=73d041b61f478caa8c313f613d67955e&chksm=969a4593ae4e94149c3101c7bd6a075feebaedc184b7c250f49bd762e50fe5e68b7d46901db4#rd",
+    "title": "Vol.174 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496456&idx=1&sn=73d041b61f478caa8c313f613d67955e&chksm=969a4593ae4e94149c3101c7bd6a075feebaedc184b7c250f49bd762e50fe5e68b7d46901db4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.174 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

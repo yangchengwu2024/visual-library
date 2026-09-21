@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdGJnZh58DR6BZyick1256Rvom8m5ZUiajW3KbZ4ldIjibYnzSxkydpdbECLNhHTAUNFgj4xv2WWicLg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pdNpnv-txplHV1sSe-67734fcad029",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "05b67d476036e62496d7852e1b96f44742ba140b17aa6847e8a8326c08005c5c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "12",
+    "profile": "jmupltd",
+    "sref": [
+      "3022677299"
+    ],
+    "style": "raw",
+    "stylize": "1000",
+    "sw": "100",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A close-up shot of a Korean Shorthair cat wearing stylish round glasses, sitting in front of a laptop, its paws actively typing on the keyboard with a serious and focused expression, the soft glow of the screen reflecting in its eyes, in a dimly lit home office with a warm and cozy ambiance, shot with a Canon EOS R5, 85mm f/1.2 lens, warm and neutral tones --chaos 12 --ar 3:4 --style raw --sref 3022677299 --profile jmupltd --sw 100 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdGJnZh58DR6BZyick1256Rvom8m5ZUiajW3KbZ4ldIjibYnzSxkydpdbECLNhHTAUNFgj4xv2WWicLg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 202,
+      "article_title": "Vol.136 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742351449,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pdNpnv~txplHV1sSe7v6NQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495035&idx=1&sn=7017367d5db16c1ed3233b218b0f3506&scene=58&subscene=0",
+    "title": "Vol.136 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495035&idx=1&sn=7017367d5db16c1ed3233b218b0f3506&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.136 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

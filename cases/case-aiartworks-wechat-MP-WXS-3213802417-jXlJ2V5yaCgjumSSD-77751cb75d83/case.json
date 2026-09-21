@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-77751cb75d83",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz1AZ387Dle5TmOG2M6QVr1iaJbx5DjeicJ9wD7HRTNO3FrRGenumCiaQVA/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw:prompt-0012",
+      "source_metadata": {
+        "article_index": 328,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.19",
+        "association_confidence": "high",
+        "createTime": 1730172637,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 12,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486127&idx=1&sn=ff86883f4aadab35f5b44d56a23e2fc9&chksm=96e0f3a83309aaf6c2555ecb58f7bbc57f467f6996d74286a55be9381200eec74b4eb8c6a9f8#rd",
+      "title": "Midjourney | 精选作品及提示 - Vol.19 · 提示词 13",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486127&idx=1&sn=ff86883f4aadab35f5b44d56a23e2fc9&chksm=96e0f3a83309aaf6c2555ecb58f7bbc57f467f6996d74286a55be9381200eec74b4eb8c6a9f8#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.19 · 提示词 13",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.19 · 提示词 13"
+  ]
+}

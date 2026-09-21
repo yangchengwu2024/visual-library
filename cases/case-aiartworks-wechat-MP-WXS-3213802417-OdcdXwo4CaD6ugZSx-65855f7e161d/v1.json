@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdefVJFSjLHPcZLtibvZRgL8aJ50qQic9U3Qbrbq8Ud6jhr6CZ1ww3A7FTNbfNVNaWb6yq1jm8k1YRQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OdcdXwo4CaD6ugZSxg7ltg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OdcdXwo4CaD6ugZSx-65855f7e161d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2443145da77ccc6040328734d2e5d6778e75f0d0e6612ee6aecb7a4a2f3ec100",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "23:37",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A young Korean girl in traditional hanbok, smiling and holding a stone bowl containing a cottage pie with a sunny-side-up fried egg on top and various vegetables inside, against a white background, in a photorealistic style. --ar 23:37 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdefVJFSjLHPcZLtibvZRgL8aJ50qQic9U3Qbrbq8Ud6jhr6CZ1ww3A7FTNbfNVNaWb6yq1jm8k1YRQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OdcdXwo4CaD6ugZSxg7ltg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OdcdXwo4CaD6ugZSxg7ltg:prompt-0017",
+    "source_metadata": {
+      "article_index": 248,
+      "article_title": "Vol.93 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737599758,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OdcdXwo4CaD6ugZSxg7ltg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492065&idx=1&sn=bfcc12082816ac76d722d19f339366f9&chksm=966f7f85953bf599ee5a9a01e34ca16ebf3b1062bb2ab7dc144c92c8e438456690c4056d6a70#rd",
+    "title": "Vol.93 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492065&idx=1&sn=bfcc12082816ac76d722d19f339366f9&chksm=966f7f85953bf599ee5a9a01e34ca16ebf3b1062bb2ab7dc144c92c8e438456690c4056d6a70#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.93 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

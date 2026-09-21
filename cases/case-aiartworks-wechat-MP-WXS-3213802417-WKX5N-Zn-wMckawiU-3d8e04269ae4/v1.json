@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyZ5WsE5ntZbuk0nxtmUKcPXBYCw7BSL3RyEqPcEwE6Y0vAeao4xTYibQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WKX5N-Zn-wMckawiU-3d8e04269ae4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "113cadb2df8a5aedeb914154140d4c5e59d360a241e40943e801e53dc428da36",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "cref": "https://s.mj.run/Sf1AMNQl_5g",
+    "cw": "20",
+    "no": [
+      "glasses",
+      "on",
+      "her",
+      "eyes"
+    ],
+    "quality": "2",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Realistic retro photo of a confident young woman in 1950s style, side view, full height, dressed in a dark red satin dress. The dress is full-length, reaching her ankles, with a square neckline and short sleeves. She is walking with a fast, wide, dynamic stride. Her waist is highlighted by a black belt with a gold buckle. She is wearing long black gloves that reach her elbows and holding a small black clutch with a gold clasp. On her feet are black high-heeled pumps with a glossy finish. Her hair is styled in a high retro hairstyle with curls framing her temples. Highly detailed facial features, with bright red lipstick, sharp eyeliner wings, and defined eyebrows. In the background, an evening boulevard in 1950s style: buildings illuminated with neon signs reading: \"Grand Hotel,\" \"Gala Night,\" \"Dance Hall.\" Shiny classic cars are parked along the street. A wide sidewalk with people strolling in evening attire. Warm light from street lamps and neon signs creates soft highlights on the car surfaces, adding a romantic atmosphere to the scene. The camera films her from the side as she walks briskly, keeping her in the center of the frame. Cinematic lighting emphasizes the elegance of her look, against the backdrop of the evening city, creating a warm and rich atmosphere. --no glasses on her eyes --ar 9:16 --quality 2 --cref https://s.mj.run/Sf1AMNQl_5g --cw 20 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyZ5WsE5ntZbuk0nxtmUKcPXBYCw7BSL3RyEqPcEwE6Y0vAeao4xTYibQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg:prompt-0011",
+    "source_metadata": {
+      "article_index": 261,
+      "article_title": "Vol.79 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736228664,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491147&idx=1&sn=ddf2a0fe84d3327ef8d2e51af1fa0e4f&chksm=9632c277cabbf9aebfb18c0cbe73ff1ac999b6acbac4a2eb5776830f6153950763ea59e71fdf#rd",
+    "title": "Vol.79 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491147&idx=1&sn=ddf2a0fe84d3327ef8d2e51af1fa0e4f&chksm=9632c277cabbf9aebfb18c0cbe73ff1ac999b6acbac4a2eb5776830f6153950763ea59e71fdf#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.79 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

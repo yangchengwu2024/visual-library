@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOIB2Srlgf6tsDnp2gB40cqRycPqYN2cwfqstp7eBAqibATuTlxhYweQ9Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZqeXLr-1oCDbg-RXJ-58ee90fdaa1e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "623d43a816d596b2dea6eb9965ac45a47eade41523114b3c407303e292795982",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Dramatic close-up on the same sunny beach, anthropomorphic evil-looking dark cat with sharp eyes and a sinister grin, suddenly snatching the glowing pearl from the shocked baby kitten’s hands, tense cinematic atmosphere, shallow depth of field, film still, ultra-realistic, 4k, vertical video, shorts style --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOIB2Srlgf6tsDnp2gB40cqRycPqYN2cwfqstp7eBAqibATuTlxhYweQ9Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 71,
+      "article_title": "Vol.260 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758238274,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500350&idx=1&sn=767689354734bfa086a34b1bee87f5fd&scene=58&subscene=0",
+    "title": "Vol.260 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500350&idx=1&sn=767689354734bfa086a34b1bee87f5fd&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.260 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

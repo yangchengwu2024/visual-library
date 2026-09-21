@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:34+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShd3E935hkTiavRZYEt8CRvVnXjf8SIgur4OibiaFk1QQm38qlMXyuRfNEm3zgcu2SPricYJ0rLaUjhAlg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y-EvUmrF-n1m24aw--5901e4438856",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2ab158f8a8683abda9bbf98a2fb7558789ac4b550fcb7f9fb6e9deea706b8b95",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An ancient Chinese beauty wearing red hanfu and man wearing colorful hanfu in dancing, surrounded by villagers and bonfires. they're standing on the ground, raises her hands, looking each other, faces the camera, and people gather around her. The style is similar to ancient Chinese paintings. Realism, cinematic lighting, 8k, best quality, high details. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShd3E935hkTiavRZYEt8CRvVnXjf8SIgur4OibiaFk1QQm38qlMXyuRfNEm3zgcu2SPricYJ0rLaUjhAlg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA:prompt-0013",
+    "source_metadata": {
+      "article_index": 329,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.18",
+      "association_confidence": "high",
+      "createTime": 1730083151,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 14",
+  "version": "v1"
+}

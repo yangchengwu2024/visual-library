@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYmld7VNbQXkJ2VBbCF7gKaRCM2miaup3J2gWtU7RwlxF96S6GCoE34hg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYPK4x7HXElW02fZ844xxffsAonIDLZgO5PP1OUPiafgk6Aiba1Z8qvgHA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYwfKIgsibVfpnjWwIXPBpLPsX2icicl5mibAdqqgTuofok9bqDGlboMRVSw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gv1Q-SMWS3F7lRwTD-f7b53646e18f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f9a032cc90add4b21a6b7c52953d839283fbb0ee7c70c25dfa2356eef41be7fd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1"
+  },
+  "previous_version": null,
+  "prompt": "A fractal cloth puppet, threads forming recursive spiral patterns, expressive face stitched with fractal detail. Puppet floating above a fractal textile sea, background softly glowing. Cool blue and warm pink highlights. Created Using: fractal noise generator, stitched cloth texture, soft lightbox photography, surrealist textile art style, layered shading techniques, embroidery simulation, HDR fabric rendering, recursive detail mapping --ar 1:1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYmld7VNbQXkJ2VBbCF7gKaRCM2miaup3J2gWtU7RwlxF96S6GCoE34hg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYPK4x7HXElW02fZ844xxffsAonIDLZgO5PP1OUPiafgk6Aiba1Z8qvgHA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYwfKIgsibVfpnjWwIXPBpLPsX2icicl5mibAdqqgTuofok9bqDGlboMRVSw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA:prompt-0012",
+    "source_metadata": {
+      "article_index": 74,
+      "article_title": "Vol.257 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1757633415,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0",
+    "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

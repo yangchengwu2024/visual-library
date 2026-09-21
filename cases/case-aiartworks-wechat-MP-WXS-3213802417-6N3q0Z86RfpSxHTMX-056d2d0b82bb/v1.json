@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybibsbQLdloItW2TzvHq6YZmJ5NgEMqCViaDkTNrnuKRROMe68vfIv4Lvg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6N3q0Z86RfpSxHTMX-056d2d0b82bb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7267924dc154f96f1cfd3df6b917aa784abe4bf242a82b447783574bef062609",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "chaos": "15",
+    "personalize": "n9a3d2r",
+    "style": "raw",
+    "stylize": "50",
+    "v": "6.1",
+    "weird": "900"
+  },
+  "previous_version": null,
+  "prompt": "Close-up of a playful, eccentric female character with blue hair styled in braids, wearing round, steampunk-style goggles with glowing details. She has a mischievous grin, showing her teeth, exuding chaotic energy. The background is a cluttered workshop with colorful graffiti, glowing gadgets, and scattered tools, creating a vibrant and chaotic atmosphere. The lighting is dynamic, with warm tones illuminating her face and cool, neon highlights reflecting from the background. The camera angle is tilted slightly for a dynamic, energetic composition, emphasizing her quirky and rebellious personality --chaos 15 --ar 16:9 --style raw --personalize n9a3d2r --stylize 50 --weird 900 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybibsbQLdloItW2TzvHq6YZmJ5NgEMqCViaDkTNrnuKRROMe68vfIv4Lvg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 287,
+      "article_title": "Vol.57 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733970611,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0",
+    "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

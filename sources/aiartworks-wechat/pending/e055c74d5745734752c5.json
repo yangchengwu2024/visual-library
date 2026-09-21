@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DVIRYkeONFuCzL7OL-56ea0d6202c2",
+  "fingerprint": "6dfe94689c262d13755a63cbb2d464c55adfe4f07cb11db7534e08582305bd5e",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "prompt": "A close-up of a Chinese dumpling being dipped into a small white bowl of dark soy-based dipping sauce. Black chopsticks hold the golden-brown dumpling, its pleated edge visible above the sauce. The sauce is sprinkled with sesame seeds, adding texture. In the background, slightly out of focus, is a black plate with more dumplings and a splash of purple, likely from an edible flower garnish. The setting appears to be a restaurant table with a light-colored surface. The lighting is warm and inviting, highlighting the glistening sauce and the dumpling's texture. The image is framed in white, giving it a polished, presentational quality. This composition captures the essence of dim sum dining, showcasing the delicate balance of flavors and textures in Chinese cuisine. --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg:prompt-0001",
+    "source_metadata": {
+      "article_index": 336,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.12",
+      "association_confidence": "prompt_only",
+      "createTime": 1729494059,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485521&idx=1&sn=30ed4f1648fa892ead0cb93a4cc1fbe4&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.12 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485521&idx=1&sn=30ed4f1648fa892ead0cb93a4cc1fbe4&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_DVIRYkeONFuCzL7OLLMUpg:prompt-0001",
+  "status": "pending",
+  "title": "Midjourney | 精选作品及提示 - Vol.12 · 提示词 2"
+}

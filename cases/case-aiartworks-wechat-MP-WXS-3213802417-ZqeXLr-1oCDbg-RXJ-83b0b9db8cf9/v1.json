@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOIbibtUiaXmIFMBUgsVydpXR4YnU5ItnUkbwd8oBDC2tchVdmKcoJkeHwg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOICP6PkicPiaLUldeLLIGl1u6Ufibk6THViapmV1xKe1JPsXGFVgCDfeWw7A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZqeXLr-1oCDbg-RXJ-83b0b9db8cf9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "acf9bb326c138a6a78af7ec0ceead9aa159abefecba910d1af99a72adffd2b2f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "49:47"
+  },
+  "previous_version": null,
+  "prompt": "Celebrating SG60 is about celebrating our people from all backgrounds and diverse cultures, nurturing compassionate and caring roles, and promoting volunteerism in our society. The artwork shows unity in our varied strengths, with different races, our inclusive community, and living with our community cats, dogs, otters, and chickens we encounter daily. We will learn to build a caring society with love and compassion through understanding, bonding, and accommodating our differences, very basic lines have been drawn using colorful crayons, --ar 49:47",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOIbibtUiaXmIFMBUgsVydpXR4YnU5ItnUkbwd8oBDC2tchVdmKcoJkeHwg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherKV0sXYwNm1FV8qfHUgOICP6PkicPiaLUldeLLIGl1u6Ufibk6THViapmV1xKe1JPsXGFVgCDfeWw7A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 71,
+      "article_title": "Vol.260 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758238274,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZqeXLr-1oCDbg-RXJlgBsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500350&idx=1&sn=767689354734bfa086a34b1bee87f5fd&scene=58&subscene=0",
+    "title": "Vol.260 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500350&idx=1&sn=767689354734bfa086a34b1bee87f5fd&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.260 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

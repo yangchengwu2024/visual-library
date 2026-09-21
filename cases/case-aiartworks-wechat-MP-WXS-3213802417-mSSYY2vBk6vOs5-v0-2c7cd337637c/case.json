@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-2c7cd337637c",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss500iaayV9VUCMBdBiaJAfYxYAXv8v1tFcibl2atDUdICzaQGNHdTgGibZfg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_mSSYY2vBk6vOs5-v0lFk9g#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_mSSYY2vBk6vOs5-v0lFk9g:prompt-0008",
+      "source_metadata": {
+        "article_index": 220,
+        "article_title": "周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1740882647,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 8,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_mSSYY2vBk6vOs5-v0lFk9g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493970&idx=1&sn=f5ff7ffb5e6d9aca0263482f920fac87&chksm=96fad58c7bddae9720b8055fb1f6d44e1fad3d32636ccad47d7ae40834e34cc89e2514e3b790#rd",
+      "title": "周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 9",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493970&idx=1&sn=f5ff7ffb5e6d9aca0263482f920fac87&chksm=96fad58c7bddae9720b8055fb1f6d44e1fad3d32636ccad47d7ae40834e34cc89e2514e3b790#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 9",
+  "title_aliases": [
+    "周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 9"
+  ]
+}

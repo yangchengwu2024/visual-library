@@ -1,0 +1,77 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9lgEJp0ibR4M6RlOxWfv6yfdcttp1ZbHXx5iaeibRHq2lXpxOA2Fg7RrDw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9HcIA3Ze3VVk1qcqna5jUY0lcIHl2iaS3DAM9HOiaRqyYyqZatqswBgXQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SdZ9AZ4Dg-VWtZWG9-a3bb2c6784e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5f2a31c5c45b62122aef2798c362779f9e572a532303a8eac982162ce6e196c5",
+  "model": "Midjourney",
+  "parameters": {
+    "personalize": "cyacqiw",
+    "sref": [
+      "1944",
+      "966"
+    ],
+    "stylize": "900",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Sunset Geometric moorland farm, raked landscape, depth of field, alpenglow cirrus clouds --sref 1944 966 --personalize cyacqiw --stylize 900 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9lgEJp0ibR4M6RlOxWfv6yfdcttp1ZbHXx5iaeibRHq2lXpxOA2Fg7RrDw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9HcIA3Ze3VVk1qcqna5jUY0lcIHl2iaS3DAM9HOiaRqyYyqZatqswBgXQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w:prompt-0000",
+    "source_metadata": {
+      "article_index": 283,
+      "article_title": "Vol.60 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734346460,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0",
+    "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

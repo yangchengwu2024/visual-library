@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3MQUZEqIrESvqMVBqQDF51gfRCK9VdXPwgVRs0iaqabA0hU3yficUcGnA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-876b93a8e16a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "23051b1a41b6c115ef986f824d4068acad8e0451cb6128ba958b2d88ae1c84fb",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "slfyvc2",
+    "sref": [
+      "192414645"
+    ],
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "19h In a highly detailed and ultra-realistic scene, a lush miniature jungle thrives within an oversized porcelain teacup, complete with a tiny cascading waterfall pouring from the rim into a crystal-clear pool below. Tiny explorers in rugged gear, no more than two inches tall, traverse moss-covered rocks and inspect glowing mushrooms nestled among ferns. Wisps of mist rise from the water, catching beams of warm sunlight filtering through the leafy canopy. The teacup rests on a cracked wooden table, surrounded by old books and a dusty magnifying glass, creating a mysterious, timeless atmosphere --sref 192414645 --profile slfyvc2 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3MQUZEqIrESvqMVBqQDF51gfRCK9VdXPwgVRs0iaqabA0hU3yficUcGnA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 191,
+      "article_title": "Vol.145 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743215455,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd",
+    "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

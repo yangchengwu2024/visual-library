@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaoQKuiaqhibEmAsP1EmSXpKcq2WibS349gG1qH26HOKicnqII4U4Hw9hofg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-f459db3823ad",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9167939cbadb1b016399c3e008dfcd80b53d969ab9b6704d5ecf15199ba14754",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "10",
+    "profile": "rrng6in",
+    "raw": true,
+    "sref": [
+      "842338509"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "Heed a cosmic surreal fantasy illustration of an adventure of a man holding a shining star, surrounded by space background. There are green, blue and yellow. It may well be that they alone keep in memory what it was once needful for the wise to know. I can’t believe how beautiful it is. --chaos 10 --ar 4:5 --raw --sref 842338509 --profile rrng6in ggjql1j",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaoQKuiaqhibEmAsP1EmSXpKcq2WibS349gG1qH26HOKicnqII4U4Hw9hofg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA:prompt-0012",
+    "source_metadata": {
+      "article_index": 169,
+      "article_title": "周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1745116244,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QDkShjygfnEiS31EbLs4BA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496028&idx=1&sn=ddf4f9e90436d48bbb1f6b7415bad406&scene=58&subscene=0",
+    "title": "周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496028&idx=1&sn=ddf4f9e90436d48bbb1f6b7415bad406&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 13",
+  "version": "v1"
+}

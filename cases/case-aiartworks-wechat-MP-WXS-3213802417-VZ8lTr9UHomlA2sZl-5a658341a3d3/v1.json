@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcFxuZxDrovFv6UDjEhs6cPboXPwWaAKfZcwtUpEPhQ2QUo1oZ7byMdCwPrr8OZUicpGgOVWzicGuibg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-VZ8lTr9UHomlA2sZl-5a658341a3d3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "800476d8ccb1599f0ca6e4609c3444b234b6ca0215006d1fd1a5621ccaef03f1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "20",
+    "quality": "4",
+    "raw": true,
+    "stylize": "300",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Elegant logo design for a winery, featuring the word 'Wine' in transparent letters on a white background, through which lush vineyards are visible. The slogan 'Wine Crafted with Soul' is displayed below in a clear and artistic font. Include two wine glasses and a cheese platter elegantly arranged beside the logo, creating a sophisticated and inviting atmosphere, high-quality graphic design --ar 9:16 --exp 20 --quality 4 --raw --stylize 300 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcFxuZxDrovFv6UDjEhs6cPboXPwWaAKfZcwtUpEPhQ2QUo1oZ7byMdCwPrr8OZUicpGgOVWzicGuibg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg:prompt-0005",
+    "source_metadata": {
+      "article_index": 143,
+      "article_title": "Vol.186 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747621955,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_VZ8lTr9UHomlA2sZlQgAJg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497028&idx=1&sn=6e732a014daaebb330819868c3ef834f&chksm=97b3f99aa0c4708c07acf53ac376257850573af6e75e10a57dec1b2d5029d926a2ca29ced957#rd",
+    "title": "Vol.186 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497028&idx=1&sn=6e732a014daaebb330819868c3ef834f&chksm=97b3f99aa0c4708c07acf53ac376257850573af6e75e10a57dec1b2d5029d926a2ca29ced957#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.186 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

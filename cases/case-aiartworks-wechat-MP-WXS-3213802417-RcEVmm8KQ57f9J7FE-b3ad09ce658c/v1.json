@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfGdguhMBLTg1B05H31nzXhdxDly1gkicmkWxFZ8GLJAicibV9ibIzN9H6vmNXwicYK6FzIQvViaib4LKgfg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RcEVmm8KQ57f9J7FEQVinA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RcEVmm8KQ57f9J7FE-b3ad09ce658c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "42635319436798a3251d22ebd5220ddf1d2525c594bb4f17a7637eda7553a74f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "a hyper-realistic 5 feet tall humanoid rabbit rogue swashbuckler, pirate, agile and cunning, wearing a tattered red leather coat and a wide-brimmed hat with a feather, dual-wielding ornate rapiers, black fur detailed with shadows and highlights, piercing eyes, standing on a misty cobblestone street at twilight, cinematic lighting, ultra-detailed, 4K, featuring cinematic lighting, volumetric depth, and lifelike textures. The scene is illuminated with natural lighting, rich color grading, and sharp details. Skin pores, fabric textures, and reflections are crisp and authentic. Professional-grade rendering, 8K resolution, hyper-detailed composition, photorealistic rendering, cinematic depth of field, ray-traced shadows, ultra-sharp focus, realistic skin, high dynamic range, masterpiece, perfect lighting, --ar 9:16 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfGdguhMBLTg1B05H31nzXhdxDly1gkicmkWxFZ8GLJAicibV9ibIzN9H6vmNXwicYK6FzIQvViaib4LKgfg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RcEVmm8KQ57f9J7FEQVinA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RcEVmm8KQ57f9J7FEQVinA:prompt-0017",
+    "source_metadata": {
+      "article_index": 160,
+      "article_title": "Vol.170 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745893838,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RcEVmm8KQ57f9J7FEQVinA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496317&idx=1&sn=58e10f86d7551ad8aa5c0012eb14db77&chksm=96ab9c0cc52308bfaa947ef5a8ee83e9267ea00d19105c541ad687f2c9e4baaea46cd767d745#rd",
+    "title": "Vol.170 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496317&idx=1&sn=58e10f86d7551ad8aa5c0012eb14db77&chksm=96ab9c0cc52308bfaa947ef5a8ee83e9267ea00d19105c541ad687f2c9e4baaea46cd767d745#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.170 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

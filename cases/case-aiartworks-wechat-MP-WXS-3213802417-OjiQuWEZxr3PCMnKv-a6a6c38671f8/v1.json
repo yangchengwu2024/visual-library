@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vG7FyBvKgIBicIPXvSOCTtbn7JibYbAFibjCtZdS45zyXylhibkcLc8PribA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OjiQuWEZxr3PCMnKv-a6a6c38671f8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b882a46e37d113b232196e4cc4af771fe62de874b829618ecf7569b9973584ea",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A still from the 2001 romantic film Original Sin directed by Michael Cristofer. Shot from a low angle, it shows a huge steam locomotive head-on entering a black cave, with white smoke against a pure black background, in a realistically vivid style with intricate and meticulous details --ar 9:16 --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vG7FyBvKgIBicIPXvSOCTtbn7JibYbAFibjCtZdS45zyXylhibkcLc8PribA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A:prompt-0018",
+    "source_metadata": {
+      "article_index": 125,
+      "article_title": "Vol.203 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749166227,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd",
+    "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

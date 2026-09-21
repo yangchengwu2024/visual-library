@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMsok080PocjcVbEJGQWRqEc3ucT1eWzbyJLUdax8y6oSHos4dFxTBZA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8X7-bYYkTis174-cE-c396a2f3dd2f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "923130fec9848a15ca673ad87dec24f82628a9c687aa6f1464ced7193292affa",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "The background of the game poster is an ancient Chinese battlefield, with two characters in front and behind. The central figure holds up his sword to guide him forward. In close-up shots, he wears armor made from black metal and gold patterns on it. He has short hair tied back by headbands, surrounded by smoke effects, flying arrows, war scenes, dragons, phoenixes, flames, night sky scenery, dark tones, mysterious atmosphere, full body display,,in --ar 9:16 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMsok080PocjcVbEJGQWRqEc3ucT1eWzbyJLUdax8y6oSHos4dFxTBZA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA:prompt-0012",
+    "source_metadata": {
+      "article_index": 162,
+      "article_title": "周末特别版 | 东方主题 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1745721056,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496244&idx=1&sn=4fd213f57c59c3e09b6212a90d5747d6&chksm=9650fbdadb9bf3ba568b80f13458b543b7355024c9440e3f30b249fef2c98442cb9c49bab06b#rd",
+    "title": "周末特别版 | 东方主题 | 精选作品与提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496244&idx=1&sn=4fd213f57c59c3e09b6212a90d5747d6&chksm=9650fbdadb9bf3ba568b80f13458b543b7355024c9440e3f30b249fef2c98442cb9c49bab06b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 东方主题 | 精选作品与提示 · 提示词 13",
+  "version": "v1"
+}

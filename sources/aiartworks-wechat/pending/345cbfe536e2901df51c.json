@@ -1,0 +1,61 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-f1ZEPV5b3g757Flgg-b7d2ebe00fa6",
+  "fingerprint": "4f4b5db51aafca5af79734650ea2b455d95f759add0046cdd881ce1237c1b04f",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "80",
+    "personalize": "6ifse2w",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "prompt": "A surreal illustration of a man dress up and carrying an umbrella is walking horizontal way on top of the sizzling line that goes across the sky, blue bolt electric storm, the forms are zipping across the night sky, Kakashi style --chaos 80 --ar 9:16 --style raw --personalize 6ifse2w --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_f1ZEPV5b3g757FlggTXRzg:prompt-0001",
+    "source_metadata": {
+      "article_index": 326,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.21",
+      "association_confidence": "prompt_only",
+      "createTime": 1730342595,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_f1ZEPV5b3g757FlggTXRzg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486215&idx=1&sn=25e5eaf56d7bfeafe891d9f0b6c6fa04&chksm=966b1642fb7a3b0805a184e56f4412249f7cc39da4da26e259f544b52098e55a45816f13b36c#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.21 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486215&idx=1&sn=25e5eaf56d7bfeafe891d9f0b6c6fa04&chksm=966b1642fb7a3b0805a184e56f4412249f7cc39da4da26e259f544b52098e55a45816f13b36c#rd"
+  },
+  "source_id": "MP_WXS_3213802417_f1ZEPV5b3g757FlggTXRzg:prompt-0001",
+  "status": "pending",
+  "title": "Midjourney | 精选作品及提示 - Vol.21 · 提示词 2"
+}

@@ -1,0 +1,64 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D9cjDDoJvi8jm7Y2h-c3a097e29710",
+  "fingerprint": "b71956606859d1eb6324f54d07a36b761094fea827cbb5682201c3a8289c2a59",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "85:128",
+    "profile": "nrshfru",
+    "sref": [
+      "1446355679",
+      "1417608223"
+    ],
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "prompt": "A hallucinatory photograph of an enigmatic figure with luminous eyes, a double exposure effect, with laser beams emanating from their face. The subject is isolated against a neutral background, creating an otherworldly and mysterious atmosphere. --ar 85:128 --style raw --sref 1446355679 1417608223 --profile nrshfru uyze1sf --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg:prompt-0015",
+    "source_metadata": {
+      "article_index": 205,
+      "article_title": "周末特别版 | Limarchar的超现实梦幻实验艺术 第2辑 - Midjoureny | 精选作品与提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1742089245,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494861&idx=1&sn=bf5473fc8c6a5ee34a0cbd71b351d732&chksm=96b7939737005a10c67698a3d91c0b511d0529254e97d39ac5482085da108328511dbd60af98#rd",
+    "title": "周末特别版 | Limarchar的超现实梦幻实验艺术 第2辑 - Midjoureny | 精选作品与提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494861&idx=1&sn=bf5473fc8c6a5ee34a0cbd71b351d732&chksm=96b7939737005a10c67698a3d91c0b511d0529254e97d39ac5482085da108328511dbd60af98#rd"
+  },
+  "source_id": "MP_WXS_3213802417_D9cjDDoJvi8jm7Y2hwgvIg:prompt-0015",
+  "status": "pending",
+  "title": "周末特别版 | Limarchar的超现实梦幻实验艺术 第2辑 - Midjoureny | 精选作品与提示 · 提示词 16"
+}

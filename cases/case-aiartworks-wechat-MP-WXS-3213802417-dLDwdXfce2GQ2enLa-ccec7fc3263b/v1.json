@@ -1,0 +1,82 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WA0icsqvibib4dRibribxKESUNj42pSKdKW8sXl1xQvibZnpIlwwYp12flFAotxaOOXaasUFAf9JMbiaDfUyBIXCqJoibJ5ETFqT7Ctyvg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WC1cVf50XaAXOC7aLnqnaPwiauibUP0OicUFRQrgeSRial8KcukcGCP29CzYwU6kC3nRsD8JJEuNZplY4Rm2WetX0CqDGdZKDCaHxA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dLDwdXfce2GQ2enLa-ccec7fc3263b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "513c46e70ea54f0fa5023455d3a78543187968badb46737f5888bf4044fdc5c9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "53:89",
+    "hd": true,
+    "profile": "mlrtm2j",
+    "raw": true,
+    "sref": [
+      "3565168336",
+      "2508009867",
+      "3024582324",
+      "3297935941"
+    ],
+    "stylize": "90",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "The Fool, Black Cat Waltz Tarot, whimsical gothic folk art tarot illustration. A young horned witch girl with impossibly long flowing hair reaching across the ground takes a carefree step forward, gazing upward with innocent curiosity. Enchanted black cats leap and twirl around her like waltz dancers - one stretches ahead as a guide, another balances on hind legs offering a wildflower. Her billowing dress seems to birth cats from its folds. Minimal landscape: only a narrow winding path fading into distance. Strong storytelling silhouette, elegant theatrical pose, dreamlike fairy tale atmosphere, naïve art aesthetic, flat decorative shapes, painterly texture, vintage storybook illustration. Themes of magical optimism, adventure, freedom, innocence, destiny unfolding. Highly cohesive Black Cat Waltz Tarot style, collectible tarot card artwork. --ar 53:89 --raw --sref 3565168336 2508009867 3024582324 3297935941 --profile mlrtm2j hjf34yn kpoplod --stylize 90 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WA0icsqvibib4dRibribxKESUNj42pSKdKW8sXl1xQvibZnpIlwwYp12flFAotxaOOXaasUFAf9JMbiaDfUyBIXCqJoibJ5ETFqT7Ctyvg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WC1cVf50XaAXOC7aLnqnaPwiauibUP0OicUFRQrgeSRial8KcukcGCP29CzYwU6kC3nRsD8JJEuNZplY4Rm2WetX0CqDGdZKDCaHxA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g:prompt-0012",
+    "source_metadata": {
+      "article_index": 21,
+      "article_title": "Vol.311-Midjourney | 6月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1782603024,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+    "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 13",
+  "version": "v1"
+}

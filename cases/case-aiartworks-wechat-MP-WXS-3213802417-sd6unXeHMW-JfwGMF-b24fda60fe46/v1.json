@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef2rTqMw5UWDG51icVqEQwngRqThSMo6UwCArnOxWAGvCTs8mPkX1Vy4v7zJg7GiczxJj7DlUn2oZQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-sd6unXeHMW-JfwGMF-b24fda60fe46",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "de59ec42f48863a6af0b3a59e9830e6b4508d367d16e4303c29f687296299bcd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "stylize": "200",
+    "v": "6.1",
+    "weird": "200"
+  },
+  "previous_version": null,
+  "prompt": "A bottle in the sand near the beach that contains a miniature galaxy with stars --chaos 10 --ar 9:16 --stylize 200 --weird 200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef2rTqMw5UWDG51icVqEQwngRqThSMo6UwCArnOxWAGvCTs8mPkX1Vy4v7zJg7GiczxJj7DlUn2oZQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w:prompt-0009",
+    "source_metadata": {
+      "article_index": 256,
+      "article_title": "Vol.84 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1736735415,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_sd6unXeHMW~JfwGMF-8R6w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491685&idx=1&sn=4663c93795ce17bd0d102873631e18f7&scene=58&subscene=0",
+    "title": "Vol.84 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491685&idx=1&sn=4663c93795ce17bd0d102873631e18f7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.84 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

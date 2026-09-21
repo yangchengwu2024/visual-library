@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vQKwUTagBUJ7sYiaerxJibFBPAc5acLKtFsRgJ1t5LWVN6MPyx76dk1xg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vBQaniaF57OhsoF2gbxu5icCjuq0oy656UA6ibB2GPnZ54Acz2rGF0LicFg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-s-8l3GOzPcOcx5Nxz-33309f201afe",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "79115090d6ad7a23b6080536be05f31d43e3217af0f64bed0fa404cfa25f4317",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "style": "raw",
+    "stylize": "400",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "worm's eye view, traditional Chinese cyan dragon half-body portrait, Chinese young prince appears tiny in front of the dragon, reaching out to touch the dragon, Forbidden City background, high definition, deep depth of field, dragon surrounded by flames and clouds --ar 16:9 --style raw --stylize 400 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vQKwUTagBUJ7sYiaerxJibFBPAc5acLKtFsRgJ1t5LWVN6MPyx76dk1xg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vBQaniaF57OhsoF2gbxu5icCjuq0oy656UA6ibB2GPnZ54Acz2rGF0LicFg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw:prompt-0019",
+    "source_metadata": {
+      "article_index": 272,
+      "article_title": "Vol.70 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735266618,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd",
+    "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

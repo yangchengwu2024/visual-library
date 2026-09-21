@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDgeZOW2UMvNIwHhtXaiaCENbqIXxPGqnVIGBiaDITDsSjoncAjvzwf0xLpegIPqOBjR5CmVcudl2aATDPuNS24n3qvy6Go2wySE/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tueOx20SeUHlvray7-fe7e35a63461",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "27ae46366f71b0bec63a80f49dc79ddd4a0de87c7afa8db280d6012c490ff232",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "pckpw8e",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "(Political power poster:1.5) featuring the title text \"THE PRINCE\" in (imposing, blocky constructivist typography:1.7) at the top. Below it, the author text \"NICCOLO MACHIAVELLI\" in smaller sans-serif font. The central image depicts a (giant, stylized hand:1.5) emerging from the darkness, holding strings that are attached to a (golden crown:1.4) hovering below. The style is (bold, flat propaganda art:1.4) with sharp angles. Color palette of (royal purple, metallic gold, and deep black:1.4). Grainy texture. --ar 2:3 --profile pckpw8e --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDgeZOW2UMvNIwHhtXaiaCENbqIXxPGqnVIGBiaDITDsSjoncAjvzwf0xLpegIPqOBjR5CmVcudl2aATDPuNS24n3qvy6Go2wySE/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw:prompt-0011",
+    "source_metadata": {
+      "article_index": 33,
+      "article_title": "Vol.300-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1778801495,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0",
+    "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

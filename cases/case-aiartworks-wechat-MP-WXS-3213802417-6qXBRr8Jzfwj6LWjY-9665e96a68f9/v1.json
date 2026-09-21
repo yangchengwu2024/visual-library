@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe0BjVCH7UP0MmSuzXMHfbKD0icdQpEWcOMmXicCCBft3MzYm4Eib3WFNYIibSP6UqEwfib9VJa9DPFGKA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6qXBRr8Jzfwj6LWjY-9665e96a68f9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "18768d4545c7f83b96250a8a0e13e6667c55d932f9bf3902d6256ee32b24abff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic portrait of a young Middle Eastern woman with light olive skin, natural makeup, a stylish and modern orange turban-style headscarf and a well-tailored burnt orange suit, a visible white undershirt, a fully buttoned jacket, standing in a bright and luxurious shopping mall interior, with a blurred bokeh background of warm lights. She smiles softly as a futuristic translucent holographic display floats in front of her. The hologram is made of thin glowing blue lines and includes three jars of \"Shirreza Peanut Butter\" - two small jars in the top row, a large jar with a green lid and a picture of peanuts in the bottom left, realistic labels and textures. Bright with soft cinematic lighting, high resolution, precise focus on woman and hologram, shallow depth of field for background, highly detailed textures, photorealistic, 8K, professional product photography style --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe0BjVCH7UP0MmSuzXMHfbKD0icdQpEWcOMmXicCCBft3MzYm4Eib3WFNYIibSP6UqEwfib9VJa9DPFGKA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw:prompt-0004",
+    "source_metadata": {
+      "article_index": 88,
+      "article_title": "Vol.244 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1755041571,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499586&idx=1&sn=c7c8da14acedc04d28c387958662e56f&chksm=96e9a17793d78cd92fddc86683bf480168b660ea0354a2af217ffe523f03cabf4439fed91927#rd",
+    "title": "Vol.244 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499586&idx=1&sn=c7c8da14acedc04d28c387958662e56f&chksm=96e9a17793d78cd92fddc86683bf480168b660ea0354a2af217ffe523f03cabf4439fed91927#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.244 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

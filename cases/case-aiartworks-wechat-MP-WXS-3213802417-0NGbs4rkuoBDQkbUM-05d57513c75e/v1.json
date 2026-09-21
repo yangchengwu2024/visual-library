@@ -1,0 +1,104 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBQzYJmvNEEHdRZ9631DJuHntwOdVImhYXZ1UfvKZReHMzSCAoszdKfXDBGjbiavT0DsjPb3iaWFyeTC2ghVZlnaJ4xIPoXd0cCs/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WB7vxKx00CqOFibj0M23qu6FfyC2PicLy8seKvRXJKeo0nLftM8aibqu43PN20N4hFQKvkAZcZRq9ed9Rl1qfhOXwsh46EmUHPNOY/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBC8ibRssCFdF0OjPUDIe995R5pg2l45WLZicic0oYiaXVr0DeVZ3YDTDbLxDEJSgebib36j8ZE2jYYdCNCQFOGiaFbjRibJasbSTZHpo/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB796liaE1x1aHU3euaSdtNqHAbibmZrBUXXj9BoqzZqhKL3xpMbx7ibYaCoV5xzWEHd05HZYYhEetEjaFqNcw7QW26mcdUCTq5UU/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAicicmkGUK7FV6QraeRIHuSBRpS436ybHoibvibP3eRqM2Ok948HxYqiazQmj9ia6Gw55jQHibKfxdT1jv9V8V02PVuZq5oOIaiaicIKIY/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-4"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-05d57513c75e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ad3ad52d53fc377ff807230c2f00dffcae2e9c090712671758414697df67961d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "profile": "ccl19vt",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a ukiyo e inspired image displaying a tree with a dark blue, curved trunk and branches. the tree's leaves are stylized as numerous green, overlapping, circular forms, each intricately filled with white concentric lines that create a swirling effect. the background is a muted light beige, and a faint window reflection is discernable on the right side. a red rectangular seal with the japanese text \"天龍画\" is prominently displayed in white in the bottom right corner. --ar 2:3 --profile ccl19vt --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBQzYJmvNEEHdRZ9631DJuHntwOdVImhYXZ1UfvKZReHMzSCAoszdKfXDBGjbiavT0DsjPb3iaWFyeTC2ghVZlnaJ4xIPoXd0cCs/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WB7vxKx00CqOFibj0M23qu6FfyC2PicLy8seKvRXJKeo0nLftM8aibqu43PN20N4hFQKvkAZcZRq9ed9Rl1qfhOXwsh46EmUHPNOY/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBC8ibRssCFdF0OjPUDIe995R5pg2l45WLZicic0oYiaXVr0DeVZ3YDTDbLxDEJSgebib36j8ZE2jYYdCNCQFOGiaFbjRibJasbSTZHpo/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB796liaE1x1aHU3euaSdtNqHAbibmZrBUXXj9BoqzZqhKL3xpMbx7ibYaCoV5xzWEHd05HZYYhEetEjaFqNcw7QW26mcdUCTq5UU/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAicicmkGUK7FV6QraeRIHuSBRpS436ybHoibvibP3eRqM2Ok948HxYqiazQmj9ia6Gw55jQHibKfxdT1jv9V8V02PVuZq5oOIaiaicIKIY/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-4"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0009",
+    "source_metadata": {
+      "article_index": 17,
+      "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783812654,
+      "image_storage": "external_url",
+      "image_url_count": 5,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 4
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+    "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

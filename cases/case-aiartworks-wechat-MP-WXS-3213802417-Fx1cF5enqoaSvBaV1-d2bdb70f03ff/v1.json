@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcD0scKicEic4HLXH0kAZP7KgBnuz39pUSOG4kic7RUVvYzicibOJS2dGbFZEnghhqMQVuFpzkDAKsUUrg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Fx1cF5enqoaSvBaV1-d2bdb70f03ff",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f29fca92fa82edb2381344c218113a45134f45414b59487dfd7fb78cbee25cc0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "A lone Tarnished leaps into battle against General Radahn, the colossal demigod, on a scorched, windswept battlefield. Radahn towers above, clad in massive crimson-and-gold armor, hair like a fiery storm flowing wildly, wielding a giant sword that seems to split the sky. The Tarnished is mid-air, mid-swing, their greatsword glowing faintly with golden runes, sparks flying from the clash of steel. Around them, the battlefield is chaos incarnate shattered banners, scorched earth, clouds of dust and ash, and fallen warriors scattered across the terrain. Meteors streak across the blood-red sky, exploding in fiery plumes that illuminate the epic duel. Radahn’s eyes glow with intense fury, muscles taut as he prepares to counterattack. Cinematic camera angle: ultra-wide, low, slightly tilted upward, emphasizing the gargantuan scale difference between Radahn and the Tarnished, while capturing dynamic motion and energy in the clash. Depth of field sharp on the moment of impact, blurring the chaos behind. Ultra-detailed textures: dented and scarred armor, glowing runes, dust and ash swirling realistically, sparks and embers frozen in motion. Unreal Engine 5 style, 8K HDR, volumetric lighting, cinematic fantasy masterpiece intense, heroic, and terrifying. --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcD0scKicEic4HLXH0kAZP7KgBnuz39pUSOG4kic7RUVvYzicibOJS2dGbFZEnghhqMQVuFpzkDAKsUUrg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ:prompt-0002",
+    "source_metadata": {
+      "article_index": 72,
+      "article_title": "Vol.259 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758065428,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500311&idx=1&sn=da91bec3be12fbbc4d3fa058652cebb4&scene=58&subscene=0",
+    "title": "Vol.259 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500311&idx=1&sn=da91bec3be12fbbc4d3fa058652cebb4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.259 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD8DQrdQEPvPaFXz01HgnBZ1a1UCsgz4flArh2aL9SB02wdnunf1VByQW3d0rtdMvjtGf2vVibrq1FcN72snXDZ2mMAn4ZALOicw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OqIXwnjr0vrqwwC5o-b89830aa94c4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dbea8d2498206ca5ab90c788e1bfcca53ab0f89a4857b18ba9f8b135d64eb378",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "preview": true,
+    "profile": "kw717vi",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A futuristic synth-pop idol standing in a rainy futuristic city at night, empty underground passage, reflective surfaces, soft neon glow, translucent materials, subtle motion blur, lonely urban atmosphere, cold digital dream, quiet tension. Upper body portrait, chest-up framing, camera close to the performer. The performer wears an avant-garde translucent metallic outfit inspired by 1980s futuristic fashion and modern high fashion couture. Elegant, cold, restrained expression, slightly uncanny presence, realistic cinematic photography, sharp facial details, detailed costume texture, realistic materials, dramatic but soft lighting, no cyberpunk exaggeration, elegant minimal future --ar 9:16 --profile kw717vi rihxm2v --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD8DQrdQEPvPaFXz01HgnBZ1a1UCsgz4flArh2aL9SB02wdnunf1VByQW3d0rtdMvjtGf2vVibrq1FcN72snXDZ2mMAn4ZALOicw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w:prompt-0013",
+    "source_metadata": {
+      "article_index": 15,
+      "article_title": "Vol.317-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1784676626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd",
+    "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 14",
+  "version": "v1"
+}

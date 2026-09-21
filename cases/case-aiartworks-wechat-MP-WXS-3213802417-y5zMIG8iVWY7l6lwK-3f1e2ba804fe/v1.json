@@ -1,0 +1,87 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WC4m0Rz25xdw7ejNnhiayJqr85xK1uTRujBz2Q3b19MibUGlO4ZsQ7yU65icUegv3v3UqiacoyicMjicVJOpEiaC7fNLCfMiaoKWnvzakg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBk739toWb9qad9ibHicPXPoBrV5zVkalfKOE4wBDueydibLAXvzhkcvYia9u2x7hSPblLvGs6V60DH2gGnsGAU0gbibpxg8lqhzduw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBC2ytoWQZicrr3FiacREecPU2uy8mNsrua6V4AibYRSNAJfR4iaVOxWhbEcGSSUtlgGNuicYGicNICqibjHZXt0dFYQUJTnUoN4V6ib6I/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y5zMIG8iVWY7l6lwK-3f1e2ba804fe",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9cf0f258c0655da79fc4076b36bda659d673de93c0d0d28cc8eab2d7b8961b8d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "profile": "xnd9nq5",
+    "sref": [
+      "8055349528",
+      "5879486157"
+    ],
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "californain redwood forest warm light, the branches and roots have delft patterns --ar 16:9 --sref 8055349528 5879486157 --profile xnd9nq5 5zmgnpr --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WC4m0Rz25xdw7ejNnhiayJqr85xK1uTRujBz2Q3b19MibUGlO4ZsQ7yU65icUegv3v3UqiacoyicMjicVJOpEiaC7fNLCfMiaoKWnvzakg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBk739toWb9qad9ibHicPXPoBrV5zVkalfKOE4wBDueydibLAXvzhkcvYia9u2x7hSPblLvGs6V60DH2gGnsGAU0gbibpxg8lqhzduw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBC2ytoWQZicrr3FiacREecPU2uy8mNsrua6V4AibYRSNAJfR4iaVOxWhbEcGSSUtlgGNuicYGicNICqibjHZXt0dFYQUJTnUoN4V6ib6I/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w:prompt-0014",
+    "source_metadata": {
+      "article_index": 10,
+      "article_title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑",
+      "association_confidence": "review",
+      "createTime": 1785886230,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 14,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+    "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531Wn6l1XCWFXC1rMtPflpwDIfJU42bBb3Pj9r0X8GAMESVSb017AMxlyQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DHurP5GAURdLMGIFg-419d85bb8a25",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "de731c43c23f78b2fa65436930275bf1675f45ed3c254b16f19183f1093509ec",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "466uf74",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Highly detailed pencil sketch of a Bernese Mountain Dog peeking from behind a vertical wall or edge, with one paw reaching forward. The dog has clean, slightly wavy fur with soft but defined pencil strokes, expressive round eyes, and a curious, gentle look. Black and white hand-drawn illustration with realistic shading, clean linework, no background, centered on smooth white paper. Whimsical, elegant, and lightly textured sketch style --ar 2:3 --profile 466uf74 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531Wn6l1XCWFXC1rMtPflpwDIfJU42bBb3Pj9r0X8GAMESVSb017AMxlyQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 131,
+      "article_title": "Vol.197 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748657273,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0",
+    "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

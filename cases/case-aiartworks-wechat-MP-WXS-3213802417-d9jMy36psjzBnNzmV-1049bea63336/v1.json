@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFk0ap6RJSW1UoicxcszM7cl9icvhVYwwdofYVmm9Oez6xJIJ9zItGMxr2A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-d9jMy36psjzBnNzmV-1049bea63336",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2a6afbc23a7757860c7a66709ddd485fdd1bf07d0431b0fe9abed4c61d1c632c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "77:128"
+  },
+  "previous_version": null,
+  "prompt": "A happy, smiling cat in a yellow raincoat stands on the edge of an open fishing net, catching a large bluefin tuna at sea. The boat is white with black stripes around the bottom, and the fisherman's are also yellow with navy color details. This is a screenshot from a YouTube video. --ar 77:128",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFk0ap6RJSW1UoicxcszM7cl9icvhVYwwdofYVmm9Oez6xJIJ9zItGMxr2A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w:prompt-0012",
+    "source_metadata": {
+      "article_index": 174,
+      "article_title": "Vol.158 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744684229,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd",
+    "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

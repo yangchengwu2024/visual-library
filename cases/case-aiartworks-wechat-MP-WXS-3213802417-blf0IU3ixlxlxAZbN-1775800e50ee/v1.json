@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jicErEwicoPD3BlAZrn6CgwebHUbzaE1VF9HGHqvp7s1I8Y8kYona6GDw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-blf0IU3ixlxlxAZbN-1775800e50ee",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d288d48d6c8181e0791f24640595138c2efb5669d043a6f5740f8a9769f1a570",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An 8K high-resolution DSLR image of a Roman city, featuring a grand public space surrounded by colorful, ornate Roman architecture. The scene focuses on a monumental archway adorned with vibrant, painted columns in shades of red, blue, green, and gold, standing tall and creating a striking contrast against the stone structures. The columns are richly decorated with intricate carvings and reliefs, showcasing Roman artistic flair. The foreground features the arch with statues of Roman deities and emperors positioned at its base, each statue meticulously detailed. Surrounding the plaza are large Roman buildings, including temples and civic structures, with facades painted in a variety of colors the upper parts of columns are adorned with bold reds, blues, and greens, while the lower sections feature marble and stone textures. Statues line the buildings, and large decorative pediments and friezes add to the grandeur of the scene. Roman citizens, wearing colorful tunics and togas, walk through the plaza, some engaged in market activities. The warm sunlight highlights the vivid colors of the painted architecture, creating a striking contrast with the serene blue sky above. The entire city exudes a sense of vibrancy and life, with every surface showcasing the splendor of Roman design. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdQNtnJ3p3ibmIQOu9ibQVV7jicErEwicoPD3BlAZrn6CgwebHUbzaE1VF9HGHqvp7s1I8Y8kYona6GDw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 314,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.33",
+      "association_confidence": "high",
+      "createTime": 1731640592,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 11",
+  "version": "v1"
+}

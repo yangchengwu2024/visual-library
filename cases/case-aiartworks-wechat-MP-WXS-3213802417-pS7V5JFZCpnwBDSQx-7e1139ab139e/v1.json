@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheKsEqDz77wbTf8yiagcZ6OgLNDJmicemAFNI8xcDFWm949ggDr9VmVXp0uDE6SQQRPvtUl4AtJZboA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pS7V5JFZCpnwBDSQx-7e1139ab139e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f6b4dec89dcb5dffb1afa193c426368d3dde873da5c716692ea4702aae52af98",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "sref": [
+      "2935583520::1.5",
+      "3049210022",
+      "2313829607"
+    ],
+    "stylize": "150",
+    "sv": "4",
+    "sw": "30",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "flower illustration in the style of Ryo Takemasa,Janet Echelman,Nick Veasey,hydrangea macrophylla,corn poppies , with detailed, layered petals, against a pastel hues background, nicholas hilliard style, showcasing very beautiful details.Ethereal and dreamlike,very Large areas of blank space --ar 3:4 --sref 2935583520::1.5 3049210022 2313829607 --sv 4 --sw 30 --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheKsEqDz77wbTf8yiagcZ6OgLNDJmicemAFNI8xcDFWm949ggDr9VmVXp0uDE6SQQRPvtUl4AtJZboA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA:prompt-0015",
+    "source_metadata": {
+      "article_index": 178,
+      "article_title": "Vol.154 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744252250,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd",
+    "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

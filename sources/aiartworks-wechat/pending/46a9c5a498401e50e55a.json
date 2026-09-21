@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-d9jMy36psjzBnNzmV-86d7511fd7dc",
+  "fingerprint": "fb9086c3254233a20ac963fca5d308c147b607ea7e9c1b1c29b53d9546929ec0",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "prompt": "Spider-Man with half Venom face turning away from collapsing Avengers HQ, lightning behind him, red glowing eyes, betrayal expression, ultra-detailed, cinematic shot, --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w:prompt-0008",
+    "source_metadata": {
+      "article_index": 174,
+      "article_title": "Vol.158 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744684229,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd",
+    "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495854&idx=1&sn=f09163b224b17749c8ffca15938ae285&chksm=96db33fce5f3c937ec96381221db93d25d97cd869b5fba822131f4f93e64b17f82f0e2876ad2#rd"
+  },
+  "source_id": "MP_WXS_3213802417_d9jMy36psjzBnNzmVG2S9w:prompt-0008",
+  "status": "pending",
+  "title": "Vol.158 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

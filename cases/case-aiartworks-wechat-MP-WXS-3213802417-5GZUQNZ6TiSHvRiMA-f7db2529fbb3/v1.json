@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBpK3paS4JxAn1S8Z2ZQkF5HqVN28HeCxfibREjaRjNOJMxZmczn2ABQENtlXemOkJNXupd1gCqVvoH1rSnJsPA0udl2CYicAu2M/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAyQUTicONMhtE9w49B0Xj4ibH1E8QUP86WCSxoWudbheWebJbXChO7ukSIQfYZqzSJJs8IrEib0ZTEiaQX7yMianLgxICP0G6vbgOg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCiafpPHD4FLL9PPpuAA6b7vepicboawJ0seNlTUxT58TGcA3XHz9tLM27ufDLBukgX5WqSh6q432aBTL4tJsX7BQymibqFW0InzA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-f7db2529fbb3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d2fab70372f24a7a2211fecec9704331097cf8e0caac6c920e914260c651b8da",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "rxf7tlf",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "A funny, slightly chubby pig wearing a formal business suit, standing in front of a dark background with faint stock market numbers. The pig is staring straight at the viewer with a totally vacant, confused expression, one ear slightly cocked, tilted head, funny derpy eyes. Cinematic lighting, subtle humor, photorealistic textures, clear focus on the face --ar 9:16 --profile rxf7tlf --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBpK3paS4JxAn1S8Z2ZQkF5HqVN28HeCxfibREjaRjNOJMxZmczn2ABQENtlXemOkJNXupd1gCqVvoH1rSnJsPA0udl2CYicAu2M/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAyQUTicONMhtE9w49B0Xj4ibH1E8QUP86WCSxoWudbheWebJbXChO7ukSIQfYZqzSJJs8IrEib0ZTEiaQX7yMianLgxICP0G6vbgOg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCiafpPHD4FLL9PPpuAA6b7vepicboawJ0seNlTUxT58TGcA3XHz9tLM27ufDLBukgX5WqSh6q432aBTL4tJsX7BQymibqFW0InzA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0010",
+    "source_metadata": {
+      "article_index": 11,
+      "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+      "association_confidence": "high",
+      "createTime": 1785627022,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 10,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+    "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 11",
+  "version": "v1"
+}

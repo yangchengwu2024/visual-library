@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsz0Y3PmfJAfwicHPXGwecPSmuSTlaZ25jSNx1LavM8YloAOaTx5e8MdA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9qR5Z1DFkr8ptTYeO-547b35e8233f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2c109946ca14dd5fa5a986a08ef2b14e6acd792cd755fb3e86f884a7eb2b5a14",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "25",
+    "profile": "297z755",
+    "quality": "2",
+    "stylize": "850",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A surreal high-fashion editorial series across dimensions, blending desert, ocean, sky, and crystalline structures. In Act I, a giant hyper-realistic tiger crouches at the boundary of desert and ocean, guarding a gothic cathedral throne. A futuristic model, dressed in an André Courrèges-inspired space-age outfit with glowing jellyfish tendrils, emerges from a ship. In Act II, she approaches a colossal floating blue cube forest above the clouds, mirrored in a glassy surface. The cube is covered in electric-blue foliage and appears unreachable, yet real. The sky is painted with golden vaporwave hues, the light cinematic and divine. In Act III, the model enters the crystalline interior: a sacred AI cathedral built from living data and refracted gems. Each realm is hyper-detailed, blending fashion, mythology, and architecture into a surreal editorial fantasy. Rendered in 20K Octane Render, Leica MP camera 35mm f/1.4, raw style, --chaos 25 --ar 9:16 --quality 2 --profile 297z755 --stylize 850 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsz0Y3PmfJAfwicHPXGwecPSmuSTlaZ25jSNx1LavM8YloAOaTx5e8MdA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw:prompt-0008",
+    "source_metadata": {
+      "article_index": 193,
+      "article_title": "Vol.143 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743042655,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495280&idx=1&sn=9d7d9b2cc0650c6be2c74aab029ada12&chksm=96cc56f8420317b36600ac2ed814e041aa8fbb156d0f012c2e15842f95634f52ca0dbd24c304#rd",
+    "title": "Vol.143 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495280&idx=1&sn=9d7d9b2cc0650c6be2c74aab029ada12&chksm=96cc56f8420317b36600ac2ed814e041aa8fbb156d0f012c2e15842f95634f52ca0dbd24c304#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.143 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

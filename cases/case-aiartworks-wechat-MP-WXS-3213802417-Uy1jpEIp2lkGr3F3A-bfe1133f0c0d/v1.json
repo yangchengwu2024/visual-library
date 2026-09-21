@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7XY9Mw2icYevEk4vXuXQ7ck5kjVJfIwvt0baQxfx4wh3gOHwiabViblOpQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Uy1jpEIp2lkGr3F3A-bfe1133f0c0d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ecfa1d0de4b8935e04f7896868a887dc6e1f3e78e81cd701a2fc7642780fbe67",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "The little character in the shape of a zongzi uses the bamboo leaves as a swing and is swinging on it. It's in a 3d cartoon style --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7XY9Mw2icYevEk4vXuXQ7ck5kjVJfIwvt0baQxfx4wh3gOHwiabViblOpQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA:prompt-0010",
+    "source_metadata": {
+      "article_index": 132,
+      "article_title": "Vol.196 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748568647,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0",
+    "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

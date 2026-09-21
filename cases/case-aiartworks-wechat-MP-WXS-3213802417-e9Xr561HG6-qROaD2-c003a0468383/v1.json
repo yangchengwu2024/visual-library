@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCQKkfiaxlm582WTk697WoOCkdUBmPO0hw5ic4v3FpTSPzGqUSXPN1p3QPrvmSwbJ5iaqtHibrGEcnTQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-e9Xr561HG6-qROaD2-c003a0468383",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7cee30dd8c54b23524cb84be547f713684421b2b8639d81358b1ddbcd5a0c8ab",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "55",
+    "style": "raw",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Hyper realistic- Image is a fantasy-style digital artwork featuring a female elf character standing in an ornate, medieval-inspired hall. The elf has long, flowing silver hair and pointed ears, with fair skin and striking blue eyes. She is wearing intricately designed armor with detailed engravings, showcasing a blend of metallic and leather textures. The background features tall, arched windows and columns with decorative patterns, allowing soft, natural light to illuminate the scene. The overall color palette is a mix of cool tones, with emphasis on silver, blue, and muted gold, enhancing the ethereal and mystical atmosphere of the setting --chaos 55 --ar 3:4 --style raw --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfCQKkfiaxlm582WTk697WoOCkdUBmPO0hw5ic4v3FpTSPzGqUSXPN1p3QPrvmSwbJ5iaqtHibrGEcnTQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg:prompt-0011",
+    "source_metadata": {
+      "article_index": 293,
+      "article_title": "Vol.52 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733458464,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_e9Xr561HG6~qROaD2O-Hdg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488778&idx=1&sn=52685e39b9d92f08c15f52cf97d287c1&chksm=963dc451502a9c69040cc9fe1c96579f97b2eb29ef41cdc4b25726424b9a3368645e705e8573#rd",
+    "title": "Vol.52 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488778&idx=1&sn=52685e39b9d92f08c15f52cf97d287c1&chksm=963dc451502a9c69040cc9fe1c96579f97b2eb29ef41cdc4b25726424b9a3368645e705e8573#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.52 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

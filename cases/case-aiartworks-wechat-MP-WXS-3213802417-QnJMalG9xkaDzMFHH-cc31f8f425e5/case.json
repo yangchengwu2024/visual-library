@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QnJMalG9xkaDzMFHH-cc31f8f425e5",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdgPq8Auh57ZCiapkuMYvYqCfrAdN2Pwf3ISxaCicwQykHNQE5N6jAsL0vKicJD2ibssEPGHASiaRCVUyA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw:prompt-0006",
+      "source_metadata": {
+        "article_index": 142,
+        "article_title": "Vol.187 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1747708254,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 6,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497058&idx=1&sn=d708dd6d76f64e6b5ab88a3a3cedbffd&chksm=96b28373e8858f5bffff694c6145e1c08c66fe7513736819475fcc7722757e24ef8172767ec0#rd",
+      "title": "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 7",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497058&idx=1&sn=d708dd6d76f64e6b5ab88a3a3cedbffd&chksm=96b28373e8858f5bffff694c6145e1c08c66fe7513736819475fcc7722757e24ef8172767ec0#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "title_aliases": [
+    "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 7"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD7PhANANjxyIUrlQbiatYaC51yiaMnpgZvxTSRQIHJR8JGT1xDb1S589bibCicBMNrSxCbFCJtutTtO7LCxBLke6jiaHiaMgaJKGlJg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-51884c9dc2b0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ff8eddba6722ee0d8e72d8a4d3aba23f971bb3c3571748712461d352e5dc6ab1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "1ql7d1v",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Minimalist fashion editorial photography. A female model is leaning against a white cracked plaster sculptural structure, with an open and relaxed pose. She wears a terracotta-orange sleeveless dress and black flip-flops. The background features a pure deep blue sky with no clouds. Strong natural midday sunlight creates hard, crisp shadows. High contrast composition with complementary blue and orange color scheme. The environment feels like a sculptural architectural space with Mediterranean modernist aesthetics. The scene is minimal, clean, and highly stylized, resembling a luxury fashion magazine cover. The overall mood is cinematic, refined, and artistic. Editorial fashion photography, brutalist sculpture environment, surreal minimalism, sculptural pose, high contrast natural light, crisp shadows, luxury campaign aesthetic, ultra high resolution, clean composition. --ar 3:4 --raw --profile 1ql7d1v",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD7PhANANjxyIUrlQbiatYaC51yiaMnpgZvxTSRQIHJR8JGT1xDb1S589bibCicBMNrSxCbFCJtutTtO7LCxBLke6jiaHiaMgaJKGlJg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0004",
+    "source_metadata": {
+      "article_index": 17,
+      "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783812654,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+    "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

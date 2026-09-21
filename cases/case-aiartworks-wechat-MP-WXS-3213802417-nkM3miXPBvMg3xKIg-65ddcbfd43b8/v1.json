@@ -1,0 +1,97 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheIa6OQh0DQhDQgoblht81IHicNHlF9dc6hibRVYUhNjfqu7b0ogy0mNMMiaG2biap6Bwia52aibwPtaWvA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nkM3miXPBvMg3xKIg-65ddcbfd43b8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8b03adcef38759bcea53b15c426de2028457a47c2a611566612ce02ecf9bec28",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "exp": "100",
+    "no": [
+      "face"
+    ],
+    "oref": "https://s.mj.run/ijpqBuqI58k",
+    "profile": "1a9pz5j",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/ozeSVKxS5mA",
+      "https://s.mj.run/owLEjJnofZs",
+      "https://s.mj.run/Xo1mAmmcK2s",
+      "https://s.mj.run/guSXxUuOpAg",
+      "https://s.mj.run/jjGdVdg0haI",
+      "https://s.mj.run/jbvMf5SWocU",
+      "https://s.mj.run/gujP3pk0X4g",
+      "https://s.mj.run/jGLLI52y_Qk",
+      "https://s.mj.run/Tb8sIi21IEw",
+      "https://s.mj.run/j51u-Od9iaA",
+      "https://s.mj.run/EEBPkEHDjtE",
+      "https://s.mj.run/ZdAQHsTX7FM",
+      "https://s.mj.run/RkdiooeVyOY",
+      "https://s.mj.run/Wyoy4IoDXR4",
+      "https://s.mj.run/5ZI6J3SU7dY",
+      "https://s.mj.run/ptwwD2bKrXk",
+      "https://s.mj.run/pA8E3KSQwBE",
+      "https://s.mj.run/kelUL1_aQSg",
+      "https://s.mj.run/qiT6RtF-ETE",
+      "https://s.mj.run/qP97Y1XlfI8",
+      "https://s.mj.run/B6anbrVg7Hc",
+      "https://s.mj.run/3EoTaRiahAQ",
+      "https://s.mj.run/agPlo6Sry9M"
+    ],
+    "stylize": "1000",
+    "sv": "4",
+    "sw": "1000",
+    "weird": "150"
+  },
+  "previous_version": null,
+  "prompt": "A surreal, high-detail digital painting of a man in a long, dark trench coat walking out of a swirling interdimensional portal. The fabric of reality around him tears open into a psychedelic vortex--etched with alien sigils, recursive DMT fractals, and shifting gates of violet, crimson, and teal. Behind him, the glowing equation 'E = MC²' manifests as a living construct--sacred geometry unfolding into tendrils of consciousness, spiraling across dimensions. The scene evokes both terror and awe--a divine revelation caught between the art of Alex Grey and the biomechanical nightmares of H.R. Giger. He is the emissary of entropy, stepping into our world from the sacred unknown --no face --ar 9:16 --exp 100 --raw --sref https://s.mj.run/ozeSVKxS5mA https://s.mj.run/owLEjJnofZs https://s.mj.run/Xo1mAmmcK2s https://s.mj.run/guSXxUuOpAg https://s.mj.run/jjGdVdg0haI https://s.mj.run/jbvMf5SWocU https://s.mj.run/gujP3pk0X4g https://s.mj.run/jGLLI52y_Qk https://s.mj.run/Tb8sIi21IEw https://s.mj.run/j51u-Od9iaA https://s.mj.run/EEBPkEHDjtE https://s.mj.run/ZdAQHsTX7FM https://s.mj.run/RkdiooeVyOY https://s.mj.run/Wyoy4IoDXR4 https://s.mj.run/5ZI6J3SU7dY https://s.mj.run/ptwwD2bKrXk https://s.mj.run/pA8E3KSQwBE https://s.mj.run/kelUL1_aQSg https://s.mj.run/qiT6RtF-ETE https://s.mj.run/qP97Y1XlfI8 https://s.mj.run/B6anbrVg7Hc https://s.mj.run/3EoTaRiahAQ https://s.mj.run/agPlo6Sry9M --profile 1a9pz5j --sv 4 --sw 1000 --oref https://s.mj.run/ijpqBuqI58k --stylize 1000 --weird 150",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheIa6OQh0DQhDQgoblht81IHicNHlF9dc6hibRVYUhNjfqu7b0ogy0mNMMiaG2biap6Bwia52aibwPtaWvA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q:prompt-0002",
+    "source_metadata": {
+      "article_index": 114,
+      "article_title": "Vol.215 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750203023,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498202&idx=1&sn=d07ee46b7fc68db02a291ce27f423378&chksm=96407edf8593f3e4042609ae296e81ef24910c7f64fe666e95b90c2f601e3aadfe42f1bc2682#rd",
+    "title": "Vol.215 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498202&idx=1&sn=d07ee46b7fc68db02a291ce27f423378&chksm=96407edf8593f3e4042609ae296e81ef24910c7f64fe666e95b90c2f601e3aadfe42f1bc2682#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.215 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

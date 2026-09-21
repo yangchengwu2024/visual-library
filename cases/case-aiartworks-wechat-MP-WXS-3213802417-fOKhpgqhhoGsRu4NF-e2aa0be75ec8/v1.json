@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmgTAwzcCDKzhYG6LdCvvKqsiaPmeSrAVv53fXrCBWpiazJEErXepJTgAA/0?wx_fmt=other&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0E4eicrUo5TNPckkoQNvPtAr9b3SCZNTXiaibtKEbXjO2RNPtSKlpJjUT9A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fOKhpgqhhoGsRu4NF-e2aa0be75ec8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3133a3173607eca860a4516d763dfcb500720070cb5962c08aa79d1a7fb57985",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4"
+  },
+  "previous_version": null,
+  "prompt": "Close up of the female face, with fair, clean, translucent and delicate skin, delicate facial features, natural and light makeup, soft focus texture, light base makeup, and shimmering lip makeup, expressing a clean and pure beauty. The background is a light gray gradient, highlighting the character's skin texture and the layers of light and shadow. Adopting a high-end beauty photography style, taken by photographer Nick Knight, with natural soft and diffuse light, soft and transparent skin tone, and clear details. Using Canon EOS R5 and RF 85mm f/1.2L USM lens, aperture of f/2.0, ISO 100, shutter speed of 1/160s. The composition of the image is centered and symmetrical, paying attention to details such as eye contact and skin texture. Ultra high definition, 8K, perfect light and shadow, realistic style, magazine cover level beauty photography. --ar 3:4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmgTAwzcCDKzhYG6LdCvvKqsiaPmeSrAVv53fXrCBWpiazJEErXepJTgAA/0?wx_fmt=other&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcPNZvlIJSjbmEUCMicoCK0E4eicrUo5TNPckkoQNvPtAr9b3SCZNTXiaibtKEbXjO2RNPtSKlpJjUT9A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw:prompt-0000",
+    "source_metadata": {
+      "article_index": 57,
+      "article_title": "Vol.275 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1761262237,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fOKhpgqhhoGsRu4NFRDJpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd",
+    "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501537&idx=1&sn=53cf054ffb40c4a3b6019e250ffe2245&chksm=96ed7cb3363cd3849470853c52b83f20fe8f50c910ef0dceb8de728f9e0cefb6a15bbc1006e4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.275 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

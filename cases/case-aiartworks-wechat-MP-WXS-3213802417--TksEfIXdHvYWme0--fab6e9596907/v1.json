@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfcFSr2X7WjQQdOluIvpV8hxYMC467gal1xG5adYAJiayic9Un1pephY7tS9EbiaeGj5DdlhZdU4OjIA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--fab6e9596907",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "98c397888d272015802a745a4494c272e0c95a4e5b0c50611620f716c5c0c6f0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "blod22q",
+    "raw": true,
+    "sref": [
+      "171768888"
+    ],
+    "sw": "70"
+  },
+  "previous_version": null,
+  "prompt": "A close-up of male red horse roars valiantly on a rock at the top of a deep mountain at sunrise, a winter illustration painting, new year's mood, a peaceful, magnificent, natural atmosphere, animal illustration, an ink-and-wash painting, using ink and water, it feels like smudging or blank space, an ink-and-wash illustration --ar 3:4 --raw --sref 171768888 --profile blod22q --sw 70",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfcFSr2X7WjQQdOluIvpV8hxYMC467gal1xG5adYAJiayic9Un1pephY7tS9EbiaeGj5DdlhZdU4OjIA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg:prompt-0013",
+    "source_metadata": {
+      "article_index": 40,
+      "article_title": "Vol.292 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776063365,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-TksEfIXdHvYWme0-ZSYMg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504505&idx=1&sn=c5e9cae756aec60080ec766123d8350f&chksm=9693a9290f99f3c6735506b6470db80492e10c9f2eee9123cca089e49cd0762ebd0cd4a9d242#rd",
+    "title": "Vol.292 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504505&idx=1&sn=c5e9cae756aec60080ec766123d8350f&chksm=9693a9290f99f3c6735506b6470db80492e10c9f2eee9123cca089e49cd0762ebd0cd4a9d242#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.292 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

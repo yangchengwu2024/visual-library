@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNdrFfAwy9C0dfR59LxrovDVcWf97l1icImmLUibW5ouDP0yuwdgXaAK4g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N8IAkGH4PI86lkUJn-9b2db8723152",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a4fe9a3346a1ed0cd82e04e8f18ea6357afa9e86e82c0bd792e059ca34a1b792",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Ultra-realistic vertical image of a black hole with glowing white-orange photon rings and accretion disk. At the center is a perfectly dark circular shadow. Surrounding it, bright curved arcs of light bend dramatically due to gravitational lensing brilliant white core light diffusing outward into fiery orange plasma rings. The accretion disk appears turbulent and luminous, glowing white and orange with intense energy, distorted so that part of the disk is visible above and below the black hole. The background is deep black space dotted with faint stars. Cinematic astrophotography realism, 8k sharp detail, vertical 9:16 composition, breathtaking and physically accurate. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LNdrFfAwy9C0dfR59LxrovDVcWf97l1icImmLUibW5ouDP0yuwdgXaAK4g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0001",
+    "source_metadata": {
+      "article_index": 63,
+      "article_title": "Vol.268 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1759879860,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+    "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

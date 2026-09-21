@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcXXjvF4Sw6KkOakZb7jcWfAiaMFTQYAemCvW8KQBFw2xplm0O6IjspAw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-7MbKiPErDau3VaXfI-7fe76991db4e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3e28a8e1d1e6765a95d9fe506e362a4f2c739c6055ac636d6f4d5c16d4608cdd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "profile": "127t4z5",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "create an illustration of a group of people celebrating around a cocktail dinatoire. 1. Loose, Hand-Drawn Lines • The figures and objects are sketched with fluid, confident strokes. • There’s an intentional imperfection that adds charm and spontaneity. 2. Selective Use of Color • Mostly black lines on a white background. • Accents in red (hats, glasses, cheeks) and a single touch of turquoise (wine glass contents), creating visual hierarchy and festive mood. 3. Cartoonish, Exaggerated Characters • The people are depicted with exaggerated expressions and features. • Their joyful gestures emphasize movement and sociability. 4. Simple, Suggestive Details • Objects like food, drink, and holiday hats are rendered with minimal detail but remain easily recognizable. • No shading or depth--everything is flat and symbolic. 5. Mid-Century Modern Influence • The overall aesthetic recalls vintage advertising or editorial illustrations from the 1950s-60s, particularly European modernism. This style is warm, inclusive, and festive--ideal for conveying community, celebration, and togetherness during the holiday season. --ar 4:3 --raw --profile 127t4z5",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcXXjvF4Sw6KkOakZb7jcWfAiaMFTQYAemCvW8KQBFw2xplm0O6IjspAw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 89,
+      "article_title": "Vol.243 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1754871578,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499522&idx=1&sn=2d86073dd89e6580c325836061312c42&chksm=967ec67ab9e4f89d5de63e464312b39863a111aa694d3aeb08af7212449faa9664a345be447c#rd",
+    "title": "Vol.243 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499522&idx=1&sn=2d86073dd89e6580c325836061312c42&chksm=967ec67ab9e4f89d5de63e464312b39863a111aa694d3aeb08af7212449faa9664a345be447c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.243 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

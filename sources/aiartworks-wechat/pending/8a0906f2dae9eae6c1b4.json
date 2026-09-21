@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DHurP5GAURdLMGIFg-1ce289331d20",
+  "fingerprint": "48e353d3ae16eab7e7b1c3e2e0c463e5d5d7c7ec35f5e17bda9ed9bb259dd5d3",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "prompt": "close-up of a traditional Brazilian picanha cut, grilled to perfection and skewered on a metallic churrasco spear. the meat appears juicy, golden-brown, and charred at the edges with visible grill searing and rendered fat glistening under warm lighting. the skewered picanha curves in an elegant \"S\" shape, showcasing marbling and texture. background is a rich gradient of dark brown to amber, evoking warmth and depth. the composition is vertically framed, isolating the skewer for maximum focus. Super Foreground: crisp surface of the meat with micro-bubbling of charred edges, subtle fat sheen, slight smoke residue. Foreground: grilled picanha cut in dynamic curve, color-graded for warmth. the metal skewer is matte stainless steel, clean and reflective. Main Subject: single picanha skewer, centered vertically. texture and caramelization highlighted with high contrast realism. Midground: soft-focus transition to background tone, clean negative space for text integration or brand placement. Background: dark roasted brown gradient with warm undertone. no elements, fully isolated for food hero focus. Atmospheric Layer: light food steam glow, zero particles. professional food photography finish. Lighting Setup: top-left softbox with warm reflector fill. accent lighting highlights fat gloss and grill definition. Camera & Framing: vertical close-up, centered skewer, symmetrical composition with slight perspective taper at the ends. Color Palette: warm golden browns, charred mahogany, steel gray, deep brown background. Stylistic Note: ultra-premium food photography. designed for meat branding, churrasco campaigns, or steakhouse menus. hyperrealism prioritized full texture fidelity, no stylization. --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ:prompt-0012",
+    "source_metadata": {
+      "article_index": 131,
+      "article_title": "Vol.197 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1748657273,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0",
+    "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ:prompt-0012",
+  "status": "pending",
+  "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 13"
+}

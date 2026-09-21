@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfT9cIYzBbsWsQTKDMibgtEK7cj3WuG29OZZKlucSiaFSvt6CzxZDnuQuSOIgFQAPmvzHcfkatqLstg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y69Hu94j2aZLiNVD6-903f47b4dbbd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1d26d54cb22dd66a848cfb165c35817b9c020a969ac7efdb9790ab0a6906d186",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Beautiful 1960s brunette woman eating a hotdog in the city, wearing a short skirt and white cotton tube socks that come up to just under her knees, she has a foot on bench, magazine photo --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfT9cIYzBbsWsQTKDMibgtEK7cj3WuG29OZZKlucSiaFSvt6CzxZDnuQuSOIgFQAPmvzHcfkatqLstg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg:prompt-0005",
+    "source_metadata": {
+      "article_index": 133,
+      "article_title": "Vol.195 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748482250,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y69Hu94j2aZLiNVD6zSJXg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497357&idx=1&sn=a58bb5f4147d901f73f8ee6afe1561b9&scene=58&subscene=0",
+    "title": "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497357&idx=1&sn=a58bb5f4147d901f73f8ee6afe1561b9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.195 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

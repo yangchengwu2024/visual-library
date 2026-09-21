@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheNHhZ2naB15MuQaPmkpOAjTdJu8OZkpNnjUVautkqNXTSwYjLK2xedXDxd5FRsF17op7e8vZwskw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vij3HRImwZNNLJJCt-03650cbd038c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1a9f52c31588905bc078998186ab6375720263cd39aa55c27fdefdf4e48f8f49",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "5",
+    "profile": "6wwwpnr",
+    "sref": [
+      "2383525084"
+    ],
+    "style": "raw",
+    "stylize": "50",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/Dicv4sU1zL0 https://s.mj.run/YCW72TUlyFU Old Dutch windmill, ghostly long exposure effect around the 4 wind blades. --chaos 5 --ar 4:5 --style raw --sref 2383525084 --profile 6wwwpnr xvfffrc --stylize 50 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheNHhZ2naB15MuQaPmkpOAjTdJu8OZkpNnjUVautkqNXTSwYjLK2xedXDxd5FRsF17op7e8vZwskw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg:prompt-0002",
+    "source_metadata": {
+      "article_index": 194,
+      "article_title": "Vol.142 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742956253,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495234&idx=1&sn=c3c7685c1d16cd0f7717e7e4216d38e9&chksm=96032407252b331021b1d1daead2e20818e68ee085812dcfec3ad6f8d886ceb1e0ad671766a4#rd",
+    "title": "Vol.142 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495234&idx=1&sn=c3c7685c1d16cd0f7717e7e4216d38e9&chksm=96032407252b331021b1d1daead2e20818e68ee085812dcfec3ad6f8d886ceb1e0ad671766a4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.142 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFY13XhpCwibTwiaIUAaBsbG8qVXYIUPwXMQgwzgWrC8XeJg5OsYs4Z9S1ZibictdLD5Lwe392MkMzgw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_l1d1ak2vSpzOCvByuOqszw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-l1d1ak2vSpzOCvByu-3495be6f543e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "42b286ad580882b4f0792a493755f971a97c90275eab7cb30c600116259c5a9f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "78",
+    "sref": [
+      "https://s.mj.run/Un_wz_m0K00",
+      "https://s.mj.run/dK6p86o6TiM",
+      "https://s.mj.run/2tKQ4_FXNSE",
+      "https://s.mj.run/v-kUoiNDd0Q",
+      "https://s.mj.run/mDKZLTdA8pw",
+      "https://s.mj.run/uL96_6NK69Y"
+    ],
+    "style": "raw",
+    "stylize": "700",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "emotional photography with A childish trendy dandy woman, with a flute, hipster, with background made of decoupage music sheet pages, wearing a minimal trendy and whimsical outfit and smart hat, with a delicate 2D graphic design on his tight outfit; fujifilm, high details, emotional concept, math Fibonacci backdrop --chaos 78 --ar 9:16 --style raw --sref https://s.mj.run/Un_wz_m0K00 https://s.mj.run/dK6p86o6TiM https://s.mj.run/2tKQ4_FXNSE https://s.mj.run/v-kUoiNDd0Q https://s.mj.run/mDKZLTdA8pw https://s.mj.run/uL96_6NK69Y --stylize 700 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfFY13XhpCwibTwiaIUAaBsbG8qVXYIUPwXMQgwzgWrC8XeJg5OsYs4Z9S1ZibictdLD5Lwe392MkMzgw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_l1d1ak2vSpzOCvByuOqszw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_l1d1ak2vSpzOCvByuOqszw:prompt-0006",
+    "source_metadata": {
+      "article_index": 274,
+      "article_title": "Vol.68 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735093839,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_l1d1ak2vSpzOCvByuOqszw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490352&idx=1&sn=2998134f1c0f03328c5b9fd82840101f&scene=58&subscene=0",
+    "title": "Vol.68 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490352&idx=1&sn=2998134f1c0f03328c5b9fd82840101f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.68 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gob9RTLv7drXsy3Nh-497513bec5c2",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf834icUPrGLbZMWRfB6Q30LFgBKletUB3U7GRicnt0uk5iaVFwVpfWINeW3PQor9BLcEuD0SwyBCFcg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAdkD9ECbF7aLmNBXZEkqibsf0VkP75bwsTB8L1qMLDJRFBdGECqDmE5A/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0019",
+      "source_metadata": {
+        "article_index": 255,
+        "article_title": "Vol.86 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1736908245,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 19,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd",
+      "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 20",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "title_aliases": [
+    "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 20"
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfKumIOlXGR8PGRHEaGA1Z44b8iaXwVHXwDGLQ7dMXP1HmjalOMVnboXicCEibTUpHic1zq6ee6XMuPNg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YqKSikQ7abyi67YL9-d04a0edfd304",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "740748ea450f6d2b6968574d4dc9c8c3f59604d1bfbb7e1c597fba7e6088f19e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "o2redah",
+    "sref": [
+      "3084",
+      "3094"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "Skeletor from He-Man, evil and forbidding, he is tired of being a joke. --ar 3:4 --sref 3084 3094 --profile o2redah",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfKumIOlXGR8PGRHEaGA1Z44b8iaXwVHXwDGLQ7dMXP1HmjalOMVnboXicCEibTUpHic1zq6ee6XMuPNg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg:prompt-0016",
+    "source_metadata": {
+      "article_index": 100,
+      "article_title": "Vol.229 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752019384,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0",
+    "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOJJ6fwWncKqWEluJWJzicrtUZa2ffHqicc1AwKV4jqDl9PN4HibZabfhTnics8s3nMbEhbc0s8cerjw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTik3wiNDDBmoHLuc2UIKw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTik3wiNDDBmoHLuc-cece4515bb40",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1699a27a91bc31709daf8ad6f1d02e1e4843f49e81f08feebda53b6d02d35587",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A mind-bending, cinematic poster in the style of Inception, depicting old Saudi Arabia suspended upside-down, floating above a futuristic Saudi city with Neom’s skyline. The ancient city features sand-colored mud-brick houses, traditional wind towers, and bustling souks, seamlessly mirrored onto the high-tech cityscape below--featuring sleek skyscrapers, AI-driven transport, and glowing neon accents. The two worlds are connected by a surreal gravitational distortion, with desert dunes morphing into ultra-modern glass pathways. Moody atmospheric lighting, deep shadows, and a blue-orange color palette enhance the contrast, evoking a dreamlike yet hyper-realistic feel. Shot with IMAX film quality, ultra-HD, cinematic depth, intricate details, sci-fi realism, Christopher Nolan-inspired, masterpiece composition --ar 2:3 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOJJ6fwWncKqWEluJWJzicrtUZa2ffHqicc1AwKV4jqDl9PN4HibZabfhTnics8s3nMbEhbc0s8cerjw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTik3wiNDDBmoHLuc2UIKw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTik3wiNDDBmoHLuc2UIKw:prompt-0020",
+    "source_metadata": {
+      "article_index": 232,
+      "article_title": "Vol.111 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739845814,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 20,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTik3wiNDDBmoHLuc2UIKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493286&idx=1&sn=6cafd5ca9ffec88df62c75484bedec39&chksm=966fb11692fed5276c53b0055201101ed4d282fe1e7506a399520a67b624a03414a183c78da6#rd",
+    "title": "Vol.111 - Midjourney | 精选作品关键词提示 · 提示词 21",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493286&idx=1&sn=6cafd5ca9ffec88df62c75484bedec39&chksm=966fb11692fed5276c53b0055201101ed4d282fe1e7506a399520a67b624a03414a183c78da6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.111 - Midjourney | 精选作品关键词提示 · 提示词 21",
+  "version": "v1"
+}

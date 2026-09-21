@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDgbYzibMQ1boq2rHT7741SttxuXibqbJ4ics8TL2pClGF8nM1J3UOaMEAcLLZAHIMiaKPeiavZfb4nWhTeSMFaYKB4Nr6Pt3IenNzg/0?wx_fmt=other&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WA18jNgTPxbMnibWicdAJaC8zBuBPXntzzzricVjmfrDIIaBtAch2aa9NS8kzMwEicpJTNnxbITdtBaqib0rr77nIib2w95f8LXYArdw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-1281985521f7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d6b075c6b686a77edf41bcd140fe4a31e1103ecf8f7737214119501ddce6299b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "1c3h2dx",
+    "sref": [
+      "https://s.mj.run/umVE9opffXo"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/KdWd7rdBfkE 5 girls holding gun --ar 3:4 --sref https://s.mj.run/umVE9opffXo --profile 1c3h2dx --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDgbYzibMQ1boq2rHT7741SttxuXibqbJ4ics8TL2pClGF8nM1J3UOaMEAcLLZAHIMiaKPeiavZfb4nWhTeSMFaYKB4Nr6Pt3IenNzg/0?wx_fmt=other&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WA18jNgTPxbMnibWicdAJaC8zBuBPXntzzzricVjmfrDIIaBtAch2aa9NS8kzMwEicpJTNnxbITdtBaqib0rr77nIib2w95f8LXYArdw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 19,
+      "article_title": "Vol.313-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783294218,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0",
+    "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

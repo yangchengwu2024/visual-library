@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcD0scKicEic4HLXH0kAZP7Kgm42JUUHA6cZic3opBGVdktwIna7ognMWj4oZmSbibp2rHVlzibzJEsn7w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Fx1cF5enqoaSvBaV1-b45468c4f264",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "57d9bb8ac7fa6ead9c97795c2c25753a6ecc98706ab1dd95cce4bb41c4f05bfc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "A close-up high-resolution fashion studio shot of a Korean woman in her early 20s with braided or tied-up hair, her face and both hands decorated with a variety of colorful pastel stickers such as stars, fruits, and flowers, each sticker bold and playful, clear natural skin, soft natural makeup with a pop accent, wearing a vivid pastel striped knit in green, pink, and light blue, minimal pastel background with a fun pop-art vibe, playful and kitschy commercial fashion aesthetic, bright pastel tones, trendy editorial photography, ultra detailed, no text --ar 9:16 --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcD0scKicEic4HLXH0kAZP7Kgm42JUUHA6cZic3opBGVdktwIna7ognMWj4oZmSbibp2rHVlzibzJEsn7w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 72,
+      "article_title": "Vol.259 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1758065428,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Fx1cF5enqoaSvBaV1e7FZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500311&idx=1&sn=da91bec3be12fbbc4d3fa058652cebb4&scene=58&subscene=0",
+    "title": "Vol.259 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500311&idx=1&sn=da91bec3be12fbbc4d3fa058652cebb4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.259 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

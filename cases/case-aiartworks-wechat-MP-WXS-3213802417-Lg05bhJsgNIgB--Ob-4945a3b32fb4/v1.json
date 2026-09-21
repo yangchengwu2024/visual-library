@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:30+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3ghoSBADv3hXgPYqXLqyPDhR923J96pE66BFFIicOPsDb0dZFkuzv8zQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Lg05bhJsgNIgB--Ob-4945a3b32fb4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "43e77642adf1f32421ba777384fabd7b4a05953187f777cdaabf634d1f727b77",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:8",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A pooping lion wearing glasses is sitting on an open toilet and reading the \"Financial Times\" newspaper, with black letters on a white background. The entire scene was captured in a full-body shot. Clean bathroom. bright white tiles. Black and white. Realistic photographic style. High resolution. bathroom scene --ar 5:8 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3ghoSBADv3hXgPYqXLqyPDhR923J96pE66BFFIicOPsDb0dZFkuzv8zQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA:prompt-0002",
+    "source_metadata": {
+      "article_index": 304,
+      "article_title": "Vol.42 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732536121,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd",
+    "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

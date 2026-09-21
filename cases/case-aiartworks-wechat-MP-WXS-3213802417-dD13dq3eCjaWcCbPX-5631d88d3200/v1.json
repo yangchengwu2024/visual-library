@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dU37uwwL0sAsOGbF9aJ41oOgntJLJ0ia2icXn5upoVyLDzSsn2NTIe6JQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dD13dq3eCjaWcCbPX-5631d88d3200",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bf9dc753902e510fc4467febb88631f855683ce5eb4995cd3f5f39c8ebaf27cd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "15",
+    "profile": "tckem44",
+    "sref": [
+      "1539410027"
+    ],
+    "stylize": "300",
+    "sw": "300",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cute huge orange elephant in a green Wheat Field, with a fluffy wool texture, in the style of John Holcroft, for Gindar and in the style of Atey Ghailan for Pixar, rendered using Octane, against a blue background, in a 3D style. --chaos 15 --ar 2:3 --sref 1539410027 --profile tckem44 --sw 300 --stylize 300 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dU37uwwL0sAsOGbF9aJ41oOgntJLJ0ia2icXn5upoVyLDzSsn2NTIe6JQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg:prompt-0000",
+    "source_metadata": {
+      "article_index": 225,
+      "article_title": "Vol.117 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740450668,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493728&idx=1&sn=aff8eaa2d5c992c3657e65026b221555&chksm=96e98fa7b33062dd85648f7a20087d8ebd2db3d33454771df87c6991618e989301c1e16592c2#rd",
+    "title": "Vol.117 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493728&idx=1&sn=aff8eaa2d5c992c3657e65026b221555&chksm=96e98fa7b33062dd85648f7a20087d8ebd2db3d33454771df87c6991618e989301c1e16592c2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.117 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

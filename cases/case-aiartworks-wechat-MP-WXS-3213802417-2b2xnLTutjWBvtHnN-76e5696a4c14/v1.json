@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkUU2qrpMRKJQkYdXWDz5P7dqQ6PcQoHroT6iaoG7hkVeibdFIIc8HptOQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2b2xnLTutjWBvtHnN-76e5696a4c14",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2b4ba76bcb17fb4c10f88065b5151d44ef3ee77393a50b6158a172af019b93c8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "chaos": "37",
+    "profile": "n93xwo6",
+    "style": "raw",
+    "stylize": "187",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "full body x-ray of cat in a box --chaos 37 --ar 16:9 --style raw --profile n93xwo6 --stylize 187 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkUU2qrpMRKJQkYdXWDz5P7dqQ6PcQoHroT6iaoG7hkVeibdFIIc8HptOQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q:prompt-0014",
+    "source_metadata": {
+      "article_index": 275,
+      "article_title": "Vol.67 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735007432,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0",
+    "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88IvSb2XELtCB6oT7o2YooG7LibcibyPLZicMcOFbJRu4vFtIjh2vHGP2JQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5avldYsqd4ygizPY3-4bc0224577bc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ee95180d26459a22b0b4e82aae8892d4ab18161007fd756c3352e5dce5f94af3",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "qy1v6ok",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A photo of a girl who’s running late she’s rushing out of her apartment, almost forgetting the most important part of her look: a perfume called DAY, which stands on a small table near the door. Still wearing her shoes, she stretches toward it, her face tense as she tries not to fall, yet there’s an undeniable lightness and grace in her movement. She’s dressed in a grey sweater and a brown skirt. --profile qy1v6ok --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88IvSb2XELtCB6oT7o2YooG7LibcibyPLZicMcOFbJRu4vFtIjh2vHGP2JQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA:prompt-0014",
+    "source_metadata": {
+      "article_index": 124,
+      "article_title": "Vol.204 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749252680,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd",
+    "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

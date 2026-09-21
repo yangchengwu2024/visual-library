@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKjVdU5lj7h6ARjDW-b825218f3967",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJCiaNw8myrH1hNdh1O8M49x7IK8daCPNiaJ766o4WpI2QMeSQurluN9Fw/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAfE5VnDkLGEZCvmNqRfibs9RicPY3KAuGlMEKwciaJre0Pdar1OuAASBhg/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA:prompt-0006",
+      "source_metadata": {
+        "article_index": 59,
+        "article_title": "Vol.272 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1760657416,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 6,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+      "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 7",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "title_aliases": [
+    "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 7"
+  ]
+}

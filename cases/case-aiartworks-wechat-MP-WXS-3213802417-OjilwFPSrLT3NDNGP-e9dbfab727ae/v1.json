@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcB8cVqj5LkP3icHQYYqjib62tUoR7Sd4jDqr1T640fKP0ZlNIvK7upBZsGljJ2Gdla9mAQBrs7I3PQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OjilwFPSrLT3NDNGPHYhvA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OjilwFPSrLT3NDNGP-e9dbfab727ae",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2be5999577381f27bba617a0003facf22c052092194bc7a96c56237605e88e79",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "man looking at a giant gigantic frozen hand coming out of frozen lake holding a gigantic giant can of Coca Cola, super realistic, 8k, --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcB8cVqj5LkP3icHQYYqjib62tUoR7Sd4jDqr1T640fKP0ZlNIvK7upBZsGljJ2Gdla9mAQBrs7I3PQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OjilwFPSrLT3NDNGPHYhvA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OjilwFPSrLT3NDNGPHYhvA:prompt-0004",
+    "source_metadata": {
+      "article_index": 239,
+      "article_title": "Vol.105 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739241023,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OjilwFPSrLT3NDNGPHYhvA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492923&idx=1&sn=b51a0d9b836a641870fbac4a0611a6a3&chksm=965ffff99f3c2ecd0877743f9bcb36dd31f78f23996191c34e06071d329644dacf820c2ce8fb#rd",
+    "title": "Vol.105 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492923&idx=1&sn=b51a0d9b836a641870fbac4a0611a6a3&chksm=965ffff99f3c2ecd0877743f9bcb36dd31f78f23996191c34e06071d329644dacf820c2ce8fb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.105 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

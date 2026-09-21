@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBUkSy26OoKicpuL2iaNLNpstw9E5rkCGR4LibFUhVoRsicfUvcq4DVIkVZ0TWIxLNk7ufic6iaX097Fu5NYAlNwq7pI1bT6vxMPErBw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vPFVyUmZkDO--qxwr-86edaa2a702c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ffe31fd3fa47bb530fdb8b19d1138253788327d69570141bffa1a0db85d8e0e4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "yqiynrs",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "High definition professional stop motion claymation, Laika Studios ultra realism, handcrafted miniature figurine. Upper body portrait, chest up, three quarter front facing, pure white seamless studio background, soft even three point lighting, no harsh shadows. Ancient Chinese young woman, 18 20 years old, East Asian features, cheerful chubby build. Round wide face, extremely plump apple cheeks, soft double chin merging into short thick neck, broad rounded shoulders, full upper arms with clay compression folds. Large barrel shaped torso filling frame. Warm satisfied half smile, gentle almond shaped single eyelid eyes, small low bridge nose, thick flat dark eyebrows slightly arched. Black hair in neat Han style bun, simple hairpin, no jewelry. Plain light red Hanfu, wide collar, overlapping lapels, long flowing sleeves, no embroidery. Fabric stretched naturally, subtle folds, fine woven clay textile texture. Warm peachy skin, rosy blush circles, scattered freckles. Ultra fine cross hatched micro wrinkles, pore like indentations, sculpting tool marks, zero specular sheen, pure matte clay. 8K, sharp pan focus, no bokeh, all clay texture razor sharp, Unreal Engine 5 quality. --ar 3:4 --raw --profile yqiynrs --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBUkSy26OoKicpuL2iaNLNpstw9E5rkCGR4LibFUhVoRsicfUvcq4DVIkVZ0TWIxLNk7ufic6iaX097Fu5NYAlNwq7pI1bT6vxMPErBw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag:prompt-0013",
+    "source_metadata": {
+      "article_index": 26,
+      "article_title": "Vol.307-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781134251,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0",
+    "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 14",
+  "version": "v1"
+}

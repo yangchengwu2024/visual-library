@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCsfv66F08nWCBYOeNiahPHZwt41kH053zeXlib1xfNs0hh4dnD0cBno2kB5UaT2iaoOoPJCBzLhKsxicAhel4RcGImbmq4jF9Qj90/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vPFVyUmZkDO--qxwr-1f094a3ce5ae",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7a2d135ffae2a5eb7def1ab67037ac6f3d320f165feb74042aad27786ba41d31",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:5",
+    "chaos": "19",
+    "hd": true,
+    "profile": "be4uqx7",
+    "raw": true,
+    "stylize": "73",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "poetic half body shot, an east asian supermodel, summer office attire, YSL style, spontaneity captured, rollei prego 90, infrared film, strong course film grain noise, --chaos 19 --ar 3:5 --raw --profile be4uqx7 --stylize 73 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCsfv66F08nWCBYOeNiahPHZwt41kH053zeXlib1xfNs0hh4dnD0cBno2kB5UaT2iaoOoPJCBzLhKsxicAhel4RcGImbmq4jF9Qj90/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag:prompt-0008",
+    "source_metadata": {
+      "article_index": 26,
+      "article_title": "Vol.307-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781134251,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0",
+    "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

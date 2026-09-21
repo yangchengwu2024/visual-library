@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe0BjVCH7UP0MmSuzXMHfbKXwx5D3O9HS4mnT5AfdEZxbHGZp8NXkWsMy7IhqVpic4frubx2cpuZbQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6qXBRr8Jzfwj6LWjY-1ec1fd382691",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "65f23f693848b5820605d7794dd5f66dcedcb15d827b5e02f6ec5302c4a19b4d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "profile": "n66tswe"
+  },
+  "previous_version": null,
+  "prompt": "A pink lotus, captured in motion blur against an empty white wall, evokes the feeling of gentle wind and freedom, with a focus on softness and minimalism. The blurred petals add to its dreamy quality, creating a sense of lightness and movement. --ar 4:5 --profile n66tswe",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe0BjVCH7UP0MmSuzXMHfbKXwx5D3O9HS4mnT5AfdEZxbHGZp8NXkWsMy7IhqVpic4frubx2cpuZbQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw:prompt-0006",
+    "source_metadata": {
+      "article_index": 88,
+      "article_title": "Vol.244 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755041571,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6qXBRr8Jzfwj6LWjY3vUpw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499586&idx=1&sn=c7c8da14acedc04d28c387958662e56f&chksm=96e9a17793d78cd92fddc86683bf480168b660ea0354a2af217ffe523f03cabf4439fed91927#rd",
+    "title": "Vol.244 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499586&idx=1&sn=c7c8da14acedc04d28c387958662e56f&chksm=96e9a17793d78cd92fddc86683bf480168b660ea0354a2af217ffe523f03cabf4439fed91927#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.244 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

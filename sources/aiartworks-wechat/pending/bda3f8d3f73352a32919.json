@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2RSQYTKVxXbS28e-P-149fcd6aba56",
+  "fingerprint": "a7d43cf1febb2c745c8fa4c1d690250d086c0783a24d9d9aae14e547182b8ec2",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "prompt": "A selfie taken by a three-meter tall Norwegian forest troll on top of Gausta Mountain in Norway. The camera shows the troll’s face up close, as if the phone is held at arm’s length. The troll’s nose is broad, lumpy, and heavy, shaped like a knotted stone worn by time. Its deep-set eyes are warm and curious, look directly into the camera with a curious, slightly amused expression, lips forming a faint smile. Long, messy hair and beard hang down in earthy tones of grey, brown, and green, touched with moss and algae. The leathery skin is rough, mottled with damp patches of moss and forest earth. The selfie framing is imperfect, like a real candid shot part of the troll’s large fingers are visible gripping the tiny phone. The troll standing on a steep rocky slope above the treeline, surrounded by grey boulders covered with pale green moss and lichen. Behind it stretches a vast Nordic mountain landscape with rolling blue-grey ridges fading into the mist. The light is soft and cold, diffused through thin clouds, creating a calm, natural atmosphere. Captured as a realistic phone selfie, ultra-photorealistic, natural Nordic light --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g:prompt-0015",
+    "source_metadata": {
+      "article_index": 55,
+      "article_title": "Vol.277 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1761694232,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd",
+    "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd"
+  },
+  "source_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g:prompt-0015",
+  "status": "pending",
+  "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 16"
+}

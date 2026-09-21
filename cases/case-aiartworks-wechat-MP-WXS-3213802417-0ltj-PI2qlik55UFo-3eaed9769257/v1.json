@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFBmjicmu0ylrIgpXNBoDwVvv5veicszJonxwgIzC690iandspEBcXY1jAg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0ltj-PI2qlik55UFo-3eaed9769257",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3c135416e70cbe72a9cf68ed3fc35c5b9fdcaa4d3f1e0ddf3a61f84774dd95e8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A digital artwork depicting the Buddha's head, intricately designed with green trees growing from it and vines surrounding its face. The background is an enchanted forest filled with ancient ruins, creating a mystical atmosphere. In front of the Buddha's head lies a tranquil river that reflects his serene expression. This scene embodies peace amidst chaos in nature. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFBmjicmu0ylrIgpXNBoDwVvv5veicszJonxwgIzC690iandspEBcXY1jAg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ:prompt-0017",
+    "source_metadata": {
+      "article_index": 308,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.39",
+      "association_confidence": "high",
+      "createTime": 1732157425,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0ltj-PI2qlik55UFo~2dZQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487643&idx=1&sn=f59d55be648d4a7ee0b40130a0b11433&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.39 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487643&idx=1&sn=f59d55be648d4a7ee0b40130a0b11433&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.39 · 提示词 18",
+  "version": "v1"
+}

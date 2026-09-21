@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd9qY8Nb9ibdcfy7GhhMkRtqQCr7FXB3LkPmWqNZ94VQnzsaGiaolfI3cic0uEnWwR8hPBGVajNwTG7w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2xxNh6lp-gmJ9eAR1-f689f965e2ed",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3210977062510d121954349bbed624de057cc07de2dd56aac3ffac9c945da8fc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "40",
+    "profile": "bncz7pn",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "350",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "professional food photography, digital high quality image, minimalist image, highly stylised, super clean, sleek and crystal clear, Vantablack background throughout. Close up shot of cocktail fluted glass, thin stemmed expensive fluted glass. The glass is totally in focus from front to back and top to bottom. No blemishes on the glass, it is ultra clean. 'Espresso Martini' Cocktail, --chaos 40 --ar 2:3 --quality 2 --style raw --profile bncz7pn --stylize 350 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd9qY8Nb9ibdcfy7GhhMkRtqQCr7FXB3LkPmWqNZ94VQnzsaGiaolfI3cic0uEnWwR8hPBGVajNwTG7w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA:prompt-0018",
+    "source_metadata": {
+      "article_index": 242,
+      "article_title": "Vol.103 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1738981862,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2xxNh6lp~gmJ9eAR1~27eA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492742&idx=1&sn=a40d4b5371cc035d4584e652e8d56800&scene=58&subscene=0",
+    "title": "Vol.103 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492742&idx=1&sn=a40d4b5371cc035d4584e652e8d56800&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.103 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

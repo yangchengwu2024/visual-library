@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL2UHxg15dcdJv3dicI2oOQUY7ia65miaq3HvUNRYk6OnPvDHCib2wWZUicfw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D-Te8P-6W5-ekYD2Q-9c2fa8cd25cf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "db025cbf3a2b47af984f0ef3ecd3e3d9100da0f4973e02e7f32e35b607cabfcf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "cref": "https://s.mj.run/0J4I7L2U3IU",
+    "cw": "70",
+    "iw": "0.4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/UvGHfwx5rVM A baby panda riding a rocking horse, In the snow, . heavy snow, The back cannot see the face, Full body photo --ar 9:16 --cref https://s.mj.run/0J4I7L2U3IU --cw 70 --iw 0.4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL2UHxg15dcdJv3dicI2oOQUY7ia65miaq3HvUNRYk6OnPvDHCib2wWZUicfw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g:prompt-0018",
+    "source_metadata": {
+      "article_index": 257,
+      "article_title": "Vol.83 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1736564431,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0",
+    "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

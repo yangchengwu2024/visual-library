@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8X7-bYYkTis174-cE-1d1ac2e4c577",
+  "fingerprint": "26c38174c02b662f7c0b6bb6050c25a3b01857a7d2b2167bd9a7ecfefad54ec3",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "50",
+    "v": "7"
+  },
+  "prompt": "A Chinese painting of an old pine tree, close-up shot with ink and wash style. The white background is adorned by the majestic trees. In traditional scroll paintings, there's a sense of depth in their branches and leaves. A detailed depiction captures the textures on its trunk and crown, while sunlight shines through to create a soft glow. This artwork conveys grandeur and tranquility.,,in --ar 9:16 --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA:prompt-0014",
+    "source_metadata": {
+      "article_index": 162,
+      "article_title": "周末特别版 | 东方主题 | 精选作品与提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1745721056,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496244&idx=1&sn=4fd213f57c59c3e09b6212a90d5747d6&chksm=9650fbdadb9bf3ba568b80f13458b543b7355024c9440e3f30b249fef2c98442cb9c49bab06b#rd",
+    "title": "周末特别版 | 东方主题 | 精选作品与提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496244&idx=1&sn=4fd213f57c59c3e09b6212a90d5747d6&chksm=9650fbdadb9bf3ba568b80f13458b543b7355024c9440e3f30b249fef2c98442cb9c49bab06b#rd"
+  },
+  "source_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA:prompt-0014",
+  "status": "pending",
+  "title": "周末特别版 | 东方主题 | 精选作品与提示 · 提示词 15"
+}

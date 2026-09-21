@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-M6dSEdRbj3nNPJ6vr-3187cc482c03",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffTibnKXibpkhgBLDmUrk5AUdcr6VDvDIwuU5m2ujtI89HofTWIsUGtNc8ZKIJBIsITY28POhGYJNw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShffTibnKXibpkhgBLDmUrk5AUpvV4d33Avfk5arrbdEaUmfZ9G4iasrEmGAASEwsQHOLvhiaJa7ZcbBZw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ:prompt-0019",
+      "source_metadata": {
+        "article_index": 207,
+        "article_title": "Vol.132 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1741919433,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 19,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+      "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 20",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "title_aliases": [
+    "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 20"
+  ]
+}

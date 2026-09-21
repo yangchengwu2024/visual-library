@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dNFB45BRen3gdKjfKhBhtIF0BOsZXJHpicibPcicAlIMiaaGibVJTIR5mzsQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xfGX8Qx0RqGVu6E-g-66f3ab033fbb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "44999784dafa24f258e32f4a6d39a26679949663c621d118c95eface32b26fd8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "style": "raw",
+    "stylize": "200",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A highly detailed 3D-rendered image of an **ultra-stylish, comically fashionable chicken** with **unnaturally long, slim legs**, confidently strutting like a runway model. She wears **shiny golden leggings** that highlight her dramatic posture and a **pink fluffy fur coat**, slightly draped over her shoulders. Her eyes are hidden behind **oversized designer sunglasses**, and she accessorizes with a **gold chain necklace and hoop earrings**. Her **sleek feathers shimmer under soft lighting**, and she tilts her head playfully with an air of confidence. The **background is a clean white studio setup**, emphasizing her surreal proportions and bold fashion choices. --chaos 15 --ar 9:16 --style raw --stylize 200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dNFB45BRen3gdKjfKhBhtIF0BOsZXJHpicibPcicAlIMiaaGibVJTIR5mzsQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 224,
+      "article_title": "Vol.118 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740537018,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd",
+    "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

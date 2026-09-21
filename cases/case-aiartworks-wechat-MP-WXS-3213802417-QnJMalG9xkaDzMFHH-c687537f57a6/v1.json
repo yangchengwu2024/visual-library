@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdgPq8Auh57ZCiapkuMYvYqCSico13gegSaMsNEXKR6HwvgFYw0DgQ73zJYxvVr4jo9Ud6ZL1ltv3QQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QnJMalG9xkaDzMFHH-c687537f57a6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0e0a81746b4ede2c1f813501d1477b6e96ae8bed36aad8c0748cbf89dd55e6d4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "59:128",
+    "profile": "n14rmy2",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A white t-shirt with the word \"thermal\" on it, a green cap, and shoes, with an emu bird logo. The background is a rainforest jungle with a giraffe walking around, in a photo-realistic, hyper-detailed style, rendered using Octane. --ar 59:128 --profile n14rmy2 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdgPq8Auh57ZCiapkuMYvYqCSico13gegSaMsNEXKR6HwvgFYw0DgQ73zJYxvVr4jo9Ud6ZL1ltv3QQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw:prompt-0010",
+    "source_metadata": {
+      "article_index": 142,
+      "article_title": "Vol.187 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747708254,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497058&idx=1&sn=d708dd6d76f64e6b5ab88a3a3cedbffd&chksm=96b28373e8858f5bffff694c6145e1c08c66fe7513736819475fcc7722757e24ef8172767ec0#rd",
+    "title": "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497058&idx=1&sn=d708dd6d76f64e6b5ab88a3a3cedbffd&chksm=96b28373e8858f5bffff694c6145e1c08c66fe7513736819475fcc7722757e24ef8172767ec0#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcLQXQ9hU8mTy0Xr3vzSlicO1109QtEDWo8beQeBC5RrXxSAxNOFzn8kA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTBVsPvTXvfV-b-nu-e011ab3819d1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b6a92ac46d030f9a536c64acc6d71e92440dd1cef7aed31aadb8ca5a4e9b9a91",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "xmzhz3h",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A beautiful girl with long purple hair and a colorful floral headdress holding a purple magic wand that emits a faint glow. This piece of work has clear details and is similar to a magazine design for a fashion cover. The background uses a minimalist gray-purple solid color to highlight the model's temperament. The words \"ZjmmM\" are displayed in the top center of the picture 4k --ar 3:4 --profile xmzhz3h --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcLQXQ9hU8mTy0Xr3vzSlicO1109QtEDWo8beQeBC5RrXxSAxNOFzn8kA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0014",
+    "source_metadata": {
+      "article_index": 153,
+      "article_title": "Vol.176 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746498625,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd",
+    "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

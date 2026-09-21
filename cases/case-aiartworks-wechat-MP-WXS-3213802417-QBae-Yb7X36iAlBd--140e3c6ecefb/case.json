@@ -1,0 +1,108 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--140e3c6ecefb",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5Tic9TvRn0AwouebicxICfOkkx1Oy1C3HQgTVvPEmDglwWErmk0ic90s4SqQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicBb1qfMrWnp3nG5F7JSCzmpVhicfN5Oas4ibJNZwrOVvGWnzSgQohfndw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw:prompt-0010",
+      "source_metadata": {
+        "article_index": 155,
+        "article_title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1746325840,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 10,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496516&idx=1&sn=6bfa20654abacfee388bcf0019b54c18&chksm=96bedc52c0e434ff1c292d13fb914e83a04ba03a3818bc62caec2dd6c93d14bed7d04a51972e#rd",
+      "title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496516&idx=1&sn=6bfa20654abacfee388bcf0019b54c18&chksm=96bedc52c0e434ff1c292d13fb914e83a04ba03a3818bc62caec2dd6c93d14bed7d04a51972e#rd",
+      "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5Tic9TvRn0AwouebicxICfOkkx1Oy1C3HQgTVvPEmDglwWErmk0ic90s4SqQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicBb1qfMrWnp3nG5F7JSCzmpVhicfN5Oas4ibJNZwrOVvGWnzSgQohfndw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw:prompt-0011",
+      "source_metadata": {
+        "article_index": 155,
+        "article_title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1746325840,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 11,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496516&idx=1&sn=6bfa20654abacfee388bcf0019b54c18&chksm=96bedc52c0e434ff1c292d13fb914e83a04ba03a3818bc62caec2dd6c93d14bed7d04a51972e#rd",
+      "title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 12",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496516&idx=1&sn=6bfa20654abacfee388bcf0019b54c18&chksm=96bedc52c0e434ff1c292d13fb914e83a04ba03a3818bc62caec2dd6c93d14bed7d04a51972e#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 12",
+  "title_aliases": [
+    "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 11",
+    "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 12"
+  ]
+}

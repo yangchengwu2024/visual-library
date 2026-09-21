@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-U-MxVk0EqH902SU7r-e068617e34f7",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfNNZCCttc8kWlNibLRv9MfcLVp9YBK4mrPg0PnKb68RbVXCoV8NvaUicIQbqzkVJdhqEGFAicvjyTyw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ:prompt-0013",
+      "source_metadata": {
+        "article_index": 98,
+        "article_title": "Vol.231 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1752449468,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 13,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498959&idx=1&sn=3b7abd60655674769477516d2ef7a297&chksm=97b3f011a0c47907e1cb89860755085baab000a9b33a27cb178339a3b0610547441bad859e32#rd",
+      "title": "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498959&idx=1&sn=3b7abd60655674769477516d2ef7a297&chksm=97b3f011a0c47907e1cb89860755085baab000a9b33a27cb178339a3b0610547441bad859e32#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "title_aliases": [
+    "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 14"
+  ]
+}

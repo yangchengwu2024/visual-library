@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6JYPPFCYP0QpsYzvFMSxJAQ5t3nEVxrviaibibbUeKmn9Y1p4MeSKWbtaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6nK857rBVgJibRIgRic4Rbslne63ohCFJhxTUe04VDoj4iam2drZZ3YtvA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-b3475e77b7c1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8b377df0b14b350bbe659ae0d0c64f75a902fdd8c2d71cc9458fced806b1d13f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cheerful Indonesian female cartoon character with a bright smile, wearing a colorful headscarf, stands against a solid blue background. Rendered in Cinema 4D with Octane, the character is depicted in a full-body shot, showcasing her vibrant attire and playful expression. Her eyes sparkle with joy, and her pose exudes a sense of carefree happiness. The clean lines and smooth textures of the character's design contribute to a whimsical and charming aesthetic. --ar 9:16 --quality 2 --style raw --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6JYPPFCYP0QpsYzvFMSxJAQ5t3nEVxrviaibibbUeKmn9Y1p4MeSKWbtaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6nK857rBVgJibRIgRic4Rbslne63ohCFJhxTUe04VDoj4iam2drZZ3YtvA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw:prompt-0000",
+    "source_metadata": {
+      "article_index": 335,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.13",
+      "association_confidence": "review",
+      "createTime": 1729568093,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 1",
+  "version": "v1"
+}

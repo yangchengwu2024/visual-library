@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gqefcEU41oKfmLh6J-579b0faa61e3",
+  "fingerprint": "e22efb97bc0af016241073ea42067a049da74f63f6c36913723e164ab724922c",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "stylize": "600",
+    "v": "6"
+  },
+  "prompt": "https://s.mj.run/hog3TC7UYxc https://s.mj.run/_SUc6FcLetw https://s.mj.run/PQqi1sPeVEw https://s.mj.run/Gu4acQGikRg https://s.mj.run/Me-MSVjjqbY https://s.mj.run/5xqGAUw39Ic Generate a lifestyle visual featuring people dancing in the abckground, inspired by the dynamic and expressive style depicted in the provided reference images. The scene should capture the energy, rhythm, and joy of dancing. The person should be depicted in a fluid and graceful motion, with expressive body language and movement. Incorporate elements of music and ambiance to enhance the atmosphere of the scene. Pay attention to lighting and composition to create a visually captivating and dynamic image. The light is one of a bright summer sunset. The person's attire should reflect the style and mood of the dance, whether it's elegant and formal or casual and carefree. Aim for a balance between realism and aspirational lifestyle imagery, capturing the essence of the dance while adding your own unique touch. The aspect ratio should be suitable for use in digital or print advertising materials Morning: Fujifilm X-T4 camera with a Fujinon XF 16-55mm f/2.8 R LM WR lens --stylize 600 --v 6",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ:prompt-0017",
+    "source_metadata": {
+      "article_index": 305,
+      "article_title": "Vol.41 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1732453234,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487963&idx=1&sn=ac434ca95db232e7cb10cd8f6687072e&chksm=9662716ca5f0e95acaddadd9deb695daea8a2542077ab26ee443c3eae96ea52c3e34b06a5127#rd",
+    "title": "Vol.41 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487963&idx=1&sn=ac434ca95db232e7cb10cd8f6687072e&chksm=9662716ca5f0e95acaddadd9deb695daea8a2542077ab26ee443c3eae96ea52c3e34b06a5127#rd"
+  },
+  "source_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ:prompt-0017",
+  "status": "pending",
+  "title": "Vol.41 - Midjourney | 精选作品关键词提示 · 提示词 18"
+}

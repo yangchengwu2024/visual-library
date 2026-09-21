@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dDtOpV0019BBNTPmJUWokD1xr9W1Dx4haqZTlibrBGp7ByQv6he9iazPQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xfGX8Qx0RqGVu6E-g-b84ba49fdda9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "464760ba61c69feca108041fb0fa94c00eb51b14b273b44fbc6eb38ba942bd66",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "81:118",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A bowl of ramen with chicken kLawat, The top is covered in deep-fried pats and egg on the side of green spinach leafy greens. A large piece cut into four pieces is placed at one end. It's drizzled with miso soup, and fresh scallions are scattered throughout the noodles for decoration. This dish combines delicious ramen base, rich history from Japan to France, light colors, light background, bright light, delicious food photography, professional studio lighting, close-up photos, high resolution --ar 81:118 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dDtOpV0019BBNTPmJUWokD1xr9W1Dx4haqZTlibrBGp7ByQv6he9iazPQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 224,
+      "article_title": "Vol.118 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740537018,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd",
+    "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

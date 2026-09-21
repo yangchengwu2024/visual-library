@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfBlKsPvoNgafalem25V9ogCp05XeHhQNb8kwpV0q670pnbjMic0aOHLhpWwxeM6iaEQVT25HuKNzFw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BjFlA03Zt--RKX2-j-19de25cf538d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ff944a65c3fd9eeece67d36b00e791f247aa8b50711ada7244d1f3e5f35b94c1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Colorful pastel holographic iridescent foil texture background. Abstract soft light effect with a rainbow color gradient. Soft blur effect for a hologram, fashion, and technology concept. --ar 16:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfBlKsPvoNgafalem25V9ogCp05XeHhQNb8kwpV0q670pnbjMic0aOHLhpWwxeM6iaEQVT25HuKNzFw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA:prompt-0005",
+    "source_metadata": {
+      "article_index": 279,
+      "article_title": "Vol.64 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734661818,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BjFlA03Zt-~RKX2-joiXRA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489962&idx=1&sn=14e5ef38a8f08a8be7fc37fa690ccc93&chksm=96c8d4f40d0121608a9e0f945d30ae7df677719fe9b406bbb6e1bad330c2b940f6b246fe81ef#rd",
+    "title": "Vol.64 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489962&idx=1&sn=14e5ef38a8f08a8be7fc37fa690ccc93&chksm=96c8d4f40d0121608a9e0f945d30ae7df677719fe9b406bbb6e1bad330c2b940f6b246fe81ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.64 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

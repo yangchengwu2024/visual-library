@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2DcCAVw3gb4V62lC7eDGBfszficIRbK9XOOnOxzrPia5LK0I6Ps6taNiaQcg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-b2996165bff2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "57326bdda6682d612bf89db42b7d0c3b518724bbb0c9ca81a2b159493abc9241",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A black-and-white fashion portrait of a model in a polka-dot dress with oversized dramatic ruffles. The background combines vertical black-and-white stripes, creating a dynamic contrast. The hat is oversized, covered in matching polka dots. Minimalist lighting, high-fashion editorial style, ultra-detailed, 8K quality. --ar 9:16 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfeDNj3zDUVXA6CAKIAH2DcCAVw3gb4V62lC7eDGBfszficIRbK9XOOnOxzrPia5LK0I6Ps6taNiaQcg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 296,
+      "article_title": "Vol.49 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1733193054,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zABRJgCSJjITgZZG6TTYhQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0",
+    "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488593&idx=1&sn=6a68f073a5f54565a6505208cef3f073&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

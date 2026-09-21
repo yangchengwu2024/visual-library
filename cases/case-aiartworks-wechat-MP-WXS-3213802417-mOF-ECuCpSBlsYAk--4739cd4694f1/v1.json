@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63IQMsYjk5iaSgJaeFORH4Lq3gJqGwK6RSm6qme2fT267967icOEhsPG6Aw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-mOF-ECuCpSBlsYAk--4739cd4694f1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a9675c2d481a62c4d81d9774302e56fd33d294005cce434a177de663cf604f4f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A small colored house Christmas tree shape of an isometric pyramid, built on top of snow-covered mountains with a it, in an arctic landscape. Hyper-realistic rendering, architectural photography, in the style of an architecture magazineChristmas tree pyramid shape architectural pavilion has a pop art style, depicting a cabin made of colored steel plates on tall stilts, a unique architectural design. Romantic and funny, Picasso, Cute, abstract isolated tiny, cluster of high-end shelter houses in various modern and futuristic architectural styles, pastel colors, builded on top, warm light, surreal architecture, enormous scale, fog, creatively arranged to resemble a Christmas tree shape. In the middle of the snow, Hyperrealistic photo, london, beautiful juxtaposition, people walk, deer, emphasizing texture, minimal, advertisement cover magazine, lights and reflections, sunset sky, symmetry, sunset clean sky, harmony and festive mood --ar 9:16 --quality 2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63IQMsYjk5iaSgJaeFORH4Lq3gJqGwK6RSm6qme2fT267967icOEhsPG6Aw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q:prompt-0012",
+    "source_metadata": {
+      "article_index": 267,
+      "article_title": "Vol.74 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735698646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490772&idx=1&sn=a4162690c62b94cb24869ff53ff7b898&chksm=96313d502ce2470b007b26e9fa516d12b41c89e3cadee8b09f1278753f3dcee955b90752ce50#rd",
+    "title": "Vol.74 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490772&idx=1&sn=a4162690c62b94cb24869ff53ff7b898&chksm=96313d502ce2470b007b26e9fa516d12b41c89e3cadee8b09f1278753f3dcee955b90752ce50#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.74 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

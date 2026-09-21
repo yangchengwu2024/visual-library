@@ -19,6 +19,7 @@
 - 版本 JSON 是权威原始资料；同名 Markdown/索引由脚本生成，不手工同时维护多份。
 - 新资源先完整下载到自有库，再标为完整。缺图或缺提示词进入 pending，不覆盖原完整版本。
 - 通过文件哈希去重；明显差异保留版本；相似判断需看图读原文。来源参数未知时不擅自跨来源归并。
+- 用户明确选中的公众号图文来源可以使用受控 `remote_url` 图片资产；当前只允许 `https://mmbiz.qpic.cn`，不把外链伪装成本地哈希文件。画廊保留外链，MCP 读取时在内存中取图，不写入快照或持久缓存。
 - personal/ 与上游记录分离。使用 favorite/note 固定具体版本；个人修正不能在同步中被覆盖。
 - `metadata/cases/<case-id>/vN.json` 中的 `retrieval` 和 `effective_labels` 是按版本保存的自有检索标注；来源标题与来源标签继续保留用于回查，上游导入不得覆盖自有标注。
 - 备注按版本参与文本检索；收藏即使固定在旧版本也必须继续可查，并显示具体收藏版本。
@@ -37,4 +38,4 @@ Codex 直接沿用本仓库的规则、相对路径和案例版本，不按电�
 
 ## 已落实的多来源与复核规则
 
-来源策略见sources/registry.json。只有approved_auto进入定时；只检查用upstreams.py check，不调用import/push。指定案例用append，不推进整源游标。MeiGen只按用户选中收录。资料类型和review_status/effective_status分别解释，不能把旧status=complete当作逐图复核通过；查询先用模型/艺术家/材料等轻量字段，详情再读完整证据和prompt_variants。任何已知缺输入说明都应保留给用户。
+来源策略见sources/registry.json。只有approved_auto进入定时；只检查用upstreams.py check，不调用import/push。指定案例用append，不推进整源游标。MeiGen只按用户选中收录。资料类型和review_status/effective_status分别解释，不能把旧status=complete当作逐图复核通过；查询先用模型/艺术家/材料等轻量字段，详情再读完整证据和prompt_variants。任何已知缺输入说明都应保留给用户。AIArtWorks公众号归档是manual_only，`midjourney`通过模型字段筛选，不另造视觉分类。

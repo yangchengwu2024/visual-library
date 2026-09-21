@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTAyPecoEpkwt66sQocicQ07APqnX70jr2uvbuQNjCB04WHkCxWngmARsIMZ6Ep7YW7Jb3NCtupMg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~VwsiKJheRwuyCbtL8k3Gg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-VwsiKJheRwuyCbtL8-fef8b61dec53",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4889ab1bd36a30bed9c094e4d58f0f8ef49a40cfeb5578239a918287fa378aef",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "stylize": "50",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "a modern flyer for a coworking space, a group of 8 Saudi Arabian men and women’s , abstract simple lines, Picasso style, white background, lines, illustration, pastel gray and pastel blue tones, inspiring --ar 9:16 --style raw --stylize 50 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTAyPecoEpkwt66sQocicQ07APqnX70jr2uvbuQNjCB04WHkCxWngmARsIMZ6Ep7YW7Jb3NCtupMg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~VwsiKJheRwuyCbtL8k3Gg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~VwsiKJheRwuyCbtL8k3Gg:prompt-0010",
+    "source_metadata": {
+      "article_index": 266,
+      "article_title": "Vol.75 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735785029,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~VwsiKJheRwuyCbtL8k3Gg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490826&idx=1&sn=9e6c5f752926a955e371b2feb5b6a211&chksm=96f1bf7842535cee99d11bf9a4dbd3fc12df15339325f90347c3fc4e42c1d1956a3c3a03b88a#rd",
+    "title": "Vol.75 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490826&idx=1&sn=9e6c5f752926a955e371b2feb5b6a211&chksm=96f1bf7842535cee99d11bf9a4dbd3fc12df15339325f90347c3fc4e42c1d1956a3c3a03b88a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.75 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

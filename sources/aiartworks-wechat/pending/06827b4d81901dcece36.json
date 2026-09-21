@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WgyidFvuN-wghIFKz-4a8ca6ff0765",
+  "fingerprint": "2ececa39c66a51253aa3225f0178f57a0b267e0da416c48f55c213a19dd7c678",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2"
+  },
+  "prompt": "Realistic Painting, dramatic fantasy war scene, wide panoramic poster, battlefield engulfed in dark shadows with red hues,A woman with long golden hair, blue eyes and red lips is tall and has a resolute and resolute demeanor. She wears a wing-shaped headpiece, which is usually golden. The wing-shaped headpiece adds a touch of liveliness and sanctity. Wearing a short white evening dress decorated with metal patterns, the metal patterns are mostly gold, in geometric shapes or patterns, distributed on the chest and waist of the dress, highlighting the waistline. Wearing a red cloak that reached near the knees, it fluttered in the wind, adding a touch of heroic and dashing charm. Wearing a long golden wrist guard that extends from the elbow to the wrist, with simple line decorations on the wrist guard, it appears simple yet powerful. A golden belt is tied around the waist, with a round or square decoration in the middle of the belt. Wearing golden long boots, she held a sword inlaid with crystals in her hand. Both the hilt and the blade of the sword had exquisite patterns. The crystal was in the middle of the hilt, emitting a mysterious glow. pure beam of radiant light, illuminating everything around him as the central light source, light cutting through smoke, fire and soldiers, armies in black and red armor clashing against orange warriors, chaos and destruction all around, cinematic framing, rule of thirds, strong directional lighting from the blade,The full-body appearance showcases,the fierce battles on the battlefield --ar 1:2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA:prompt-0013",
+    "source_metadata": {
+      "article_index": 64,
+      "article_title": "Vol.267 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1759707019,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500647&idx=1&sn=c638d3fece9412167af065227814bba5&scene=58&subscene=0",
+    "title": "Vol.267 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500647&idx=1&sn=c638d3fece9412167af065227814bba5&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA:prompt-0013",
+  "status": "pending",
+  "title": "Vol.267 - Midjourney | 精选作品关键词提示 · 提示词 14"
+}

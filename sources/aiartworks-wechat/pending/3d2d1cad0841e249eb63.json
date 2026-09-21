@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-36905dbcff6b",
+  "fingerprint": "de9e14bfc529c79b32780d8f95654f233ee39ec7ae025131c12f432f8cd86197",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1（正方形）"
+  },
+  "prompt": "--ar 1:1（正方形）",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg:prompt-0001",
+    "source_metadata": {
+      "article_index": 87,
+      "article_title": "Midjourney 参数索引表 (2025.08)",
+      "association_confidence": "prompt_only",
+      "createTime": 1755214267,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=2&sn=37a450cda741a92f12681610a7f91337&chksm=96f05458e6ca5c6c1934d2b73059841c93c875228751a8e90b09dff45c89edb0c66e06c00e9e#rd",
+    "title": "Midjourney 参数索引表 (2025.08) · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=2&sn=37a450cda741a92f12681610a7f91337&chksm=96f05458e6ca5c6c1934d2b73059841c93c875228751a8e90b09dff45c89edb0c66e06c00e9e#rd"
+  },
+  "source_id": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg:prompt-0001",
+  "status": "pending",
+  "title": "Midjourney 参数索引表 (2025.08) · 提示词 2"
+}

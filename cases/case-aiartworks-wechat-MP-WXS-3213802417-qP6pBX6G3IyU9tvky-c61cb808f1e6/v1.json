@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJvzmML1iaTfXJQicXicPZjVouEoCwf7oCgtJPnYfpH8sDjOSAQu4PPJAkQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qP6pBX6G3IyU9tvky-c61cb808f1e6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c4a4dc2b9080bd8f01bb1563466d0ed76c3f2d5cef1e0076ae247d89445aadfd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Minimalist aesthetic photography, shallow depth of field, soft pastel lighting, matte textures, samurai with no helmet under cherry tree in rain and sun at the same Time , high detail, gentle atmosphere, Fujifilm Pro 400H style --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJvzmML1iaTfXJQicXicPZjVouEoCwf7oCgtJPnYfpH8sDjOSAQu4PPJAkQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg:prompt-0012",
+    "source_metadata": {
+      "article_index": 141,
+      "article_title": "Vol.188 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747794647,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd",
+    "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD0nm1JUH7TBlrjicAPtMNH3cicZn4iamjk7upd2mufMrGAPh4YYIbOontog/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tN3j-4G2sPv8-CmfT-a77f7ed2a2bf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bdc05a2484330a5bebd97e367a9e22d74f0a1919734545794f0f0fd1c0cb0946",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "50",
+    "personalize": "5n9fo48",
+    "style": "raw",
+    "stylize": "875",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "face, red, blondie, beautiful , minimalism --chaos 50 --ar 2:3 --style raw --personalize 5n9fo48 --stylize 875 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD0nm1JUH7TBlrjicAPtMNH3cicZn4iamjk7upd2mufMrGAPh4YYIbOontog/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA:prompt-0014",
+    "source_metadata": {
+      "article_index": 301,
+      "article_title": "Vol.45 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732797057,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0",
+    "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcz3YCrxtJ5SQOuqX8ZobguZSM26Y1QpPs1wlPk4xM7W08Z0BwLEXsZtUeCT5CQrm17ERlicgYSGRQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-546ac4319465",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5049a38048b765c0c6dd4d8700987784245423aff97c1b9968d921de08cf07ce",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "25",
+    "oref": "https://s.mj.run/Xuzk1lyuz3E",
+    "ow": "1000",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/iqElZkZzJAc"
+    ],
+    "stylize": "500"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/0aScunHiUIk https://s.mj.run/zGWcjCb98go Scene Time / Setting: night interceptor cockpit in low-orbit departure corridor Action: three pilots seated and flying the craft Tone: focused, mission-ready, cinematic Ultra-realistic vertical rear-angle shot inside a single-deck flight cabin. Foreground: **three identical flight seats in a straight row (left, centre, right), all at the same height and distance from the consoles**. Each seat’s five-point safety harness is clearly buckled across the occupant’s torso. Pilots: identical matte-white and forest-green composite armour; articulated black under-suit; **solid green helmets with seamless onyx-black visors** that reflect console lights; faint surface scratches and dust catch rim light. Consoles: basalt-textured panels with glowing **cyan-teal holographic glyphs**; secondary rows of muted amber screens; narrow red warning strips. Canopy: wide panoramic glass; outside, star-dense void with scattered metallic debris and faint blue nebulae. Lighting: cool moon-blue key from the starscape; contrasting warm amber instrument wash; subtle red accent LEDs. Soft interior haze yields gentle volumetric rays. Depth of field: razor focus on seat harness buckles and armour details; forward consoles fall to bloom for cinematic depth. Shot on ARRI Alexa 65, 40 mm anamorphic, T-1.8, natural chromatic aberration, high-dynamic-range texture fidelity. --chaos 25 --ar 9:16 --raw --sref https://s.mj.run/iqElZkZzJAc --oref https://s.mj.run/Xuzk1lyuz3E --ow 1000 --stylize 500",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcz3YCrxtJ5SQOuqX8ZobguZSM26Y1QpPs1wlPk4xM7W08Z0BwLEXsZtUeCT5CQrm17ERlicgYSGRQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA:prompt-0001",
+    "source_metadata": {
+      "article_index": 105,
+      "article_title": "Vol.224 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1750980628,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-Z~uUhJ0iSnBX0AoVdNAmA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498698&idx=1&sn=4395708eaea8f119525f0a2105b9b4da&chksm=96037625ec879320b4768a2bf9ded9d01ef780e5c4bf6ec7785453d3245997928947857c3ff0#rd",
+    "title": "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498698&idx=1&sn=4395708eaea8f119525f0a2105b9b4da&chksm=96037625ec879320b4768a2bf9ded9d01ef780e5c4bf6ec7785453d3245997928947857c3ff0#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

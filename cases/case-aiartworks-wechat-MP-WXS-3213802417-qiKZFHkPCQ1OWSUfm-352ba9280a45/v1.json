@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjw8dS4DJn5MmNUMSqeyw6x0QnNkXLjf6XT8GfHjJmJA16ASY5jVjicxWg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qiKZFHkPCQ1OWSUfm-352ba9280a45",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2a75e9098b81a3a65473c01258e6a4af25e0a4c42d7b98bf1dd28971fb9f7002",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "chaos": "25",
+    "style": "raw",
+    "stylize": "500",
+    "v": "6.1",
+    "weird": "700"
+  },
+  "previous_version": null,
+  "prompt": "Create hyper realistic photography of futuristic watch, transparent silicone material, watch is very ergonomic shape following the shape of hand and wrapping wrist and one finger, display is bend and made out of OLED, super sharp, ultra detailed, close camera detail, white background, uhd --chaos 25 --ar 4:3 --style raw --stylize 500 --weird 700 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcaZTsJmWTUVzP8Yz0IAPjw8dS4DJn5MmNUMSqeyw6x0QnNkXLjf6XT8GfHjJmJA16ASY5jVjicxWg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA:prompt-0008",
+    "source_metadata": {
+      "article_index": 315,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.32",
+      "association_confidence": "high",
+      "createTime": 1731550840,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qiKZFHkPCQ1OWSUfmxG3fA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486969&idx=1&sn=e56b7c0f0d34cd67b93cbb5415938d1a&chksm=9684308ee8ee227c874a13b49014ffb67d5a714890172cb3b00aa2637e58cb936aecd1e41aeb#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.32 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486969&idx=1&sn=e56b7c0f0d34cd67b93cbb5415938d1a&chksm=9684308ee8ee227c874a13b49014ffb67d5a714890172cb3b00aa2637e58cb936aecd1e41aeb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.32 · 提示词 9",
+  "version": "v1"
+}

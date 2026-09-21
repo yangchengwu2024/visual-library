@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vicYrVEHpomPsxwTo2HpJKdap9vZv8fcOicicOE78xR4icUJnmIMYDTPC5Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-s-8l3GOzPcOcx5Nxz-bdd84b5b3d8f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b20e669351486d6ade837d00c381f6e16ba1a09217873f67bf0e96585de637f2",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Q version cute little girl 3D IP image A little girl wearing a denim back pants, with long brown hair, beautiful hair, naturally standing, positive full body map, side full body map, back of the back of the back, three views Bubble Mate style, clean and simple design, IP image, high-level natural color matching, bright and harmonious, cute and colorful The whole body, the three views, the front map of the girl, the girl's side map, the girl back of the girl Best lighting, 8K, best quality,-niji5, --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vicYrVEHpomPsxwTo2HpJKdap9vZv8fcOicicOE78xR4icUJnmIMYDTPC5Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw:prompt-0005",
+    "source_metadata": {
+      "article_index": 272,
+      "article_title": "Vol.70 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735266618,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd",
+    "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdyT2icRYKCb5vNhvKeNu66SFVZCPb3XfgoH6yia9ZHGywx935zj2I1gqwib9xUy52ZKNqh8mhCPOUyg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Hj4g3xNG8hv0bZuDc-b63c124b39c9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0777f92485304f3fa2fdf658b6bcdb6a9bda2bc447782756ef2393d5dd4bc996",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Anthropomorphic cat, tiny rental house, cat lying in bed in loose pajamas, laptop glowing screen, job search website, scattered resumes, dim lighting, messy room, melancholy mood, realistic details, urban loneliness, introspective atmosphere, soft shadows, pastel color palette, panoramas, --ar 2:3 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdyT2icRYKCb5vNhvKeNu66SFVZCPb3XfgoH6yia9ZHGywx935zj2I1gqwib9xUy52ZKNqh8mhCPOUyg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA:prompt-0004",
+    "source_metadata": {
+      "article_index": 295,
+      "article_title": "Vol.50 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733279408,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Hj4g3xNG8hv0bZuDcFvgvA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488621&idx=1&sn=7d774a7a45345e508641f05e67c6fb55&scene=58&subscene=0",
+    "title": "Vol.50 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488621&idx=1&sn=7d774a7a45345e508641f05e67c6fb55&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.50 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

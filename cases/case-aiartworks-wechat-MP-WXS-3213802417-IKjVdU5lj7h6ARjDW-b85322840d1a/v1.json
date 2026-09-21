@@ -1,0 +1,86 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJfJM1E9hG1OYWcdVGH9FslyHrhsm4UzNqL97OjZ6GYtoexHPgEMaoWQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJOozzeqOGInhatQ5gm2epTylIPZWxr3ic9q6dzRgys9PNxCXOD3yHjEQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAyXQKdxtibRgcrrIF2RSQnT6jLwNzr5GTQk4oUrIz3jiaDD9LFkib15FCA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKjVdU5lj7h6ARjDW-b85322840d1a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6245a93df142d6169f02b63f91df8c8b95ff06c8015898b8edc44980fa491f1a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "oref": "https://s.mj.run/sTdLL56ygmQ",
+    "sref": [
+      "https://s.mj.run/dA7-FHkxZL8"
+    ],
+    "stylize": "0"
+  },
+  "previous_version": null,
+  "prompt": "watercolor painting folk art, a tribute to The Blair Witch Project. A black and white scene showing a man in the basement of an abandoned rotting cabin. The man stands in the corner, staring the wall. The room is dark. Red children's handprints cover the walls. Black, white and red are the only colors used. --ar 3:4 --sref https://s.mj.run/dA7-FHkxZL8 --oref https://s.mj.run/sTdLL56ygmQ --stylize 0",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJfJM1E9hG1OYWcdVGH9FslyHrhsm4UzNqL97OjZ6GYtoexHPgEMaoWQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJOozzeqOGInhatQ5gm2epTylIPZWxr3ic9q6dzRgys9PNxCXOD3yHjEQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAyXQKdxtibRgcrrIF2RSQnT6jLwNzr5GTQk4oUrIz3jiaDD9LFkib15FCA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA:prompt-0007",
+    "source_metadata": {
+      "article_index": 59,
+      "article_title": "Vol.272 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760657416,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 7,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+    "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJ3xU5JJIgKYPiarFnkByXvqaXqoYTKGOyWEib1ecDNouN3SAcakGczEhg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJn0JjXTF0ickBJ6Z3ohz9rD5818edibpuVibC5A1H9dp5OPS97sJX1GIIg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qP6pBX6G3IyU9tvky-ff6cf79b400f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "71e9dcb1702e8d12e11662c46251ab5db98ad18bef21c3ce95920ce2401cbde9",
+  "model": "Midjourney",
+  "parameters": {
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "realistic clipart of octopus with fine details sticker style --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJ3xU5JJIgKYPiarFnkByXvqaXqoYTKGOyWEib1ecDNouN3SAcakGczEhg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJn0JjXTF0ickBJ6Z3ohz9rD5818edibpuVibC5A1H9dp5OPS97sJX1GIIg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg:prompt-0019",
+    "source_metadata": {
+      "article_index": 141,
+      "article_title": "Vol.188 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747794647,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd",
+    "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

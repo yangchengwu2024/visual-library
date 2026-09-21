@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkjyLWIT9NRpb933XBV9LPvsG0OlicsRsnyiapcyU0ibtRVtLUQiamWZ8XILN68gOHlZ7aSeIspWB7QA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ItPxqAogVU5oZd3Ve-550085c3f9c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "17f40d4044546c2920fddb98ecb1bb6f92ae6a45f8085a8e3fb42262e1503513",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "profile": "c7yk8ov",
+    "stylize": "300",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A poster 強力で攻撃的な軟骨 - Full-body studio fashion portrait of a beautiful expressive female model wearing an eclectic, layered outfit with a conceptual streetwear twist. The model is wearing A collegiate-style burgundy and black scarf with bold varsity lettering is draped around the neck. The upper body features a relaxed plaid blazer layered over a light blue knit sweater with large white varsity text. The lower half includes wide-leg denim jeans with multiple tonal denim patch appliqués and a mini denim wrap skirt layered over them. The outfit is finished with chunky black leather biker boots. The model stands against a clean, pale gray backdrop in neutral studio lighting, creating a clean, avant-garde editorial atmosphere. Text \"強力で攻撃的な軟骨\". Hip hop is detailed and slightly shadowed to enhance the dramatic effect, while the stereo blast gleams with sharp precision with traditional Japanese elements. White background --chaos 10 --ar 2:3 --profile c7yk8ov ux4iky8 gawhcxy bwyudmt --stylize 300 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkjyLWIT9NRpb933XBV9LPvsG0OlicsRsnyiapcyU0ibtRVtLUQiamWZ8XILN68gOHlZ7aSeIspWB7QA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A:prompt-0015",
+    "source_metadata": {
+      "article_index": 167,
+      "article_title": "Vol.164 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745289040,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ItPxqAogVU5oZd3Ve0Fb4A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496082&idx=1&sn=33915106cca69cfabd94bec85d4588e8&chksm=96bee588a29bfd2c819593b6760006b2d49ae7e8da2ecf34d4af281572b41deeff5d39c93803#rd",
+    "title": "Vol.164 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496082&idx=1&sn=33915106cca69cfabd94bec85d4588e8&chksm=96bee588a29bfd2c819593b6760006b2d49ae7e8da2ecf34d4af281572b41deeff5d39c93803#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.164 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

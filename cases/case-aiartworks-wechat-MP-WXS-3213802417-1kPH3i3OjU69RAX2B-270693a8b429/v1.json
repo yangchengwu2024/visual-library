@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdsiaTx9t0Gj4fkCmtsnAZ5MrfbfhXTn3jyo4icCrnbveuia1sQFsWzMv8rzY2P4wSndFIXadWBMicqSw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1kPH3i3OjU69RAX2B-270693a8b429",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "95fe781093be1a7ac887adbe4fac29d3f5f1c8e2d1ea375d980e429f75bed3a8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "800",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Macaron blue colored butterfly, futuristic realism style, transparent texture soft translucent glass, beautiful light,The wings emit beautiful light powder particles, sparkling Dancing in the starry sky,OC renderer,best quality, epicdetail --ar 9:16 --stylize 800 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdsiaTx9t0Gj4fkCmtsnAZ5MrfbfhXTn3jyo4icCrnbveuia1sQFsWzMv8rzY2P4wSndFIXadWBMicqSw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www:prompt-0010",
+    "source_metadata": {
+      "article_index": 238,
+      "article_title": "Vol.106 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1739327415,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1kPH3i3OjU69RAX2BR8www",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492972&idx=1&sn=fb2f7e7a64e5b51cb1d8cd9fd4b95b72&scene=58&subscene=0",
+    "title": "Vol.106 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492972&idx=1&sn=fb2f7e7a64e5b51cb1d8cd9fd4b95b72&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.106 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0UobpaV5y45ibkFFic6IAOibVoVMrZht0cwtKshnvXGoMDNicOqJ6JmQpfhH7Gqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1mazupHQHwezoh1U5-a1101c87314d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2750df544d7707e6934b69216834d9d469268efb9089432069db23222261fa1f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "commercial illustration, beautiful girl young girl, with red lipstick, blond hair, smiling, looking straight, standing in casual pose, dressed in white navy suit for walks, captain's cap on head, red shoes on feet, standing on deck, azure sea in background, seagulls in sky, bright morning light --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherVZuG4PNiaAmrQRJ0UobpaV5y45ibkFFic6IAOibVoVMrZht0cwtKshnvXGoMDNicOqJ6JmQpfhH7Gqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA:prompt-0004",
+    "source_metadata": {
+      "article_index": 146,
+      "article_title": "Vol.182 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747103455,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1mazupHQHwezoh1U58geSA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496834&idx=1&sn=4e7e2b584663e4acc43c59e8e741e9d7&chksm=965ac41df5d64c718f78d22356eb63c9924359720c8fd57630c08366c81900721aaa4a9728d3#rd",
+    "title": "Vol.182 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496834&idx=1&sn=4e7e2b584663e4acc43c59e8e741e9d7&chksm=965ac41df5d64c718f78d22356eb63c9924359720c8fd57630c08366c81900721aaa4a9728d3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.182 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL72bCKz40fh6n4r6fyUWY1XPxyjnibYc7oRIjabpD8sLtuoaX9JIoVyA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D-Te8P-6W5-ekYD2Q-64db0ed9d57e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9e3b3defb94114c6ba47db6d15b204505021ce99c1d0bd745cf2f4644558a84a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "cvlos9g",
+    "sref": [
+      "159641219",
+      "1347226928"
+    ],
+    "style": "raw",
+    "stylize": "800",
+    "sw": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "creative illustration The cute face cat,shaped in lines, tangled in Christmas lights, jumping out of a big gift box, climbing a beautifully decorated tree with a playful grin. --ar 3:4 --style raw --sref 159641219 1347226928 --profile cvlos9g --sw 500 --stylize 800 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL72bCKz40fh6n4r6fyUWY1XPxyjnibYc7oRIjabpD8sLtuoaX9JIoVyA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g:prompt-0008",
+    "source_metadata": {
+      "article_index": 257,
+      "article_title": "Vol.83 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1736564431,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0",
+    "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

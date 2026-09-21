@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBI5l2h3yAODhPFMPia0FaFRRmiaaibl6b6RWDDW2ogTFXNibVncKBncO5t6w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wdlqkkdLhjgxyb6Xk-f509cd9b78d1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e81b6d336db1347bcb601a16435fcc1ebec3619e036a8bb1348945ea3af779bb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "17:30",
+    "stylize": "700",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "photo of a stunning scene where a house with a woman standing in front , on a hill floats high above sky, creating a surreal and dreamlike landscape. The hill was lush with bright green grass and wild flowers. A bright, clear blue sky surrounds the hill, with the sun setting on the horizon, casting a golden glow over the sunset view. The perspective is from a higher hill, providing a extreme long shot vew of this magical setting. Rule of third canon eos 5d , 16mm lens , real photo --ar 17:30 --stylize 700 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBI5l2h3yAODhPFMPia0FaFRRmiaaibl6b6RWDDW2ogTFXNibVncKBncO5t6w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw:prompt-0009",
+    "source_metadata": {
+      "article_index": 299,
+      "article_title": "Vol.47 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732933816,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488389&idx=1&sn=73bb34260b03325f48959d89b67691a1&chksm=968323ec52bdb4900c0436a799174bef5eb65b24e93d7064ebc3a437e216f3f49cce2aef8af5#rd",
+    "title": "Vol.47 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488389&idx=1&sn=73bb34260b03325f48959d89b67691a1&chksm=968323ec52bdb4900c0436a799174bef5eb65b24e93d7064ebc3a437e216f3f49cce2aef8af5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.47 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheaickbCyr7SLztibcb8icXjRX4Un6iciarks2MI5nJW4RQtPoH1SWEHdNXnT3iaibyLfllGAj8pb4qb71AQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bmc1E-noJuOJIvZTg-7b9f331ade73",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c05ba9aa2b3ca9f51c0ba64fcdc00ccd035be2080d04d60669f528469b58567a",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "50",
+    "profile": "17qkmu2",
+    "quality": "2",
+    "sref": [
+      "https://s.mj.run/3-6gJ6temrQ",
+      "https://s.mj.run/b-lDZ3Onztk"
+    ],
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/zIxTpLZo8mM A black-and-white portrait of a woman with a torn section revealing vibrant blue sky with white clouds, surreal and artistic composition, dramatic lighting, abstract and dreamy cover, motivational , music , double exposition, indi rock , diffraction, Twilight Photography --chaos 50 --quality 2 --sref https://s.mj.run/3-6gJ6temrQ https://s.mj.run/b-lDZ3Onztk --profile 17qkmu2 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheaickbCyr7SLztibcb8icXjRX4Un6iciarks2MI5nJW4RQtPoH1SWEHdNXnT3iaibyLfllGAj8pb4qb71AQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA:prompt-0017",
+    "source_metadata": {
+      "article_index": 262,
+      "article_title": "Vol.78 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736130636,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bmc1E~noJuOJIvZTgx69BA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491058&idx=1&sn=f6499f66352649f7a8e48fde069ea67a&chksm=96d2bb0f5dc6b6ec73c7f08497627f6646aca9bdfa0bbfee9ba6dd3cc859cd82606c9c47ce2f#rd",
+    "title": "Vol.78 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491058&idx=1&sn=f6499f66352649f7a8e48fde069ea67a&chksm=96d2bb0f5dc6b6ec73c7f08497627f6646aca9bdfa0bbfee9ba6dd3cc859cd82606c9c47ce2f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.78 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

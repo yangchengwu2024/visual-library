@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvQckkjlSsVvz3JndmgLrOvfs6Pr2zNBMCv070pd0G4RHiaCmDEQfvCQA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ix4KPzY7Z3-v500nG-d16a270bfd78",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "40e3e183ac2dd27c3178422f32d4983942d6860a3044fdc5de0a15715d7080ad",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "quality": "2",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic 8k ultra detailed: A small, weathered fishing boat glides into the harbor, its wooden hull creaking as it navigates the calm waters. The boat is brimming with fish, their scales shimmering in the sunlight, while a large, reptilian creature--part humanoid, part lizard--sits at the helm. The fisherman, with scaly arms and sharp eyes, grins broadly, showing rows of pointed teeth as he steers the boat toward the dock. His muscular frame is covered in simple, tattered clothing, and his hands grip the oars with a practiced ease. The boat’s nets overflow with the day’s catch, while curious townsfolk gather at the docks to see the strange fisherman and his haul. In style of Dark Souls --ar 3:4 --quality 2 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvQckkjlSsVvz3JndmgLrOvfs6Pr2zNBMCv070pd0G4RHiaCmDEQfvCQA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg:prompt-0016",
+    "source_metadata": {
+      "article_index": 337,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.11",
+      "association_confidence": "high",
+      "createTime": 1729413891,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485467&idx=1&sn=0490720b3d3f5aaed4c93236abd82735&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.11 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485467&idx=1&sn=0490720b3d3f5aaed4c93236abd82735&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.11 · 提示词 17",
+  "version": "v1"
+}

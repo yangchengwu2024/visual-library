@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD05EcO5rH3OmDpQibDqaacmx3hpZ5xRGTUExv8uo7Gic1Pj7iaicicQyGseBA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tN3j-4G2sPv8-CmfT-d09147b4ed54",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f1ba4e3aa36a97076d1136cd44722b5c46468d0b407fc7d4d5b124b7d04cc8a9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "chaos": "70",
+    "stylize": "900",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Create a hyper-realistic 3D digital artwork suitable for wall art, featuring a minimalist abstract composition that resembles a human face in a happy expression. The piece should incorporate flowing shapes and forms with glossy, vibrant elements in black, gray, gold, and dark olive green. The background should be darker to enhance the contrast and intensity of the colors and features. Ensure the design evokes a sense of movement and energy, with swirling lines and folds that add depth and texture to the face, emphasizing the minimalist screaming expression. The overall composition should invite viewers to explore the intricate details of the abstract human face, making it a striking focal point for any space. --chaos 70 --ar 16:9 --stylize 900 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShduibz0Q9XUo3whXggaEGiaD05EcO5rH3OmDpQibDqaacmx3hpZ5xRGTUExv8uo7Gic1Pj7iaicicQyGseBA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA:prompt-0010",
+    "source_metadata": {
+      "article_index": 301,
+      "article_title": "Vol.45 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732797057,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tN3j~4G2sPv8-CmfTLb2VA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0",
+    "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488271&idx=1&sn=d67572c54d51a1a7a320aab36bbe6700&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.45 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

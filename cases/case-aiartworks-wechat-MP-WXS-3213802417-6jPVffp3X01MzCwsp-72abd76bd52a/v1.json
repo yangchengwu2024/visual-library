@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNbvntSibnKfqwBwqT7FPGCGUrKEiba8twIuBsa6IDsBEcq1WfK9icXwCHA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6jPVffp3X01MzCwsp-72abd76bd52a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6227d789725a83e6beef4490cdb55525497ee840d6b98d9b3faef5615fede60d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "\"A minimalist yet striking artwork featuring a vast sky with no writing, which is a painting with no words, like from a story book illustration but with text removed, we see an infinity shame of swirling blue and white clouds abstract cloud texture resembling strokes of paint, characters From the a fictional illustration appear small and are in a hot air balloon floating in the clouds, The blue friendly tones in the artwork create a natural, almost sky-like feel, with the figures seeming small and contemplative amidst the dynamic movement of the painted lines. calming artwork with no text. The piece conveys a balance between nature and the human presence, emphasizing both isolation and connection no text on screen, whilst focusing on the concpet of infinity, friendly warm tones.\" --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNbvntSibnKfqwBwqT7FPGCGUrKEiba8twIuBsa6IDsBEcq1WfK9icXwCHA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg:prompt-0012",
+    "source_metadata": {
+      "article_index": 82,
+      "article_title": "Vol.249 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756078218,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd",
+    "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

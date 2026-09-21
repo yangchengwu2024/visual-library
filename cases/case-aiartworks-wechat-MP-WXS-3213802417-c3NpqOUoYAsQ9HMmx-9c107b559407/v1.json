@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAGFVCPPqcY6KFrYPzTn9lAMXicvic3U5hB4hibbWmKOcSvhexRdFicSudhuLK6rcic1WaKIYr2qiczIk4VPSAf8smJehkO0fAricuqsU/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c3NpqOUoYAsQ9HMmx-9c107b559407",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fec0500b9b4222c3eb7aa802c615297cf44c8a7dd788dce4bf2c94e31c1ed32a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "8:11",
+    "profile": "3dhqh5u",
+    "stylize": "0",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "two stylized figures are central to a blue themed illustration. a white figure, facing away from the viewer, is positioned inside a bright, rectangular opening. a dark blue or black figure stands outside the opening, bending its upper body forward and clasping its hands behind its back. the background is a solid blue, with illumination from the doorway creating a bright area around the white figure's feet and a defined shadow from the darker figure on the ground. the art style is flat with soft shading. --ar 8:11 --profile 3dhqh5u --stylize 0 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAGFVCPPqcY6KFrYPzTn9lAMXicvic3U5hB4hibbWmKOcSvhexRdFicSudhuLK6rcic1WaKIYr2qiczIk4VPSAf8smJehkO0fAricuqsU/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 24,
+      "article_title": "Vol.309-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781652646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd",
+    "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 14",
+  "version": "v1"
+}

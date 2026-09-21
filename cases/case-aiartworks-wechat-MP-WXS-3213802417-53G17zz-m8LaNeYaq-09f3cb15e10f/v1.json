@@ -1,0 +1,78 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCtFwFqy8KibEc2c3WEhwRwy8WFS99svKtt8yIiaT2U3KicyDVI8Aozpv9Flg8Jw51Rv00qg6vUfHgyHLBNKiaoPnHgbE9h1k07rWk/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WChpGCkTHziaTl0C2EwuFAwdKZoiaS6BzIhVvU9cKFzH3BT77tDS1u4Hu7RlMY64YPrXk9DDIeU6ctfy41qekeJfPZGFLiaUUQ3KY/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-53G17zz-m8LaNeYaq-09f3cb15e10f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4f2c76c2ac4041ac96c2456efa5f0890db702d4afd07a28afce249e4edcb177e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "1y8ayhk",
+    "sref": [
+      "3253621816",
+      "1490732816"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "everything everywhere all at once --ar 3:4 --sref 3253621816 1490732816 --profile 1y8ayhk --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCtFwFqy8KibEc2c3WEhwRwy8WFS99svKtt8yIiaT2U3KicyDVI8Aozpv9Flg8Jw51Rv00qg6vUfHgyHLBNKiaoPnHgbE9h1k07rWk/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WChpGCkTHziaTl0C2EwuFAwdKZoiaS6BzIhVvU9cKFzH3BT77tDS1u4Hu7RlMY64YPrXk9DDIeU6ctfy41qekeJfPZGFLiaUUQ3KY/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA:prompt-0011",
+    "source_metadata": {
+      "article_index": 25,
+      "article_title": "Vol.308-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781307046,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_53G17zz-m8LaNeYaq37lIA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507947&idx=1&sn=76fc63322cc1a6cbdcd9733edbab0651&chksm=9617e3570867994c845d44efbbc0b9e66064c23c8c29944b7b4472a32ff18f415ddece64518a#rd",
+    "title": "Vol.308-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507947&idx=1&sn=76fc63322cc1a6cbdcd9733edbab0651&chksm=9617e3570867994c845d44efbbc0b9e66064c23c8c29944b7b4472a32ff18f415ddece64518a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.308-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

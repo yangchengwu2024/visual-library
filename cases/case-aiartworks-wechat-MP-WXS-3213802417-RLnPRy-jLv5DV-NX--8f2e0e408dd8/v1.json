@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVTnKuSCD4BYnknKPTJuT3EsOdtlYvGZVOnT3kfZKEECIsPicXiam9C6iaA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAyXQKdxtibRgcrrIF2RSQnT6jLwNzr5GTQk4oUrIz3jiaDD9LFkib15FCA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RLnPRy-jLv5DV-NX--8f2e0e408dd8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3f6d793049da850954475b6ae8d422d6411a6e3be7b27e30235332311f2503a7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "32",
+    "quality": "2",
+    "stylize": "678",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Prompt A hyper-realistic scene of a tiny man dressed as a highrise window cleaner, complete with a safety harness, helmet, and ropes. He is standing on the surface of a giant human eye, carefully cleaning the eyeball with a squeegee. The eye is highly detailed with reflections, veins, and moisture, and the tiny man is leaving a clean streak across the cornea. The background is softly blurred, drawing focus to the surreal contrast between the massive human eye and the miniature cleaner. The lighting is natural and slightly dramatic, emphasizing the glossiness of the eye and the texture of the cleaning gear. --chaos 32 --ar 9:16 --quality 2 --stylize 678 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVTnKuSCD4BYnknKPTJuT3EsOdtlYvGZVOnT3kfZKEECIsPicXiam9C6iaA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAyXQKdxtibRgcrrIF2RSQnT6jLwNzr5GTQk4oUrIz3jiaDD9LFkib15FCA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 123,
+      "article_title": "Vol.205 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749345399,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd",
+    "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

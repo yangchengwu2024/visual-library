@@ -1,0 +1,93 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WC8x4iaQHLf3hOaprIvvQnFXJgVSlqREeJmFuYjAwpXHKVxe55cZVlXJgMsB2abCZaluEg6jxokafibMLIfbVfiaUbvyfo4GrrSlc/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDLibVgGtNLO80EHDk340e4CQFYSicvLiao13nJiaiacwrbswnKVJibxR3kIlYgEQ7LZHiaTJRKI5aa1jtEr00gguKKWbGVIFbRia2J5lU/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCnKj1mb1nuoC7UObicenEcFtrFx4TygsWVpfeDt2mvEwwtXxGdj4qiaW7mct1IJFmiaXpicASapqnzorE914IaM6zyLpVnPOymXOc/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDGaOFPoPoia7icYO4MEAbdicnJ6Rnyh0lNcQG4DLJ4Wqf7gdzHk1kicQlOH65HjbnCEMOHc6Cq4UBFNDQVQ1aIyfAW2b3ldHk3pHM/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIQ8TGJu6mhbbPICV-3a670e261b24",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5eda8085788159c9a1573a531a3d90504fd0e450faab3986c0a66f60565a7005",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ngon9f2",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Anna Sasaki meeting Marnie beneath a blooming tree beside the marsh, petals floating in the breeze, old blue mansion behind them, golden-hour light, nostalgic silence, expressive impasto oil painting, thick colorful brushstrokes. When Marnie Was There --ar 9:16 --profile ngon9f2 9znhytp cf72jt7 u43unab hle436t eat1vlv y1opcry --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WC8x4iaQHLf3hOaprIvvQnFXJgVSlqREeJmFuYjAwpXHKVxe55cZVlXJgMsB2abCZaluEg6jxokafibMLIfbVfiaUbvyfo4GrrSlc/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDLibVgGtNLO80EHDk340e4CQFYSicvLiao13nJiaiacwrbswnKVJibxR3kIlYgEQ7LZHiaTJRKI5aa1jtEr00gguKKWbGVIFbRia2J5lU/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCnKj1mb1nuoC7UObicenEcFtrFx4TygsWVpfeDt2mvEwwtXxGdj4qiaW7mct1IJFmiaXpicASapqnzorE914IaM6zyLpVnPOymXOc/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDGaOFPoPoia7icYO4MEAbdicnJ6Rnyh0lNcQG4DLJ4Wqf7gdzHk1kicQlOH65HjbnCEMOHc6Cq4UBFNDQVQ1aIyfAW2b3ldHk3pHM/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 9,
+      "article_title": "Vol.323-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1786145451,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIQ8TGJu6mhbbPICVTWieQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 3
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0",
+    "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510814&idx=1&sn=c4551e0315c115f9e612b9f994c813c5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.323-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

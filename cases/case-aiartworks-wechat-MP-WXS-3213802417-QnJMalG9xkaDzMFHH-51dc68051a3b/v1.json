@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdgPq8Auh57ZCiapkuMYvYqCsXCzl3NlJSNf2PopJ7kDiavFcgAAo42toTPTbuib3BhxSu0mOy4n95gA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QnJMalG9xkaDzMFHH-51dc68051a3b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fcdbd88487682708cf2aa8bf21ed180a172a2fe06c130408c8dd4bbcc2bcf8b5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ctupmrs",
+    "stylize": "450",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "From a first-person perspective, hands holding the handlebars as the motorcycle navigates a winding road that cuts through a forest of colossal, luminous mushrooms. The mushrooms emit a soft, blue-green glow, casting ethereal shadows across the path. The road is paved with smooth, polished stones that glisten like wet glass, and the air is thick with the scent of damp earth and moss. Fireflies dance around, their tiny lights adding to the surreal, dreamlike ambiance of the forest. --ar 9:16 --profile ctupmrs --stylize 450 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdgPq8Auh57ZCiapkuMYvYqCsXCzl3NlJSNf2PopJ7kDiavFcgAAo42toTPTbuib3BhxSu0mOy4n95gA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw:prompt-0004",
+    "source_metadata": {
+      "article_index": 142,
+      "article_title": "Vol.187 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747708254,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QnJMalG9xkaDzMFHHAGWyw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497058&idx=1&sn=d708dd6d76f64e6b5ab88a3a3cedbffd&chksm=96b28373e8858f5bffff694c6145e1c08c66fe7513736819475fcc7722757e24ef8172767ec0#rd",
+    "title": "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497058&idx=1&sn=d708dd6d76f64e6b5ab88a3a3cedbffd&chksm=96b28373e8858f5bffff694c6145e1c08c66fe7513736819475fcc7722757e24ef8172767ec0#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.187 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

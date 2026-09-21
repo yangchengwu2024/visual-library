@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5TwMiaMOaAouqbKWe5jOWe90lMdHj01hRnREWk5KyxCanwrduypS9tbBVQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TrfXLE79UbaBLIKZC-c14bf13c8e6b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b02459fce480320a74a3a1f2acb1c5673f39ba87a3abf04f31fdd2d0b430ed26",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "50",
+    "cref": "https://s.mj.run/Biy4LD7kV7k",
+    "sref": [
+      "https://s.mj.run/LgQZF2ebT2Y"
+    ],
+    "style": "raw",
+    "stylize": "900",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "minimalism horizontal art of the ebb and flow of the ocean, done with tick to thin lines, majestic optical art --chaos 50 --ar 9:16 --style raw --sref https://s.mj.run/LgQZF2ebT2Y --cref https://s.mj.run/Biy4LD7kV7k --stylize 900 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5TwMiaMOaAouqbKWe5jOWe90lMdHj01hRnREWk5KyxCanwrduypS9tbBVQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA:prompt-0015",
+    "source_metadata": {
+      "article_index": 241,
+      "article_title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1739068226,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492808&idx=1&sn=cbeab0119fab832ceb1cccf64cac2a1b&chksm=96a38f018537ef7d3c57e36d3b5419d66c131f72b20605791fb78dd2069d58f779672254fd90#rd",
+    "title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492808&idx=1&sn=cbeab0119fab832ceb1cccf64cac2a1b&chksm=96a38f018537ef7d3c57e36d3b5419d66c131f72b20605791fb78dd2069d58f779672254fd90#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 16",
+  "version": "v1"
+}

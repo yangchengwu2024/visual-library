@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdrCoicoFGCicYaWq3bgcZPaGWl3Zic6XicE45zVOutRVLhQyKfiaWkjUDhsA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N30sGqNyJxLHBoa5j-7162d0b5fe51",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f027ecbef159b304ecae1158566941943683de2b313beca746b43bbf57ac6d10",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic, hyper-realistic, of an albino hybrid child, mixes human and bee features with bee wings, in various poses and expressions, 7 years old, with pale blue-gray eyes and white hair, surreal fantasy hairstyle, Andrea Brocca style dresses, fine velvet, silk, with bold patterns and cobalt color. The albino hybrid child wears a very large, hyper-realistic cobalt blue, orange, pink and pistachio green porcelain bee on her back. Photo from above, symmetry, pastel green with no background, microphotography, hyperdetailed on a calm lake. The bright moon in the background. A peaceful, dreamy and magical atmosphere like Alice in Wonderland. Everything is arranged in a sweeping panorama in a harmonious composition. Please shoot from a slight bird's eye view so that all details are clearly visible without being too close together. surrealistic, dreamy mood, use of Kodak gold film for color prints, Andrea Brocca style fashion, physical world, emotional connection, all details visible, hyperrealistic, high fashion, ambient occlusion, global lighting, hyperdetailed, --ar 3:4 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdrCoicoFGCicYaWq3bgcZPaGWl3Zic6XicE45zVOutRVLhQyKfiaWkjUDhsA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw:prompt-0013",
+    "source_metadata": {
+      "article_index": 116,
+      "article_title": "Vol.212 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749952875,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0",
+    "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

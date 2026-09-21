@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdibTkicTMm1pOkUE6B9ibjFexK6rKSaH6tJO99JYV0WeWHf8kqLBQcgc7ibG6JsmB4SeCCmLL5OBWQng/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yEd15Rg0rew3DyGfusVH5Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdibTkicTMm1pOkUE6B9ibjFexkZyu158SnZInaEtmmbHzsyu3MsXfDEyEcfiaRtz6bgGtELib8olB3ujg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yEd15Rg0rew3DyGfusVH5Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yEd15Rg0rew3DyGfu-87355ee46ba8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "16d2d1aceea3464da3d06a4a50efad2ff0db3a1eddbcc916d5adc5233a1b2956",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A glamorous illustration of an elegant woman wearing a diamond choker necklace and a black feathered dress, in the style of Glen Luchford, with a 1950s style, jewelry featuring sapphire stones, soft pastel colors, and a retro glamour aesthetic. --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdibTkicTMm1pOkUE6B9ibjFexK6rKSaH6tJO99JYV0WeWHf8kqLBQcgc7ibG6JsmB4SeCCmLL5OBWQng/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yEd15Rg0rew3DyGfusVH5Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdibTkicTMm1pOkUE6B9ibjFexkZyu158SnZInaEtmmbHzsyu3MsXfDEyEcfiaRtz6bgGtELib8olB3ujg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yEd15Rg0rew3DyGfusVH5Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yEd15Rg0rew3DyGfusVH5Q:prompt-0007",
+    "source_metadata": {
+      "article_index": 219,
+      "article_title": "Vol.122 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740971580,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yEd15Rg0rew3DyGfusVH5Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494029&idx=1&sn=6aeeffb950c639da9ec753fa23674471&chksm=96e6435671d791e963185080ba5db509c8444201fb24b98e56b9be0a5ca162aaf53cf193688c#rd",
+    "title": "Vol.122 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494029&idx=1&sn=6aeeffb950c639da9ec753fa23674471&chksm=96e6435671d791e963185080ba5db509c8444201fb24b98e56b9be0a5ca162aaf53cf193688c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.122 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

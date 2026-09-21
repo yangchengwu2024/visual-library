@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDUtpUB9nTmgwOHDg3fiaNE4wAFPvWNPIEc1ObFluicHFDavC1NWibsAOdA/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JNtmQJBgZ-3EcCs-q-1fc5b260e3a8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b86d87323bd3da235fe6dd4f5624b332eca73b157ebfe111d77ce020317d6683",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "bs": "1",
+    "motion": "high",
+    "raw": true,
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "This Hollywood-style photo shows a beautiful Korean woman with long hair, wearing a blue and yellow rugby jersey. she is holding a white rugby ball in her arm. Her hair is straight, smooth, and glossy, and she looks makeup-free against a natural skin tone. The lighting is soft, and the background is neutral. The model's hairstyle features a high-layered cut that highlights the layers of her hair. The layers begin just below the chin and extend to just below the chest, creating a natural, layered look. The ends of her hair are curled inward. --ar 51:91 --bs 1 --motion high --raw --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShc93VR5VlpcpcPJwQscutDDUtpUB9nTmgwOHDg3fiaNE4wAFPvWNPIEc1ObFluicHFDavC1NWibsAOdA/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g:prompt-0009",
+    "source_metadata": {
+      "article_index": 70,
+      "article_title": "Vol.261 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758497449,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JNtmQJBgZ~3EcCs~q3N75g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500396&idx=1&sn=c450f5e5eab9796429af520a8087eb42&chksm=963318b04b03a71bace8f6dcabd2fffc7e7f8e69930c73f71c2116111e021882b11d4a85a18c#rd",
+    "title": "Vol.261 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500396&idx=1&sn=c450f5e5eab9796429af520a8087eb42&chksm=963318b04b03a71bace8f6dcabd2fffc7e7f8e69930c73f71c2116111e021882b11d4a85a18c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.261 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

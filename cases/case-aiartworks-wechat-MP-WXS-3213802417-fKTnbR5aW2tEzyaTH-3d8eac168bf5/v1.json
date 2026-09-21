@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8brKTLWkMwrY8pybMTg1Oefxr1oXJHibSAhhEJxL7RudOQfc33NJM0VA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fKTnbR5aW2tEzyaTH-3d8eac168bf5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5cb97a44b716589d241fdc47758191022b755777332ea440cc16d052373b863c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "5",
+    "profile": "iunuitm",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A thin lithe gaunt young man dressed in a white ragged jacket and black pants, a starship pilot . Clean shaven. Riding a red and black swoopbike air speeder through a Star Wars city suburb trying to look disinterested --chaos 5 --ar 9:16 --profile iunuitm --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8brKTLWkMwrY8pybMTg1Oefxr1oXJHibSAhhEJxL7RudOQfc33NJM0VA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw:prompt-0008",
+    "source_metadata": {
+      "article_index": 147,
+      "article_title": "Vol.181 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747017012,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fKTnbR5aW2tEzyaTH239Lw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496793&idx=1&sn=32d5c37a0a8b1299ddae9beef5fbff82&chksm=96370cfe29ec46a9fb9b39934313e17998447dcc2fefdd21f4de9c0bb55d5730b203cdea641b#rd",
+    "title": "Vol.181 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496793&idx=1&sn=32d5c37a0a8b1299ddae9beef5fbff82&chksm=96370cfe29ec46a9fb9b39934313e17998447dcc2fefdd21f4de9c0bb55d5730b203cdea641b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.181 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

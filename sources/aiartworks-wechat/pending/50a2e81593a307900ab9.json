@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6jPVffp3X01MzCwsp-3248199d550a",
+  "fingerprint": "61f6a88042292203d54d8032320c95e9af6035f33064ac5ae492925f1a4c9282",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "prompt": "Celestial angelic wings made of white light and mist, glowing aura spreading, surreal abstract artwork, trending fantasy style, --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg:prompt-0013",
+    "source_metadata": {
+      "article_index": 82,
+      "article_title": "Vol.249 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1756078218,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd",
+    "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd"
+  },
+  "source_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg:prompt-0013",
+  "status": "pending",
+  "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 14"
+}

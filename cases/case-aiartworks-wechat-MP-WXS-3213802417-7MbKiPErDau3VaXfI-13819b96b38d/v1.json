@@ -1,0 +1,153 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIciaGr9wv4B8rticc1x2wcnhNoe2oNNdNNJEWRtD8cMoU6o2qsYKS6aGbQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcbsia3mKn4ur6EJ3KuEjbA8DwcAg3PKFpa9KegAxLVUdmicKvicuQu0nwg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcbenDtD4yMKpWgA97PDxGXNk8icnV4P8lrrbJEJm2vQQawUIVv8kWDvQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcmHJGyvkh69mdXXfZUKbia6gMJEog3Z6ja0nslGQDKUHPBz0115E87Rw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcqfOcDJIL6VOzakAWGkWTu9SBefrXRaSgtT0h2B1ASOL2wYcyAMxiciaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-4"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcmbxa5a1z7U9T8cC7EEDnCQ2xIf9TrAZc2FiautSwH2rwiasA1swVTiaug/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-5"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcy4WVCo83wicdricnrr7snn0wpYCzFa8l4hq4ZYK0VYibicK2OibHlT9YFCA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-6"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIclia6HhuUaR8nR7V1qRJWHl66ZW8Kia7ibdj9qGOpXEkibeZ6Ltk5ia3Xp1A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-7"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShewm3pOsLqIU1jTrnyiaWHcJeO1iblRzgd6rgkb09RMHTv3QAKzVJvdh1VDdoLqvUdic7qzmiaqPbOqAw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-8"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfz3Wtia6a7HwOLvXcyTTBjVqo7Wr1wQDPH1CJeydiagd9vD1htSNThSXU9bp3Ticq9GHRW0mhyHJUHg/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-9"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-7MbKiPErDau3VaXfI-13819b96b38d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3657d102868b626b544018afc87d19dd1f981c6f51c5cf76b8e07939ece7a89e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true,
+    "stylize": "0"
+  },
+  "previous_version": null,
+  "prompt": "cinematic photo Create a hyper-realistic photograph son embracing mother for the very last time she passed away from. complications of multiple sclerosis, she is shown asa translucent spirit, son s sharp and in focus mom is surreal and spiritual flowing in the the sky, transcendence of a mother and 35 year old son in a touching embrace. The mother is silhouette of light depicted as a flowing, ethereal figure made of light, with her form shimmering and translucent, silhouetted against a detailed, natural sky. The son's figure is solid and realistic, embracing his mother from above with a gentle, loving expressioncosmic space or sacred landscape. Their hearts radiate golden light that merges into one glowing flame between them. Around them ancient symbols of sacred 0 --ar 3:4 --raw --stylize 0",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIciaGr9wv4B8rticc1x2wcnhNoe2oNNdNNJEWRtD8cMoU6o2qsYKS6aGbQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcbsia3mKn4ur6EJ3KuEjbA8DwcAg3PKFpa9KegAxLVUdmicKvicuQu0nwg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcbenDtD4yMKpWgA97PDxGXNk8icnV4P8lrrbJEJm2vQQawUIVv8kWDvQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcmHJGyvkh69mdXXfZUKbia6gMJEog3Z6ja0nslGQDKUHPBz0115E87Rw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcqfOcDJIL6VOzakAWGkWTu9SBefrXRaSgtT0h2B1ASOL2wYcyAMxiciaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-4"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcmbxa5a1z7U9T8cC7EEDnCQ2xIf9TrAZc2FiautSwH2rwiasA1swVTiaug/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-5"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcy4WVCo83wicdricnrr7snn0wpYCzFa8l4hq4ZYK0VYibicK2OibHlT9YFCA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-6"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIclia6HhuUaR8nR7V1qRJWHl66ZW8Kia7ibdj9qGOpXEkibeZ6Ltk5ia3Xp1A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-7"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShewm3pOsLqIU1jTrnyiaWHcJeO1iblRzgd6rgkb09RMHTv3QAKzVJvdh1VDdoLqvUdic7qzmiaqPbOqAw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-8"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfz3Wtia6a7HwOLvXcyTTBjVqo7Wr1wQDPH1CJeydiagd9vD1htSNThSXU9bp3Ticq9GHRW0mhyHJUHg/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ#image-9"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ:prompt-0026",
+    "source_metadata": {
+      "article_index": 89,
+      "article_title": "Vol.243 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1754871578,
+      "image_storage": "external_url",
+      "image_url_count": 10,
+      "prompt_index": 26,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_7MbKiPErDau3VaXfIbEckQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 10
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499522&idx=1&sn=2d86073dd89e6580c325836061312c42&chksm=967ec67ab9e4f89d5de63e464312b39863a111aa694d3aeb08af7212449faa9664a345be447c#rd",
+    "title": "Vol.243 - Midjourney | 精选作品关键词提示 · 提示词 27",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499522&idx=1&sn=2d86073dd89e6580c325836061312c42&chksm=967ec67ab9e4f89d5de63e464312b39863a111aa694d3aeb08af7212449faa9664a345be447c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.243 - Midjourney | 精选作品关键词提示 · 提示词 27",
+  "version": "v1"
+}

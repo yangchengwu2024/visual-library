@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5Tw7t4WPZhVwvacsSy5C1LiaBXcQ2Eh4D1SjNmb7gpic4fncFCFJaq23ENw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2XIb5gw8FW2Gr9V-x-52ad2dbf065b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f364790349cfb5076a2cdc4315107544bcd7c8161859d2e1b1ce9e4c8bcb31f9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "cref": "https://s.mj.run/bBJDm8_yPNQ",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "kraken that lives at the bottom of the deep sea. --ar 9:16 --cref https://s.mj.run/bBJDm8_yPNQ --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5Tw7t4WPZhVwvacsSy5C1LiaBXcQ2Eh4D1SjNmb7gpic4fncFCFJaq23ENw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A:prompt-0015",
+    "source_metadata": {
+      "article_index": 240,
+      "article_title": "Vol.104 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739154648,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd",
+    "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

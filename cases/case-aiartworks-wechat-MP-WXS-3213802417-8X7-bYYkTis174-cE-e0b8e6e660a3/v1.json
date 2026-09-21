@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMcqPp1n3hHlg1HLZHO9pJwGWxhLufkqnUUMjFHeicYvc6Eiav5VmQWl8g/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8X7-bYYkTis174-cE-e0b8e6e660a3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3246dd44a0ca7cef1cd5148ba601ad05c5958e860715740226cb57333f4e0168",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "profile": "5j1kc42",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "wool and silk, 50% of the costume is in Chinese traditional pattern, ultra-realistic reflecting and illuminant elements shining on the costume and headwear, overall image is bright and sufficient lighting, front lighting --chaos 5 --ar 3:4 --raw --profile 5j1kc42 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMcqPp1n3hHlg1HLZHO9pJwGWxhLufkqnUUMjFHeicYvc6Eiav5VmQWl8g/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA:prompt-0011",
+    "source_metadata": {
+      "article_index": 162,
+      "article_title": "周末特别版 | 东方主题 | 精选作品与提示",
+      "association_confidence": "review",
+      "createTime": 1745721056,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8X7-bYYkTis174-cEU2fuA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496244&idx=1&sn=4fd213f57c59c3e09b6212a90d5747d6&chksm=9650fbdadb9bf3ba568b80f13458b543b7355024c9440e3f30b249fef2c98442cb9c49bab06b#rd",
+    "title": "周末特别版 | 东方主题 | 精选作品与提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496244&idx=1&sn=4fd213f57c59c3e09b6212a90d5747d6&chksm=9650fbdadb9bf3ba568b80f13458b543b7355024c9440e3f30b249fef2c98442cb9c49bab06b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 东方主题 | 精选作品与提示 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531WHhezpemcwQlYajDtQyibibYeMHVLyUehAcz6Ijqsz2TWr4xwljHSBib3Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc6MialmBSu64swnBcLs2tsuoGOKuhorSDD7GYXXc9brpm4ZY58Wl5gQYZI84r8l1C64dsycZfibMjQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DHurP5GAURdLMGIFg-9f01ea997a32",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ebc07b5d16d902da290a575a769de8919aa26e6e86b7621bc954739820251c80",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A dark and nightmarish steampunk world inspired by Tim Burton, Zdzisław Beksiński, and H.R. Giger. Towering twisted machinery and gothic architecture merge with bizarre organic structures, creating an unsettling atmosphere. Dorothy, with black pigtails, a sky blue dress, white and blue striped stockings, and black shoes, stands in a dynamic, defiant pose. In one hand, she holds an old-fashioned, menacing shotgun raised high as if ready to fire, and in the other, she clutches a worn, battered bunny doll. Her stance is slightly crouched, ready to spring into action, with her dress and hair billowing dramatically as if caught by an ominous wind. The background teems with menacing mechanical creatures, flickering gaslights, and swirling shadows, adding to the sense of chaotic energy and surreal menace. --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcveMPoQOkBgaNibfPJZ531WHhezpemcwQlYajDtQyibibYeMHVLyUehAcz6Ijqsz2TWr4xwljHSBib3Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc6MialmBSu64swnBcLs2tsuoGOKuhorSDD7GYXXc9brpm4ZY58Wl5gQYZI84r8l1C64dsycZfibMjQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 131,
+      "article_title": "Vol.197 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748657273,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DHurP5GAURdLMGIFgFvviQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0",
+    "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497469&idx=1&sn=64575a5b98fb9da28401c1ceb1df7faf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.197 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

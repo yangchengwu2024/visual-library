@@ -1,0 +1,91 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgE7F1UFnVcJd5OKguj6egibB1vwDPuj6KLQMHp8lYlhicOHcMo4QYoy6icw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz7gXibZapvzNicA7Wu1TYRDhcBQiaX9gAsCn0auOa4vibjfH7HGibYn8IT6Hg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz76uwnFLVKcRp8T6hOz5O1BF08ZuibRDdHicxo6vrv9EpNJ2MpVYQS6ibtw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz7LRA3UOwO3JGhvbCqUCYn7BvcNIZsIwmThWszTBGialXzlVOd6icxTh0w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E8Jq1YLWZDovkNWDB-fcf8526fa86c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0ee7b3f93b914e30a3e5724288b11f963901623280c9e00b46a2dd9b1481f232",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Close-up view: A mortise and tenon structure component made of translucent white jade is attached to the eaves of an ancient Chinese building, highlighting its exquisite craftsmanship. The C4D rendering captures the component's translucent, high-end, stylish, minimalist, and clean aesthetic. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXicQszM5MGuCwg39h37TgE7F1UFnVcJd5OKguj6egibB1vwDPuj6KLQMHp8lYlhicOHcMo4QYoy6icw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz7gXibZapvzNicA7Wu1TYRDhcBQiaX9gAsCn0auOa4vibjfH7HGibYn8IT6Hg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz76uwnFLVKcRp8T6hOz5O1BF08ZuibRDdHicxo6vrv9EpNJ2MpVYQS6ibtw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz7LRA3UOwO3JGhvbCqUCYn7BvcNIZsIwmThWszTBGialXzlVOd6icxTh0w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw:prompt-0012",
+    "source_metadata": {
+      "article_index": 52,
+      "article_title": "Vol.280 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762299062,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 12,
+      "review_url_count": 4,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0",
+    "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

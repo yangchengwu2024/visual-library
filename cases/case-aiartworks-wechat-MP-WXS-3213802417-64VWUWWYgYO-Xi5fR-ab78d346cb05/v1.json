@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6GYA8reFHjzFkKVuvF6HFWWQJzYSVblPa7iajQBjMq6rzdYjbl9DBoZuQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-64VWUWWYgYO-Xi5fR-ab78d346cb05",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "228cc183f1ef6dcce7a693f98832388afedce310cbc8b744921555dfca9e7824",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "chaos": "20",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Quentin de Warren Minimalistic Space samurai in masterpiece full armor set Portrait style of film noir aesthetic, anime aesthetic, I can't believe how beautiful this is, minimalist portraits, pop art sensibilities, animated gifs by Quentin de Warren Unreal engine 5 --chaos 20 --ar 1:2 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5iaCnbHRpV2BeibMYNJVL6GYA8reFHjzFkKVuvF6HFWWQJzYSVblPa7iajQBjMq6rzdYjbl9DBoZuQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 179,
+      "article_title": "Vol.153 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744165849,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_64VWUWWYgYO~Xi5fRnv1qQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0",
+    "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495673&idx=1&sn=f5930e45f32e71a235702b3306d57cf6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.153 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

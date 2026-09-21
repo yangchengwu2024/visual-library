@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5tyfTthWN2DaYibNxBpicVwEbYNwXX1KDqhDyE53cb5JJBxNEmwFut4Bw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ih9Ou3effHF-Rk9rf-c5eb0071fda0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d32d4979def51ea987453a308580d5d483580ac04c8c71976f6607a2196b9fa3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "cej542w",
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A glitchart retro futuristic artwork, red, green, orange and blue 3D computer rendering of a quartz crystal and agate geode male model figure covered with Planets with rings, full body shot, galaxies, skin made from iridescent foil and glowing pastel light inside it, covered all over by copper filigree, transparent glass, pearls, porcelain-like body, red obsidians, golden pyrite, citrine, lapis lazuli, black background, pale colors, hyperrealistic concept art doodle, soft shadows, low contrast, clean sharp focus, cinematic lighting, white background, masterpiece. --ar 9:16 --profile cej542w --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5tyfTthWN2DaYibNxBpicVwEbYNwXX1KDqhDyE53cb5JJBxNEmwFut4Bw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g:prompt-0009",
+    "source_metadata": {
+      "article_index": 182,
+      "article_title": "周末特别版 | V7效果概览专辑 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1743906618,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ih9Ou3effHF~Rk9rfC9f3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495572&idx=1&sn=962ceaa48ea88da2ddf4df490acf95ec&chksm=9640842cdf6122c118b4d862d52e54fcc468872f09bb06e7dbff62a02ea74a7805e1db1438b6#rd",
+    "title": "周末特别版 | V7效果概览专辑 | 精选作品与提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495572&idx=1&sn=962ceaa48ea88da2ddf4df490acf95ec&chksm=9640842cdf6122c118b4d862d52e54fcc468872f09bb06e7dbff62a02ea74a7805e1db1438b6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | V7效果概览专辑 | 精选作品与提示 · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,105 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2RSQYTKVxXbS28e-P-5209a819501a",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZJpZ50e6spe0SkY4lnAk9vqaVsg4iawqnUQJbH1n3W5o1Oribkufj2deg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZIsTAYtvHOfzqIojuCAu2icOCcXMtwCuhCnUjZNZFAvmu7hb5fO9xBLg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZ2M2P9fefSeM0dgD9W3unmvZsU4iawxMardpy5iavXictowk6yHGxgCLtQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZpVNQZhGia2ibspWFMknicKmibbHPwvNaARfD1jHGTTRnK69mzV7Z4TiczCg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZQpiamMWB3mrj7xOTLMvLXRWAiaJO69EbNYibjia1vJ8QWLtpHIRXVScysw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZXiaCEhUz0yGN2qTUkUlnvibxmxskJQEc0icwCSrNVAsNN0p2kCHiaicoiaug/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZJjKEK3dHXtQMdzCrQSX1MjbokhjezPNlkq4iblnoEvmVG7VZaVRvHCA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZr5aTxJRicNAoqOiamPW6DsLLZIBIwdJx48fMEQCAibTqTtIgicSSobj5iaA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-7"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZXhRbOXGfjjPpCR3tcFMAibo6bR9dZwgnGzP3g1cNSKv6fQx33PQHvjw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-8"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZNJ7sdTON81rm04ljeNxdVXuWzwBd4IoVUyBVo7lcQmvEntyNwtFMyA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-9"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g:prompt-0026",
+      "source_metadata": {
+        "article_index": 55,
+        "article_title": "Vol.277 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1761694232,
+        "image_storage": "external_url",
+        "image_url_count": 10,
+        "prompt_index": 26,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 10
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd",
+      "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 27",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 27",
+  "title_aliases": [
+    "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 27"
+  ]
+}

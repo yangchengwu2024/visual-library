@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcJquwaUdjohZffErfdew9jGL2Ho5P4DhlIh3Ikyzp0PLufzqicTohlfK8KMVXyibMYBCq19mEOe6iaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-A04c-B-t-Cvn4yKtO-b57ec7cad741",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "30af6088920d4b3a2754494f938aa393ee8eadc3d8ce8b7914a44c0a2975752f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "13",
+    "exp": "100",
+    "raw": true,
+    "sref": [
+      "2251250237"
+    ],
+    "stylize": "750",
+    "sv": "4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A worn, seated astronaut in a tattered space suit, slouched in an old leather armchair, surrounded by floating glitchy holograms, neon alphanumeric data, and iridescent digital fragments psychedelic lighting, vibrant color palette (electric pink, acid green, deep purple, teal) helmet reflecting kaleidoscopic visuals, holographic distortions, dreamlike cyberpunk atmosphere surreal, retro-futuristic, trippy aesthetic, ultra-detailed, cinematic lighting, volumetric glow, 8k --chaos 13 --ar 3:4 --exp 100 --raw --sref 2251250237 --sv 4 --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcJquwaUdjohZffErfdew9jGL2Ho5P4DhlIh3Ikyzp0PLufzqicTohlfK8KMVXyibMYBCq19mEOe6iaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw:prompt-0002",
+    "source_metadata": {
+      "article_index": 151,
+      "article_title": "Vol.178 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746671453,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496659&idx=1&sn=da7497c0ce2ea21445e19701364ce359&scene=58&subscene=0",
+    "title": "Vol.178 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496659&idx=1&sn=da7497c0ce2ea21445e19701364ce359&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.178 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

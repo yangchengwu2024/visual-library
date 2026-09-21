@@ -154,6 +154,13 @@
       "policy": "manual_only",
       "adapter": null,
       "reason": "Local PDFs are research/supplement candidates; public permission unresolved; no complete PDF cases admitted."
+    },
+    {
+      "id": "aiartworks-wechat",
+      "url": "https://mp.weixin.qq.com/s/WOi2W6mw41kkaORyj8sVkw",
+      "policy": "manual_only",
+      "adapter": null,
+      "reason": "User-selected AIArtWorks public-account archive. Prompt records retain exact source text and approved WeChat image URLs; image rights and visual pairing remain explicitly marked for review."
     }
   ]
 }

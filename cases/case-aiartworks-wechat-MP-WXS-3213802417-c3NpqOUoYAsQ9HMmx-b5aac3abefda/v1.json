@@ -1,0 +1,80 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBNDbs8mPK0FCVR38RslNFyqvR1ar6ct3QPWuxHBEdZLicTWJt9QtEkcf0kicP2G8e2IhahDG5h9aXvpwhdu3DBIibvgA0TRypSsg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCFWulbsj36svBiaiaIIHk3bSASHeiaAl1cLFRVhcT1pnvdNicEeFjHDibInpFvmiavVGsxJB0cZcTkysrTvUfjWYrNf1Wc1ics11CicXs/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c3NpqOUoYAsQ9HMmx-b5aac3abefda",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e18cf7bdad663516f92898a9aa07f1a41d489917c0a95872053fad6ddc1fbe30",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "5",
+    "raw": true,
+    "seed": "218625251",
+    "sref": [
+      "7301898225"
+    ],
+    "stylize": "50",
+    "v": "8.1",
+    "weird": "8"
+  },
+  "previous_version": null,
+  "prompt": "Genjiro Amahara, enquêteur du shogunat de 55 ans, petit corps solide, visage usé, fatigué, sérieux, gueule inoubliable, charisme rugueux, présence de personnage culte tarantinesque. Une sorte de Columbo asiatique vieillissant, observateur, obstiné, malin, discret mais dangereux, plus enquêteur que guerrier. Vêtements de voyage officiels sobres en gris, brun et bleu nuit, carnet, pinceau, cordelettes à preuves, sabre fonctionnel. Polar japonais médiéval, ambiance d’enquête, auberges, routes, villages, crime, regards, tension verbale, mystère. Live-action ultra cinématographique, très stylisé, Tarantino meets chanbara noir, cadrage graphique, lumière dramatique, grain pellicule, texture réaliste, forte présence à l’écran, aucun élément moderne. --chaos 5 --ar 2:3 --seed 218625251 --raw --sref 7301898225 --stylize 50 --weird 8 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBNDbs8mPK0FCVR38RslNFyqvR1ar6ct3QPWuxHBEdZLicTWJt9QtEkcf0kicP2G8e2IhahDG5h9aXvpwhdu3DBIibvgA0TRypSsg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCFWulbsj36svBiaiaIIHk3bSASHeiaAl1cLFRVhcT1pnvdNicEeFjHDibInpFvmiavVGsxJB0cZcTkysrTvUfjWYrNf1Wc1ics11CicXs/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 24,
+      "article_title": "Vol.309-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781652646,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 1,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd",
+    "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 2",
+  "version": "v1"
+}

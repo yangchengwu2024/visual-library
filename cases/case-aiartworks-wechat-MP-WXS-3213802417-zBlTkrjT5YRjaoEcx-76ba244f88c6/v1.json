@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBsKgGTibcQoSq8ociaicBeLGhM9ribvqD6D5TJeFdJ5Y1RLkicp8lvmEsNIxETW7yYqQMfWdFCGUaer5q8H5vficSwPjddcM4Eia47o4/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zBlTkrjT5YRjaoEcx18hgA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-76ba244f88c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "403cfb352e089f3693b21315bb35f46f268768deb156b2c1bb415fd73e4abb1a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "bjilypc",
+    "raw": true,
+    "stylize": "80",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "ultra luxury sea-front villa in Dubai, same project shown as a conceptual early-stage architectural massing model, aerial drone perspective, sketchup draft model style, simplified black and dark gray building masses placed on a beige topographic site model, contour lines clearly visible across the sloped terrain, schematic architectural composition, sharp angular villa geometry, multiple horizontal luxury volumes stepping toward the sea, sea-facing terraces, private beach edge, minimal material shading, architectural working-model aesthetic, sketchup viewport feeling, clean conceptual presentation for client design phase, same composition style as a sketchup screenshot, soft neutral background, top-down oblique drone angle, elegant minimalist diagrammatic presentation, one single image, no photorealism, no people, no vehicles --ar 9:16 --raw --profile bjilypc --stylize 80 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBsKgGTibcQoSq8ociaicBeLGhM9ribvqD6D5TJeFdJ5Y1RLkicp8lvmEsNIxETW7yYqQMfWdFCGUaer5q8H5vficSwPjddcM4Eia47o4/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zBlTkrjT5YRjaoEcx18hgA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zBlTkrjT5YRjaoEcx18hgA:prompt-0007",
+    "source_metadata": {
+      "article_index": 3,
+      "article_title": "Vol.329-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1788478252,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zBlTkrjT5YRjaoEcx18hgA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511070&idx=1&sn=ce481dd10ecc5be2e6fc98af11052007&scene=58&subscene=0",
+    "title": "Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511070&idx=1&sn=ce481dd10ecc5be2e6fc98af11052007&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 8",
+  "version": "v1"
+}

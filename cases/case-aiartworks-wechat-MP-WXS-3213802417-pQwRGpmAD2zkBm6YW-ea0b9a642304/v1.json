@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFkltsNSibvt4HsF7Xj9LnI4k3v6rIZMuat4rRMxHF3qKVfosa8f6DzwvQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pQwRGpmAD2zkBm6YW-ea0b9a642304",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cf4a35650e290f40d2bb2fadfd7b6074e7f9dc9fc44cf56acba6a2f6ad9fa0f7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "stylize": "200",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "3d cartoon icon of summer background with beach elements such as straw hat and hammock --chaos 20 --ar 9:16 --stylize 200 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheQWkdaQmWOD85kGT2icpibFkltsNSibvt4HsF7Xj9LnI4k3v6rIZMuat4rRMxHF3qKVfosa8f6DzwvQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg:prompt-0006",
+    "source_metadata": {
+      "article_index": 173,
+      "article_title": "Vol.159 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744770630,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pQwRGpmAD2zkBm6YWqxKCg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495889&idx=1&sn=6b96a0660d6939bc5f5b3b2f09d7db2e&chksm=960dc902bef8c52560cbeea2457b62ef9cf8366aa8c286188f04e51b1c9565b1b199bc1bf1ab#rd",
+    "title": "Vol.159 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495889&idx=1&sn=6b96a0660d6939bc5f5b3b2f09d7db2e&chksm=960dc902bef8c52560cbeea2457b62ef9cf8366aa8c286188f04e51b1c9565b1b199bc1bf1ab#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.159 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

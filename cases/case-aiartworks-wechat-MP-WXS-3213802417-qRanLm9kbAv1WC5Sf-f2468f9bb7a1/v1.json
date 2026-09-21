@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaLibUTTjXbTqZLmQQOxGficYQdP1siaLmo6mzia9vSIkwbyicGtaC2g2OuOOYppTJZ0lKYFMzFHYnibXw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcCpyolib3n6krEECTg2dlwkeOMOb1ZAaoOPv7lMnQ7xyKonYUOB9mPPYjdtmmdeibqLBphX928HwJw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qRanLm9kbAv1WC5Sf-f2468f9bb7a1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "25ec31c6f4363ee275f3f800d18a212d136330d9decf934877fcff1f8b57f641",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": ", dine and paint night at restaurant, artists and painting colorful paintings on canvas while drinking from moroccan tea glasses, vibrant colors, creative atmosphere, blurred background showing other elements such as a table or cup holder, bokeh effect, high-resolution photography, natural lighting. ramadan vibes, arabic lanterns, arabic restaurant people painting on canvases next to each other, food on the table, paint night, ramadan lanterns, suhour dinner and painting night during ramadan where people enjoying a guided painting evening with suhour meal and drink --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaLibUTTjXbTqZLmQQOxGficYQdP1siaLmo6mzia9vSIkwbyicGtaC2g2OuOOYppTJZ0lKYFMzFHYnibXw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcCpyolib3n6krEECTg2dlwkeOMOb1ZAaoOPv7lMnQ7xyKonYUOB9mPPYjdtmmdeibqLBphX928HwJw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 199,
+      "article_title": "Vol.138 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742524215,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd",
+    "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

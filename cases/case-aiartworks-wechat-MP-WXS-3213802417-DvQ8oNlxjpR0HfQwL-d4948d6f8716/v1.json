@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWD9XicibaCibZGppd6LB6O7ZhquxDP9dSqezhqrTtffJxeMrA5aFGJMx6tw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DvQ8oNlxjpR0HfQwLZG0Tw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DvQ8oNlxjpR0HfQwL-d4948d6f8716",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "41aef033d55e730741c176461f49e20f02b7a49c7b4e5b74a52c0631ec60fe0b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A small, adorable kitten wearing a kigurumi-style onesie, complete with animal-like ears and details on the hood. The kitten has large, expressive eyes and soft, fluffy fur, giving it a curious and innocent look. It stands on a wooden surface, with a softly blurred background in warm, earthy tones, creating a cozy atmosphere. The kigurumi outfit features colorful details and a padded, comfortable look, adding a fun and playful touch PROMPT, --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc26z6XD0cQQFrOT7ib8tRWD9XicibaCibZGppd6LB6O7ZhquxDP9dSqezhqrTtffJxeMrA5aFGJMx6tw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DvQ8oNlxjpR0HfQwLZG0Tw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DvQ8oNlxjpR0HfQwLZG0Tw:prompt-0019",
+    "source_metadata": {
+      "article_index": 334,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.14",
+      "association_confidence": "high",
+      "createTime": 1729651339,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DvQ8oNlxjpR0HfQwLZG0Tw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485649&idx=1&sn=0efcc976e61767e46997b913b6b589a7&chksm=969373a298c192325f9a07056bd57624684e75b949d8ba08b77916920a2a4d57bc85adb5811c#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.14 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485649&idx=1&sn=0efcc976e61767e46997b913b6b589a7&chksm=969373a298c192325f9a07056bd57624684e75b949d8ba08b77916920a2a4d57bc85adb5811c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.14 · 提示词 20",
+  "version": "v1"
+}

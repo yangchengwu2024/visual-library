@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd7m9vwmP7HMKJJfhEBU1GOvscgJfdUT4Qo7DoppgRL5fqNP7wYTLMHKq4yK1kqia9u7u81YTUjRuA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShd7m9vwmP7HMKJJfhEBU1GOl8jEmTb2CyFKxlzRDuu1hFn9hMAwVyooKg93by1x5oKJWY6ZfVn8fA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MijnAaE-Nx6NhJTSw-48d1cb770b1c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7a3407280e761e64f07a9fa384b80cb035a13c3ed5dd8f0e1d88393cbfc6abec",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "cinematic medium shot of a humanoid bunny in a trench coat --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd7m9vwmP7HMKJJfhEBU1GOvscgJfdUT4Qo7DoppgRL5fqNP7wYTLMHKq4yK1kqia9u7u81YTUjRuA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShd7m9vwmP7HMKJJfhEBU1GOl8jEmTb2CyFKxlzRDuu1hFn9hMAwVyooKg93by1x5oKJWY6ZfVn8fA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg:prompt-0009",
+    "source_metadata": {
+      "article_index": 170,
+      "article_title": "Vol.162 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745029863,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MijnAaE~Nx6NhJTSwt9twg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495990&idx=1&sn=517f9ce184bf60a8b5aa60671c5d4b4a&scene=58&subscene=0",
+    "title": "Vol.162 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495990&idx=1&sn=517f9ce184bf60a8b5aa60671c5d4b4a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.162 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

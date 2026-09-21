@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcymopvObe871rsiad3ryp3icLwSA0h9N5Z4foq0jwfRyIIhb9dUg03x9w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTBVsPvTXvfV-b-nu-cba079292ca5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3366df1adc2f279de514b3a3ae256f684e6e945ed5cdd3f76386fe1e58820261",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "gyefllx",
+    "raw": true,
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "採用 Artgerm 風格的超現實主義 3D 插圖描繪了街頭霸王系列中的春麗，背景令人毛骨悚然且神秘。她的笑容淡淡的，但清晰的焦點讓鏡頭呈現出奶油般、絲滑而真實的皮膚紋理。作品採用ZBrush雕刻而成，並結合佳能R5攝影風格視覺效果和完美的照片烘焙技術，整體構圖呈現出專業、真實、細膩的藝術品質 --ar 9:16 --raw --profile gyefllx --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59IcymopvObe871rsiad3ryp3icLwSA0h9N5Z4foq0jwfRyIIhb9dUg03x9w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0011",
+    "source_metadata": {
+      "article_index": 153,
+      "article_title": "Vol.176 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746498625,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd",
+    "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

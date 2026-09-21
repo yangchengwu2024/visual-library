@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZAmGJ2iaRM6VRm5uF5SXNLOoZ2dKd9Eus7MK4Bze27EAxfqerq9JXoGQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-45cdd389a29c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6ca6d12f7c120c19b4754937ee8ac9a0a5a0dfcd65891e315ee3cf014168e328",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "a hyper-realistic portrait of a delicate Korean high school girl sitting quietly on a clean white studio floor, lit by bright artificial lighting. She has a very small, heart-shaped face with soft contours and porcelain-white skin. Her expression is calm and slightly shy, with large, gentle eyes gazing downward and a subtle, almost hidden smile on her naturally pink lips. Her long, straight black hair falls evenly along her shoulders. Her figure is slender and light, with a reserved and graceful posture. She wears a modest black short-sleeved t-shirt and short black shorts, barefoot. Captured in ultra-detailed DSLR photo style, full-body, shallow depth of field, high-resolution, with no stylization or digital painting, emphasizing realistic skin texture and lighting. --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZAmGJ2iaRM6VRm5uF5SXNLOoZ2dKd9Eus7MK4Bze27EAxfqerq9JXoGQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw:prompt-0017",
+    "source_metadata": {
+      "article_index": 109,
+      "article_title": "Vol.220 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750635017,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498484&idx=1&sn=ec7706928297086e1a789dd6a370d770&chksm=965a05455d03210509da1af8da9a7ca079909346590150cf063e340dd2503cad6a978d2d4182#rd",
+    "title": "Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498484&idx=1&sn=ec7706928297086e1a789dd6a370d770&chksm=965a05455d03210509da1af8da9a7ca079909346590150cf063e340dd2503cad6a978d2d4182#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

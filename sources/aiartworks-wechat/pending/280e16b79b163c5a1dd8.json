@@ -1,0 +1,63 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-ba3205c519ea",
+  "fingerprint": "7b2ec052dae6cba154890f307dc8d9b7dfa85c046520c07b3618799ea6e0aa28",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "oref": "https://s.mj.run/1YTORLWkp2I",
+    "ow": "1000",
+    "profile": "b3o8vun",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/7e7JDYHbfIc"
+    ],
+    "stylize": "250"
+  },
+  "prompt": "https://s.mj.run/7e7JDYHbfIc A woman in a black dress with her hair tied in a ponytail, sitting in an orange armchair in the middle of a room, facing a large TV, with the floor covered in grass like clouds, wide-angle. --ar 9:16 --raw --sref https://s.mj.run/7e7JDYHbfIc --profile b3o8vun --oref https://s.mj.run/1YTORLWkp2I --ow 1000 --stylize 250",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg:prompt-0016",
+    "source_metadata": {
+      "article_index": 80,
+      "article_title": "Vol.251 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1756423847,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0",
+    "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg:prompt-0016",
+  "status": "pending",
+  "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 17"
+}

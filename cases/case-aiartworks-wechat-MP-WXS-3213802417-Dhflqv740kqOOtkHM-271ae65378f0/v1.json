@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheGhhAVjAicYPvmuYTcwNPN68cU4CZSibG6BZ40tTTKJib7ibq1qtlvx7DtOhhj03svLJT8W4qHq2hPHA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Dhflqv740kqOOtkHM-271ae65378f0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c3fde2930084dce4d537ad8fb71c908b91aa3787f903cf585d3b096db170c0f9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "metal running lobster, with running NIKE shoes and t-shirt, full-body shot, 3D render, white background, orange and cream color palette, high resolution, high detail, hyper-realistic, very detailed, Octane rendering, dynamic pose, dynamic angle, action scene, motion blur, dynamic camera angles, dynamic composition, dynamic lighting, cinematic, dramatic, professional photography, studio photography, soft shadows, low contrast, clean, sharp focus, hyper-realistic --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheGhhAVjAicYPvmuYTcwNPN68cU4CZSibG6BZ40tTTKJib7ibq1qtlvx7DtOhhj03svLJT8W4qHq2hPHA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA:prompt-0007",
+    "source_metadata": {
+      "article_index": 184,
+      "article_title": "Vol.149 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743733844,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Dhflqv740kqOOtkHMRgZnA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495504&idx=1&sn=a405d27ea70717061e21f979eeb694f0&scene=58&subscene=0",
+    "title": "Vol.149 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495504&idx=1&sn=a405d27ea70717061e21f979eeb694f0&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.149 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

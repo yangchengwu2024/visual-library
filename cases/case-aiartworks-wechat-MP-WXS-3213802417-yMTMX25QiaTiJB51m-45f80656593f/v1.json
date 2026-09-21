@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfJJldcteibibIMDebMqlBicH8m4Kc2XTsbnLxnZa7rIzSQPspiaMLgF7uV8NU4B24WzrZuQDMYBXGnJQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yMTMX25QiaTiJB51m-45f80656593f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "88c31c8eb22bc054a2e14a0d22130ff28327df01ac0cce38bfcb3acbf2dec94f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "4zf5tft",
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic fantasy fashion photo of a beautiful fairy mother holding her sleepy toddler on her shoulder. The mother has glowing skin, pearl-like details on her dress, and delicate sparkling wings. The toddler is peacefully asleep in her arms, dressed in soft white fabric. Daisies are woven into the mother's hair, and the scene is softly lit with cinematic bokeh lights in the background. Dreamy mood, luxury editorial style, 85mm fashion portrait, ultra-real textures, fairy-tale elegance, shallow depth of field, magical realism --ar 9:16 --raw --profile 4zf5tft --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfJJldcteibibIMDebMqlBicH8m4Kc2XTsbnLxnZa7rIzSQPspiaMLgF7uV8NU4B24WzrZuQDMYBXGnJQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q:prompt-0014",
+    "source_metadata": {
+      "article_index": 150,
+      "article_title": "Vol.179 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746757814,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496696&idx=1&sn=f0b216ff203b97cd873f20f31023718b&chksm=96620faeb833eb4676efe3d222e726a3866e6b27ddba41f21fabd800529fddbb6de009d5f912#rd",
+    "title": "Vol.179 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496696&idx=1&sn=f0b216ff203b97cd873f20f31023718b&chksm=96620faeb833eb4676efe3d222e726a3866e6b27ddba41f21fabd800529fddbb6de009d5f912#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.179 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

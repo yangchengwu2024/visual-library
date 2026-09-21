@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TIcrR7tH8M6ojpktg-60ec570ac09a",
+  "fingerprint": "1b0fb32db51d8022e08b46e9fc72db3545e8333ad20b84de6a2845217b3eff23",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "7"
+  },
+  "prompt": "two gamers sitting on a futuristic PlayStation 5-shaped sofa in the desert, playing PS5 in front of a massive floating TV screen, the screen showing a high-intensity eFootball match, glowing blue neon edges on the sofa and screen, PS5 console nearby with lights, golden hour lighting, realistic desert environment, cinematic sci-fi vibes, ultra detailed, photorealistic, 8k --ar 9:16 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg:prompt-0015",
+    "source_metadata": {
+      "article_index": 181,
+      "article_title": "Vol.151 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1743993036,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd",
+    "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd"
+  },
+  "source_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg:prompt-0015",
+  "status": "pending",
+  "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 16"
+}

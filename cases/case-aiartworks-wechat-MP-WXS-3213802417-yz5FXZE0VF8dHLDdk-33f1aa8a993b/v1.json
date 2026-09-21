@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBMaSHDcqxFlwMxUARicicJ0qcHyeKA4zZz3hibt73u7uZIq4WSTzBOFWpLmzaM8gL4giczKOg3MSqN0Zd1fLUKEvY6adypuSsRl2o/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-33f1aa8a993b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0f5dff31965d59be9180cf37214f0a5c3193ca9cf5fb6b618fdc9db378d41332",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "50",
+    "hd": true,
+    "profile": "am7rfly",
+    "seed": "334564198",
+    "sref": [
+      "1584421859",
+      "8374195461",
+      "4277076530",
+      "1995123791",
+      "4708142177"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A young knight girl with gentle confident expression, wearing light dusty blue #8FA7C9 armor plates over a warm peach #F4B69A skirt, holding a classic white ceramic coffee mug with one hand, a small cat sitting beside her pawing at the mug, soft yellow #F8E6A8 ambient background, fresh morning energy, flat editorial illustration style, bold dark outlines, limited color palette of light dusty blue, warm peach, and soft yellow, clean minimalist poster, white background --chaos 50 --ar 2:3 --seed 334564198 --sref 1584421859 8374195461 4277076530 1995123791 4708142177 --profile am7rfly --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBMaSHDcqxFlwMxUARicicJ0qcHyeKA4zZz3hibt73u7uZIq4WSTzBOFWpLmzaM8gL4giczKOg3MSqN0Zd1fLUKEvY6adypuSsRl2o/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0012",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 13",
+  "version": "v1"
+}

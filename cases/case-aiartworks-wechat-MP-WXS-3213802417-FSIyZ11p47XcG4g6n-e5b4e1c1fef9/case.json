@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-e5b4e1c1fef9",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibc2qWiaZvr31a1zTqrEmvHA974mtIsnDPf9IC2NCibADh1owePV6IibibYQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA:prompt-0004",
+      "source_metadata": {
+        "article_index": 214,
+        "article_title": "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1741487443,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 4,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_FSIyZ11p47XcG4g6ndOfmA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494332&idx=1&sn=eeff359c16ef62d575677306fceb8493&scene=58&subscene=0",
+      "title": "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 5",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494332&idx=1&sn=eeff359c16ef62d575677306fceb8493&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 5",
+  "title_aliases": [
+    "周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 5"
+  ]
+}

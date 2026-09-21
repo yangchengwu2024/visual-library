@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTaM1wVJLsWic7FORbokK4ytKiaqryHkXs5kXr5HiaShPAdYibVBx13uJRia9siaVEXTPfKFJj2lPAa40g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qYEkTDDB72-WrA0df-7d9283c290ef",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a264b48b8f957841afac324d348a4a439e7902c1c2aad218d277f9e0921240ec",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "n6j9sjf",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A photo of a tiny LEGO Gothic black boy with a dreadlocks holding a heart and wearing a black cape. Blurred spider web background. --ar 9:16 --quality 2 --style raw --profile n6j9sjf --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTaM1wVJLsWic7FORbokK4ytKiaqryHkXs5kXr5HiaShPAdYibVBx13uJRia9siaVEXTPfKFJj2lPAa40g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A:prompt-0013",
+    "source_metadata": {
+      "article_index": 233,
+      "article_title": "Vol.110 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739759437,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493266&idx=1&sn=fcfc00a671484c72cabaf49212d0d4be&chksm=96f7f4b484505ff6535833ccc0cd377a1bb38f1a72c72a17c39257394d5dfb311cc79aedfec3#rd",
+    "title": "Vol.110 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493266&idx=1&sn=fcfc00a671484c72cabaf49212d0d4be&chksm=96f7f4b484505ff6535833ccc0cd377a1bb38f1a72c72a17c39257394d5dfb311cc79aedfec3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.110 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

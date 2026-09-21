@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwj6FatHzaiblGmELkWnxWcsbE35ibrK11KGrLFFvEpOOzY7orfFaPjLWjQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwjQTodHMelQkQvxjqSlloSHeY6Vgz1pzuOg2RmkuK6icT8Mib5ocy5wt5g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MEg69rRwJEejlRayO-7119fa7c7267",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7f9a8dbb603f094548ed51f6727b34353390fb3bb00d1f9c8fae3741ea69a0b4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "odwpawb"
+  },
+  "previous_version": null,
+  "prompt": "photo by Rinko Kawauchi --ar 2:3 --profile odwpawb",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwj6FatHzaiblGmELkWnxWcsbE35ibrK11KGrLFFvEpOOzY7orfFaPjLWjQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwjQTodHMelQkQvxjqSlloSHeY6Vgz1pzuOg2RmkuK6icT8Mib5ocy5wt5g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg:prompt-0009",
+    "source_metadata": {
+      "article_index": 168,
+      "article_title": "Vol.163 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745202015,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496056&idx=1&sn=6abd6f79712400ead67d2fd121b9d6a1&chksm=96178faf18f416252a154bc99acb341bee7f17c4e87ef49c40888c5f53c38baffc360021d778#rd",
+    "title": "Vol.163 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496056&idx=1&sn=6abd6f79712400ead67d2fd121b9d6a1&chksm=96178faf18f416252a154bc99acb341bee7f17c4e87ef49c40888c5f53c38baffc360021d778#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.163 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

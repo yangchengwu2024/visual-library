@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7BezwK8rYOM1pm64viaYuyORUnEAJlk0yLImQ5Ygzth5JVV5bPcjTiblw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZZaPrWMictxwZg2XZSacXHhxEUrBdcjNicv8mZEcVzK7ogPj2AvyunP3OYjrKaorrswnwuutBxqexpcI4TG0uJuahK2foOPohk/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WOi2W6mw41kkaORyj-8e193a3fe549",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b9dd1d6a5bf2f941e261f2a1d0a31dc11c6be4edb289e091ceb53cae6ae22171",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "chaos": "10",
+    "profile": "95j3k3o"
+  },
+  "previous_version": null,
+  "prompt": "Imagine a futuristic assembly line of asset production and create a story line for a video of a cinematic epic trailer with controlled pacing, dramatic camera movement, and story-driven editing.GOAL:Re-edit and reinterpret the footage into a high-end cinematic trailer with slow, deliberate camera motion and emotional build-up.---EDITING STRUCTURE:- Re-cut the video into a trailer structure: 1. Opening: slow, atmospheric, wide shots 2. Build-up: medium shots, gradual increase in pacing 3. Climax: faster cuts, strongest visuals 4. Ending: short impactful closing shot- Use longer shots at the beginning (3-5 seconds)- Gradually shorten shot length toward the end- Use hard cuts only (no transitions, no effects)- Align cuts with emotional beats and implied music rhythm---CAMERA MOVEMENT (CRUCIAL):Apply cinematic virtual camera movement to ALL shots:- Slow push-in (digital zoom forward) on key subjects- Subtle parallax / orbital movement to create depth- Occasional slow pull-back for dramatic reveal- Add slight vertical drift for realismDO NOT:- Use handheld shake- Use fast or chaotic motion- Use abrupt zoomsMovement must feel:slow, heavy, intentional, cinematic---SHOT SELECTION:- Prioritize: strong compositions clear subjects moments with visual depth- Reframe shots where needed: start wider → end closer (within same shot if possible) emphasize scale and subject importance---MOTION TREATMENT:- Apply subtle slow motion where appropriate- Add micro-movements: particles (dust, fog, atmosphere) slight environmental motionKeep overall motion minimal but meaningful---COLOR & LIGHTING:- Apply cinematic color grading: cool tones (blue/teal bias) slightly desaturated high contrast- Add: soft bloom on highlights volumetric light / haze deeper shadows for drama---DEPTH & CINEMA EFFECTS:- Add depth of field (background slightly blurred)- Enhance foreground/background separation- Introduce atmospheric layers (fog, light rays, particles)---MOOD & TONE:- Epic, emotional, cinematic- Controlled, slow, powerful- Build tension gradually- Avoid commercial/fast social media style---OUTPUT:- Feels like a AAA cinematic trailer- Smooth, intentional camera motion- Strong narrative pacing- Dramatic and immersive atmosphere --chaos 10 --ar 16:9 --profile 95j3k3o",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7BezwK8rYOM1pm64viaYuyORUnEAJlk0yLImQ5Ygzth5JVV5bPcjTiblw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBZZaPrWMictxwZg2XZSacXHhxEUrBdcjNicv8mZEcVzK7ogPj2AvyunP3OYjrKaorrswnwuutBxqexpcI4TG0uJuahK2foOPohk/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw:prompt-0015",
+    "source_metadata": {
+      "article_index": 38,
+      "article_title": "Vol.294 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776900578,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0",
+    "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

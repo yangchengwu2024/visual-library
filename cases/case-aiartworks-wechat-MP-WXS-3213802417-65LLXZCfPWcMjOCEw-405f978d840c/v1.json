@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCxQVyXMU3zRcEu77iaXwTvKH84PDTUw7iaeU5vGKaZFJy0e71vfLZ0rlgg27IHlH7n1KxQ6hErhmYjTKKXU0R1D7qnwzY6kBaiaI/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-65LLXZCfPWcMjOCEw-405f978d840c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "eae8328316ec08c30f29d2e0c94f5bb36026660d1da682809915ddb90b2b5805",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "This is a full-body shot that includes the model's feet. It features a model with dark hair slicked back into a neat bun, wearing a dark navy blue athletic set--comprising a zippered jacket and matching shorts with side pockets--accented by white stripes along the sleeves and the sides of the shorts. She carries a black textured leather shoulder bag with dual handles in her left hand and wears dark sunglasses. The background is an off-white plaster wall with a natural, mottled texture. The model, an American woman of about 35, walks confidently toward the camera with a professional stride, wearing mid-calf boots; she projects the aura of a high-fashion supermodel. --ar 3:4 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCxQVyXMU3zRcEu77iaXwTvKH84PDTUw7iaeU5vGKaZFJy0e71vfLZ0rlgg27IHlH7n1KxQ6hErhmYjTKKXU0R1D7qnwzY6kBaiaI/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 14,
+      "article_title": "Vol.318-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1785022221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd",
+    "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 2",
+  "version": "v1"
+}

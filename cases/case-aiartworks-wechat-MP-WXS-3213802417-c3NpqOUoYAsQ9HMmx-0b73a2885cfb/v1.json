@@ -1,0 +1,86 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCZfM5C05DE1RmPHUTPCjPJ6a2IrysUXwcd8xVkaVYAzwXAf4BVjhygOEbA13icT3BKzQibpPb1niawgLrMztLubafCOPSVXNQxSw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBGkibxiaNeOwma46abknKorOoeeL17UqvibMp8K2yquc9Tartn0eXquWBWosZVzlibwuluIIdwPav3l4PBvedFf5lyiaxJtdV3peBM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WA5aeVhVw2fl3Z77EkaIMX4By9Omj3ugC7WQooLGZprLktutP2g5chHsiaXJB1cIzUm2BNNYiceeUnrI2SgZhpmeJKIcPeLK1p4k/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c3NpqOUoYAsQ9HMmx-0b73a2885cfb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cd44789588e1a7cb7fb15650e5549974bda0e7efb327804a9831da7e460e2603",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "r7ceie6",
+    "sref": [
+      "3090611781"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Surreal chrome woman in profile view, sculptural metallic face, highly reflective liquid-metal skin, detailed chrome eyeball visible from the side, chrome lips dissolving --ar 9:16 --sref 3090611781 --profile r7ceie6 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCZfM5C05DE1RmPHUTPCjPJ6a2IrysUXwcd8xVkaVYAzwXAf4BVjhygOEbA13icT3BKzQibpPb1niawgLrMztLubafCOPSVXNQxSw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBGkibxiaNeOwma46abknKorOoeeL17UqvibMp8K2yquc9Tartn0eXquWBWosZVzlibwuluIIdwPav3l4PBvedFf5lyiaxJtdV3peBM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WA5aeVhVw2fl3Z77EkaIMX4By9Omj3ugC7WQooLGZprLktutP2g5chHsiaXJB1cIzUm2BNNYiceeUnrI2SgZhpmeJKIcPeLK1p4k/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 24,
+      "article_title": "Vol.309-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1781652646,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd",
+    "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

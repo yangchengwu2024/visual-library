@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdUt1XwG64etXeFgCwNVibCfXA90RuwNXuJuVCzVano97b8jbG8tA6YXWbibv5frsGScmdgE1UzbTdQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_37zglXI9mYYgoSOWeHJ6MA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorRpmcSIYttkVonpIiazR4kE39kEmAxo6fAC2c4jzWmGSBEk3ekelC9fQ/0?wx_fmt=other&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_37zglXI9mYYgoSOWeHJ6MA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-37zglXI9mYYgoSOWe-0d9425c5a983",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fe8669f47466a96769c9479a1048a823a75567315ebcf8477437eccc9b21b242",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "11:17",
+    "personalize": "5vhbsoj",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Floral owls. Owls with flower petals for feathers. Large eyes. Cute. Macro nature photography. In the style of National Geographic --ar 11:17 --personalize 5vhbsoj --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdUt1XwG64etXeFgCwNVibCfXA90RuwNXuJuVCzVano97b8jbG8tA6YXWbibv5frsGScmdgE1UzbTdQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_37zglXI9mYYgoSOWeHJ6MA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorRpmcSIYttkVonpIiazR4kE39kEmAxo6fAC2c4jzWmGSBEk3ekelC9fQ/0?wx_fmt=other&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_37zglXI9mYYgoSOWeHJ6MA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_37zglXI9mYYgoSOWeHJ6MA:prompt-0019",
+    "source_metadata": {
+      "article_index": 340,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.08",
+      "association_confidence": "high",
+      "createTime": 1729130511,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_37zglXI9mYYgoSOWeHJ6MA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485148&idx=1&sn=ad541e2f03c4ccdc7089e53077876438&chksm=96135f7df1685ec481e038415a36aab01d203d20d2314f7457d3ae9ff3edf083a9c06b6538c1#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.08 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485148&idx=1&sn=ad541e2f03c4ccdc7089e53077876438&chksm=96135f7df1685ec481e038415a36aab01d203d20d2314f7457d3ae9ff3edf083a9c06b6538c1#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.08 · 提示词 20",
+  "version": "v1"
+}

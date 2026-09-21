@@ -1,0 +1,70 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Fg--z0STngbBNp-Jj-719eaeec33d2",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyjzqhNQpicjCJOJSuwDtstnPVqH93AOOVUXicmY3rdI6iaPOY8DmBTF5am6DH7qkjj3rSSRJvYfwAw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefDIcVyAx6iciaw1Bq9VgfVYibwumFlYORmBicQHwXlX2FibpSrib9ojibvibfq7B2WOKXbDanZFiaCRw0iayw/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcvnxicFyWoB761iak1Nws0Shibljf1czVzhclITQqibvBu6YgIY9r9J8Z5mLTXxZk6wM3ulcBszicwl6g/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA#image-2"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA:prompt-0003",
+      "source_metadata": {
+        "article_index": 43,
+        "article_title": "Vol.289 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1766374852,
+        "image_storage": "external_url",
+        "image_url_count": 3,
+        "prompt_index": 3,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_Fg-~z0STngbBNp-JjUoKEA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504256&idx=1&sn=3d87cdb5526216052ebbf31610a29091&scene=58&subscene=0",
+      "title": "Vol.289 - Midjourney | 精选作品关键词提示 · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504256&idx=1&sn=3d87cdb5526216052ebbf31610a29091&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.289 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "title_aliases": [
+    "Vol.289 - Midjourney | 精选作品关键词提示 · 提示词 4"
+  ]
+}

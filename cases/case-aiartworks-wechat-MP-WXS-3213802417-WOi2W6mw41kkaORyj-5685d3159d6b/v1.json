@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7bF0ov1icTNHFX4BJSx1BvAnI5JXLzX1iblWoJsQAdYWVvtVoZ2Rudo9w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCW3qhWwThneib2QppvwmZdzsdVgGPzoibwduiaxx1f0rBPOXqyRL6vicJ8Szpf6yOnMnCPCNSiaiaqEyeBLEvPcWkwag8hicqV6BMXM4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WOi2W6mw41kkaORyj-5685d3159d6b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "45a62be40f7ec148d41ab91fc1c23865d42b64ea9c5e9059a579c315bbf5e1bc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Powerful corporate villain, male, 40s, clean luxury appearance, expensive tailored black suit, slicked-back hair, cold arrogant expression, subtle smirk, luxury watch, sitting in executive chair surrounded by glass skyscraper office, corporate empire aesthetic, intimidating calm power, cinematic lighting with reflections, high-rise night city background, ultra-realistic film still --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7bF0ov1icTNHFX4BJSx1BvAnI5JXLzX1iblWoJsQAdYWVvtVoZ2Rudo9w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCW3qhWwThneib2QppvwmZdzsdVgGPzoibwduiaxx1f0rBPOXqyRL6vicJ8Szpf6yOnMnCPCNSiaiaqEyeBLEvPcWkwag8hicqV6BMXM4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw:prompt-0016",
+    "source_metadata": {
+      "article_index": 38,
+      "article_title": "Vol.294 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1776900578,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 16,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WOi2W6mw41kkaORyj8sVkw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0",
+    "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504940&idx=1&sn=3ae005b1b1eee64c4ffe6a25cf95d970&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.294 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

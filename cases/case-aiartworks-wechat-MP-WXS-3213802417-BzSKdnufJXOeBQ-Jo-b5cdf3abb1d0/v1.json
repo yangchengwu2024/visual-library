@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvQp8UE2JeOexSpqM8PDGFXZhpdu7ibAeJUKHraiaxcBNguohic7tyicZwpYk9VPRsqK0hicD2XvCmdwQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BzSKdnufJXOeBQ-JoX3wag#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BzSKdnufJXOeBQ-Jo-b5cdf3abb1d0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "21c24b41e89dd939715d686cdacd47c5a4f55a620ddb3c8b80938409c75f8b6b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "no": [
+      "black",
+      "and",
+      "white,",
+      "horns,",
+      "wings,",
+      "plate",
+      "armor,",
+      "iron",
+      "armor"
+    ],
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "fUll body portrait of a female landsknechts fighting in battle, Wearing German salet helmet and iron armor, colorful billowing slashed sleeves, aiming a very large two-handed sword, a battlefield, Styled like a vogue magazine cover, titled \"VOGUE\" --no black and white, horns, wings, plate armor, iron armor --ar 4:5 --raw --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvQp8UE2JeOexSpqM8PDGFXZhpdu7ibAeJUKHraiaxcBNguohic7tyicZwpYk9VPRsqK0hicD2XvCmdwQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BzSKdnufJXOeBQ-JoX3wag#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BzSKdnufJXOeBQ-JoX3wag:prompt-0005",
+    "source_metadata": {
+      "article_index": 144,
+      "article_title": "Vol.184 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747276264,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BzSKdnufJXOeBQ-JoX3wag",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496898&idx=1&sn=4ef54272ebbd192a3ef1354667a7a822&scene=58&subscene=0",
+    "title": "Vol.184 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496898&idx=1&sn=4ef54272ebbd192a3ef1354667a7a822&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.184 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

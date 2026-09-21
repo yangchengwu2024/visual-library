@@ -1,0 +1,75 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-82abba319e34",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WA3ANkuVn3cicibpWQB0ntPTrPwEFmmq1FMicxOvuCoshbtevkfibYj0CXOyic0hMjXn3RPjEf2Bibjf93Dp2HSawHF5DJm3QJKHprXs/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WC4yibbuHQjqlfH8cRuPf9vTH2ed0EAcrQhwarlS3iaxZZYZZKaTricXrWuGrt3boeqKBWbnw368mHocBhFR49RKVhF8VENt8Z2ww/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCmLCrpIg1iaaYPorsO7aap7UnwR7yEyREplfywiadhCczeahGlCxVNiboUMDCWgtaJNCxrhNDe65IVxHKf7pZF778QdfaLOI3DPQ/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBGticW9rhfMxOJEiaUOH9icyLcdSfMYmotlqknjZObhyGjs9ibwe8xIyG5v8GFPYb1FlwqibjRMJ5C5ticE4lC0ysrjAbWMG0SOLF2k/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-3"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0003",
+      "source_metadata": {
+        "article_index": 11,
+        "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+        "association_confidence": "high",
+        "createTime": 1785627022,
+        "image_storage": "external_url",
+        "image_url_count": 4,
+        "prompt_index": 3,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 4
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+      "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 4",
+  "title_aliases": [
+    "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 4"
+  ]
+}

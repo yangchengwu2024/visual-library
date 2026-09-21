@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7Cm3uFHQ9z9VoINRFkjHpOIg95m5ia36jyvBgCI4Ilibua7nItOciaWaYA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aArpH8Y3cdaeDsCT8SDOb4gAL2nOXjSpndmlepnnIlVgnUr8thHyKqhA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8Q5-xymyV5zlT6eWP-116e77c7ed0f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "890b85f4b5b38112f087f3d0fa3b94e3e3d19ad0835c383b69cc5a916020dfca",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "masterpiece, 8k, 3d art, portrait of beautiful godess, young, latina, tanned, perfect skin, magical, straight, symmetrical, face only, pink long hair, green eyes, plain background, looking into camera --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7Cm3uFHQ9z9VoINRFkjHpOIg95m5ia36jyvBgCI4Ilibua7nItOciaWaYA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aArpH8Y3cdaeDsCT8SDOb4gAL2nOXjSpndmlepnnIlVgnUr8thHyKqhA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 128,
+      "article_title": "Vol.200 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748907024,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497640&idx=1&sn=cdfcd489ad9e0f81a7375a853d7f424b&chksm=966b0bc3f9d7e409d1e16bfd3ef10a1ddcef01c1115185e3e30fd7a9c08c611e0cd1a927accb#rd",
+    "title": "Vol.200 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497640&idx=1&sn=cdfcd489ad9e0f81a7375a853d7f424b&chksm=966b0bc3f9d7e409d1e16bfd3ef10a1ddcef01c1115185e3e30fd7a9c08c611e0cd1a927accb#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.200 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

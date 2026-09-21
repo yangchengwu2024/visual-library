@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Lg05bhJsgNIgB--Ob-4945a3b32fb4",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZlIM4GWwWspNmAia1u22T3ghoSBADv3hXgPYqXLqyPDhR923J96pE66BFFIicOPsDb0dZFkuzv8zQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA:prompt-0002",
+      "source_metadata": {
+        "article_index": 304,
+        "article_title": "Vol.42 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1732536121,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 2,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_Lg05bhJsgNIgB-~ObS4HzA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd",
+      "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 3",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488068&idx=1&sn=61f997c28c83eaabc268e93806b165b2&chksm=96aabfa9379e763486b918cc4c6f56d4d1292b7da42864757024d932f9de7b33432f29bd63b5#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "title_aliases": [
+    "Vol.42 - Midjourney | 精选作品关键词提示 · 提示词 3"
+  ]
+}

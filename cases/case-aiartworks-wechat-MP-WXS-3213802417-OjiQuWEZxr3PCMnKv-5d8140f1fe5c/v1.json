@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vJiczko3ibsxQc7mBVV70cPFlVRcxianKYFG70CYDdvUQfg60wxATKVurg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vaFbRuGONxkfLDu6DtjGcbqozXL52AzEUhZ5hUj2YKanUd9icrp2ke7g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OjiQuWEZxr3PCMnKv-5d8140f1fe5c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bad6259869712ee265c41e6c1062c69b994f04a8e1a8839abc9099dc17d15235",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "4bvbx6u",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "The girl is lying asleep on her stomach, with her hands behind her back. The eyes are closed. Photo in the forest. Photos from afar --profile 4bvbx6u --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vJiczko3ibsxQc7mBVV70cPFlVRcxianKYFG70CYDdvUQfg60wxATKVurg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTKLBghSpV8zCXicicUibzh2vaFbRuGONxkfLDu6DtjGcbqozXL52AzEUhZ5hUj2YKanUd9icrp2ke7g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A:prompt-0020",
+    "source_metadata": {
+      "article_index": 125,
+      "article_title": "Vol.203 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749166227,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 20,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OjiQuWEZxr3PCMnKvQ9x2A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd",
+    "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 21",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497741&idx=1&sn=0aa4f63083b2d68a05db1229f9990d9c&chksm=969fb419a51501a36f0c6dedadf5caad63ac1d4ba77ef5cfffe2d8005891c5b6796d33121459#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.203 - Midjourney | 精选作品关键词提示 · 提示词 21",
+  "version": "v1"
+}

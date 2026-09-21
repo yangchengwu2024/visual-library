@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6MaeCkP2Yuq5G0UQo8fibcHN4g0Dba7u0TJ6gJ4xR9Wc71SmGUazzIpQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-16603f791fc1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "93d5095a4d1fa231fd328aa70f429e6cfaf17122118095d9b13b05b2cb00e8ef",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "stylize": "750",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "A sticker of a chibi mammoth with pink, purple and blue colors, a hand holding it, on top of a couch, high detail, realistic, Canon EOS R5 --ar 16:9 --stylize 750 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6MaeCkP2Yuq5G0UQo8fibcHN4g0Dba7u0TJ6gJ4xR9Wc71SmGUazzIpQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw:prompt-0018",
+    "source_metadata": {
+      "article_index": 335,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.13",
+      "association_confidence": "high",
+      "createTime": 1729568093,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 19",
+  "version": "v1"
+}

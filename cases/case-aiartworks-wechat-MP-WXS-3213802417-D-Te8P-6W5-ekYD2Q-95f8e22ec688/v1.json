@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLLJIrUEYibL19jTMXMlXfRjvp7ict4BwR6zbn8nlbT8CTD0ib4I02oyIog/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-D-Te8P-6W5-ekYD2Q-95f8e22ec688",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2c1dab92bf4bac14b0434040178596f336fd589b42c8cbc1658781786c8abdd6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "ts9zsxy",
+    "stylize": "150",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/qSRXi0nagJw Jungle forest, lizard on tree, shot with Sony Alpha a9 and Sony FE 200-600 mm f/5.6-6.3 G OSS lens, natural light, blurred, background --ar 3:4 --profile ts9zsxy --stylize 150 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLLJIrUEYibL19jTMXMlXfRjvp7ict4BwR6zbn8nlbT8CTD0ib4I02oyIog/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g:prompt-0017",
+    "source_metadata": {
+      "article_index": 257,
+      "article_title": "Vol.83 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736564431,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_D~Te8P-6W5-ekYD2QNtl6g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0",
+    "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491533&idx=1&sn=9ef2e7d803bbffd030b330121172c614&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.83 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

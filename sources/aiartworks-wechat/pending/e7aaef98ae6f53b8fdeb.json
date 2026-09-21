@@ -1,0 +1,61 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rgS7n-aIch9EJEgk7-d068e9333696",
+  "fingerprint": "5a24c2d2a06d4d3cf0f24aa3ac7c46d153e616415c77f3db5868161860778007",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "vzaw3a4",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "800",
+    "v": "6.1"
+  },
+  "prompt": "Two stylish girls minimalistic wearing black classic, effortless streetwear, sculptural high fashion futuristic eyewear in the style of a sartorialist candid instagram shooting in a Milan --ar 9:16 --quality 2 --style raw --profile vzaw3a4 --stylize 800 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 200,
+      "article_title": "Vol.137 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1742437846,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495064&idx=1&sn=df36d300bc3acbc407cfefa3a087263a&chksm=968b9432ee7b72e3fd0f18162e7600094e97e77d2929c84bf0dd9f453b748dcfef8880fe5ed5#rd",
+    "title": "Vol.137 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495064&idx=1&sn=df36d300bc3acbc407cfefa3a087263a&chksm=968b9432ee7b72e3fd0f18162e7600094e97e77d2929c84bf0dd9f453b748dcfef8880fe5ed5#rd"
+  },
+  "source_id": "MP_WXS_3213802417_rgS7n~aIch9EJEgk7OfeNQ:prompt-0008",
+  "status": "pending",
+  "title": "Vol.137 - Midjourney | 精选作品关键词提示 · 提示词 9"
+}

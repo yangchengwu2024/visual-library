@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dVWpyAMsXO3ORrYTS8nok6gUODbeWpLN83mKbo51odky1QzqEjwXCXA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xfGX8Qx0RqGVu6E-g-494952e1e19a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "783744349912b2bf7d18b8e2159eba4ee7674368a84bdb8851b7b3c3b40b3eb0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "9l4nbei",
+    "sref": [
+      "1446355679"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "beautiful colourful sailboat at sunset, coastal artwork --ar 2:3 --sref 1446355679 --profile 9l4nbei --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dVWpyAMsXO3ORrYTS8nok6gUODbeWpLN83mKbo51odky1QzqEjwXCXA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ:prompt-0004",
+    "source_metadata": {
+      "article_index": 224,
+      "article_title": "Vol.118 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740537018,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd",
+    "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

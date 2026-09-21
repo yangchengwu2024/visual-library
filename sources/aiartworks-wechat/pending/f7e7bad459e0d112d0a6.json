@@ -1,0 +1,64 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cHRLxsnxcPeR-iBwF-da25332e0944",
+  "fingerprint": "00a01127920d2c6c9d4400c1292b06432d30838aff8d3252490b64272aaeb815",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "hd": true,
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/lUxfONFGMgg"
+    ],
+    "v": "8.1",
+    "weird": "13"
+  },
+  "prompt": "https://s.mj.run/YBDXTylYmlU Extreme close-up of a couple kissing pressed against textured translucent glass in front of the camera, only their lips and upper cheeks / cheekbones touching the glass surface, those contact areas appearing more defined and sharper than the rest. Lips and cheeks visibly compressed and slightly distorted by pressure against the glass, realistic flattened skin and soft deformation. The rest of their faces softly blurred and obscured behind the translucent glass. Subtle organic texture on the glass surface, lightly frosted / imperfect / softly diffused texture, dreamy hazy diffusion. Highly realistic skin texture, sensual elegant composition, intimate fine-art wedding editorial, soft beige warm light, dreamy film glow, Kodak Portra 400 tones, shallow depth of field, 75mm lens, subtle halation, soft grain, muted contrast, luxury cinematic wedding photography --chaos 10 --ar 2:3 --raw --sref https://s.mj.run/lUxfONFGMgg --weird 13 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0008",
+    "source_metadata": {
+      "article_index": 34,
+      "article_title": "Vol.298 - Midjourney V8.1 HD 特辑",
+      "association_confidence": "prompt_only",
+      "createTime": 1778196671,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd",
+    "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd"
+  },
+  "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0008",
+  "status": "pending",
+  "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 9"
+}

@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDUcnYzVuqJwicwLSdjGO7awId45lEddmMB4ic3fWYfz5mmCMQKjjmxBjDRfXJgMEPh6Stff9OTtEeUymjoJsKZsGpZZtibwLczx4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OqIXwnjr0vrqwwC5o-8694dd883012",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2d69a5c04e010f644b67c94e8922596e9f15db7ac23c4d86f17d69889b0b1065",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "sref": [
+      "https://s.mj.run/L2xDIhJScOM",
+      "https://s.mj.run/ajgZZwlvibc",
+      "https://s.mj.run/Q4wn0aoNyZw",
+      "https://s.mj.run/lG2oaAvB4h8",
+      "https://s.mj.run/Va5_uIYHBNs",
+      "https://s.mj.run/-za1-ZyzKfA",
+      "https://s.mj.run/PxTJ4ScoAoA",
+      "https://s.mj.run/Zesi35S1XR4",
+      "https://s.mj.run/O3555cUBQ5U"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Two adults seated beneath a single hanging lamp at a tiny outdoor table beside a dark canal. One person leans forward slightly with an open palm, asking calmly, while the other remains relaxed rather than cornered. A single pale stone rests between them, representing one present concern. Dark hand-inked editorial illustration, fine cross-hatching, strong negative space, deep smoky teal and blue-gray shadows, muted peach figures, pale cream table light, restrained amber lamp glow, vertical 9:16, no text, no logo, no watermark, no photorealism, no 3D, no anime. --ar 9:16 --sref https://s.mj.run/L2xDIhJScOM https://s.mj.run/ajgZZwlvibc https://s.mj.run/Q4wn0aoNyZw https://s.mj.run/lG2oaAvB4h8 https://s.mj.run/Va5_uIYHBNs https://s.mj.run/-za1-ZyzKfA https://s.mj.run/PxTJ4ScoAoA https://s.mj.run/Zesi35S1XR4 https://s.mj.run/O3555cUBQ5U --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDUcnYzVuqJwicwLSdjGO7awId45lEddmMB4ic3fWYfz5mmCMQKjjmxBjDRfXJgMEPh6Stff9OTtEeUymjoJsKZsGpZZtibwLczx4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w:prompt-0008",
+    "source_metadata": {
+      "article_index": 15,
+      "article_title": "Vol.317-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1784676626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd",
+    "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

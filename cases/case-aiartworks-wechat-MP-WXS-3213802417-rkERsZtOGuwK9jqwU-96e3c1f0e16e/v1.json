@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBkoiaCpxBDmviczPzzOW7O7rh3y8CYPcslpUXib9PdOP4A5ibtsO0Ux3lAbbmCicVibyE8icTwfxYRpL6g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkERsZtOGuwK9jqwU-96e3c1f0e16e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0358909ffc55b07e9606a8ea1a2db1354724833f8c6388505d65606d46730a7c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "59:128",
+    "chaos": "72",
+    "stylize": "695",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "In the twilight of the Li River, the mist dances in the evening breeze and the fishing fires are like stars. The telephoto lens compresses the fishing boat and the reflection, and the moonlight diffraction gilds the water with a silver glow. The super wide angle accommodates the karst peaks and the river, the fisherman casting his net in the mist, the bamboo raft gently rocking, the picture is quiet and poetic, the water waves gently rippling, the 11mm super wide angle accommodates the starlight on the lake and the peaks at the foot of the mountains at the same time. --chaos 72 --ar 59:128 --stylize 695 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBkoiaCpxBDmviczPzzOW7O7rh3y8CYPcslpUXib9PdOP4A5ibtsO0Ux3lAbbmCicVibyE8icTwfxYRpL6g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw:prompt-0001",
+    "source_metadata": {
+      "article_index": 211,
+      "article_title": "Vol.129 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741660236,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd",
+    "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

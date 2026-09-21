@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4NsMZy71rzDyC5Y9ibJ15nLib1stsvba3Gj0CqaTJyalNTMjNicRETMqRg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9-mN5ZfbichTXqi-h-efd375910784",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "38b42eb9f9e0e729c887af1b598933288f624a3c2fb6db7da2c4e32709e5fd94",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "59:119",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Chinese landscape, sunset in the west of mountains and rivers, Chinese-style architecture, small boat on the river surface, ink painting style, red sky, black cliffs, pine trees, Chinese pavilion on the cliff top, distant sun setting behind mountain peaks, reflection on the water surface, warm colors, tranquil atmosphere. High-definition wallpaper. --ar 59:119 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4NsMZy71rzDyC5Y9ibJ15nLib1stsvba3Gj0CqaTJyalNTMjNicRETMqRg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw:prompt-0006",
+    "source_metadata": {
+      "article_index": 243,
+      "article_title": "Vol.102 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738895457,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd",
+    "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheDhUHqK99RCGK13TzM6ar3Y0GiaHygrrV5neR2uGe3OEpgdhSkziaN3uMgcHBUTMxtC0hNlMyM4aow/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-V-KT4z4OJr55Ir4K--e654728002aa",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "07d20ed3d72687e19fc0437af6735944c1f698cef820695053423ebe34ea302b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Bird beliber a Flew to the delicate flowers of hibiscus, Sophisticated, high-end, luxurious, professional, luxury product style . elegant --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheDhUHqK99RCGK13TzM6ar3Y0GiaHygrrV5neR2uGe3OEpgdhSkziaN3uMgcHBUTMxtC0hNlMyM4aow/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g:prompt-0010",
+    "source_metadata": {
+      "article_index": 140,
+      "article_title": "Vol.189 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747881025,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_V~KT4z4OJr55Ir4K~DIt3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497114&idx=1&sn=d7fed675a7c61aa2022f4f2e0fa38d47&chksm=963cdc18ad60b6113bb14037b7b1a0b84f9ff64c68969ed7faf0f3e86124f22c0501c964d21e#rd",
+    "title": "Vol.189 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497114&idx=1&sn=d7fed675a7c61aa2022f4f2e0fa38d47&chksm=963cdc18ad60b6113bb14037b7b1a0b84f9ff64c68969ed7faf0f3e86124f22c0501c964d21e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.189 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

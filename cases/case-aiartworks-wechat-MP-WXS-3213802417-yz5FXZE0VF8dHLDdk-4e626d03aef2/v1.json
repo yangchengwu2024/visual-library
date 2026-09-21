@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBOejpI9mHT67VPoJ1VbBBhmYB6RcYKjKDgm7sgJVmuhBG1BQAiaqs1W2vn5gGh9PNkjnpFr7UdKVQuKljAQngSW5FRIn8m4Nzw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-4e626d03aef2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4c16670667d9605f2cb685f1952ee255a0b0d991f9ebbcc268d33e8eae0e1709",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "100",
+    "hd": true,
+    "profile": "4j63kjp",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a cinematic night street portrait, y2k aesthetic, an extremely beautiful young woman, flawless but natural beauty, effortlessly stunning, strikingly pretty face, perfectly balanced facial features, clear luminous skin, soft glow, glossy lips, expressive eyes, captivating gaze, wind-blown long hair partially covering her face, effortlessly attractive, highly photogenic, cool attitude, nonchalant expression, subtle confidence, brown leather jacket with subtle shine, urban night street with neon signs and traffic lights, on-camera flash photography, early 2000s digital camera vibe, nostalgic y2k mood, ultra high resolution, sharp focus, crisp details, clean image quality, cinematic lighting, high contrast, editorial street portrait, dreamy yet realistic, the kind of beauty that immediately draws attention --chaos 100 --ar 9:16 --raw --profile 4j63kjp --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBOejpI9mHT67VPoJ1VbBBhmYB6RcYKjKDgm7sgJVmuhBG1BQAiaqs1W2vn5gGh9PNkjnpFr7UdKVQuKljAQngSW5FRIn8m4Nzw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0004",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 5",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:03+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJf0afNo45tXib9UMB8l47p4e0Vk4icDs3PY184PeTemMFAXibdrbckTbRQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qP6pBX6G3IyU9tvky-a9fb4730cf40",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0710e249c0fedfc0b8cf0ab0d06faf47f7b6997b044446620c40f31af19d749",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "iw": "2",
+    "sref": [
+      "https://s.mj.run/zcEx0sMXO2c",
+      "https://s.mj.run/wdfCPI7gl9U"
+    ],
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/wdfCPI7gl9U A digital art piece featuring an abstract background with vertical lines in shades of blue, creating the illusion that they form a gradient from light to dark. The composition is minimalist and evokes feelings of calmness and tranquility. This artwork would be suitable for various creative projects as it captures attention due to its unique visual effect. The focus is on the face. Suitable for iPhone wallpaper --ar 9:16 --sref https://s.mj.run/zcEx0sMXO2c https://s.mj.run/wdfCPI7gl9U --iw 2 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffOicjfRUfNXcMjrQUx3hIJf0afNo45tXib9UMB8l47p4e0Vk4icDs3PY184PeTemMFAXibdrbckTbRQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg:prompt-0007",
+    "source_metadata": {
+      "article_index": 141,
+      "article_title": "Vol.188 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747794647,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qP6pBX6G3IyU9tvky9VHUg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd",
+    "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497085&idx=1&sn=1c5656e800af46641d633b46b6f7f8b0&chksm=965e5191af3150dc2317791cde2dfda34de570bd73e055ef435912985c136e2f4de794b30c90#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.188 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

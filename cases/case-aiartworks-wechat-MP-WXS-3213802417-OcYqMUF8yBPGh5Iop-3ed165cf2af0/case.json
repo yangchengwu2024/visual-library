@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OcYqMUF8yBPGh5Iop-3ed165cf2af0",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShekwWiahUCAne69BKCudMsWbaic7GhtFJOLu63BnrErk7EnEFzKzk31cmC83ahoeV2awWot3lkP8VSw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShekwWiahUCAne69BKCudMsWbRniahqX9BfaIiaBnkvGfjOBb11ChUy1qNmliaH25ncI5zECV7WIRAHLxg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg:prompt-0000",
+      "source_metadata": {
+        "article_index": 196,
+        "article_title": "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1742697051,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 0,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_OcYqMUF8yBPGh5Iopr~EGg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495156&idx=1&sn=83b43d69f80d453134915f195a85128e&chksm=962650b02de8e788980f919e999ffc9ea0cfa0220cf137d9d7c913cecc52a253a0ab4a99e17f#rd",
+      "title": "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示 · 提示词 1",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495156&idx=1&sn=83b43d69f80d453134915f195a85128e&chksm=962650b02de8e788980f919e999ffc9ea0cfa0220cf137d9d7c913cecc52a253a0ab4a99e17f#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示 · 提示词 1",
+  "title_aliases": [
+    "周末特别版 | Mypsychedelicgarden的幻觉花园 - Midjoureny | 精选作品与提示 · 提示词 1"
+  ]
+}

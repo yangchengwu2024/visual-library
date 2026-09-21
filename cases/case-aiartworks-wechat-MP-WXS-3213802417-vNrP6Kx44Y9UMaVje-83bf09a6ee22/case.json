@@ -1,0 +1,95 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vNrP6Kx44Y9UMaVje-83bf09a6ee22",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAzNMEibibib162ftjzHxgj3yNPsM2gLxgY8DNQX15OOgGajUODtTD7w6PYia46x64OkNdbwbd6U17SldB3Dw8dTSrXiaBxyNfOf6tE/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAsWPbh67Rxxcu734PVIICTI1bvycPic5Ll3WHRmIANaIg82B8Whq5vNSeNW0YaVPBRKDDDmU5uo4BGWF6hBWvuSc5nlskDAjQg/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBtOYdU0WYiaYhytBM7WiaPPVmNbibIFdm2a5UowaqOibpojvOFpHpGViaVkusiaTbYdyOZe9K4fKlMExOrtrkaBYLnMlTGL5LzF42k0/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDrEABQkfO6wRweODXCxSG40XWxYkibt8lFtXia2QwvYgibmkNRYicxpIHr8ha9uYHUDnLIFUYs7eeS6uEurAhBAcXSEHN8tuSYvMo/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAMJgc4QJiaib1gGUc0HB5f0rYtBukyibftsES16JRH9WxmzMbWG7UqCfGK6tRseAqoUbNThrzFcthxr5fd0ZLFJpH643dxlzV2icA/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDx0KIGNo7EAd6j3CwZPvGiaH9zcBwHbKmmoauT6M24gnRvnFaqqnEDoUBJsKpevKs1RTiaC3tgjm9zia4iaanu9qFHF0HFl6tot20/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCnIbrzeKjlafLeqZENRmespWFl8dINFFJtibszbcGNpicoSvW2WxIRTf3MToCvWtVvBeiaTzEPLy2PaIVSI1n7pDFWHwz3XIWeTc/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBrp4gA9icLyU5gIrADbkNickONV6GfOHajJR3DAqBuJDtPmRcMmdeDbo02w5Jwb7qzV9rFLfZksF0fiam2gawurINJkLyRDeCJfY/0?wx_fmt=webp&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-7"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g:prompt-0009",
+      "source_metadata": {
+        "article_index": 0,
+        "article_title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天",
+        "association_confidence": "high",
+        "createTime": 1789687866,
+        "image_storage": "external_url",
+        "image_url_count": 8,
+        "prompt_index": 9,
+        "review_url_count": 3,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 5
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+      "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 10",
+  "title_aliases": [
+    "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 10"
+  ]
+}

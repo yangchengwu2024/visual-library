@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqPzqe9cdaLNHpcBfW4LvwXtWNxevryTRJ6ibTKBZrLe4VCQu6HYY4diaeqQw4Mo7IhOoic4oq1ibO3A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qPRUbhjkq05dqmsWd-6ff478ff0d94",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "97005120b4ee146bfc4d6ecb7c9d95386fbd3b821024b068890a35dafbbc3093",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "n78gxbn",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a color painting in the 1940's pulp-noir style of a male detective in a beige trench coat and matching fedora looking off into the distance while standing in front of a mottled blue background, above the detective looms the ethereal face of a beautiful woman who is looking down on him, the woman is obviously the woman who haunts his dreams and waking thoughts, Barye Phillips, Robert McGinnis, Harry Schaare, Griffith Foxely --ar 2:3 --profile n78gxbn --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqPzqe9cdaLNHpcBfW4LvwXtWNxevryTRJ6ibTKBZrLe4VCQu6HYY4diaeqQw4Mo7IhOoic4oq1ibO3A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 218,
+      "article_title": "Vol.123 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741055424,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd",
+    "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

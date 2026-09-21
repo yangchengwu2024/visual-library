@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2CLtMpzI7lsyjRDWV-9c267ce9bee0",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheS7UNH7kiaTMsTXqzN565piat0urLIO1XUtbaibdRAkjXEyhibrL110krEIQaEIzXUZFibwUrBheWc9AQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig:prompt-0004",
+      "source_metadata": {
+        "article_index": 227,
+        "article_title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1740290221,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 4,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_2CLtMpzI7lsyjRDWVDn1Ig",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0",
+      "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 5",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493629&idx=1&sn=df60b88479b9e00ee8b32b123831c521&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 5",
+  "title_aliases": [
+    "周末特别版 | Celine的前卫艺术与商业美感 第2辑 - Midjoureny | 精选作品与提示 · 提示词 5"
+  ]
+}

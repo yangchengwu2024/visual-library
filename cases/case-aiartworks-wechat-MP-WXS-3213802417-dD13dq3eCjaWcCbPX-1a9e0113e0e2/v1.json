@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dbcbhZyDGswbnibOGhR9hQZZZncEbFOCnWwJItibvpgjT69YAdeerQW5Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dD13dq3eCjaWcCbPX-1a9e0113e0e2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0b4fb3e5aacf5d6e2aecf0810d65d3bb9f4a92206ce710a3125d8d471621b84e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "85:128",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A person inside a casino who throw a poker card with a black background on a poker table, 3D rendering, a glossy and translucent feel, a symmetrical composition, reflections of light on the surface, high-contrast lighting, and a product photography style. The overall color scheme is mainly blue and white, creating an atmosphere of luxury and sophistication. It evokes a sense of mystery in the dark tones. High resolution, high quality, high detail, hyper-realistic, super-detailed, hyper-detailed, super-zoomed in, and super-resolution. --ar 85:128 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dbcbhZyDGswbnibOGhR9hQZZZncEbFOCnWwJItibvpgjT69YAdeerQW5Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg:prompt-0019",
+    "source_metadata": {
+      "article_index": 225,
+      "article_title": "Vol.117 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740450668,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493728&idx=1&sn=aff8eaa2d5c992c3657e65026b221555&chksm=96e98fa7b33062dd85648f7a20087d8ebd2db3d33454771df87c6991618e989301c1e16592c2#rd",
+    "title": "Vol.117 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493728&idx=1&sn=aff8eaa2d5c992c3657e65026b221555&chksm=96e98fa7b33062dd85648f7a20087d8ebd2db3d33454771df87c6991618e989301c1e16592c2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.117 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

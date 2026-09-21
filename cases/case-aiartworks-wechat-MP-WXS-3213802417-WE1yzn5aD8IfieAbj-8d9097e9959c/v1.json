@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz9icEaGtiaskGXPtVEWfjnU6lcuTGx7QZBicFibMw9qy7RxxkHCiaIExI2BZA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WE1yzn5aD8IfieAbj-8d9097e9959c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4835da62939728daf6553b573f6418ee77ec6e0ed855fb5ef0034c4ab01bde42",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "au464c8",
+    "style": "raw",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "View from below, as if looking up at the sky from the ground a majestic fire-colored bird hovers overhead in the sky, glowing with deep red, orange, and golden light, not transparent, not blue, with flaming or radiant feathers, clearly visible and close, sacred and powerful, wings wide open, glowing with inner energy, a mythical spirit bird not a phoenix, but unique hovering above the viewer in a golden sunset sky, dust and wind in the air, cinematic mood, inspired by Bashkir mythology --ar 9:16 --style raw --profile au464c8 --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz9icEaGtiaskGXPtVEWfjnU6lcuTGx7QZBicFibMw9qy7RxxkHCiaIExI2BZA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q:prompt-0017",
+    "source_metadata": {
+      "article_index": 180,
+      "article_title": "Vol.152 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744080373,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd",
+    "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

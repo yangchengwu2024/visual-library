@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pS7V5JFZCpnwBDSQx-9136f9033aed",
+  "fingerprint": "3809d746a04faafbc59444b33e13b898ff7b7f3b86ce650ff5725999549776da",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "15",
+    "raw": true,
+    "stylize": "1000",
+    "v": "7"
+  },
+  "prompt": "a glowing cosmic forest where a tiny star boy and a glowing hedgehog walk together, illustrated in \"Celestial Threading\" style, hand-stitched constellations as character outlines, fiber-optic embroidery glow on trees and animals, velvet-textured night sky, floating glowing threads creating the forest, whimsical stitched paths beneath their feet, animals made of radiant stitched patterns, bioluminescent thread glows, magical atmosphere for a children's book --chaos 15 --ar 2:3 --raw --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA:prompt-0014",
+    "source_metadata": {
+      "article_index": 178,
+      "article_title": "Vol.154 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744252250,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd",
+    "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd"
+  },
+  "source_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA:prompt-0014",
+  "status": "pending",
+  "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 15"
+}

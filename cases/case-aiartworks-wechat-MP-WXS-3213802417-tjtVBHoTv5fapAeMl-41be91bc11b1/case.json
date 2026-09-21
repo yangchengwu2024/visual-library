@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tjtVBHoTv5fapAeMl-41be91bc11b1",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7Cm3uFHQ9z9VoINRFkjHpOIg95m5ia36jyvBgCI4Ilibua7nItOciaWaYA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_tjtVBHoTv5fapAeMl2xT3w#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqk65bcSoqQJEWuYhfGtvgP0xwRxBiaRVwsGYjNgUGZ5VqwGIBqYwJVO5Pias9QdeCH78RS1JPHGow/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_tjtVBHoTv5fapAeMl2xT3w#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_tjtVBHoTv5fapAeMl2xT3w:prompt-0000",
+      "source_metadata": {
+        "article_index": 122,
+        "article_title": "Vol.206 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1749425427,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 0,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_tjtVBHoTv5fapAeMl2xT3w",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497898&idx=1&sn=16697a20f1bfb24b27f4fd7c20c6d9f3&chksm=96dceaf4c5e7be90328cecde8750246fc87160137fd8f3f464bb812bbea5622dc38dcc77d64c#rd",
+      "title": "Vol.206 - Midjourney | 精选作品关键词提示 · 提示词 1",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497898&idx=1&sn=16697a20f1bfb24b27f4fd7c20c6d9f3&chksm=96dceaf4c5e7be90328cecde8750246fc87160137fd8f3f464bb812bbea5622dc38dcc77d64c#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.206 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "title_aliases": [
+    "Vol.206 - Midjourney | 精选作品关键词提示 · 提示词 1"
+  ]
+}

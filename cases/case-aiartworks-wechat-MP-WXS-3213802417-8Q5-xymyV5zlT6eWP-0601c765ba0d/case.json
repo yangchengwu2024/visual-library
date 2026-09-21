@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8Q5-xymyV5zlT6eWP-0601c765ba0d",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aA0YwoCdIdHyOAlrDa6ez9Ty4TGFzjcLtlRgDWaiblb6AxQR6purjL5UQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAe9010vaNfYqXSBZBgTBq284X7XYQ463BYzxz864Od4gknPtTicJqHdQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ:prompt-0010",
+      "source_metadata": {
+        "article_index": 128,
+        "article_title": "Vol.200 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1748907024,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 10,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_8Q5-xymyV5zlT6eWPAoWSQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497640&idx=1&sn=cdfcd489ad9e0f81a7375a853d7f424b&chksm=966b0bc3f9d7e409d1e16bfd3ef10a1ddcef01c1115185e3e30fd7a9c08c611e0cd1a927accb#rd",
+      "title": "Vol.200 - Midjourney | 精选作品关键词提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497640&idx=1&sn=cdfcd489ad9e0f81a7375a853d7f424b&chksm=966b0bc3f9d7e409d1e16bfd3ef10a1ddcef01c1115185e3e30fd7a9c08c611e0cd1a927accb#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.200 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "title_aliases": [
+    "Vol.200 - Midjourney | 精选作品关键词提示 · 提示词 11"
+  ]
+}

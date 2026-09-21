@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOWz38x8zBEfibKNAwCplrdhib4tOMFOAfd1whHhbGPt0flFWoEqauamRA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ETODmezWt5CG7EzAD-ac4cc5585256",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ab2b24f12243a81e3ba301f781411edc85bf8c4ace0eaeccadd8de9a0cf9ac1a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A grand low-angle view looking up at a magnificent Chinese palace floating gracefully above the clouds. The palace features asymmetrical, flowing structures with warm, natural colors rich red wooden beams, dark jade accents, and terracotta-colored roofs with intricate tile work. The architecture is organic, with curved roofs that gently rise into the sky, adorned with ornate carvings and delicate lattice patterns. The first floor has an open, airy hall with irregular, carved wooden columns and archways that seem to float above the clouds, supported by flowing, organic architectural elements. The palace exudes a sense of grandeur and serenity, with soft golden light filtering through the mist, casting subtle shadows on the richly textured wood and stone surfaces. The scene is bathed in warm, natural tones, avoiding any metallic sheen. The surrounding clouds are soft and diffused, with beams of light breaking through and highlighting the beauty of the intricate wooden details. The atmosphere is ethereal and divine, with floating particles and an otherworldly sense of peace and tranquility. Cinematic lighting, ultra-detailed textures, high-resolution, 16k render, masterpiece capturing the serene and timeless beauty of a celestial palace. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOWz38x8zBEfibKNAwCplrdhib4tOMFOAfd1whHhbGPt0flFWoEqauamRA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA:prompt-0006",
+    "source_metadata": {
+      "article_index": 46,
+      "article_title": "Vol.286 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763508615,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd",
+    "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

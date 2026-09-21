@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NLFtttTHmULbVGnr--80a0d7259d98",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd0brVicwle35LEwoIsY5yBtJzWuohVquCHEhWhiamSFmZv9VGHarD7vrWe7QelhAEAnU3fB7zKqHicQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd0brVicwle35LEwoIsY5yBth17Tr98FjicibicIINIb8ia6nnd4icqVhlTMooMicINhmcJCLmtPhhAR7GjQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A:prompt-0010",
+      "source_metadata": {
+        "article_index": 76,
+        "article_title": "Vol.255 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1757287821,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 10,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_NLFtttTHmULbVGnr~vKM0A",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500149&idx=1&sn=4d7d9435ab5a145dfea0f310264921a9&chksm=962fe56d1a656695dfa23e4c3cc5292328ea86bd9ccb5cbd98db8871d53cd41d507374f94469#rd",
+      "title": "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500149&idx=1&sn=4d7d9435ab5a145dfea0f310264921a9&chksm=962fe56d1a656695dfa23e4c3cc5292328ea86bd9ccb5cbd98db8871d53cd41d507374f94469#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "title_aliases": [
+    "Vol.255 - Midjourney | 精选作品关键词提示 · 提示词 11"
+  ]
+}

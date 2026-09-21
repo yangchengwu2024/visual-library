@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdaibibTDqzXdABx6rBciaq3m5plCCXd2aWpFnH2ACpvzxBEV7iaI5gHRX20PJ6NcK79nn8gtq3dBibqQw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_o7nNZdoQhuzoYPtBsPY0Gg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-o7nNZdoQhuzoYPtBs-a0b7b0d507a4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ecd50baf5eb36134fc069a4e38e2f054091ce0be580e39db3bfd419072061cc7",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "szhze7m",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A 3D cartoon illustration of gorilla, icon, minimalistic background. 3D animated rounded style. s. Rendered in a modern, 3D Cartoon style, smooth edges, playful design --style raw --profile szhze7m --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdaibibTDqzXdABx6rBciaq3m5plCCXd2aWpFnH2ACpvzxBEV7iaI5gHRX20PJ6NcK79nn8gtq3dBibqQw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_o7nNZdoQhuzoYPtBsPY0Gg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_o7nNZdoQhuzoYPtBsPY0Gg:prompt-0014",
+    "source_metadata": {
+      "article_index": 229,
+      "article_title": "Vol.114 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740105041,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_o7nNZdoQhuzoYPtBsPY0Gg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493474&idx=1&sn=a9f72db57f0bacebe5dde7a6e400986b&scene=58&subscene=0",
+    "title": "Vol.114 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493474&idx=1&sn=a9f72db57f0bacebe5dde7a6e400986b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.114 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

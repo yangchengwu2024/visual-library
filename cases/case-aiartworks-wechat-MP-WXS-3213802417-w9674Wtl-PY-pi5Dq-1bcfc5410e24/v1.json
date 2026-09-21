@@ -1,0 +1,101 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpbSvM5jfZ01WQFlWmFib2FS5CF2kvICQnng2kNWoyvrlUFMMtgiamo11g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpY5pGKSTE2xFiaujhY0lEEyeooAxG4jAFoewu3YOOzoaFTyRxhpwTtBg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpoxqeIDoIKnoH976Kz0dx3L6YOjl5ZLc84felWjwlRe0DhqiaSXVwssQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGph4Foy8lhnSiaSiaLL8qVA3dl4OkuwqUAibzMCoib3f2aAGKL6BOLnKow2Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpLzueP4ibHHmQdSCdU5JdFVbfCmicyhuDXphvXmBvxDHoZ2gQV8pBCGdg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-4"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-w9674Wtl-PY-pi5Dq-1bcfc5410e24",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f97ea49a2c275b2b14817ad9db430be13ec41aeb69e490de583fdaf098b4d7fd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2"
+  },
+  "previous_version": null,
+  "prompt": "3D game cover artwork for a UAE National Day Etisalat-branded flying game. A fun stylized 3D airplane flying forward toward the viewer in bright sky-blue atmosphere. Soft low-poly clouds floating around. Vibrant UAE National Day accents in the scene (subtle red, green, white, black ribbons or glow trails). Add a clean stylized Abu Dhabi skyline silhouette at the bottom (Etihad Towers, Sheikh Zayed Grand Mosque, Nation Towers) in simple futuristic shapes. Include soft Etisalat-green light streaks or digital glow elements around the airplane to show tech + energy without overpowering the scene. Friendly, family-oriented, modern, polished cartoon-3D style, high-resolution, clean composition, no text. --ar 3:2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpbSvM5jfZ01WQFlWmFib2FS5CF2kvICQnng2kNWoyvrlUFMMtgiamo11g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpY5pGKSTE2xFiaujhY0lEEyeooAxG4jAFoewu3YOOzoaFTyRxhpwTtBg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpoxqeIDoIKnoH976Kz0dx3L6YOjl5ZLc84felWjwlRe0DhqiaSXVwssQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGph4Foy8lhnSiaSiaLL8qVA3dl4OkuwqUAibzMCoib3f2aAGKL6BOLnKow2Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicoMnEJdW6Hib8NwUVWDLGpLzueP4ibHHmQdSCdU5JdFVbfCmicyhuDXphvXmBvxDHoZ2gQV8pBCGdg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw#image-4"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw:prompt-0014",
+    "source_metadata": {
+      "article_index": 45,
+      "article_title": "Vol.287 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763682078,
+      "image_storage": "external_url",
+      "image_url_count": 5,
+      "prompt_index": 14,
+      "review_url_count": 5,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_w9674Wtl~PY-pi5DqJirqw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503719&idx=1&sn=361985406b2553faa77f21086d4806cb&scene=58&subscene=0",
+    "title": "Vol.287 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503719&idx=1&sn=361985406b2553faa77f21086d4806cb&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.287 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

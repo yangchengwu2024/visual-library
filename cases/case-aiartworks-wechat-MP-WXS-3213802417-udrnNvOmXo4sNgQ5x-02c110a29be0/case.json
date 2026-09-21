@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-udrnNvOmXo4sNgQ5x-02c110a29be0",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6hktwGuFkibEwxL4EDQQZVtG0u4xbXv4icdtibdv6IbTge3tp2v2PYFbqibg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6hbuEmeAjXy3k5N0XiadcicNftug9ITC0PyLC49zicibJUbstvTdQ1Q24gTA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA:prompt-0013",
+      "source_metadata": {
+        "article_index": 161,
+        "article_title": "Vol.169 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1745807946,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 13,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd",
+      "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "title_aliases": [
+    "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 14"
+  ]
+}

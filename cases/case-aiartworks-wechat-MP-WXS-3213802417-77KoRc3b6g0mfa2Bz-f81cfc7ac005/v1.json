@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFaNKLzPLbWvPzmcS7eAtXyoFY48XloW0P258dtbHCI50iapib7iaI5kic5g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-f81cfc7ac005",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "51997c310fc87cfe45e98b6d8f7fd09028233bf5c3f56ae0e641a0dc70bd8756",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "In the style of the photograohy Christian Dior 1998 Haute Couture by John Galliano. A photograph of an elegant, yet bizarre scene with the focus on a woman surrounded by a lavish spread of food and decorations. The setting is in a richly decorated room with red walls, candles, bows and chandeliers, creating a contrast between luxury and surrealism. She is central in the frame, framed in turn by the towering feast around her. She has blonde hair styled up in big curls, wearing sequine fashion dress, her expression thoughtful and happy as she sits at a table covered in various forms of meat, fruits, vegetables, flowers, bows, and cake, oysters and champagne --ar 3:4 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFaNKLzPLbWvPzmcS7eAtXyoFY48XloW0P258dtbHCI50iapib7iaI5kic5g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA:prompt-0015",
+    "source_metadata": {
+      "article_index": 309,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.38",
+      "association_confidence": "high",
+      "createTime": 1732062009,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_77KoRc3b6g0mfa2BzSEjjA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487360&idx=1&sn=0a7ac437ca98606196468808c8644a42&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.38 · 提示词 16",
+  "version": "v1"
+}

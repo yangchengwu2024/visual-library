@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jndibiaApIYWPIws1lz8m0ctwM9oE0rftqPJm1xIZlBWVIbJnO6NcxiczuA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SM4rdgvIxPdTK9L8n-843cff14ae3c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4978fff7a7a6365ad35c6ad8319d70503572aed33686f7674c5ba25a8eff7cd9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "u5bielv",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Cover of \"Vogue\"magazine featuring an illustration of a bas-relief sculpted in finely carved white marble, with a level of detail and craftsmanship never seen before. In this masterpiece, a woman appears covered by a thin veil, also made of finely carved marble, which also covers her face. The woman is beautiful, gazing slightly toward the sky, and holding a modern cell phone in her right hand, also made of white marble. --ar 2:3 --raw --profile u5bielv",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jndibiaApIYWPIws1lz8m0ctwM9oE0rftqPJm1xIZlBWVIbJnO6NcxiczuA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw:prompt-0008",
+    "source_metadata": {
+      "article_index": 77,
+      "article_title": "Vol.254 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1757028640,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd",
+    "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

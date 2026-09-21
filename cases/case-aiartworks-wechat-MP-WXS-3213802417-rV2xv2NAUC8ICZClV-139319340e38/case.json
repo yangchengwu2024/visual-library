@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rV2xv2NAUC8ICZClV-139319340e38",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4bbicIfC5ibU2MGYmkWJUIUGnhekS9TqkeeKeOYJt9scd20JDrcLxic8ulg/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheDKkiau8T5EGbXAUh6KB9fMoUyHAfJ5vTyQYawdibahVPpFSpCkoAxAIhRAyKS1wMYWu02fGGqsoXg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg:prompt-0019",
+      "source_metadata": {
+        "article_index": 163,
+        "article_title": "Vol.168 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1745634624,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 19,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd",
+      "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 20",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "title_aliases": [
+    "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 20"
+  ]
+}

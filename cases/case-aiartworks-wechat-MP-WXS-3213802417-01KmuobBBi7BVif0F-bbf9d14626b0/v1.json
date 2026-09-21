@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc3dtBvNGJ3UaficedldH5XX4f4Tagkq17tmxgZ4JfaBzia0Y2bBTbkddTEHVsiaTg0kWaJB2MDSMibKA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-01KmuobBBi7BVif0F-bbf9d14626b0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f598a7252152cbabe54aaa2e7bee28b4d507eff3ac66400aa32384363862adfb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "chaos": "10",
+    "v": "6.1",
+    "weird": "300"
+  },
+  "previous_version": null,
+  "prompt": "fashion photograph, vogue, black cybernetic horse with intricate metallic parts. gray background, A asian woman in a flowing blue dress rides on the horse, her dress billowing elegantly as if caught in a breeze. The woman has an air of strength and elegance, with long hair gently cascading down her back. The scene is illuminated by a soft, otherworldly light, casting subtle reflections off the horse's shiny surface. The background features hints of neon city lights and a sci-fi atmosphere ultra-realistic, high detail, cinematic lighting, 8K resolution. --chaos 10 --ar 4:3 --weird 300 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc3dtBvNGJ3UaficedldH5XX4f4Tagkq17tmxgZ4JfaBzia0Y2bBTbkddTEHVsiaTg0kWaJB2MDSMibKA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q:prompt-0004",
+    "source_metadata": {
+      "article_index": 318,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.29",
+      "association_confidence": "high",
+      "createTime": 1731327639,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_01KmuobBBi7BVif0FwxT9Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486737&idx=1&sn=cda06b91ee33455f3ba7112c63e8d4c8&chksm=9688bc4e614b7e8e676febed825f9607c91783930f08b279022cab1ac69d7770e70ee5c4e4d8#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.29 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486737&idx=1&sn=cda06b91ee33455f3ba7112c63e8d4c8&chksm=9688bc4e614b7e8e676febed825f9607c91783930f08b279022cab1ac69d7770e70ee5c4e4d8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.29 · 提示词 5",
+  "version": "v1"
+}

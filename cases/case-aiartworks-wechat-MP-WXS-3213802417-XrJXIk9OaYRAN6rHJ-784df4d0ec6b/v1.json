@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OFe0OjdjHw8zLib4IGBgEN9BanOotmruxtbC9DHbz0Rl0ib3H8ibK1fzrw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-XrJXIk9OaYRAN6rHJ-784df4d0ec6b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4f85e63b48f02091f6629dc6838c6d458d10f3b09e80d353d711e1d3294a9252",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "x2a39vv",
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Eyeball god in mouth Ostara?…Dio?…Luna? … Is light as hunger for colors? Eros the god of eyes and the hidden feelings shameful man with sighing in his heart a crack, deep and wide! Black Hole! Punk rock for a Black Hole! --ar 3:4 --profile x2a39vv --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OFe0OjdjHw8zLib4IGBgEN9BanOotmruxtbC9DHbz0Rl0ib3H8ibK1fzrw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w:prompt-0004",
+    "source_metadata": {
+      "article_index": 134,
+      "article_title": "Vol.194 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748394094,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd",
+    "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

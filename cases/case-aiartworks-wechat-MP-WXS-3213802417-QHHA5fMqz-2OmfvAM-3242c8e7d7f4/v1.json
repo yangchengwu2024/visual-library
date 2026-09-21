@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6c8d5OUpt5AavoNvAcDImv8xNJeoZr4JgKUa4Ribaic3I8eLoZzft8usw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-3242c8e7d7f4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0f5db95bf8e95912871512b456d94b7d54c2bf34ba08afd7932d35bedead1339",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "100",
+    "personalize": "ximsu7v",
+    "sref": [
+      "https://s.mj.run/FEKQs4z0cvs",
+      "https://s.mj.run/JB98DHPd5L0",
+      "https://s.mj.run/JkJMTRS_E8g",
+      "https://s.mj.run/DdQgPghaEOk"
+    ],
+    "stylize": "500",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "a 3D chatacter graphic design of an ANCIENT GREEK GODDESS, a renaissance artist by PETER PAUL RUBENS --chaos 100 --ar 4:5 --sref https://s.mj.run/FEKQs4z0cvs https://s.mj.run/JB98DHPd5L0 https://s.mj.run/JkJMTRS_E8g https://s.mj.run/DdQgPghaEOk --personalize ximsu7v --stylize 500 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6c8d5OUpt5AavoNvAcDImv8xNJeoZr4JgKUa4Ribaic3I8eLoZzft8usw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw:prompt-0002",
+    "source_metadata": {
+      "article_index": 335,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.13",
+      "association_confidence": "high",
+      "createTime": 1729568093,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QHHA5fMqz~2OmfvAMJaGIw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485561&idx=1&sn=20008c5f7d4582a375919c1530207e9b&chksm=964fb4cf89ecdaa2ddb8dc513ebe1729c9f3953cf3ca882707c9870ec66b0cc5d28daf754269#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.13 · 提示词 3",
+  "version": "v1"
+}

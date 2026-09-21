@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcJquwaUdjohZffErfdew9jiazuADNeaFbmouZF4feT5VSfpgicfiaTM2jxVgBtewAG1uQOWLDLthKnA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-A04c-B-t-Cvn4yKtO-4ba3c497f0dd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d3c8f925a94ae036486b9595cb9f2f55f3f00deee3f8e8b25a6081039289cd7e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "5",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Captured with the Canon EOS R5, an ultra-high-definition, hyper-realistic full-body portrait of a breathtakingly beautiful 20-year-old Korean woman with a slender athletic figure wearing a retro FILA tennis dress in white and navy with striped collar and matching Disruptor sneakers, walking confidently toward the camera. Towering beside her is an elegant giant white tiger with FILA-logo-shaped stripes and a silk logo scarf around its neck. The retro-style tennis court behind them is sunlit, pastel-toned, and crisply rendered. --chaos 5 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcJquwaUdjohZffErfdew9jiazuADNeaFbmouZF4feT5VSfpgicfiaTM2jxVgBtewAG1uQOWLDLthKnA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw:prompt-0003",
+    "source_metadata": {
+      "article_index": 151,
+      "article_title": "Vol.178 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746671453,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_A04c~B~t~Cvn4yKtOTBjKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496659&idx=1&sn=da7497c0ce2ea21445e19701364ce359&scene=58&subscene=0",
+    "title": "Vol.178 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496659&idx=1&sn=da7497c0ce2ea21445e19701364ce359&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.178 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

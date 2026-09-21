@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd4ibkRqNtJIBtia72GLDMX7hD2YfjlxRPzehcEhTZb4GbF4dD1V8FRLIhf341NE4icZGWgSOticicibbTw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZjDx9qZy1PXNrb7of-3bdab696c91d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "78ce27fdf4fac3972716861d600281f2faceb5d9ccbd43002c1a74786de8c0c4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Portrait of the singer Singer Freddy Mercury, with back and white and mustache, hyper-realistic style, studio lighting, symmetrical composition, high resolution. black and white photo --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd4ibkRqNtJIBtia72GLDMX7hD2YfjlxRPzehcEhTZb4GbF4dD1V8FRLIhf341NE4icZGWgSOticicibbTw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg:prompt-0005",
+    "source_metadata": {
+      "article_index": 86,
+      "article_title": "Vol.245 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755214267,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=1&sn=13329e72282fa3f4ee94de15222926c6&scene=58&subscene=0",
+    "title": "Vol.245 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=1&sn=13329e72282fa3f4ee94de15222926c6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.245 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

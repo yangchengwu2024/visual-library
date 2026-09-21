@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWhq3wMuyKUtqFSXUZSegCf349pMJ5aymZibtl3UAib7GykRpoxaer592A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--ZfWiLFnQXPGj5Yf1-002e7bd033dc",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f94e607cfeb22000bbe39da18225ef0f0e803768aeffd2040d3a9d0e3feddf06",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4"
+  },
+  "previous_version": null,
+  "prompt": "in the center of an endless circle, a black-and-white photograph-style image depicts a figure standing amidst hundreds or thousands of sheep on both sides, creating a circular pattern. the photo adopts a bird's-eye view perspective to highlight details like fur texture and facial expressions in high-definition photography. a single person appears small against so many animals, dressed in . --ar 3:4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWhq3wMuyKUtqFSXUZSegCf349pMJ5aymZibtl3UAib7GykRpoxaer592A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g:prompt-0013",
+    "source_metadata": {
+      "article_index": 50,
+      "article_title": "Vol.282 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762731024,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0",
+    "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

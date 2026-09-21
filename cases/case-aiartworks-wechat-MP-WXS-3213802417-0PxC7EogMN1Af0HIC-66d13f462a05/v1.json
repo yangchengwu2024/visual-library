@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL00xFu60KpnpnGrKxl1hLT8mjdT0HpZo5feDRmPDkjAYTic2md4JQ1gg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnItjc4eGOIAMS4SQFNEYsdKibMKQiaxia8IdYR9iciayPt2O8EgLbQq9iaEBJw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-66d13f462a05",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "aa6228af64108d179c7af09ca1321d905e1a0f589c52d8f158b03d2859a1c812",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "3d fluffy icon, A heart, felt material, solid-color background, flat style, simple style, Fine fluff, 3D rendering, a cute and lovely feeling, simple design, simple details. It features bright colors, natural lighting, and clear details --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL00xFu60KpnpnGrKxl1hLT8mjdT0HpZo5feDRmPDkjAYTic2md4JQ1gg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnItjc4eGOIAMS4SQFNEYsdKibMKQiaxia8IdYR9iciayPt2O8EgLbQq9iaEBJw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q:prompt-0007",
+    "source_metadata": {
+      "article_index": 249,
+      "article_title": "Vol.92 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737513108,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0",
+    "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

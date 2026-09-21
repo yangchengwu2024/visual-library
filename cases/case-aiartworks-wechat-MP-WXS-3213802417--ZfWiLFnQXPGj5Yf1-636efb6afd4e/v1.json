@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWuOy4V83KTVDmz583zcoTT3Od6BZkdRFOQK63r5YHTfZd5lztHbc28g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--ZfWiLFnQXPGj5Yf1-636efb6afd4e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3c0159e6bc318051f14270548c06b3665ba3eb05e6341a4ff0a27098627104b9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "65:87"
+  },
+  "previous_version": null,
+  "prompt": "vogue photoshoot of a fashionable model posing with wooden soldiers in the style of tim walker, with a white curtain backdrop, holding large toy soldiers, featuring navy blue and red details, and intricate, hyper-realistic photography for a vogue magazine editorial fashion shoot, featured on the cover of \"vogue\" magazine. --ar 65:87",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheU3HHuuapaK4GTQaTfg2ZWuOy4V83KTVDmz583zcoTT3Od6BZkdRFOQK63r5YHTfZd5lztHbc28g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g:prompt-0000",
+    "source_metadata": {
+      "article_index": 50,
+      "article_title": "Vol.282 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762731024,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_-ZfWiLFnQXPGj5Yf1aXv9g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0",
+    "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503216&idx=1&sn=d930c5e172435dce50744e0afbd4d350&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.282 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

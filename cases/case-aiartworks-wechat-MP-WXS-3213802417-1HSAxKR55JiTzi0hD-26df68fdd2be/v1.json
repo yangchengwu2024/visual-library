@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmv21BHCaQHK9ibtKwibEic9vwELuhtyZO9AZYV14g2E3bDsS9Wic81icEGpibg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1HSAxKR55JiTzi0hD-26df68fdd2be",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "84dd44b344c4bcbb539879b3f66ee5f4e1f5c80944f2d1c5eddd2907a048c2f2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A series of glitched and distorted images featuring the face of an Asian woman, crystal blue eyes, each depicting different emotional expressions like joy or sadness. The background is a black white gradient with hints of pink. Each image has glitching effects that create static-like textures around his head, adding to its surreal quality. This style creates a sense of mystery and intrigue as he emerges from these digital whirlwinds. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmv21BHCaQHK9ibtKwibEic9vwELuhtyZO9AZYV14g2E3bDsS9Wic81icEGpibg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA:prompt-0018",
+    "source_metadata": {
+      "article_index": 332,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.16",
+      "association_confidence": "high",
+      "createTime": 1729823857,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485945&idx=1&sn=5500476e182927edf82dda7bee3759a0&chksm=96fb177b9212b026848accc60bf498d1c224c856bfc42600429aa4481566bde8a72ac4e50984#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.16 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485945&idx=1&sn=5500476e182927edf82dda7bee3759a0&chksm=96fb177b9212b026848accc60bf498d1c224c856bfc42600429aa4481566bde8a72ac4e50984#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.16 · 提示词 19",
+  "version": "v1"
+}

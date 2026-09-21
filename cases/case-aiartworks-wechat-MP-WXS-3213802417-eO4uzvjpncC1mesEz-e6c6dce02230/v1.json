@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdv3YSOyQiaMFLbe8JGVsM1cxhZcn2DoXWEUKZPWiaOJ6BwUcTOO0CGKPaysUqxhia5JrYXxKq1S9tjA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_eO4uzvjpncC1mesEzdFwKg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eO4uzvjpncC1mesEz-e6c6dce02230",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bf432235df7bf14acc2e82e230af7c0eda224722582f660227dd3433b91ce490",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "j5kx367",
+    "sref": [
+      "1511988824",
+      "525600017",
+      "3443365887",
+      "https://s.mj.run/tZsJELEZChk",
+      "https://s.mj.run/jnom4_zqbZQ",
+      "https://s.mj.run/uS6ftP5S7B8"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Grainy vector style illustration of an alien abduction over a dark taiga landscape at night. Grainy gradients --ar 9:16 --sref 1511988824 525600017 3443365887 https://s.mj.run/tZsJELEZChk https://s.mj.run/jnom4_zqbZQ https://s.mj.run/uS6ftP5S7B8 --profile j5kx367 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdv3YSOyQiaMFLbe8JGVsM1cxhZcn2DoXWEUKZPWiaOJ6BwUcTOO0CGKPaysUqxhia5JrYXxKq1S9tjA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_eO4uzvjpncC1mesEzdFwKg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_eO4uzvjpncC1mesEzdFwKg:prompt-0004",
+    "source_metadata": {
+      "article_index": 264,
+      "article_title": "Vol.77 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735957842,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_eO4uzvjpncC1mesEzdFwKg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490987&idx=1&sn=3186031d2c13e26fcdaf6f5fd3cd3278&scene=58&subscene=0",
+    "title": "Vol.77 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490987&idx=1&sn=3186031d2c13e26fcdaf6f5fd3cd3278&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.77 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

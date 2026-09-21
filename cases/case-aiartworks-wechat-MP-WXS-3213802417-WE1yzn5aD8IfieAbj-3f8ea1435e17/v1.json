@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz9ZsjACpclWSgibBvNOKAjxtvcFTt8ia9NMOrYnZwdQTvwz9Y8PFkIIabg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WE1yzn5aD8IfieAbj-3f8ea1435e17",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "da9e1d12783576a5211a43764385bb7ae16f025b31937fe4dd5ecf70112ab220",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Decaying fox dissolving into bones and tendons, skeleton fox, ethereal, growth and decay, forest in the background, dynamic composition, hyperdetailed fur, macabre, atmospheric perspective --ar 2:3 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz9ZsjACpclWSgibBvNOKAjxtvcFTt8ia9NMOrYnZwdQTvwz9Y8PFkIIabg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q:prompt-0010",
+    "source_metadata": {
+      "article_index": 180,
+      "article_title": "Vol.152 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744080373,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd",
+    "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

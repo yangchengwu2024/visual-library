@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vNrP6Kx44Y9UMaVje-e15aa3550328",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBl0eY0G1tcdBia0n7FVJXvFeeJFPK7aBEXZvnUGIw6XQBdcqWPSMHokiaYjsMgo1oCsEh5wgn7zOgFJgTYvicuicOibx5khVS63dYU/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCFCfnWya8ia4YSjH8VnX7CWeP12OGGKMqeZjlKv5VsBicXaaEycX8oMKg98g48HcQZzic2DLenzAEa5Bsx6k0CWibvKNBiadG8iay24/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g:prompt-0013",
+      "source_metadata": {
+        "article_index": 0,
+        "article_title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天",
+        "association_confidence": "high",
+        "createTime": 1789687866,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 13,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 2
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+      "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 14",
+  "title_aliases": [
+    "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 14"
+  ]
+}

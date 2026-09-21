@@ -1,0 +1,79 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBcmsuLappXzanHkicmx1YMBzwaPoFl5amu3OEsqRlIUMECfPQK0ibjkgYcvNhdMzx1eZKibHBTibYyXlfKjibSYgjGofCPibCY4H0Go/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBSwl9fN6ZsxZicf30hxaicCRV73szpsBwmVbricmQPz7dhgbdS8DiafTL19ASrx4t77hN616icltJQM4lehaUNIS1wQibsibZdPxRtA0/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-ee00a6fa99ee",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8d906e17bc448955198feb7a26e638b101462b5bb7eb8d8023db226a2666a16e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "55",
+    "hd": true,
+    "profile": "7ti33np",
+    "sref": [
+      "2004640482"
+    ],
+    "stylize": "800",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "he empty silhouette of a beautiful person is made entirely of completely transparent, smooth glass, inside which delicate green young plant shoots sprout in the form of a skeleton with the slightest yellow-green backlight, barely noticeable. The head is also made of glass, transparent and empty. A smooth, clean background matches the silhouette, emphasizing purity and vitality. Soft, diffused light, detail, highlights, and surface reflections. Minimalism, very few plants, lots of air and empty space. A delicate and light frame. --chaos 55 --ar 2:3 --sref 2004640482 --profile 7ti33np --stylize 800 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBcmsuLappXzanHkicmx1YMBzwaPoFl5amu3OEsqRlIUMECfPQK0ibjkgYcvNhdMzx1eZKibHBTibYyXlfKjibSYgjGofCPibCY4H0Go/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBSwl9fN6ZsxZicf30hxaicCRV73szpsBwmVbricmQPz7dhgbdS8DiafTL19ASrx4t77hN616icltJQM4lehaUNIS1wQibsibZdPxRtA0/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0006",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 6,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OwYSltYI05XGIgA71V1YDAPgafPAE5d3GBtZriaeYBdge7Fau0JBsDVA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Yr4IeCA9u0ASnyl8m-c9a7cb6293ef",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "173cd070c477106fce8f4c7a47bc5e7690a5f30948c994f1254c4ba9caa1eb03",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "stylize": "150",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cat silhouette leaping down from the top of a traditional red palace wall, reminiscent of the Forbidden City in Beijing. The scene captures the dynamic motion of the cat, with its shadow cast sharply against the smooth red brick surface. The background features intricate architectural details typical of ancient Chinese palaces, with a serene and historical atmosphere. The lighting is carefully composed to highlight the interplay of light and shadow, creating a dramatic and visually striking effect, inspired by the art of chiaroscuro --ar 16:9 --stylize 150 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OwYSltYI05XGIgA71V1YDAPgafPAE5d3GBtZriaeYBdge7Fau0JBsDVA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g:prompt-0019",
+    "source_metadata": {
+      "article_index": 271,
+      "article_title": "Vol.71 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735357807,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0",
+    "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

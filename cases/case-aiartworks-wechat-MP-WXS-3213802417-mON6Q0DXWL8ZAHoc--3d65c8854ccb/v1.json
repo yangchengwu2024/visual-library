@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorNPpWOBp1zAKNicDibSsiaiaviaft8TGpLUfRJoSVbvyXWDAnnLXvzS4TAMA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-mON6Q0DXWL8ZAHoc--3d65c8854ccb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d3e20c2851df83471bdf87ff3a727682c9c5195b26ee02132b77a78dcc9a0366",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "realistic side view image with a couple of scientists inside an ancient facility studing strange symbols from an ancient wall, inside the facility is much light 4k --ar 3:2 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorNPpWOBp1zAKNicDibSsiaiaviaft8TGpLUfRJoSVbvyXWDAnnLXvzS4TAMA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw:prompt-0005",
+    "source_metadata": {
+      "article_index": 342,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.04",
+      "association_confidence": "high",
+      "createTime": 1728796732,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_mON6Q0DXWL8ZAHoc~8bokw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484953&idx=1&sn=c3aabd80601a7881ff040a108ed935e0&chksm=96805ea8d3f065a2a8af0b0617974f1960a86677569fcf3fb010ce16e1b911c665f8b41fb273#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.04 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484953&idx=1&sn=c3aabd80601a7881ff040a108ed935e0&chksm=96805ea8d3f065a2a8af0b0617974f1960a86677569fcf3fb010ce16e1b911c665f8b41fb273#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.04 · 提示词 6",
+  "version": "v1"
+}

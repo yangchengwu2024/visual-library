@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo8ToO9N1r2W737vohVSIZicLhLcHDXkpv6lIyFITicbO5zV6lXaGKo0ZrrCwTH5h7ichfvcz4iaG6nw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2XIb5gw8FW2Gr9V-x-10316f5d4d9f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0a44d5e651f49dbeac20ee496ae2aca1624641a0ccbca8ea1fe3c032367bbfef",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "Keith Haring Abstract colorful art. Sad woman and man hugging --ar 3:2 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo8ToO9N1r2W737vohVSIZicLhLcHDXkpv6lIyFITicbO5zV6lXaGKo0ZrrCwTH5h7ichfvcz4iaG6nw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A:prompt-0013",
+    "source_metadata": {
+      "article_index": 240,
+      "article_title": "Vol.104 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739154648,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd",
+    "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

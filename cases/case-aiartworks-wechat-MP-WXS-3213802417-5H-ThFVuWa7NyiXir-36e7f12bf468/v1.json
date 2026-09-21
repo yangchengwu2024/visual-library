@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WV6YXiaKMF8Ssyz2usUS3qAA6lXWZxRSul8aR5CUWtwsRk1tho6ZDHcfA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVhcIGXya9b6m7Bbcrzy5QjUticuhZeV0ImIP6ESqwlibNzMFrD7TxRlOw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5H-ThFVuWa7NyiXir-36e7f12bf468",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "096e9bcc3041bbbf2dbfb4452ca3c8292817857ea04fffdab0b869c84bb46163",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:5"
+  },
+  "previous_version": null,
+  "prompt": "create an image of a classroom with adult students who are angels. The camera view is looking over one the the student’s shoulders so you can see the paper they are working on. You can see an angle teacher at the front of the class and a chalkboard is on the wall behind him, the image is in the style of Möbius and Frank Miller art --ar 3:5",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WV6YXiaKMF8Ssyz2usUS3qAA6lXWZxRSul8aR5CUWtwsRk1tho6ZDHcfA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdjoibF2MVdYHJUQnt3vm1WVhcIGXya9b6m7Bbcrzy5QjUticuhZeV0ImIP6ESqwlibNzMFrD7TxRlOw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg:prompt-0007",
+    "source_metadata": {
+      "article_index": 44,
+      "article_title": "Vol.288 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1764631874,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5H-ThFVuWa7NyiXirV~WYg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503959&idx=1&sn=a8b50506eb1098da8bf5d94dfa35217d&scene=58&subscene=0",
+    "title": "Vol.288 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503959&idx=1&sn=a8b50506eb1098da8bf5d94dfa35217d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.288 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

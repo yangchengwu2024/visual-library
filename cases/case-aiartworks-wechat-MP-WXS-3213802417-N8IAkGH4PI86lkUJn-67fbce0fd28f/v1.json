@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LN5IhKkGDKBoSnnnnm9PeticnXYXew8lQvzthcHq8QHp4HayyPMulVv2Q/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N8IAkGH4PI86lkUJn-67fbce0fd28f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9396e808ddde7947e886e764ceb449ae2c577b97cdd1ad753db165660f420043",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "Surreal edition of high fashion, two models with very long straight smooth hair, hunting in the post-apocalyptic desert, using a Dyson hair dryer and its luminous cord as a weapon or lasso, outfits inspired by Balenciaga, structured silhouettes, metal fabrics, sandstorm, cinematic lighting, hyperrealistic details, tension and elegance, Vogue editorial composition Two elegant futuristic young women in stylish designer jackets and high heels Balancing on a high log high above the ground, playful sparring with giant Dyson hair dryers, surreal and cinematic fashionable editorial style, strange but glamorous, wind blowing through their very long hair,выразительные Poses, dramatic background of the sky, lighting of the golden hour, high-class aesthetics of the photo shoot in the magazine, ultra detailed, inspired by Tim Walker and Vogue, light humor and absurdity --ar 51:91 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShd2hiamPW7L2MgovTo62ib1LN5IhKkGDKBoSnnnnm9PeticnXYXew8lQvzthcHq8QHp4HayyPMulVv2Q/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0013",
+    "source_metadata": {
+      "article_index": 63,
+      "article_title": "Vol.268 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759879860,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+    "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCeBlkvVHjOfEriaErI91NU5oHBtc3WzgYOvhJSFCoaHSDhmc1kN97ibP7ZqxHGSAl9vA07QEEbDJUd6S8CgImKBTtHUsuHLRPqo/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-OqIXwnjr0vrqwwC5o-8daa96921327",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5ccbd32966c3ab62644b4b58abad613b0a9e4cc4a26fb49bdab893fbc8b85f9d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "preview": true,
+    "raw": true,
+    "sref": [
+      "1665527200",
+      "6558453560",
+      "8004112134",
+      "5949420667",
+      "7233405635",
+      "6552173461",
+      "6711058140",
+      "7469052145",
+      "5153533941",
+      "7837114525",
+      "7696689829",
+      "4706532540",
+      "4589978203",
+      "7086279068",
+      "4939205510",
+      "6011435554",
+      "7243672020",
+      "6164694279",
+      "7331377732",
+      "6598023614",
+      "6115608722",
+      "6378332192",
+      "4513130432",
+      "7516907326",
+      "4484036104",
+      "5988728951",
+      "6252746625",
+      "4623000118"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Filmed from behind a cereal aisle shelf in a 24-hour grocery store, a T-Rex's head slowly rotates into frame between the shelves, sniffing at a knocked-over display, fluorescent overheads casting flat light, someone's abandoned shopping cart in foreground. Style: [same addendum] --ar 9:16 --raw --sref 1665527200 6558453560 8004112134 5949420667 7233405635 6552173461 6711058140 7469052145 5153533941 7837114525 7696689829 4706532540 4589978203 7086279068 4939205510 6011435554 7243672020 6164694279 7331377732 6598023614 6115608722 6378332192 4513130432 7516907326 4484036104 5988728951 6252746625 4623000118 --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCeBlkvVHjOfEriaErI91NU5oHBtc3WzgYOvhJSFCoaHSDhmc1kN97ibP7ZqxHGSAl9vA07QEEbDJUd6S8CgImKBTtHUsuHLRPqo/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w:prompt-0005",
+    "source_metadata": {
+      "article_index": 15,
+      "article_title": "Vol.317-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1784676626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_OqIXwnjr0vrqwwC5ozn73w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd",
+    "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510309&idx=1&sn=d59f0677c121eac7ce1a1699cce6feb0&chksm=967f4cbb674410d47174db49eeb19bba0c1c285afaa27feb35133620ef48c77d8de9c24d97d8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.317-Midjourney 精选作品提示词与赏析 · 提示词 6",
+  "version": "v1"
+}

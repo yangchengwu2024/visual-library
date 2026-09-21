@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5Ticjha0TL7OVhwcp8libeiblQPTibUymk8xC8PGcO0ZFdbibpCND2lCsAkDSA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--638dfee5f5db",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "84042699ecd25047af4c8a3004f0db1e7b6226f540a956cef5ba8a170c9d67fe",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "niji": "6",
+    "sref": [
+      "https://s.mj.run/FziJLfTibpE",
+      "https://s.mj.run/M9zYMwO1nas",
+      "https://s.mj.run/tWQ4xi1BbxU"
+    ],
+    "stylize": "750",
+    "sw": "50"
+  },
+  "previous_version": null,
+  "prompt": "A dynamic and slightly eerie scene from \"Adventure Time\" featuring Farmworld Finn, an alternate version of the main character Finn. Farmworld Finn wears a blue hood and has a pained, expressive face with large, glowing yellow eyes, reflecting a serious or threatening situation. His blond hair flows dramatically, suggesting movement and urgency. He wears a crooked golden crown, hinting at a royal or heroic role. In his right hand, he holds a large, ice-blue crystal or ice block with sharp edges and glints, creating an icy atmosphere. Under his left arm, he holds a purple, distorted figure resembling a shadowy creature with a grim face, contrasting with the bright crystals.The backdrop is a deep, star-studded blue, reminiscent of space, adding a vast, infinite dimension, clarifying the character's origin and context. Elements of fantasy and adventure with a dark, mysterious atmosphere, strong contrasts and vivid colors, hd quality, natural look, 16k, hd --ar 3:4 --sref https://s.mj.run/FziJLfTibpE https://s.mj.run/M9zYMwO1nas https://s.mj.run/tWQ4xi1BbxU --sw 50 --stylize 750 --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5Ticjha0TL7OVhwcp8libeiblQPTibUymk8xC8PGcO0ZFdbibpCND2lCsAkDSA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw:prompt-0000",
+    "source_metadata": {
+      "article_index": 155,
+      "article_title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1746325840,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QBae~Yb7X36iAlBd~ImfNw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496516&idx=1&sn=6bfa20654abacfee388bcf0019b54c18&chksm=96bedc52c0e434ff1c292d13fb914e83a04ba03a3818bc62caec2dd6c93d14bed7d04a51972e#rd",
+    "title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496516&idx=1&sn=6bfa20654abacfee388bcf0019b54c18&chksm=96bedc52c0e434ff1c292d13fb914e83a04ba03a3818bc62caec2dd6c93d14bed7d04a51972e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 1",
+  "version": "v1"
+}

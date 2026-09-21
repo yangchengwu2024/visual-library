@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTaM1wVJLsWic7FORbokK4yM5gKibcCCVjXM8G7Tp33fibgiaUTPffWh8JqxKicnYpPIJFSg73qdphibjw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qYEkTDDB72-WrA0df-794149fe0e84",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2488ab55ae531f4b4a30ba0c3e15b76b195009cad6c1500d8ff14aba8818ed09",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "dxtw1bl",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Photograph of an oversized flower in the style of David LaChapelle, featuring a pale-blonde-haired girl wearing a pink frilly Victorian dress and black leather boots, covering half her face with one petal and posing for a full-body portrait. The fashion photography has a surrealistic style, with pastel colors, soft light, muted tones, and a hyper-realistic, highly detailed, high-resolution appearance. --ar 9:16 --profile dxtw1bl --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcTaM1wVJLsWic7FORbokK4yM5gKibcCCVjXM8G7Tp33fibgiaUTPffWh8JqxKicnYpPIJFSg73qdphibjw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A:prompt-0012",
+    "source_metadata": {
+      "article_index": 233,
+      "article_title": "Vol.110 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1739759437,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qYEkTDDB72~WrA0dfW5L5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493266&idx=1&sn=fcfc00a671484c72cabaf49212d0d4be&chksm=96f7f4b484505ff6535833ccc0cd377a1bb38f1a72c72a17c39257394d5dfb311cc79aedfec3#rd",
+    "title": "Vol.110 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493266&idx=1&sn=fcfc00a671484c72cabaf49212d0d4be&chksm=96f7f4b484505ff6535833ccc0cd377a1bb38f1a72c72a17c39257394d5dfb311cc79aedfec3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.110 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

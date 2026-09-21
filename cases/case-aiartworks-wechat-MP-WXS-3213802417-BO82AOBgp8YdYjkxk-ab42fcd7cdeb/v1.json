@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6YlupV0yIYvdicGC12nm3JwkN7kDrvcbPqic3wJMeh41GvyQDSHbia5Thg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BO82AOBgp8YdYjkxk-ab42fcd7cdeb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8a838eee7f82f1976628eb43b1e7e05652c56942b39c48ed57fc106ccb1b2a45",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "5",
+    "profile": "c1ejid5",
+    "style": "raw",
+    "stylize": "300",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A retro-inspired woman wearing a 1950s-style polka dot dress with a cinched waist, paired with futuristic holographic gloves and a translucent cybernetic headpiece. She stands in a mid-century living room with floating furniture elements. Lighting: soft and natural, pastel tones. Style: photorealistic, ultra-detailed, retro-futuristic elegance, cinematic realism, high-texture detail --chaos 5 --ar 9:16 --style raw --profile c1ejid5 tmwsle1 --stylize 300 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheudkcrScYOzkbiaoicaALpI6YlupV0yIYvdicGC12nm3JwkN7kDrvcbPqic3wJMeh41GvyQDSHbia5Thg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw:prompt-0005",
+    "source_metadata": {
+      "article_index": 246,
+      "article_title": "Vol.99 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738636240,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BO82AOBgp8YdYjkxkfbsjw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd",
+    "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492535&idx=1&sn=dea548d4f691fb0438298f440bfe5586&chksm=96ff27024f1061759d1f7374fb1e99257403d76c029f6988d09927b0e71572a833e361d6fb8b#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.99 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

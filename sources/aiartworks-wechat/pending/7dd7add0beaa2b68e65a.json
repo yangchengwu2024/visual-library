@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-U-MxVk0EqH902SU7r-c441289b3eb5",
+  "fingerprint": "febc5ad7ede642db341204a2ebbd2fbb4f69af63d3d52070fc16d548253d16ee",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4"
+  },
+  "prompt": "Omega Speedmaster Professional Moonwatch, black dial, minute and hour dial to be the colours of the South African flag, stainless steel bracelet, with the South African flag designed on the watch face detailed close-up, photorealistic, 8k, sharp focus, dramatic lighting, black background --ar 3:4",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ:prompt-0002",
+    "source_metadata": {
+      "article_index": 98,
+      "article_title": "Vol.231 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1752449468,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498959&idx=1&sn=3b7abd60655674769477516d2ef7a297&chksm=97b3f011a0c47907e1cb89860755085baab000a9b33a27cb178339a3b0610547441bad859e32#rd",
+    "title": "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498959&idx=1&sn=3b7abd60655674769477516d2ef7a297&chksm=97b3f011a0c47907e1cb89860755085baab000a9b33a27cb178339a3b0610547441bad859e32#rd"
+  },
+  "source_id": "MP_WXS_3213802417_U~MxVk0EqH902SU7rEtDKQ:prompt-0002",
+  "status": "pending",
+  "title": "Vol.231 - Midjourney | 精选作品关键词提示 · 提示词 3"
+}

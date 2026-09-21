@@ -1,0 +1,112 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAW1cnhGCEBeUbBmPqviafGIu4mG6d1StaQ8Xjqe39xeU5zDia6SOJ5zGQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAcDKFj7BvK3JP8ibu01vsf3dAZayIJea0xAJrl05VDwnOnJNQ1lwKwRw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJZ8r7oIFNLkfdWspWHW3wic7rvlQq8A48APico1EAZwibqZIy51KWC4DIg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAwIDWkPnXfpWghIltrINwEibqIkEvRTUWlelJwHrfVrOjn6ibticOaicIcA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJ4zZuSzY1rfniaKHHCsJLACX1KkJWBmiaRmXUI72ribo5s5sPX2XagsHKA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-4"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJzwH740ELdj0eXzgKXrbTogge5GN2VgZOhibN3xRgdia2CBzdTCLnFxEQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-5"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-IKjVdU5lj7h6ARjDW-f0ef99a0fce0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b669cd7411e0f652fa8a8e5cfa4e3b5c8c21954cc918d7d6e769dd433417b686",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "0"
+  },
+  "previous_version": null,
+  "prompt": "3d render of chrome abstract alien-like thorn web centered floating in sky. liquid metal. futuristic style. anti-gravity. plain background, colored atmosphere, colored background, detailed textures, hyper-realistic --ar 2:3 --stylize 0",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAW1cnhGCEBeUbBmPqviafGIu4mG6d1StaQ8Xjqe39xeU5zDia6SOJ5zGQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAcDKFj7BvK3JP8ibu01vsf3dAZayIJea0xAJrl05VDwnOnJNQ1lwKwRw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJZ8r7oIFNLkfdWspWHW3wic7rvlQq8A48APico1EAZwibqZIy51KWC4DIg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAwIDWkPnXfpWghIltrINwEibqIkEvRTUWlelJwHrfVrOjn6ibticOaicIcA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJ4zZuSzY1rfniaKHHCsJLACX1KkJWBmiaRmXUI72ribo5s5sPX2XagsHKA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-4"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmvsOvmrCe7qLf3ibbEiaUyJzwH740ELdj0eXzgKXrbTogge5GN2VgZOhibN3xRgdia2CBzdTCLnFxEQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA#image-5"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA:prompt-0012",
+    "source_metadata": {
+      "article_index": 59,
+      "article_title": "Vol.272 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760657416,
+      "image_storage": "external_url",
+      "image_url_count": 6,
+      "prompt_index": 12,
+      "review_url_count": 5,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_IKjVdU5lj7h6ARjDWFo8qA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd",
+    "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501216&idx=1&sn=b28b8a816e25177c29c9cd08590de03c&chksm=96049ba5fb1c3a4273cc4f9549691c1c6a381f20aca4973617177f216c6fc725a967253cec0e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.272 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

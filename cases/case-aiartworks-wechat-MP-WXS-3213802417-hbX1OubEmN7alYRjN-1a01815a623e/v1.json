@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1RnM0RO4RVXllVtrgG8UTjxlldiawq72DAIj8Lzzkrbd7RXfYNl9Onbg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hbX1OubEmN7alYRjN-1a01815a623e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fb93cd8c16138a0a8aebea3580ebff52b6495935f7e03bf7fc44f4be42073677",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic full-body cinematic shot of a stunning woman in a deep black evening dress standing on a rooftop at sunset, holding a cocktail glass and gazing up at a towering mech guardian inspired by Bugatti. The mech stands over 5 meters tall with a futuristic, aerodynamic design featuring ultra-gloss cobalt blue and silver armor, sculpted curves, and high-performance vent details. A glowing red oval Bugatti logo with \"EB\" is displayed on its chest, with a second emblem shining on its shoulder. The mech's core systems pulse with electric blue energy. Both figures are shown head-to-toe in frame. The glowing city skyline and twilight sky heighten the emotional, surreal cinematic atmosphere. --ar 9:16 --raw --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1RnM0RO4RVXllVtrgG8UTjxlldiawq72DAIj8Lzzkrbd7RXfYNl9Onbg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA:prompt-0008",
+    "source_metadata": {
+      "article_index": 164,
+      "article_title": "Vol.167 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1745548538,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0",
+    "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

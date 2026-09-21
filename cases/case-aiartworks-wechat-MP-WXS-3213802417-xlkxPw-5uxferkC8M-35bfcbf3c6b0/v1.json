@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyof3JWfuMPDD9AVicZiacYkl38yxicLSbdZBS2M8mHrxfDhENqrw1325Tg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xlkxPw-5uxferkC8M-35bfcbf3c6b0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b414cffc152dbda484ed12cb7785474fafdd1c63ccd3b6562e5322566e8f5b55",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "25",
+    "profile": "9va32ng",
+    "stylize": "600",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A Japanese movie poster with big bold title \"中空スパイラル\" in black bold font on white Background the 70s bizzarre horror, bitmap printing style, Black and white Anime style, a girl with A bob haircut and Sharp teeth, Spirals everywhere --chaos 25 --ar 2:3 --profile 9va32ng fi53w7c xhhzgp6 lky9yup --stylize 600 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyof3JWfuMPDD9AVicZiacYkl38yxicLSbdZBS2M8mHrxfDhENqrw1325Tg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 250,
+      "article_title": "Vol.91 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737426646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0",
+    "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

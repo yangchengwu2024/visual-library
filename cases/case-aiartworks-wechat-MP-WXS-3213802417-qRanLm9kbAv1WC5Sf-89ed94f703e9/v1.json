@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcCpyolib3n6krEECTg2dlwkLOaMRkBuhaiahzvEiahjYVw6QPQKXsicMHjsTzzgGAMvTNlkl4Ataxorg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qRanLm9kbAv1WC5Sf-89ed94f703e9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fc823ce0d5c440e0fd214074812bbef186f450846657f9a7b9d477c78afe75df",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Masterpiece of realistic cinematic photography character sheet in various angle. the character is an adult 27 years old indonesian javanese women wearing a shirt, short pants, and flip-flops. she and depressed past because she has been living in a haunted house. her shirt is not dirty. her appearance represent her past --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcCpyolib3n6krEECTg2dlwkLOaMRkBuhaiahzvEiahjYVw6QPQKXsicMHjsTzzgGAMvTNlkl4Ataxorg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 199,
+      "article_title": "Vol.138 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742524215,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd",
+    "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

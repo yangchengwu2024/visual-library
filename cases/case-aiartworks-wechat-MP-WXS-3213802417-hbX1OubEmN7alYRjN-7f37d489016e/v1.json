@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1za7Ric44DslH4ibzbar09MdLhicp1QIuCS2XcelzX03blOoo4LMNyObnQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hbX1OubEmN7alYRjN-7f37d489016e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3b05ae8bf201d06ccb53f692dc2f9d5be6a3636a0e4f578e6203b9da102f9e43",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "modern book cover design for a wellness and anti-aging guide featuring healing mushrooms, reishi and shiitake elegantly arranged with skincare elements like crystal bowls, serums and botanical flowers, soft pastel colors (beige, blush, gold, ivory), minimalist layout, glowing light effect, luxury beauty aesthetic, high-end typography, clean white background, subtle abstract lines --ar 3:4 --raw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1za7Ric44DslH4ibzbar09MdLhicp1QIuCS2XcelzX03blOoo4LMNyObnQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA:prompt-0012",
+    "source_metadata": {
+      "article_index": 164,
+      "article_title": "Vol.167 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745548538,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0",
+    "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

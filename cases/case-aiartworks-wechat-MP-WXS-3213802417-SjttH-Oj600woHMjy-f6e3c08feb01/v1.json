@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOvnyVicdiblaNknJSmv8ia6x4hBeKI8AWaSCaBTLhf3BKkd1g0qCSD36PFQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SjttH-Oj600woHMjy-f6e3c08feb01",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d468058ff9765cc0a93dff30976b7400605d52df8de1f98bfb40fed47fbda470",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A sleepy cloud floating above a cereal bowl, raining milk into it. Pixar meets Ghibli meets kawaii, jelly-like textures, glossy surfaces. --chaos 20 --ar 9:16 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdNsiaGBGJ7cGHs05Z8icnAOvnyVicdiblaNknJSmv8ia6x4hBeKI8AWaSCaBTLhf3BKkd1g0qCSD36PFQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 118,
+      "article_title": "Vol.210 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749771081,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd",
+    "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

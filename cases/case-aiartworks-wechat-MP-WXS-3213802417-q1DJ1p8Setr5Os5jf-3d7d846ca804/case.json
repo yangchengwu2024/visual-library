@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-q1DJ1p8Setr5Os5jf-3d7d846ca804",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WxeIFoDqN1St6g1ib4JjSvV1rqqs5TsF4qCUWIFl7WYu40icybahMa9f7qeb4kh5zHy0aic8BXLvQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_q1DJ1p8Setr5Os5jf2gAUA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_q1DJ1p8Setr5Os5jf2gAUA:prompt-0006",
+      "source_metadata": {
+        "article_index": 268,
+        "article_title": "Vol.73 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1735612213,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 6,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_q1DJ1p8Setr5Os5jf2gAUA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490743&idx=1&sn=afde9c2b3ae1042c1b32ef9bd03e828a&chksm=9667ca30ba462f4bd6a0a4273c1851afbcbbe38dff6ddc206b032a5f6893ae1754c203eb15f0#rd",
+      "title": "Vol.73 - Midjourney | 精选作品关键词提示 · 提示词 7",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490743&idx=1&sn=afde9c2b3ae1042c1b32ef9bd03e828a&chksm=9667ca30ba462f4bd6a0a4273c1851afbcbbe38dff6ddc206b032a5f6893ae1754c203eb15f0#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.73 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "title_aliases": [
+    "Vol.73 - Midjourney | 精选作品关键词提示 · 提示词 7"
+  ]
+}

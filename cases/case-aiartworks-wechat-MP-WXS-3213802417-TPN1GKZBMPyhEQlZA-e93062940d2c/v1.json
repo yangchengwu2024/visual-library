@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcz1DRMBDF61ibfUJhdcf5TpuyG0OhfnMPMZorjRCI6ibhjrIZncr25kgQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TPN1GKZBMPyhEQlZA-e93062940d2c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "18f23247c22d2b7df6830878fb89ff7a357684408917b3f03daf895e57102309",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "770335 Albino is lying gracefully on her back on a white brand new grand piano and looking up , intensely gazing, crimson lace , she has almond green eyes, wide sharp cheekbones, wavy hair ., puffy lips . The background is contrasting saturated colors,. Golden Rays reflect on her . no wtf . hyper-realistic, epic cinematic scene ,36 MP , 18k UHD --ar 2:3 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcz1DRMBDF61ibfUJhdcf5TpuyG0OhfnMPMZorjRCI6ibhjrIZncr25kgQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg:prompt-0002",
+    "source_metadata": {
+      "article_index": 79,
+      "article_title": "Vol.252 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756683043,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500015&idx=1&sn=8c24c7dffeb36b7fdd5ccd6b35c06106&chksm=96c1bc2170e8ff0b61c7762f2bdb5dbb7207646a62855a0a5af0d44bd589c2554649724a4fd6#rd",
+    "title": "Vol.252 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500015&idx=1&sn=8c24c7dffeb36b7fdd5ccd6b35c06106&chksm=96c1bc2170e8ff0b61c7762f2bdb5dbb7207646a62855a0a5af0d44bd589c2554649724a4fd6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.252 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

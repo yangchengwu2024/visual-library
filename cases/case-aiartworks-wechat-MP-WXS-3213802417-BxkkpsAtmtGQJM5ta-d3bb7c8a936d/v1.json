@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCpotDl1ROewJTxq4pZicU4RnKf3DvTSVMbcPNmK9y8UOujsh2V5p4qbw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCKgeXQc1t8icv2HCRg4KIicXSBGXlu2fBTwshDzDRVSJ2SSmIkUT9ibVWA/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BxkkpsAtmtGQJM5ta-d3bb7c8a936d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "789035794857190bca0908f7274a0090a8e946d4c245ec6bacbe7803145bf6be",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "CCTV-like surveillance footage shows a black and yellow mixed breed dog sitting in an office chair in a small room, using a computer. The camera angle is from the upper corner of the room, with fisheye lens distortion. The image is grainy and low-resolution, as if shot on an old-fashioned monitor. The capybara appears confused, or perhaps very focused, as it types on a keyboard. The room is dimly lit, with a slightly cluttered desk and wires. The video uses a vertical 9:16 aspect ratio. The style is realistic, with beautiful images, slightly blurred, and superimposed with a timestamp. --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCpotDl1ROewJTxq4pZicU4RnKf3DvTSVMbcPNmK9y8UOujsh2V5p4qbw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCKgeXQc1t8icv2HCRg4KIicXSBGXlu2fBTwshDzDRVSJ2SSmIkUT9ibVWA/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA:prompt-0014",
+    "source_metadata": {
+      "article_index": 84,
+      "article_title": "Vol.247 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755646256,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 14,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BxkkpsAtmtGQJM5taU5ovA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499804&idx=1&sn=a623a07e719182a5df528aa5c0769c4f&chksm=96c8c648efd488a37c8aa5f827b126029ca618d3b1468423b0078dc7c4dd40b5d455ecab254f#rd",
+    "title": "Vol.247 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499804&idx=1&sn=a623a07e719182a5df528aa5c0769c4f&chksm=96c8c648efd488a37c8aa5f827b126029ca618d3b1468423b0078dc7c4dd40b5d455ecab254f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.247 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

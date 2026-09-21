@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9be4IKC5cR7qicQhoYCxm3Gdvk2LrqEY4lrwcgNraYNwczYI1IXdcAm5g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-afdbb39d5b1e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6bcb004de3ffd49a3dbf64504b3d7dd0cc9138b73b8b66e9710dcfa634e51138",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "no": [
+      "distressing"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "1930s naive student oil painting of seated man seen from the side being punched square in the face by a fist from a man out of frame, making contact, hard impact, making hard impact, fist covers face, eyes squeezed shut, cdv, cabinet card --no distressing --ar 3:4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9be4IKC5cR7qicQhoYCxm3Gdvk2LrqEY4lrwcgNraYNwczYI1IXdcAm5g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg:prompt-0002",
+    "source_metadata": {
+      "article_index": 80,
+      "article_title": "Vol.251 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756423847,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F4aata2F5DwzXZ-DMzHnLg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0",
+    "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499972&idx=1&sn=fe9ea087d5ff28d763c83191781bfe9c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

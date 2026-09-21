@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhGjtiaMtoL189TxlibUibodzl7jIHLicia4UiaaHaf6dIQjDq7BL0duuBuicpg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhG6S6DlGmsoJ7N675ZyPLBxvmETIoCIutEZBIsRWnMgO3QTAknIs75A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqPQBI95d-nsSeSvN-fe8480bed4b1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "521b11dbffd1665c6be7a437f84779b40af106c3010b757fe6d0eea3755ee82c",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "qqo2nqm"
+  },
+  "previous_version": null,
+  "prompt": "simple 3d render of zero two's horns, simple 3d render in blender style --profile qqo2nqm",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhGjtiaMtoL189TxlibUibodzl7jIHLicia4UiaaHaf6dIQjDq7BL0duuBuicpg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhG6S6DlGmsoJ7N675ZyPLBxvmETIoCIutEZBIsRWnMgO3QTAknIs75A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q:prompt-0012",
+    "source_metadata": {
+      "article_index": 75,
+      "article_title": "Vol.256 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1757460651,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd",
+    "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdyibve0an51fgwv3lGydtvheq78ticmras33zDROo0YBKaEaJmLHpjT3IuWV7qne5ZkOJChibr53RUQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-39TNyPm5kUV-g21BA-62670ad134c6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5c093eda81317fd49311644af04eb6aa0aacccab2180e28f49081d6f330d6f61",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "Present a clear 45-degree overhead perspective of an isometric miniature model scene. The composition should be centered, featuring a cubic structure against completely blank surroundings, highlighting the precise and intricate beauty of the three-dimensional model. No background blur, transparent background, clean and simple. The content is [a snow-covered sanctuary enclosed by high stone walls, featuring: 1. A sturdy timber-framed shelter with thick thatched roof partially buried in snowdrifts 2. Smoke curling from a central chimney pipe, suggesting warmth within 3. Icicles hanging from the eaves and wall edges, catching subtle light 4. Footprints in the snow leading to and from the shelter entrance 5. Frozen-over water barrels and stacked firewood against the walls 6. Observation tower with frosted ladder rungs and snow-dusted railings 7. Perimeter defenses including snow-capped log spikes and frozen rope lines 8. Subtle animal tracks circling the outer walls in the deep snow]. 9. a man standing on the snow. Utilize physically based rendering (PBR) and realistic lighting effects. [Hyper-realistic textures showing: - Crystalline snow accumulation with wind-swept patterns - Wood grain visible through icy glaze on timber beams - Thatch fibers peeking through snow layers on the roof - Frozen moisture effects on stone surfaces Lighting features: - Cool ambient glow from overcast sky - Warm golden light leaking through shuttered windows - Subtle sparkle effects on ice formations - Long blue shadows cast by low winter sun]. [A monochromatic winter palette with: - Structure: Weathered gray timber and mossy stonework - Snow: Varied whites from bright highlights to deep blue shadows - Accents: Burnt orange chimney smoke and amber window glow - Details: Iron-gray metal fittings and frozen indigo puddles - Environment: Misty lavender tones in distant snowfields]. --ar 9:16 --stylize 250",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdyibve0an51fgwv3lGydtvheq78ticmras33zDROo0YBKaEaJmLHpjT3IuWV7qne5ZkOJChibr53RUQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 102,
+      "article_title": "Vol.227 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751585451,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd",
+    "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

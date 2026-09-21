@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShebNvgWUDz9Y8dJyquyo0da6oVmuhIRsBMt7sfBuxkmdduCoA6uianL9g7PvcZ8jPxvUn1VAnC1Exw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_u7Ww7oQ9Om3YgkRqQ3LbGQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexibk9uFjuS3N9yEErZrhTOtPcvBKBH2PdoRRicM8jBZ7diaicfcfbE8v6tZDERJ2zliblwC3iamjicqibkw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_u7Ww7oQ9Om3YgkRqQ3LbGQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-u7Ww7oQ9Om3YgkRqQ-5ee1ba6b645e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4eec70945c492e2e3470bea5ca663fcd4432d76cce09f1deec2fe278dea7b6e1",
+  "model": "Midjourney",
+  "parameters": {
+    "raw": true,
+    "stylize": "250"
+  },
+  "previous_version": null,
+  "prompt": "A charcoal drawing of an old long-eared rabbit reading in her armchair having a cup of coffee, black and white etching in the style of Odilon Redon --raw --stylize 250",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShebNvgWUDz9Y8dJyquyo0da6oVmuhIRsBMt7sfBuxkmdduCoA6uianL9g7PvcZ8jPxvUn1VAnC1Exw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_u7Ww7oQ9Om3YgkRqQ3LbGQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexibk9uFjuS3N9yEErZrhTOtPcvBKBH2PdoRRicM8jBZ7diaicfcfbE8v6tZDERJ2zliblwC3iamjicqibkw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_u7Ww7oQ9Om3YgkRqQ3LbGQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_u7Ww7oQ9Om3YgkRqQ3LbGQ:prompt-0012",
+    "source_metadata": {
+      "article_index": 90,
+      "article_title": "Vol.242 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1754609448,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_u7Ww7oQ9Om3YgkRqQ3LbGQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499450&idx=1&sn=9ae0149ea0030f87ed0a4cd5ad55483f&chksm=96b1f04f149b649f4a819cd6239ac8c222741a71ad637ae007cedd11f8b3da556f02b6075b6a#rd",
+    "title": "Vol.242 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499450&idx=1&sn=9ae0149ea0030f87ed0a4cd5ad55483f&chksm=96b1f04f149b649f4a819cd6239ac8c222741a71ad637ae007cedd11f8b3da556f02b6075b6a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.242 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdftwmG4D9Yk3fR5IFzpvC6ic68k1SHfohrRIOZ2vClQYJ6ngACichlUGYv6IurEm2L20Wx1uiaLbEZQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WXQHvyWBlFSh4hA4A-8aad47c622bd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7dfc4d9b47327faf1aa9d6b7f5be58e7f3f47ecdcb7ac1135b7e9e96dc26c1ea",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "59:128",
+    "niji": "6"
+  },
+  "previous_version": null,
+  "prompt": "Kiki from the movie Kiki's Delivery Service lies on her back in the green grass, in the style of Studio Ghibli, with a cartoon style, simple lines, flat color blocks, a vintage style, pink and red tones, a happy expression, a simple background, a full-body portrait, high resolution, and detailed display, suitable for use as a wallpaper. --ar 59:128 --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdftwmG4D9Yk3fR5IFzpvC6ic68k1SHfohrRIOZ2vClQYJ6ngACichlUGYv6IurEm2L20Wx1uiaLbEZQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ:prompt-0002",
+    "source_metadata": {
+      "article_index": 230,
+      "article_title": "Vol.113 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740018644,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493394&idx=1&sn=b85ffbca9aee275e50f1f219daa1c123&scene=58&subscene=0",
+    "title": "Vol.113 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493394&idx=1&sn=b85ffbca9aee275e50f1f219daa1c123&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.113 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

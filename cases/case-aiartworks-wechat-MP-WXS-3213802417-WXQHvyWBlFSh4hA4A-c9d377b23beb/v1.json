@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdftwmG4D9Yk3fR5IFzpvC6N5aXBMVUfl1RtVJOUH3emQqGHIQunDFnRqrQbW8p0ibrAPUia7ktBgbA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WXQHvyWBlFSh4hA4A-c9d377b23beb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3881467fa2b97eaaf7fc5500549519b88422fd455d5c542d1e1b1ca114076b07",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A monumental classical instrument, like an oversized grand piano or violin, integrated into a pristine, snowy ski resort landscape. The instrument towers over tiny skiers, creating a striking contrast in size. The scene is minimalist and clean, with vast expanses of snow and a clear sky. The entire image is in black and white, emphasizing the sharp contrast between the instrument and the snow. The snowy terrain is untouched, with no distractions, focusing solely on the surreal, oversized instrument in harmony with the winter environment. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdftwmG4D9Yk3fR5IFzpvC6N5aXBMVUfl1RtVJOUH3emQqGHIQunDFnRqrQbW8p0ibrAPUia7ktBgbA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 230,
+      "article_title": "Vol.113 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740018644,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493394&idx=1&sn=b85ffbca9aee275e50f1f219daa1c123&scene=58&subscene=0",
+    "title": "Vol.113 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493394&idx=1&sn=b85ffbca9aee275e50f1f219daa1c123&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.113 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

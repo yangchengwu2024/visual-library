@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnIGy7p7pg2cAiavkg1vlDL4duzMrHGb5zt0psKp5M0Y7rgzA2DcpVyJDQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-68d17a1ea348",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "746e21835b75b10c9ca326344bba78342c3752caf43c215bba91a3dbe20e4138",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A photo of an angry cat in a pink bathrobe, with lots of curlers on her head, who is sitting in a hairdressing chair in a beauty salon and smoking a cigarette with a displeased expression on her face. Brad Pete stands next to her and dries her with a hair dryer --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnIGy7p7pg2cAiavkg1vlDL4duzMrHGb5zt0psKp5M0Y7rgzA2DcpVyJDQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q:prompt-0006",
+    "source_metadata": {
+      "article_index": 249,
+      "article_title": "Vol.92 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1737513108,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0",
+    "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

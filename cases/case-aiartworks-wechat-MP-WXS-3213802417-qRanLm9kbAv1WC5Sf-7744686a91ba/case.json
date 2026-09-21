@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qRanLm9kbAv1WC5Sf-7744686a91ba",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaLibUTTjXbTqZLmQQOxGficcoialzHeFaKFDzAgicNmdaf9mvbEAKpUZ9KsW3kLbmN6xVAs48xddk3w/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ:prompt-0018",
+      "source_metadata": {
+        "article_index": 199,
+        "article_title": "Vol.138 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1742524215,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 18,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_qRanLm9kbAv1WC5SfeyRtQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd",
+      "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 19",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495079&idx=1&sn=6018a4459bc21975d24efb32b894947f&chksm=97b3e179a0c4686fdc0804d3f574064a1b72cd45c2104520c450de9152829756cc004c39a02a#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "title_aliases": [
+    "Vol.138 - Midjourney | 精选作品关键词提示 · 提示词 19"
+  ]
+}

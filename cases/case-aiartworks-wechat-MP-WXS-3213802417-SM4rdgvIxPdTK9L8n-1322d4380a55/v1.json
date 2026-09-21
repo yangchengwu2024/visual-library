@@ -1,0 +1,101 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jn4OYaMaTJcOLA5OqzuMfmwDR4B0vSxN2F7ZP52Gt9DPviatNPMWwTGcQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnGGeMrawLciaQSmRK69KLCw2hUbMPicVMmeF3PE1bBiaVFGDB0yDf1XLJg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jn4HzZ3vGul8Rgcy7ysogf8ZwVAzibrgR9MLajiap4mkDXlgMicY7I7ngUg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnuQH6ZArBTibH4SdAfXge1Qnt04LofWIRiaZ8KQpkMEYGoy0EtLwSTGZw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjtRglTnaTyO1HiaHjAdAfmX3r0WcrVL6VmCzLkBcddUeZo6Pau7r4X8U5HNDicBicKKsn1zLLwATsw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-4"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SM4rdgvIxPdTK9L8n-1322d4380a55",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c7a0428e897cee13b7a75f7b6e7bf8a444a6867e0c3f27f61be079300c55caa9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A photorealistic, ultra detailed, humorous scene on a bustling dutch street market. A tabby cat anthropomorphized, running on two legs while tightly hugging a large, shiny silver fish. The cat has a determined, dramatic facial expression with wide eyes and an open mouth, as if mid-shout. Behind the cat, a shocked fish vendor in an apron is chasing after it, yelling. Fresh fishes are laid out on a market stall to the right, displayed on ice. The background features open stalls, market signs, and a few bystanders reacting in surprise. Dynamic lighting, rich details, cinematic composition, freeze-frame action shot, expressive motion blur, --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jn4OYaMaTJcOLA5OqzuMfmwDR4B0vSxN2F7ZP52Gt9DPviatNPMWwTGcQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnGGeMrawLciaQSmRK69KLCw2hUbMPicVMmeF3PE1bBiaVFGDB0yDf1XLJg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jn4HzZ3vGul8Rgcy7ysogf8ZwVAzibrgR9MLajiap4mkDXlgMicY7I7ngUg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcugkRjKEHZPSOyiawvUic0jnuQH6ZArBTibH4SdAfXge1Qnt04LofWIRiaZ8KQpkMEYGoy0EtLwSTGZw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjtRglTnaTyO1HiaHjAdAfmX3r0WcrVL6VmCzLkBcddUeZo6Pau7r4X8U5HNDicBicKKsn1zLLwATsw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw#image-4"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw:prompt-0010",
+    "source_metadata": {
+      "article_index": 77,
+      "article_title": "Vol.254 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1757028640,
+      "image_storage": "external_url",
+      "image_url_count": 5,
+      "prompt_index": 10,
+      "review_url_count": 5,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd",
+    "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

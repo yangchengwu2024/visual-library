@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEl7y47az2ZdVaUdUIgzSBwJeiaUX19CViciamnibonHv2RiaDacoq0jHQJLA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iMBZT2HTCWHpbTWP9-16227bccc4c8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9d7a1b2a7c98599d7310cf41d77fed3b0207a9d98f8f6af970ee58818a4f4b8c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "weird": "200"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic hyperrealistic astronaut floating in outer space under dramatic dark lighting, surrounded by deep shadows, glowing nebula haze and subtle orange cosmic dust. The scene is predominantly dark and moody, illuminated only by the astronaut’s glowing orange LED suit accents and reflective metallic surfaces. The astronaut wears an advanced exosuit in matte black with metallic white details, orange energy lights and orange-black Air Jordan sneakers. The character’s brightness is elevated to stand out as the luminous core of the image, with volumetric rim lighting and reflective helmet visor showing distant stars. Ultra-detailed textures, realistic materials, 8K quality, high-contrast lighting, photorealistic composition, vertical 9:16 cinematic frame, designed in the aesthetic of Pulsar Creative Studio futuristic, emotional, and visually powerful Feel the Reel. Feel the Pulse. --ar 9:16 --weird 200",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheXicQszM5MGuCwg39h37TgEl7y47az2ZdVaUdUIgzSBwJeiaUX19CViciamnibonHv2RiaDacoq0jHQJLA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w:prompt-0001",
+    "source_metadata": {
+      "article_index": 53,
+      "article_title": "Vol.279 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762154286,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iMBZT2HTCWHpbTWP9h0g5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd",
+    "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502311&idx=1&sn=abe71d2a2f264b43ade96ba6ef5a4c6e&chksm=96510e0b540e195ce8a1c425a92bd7b7c1110e11c437ae25db8a0b59621962a9bd743f2f458c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.279 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

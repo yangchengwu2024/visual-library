@@ -2,13 +2,13 @@
 
 # 个人视觉资料库画廊
 
-原图文案例 554 · 风格参考 9。待复核 31；缺少必要输入图 7。
+原图文案例 7081 · 风格参考 9。待复核 6558；缺少必要输入图 7。
 
 [按模型浏览](models/index.md) · [艺术家、流派与材质](topics/index.md)
 
 [返回仓库首页](../README.md)
 
-已收录 **563** 条资料，**13** 个导航分类，**22** 个模板。
+已收录 **7090** 条资料，**13** 个导航分类，**22** 个模板。
 
 按分类或分册浏览，点击案例标题查看本库图片和原始内容；复用前请查看输入要求与核查状态。
 
@@ -38,7 +38,7 @@
 <td width="33%" align="center" valign="top"><a href="categories/cat-document.md"><img src="../assets/category-covers/document.jpg" alt="文档与出版物" width="220"></a><br><a href="categories/cat-document.md"><strong>文档与出版物</strong></a><br><sub>11 条资料</sub><br>白皮书、手册、百科图鉴和出版页设计。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="categories/cat-other.md"><img src="../assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>28 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-other.md"><img src="../assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>6555 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
 <td width="33%" align="center" valign="top"></td>
 <td width="33%" align="center" valign="top"></td>
 </tr>
@@ -71,30 +71,291 @@
 - [第 20 册](gallery-part-20.md)（25 条资料）
 - [第 21 册](gallery-part-21.md)（25 条资料）
 - [第 22 册](gallery-part-22.md)（25 条资料）
-- [第 23 册](gallery-part-23.md)（13 条资料）
+- [第 23 册](gallery-part-23.md)（25 条资料）
+- [第 24 册](gallery-part-24.md)（25 条资料）
+- [第 25 册](gallery-part-25.md)（25 条资料）
+- [第 26 册](gallery-part-26.md)（25 条资料）
+- [第 27 册](gallery-part-27.md)（25 条资料）
+- [第 28 册](gallery-part-28.md)（25 条资料）
+- [第 29 册](gallery-part-29.md)（25 条资料）
+- [第 30 册](gallery-part-30.md)（25 条资料）
+- [第 31 册](gallery-part-31.md)（25 条资料）
+- [第 32 册](gallery-part-32.md)（25 条资料）
+- [第 33 册](gallery-part-33.md)（25 条资料）
+- [第 34 册](gallery-part-34.md)（25 条资料）
+- [第 35 册](gallery-part-35.md)（25 条资料）
+- [第 36 册](gallery-part-36.md)（25 条资料）
+- [第 37 册](gallery-part-37.md)（25 条资料）
+- [第 38 册](gallery-part-38.md)（25 条资料）
+- [第 39 册](gallery-part-39.md)（25 条资料）
+- [第 40 册](gallery-part-40.md)（25 条资料）
+- [第 41 册](gallery-part-41.md)（25 条资料）
+- [第 42 册](gallery-part-42.md)（25 条资料）
+- [第 43 册](gallery-part-43.md)（25 条资料）
+- [第 44 册](gallery-part-44.md)（25 条资料）
+- [第 45 册](gallery-part-45.md)（25 条资料）
+- [第 46 册](gallery-part-46.md)（25 条资料）
+- [第 47 册](gallery-part-47.md)（25 条资料）
+- [第 48 册](gallery-part-48.md)（25 条资料）
+- [第 49 册](gallery-part-49.md)（25 条资料）
+- [第 50 册](gallery-part-50.md)（25 条资料）
+- [第 51 册](gallery-part-51.md)（25 条资料）
+- [第 52 册](gallery-part-52.md)（25 条资料）
+- [第 53 册](gallery-part-53.md)（25 条资料）
+- [第 54 册](gallery-part-54.md)（25 条资料）
+- [第 55 册](gallery-part-55.md)（25 条资料）
+- [第 56 册](gallery-part-56.md)（25 条资料）
+- [第 57 册](gallery-part-57.md)（25 条资料）
+- [第 58 册](gallery-part-58.md)（25 条资料）
+- [第 59 册](gallery-part-59.md)（25 条资料）
+- [第 60 册](gallery-part-60.md)（25 条资料）
+- [第 61 册](gallery-part-61.md)（25 条资料）
+- [第 62 册](gallery-part-62.md)（25 条资料）
+- [第 63 册](gallery-part-63.md)（25 条资料）
+- [第 64 册](gallery-part-64.md)（25 条资料）
+- [第 65 册](gallery-part-65.md)（25 条资料）
+- [第 66 册](gallery-part-66.md)（25 条资料）
+- [第 67 册](gallery-part-67.md)（25 条资料）
+- [第 68 册](gallery-part-68.md)（25 条资料）
+- [第 69 册](gallery-part-69.md)（25 条资料）
+- [第 70 册](gallery-part-70.md)（25 条资料）
+- [第 71 册](gallery-part-71.md)（25 条资料）
+- [第 72 册](gallery-part-72.md)（25 条资料）
+- [第 73 册](gallery-part-73.md)（25 条资料）
+- [第 74 册](gallery-part-74.md)（25 条资料）
+- [第 75 册](gallery-part-75.md)（25 条资料）
+- [第 76 册](gallery-part-76.md)（25 条资料）
+- [第 77 册](gallery-part-77.md)（25 条资料）
+- [第 78 册](gallery-part-78.md)（25 条资料）
+- [第 79 册](gallery-part-79.md)（25 条资料）
+- [第 80 册](gallery-part-80.md)（25 条资料）
+- [第 81 册](gallery-part-81.md)（25 条资料）
+- [第 82 册](gallery-part-82.md)（25 条资料）
+- [第 83 册](gallery-part-83.md)（25 条资料）
+- [第 84 册](gallery-part-84.md)（25 条资料）
+- [第 85 册](gallery-part-85.md)（25 条资料）
+- [第 86 册](gallery-part-86.md)（25 条资料）
+- [第 87 册](gallery-part-87.md)（25 条资料）
+- [第 88 册](gallery-part-88.md)（25 条资料）
+- [第 89 册](gallery-part-89.md)（25 条资料）
+- [第 90 册](gallery-part-90.md)（25 条资料）
+- [第 91 册](gallery-part-91.md)（25 条资料）
+- [第 92 册](gallery-part-92.md)（25 条资料）
+- [第 93 册](gallery-part-93.md)（25 条资料）
+- [第 94 册](gallery-part-94.md)（25 条资料）
+- [第 95 册](gallery-part-95.md)（25 条资料）
+- [第 96 册](gallery-part-96.md)（25 条资料）
+- [第 97 册](gallery-part-97.md)（25 条资料）
+- [第 98 册](gallery-part-98.md)（25 条资料）
+- [第 99 册](gallery-part-99.md)（25 条资料）
+- [第 100 册](gallery-part-100.md)（25 条资料）
+- [第 101 册](gallery-part-101.md)（25 条资料）
+- [第 102 册](gallery-part-102.md)（25 条资料）
+- [第 103 册](gallery-part-103.md)（25 条资料）
+- [第 104 册](gallery-part-104.md)（25 条资料）
+- [第 105 册](gallery-part-105.md)（25 条资料）
+- [第 106 册](gallery-part-106.md)（25 条资料）
+- [第 107 册](gallery-part-107.md)（25 条资料）
+- [第 108 册](gallery-part-108.md)（25 条资料）
+- [第 109 册](gallery-part-109.md)（25 条资料）
+- [第 110 册](gallery-part-110.md)（25 条资料）
+- [第 111 册](gallery-part-111.md)（25 条资料）
+- [第 112 册](gallery-part-112.md)（25 条资料）
+- [第 113 册](gallery-part-113.md)（25 条资料）
+- [第 114 册](gallery-part-114.md)（25 条资料）
+- [第 115 册](gallery-part-115.md)（25 条资料）
+- [第 116 册](gallery-part-116.md)（25 条资料）
+- [第 117 册](gallery-part-117.md)（25 条资料）
+- [第 118 册](gallery-part-118.md)（25 条资料）
+- [第 119 册](gallery-part-119.md)（25 条资料）
+- [第 120 册](gallery-part-120.md)（25 条资料）
+- [第 121 册](gallery-part-121.md)（25 条资料）
+- [第 122 册](gallery-part-122.md)（25 条资料）
+- [第 123 册](gallery-part-123.md)（25 条资料）
+- [第 124 册](gallery-part-124.md)（25 条资料）
+- [第 125 册](gallery-part-125.md)（25 条资料）
+- [第 126 册](gallery-part-126.md)（25 条资料）
+- [第 127 册](gallery-part-127.md)（25 条资料）
+- [第 128 册](gallery-part-128.md)（25 条资料）
+- [第 129 册](gallery-part-129.md)（25 条资料）
+- [第 130 册](gallery-part-130.md)（25 条资料）
+- [第 131 册](gallery-part-131.md)（25 条资料）
+- [第 132 册](gallery-part-132.md)（25 条资料）
+- [第 133 册](gallery-part-133.md)（25 条资料）
+- [第 134 册](gallery-part-134.md)（25 条资料）
+- [第 135 册](gallery-part-135.md)（25 条资料）
+- [第 136 册](gallery-part-136.md)（25 条资料）
+- [第 137 册](gallery-part-137.md)（25 条资料）
+- [第 138 册](gallery-part-138.md)（25 条资料）
+- [第 139 册](gallery-part-139.md)（25 条资料）
+- [第 140 册](gallery-part-140.md)（25 条资料）
+- [第 141 册](gallery-part-141.md)（25 条资料）
+- [第 142 册](gallery-part-142.md)（25 条资料）
+- [第 143 册](gallery-part-143.md)（25 条资料）
+- [第 144 册](gallery-part-144.md)（25 条资料）
+- [第 145 册](gallery-part-145.md)（25 条资料）
+- [第 146 册](gallery-part-146.md)（25 条资料）
+- [第 147 册](gallery-part-147.md)（25 条资料）
+- [第 148 册](gallery-part-148.md)（25 条资料）
+- [第 149 册](gallery-part-149.md)（25 条资料）
+- [第 150 册](gallery-part-150.md)（25 条资料）
+- [第 151 册](gallery-part-151.md)（25 条资料）
+- [第 152 册](gallery-part-152.md)（25 条资料）
+- [第 153 册](gallery-part-153.md)（25 条资料）
+- [第 154 册](gallery-part-154.md)（25 条资料）
+- [第 155 册](gallery-part-155.md)（25 条资料）
+- [第 156 册](gallery-part-156.md)（25 条资料）
+- [第 157 册](gallery-part-157.md)（25 条资料）
+- [第 158 册](gallery-part-158.md)（25 条资料）
+- [第 159 册](gallery-part-159.md)（25 条资料）
+- [第 160 册](gallery-part-160.md)（25 条资料）
+- [第 161 册](gallery-part-161.md)（25 条资料）
+- [第 162 册](gallery-part-162.md)（25 条资料）
+- [第 163 册](gallery-part-163.md)（25 条资料）
+- [第 164 册](gallery-part-164.md)（25 条资料）
+- [第 165 册](gallery-part-165.md)（25 条资料）
+- [第 166 册](gallery-part-166.md)（25 条资料）
+- [第 167 册](gallery-part-167.md)（25 条资料）
+- [第 168 册](gallery-part-168.md)（25 条资料）
+- [第 169 册](gallery-part-169.md)（25 条资料）
+- [第 170 册](gallery-part-170.md)（25 条资料）
+- [第 171 册](gallery-part-171.md)（25 条资料）
+- [第 172 册](gallery-part-172.md)（25 条资料）
+- [第 173 册](gallery-part-173.md)（25 条资料）
+- [第 174 册](gallery-part-174.md)（25 条资料）
+- [第 175 册](gallery-part-175.md)（25 条资料）
+- [第 176 册](gallery-part-176.md)（25 条资料）
+- [第 177 册](gallery-part-177.md)（25 条资料）
+- [第 178 册](gallery-part-178.md)（25 条资料）
+- [第 179 册](gallery-part-179.md)（25 条资料）
+- [第 180 册](gallery-part-180.md)（25 条资料）
+- [第 181 册](gallery-part-181.md)（25 条资料）
+- [第 182 册](gallery-part-182.md)（25 条资料）
+- [第 183 册](gallery-part-183.md)（25 条资料）
+- [第 184 册](gallery-part-184.md)（25 条资料）
+- [第 185 册](gallery-part-185.md)（25 条资料）
+- [第 186 册](gallery-part-186.md)（25 条资料）
+- [第 187 册](gallery-part-187.md)（25 条资料）
+- [第 188 册](gallery-part-188.md)（25 条资料）
+- [第 189 册](gallery-part-189.md)（25 条资料）
+- [第 190 册](gallery-part-190.md)（25 条资料）
+- [第 191 册](gallery-part-191.md)（25 条资料）
+- [第 192 册](gallery-part-192.md)（25 条资料）
+- [第 193 册](gallery-part-193.md)（25 条资料）
+- [第 194 册](gallery-part-194.md)（25 条资料）
+- [第 195 册](gallery-part-195.md)（25 条资料）
+- [第 196 册](gallery-part-196.md)（25 条资料）
+- [第 197 册](gallery-part-197.md)（25 条资料）
+- [第 198 册](gallery-part-198.md)（25 条资料）
+- [第 199 册](gallery-part-199.md)（25 条资料）
+- [第 200 册](gallery-part-200.md)（25 条资料）
+- [第 201 册](gallery-part-201.md)（25 条资料）
+- [第 202 册](gallery-part-202.md)（25 条资料）
+- [第 203 册](gallery-part-203.md)（25 条资料）
+- [第 204 册](gallery-part-204.md)（25 条资料）
+- [第 205 册](gallery-part-205.md)（25 条资料）
+- [第 206 册](gallery-part-206.md)（25 条资料）
+- [第 207 册](gallery-part-207.md)（25 条资料）
+- [第 208 册](gallery-part-208.md)（25 条资料）
+- [第 209 册](gallery-part-209.md)（25 条资料）
+- [第 210 册](gallery-part-210.md)（25 条资料）
+- [第 211 册](gallery-part-211.md)（25 条资料）
+- [第 212 册](gallery-part-212.md)（25 条资料）
+- [第 213 册](gallery-part-213.md)（25 条资料）
+- [第 214 册](gallery-part-214.md)（25 条资料）
+- [第 215 册](gallery-part-215.md)（25 条资料）
+- [第 216 册](gallery-part-216.md)（25 条资料）
+- [第 217 册](gallery-part-217.md)（25 条资料）
+- [第 218 册](gallery-part-218.md)（25 条资料）
+- [第 219 册](gallery-part-219.md)（25 条资料）
+- [第 220 册](gallery-part-220.md)（25 条资料）
+- [第 221 册](gallery-part-221.md)（25 条资料）
+- [第 222 册](gallery-part-222.md)（25 条资料）
+- [第 223 册](gallery-part-223.md)（25 条资料）
+- [第 224 册](gallery-part-224.md)（25 条资料）
+- [第 225 册](gallery-part-225.md)（25 条资料）
+- [第 226 册](gallery-part-226.md)（25 条资料）
+- [第 227 册](gallery-part-227.md)（25 条资料）
+- [第 228 册](gallery-part-228.md)（25 条资料）
+- [第 229 册](gallery-part-229.md)（25 条资料）
+- [第 230 册](gallery-part-230.md)（25 条资料）
+- [第 231 册](gallery-part-231.md)（25 条资料）
+- [第 232 册](gallery-part-232.md)（25 条资料）
+- [第 233 册](gallery-part-233.md)（25 条资料）
+- [第 234 册](gallery-part-234.md)（25 条资料）
+- [第 235 册](gallery-part-235.md)（25 条资料）
+- [第 236 册](gallery-part-236.md)（25 条资料）
+- [第 237 册](gallery-part-237.md)（25 条资料）
+- [第 238 册](gallery-part-238.md)（25 条资料）
+- [第 239 册](gallery-part-239.md)（25 条资料）
+- [第 240 册](gallery-part-240.md)（25 条资料）
+- [第 241 册](gallery-part-241.md)（25 条资料）
+- [第 242 册](gallery-part-242.md)（25 条资料）
+- [第 243 册](gallery-part-243.md)（25 条资料）
+- [第 244 册](gallery-part-244.md)（25 条资料）
+- [第 245 册](gallery-part-245.md)（25 条资料）
+- [第 246 册](gallery-part-246.md)（25 条资料）
+- [第 247 册](gallery-part-247.md)（25 条资料）
+- [第 248 册](gallery-part-248.md)（25 条资料）
+- [第 249 册](gallery-part-249.md)（25 条资料）
+- [第 250 册](gallery-part-250.md)（25 条资料）
+- [第 251 册](gallery-part-251.md)（25 条资料）
+- [第 252 册](gallery-part-252.md)（25 条资料）
+- [第 253 册](gallery-part-253.md)（25 条资料）
+- [第 254 册](gallery-part-254.md)（25 条资料）
+- [第 255 册](gallery-part-255.md)（25 条资料）
+- [第 256 册](gallery-part-256.md)（25 条资料）
+- [第 257 册](gallery-part-257.md)（25 条资料）
+- [第 258 册](gallery-part-258.md)（25 条资料）
+- [第 259 册](gallery-part-259.md)（25 条资料）
+- [第 260 册](gallery-part-260.md)（25 条资料）
+- [第 261 册](gallery-part-261.md)（25 条资料）
+- [第 262 册](gallery-part-262.md)（25 条资料）
+- [第 263 册](gallery-part-263.md)（25 条资料）
+- [第 264 册](gallery-part-264.md)（25 条资料）
+- [第 265 册](gallery-part-265.md)（25 条资料）
+- [第 266 册](gallery-part-266.md)（25 条资料）
+- [第 267 册](gallery-part-267.md)（25 条资料）
+- [第 268 册](gallery-part-268.md)（25 条资料）
+- [第 269 册](gallery-part-269.md)（25 条资料）
+- [第 270 册](gallery-part-270.md)（25 条资料）
+- [第 271 册](gallery-part-271.md)（25 条资料）
+- [第 272 册](gallery-part-272.md)（25 条资料）
+- [第 273 册](gallery-part-273.md)（25 条资料）
+- [第 274 册](gallery-part-274.md)（25 条资料）
+- [第 275 册](gallery-part-275.md)（25 条资料）
+- [第 276 册](gallery-part-276.md)（25 条资料）
+- [第 277 册](gallery-part-277.md)（25 条资料）
+- [第 278 册](gallery-part-278.md)（25 条资料）
+- [第 279 册](gallery-part-279.md)（25 条资料）
+- [第 280 册](gallery-part-280.md)（25 条资料）
+- [第 281 册](gallery-part-281.md)（25 条资料）
+- [第 282 册](gallery-part-282.md)（25 条资料）
+- [第 283 册](gallery-part-283.md)（25 条资料）
+- [第 284 册](gallery-part-284.md)（15 条资料）
 
 ## 最近收录
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top"><a href="../cases/case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393/v1.md"><img src="../images/9d95cb479e1b2e86b48ee6099ce230b76a0d619c71b420b9f514a095ca8c10d1.jpg" alt="人物纸艺剪纸" width="220"></a><br><a href="../cases/case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393/v1.md"><strong>人物纸艺剪纸 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-picotrex-nano-banana-selected-pro-case35-794ac658a42b/v1.md"><img src="../images/7ba928208579a0fdc9a55a766645050ede838d6092f0c1cb3da7b56305402764.jpg" alt="城市冰箱贴" width="220"></a><br><a href="../cases/case-picotrex-nano-banana-selected-pro-case35-794ac658a42b/v1.md"><strong>城市冰箱贴 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case35-794ac658a42b</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-picotrex-nano-banana-selected-pro-case28-b00e453b047a/v1.md"><img src="../images/e7c7366af77add187d65f409caaf8855747c4e14cfa232572f893d3bcdc9dc0c.jpg" alt="黑板粉笔画" width="220"></a><br><a href="../cases/case-picotrex-nano-banana-selected-pro-case28-b00e453b047a/v1.md"><strong>黑板粉笔画 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case28-b00e453b047a</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-fb9972c350fd/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDibC1kgviaLgibd7ZHBQuFM5zwO0nK22GMAkToV7hlmbgj57dBM9KINuY0F6w1lbXscHib9eYmHoXDH5YicXqAytGUDWiaUhE9mnicPQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 3" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-fb9972c350fd/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 3 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-fb9972c350fd</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e882ab74fe49/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBIMicv82vHs8Y8icjseicrFu0buFYb7LYGsbuic1LHjpVa4gY5wXEDW5OibOR0EiaWQtjPO6PMj1HW5Cklw78gtibkEiaoELalKTnM3ibo/0?wx_fmt=other&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 15" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e882ab74fe49/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 15 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e882ab74fe49</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCpuP9ZxLU5ibWLZiagMwicA0UjxzPTqEKiclTTwMovxjQxyFNkiafDOibdot4qtbibrYhCia4icVfjYkxbAcopcblsicHWpDd1usts2GbDc/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 7" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 7 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e5a3376d32b8</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="../cases/case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d/v1.md"><img src="../images/dd50b48744aca48af4d6c63508ecdd16dc0b130007bdff31ac049c40f0d6db51.jpg" alt="清明上河图风格图像" width="220"></a><br><a href="../cases/case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d/v1.md"><strong>清明上河图风格图像 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case26-93d3d492fe3d</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4/v1.md"><img src="../images/8a910801a8df64a02da7aaf464b98bb6f6a1d83c7f20aa9d7a4ebf04d8dc8551.jpg" alt="手绘等距图" width="220"></a><br><a href="../cases/case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4/v1.md"><strong>手绘等距图 · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case15-cab2a4c397d4</sub><br><sub>原图文案例 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-picotrex-nano-banana-selected-pro-case13-d75720310f38/v1.md"><img src="../images/9906c83f8d723d767ca9da5719372fb501dc2e3c56d90651ae8f3d5f9c98b0fa.jpg" alt="水晶质感emoji" width="220"></a><br><a href="../cases/case-picotrex-nano-banana-selected-pro-case13-d75720310f38/v1.md"><strong>水晶质感emoji · v1</strong></a><br><sub>case-picotrex-nano-banana-selected-pro-case13-d75720310f38</sub><br><sub>风格参考 · nano-banana</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBbZDAAL3VWdnDrY1adGtXZRJ7jwP9pibFGoC12rejCUGzh7zib0gAJPn0LYZrp9m0vm5CslbH6kVOdkWicbzHsmsicTiavIbPF42Qc/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 1" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 1 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e1c64f3a1436/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCLWg3l4yDF2lahSxwrm1MhxLNgI7uFD2nmBlhMiav2AhSydsFEHHAfFDF6ysibUnrYaL8nEiaxKwPMibnj9RLTukyE3YUNk5AcOVw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 2" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e1c64f3a1436/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 2 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e1c64f3a1436</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-b45fd325b3cb/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDLSjMZ7291BdG2uEzplpxtOP2yVH8EZuv1BdELFMhPX0RCYMrtIPuppUL06sGcv8Vdk9Cq63FUYPNEIcDADm0l2pXsPYjBia48/0?wx_fmt=jpeg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 5" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-b45fd325b3cb/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 5 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-b45fd325b3cb</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="../cases/case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9/v1.md"><img src="../images/de165d53991c9f6a14b8d69e03d235598e7f64d6b693bb90786510ddaa06049a.png" alt="幼狼：黑白涂色书插画" width="220"></a><br><a href="../cases/case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9/v1.md"><strong>幼狼：黑白涂色书插画 · v1</strong></a><br><sub>case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9</sub><br><sub>原图文案例 · midjourney</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-ezagor-awesome-midjourney-prompts-victor-mosquera-style-363d2afe8b06/v1.md"><img src="../images/5b7cd7aaf750213c1ecccc6a1a059416b40a09e4375c3b389f57f8491650156b.png" alt="Victor Mosquera插画风格线索" width="220"></a><br><a href="../cases/case-ezagor-awesome-midjourney-prompts-victor-mosquera-style-363d2afe8b06/v1.md"><strong>Victor Mosquera插画风格线索 · v1</strong></a><br><sub>case-ezagor-awesome-midjourney-prompts-victor-mosquera-style-363d2afe8b06</sub><br><sub>风格参考 · midjourney</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-ezagor-awesome-midjourney-prompts-macro-particles-a9b91b65e451/v1.md"><img src="../images/3000e33b983202c7ea5ebf2a9c086a3c9bc1279c12b719517199fd6c007d0a54.png" alt="粒子微距与浅景深" width="220"></a><br><a href="../cases/case-ezagor-awesome-midjourney-prompts-macro-particles-a9b91b65e451/v1.md"><strong>粒子微距与浅景深 · v1</strong></a><br><sub>case-ezagor-awesome-midjourney-prompts-macro-particles-a9b91b65e451</sub><br><sub>原图文案例 · midjourney</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8aedbd29ba83/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBlQexYPHzo9ibwkWg1BB00aQxAicRmnz0NWG3nD9mV1pAmUd8rVZuDPibpyfJicARW2u37FrCE0jg1RrmeVL0JXa5sIUyWze6fQMU/0?wx_fmt=jpeg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 10" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8aedbd29ba83/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 10 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8aedbd29ba83</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8a42d1beeae2/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDzUPqtjibJoldU1SAQ2N3ASB8d4QxHAZRUW4teJtX4OSU6BnKHoe7bib3lzUS3KM1icv5eQN6CIibZ65TELXMJD6xOsKCzYHxXaqQ/0?wx_fmt=jpeg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 4" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8a42d1beeae2/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 4 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8a42d1beeae2</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-810fff1d721f/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCHoziaAk11lMZOYHulFwFxn1RyDZIiaoxMWa4uRIewHQ6ayIdQ1D6U3qbPQHF3yKYwzOJnoaAyclL1lyNarUoGIdWRIibqwISsnI/0?wx_fmt=other&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 6" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-810fff1d721f/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 6 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-810fff1d721f</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="../cases/case-ezagor-awesome-midjourney-prompts-indigenogoth-malachite-38bbfda619f7/v1.md"><img src="../images/b829f943b313a2135dff7a21f36f34b8f591019786b4d46c763b5652319d04f7.png" alt="indigenogoth 孔雀石风格参考" width="220"></a><br><a href="../cases/case-ezagor-awesome-midjourney-prompts-indigenogoth-malachite-38bbfda619f7/v1.md"><strong>indigenogoth 孔雀石风格参考 · v1</strong></a><br><sub>case-ezagor-awesome-midjourney-prompts-indigenogoth-malachite-38bbfda619f7</sub><br><sub>风格参考 · midjourney</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-ezagor-awesome-midjourney-prompts-fire-elf-skottie-young-666331e7023c/v1.md"><img src="../images/43e86981fd76c58abef634cf07cbe04d4a30464456103ea2bacadbcd70bed7bc.png" alt="火焰精灵：Skottie Young漫画线索" width="220"></a><br><a href="../cases/case-ezagor-awesome-midjourney-prompts-fire-elf-skottie-young-666331e7023c/v1.md"><strong>火焰精灵：Skottie Young漫画线索 · v1</strong></a><br><sub>case-ezagor-awesome-midjourney-prompts-fire-elf-skottie-young-666331e7023c</sub><br><sub>原图文案例 · midjourney</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
-<td width="33%" align="center" valign="top"><a href="../cases/case-ezagor-awesome-midjourney-prompts-electronic-components-face-a893836b6644/v1.md"><img src="../images/02448ccf0ae3f3a44daff8aa3f7226ba110668690062943c512830ef9ffd953f.png" alt="电子元件与PCB人脸" width="220"></a><br><a href="../cases/case-ezagor-awesome-midjourney-prompts-electronic-components-face-a893836b6644/v1.md"><strong>电子元件与PCB人脸 · v1</strong></a><br><sub>case-ezagor-awesome-midjourney-prompts-electronic-components-face-a893836b6644</sub><br><sub>原图文案例 · midjourney</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-799e603c2e12/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCth7DDTqWu4ypdrZbzteUTU5w2LLKfP6YstgWuQMQiaFOtHZNkdZl9HQxAyX8iacuf6LJEjtv4M3hPk63jm8J7XoYjZ31L2LS4w/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 8" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-799e603c2e12/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 8 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-799e603c2e12</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-431466874f6c/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDJy2X8WZ0wbq1U9QJyGGHSYaVb40npjgxpYyEX1waoQ3hlAYYyO0iaDuAnjcI6GhhJ1IGPy7LXJgXibvrEZYeQictagXuILk7ffo/0?wx_fmt=jpeg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 13" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-431466874f6c/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 13 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-431466874f6c</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-2c34b7566f6c/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDDVvUjZ4icsZVbgEVNpicCv71X1cF4S5YfhOibrlialBQ66YYW9FHRzYKFa8gEdbEGg30PQIFPW9icK9paqgZ6Ba1TNibz9QH3ntyzc/0?wx_fmt=png&amp;from=appmsg" alt="Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 11" width="220"></a><br><a href="../cases/case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-2c34b7566f6c/v1.md"><strong>Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 11 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-2c34b7566f6c</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 </table>
 

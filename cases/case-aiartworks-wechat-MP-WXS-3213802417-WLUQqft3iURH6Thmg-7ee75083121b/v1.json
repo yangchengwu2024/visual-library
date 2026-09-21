@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCqsNGepfgmp2CUyia9qOLg2OqKFXg9vSV02HH865GcMSFicpGmib1r2lCjpldc5GNF74ChebmxyY8Cbzr9WhPJghzWJpibk2gg4PU/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAtoXFf8H8V5jYswAcZ1YlTsab00BAFFpwOO8v3D9y1Oz3HoVCJ0xUomfNTjycviaV4BAePp5xEibK2YoOP4o5BmwQtXiaFPXqFT4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WLUQqft3iURH6Thmg-7ee75083121b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2339d941209fece739c8f617a16d47b3daf4a1a4aae1b04c34e6a5b5430dae13",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:6",
+    "hd": true,
+    "profile": "jrlwz9x",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Cat in the style of Beatrix Potter and Oliver Jeffers --ar 5:6 --raw --profile jrlwz9x z82d44z rrt5npv pabcz6a qc8kfzd --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCqsNGepfgmp2CUyia9qOLg2OqKFXg9vSV02HH865GcMSFicpGmib1r2lCjpldc5GNF74ChebmxyY8Cbzr9WhPJghzWJpibk2gg4PU/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAtoXFf8H8V5jYswAcZ1YlTsab00BAFFpwOO8v3D9y1Oz3HoVCJ0xUomfNTjycviaV4BAePp5xEibK2YoOP4o5BmwQtXiaFPXqFT4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw:prompt-0005",
+    "source_metadata": {
+      "article_index": 28,
+      "article_title": "Vol.305-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780357352,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd",
+    "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 6",
+  "version": "v1"
+}

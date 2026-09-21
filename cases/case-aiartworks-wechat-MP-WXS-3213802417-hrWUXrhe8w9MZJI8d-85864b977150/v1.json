@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShd037OYrjBXRTHiap6DvN7icYNic7Cho4iaF7pnHW61xQF24Bn8FHy3J4zDt1IXnQRGF4Fuic84IPtgMMg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hrWUXrhe8w9MZJI8d-85864b977150",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a98da1366e02d5f399b1066a982e730435352540ec0d13775adeac0ddef1fd40",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "raw": true,
+    "weird": "400"
+  },
+  "previous_version": null,
+  "prompt": "Black and white Marvel comic book style illustration, cinematic composition showing a terrified woman running through a dark foggy street, looking back in fear as a mysterious dark silhouette follows from a distance, dramatic lighting, bold inking, heavy cross-hatching, visible halftone dots texture, strong contrast and dynamic motion lines, vintage horror comic aesthetic, intense suspense atmosphere, no violence shown, no text or lettering --chaos 15 --ar 9:16 --raw --weird 400",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShd037OYrjBXRTHiap6DvN7icYNic7Cho4iaF7pnHW61xQF24Bn8FHy3J4zDt1IXnQRGF4Fuic84IPtgMMg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA:prompt-0015",
+    "source_metadata": {
+      "article_index": 54,
+      "article_title": "Vol.278 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1761867020,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502267&idx=1&sn=21ff29860596f048a05328cc6be4f58c&chksm=961e3cec9547c5d1877349761d4aebe104143ae8cc9f8c492293668cf75ad96a47b5ad688880#rd",
+    "title": "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502267&idx=1&sn=21ff29860596f048a05328cc6be4f58c&chksm=961e3cec9547c5d1877349761d4aebe104143ae8cc9f8c492293668cf75ad96a47b5ad688880#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

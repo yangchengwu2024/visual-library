@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pJP8s9Ji3YAUNWgR5-f2e515608354",
+  "fingerprint": "d7c3205a93d6bb51b01ee44251e6b9c6860c395649ec2b147b80bbf82f458f00",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "stylize": "50",
+    "v": "7"
+  },
+  "prompt": "Uncanny Valley. Hyper realistic. Perfect image. Very close to reality. old man sitting in a monobloc plastic chair on a green meadow. perfectly cut grass. Mai field right behind the monobloc and the old man. Eerie realism. Game polygonic face, uncanny valley. The man looks almost real. --ar 3:4 --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pJP8s9Ji3YAUNWgR5PZUyw:prompt-0012",
+    "source_metadata": {
+      "article_index": 129,
+      "article_title": "Vol.199 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1748828777,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pJP8s9Ji3YAUNWgR5PZUyw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497554&idx=1&sn=51e266fe66f6d0e6dfa27e8389daa8d2&chksm=960cd9262649e20e4d20d751f4d118b338f774b83f216ec9c67e97807f351d2fd5baf86bd3fd#rd",
+    "title": "Vol.199 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497554&idx=1&sn=51e266fe66f6d0e6dfa27e8389daa8d2&chksm=960cd9262649e20e4d20d751f4d118b338f774b83f216ec9c67e97807f351d2fd5baf86bd3fd#rd"
+  },
+  "source_id": "MP_WXS_3213802417_pJP8s9Ji3YAUNWgR5PZUyw:prompt-0012",
+  "status": "pending",
+  "title": "Vol.199 - Midjourney | 精选作品关键词提示 · 提示词 13"
+}

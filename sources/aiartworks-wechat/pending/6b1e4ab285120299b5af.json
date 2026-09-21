@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-6628a77f89a4",
+  "fingerprint": "5dae30ea1d023d6b9ca299dea5c90b27b15829e8981fe38fb336de61dc5cfd00",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "750",
+    "v": "7"
+  },
+  "prompt": "Surreal digital illustration of a goddess-like figure in red and purple hues. She has long black hair with braids, and is wearing sunglasses. She has a red chest tattoo, and is lounging on an iridescent sea planet, with a solar eclipse in the background. --ar 9:16 --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA:prompt-0004",
+    "source_metadata": {
+      "article_index": 152,
+      "article_title": "Vol.177 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1746585014,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496619&idx=1&sn=2ecbccf42b82483fbb01986acb6b934a&scene=58&subscene=0",
+    "title": "Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496619&idx=1&sn=2ecbccf42b82483fbb01986acb6b934a&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA:prompt-0004",
+  "status": "pending",
+  "title": "Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 5"
+}

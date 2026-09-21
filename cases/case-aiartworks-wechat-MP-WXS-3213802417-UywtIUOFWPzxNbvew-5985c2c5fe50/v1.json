@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OciboavItdd6xhROQSn5Y1Z60RsCQTq6A4qMOmO1JVkMl1j3SCPqqYxQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_UywtIUOFWPzxNbvewvDPtw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-UywtIUOFWPzxNbvew-5985c2c5fe50",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6379543bb8b9b4ba09114a8f1859aa2bebfbefe0b99f83aba7c3c57e757db787",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "4",
+    "niji": "6",
+    "style": "raw"
+  },
+  "previous_version": null,
+  "prompt": "manga cover, ( Katsuragi Misato in NEON GENESIS EVANGELION ), in an action pose, in the style of Katsuhiro Otomo and Jean Giraud, bright colors, ultra detailed, best quality, high resolution --chaos 4 --ar 9:16 --style raw --niji 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OciboavItdd6xhROQSn5Y1Z60RsCQTq6A4qMOmO1JVkMl1j3SCPqqYxQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_UywtIUOFWPzxNbvewvDPtw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_UywtIUOFWPzxNbvewvDPtw:prompt-0014",
+    "source_metadata": {
+      "article_index": 281,
+      "article_title": "Vol.62 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734489054,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_UywtIUOFWPzxNbvewvDPtw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489588&idx=1&sn=9bdf95b83e3e47ac280d85d47cc9db4f&scene=58&subscene=0",
+    "title": "Vol.62 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489588&idx=1&sn=9bdf95b83e3e47ac280d85d47cc9db4f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.62 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

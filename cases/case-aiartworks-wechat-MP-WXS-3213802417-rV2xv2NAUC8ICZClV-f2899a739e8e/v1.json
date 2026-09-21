@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4b0muoQIXibDichCERxYK6eGzcy1JMeLJX39MiaXPyaabF2eHqUicbcKVA9Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rV2xv2NAUC8ICZClV-f2899a739e8e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b99c29e0ff4354479827413df64c5c0d1147c8d5ada33f0e0cb13749ad234bc8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "e3g7vjw",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "exaggerated Caricature 3D cartoon character-style illustration of singer stevie wonder with dreadlocks and black sunglasses playing piano, singing on concert stage, in the style of Disney Pixar, soft lighting, soft shadows, detailed rendering, high resolution --ar 3:4 --profile e3g7vjw --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcmbj7u5Xp8W45wQUfeMT4b0muoQIXibDichCERxYK6eGzcy1JMeLJX39MiaXPyaabF2eHqUicbcKVA9Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg:prompt-0015",
+    "source_metadata": {
+      "article_index": 163,
+      "article_title": "Vol.168 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745634624,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd",
+    "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

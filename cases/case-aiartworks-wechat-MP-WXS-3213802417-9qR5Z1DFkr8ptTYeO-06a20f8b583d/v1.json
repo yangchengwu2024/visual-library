@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsOBdjlW2Z3r3RyzAqibElfGibGfYJwjqP8k6miaapKdhgAN4oXSpXFB1jw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9qR5Z1DFkr8ptTYeO-06a20f8b583d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fe32a7b4d739cb1159b09b2c3d74f8cada4079245908996b20640a45311ba90c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "43:53",
+    "chaos": "15",
+    "no": [
+      "shadows"
+    ],
+    "quality": "2",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "dragonfly brass sculpture of Gorgeous woman with big br ea sts and big but t oc ks, perfectly carved in clear crystal cluster with quartz, expressing deep serenity, Venus de Milo sculpture style, boris vallejo art work design, white scenery background, with Intricate contrast of natural light and shadows and perfect focus, hyper detailed, ultra realistic, high color depth, octane render, 20k --no shadows --chaos 15 --ar 43:53 --quality 2 --style raw --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsOBdjlW2Z3r3RyzAqibElfGibGfYJwjqP8k6miaapKdhgAN4oXSpXFB1jw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw:prompt-0016",
+    "source_metadata": {
+      "article_index": 193,
+      "article_title": "Vol.143 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743042655,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9qR5Z1DFkr8ptTYeOFbUxw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495280&idx=1&sn=9d7d9b2cc0650c6be2c74aab029ada12&chksm=96cc56f8420317b36600ac2ed814e041aa8fbb156d0f012c2e15842f95634f52ca0dbd24c304#rd",
+    "title": "Vol.143 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495280&idx=1&sn=9d7d9b2cc0650c6be2c74aab029ada12&chksm=96cc56f8420317b36600ac2ed814e041aa8fbb156d0f012c2e15842f95634f52ca0dbd24c304#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.143 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

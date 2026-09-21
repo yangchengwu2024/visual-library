@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCcRLjlOFQtaUULwQcRtwg6W6W7J3aIzhHqbbu4hSqTl7ic1Q4hLBXaLojKrKd8IS6vz6MjSc9sF6bULhE1qN5Wp5KXLR9NJVjM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-0651dff56b3d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "202c6122c2343f083e00ea920c04765e80850a81eb31a1a58d75eec0b7fb7e22",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "An origami scene of the fox and the crow fable, a crow folded from black and white paper with sharp angular creases perched on an origami tree branch, holding a small folded yellow paper cheese wedge in its beak, an origami fox folded from orange paper sitting below gazing up, clean sharp folds and crisp paper edges, minimalist composition, soft studio lighting casting gentle shadows, smooth matte paper texture, neutral pastel background, highly detailed paper art --ar 9:16 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCcRLjlOFQtaUULwQcRtwg6W6W7J3aIzhHqbbu4hSqTl7ic1Q4hLBXaLojKrKd8IS6vz6MjSc9sF6bULhE1qN5Wp5KXLR9NJVjM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0005",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "review",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 6",
+  "version": "v1"
+}

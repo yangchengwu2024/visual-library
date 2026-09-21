@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-afZEOp-KDimsggVn4-b3a62315baee",
+  "fingerprint": "89673900e2527233dc458b2bf525b38ae3925247de05d5d34da87222c8c6188d",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true
+  },
+  "prompt": "A stark black and white photorealistic side profile portrait of a rugged Pictish warrior. Ultra-high contrast, with deep blacks and bright highlights. Shot on large format film. --ar 2:3 --raw",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ:prompt-0014",
+    "source_metadata": {
+      "article_index": 67,
+      "article_title": "Vol.264 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1759102216,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd",
+    "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd"
+  },
+  "source_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ:prompt-0014",
+  "status": "pending",
+  "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 15"
+}

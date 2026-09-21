@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYSxfZ21E2BrQqgv4QHasiaWIWp1bsIuULjjxs3z87o4TyfEfibaNon2mQ/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-afZEOp-KDimsggVn4-5908ee5422a7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d8a992ad243f27a5c0207b6ae791265a2c464f612f20d03b95c44808efb98a43",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "A dramatic WWI battlefield scene: the first tanks rolling across muddy terrain, biplanes flying overhead in dogfights, and a submarine lurking in the sea below. Cinematic composition showing war from land, sky, and sea. Epic historical atmosphere, 9:16. --ar 51:91 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYSxfZ21E2BrQqgv4QHasiaWIWp1bsIuULjjxs3z87o4TyfEfibaNon2mQ/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 67,
+      "article_title": "Vol.264 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759102216,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd",
+    "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

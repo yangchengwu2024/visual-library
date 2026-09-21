@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShctmaiankPXWMShNxHpdeKrvIFbNiaxRVGjkz7PNSicymz5M7cibWYCmR9jRTSeTO6Gfiaic9nD7NkLRkoQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WiMzK4b0zX0msQR8d-5b5296b0575a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ee94936b96101453fb2dde47226ea9eaaa096a469acdfee1484d47c18ddd04b5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A breathtaking view overlooking a grand Disney-style castle under a stunning moonlit sky. A crystal-clear river flows around the castle, reflecting the moonlight in a dreamlike scene. In front of the castle, a charming steampunk town features a railway with a steam locomotive crossing a bridge over the river. The town includes an old-fashioned bank, vintage shops, horse-drawn carriages, and early 20th-century automobiles, all bathed in warm, glowing lights. At the town square, people celebrate a vibrant festival under bright lanterns, playing guitars, cellos, violins, and a grand piano. The scene exudes a magical, warm autumn night atmosphere. Extreme texture fidelity, photo-realistic lighting and reflections. --ar 1:2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShctmaiankPXWMShNxHpdeKrvIFbNiaxRVGjkz7PNSicymz5M7cibWYCmR9jRTSeTO6Gfiaic9nD7NkLRkoQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A:prompt-0017",
+    "source_metadata": {
+      "article_index": 203,
+      "article_title": "Vol.135 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742265063,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0",
+    "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

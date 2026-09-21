@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:10+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheIYqIV5FwmfHLpxjpuzGouCKDP37sajyKoB0ibToDucNdw2Od6aLSal76qmxmg7bLTDhplYjeRurw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-u-nF7Ef9yxPwRWrFz-bb52bbf86f97",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c36bfbef4b02f251bc5467d0a3be6f44c9a3efe722b39d412ea6313fde2c07fb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "8:5",
+    "iw": "0.1",
+    "profile": "vnozsdz",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Lobster style hat, animation movie characters, reality distorsion effect, scenic view, Disney animation style, Anamorphosis perspective effect, professional focus stacking, intricate storytelling, 64k, UHD, Beautiful Lighting Unreal, common creative attributions, micro-nano technology, motion effects, emotional portraits, intense action scenes, split toning, diffuse fragmented, raw versus finished, volumetric lighting, light diffused color drift glitch, Canon EOS R5 camera with Canon RF 85mm f/1.2L USM lenses, Kodak Ektar 100 film, shot in film with Hasselblad H6D-100c, Hasselblad HC CF 5.6/250 SA lenses, creative color filters, HDRI VFX effects, 6000 x 4800 pixels --ar 8:5 --profile vnozsdz --stylize 500 --iw 0.1 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheIYqIV5FwmfHLpxjpuzGouCKDP37sajyKoB0ibToDucNdw2Od6aLSal76qmxmg7bLTDhplYjeRurw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw:prompt-0019",
+    "source_metadata": {
+      "article_index": 188,
+      "article_title": "Vol.146 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743474638,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495414&idx=1&sn=c7609670a592aafaac299f44252233c3&chksm=967001a03f082a470eca2bab1f42687d62bbe810140bc8628b4e058f95718d36432ddfa0e3a6#rd",
+    "title": "Vol.146 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495414&idx=1&sn=c7609670a592aafaac299f44252233c3&chksm=967001a03f082a470eca2bab1f42687d62bbe810140bc8628b4e058f95718d36432ddfa0e3a6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.146 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

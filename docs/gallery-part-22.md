@@ -1040,25 +1040,29 @@ Double exposure, Midjourney style, merging, blending, overlay double exposure im
 
 </details>
 
-## 8-bit ASCII风格参考 · v1
+## Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1
 
-- [8-bit ASCII风格参考 · v1](../cases/case-ezagor-awesome-midjourney-prompts-8-bit-ascii-art-a60b66ba83b3/v1.md) — case-ezagor-awesome-midjourney-prompts-8-bit-ascii-art-a60b66ba83b3
+- [Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--16fc54025eb8/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--16fc54025eb8
 
-风格参考 · midjourney
+原图文案例 · midjourney
 
-**已记录补充核查结果；以详情中的输入要求为准**
+**待复核：尚无补充核查，不代表必要输入已齐全**
 
-已实读README完整原prompt并逐张看图核对相邻图文关系；verified仅表示资料配对与本地完整性，不代表生成复现、逐条作者权属或模型版本已独立验证。原来源无明确版本/seed/默认参数，无sref、profile或必要输入图链接；这些未披露值保持null。 原图为深棕底浅青色条纹人形与骷髅，周围似字符纹理；是生成的ASCII视觉风格，不是可复制执行的纯文本ASCII作品。
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
 
 **输出示例图**
 
-<img src="../images/c0946f4a2e6dfce1f38ef00a473cd51fbe5bbcda0f4c47d5705dfc204803971c.png" alt="8-bit ASCII风格参考" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfSBfotzsgMbMnoHWdUNqtyuwc3JuVsUYoadlnCy5Pv6eo4J4VfGnHqxJV56CCI4ibKEVYibf5GWviag/0?wx_fmt=png&amp;from=appmsg" alt="Vol.292 - Midjourney | 精选作品关键词提示 · 提示词 19" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcHPxp5ll6X7Z5Uca0KbEuglRVzqckZkBIjynPEIT7ekQMMOfl9mZ72yTo2hvVRxyJhicEF4GTfp2Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.292 - Midjourney | 精选作品关键词提示 · 提示词 19" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-8-bit ascii-art
+dead mecha droid, sunset, minimal, distant, decadent garden, memory machine, iridescent, chromatic aberration --ar 3:2
 ```
 
 </details>

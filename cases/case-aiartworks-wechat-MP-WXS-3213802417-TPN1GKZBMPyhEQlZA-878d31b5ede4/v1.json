@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcqL4XDicTQSqqZaXtIgDgoZADkn8xRZbjpha5822yvSsW1sM2Lt3lrdA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcibyg4axUPuuEgQMTyv6yaVoicN089iabgEibZoW8qL19uJEfibO7IaBoDPw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcvjsrfeFW7DtuTlplZDGXiciaxk546Vfkh53M9sAOw71tThf1qZZ4xU2w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TPN1GKZBMPyhEQlZA-878d31b5ede4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b551d25e5312102bde0cc6c5458ddfc137acb1284886c0c7b60c314590049550",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1"
+  },
+  "previous_version": null,
+  "prompt": "Fisheye low-angle view of a young man with a handgun looking to the side, bats flying around, gothic environment, 3D game style, black and red colors, high quality --ar 1:1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcqL4XDicTQSqqZaXtIgDgoZADkn8xRZbjpha5822yvSsW1sM2Lt3lrdA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcibyg4axUPuuEgQMTyv6yaVoicN089iabgEibZoW8qL19uJEfibO7IaBoDPw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShemnibBEBscQ2KXwibibfvwiaEcvjsrfeFW7DtuTlplZDGXiciaxk546Vfkh53M9sAOw71tThf1qZZ4xU2w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg:prompt-0010",
+    "source_metadata": {
+      "article_index": 79,
+      "article_title": "Vol.252 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756683043,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 10,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TPN1GKZBMPyhEQlZA7MsOg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500015&idx=1&sn=8c24c7dffeb36b7fdd5ccd6b35c06106&chksm=96c1bc2170e8ff0b61c7762f2bdb5dbb7207646a62855a0a5af0d44bd589c2554649724a4fd6#rd",
+    "title": "Vol.252 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500015&idx=1&sn=8c24c7dffeb36b7fdd5ccd6b35c06106&chksm=96c1bc2170e8ff0b61c7762f2bdb5dbb7207646a62855a0a5af0d44bd589c2554649724a4fd6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.252 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

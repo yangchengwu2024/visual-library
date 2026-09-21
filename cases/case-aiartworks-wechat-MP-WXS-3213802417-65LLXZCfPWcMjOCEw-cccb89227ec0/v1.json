@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCZffD8Ipym1UWNGickRfTBe6zzWNy26xX0YD4PrqflOWCOLzwtnNUhkdbT4q5SFGeqP1l0qURXwZQR2qm4vUScNIKdMKzY0UDw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCqUErtdHE1bGia7PZSUePKhmjXPogxXvQgPZWIuco8VblekcQR7EbnnKCM7ocibjxLtRbvhKPByRHRgeXnuoxK1l26kPWkNErQw/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-65LLXZCfPWcMjOCEw-cccb89227ec0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9b85e2bd13116c6495630216d8b73a4512d2a6aeaa26936cc77f821442e5d01a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a monochrome ink drawing on textured off white paper, structured vertically into three distinct tiers. the top tier features a dark, heavily hatched traditional east asian temple facade partially covered by draped construction tarps and scaffolding, with horizontal motion lines stretching outwards. the middle tier depicts a range of stylized, rolling mountains drawn with fine parallel linework, resting on a thick solid black base. the bottom tier shows a single, craggy rock spire emerging from a circular, ripples filled pool, topped by a solid black circle resembling a sun or moon. throughout the composition, seventeen small, black ink silhouettes of flying cranes are scattered in a loose, upward curving path linking the three tiers. --ar 2:3 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCZffD8Ipym1UWNGickRfTBe6zzWNy26xX0YD4PrqflOWCOLzwtnNUhkdbT4q5SFGeqP1l0qURXwZQR2qm4vUScNIKdMKzY0UDw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCqUErtdHE1bGia7PZSUePKhmjXPogxXvQgPZWIuco8VblekcQR7EbnnKCM7ocibjxLtRbvhKPByRHRgeXnuoxK1l26kPWkNErQw/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ:prompt-0003",
+    "source_metadata": {
+      "article_index": 14,
+      "article_title": "Vol.318-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1785022221,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_65LLXZCfPWcMjOCEwykYBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd",
+    "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510450&idx=1&sn=f8181824dd362f344c6f8539f24c8e3e&chksm=97b3a56ca0c42c7abb871755dafed1ecf2ef08ba78337fba9e84f02751920dd8223b5e83aad4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.318-Midjourney 精选作品提示词与赏析 · 提示词 4",
+  "version": "v1"
+}

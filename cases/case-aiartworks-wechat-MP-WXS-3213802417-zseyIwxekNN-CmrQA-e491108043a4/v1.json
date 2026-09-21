@@ -1,0 +1,86 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBbZDAAL3VWdnDrY1adGtXZRJ7jwP9pibFGoC12rejCUGzh7zib0gAJPn0LYZrp9m0vm5CslbH6kVOdkWicbzHsmsicTiavIbPF42Qc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAasysjh34MAxfib3qbtlV0d9WgibCHvjmtvQEx2wsiaQnBdozSSTSUdu55z6kIghs2cuyDvYwzlOoKlqp0JnqJ9pDichTgd7tEGmg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WA7LjnPYqrI8B8GT1iafgRtJqWw2WSALIsuqELJOpOz9ibP0Ycd7C20ianiaJsTIyQ3yRucLMlnLTuibUC4oGn2ZCFttwggpicZupGvo/0?wx_fmt=other&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-e491108043a4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "738a7f3c0f2879509aa4adb470580d13f6c5278e93649303747446847f78f85d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "hd": true,
+    "profile": "87i8u3r",
+    "raw": true,
+    "stylize": "0",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a stylized 3D chibi character with a large head and expressive face, soft pastel color palette. short white bob haircut with straight bangs, smooth and clean texture. one eye open and one eye winking, playful and pouty expression with furrowed brows. big round eyes with long lashes, bright pink eyeshadow, rosy cheeks, glossy pink lips forming a small pout. wearing a light blue outfit with a white ruffled collar and a green ribbon bow. soft studio lighting, smooth gradients, highly polished vinyl-like skin texture. cute, whimsical, doll-like design with gentle shading and minimal background. --ar 1:2 --raw --profile 87i8u3r --stylize 0 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBbZDAAL3VWdnDrY1adGtXZRJ7jwP9pibFGoC12rejCUGzh7zib0gAJPn0LYZrp9m0vm5CslbH6kVOdkWicbzHsmsicTiavIbPF42Qc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAasysjh34MAxfib3qbtlV0d9WgibCHvjmtvQEx2wsiaQnBdozSSTSUdu55z6kIghs2cuyDvYwzlOoKlqp0JnqJ9pDichTgd7tEGmg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WA7LjnPYqrI8B8GT1iafgRtJqWw2WSALIsuqELJOpOz9ibP0Ycd7C20ianiaJsTIyQ3yRucLMlnLTuibUC4oGn2ZCFttwggpicZupGvo/0?wx_fmt=other&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 19,
+      "article_title": "Vol.313-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783294218,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0",
+    "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZCCBxUoyxnjA1gfCf-1747becb3e7b",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheyibEuAPfn3w7TQHss3MEr40BEVD95Ngs7Vlfn8fSpJt8QB41PpTP3lTbBib10bksceAib0nrGib8cpg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA:prompt-0006",
+      "source_metadata": {
+        "article_index": 48,
+        "article_title": "Vol.284 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1763076640,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 6,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_ZCCBxUoyxnjA1gfCfL8wpA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503527&idx=1&sn=3917d9e526e80cc600c2af6966e9f0fd&chksm=9624949d27cf321415606f7991edf4a6e81aec0c1e2e6d29043a618ee671be62fec70a3ab870#rd",
+      "title": "Vol.284 - Midjourney | 精选作品关键词提示 · 提示词 7",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503527&idx=1&sn=3917d9e526e80cc600c2af6966e9f0fd&chksm=9624949d27cf321415606f7991edf4a6e81aec0c1e2e6d29043a618ee671be62fec70a3ab870#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.284 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "title_aliases": [
+    "Vol.284 - Midjourney | 精选作品关键词提示 · 提示词 7"
+  ]
+}

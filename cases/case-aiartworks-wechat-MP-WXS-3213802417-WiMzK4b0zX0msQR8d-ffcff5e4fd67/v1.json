@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:12+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShctmaiankPXWMShNxHpdeKrvczMajsa5Y1PQxMV6ZDIjmBtpkyFXmFKCv88ACkmEibLB2fgBJhCAw6g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WiMzK4b0zX0msQR8d-ffcff5e4fd67",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9e59a25da0307af0d0465e9bffd70e6e2e0ce19e55e3a459f1f8963bd297010e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "71:128",
+    "chaos": "100",
+    "profile": "fagshpj",
+    "quality": "2",
+    "sref": [
+      "625697776"
+    ],
+    "stylize": "1000",
+    "sw": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a colorful tarot card of the fool, by Tom Toles and Charley Harper, full body shot, black background, vector art style, flat design, simple shapes, 2d, flat illustration, retro color palette, vibrant colors, detailed background elements, symmetrical composition, fantasy architecture, starry night sky with moonlight, and symbols and runes on walls. The jester is dressed in an elaborate costume that includes tall pointy hat and flowing robes decorated with stars, moons, hearts, geometric patterns. He stands amidst a lively scene of various characters performing magic or standing around a table playing cards. --chaos 100 --ar 71:128 --quality 2 --sref 625697776 --profile fagshpj --sw 1000 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShctmaiankPXWMShNxHpdeKrvczMajsa5Y1PQxMV6ZDIjmBtpkyFXmFKCv88ACkmEibLB2fgBJhCAw6g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A:prompt-0004",
+    "source_metadata": {
+      "article_index": 203,
+      "article_title": "Vol.135 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742265063,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WiMzK4b0zX0msQR8dIco7A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0",
+    "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494951&idx=1&sn=6cfa7a9b63d9029a2f106f75c70eb24c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.135 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

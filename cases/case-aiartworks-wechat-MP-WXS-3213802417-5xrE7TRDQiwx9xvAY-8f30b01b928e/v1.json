@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdbMuiaMZicOITIyfD2ib2PdjXRdfcfpqJKSp9vFibTD2mjLepHSaXexbYAe3Wibhx2zhd3joSqpZV1Kgg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5xrE7TRDQiwx9xvAY-8f30b01b928e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c798b070b5c49baa1d55a1f8ae33f6de05d7a99b109cc250a6af3afc61c67c60",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "25",
+    "profile": "a89bbcu",
+    "sref": [
+      "https://s.mj.run/XC6iFZIbREQ",
+      "https://s.mj.run/HLjESLOCGe8"
+    ],
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Ethereal woman in avant-garde dress dissolving into swarm of butterflies, moment of transformation, soft backlight, high fashion photography, surreal composition --chaos 25 --ar 3:4 --style raw --sref https://s.mj.run/XC6iFZIbREQ https://s.mj.run/HLjESLOCGe8 --profile a89bbcu --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdbMuiaMZicOITIyfD2ib2PdjXRdfcfpqJKSp9vFibTD2mjLepHSaXexbYAe3Wibhx2zhd3joSqpZV1Kgg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA:prompt-0006",
+    "source_metadata": {
+      "article_index": 221,
+      "article_title": "Vol.121 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740796706,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5xrE7TRDQiwx9xvAYuGWyA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493900&idx=1&sn=71c8864f92dc48fbbda1be5553516289&chksm=9664d9134bc2875afa1911b21ba08acc796ddf32daec8d42017e4f048a4f14628659d1ca2af9#rd",
+    "title": "Vol.121 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493900&idx=1&sn=71c8864f92dc48fbbda1be5553516289&chksm=9664d9134bc2875afa1911b21ba08acc796ddf32daec8d42017e4f048a4f14628659d1ca2af9#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.121 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCftPm1NbFYnmdqdzicnibTZOdQkYnhvlAftRSYgu8YbZnJIicvO5KYudqZiaUC0qx2muibmL4ggezFv9dWKJhK7GmZ6B4PQ77MOvhA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCUfggdzMnseuq7ZDwIje6YBO7D2ib8CBzpA7synpjm1icsMUkyjm1bcVJEZMIRr5exQIGnuwMISw52xWaWoM9XRHq244Nex0M7E/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dNiBvwrdR4qabGNmD-4786e559a780",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3cfcdfb2af42b8f044be79e44a57d99e5ab6adb28d371f791e0f0c5468265fed",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "vp8ynwb",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "夜晚的火车站站台，一位东亚年轻女性站在前景中央，背部朝向镜头但转头回望，短马尾发型，深棕色头发束起，刘海柔软贴在额头。她皮肤白皙，五官精致，嘴角微微上扬，一只手轻触下巴。身穿白色短款紧身T恤露出腰部，搭配深藏青色百褶迷你裙和白色短袜，肩上挎着一只深蓝色皮质大号手提包，带金属链条装饰。背景是一节正在启动的绿松石色与米黄色条纹相间的列车车厢，车窗透出温暖的琥珀色灯光形成明显的运动模糊。站台地面铺着粗糙的水泥，旁边有金属扶手和黄色警示带。整体画面带有强烈的胶片颗粒感和轻微的复古褪色，夜间人造灯光与冷色环境光交织，营造出日式都市电影感。竖向构图，2:3比例，主体居中略偏右，浅景深。 --ar 9:16 --raw --profile vp8ynwb --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCftPm1NbFYnmdqdzicnibTZOdQkYnhvlAftRSYgu8YbZnJIicvO5KYudqZiaUC0qx2muibmL4ggezFv9dWKJhK7GmZ6B4PQ77MOvhA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCUfggdzMnseuq7ZDwIje6YBO7D2ib8CBzpA7synpjm1icsMUkyjm1bcVJEZMIRr5exQIGnuwMISw52xWaWoM9XRHq244Nex0M7E/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw:prompt-0008",
+    "source_metadata": {
+      "article_index": 13,
+      "article_title": "Vol.319-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1785195029,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd",
+    "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 9",
+  "version": "v1"
+}

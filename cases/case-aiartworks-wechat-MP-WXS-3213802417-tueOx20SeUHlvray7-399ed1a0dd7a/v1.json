@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBPGt6owqmZYv7V7XibFd0QCtaD7Xv8Md14F5OtOWC2HdJEUzeicdvJgDyUGQibAqsRSa8QNXrrPTJMSSpWfdA6VeWrcDsM6W9CEw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDZEx8O3cItYNDGO2nnawezM2iciaRP20yxIPCXjuiabArtWicmMIvlVFlpeaxGZ0ZZ062cFa6OslFokfib0ch3tWYkmHbKIbebqaiaM/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tueOx20SeUHlvray7-399ed1a0dd7a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d9cd5dc0fad300098451560908a3672d949e89c1c3fced9cbf06b3a94ccad726",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "h2rp2ny",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A minimalist and creative advertisement set on a pure white background. A real photographic [Harmonic] is integrated into a simple hand-drawn black ink doodle using loose, playful lines. The [blues mood] interacts directly and cleverly with the real object, making the object part of the illustrated scene. Include bold uppercase black \"[Music Soul]\" text at the top. Place the official [halftone] clearly centered at the bottom. Clean layout, high contrast between realistic object and flat doodle drawing, lots of negative space, smart visual metaphor, print-ready poster design --ar 3:4 --raw --profile h2rp2ny --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBPGt6owqmZYv7V7XibFd0QCtaD7Xv8Md14F5OtOWC2HdJEUzeicdvJgDyUGQibAqsRSa8QNXrrPTJMSSpWfdA6VeWrcDsM6W9CEw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDZEx8O3cItYNDGO2nnawezM2iciaRP20yxIPCXjuiabArtWicmMIvlVFlpeaxGZ0ZZ062cFa6OslFokfib0ch3tWYkmHbKIbebqaiaM/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw:prompt-0009",
+    "source_metadata": {
+      "article_index": 33,
+      "article_title": "Vol.300-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1778801495,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tueOx20SeUHlvray7WA~aw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0",
+    "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505483&idx=1&sn=b0fe0743fb1dc8597f804591bbe3acc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.300-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

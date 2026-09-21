@@ -287,6 +287,32 @@ class LibraryExtensionsTest(unittest.TestCase):
             self.assertEqual(resolved["prompt_variants"], first["prompt_variants"] if version == "v1" else second["prompt_variants"])
         self.assertTrue(library.validate(self.root)["ok"])
 
+    def test_remote_asset_is_a_complete_link_only_version(self):
+        record = dict(self.record, source_id="remote", assets=[{
+            "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/example/0?wx_fmt=png",
+            "role": "output", "source_path": "article#image-0"}],
+            metadata={"model_family": "midjourney", "review_status": "needs_review"})
+        self.ingest([record])
+        case_id = library.stable_case_id("fixture", "remote")
+        shown = library.show(self.root, case_id)
+        self.assertEqual(shown["assets"][0]["remote_url"], record["assets"][0]["remote_url"])
+        self.assertEqual(shown["assets"][0]["external_url"], record["assets"][0]["remote_url"])
+        self.assertIn(record["assets"][0]["remote_url"],
+                      (self.root / "cases" / case_id / "v1.md").read_text(encoding="utf-8"))
+        self.assertTrue(library.validate(self.root)["ok"])
+
+    def test_keyword_reference_can_be_searchable_without_an_image(self):
+        record = dict(self.record, source_id="prompt-only", assets=[],
+                      metadata={"model_family": "midjourney", "record_type": "keyword_reference",
+                                "review_status": "needs_review"})
+        self.ingest([record])
+        case_id = library.stable_case_id("fixture", "prompt-only")
+        shown = library.show(self.root, case_id)
+        self.assertEqual(shown["record_type"], "keyword_reference")
+        self.assertEqual(shown["assets"], [])
+        self.assertEqual(library.query(self.root, "exact original", full_text=True)[0]["case_id"], case_id)
+        self.assertTrue(library.validate(self.root)["ok"])
+
 
 if __name__ == "__main__":
     unittest.main()

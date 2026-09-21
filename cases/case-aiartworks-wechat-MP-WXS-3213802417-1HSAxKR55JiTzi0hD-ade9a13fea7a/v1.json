@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvicfcM5dKSECyV89lYrayZ09Hz5OP221ePNFTAwoxJ7GL1XE8OcpsP6Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1HSAxKR55JiTzi0hD-ade9a13fea7a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "68cd3c6709935e092a43a4f5a8a095af870216f660dffb15781565a614f47f71",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A compact, parametric modern closet (H:180cm, W:120cm, D:60cm) with 2 frameless sliding doors and 3 geometrically designed drawers, - Incorporating fractal/Voronoi/minimal surface elements in white gloss MDF with chrome/gold metallic intersections, - Featuring intricate geometric cut-outs inspired by Islamic patterns or cellular automata, - Set against a deep gray/navy blue background with soft ambient lighting and subtle highlighting. - Provide front view with doors closed, and if possible, additional views showcasing the interior and drawer details. - Resolution: 1024x1024 pixels. --ar 1:1 --quality 2 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvicfcM5dKSECyV89lYrayZ09Hz5OP221ePNFTAwoxJ7GL1XE8OcpsP6Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA:prompt-0004",
+    "source_metadata": {
+      "article_index": 332,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.16",
+      "association_confidence": "high",
+      "createTime": 1729823857,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485945&idx=1&sn=5500476e182927edf82dda7bee3759a0&chksm=96fb177b9212b026848accc60bf498d1c224c856bfc42600429aa4481566bde8a72ac4e50984#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.16 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485945&idx=1&sn=5500476e182927edf82dda7bee3759a0&chksm=96fb177b9212b026848accc60bf498d1c224c856bfc42600429aa4481566bde8a72ac4e50984#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.16 · 提示词 5",
+  "version": "v1"
+}

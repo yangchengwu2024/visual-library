@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WB0qibvIZAn22Wnzof8Boffa39bh3kgsBDOwGGvt7NgA5JKRLlgcK9yzMvp7Jictlrr0ur1zibu7bj1eTCdC2jfAwrfOLsBGXicx6Y/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAmOzCxPjR5oHpXgKIIQMeerOn1sRY3qMLUh3nDx6dWgTwUK9KibBn3Mrm65icL6VVHS4iaYkFoVgYI1saXGKTXGxoMY6NGpWXv40/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y5zMIG8iVWY7l6lwK-30a0492ed9c5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2d21c67ef8ed7ca9cc5bb4a4c338a3064032c634c4486b0e999476e259c9aa19",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "8d9aunb",
+    "raw": true,
+    "stylize": "77",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "actual photo of real place [seed=e;scene=lush_landscape:mandelbrot-set_fractal_labyrinth;themes=intricate,complex,impressionism,surrealism,liminal_space,portals_twisting_dimensions;contents=morning_light,sky,water,infinite_grass,rolling_hills,lightstreams,optical_illusions,iridescent_aberrations,sacred_geometry_incorporated_throughout;qualities=real_textures,organic,dreamy_polaroid_aesthetic,washed-out,pastel_pallet,high-resolution,sharp,patterns&structures_have_clear,coherent,logical,consistent_structure;consistent-characters] --ar 9:16 --raw --profile 8d9aunb --stylize 77 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WB0qibvIZAn22Wnzof8Boffa39bh3kgsBDOwGGvt7NgA5JKRLlgcK9yzMvp7Jictlrr0ur1zibu7bj1eTCdC2jfAwrfOLsBGXicx6Y/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAmOzCxPjR5oHpXgKIIQMeerOn1sRY3qMLUh3nDx6dWgTwUK9KibBn3Mrm65icL6VVHS4iaYkFoVgYI1saXGKTXGxoMY6NGpWXv40/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w:prompt-0013",
+    "source_metadata": {
+      "article_index": 10,
+      "article_title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑",
+      "association_confidence": "high",
+      "createTime": 1785886230,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+    "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 14",
+  "version": "v1"
+}

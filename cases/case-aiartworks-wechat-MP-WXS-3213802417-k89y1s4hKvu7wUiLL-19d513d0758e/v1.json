@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3T4T9bYd4pNsYmncBV7enzXJ6OLU9UiaTyo7jKLkjKEZ5ibVjVt4NxYIw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-19d513d0758e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4debe01d3c80f1045ed53271899713438a21ee1350fd4e43c27918d69490b264",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "chaos": "35",
+    "v": "6.1",
+    "weird": "400"
+  },
+  "previous_version": null,
+  "prompt": "This image is a minimalistic and serene aerial view of a beach showcasing the natural beauty of the shoreline. Here's a detailed explanation: Key Features: Aerial Perspective: The image is taken from above, providing a bird's-eye view of the beach and the waves gently meeting the shore. This perspective highlights the natural patterns created by the water and sand. Color Palette: The colors are soft and soothing, featuring white, light green, and aqua blue tones. The gradient effect of the water transitioning from white foam to pale green and then aqua blue creates a calming and natural aesthetic. Wave Patterns: The image captures three distinct layers of waves: The first layer is the white foam where the waves crash onto the shore. The second layer shows the shallow, light green water. The third layer transitions into deeper aqua blue water. These layers create a sense of depth and movement. Minimalist Composition: The composition is clean and uncluttered, emphasizing the natural textures and gradients of the sand and water. The simplicity of the image makes it visually striking and calming. Texture and Detail: The texture of the waves and foam is delicate, giving the image a sense of softness and tranquility. The smooth transition between the sand and water adds to the serene atmosphere. Mood and Atmosphere: The image evokes feelings of peace, relaxation, and connection to nature. It captures the essence of a calm, quiet beach, making it feel refreshing and rejuvenating. Possible Interpretations and Uses: Nature and Tranquility: The image symbolizes the peacefulness and beauty of nature, ideal for themes related to mindfulness, relaxation, or eco-conscious living. Travel and Tourism: Perfect for promoting beach destinations, vacations, or coastal retreats. Minimalist Design: The clean and simple aesthetic makes it suitable as a background for websites, posters, or social media content. Symbolism: The meeting of the waves and sand can represent harmony, balance, or the merging of different elements. Wellness and Calm: This image could be used in wellness campaigns, spa promotions, or mindfulness programs to evoke a sense of calm and serenity. This image beautifully captures the tranquility of the shoreline, with its soft colors, gentle waves, and minimalist composition creating a calming and visually appealing scene. --chaos 35 --ar 4:3 --weird 400 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3T4T9bYd4pNsYmncBV7enzXJ6OLU9UiaTyo7jKLkjKEZ5ibVjVt4NxYIw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 191,
+      "article_title": "Vol.145 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1743215455,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd",
+    "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

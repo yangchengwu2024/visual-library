@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5k5xT3ktCQ4yn6aTb3a3ibH1UtW73n5uY6WSLl7KO9a4ias0ejpLobZ1A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TIcrR7tH8M6ojpktg-53979e9b9207",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "887d45817bbf46bd62bbc3ecfb751b29f707220e09effe50efaa7e4f16665052",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A surreal close-up portrait of a woman with flawless, radiant skin, her eyes gently closed, exuding serenity. Tiny robots cosmetologists, dressed in pristine white lab coats, delicately apply skincare products to her face, as if they are expert artisans working on a masterpiece. One miniature woman spreads a soft pink cream onto her cheek using a tiny spatula, while another smooths the product with her hands. Another specialist stands on a golden ladder, meticulously massaging the skin, ensuring an even application. In the foreground, the woman holds a small jar of pastel pink facial cream between her manicured fingers, her nails perfectly polished to match the skincare product. The background is a soft neutral tone, keeping the focus on the intricate details of the scene. The lighting is soft and diffused, creating a luminous glow on her skin while emphasizing the surreal nature of the composition. Shot with a Canon EOS R5, 85mm f/1.2 lens, macro photography, soft diffused lighting, hyperrealistic details, pastel and neutral color palette. --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5k5xT3ktCQ4yn6aTb3a3ibH1UtW73n5uY6WSLl7KO9a4ias0ejpLobZ1A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg:prompt-0001",
+    "source_metadata": {
+      "article_index": 181,
+      "article_title": "Vol.151 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743993036,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd",
+    "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

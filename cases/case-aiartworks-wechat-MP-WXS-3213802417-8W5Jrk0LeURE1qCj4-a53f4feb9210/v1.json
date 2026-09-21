@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxDm6WbDiaEgAd3EIwqhOfx4TPYwHP7G3nMsxITRYf8Ul0BVFlGIZrj4Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8W5Jrk0LeURE1qCj4-a53f4feb9210",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "85670ee5607c475f27e6450f282fd90f45e8eed6112424f6889b1fbf041396c8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:2",
+    "quality": "2",
+    "stylize": "1000",
+    "v": "5"
+  },
+  "previous_version": null,
+  "prompt": "female mountain hiker takes photo with a smiling grizzly bear. Hispanic/Latino female mountain hiker aged 18-25 wearing green clothing. The photo is taken in a mountainous environment with a Canon EOS R camera. The composition is centered on the hiker and the bear with a wide-angle lens. The perspective is from a low angle to capture the grandeur of the mountains. The lighting is natural, with the sun shining on the hiker and the bear. The depth of field is shallow, with the hiker and the bear in focus and the background blurred. The shutter speed is fast to capture the bear's smile and the hiker's expression. The photo quality is high, with vibrant colors and sharp details. The hiker is holding a camera and smiling at the bear, who is standing on its hind legs and looking directly at the camera. The mountain range is visible in the background, adding depth and context to the image. --ar 3:2 --quality 2 --stylize 1000 --v 5",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxDm6WbDiaEgAd3EIwqhOfx4TPYwHP7G3nMsxITRYf8Ul0BVFlGIZrj4Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA:prompt-0019",
+    "source_metadata": {
+      "article_index": 280,
+      "article_title": "Vol.63 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734575449,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489723&idx=1&sn=522134f09c6483c6bcd4ddb15f930bfb&scene=58&subscene=0",
+    "title": "Vol.63 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489723&idx=1&sn=522134f09c6483c6bcd4ddb15f930bfb&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.63 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

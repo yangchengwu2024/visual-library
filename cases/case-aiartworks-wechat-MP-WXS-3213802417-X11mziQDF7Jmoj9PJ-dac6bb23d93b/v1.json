@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:31+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe0tXuNYEDectIohJ7t57I7Yb0ffTfFicgcKibMVLia41giadK0l5ZCyrjTKa9EgTc20WDSiaBqblcaMng/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-X11mziQDF7Jmoj9PJ-dac6bb23d93b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d936e7d5664744efa518e90cd9c559554a3ed6139ce1a5a1b392cfacf16228c1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "personalize": "nglwxk7",
+    "sref": [
+      "https://s.mj.run/PARb_Iqlh5g",
+      "https://s.mj.run/N3m0yGJd6zA",
+      "https://s.mj.run/aiimXBorI3E"
+    ],
+    "style": "raw",
+    "stylize": "800",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A YELLOW AND PINK AND GREEN Ginkgo trees , with a clear blue sky and lake reflection, in a minimalist style. The composition features a large area of blank space, with a simple layout captured using a wide-angle lens. The delicate texture and cool tones create a static, tranquil atmosphere --ar 3:4 --style raw --sref https://s.mj.run/PARb_Iqlh5g https://s.mj.run/N3m0yGJd6zA https://s.mj.run/aiimXBorI3E --personalize nglwxk7 --stylize 800 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe0tXuNYEDectIohJ7t57I7Yb0ffTfFicgcKibMVLia41giadK0l5ZCyrjTKa9EgTc20WDSiaBqblcaMng/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw:prompt-0011",
+    "source_metadata": {
+      "article_index": 311,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.36",
+      "association_confidence": "high",
+      "createTime": 1731896423,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_X11mziQDF7Jmoj9PJf84Dw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487195&idx=1&sn=17e5df0fbfbf1cae4d765d4e0f630dbb&chksm=97b00205a0c78b13f04ba69444046e348dc444dfcc56efbb3bd4eaf67a348a59e41333485db3#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.36 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487195&idx=1&sn=17e5df0fbfbf1cae4d765d4e0f630dbb&chksm=97b00205a0c78b13f04ba69444046e348dc444dfcc56efbb3bd4eaf67a348a59e41333485db3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.36 · 提示词 12",
+  "version": "v1"
+}

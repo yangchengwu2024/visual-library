@@ -1,0 +1,80 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCpY47yUKmVWjX9PGT1JdibkfZzia92YhAlQ8sRtPqrba8CWqgUSnRUnu2ELQoFGFG5sQLzX5nVD8nVKk8uDmOSU4aNGUjDwsaqg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAG8t6S0dA4OfX9CWEVqibNpUWestl6Twrk4O4PET0bgK2SVG77OJI2icOyFFz8BtKHc7WmFjkQqJKdic2y78FJWQRuibdzHibaKAgo/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9zTqsa633h-nD-1CN-6389de93270f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "81e79dd81aac23581a4022d4673cbac2e1e0c47590dd1fc21733f87f63d04542",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "25",
+    "exp": "35",
+    "hd": true,
+    "preview": true,
+    "sref": [
+      "2339508920"
+    ],
+    "stylize": "500",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "\"\" --chaos 25 --ar 9:16 --exp 35 --sref 2339508920 --stylize 500 --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCpY47yUKmVWjX9PGT1JdibkfZzia92YhAlQ8sRtPqrba8CWqgUSnRUnu2ELQoFGFG5sQLzX5nVD8nVKk8uDmOSU4aNGUjDwsaqg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAG8t6S0dA4OfX9CWEVqibNpUWestl6Twrk4O4PET0bgK2SVG77OJI2icOyFFz8BtKHc7WmFjkQqJKdic2y78FJWQRuibdzHibaKAgo/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg:prompt-0003",
+    "source_metadata": {
+      "article_index": 12,
+      "article_title": "Vol.320-Midjourney | 7月官网热刷作品盘点",
+      "association_confidence": "high",
+      "createTime": 1785454249,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9zTqsa633h~nD~~1CN0Dbg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0",
+    "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510685&idx=1&sn=ca5440d583ab60713194fc909e64e4f1&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.320-Midjourney | 7月官网热刷作品盘点 · 提示词 4",
+  "version": "v1"
+}

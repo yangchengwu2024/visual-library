@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd4ibkRqNtJIBtia72GLDMX7hdWJjT7TYrb1dyeqKkzWxy3Tia6S4D5S1VhicPibZyOsAaylHLGNAwCwibg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZjDx9qZy1PXNrb7of-5d51e9a18e55",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5dd9d123253601f39c85a33053718b88d532338023886bdc98db7dc79c6c8d7c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "stylize": "0"
+  },
+  "previous_version": null,
+  "prompt": "A highly detailed, clean, modern manga-style illustration of a beautiful girl dressed in trendy streetwear hype, sitting on the edge of a skyscraper under construction, her legs hanging freely in the void. She confidently takes a selfie with her phone, her pose relaxed but edgy. The girl is wearing tight black leggings, red and white Jordan 1 High sneakers, a fuchsia Off-White top, and stylish sunglasses. A backpack is slung over her shoulder, adding to her streetwear vibe. Her expression is confident yet carefree, and her outfit is rendered with bold, defined manga lines. The background shows the unfinished skyscraper structure and the vast city skyline far below, creating a sense of height and daring. The colors are vibrant and high-contrast, with the focus on her and the intricate details of her outfit. The clean lines and modern manga aesthetic highlight the sense of freedom and boldness in the scene, emphasizing the girl's fearless attitude as she hangs in the air, taking her selfie. --ar 9:16 --raw --stylize 0",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd4ibkRqNtJIBtia72GLDMX7hdWJjT7TYrb1dyeqKkzWxy3Tia6S4D5S1VhicPibZyOsAaylHLGNAwCwibg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg:prompt-0006",
+    "source_metadata": {
+      "article_index": 86,
+      "article_title": "Vol.245 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755214267,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZjDx9qZy1PXNrb7ofr-9Dg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=1&sn=13329e72282fa3f4ee94de15222926c6&scene=58&subscene=0",
+    "title": "Vol.245 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=1&sn=13329e72282fa3f4ee94de15222926c6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.245 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:22+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyJWfE0BjCA1z0XrlF0LT3HiarLJdx5JQKic1afzFMO5MWufYIkIVJw2Bg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WKX5N-Zn-wMckawiU-480d1ef71383",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e120823865b6dd745f0cdeeda0f07191276b1535abfa7af03025db0b02d05a61",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A towering, ominous robotic cat-doll inspired by the iconic doll from Squid Game, standing under a large, leafless tree in an open, dusty field. The cat-doll has lifelike feline features with expressive whiskers and large, glowing red laser eyes scanning the field, giving it an intimidating presence. It wears a bright orange dress and yellow top, with visible mechanical joints on its arms and legs that hint at its robotic nature. The tree behind it is barren, with twisted, dark branches creating eerie shadows on the ground. In the background, a golden field of wheat stretches out under a pale, cloudless sky. The atmosphere is tense and surreal, with guards in pinkish-fuchsia uniforms and black masks standing on either side of the cat-doll, adding to the dramatic and unsettling mood --ar 9:16 --quality 2 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheWbgkQyOXeeOzluEC601eyJWfE0BjCA1z0XrlF0LT3HiarLJdx5JQKic1afzFMO5MWufYIkIVJw2Bg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg:prompt-0004",
+    "source_metadata": {
+      "article_index": 261,
+      "article_title": "Vol.79 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736228664,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WKX5N~Zn-wMckawiU-~6Bg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491147&idx=1&sn=ddf2a0fe84d3327ef8d2e51af1fa0e4f&chksm=9632c277cabbf9aebfb18c0cbe73ff1ac999b6acbac4a2eb5776830f6153950763ea59e71fdf#rd",
+    "title": "Vol.79 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491147&idx=1&sn=ddf2a0fe84d3327ef8d2e51af1fa0e4f&chksm=9632c277cabbf9aebfb18c0cbe73ff1ac999b6acbac4a2eb5776830f6153950763ea59e71fdf#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.79 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

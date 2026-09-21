@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf05tAP6sanXkmfNZuuxf0c9KtQtS7LOnVCRm8bks2kGRUImhsJZxxaKzjETsB6YE62Fj7vhKB1iaQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf05tAP6sanXkmfNZuuxf0cj4klogo0SY7uKpGjiap0ZonuO1DzVa3XNcYicPZUbm7gfd6JIbFjrIDg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-L3fwGvGQ5D3wGW-Fh-45616de22705",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "10e0bc7a9c6d61d5496084c07565ba1e8367870af0cadaeb2817392c4a9a0568",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "vintage punk rock collage poster, Stratocaster guitar, guitar pedals, Marshall amps, leather belts, spiked accessories, torn jeans, studs, band patches, cassette tapes, vinyls, concert tickets, grungy textures, duct tape elements, DIY zine style, ripped paper, chaotic layout, faded xerox elements, bold red and black tones, loud typography, poster format with empty space in the center for app icons --ar 9:16 --raw --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf05tAP6sanXkmfNZuuxf0c9KtQtS7LOnVCRm8bks2kGRUImhsJZxxaKzjETsB6YE62Fj7vhKB1iaQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf05tAP6sanXkmfNZuuxf0cj4klogo0SY7uKpGjiap0ZonuO1DzVa3XNcYicPZUbm7gfd6JIbFjrIDg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA:prompt-0017",
+    "source_metadata": {
+      "article_index": 166,
+      "article_title": "Vol.165 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745375564,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 17,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_L3fwGvGQ5D3wGW~FhBjYsA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496123&idx=1&sn=f71bbba4124e99f2c0c1d938fd70d3d8&chksm=96f74a4d342ab1b7ee0fdea0040aec06ddf7539ea5604135dfb93282b7c4393a89d45ac21c94#rd",
+    "title": "Vol.165 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496123&idx=1&sn=f71bbba4124e99f2c0c1d938fd70d3d8&chksm=96f74a4d342ab1b7ee0fdea0040aec06ddf7539ea5604135dfb93282b7c4393a89d45ac21c94#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.165 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZFicLZsc36icVIf0mXEx3ibOLPz9o0tKTLN9KWNRtqwhic2rbwn2eicnxYgA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-557657d2872f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "cc960e7b9b3bd0ed7cd2032dbd0922f70c3ee8f9054a41fd5b1670bf4f68a3a0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "gritty, raw and ultra-realistic vertical split-shot photo of a great white shark swimming just below the ocean surface, with an old fishing boat floating above. murky blue water, rough textures, visible waterline, natural lighting, minimal post-processing, documentary-style realism, sharp details --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZFicLZsc36icVIf0mXEx3ibOLPz9o0tKTLN9KWNRtqwhic2rbwn2eicnxYgA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw:prompt-0002",
+    "source_metadata": {
+      "article_index": 109,
+      "article_title": "Vol.220 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750635017,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498484&idx=1&sn=ec7706928297086e1a789dd6a370d770&chksm=965a05455d03210509da1af8da9a7ca079909346590150cf063e340dd2503cad6a978d2d4182#rd",
+    "title": "Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498484&idx=1&sn=ec7706928297086e1a789dd6a370d770&chksm=965a05455d03210509da1af8da9a7ca079909346590150cf063e340dd2503cad6a978d2d4182#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBkoiaCpxBDmviczPzzOW7O7cPhN1pF3U8KU1AdKmjCKX4JRMaAHgnVibLNaZy2iaf7d78xJXq7pxTfA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBkoiaCpxBDmviczPzzOW7O7mStOw5wzuZQfz8Cxfh0oPIHOBVB6lL260ibg5E5seouafCkkHicicriclg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkERsZtOGuwK9jqwU-9e6d6faf557a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f19ec418b6a716d714fc852b3423723882f191b418c5d04dbd0ed10c382dfeb4",
+  "model": "Midjourney",
+  "parameters": {
+    "stylize": "750",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "1960s street style photo of Einstein in Soho New York, wearing a Giorgio Armani dress, sunset, taken with Agfa Vista 200, 4k --stylize 750 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBkoiaCpxBDmviczPzzOW7O7cPhN1pF3U8KU1AdKmjCKX4JRMaAHgnVibLNaZy2iaf7d78xJXq7pxTfA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheBkoiaCpxBDmviczPzzOW7O7mStOw5wzuZQfz8Cxfh0oPIHOBVB6lL260ibg5E5seouafCkkHicicriclg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw:prompt-0007",
+    "source_metadata": {
+      "article_index": 211,
+      "article_title": "Vol.129 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741660236,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkERsZtOGuwK9jqwUQ6MWw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd",
+    "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494432&idx=1&sn=e63e6e063ecde0fcb4a7c7982e4ceb58&chksm=962d24fce28c3052d79e500fde396d0cac759ccec483ab9dfb39ccc70ff94a96b36c85db4538#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.129 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

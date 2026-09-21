@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4xcDhHs625BdnbozuibeETBu4k5rcwZoQiclHPXLiblKodKmKqP7sOIVqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9-mN5ZfbichTXqi-h-146bcc989802",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f79b9c5518500dc2dd85d5997bcdb0ecd550da8c369f5ccc6c0e53ea8f7aaae1",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/qLgmXQaFs6U VHS 80s Depiction RetroFuturism 250 year old young woman showcasing an effectiv & permanent of an \"Uniqe holding pose\" increasing - superHero skeletal muscle density of 10.0 g/cm³ --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcsJ2JicxBOQbibicz9DxMG5n4xcDhHs625BdnbozuibeETBu4k5rcwZoQiclHPXLiblKodKmKqP7sOIVqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw:prompt-0009",
+    "source_metadata": {
+      "article_index": 243,
+      "article_title": "Vol.102 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1738895457,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9-mN5ZfbichTXqi-hvp7gw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd",
+    "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492682&idx=1&sn=28f12b43ca8230b9decab44cc3e951db&chksm=964c17598c5aa6d9f8475f4fefb8ce72c1ff432ef6be345ef58a4e60f503de3e8642a0afd962#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.102 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

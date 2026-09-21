@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1EhsRx3icjKPxuv3U4mkO3Wnlm81tRLBmiaxjzNM8I6mPB25ktldiaecTA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hbX1OubEmN7alYRjN-08cd9f21de68",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "12e2d0febdda8b26005e16a6dfd551ea8bc7cea5a2482d70d8df52d4d9ff305c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "profile": "l8wypc4",
+    "sref": [
+      "https://s.mj.run/xoL_Tig4-o0"
+    ],
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/Jl2j8n-qba4 https://s.mj.run/7huq_etkEPE An avant-garde portrait of an elf with long red hair, wearing white with a large origami paper fan collar around his neck. He is looking at a crustaceans on a table. This award-winning studio portrait exemplifies an artful, conceptual and graphic design approach to artwork. Wavy patterns inspired by the works of Gordon Walters, featuring a digital art style, symmetrical composition. --ar 4:5 --sref https://s.mj.run/xoL_Tig4-o0 --profile l8wypc4 --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbYAqiaPpWIUQJvYUDo2sR1EhsRx3icjKPxuv3U4mkO3Wnlm81tRLBmiaxjzNM8I6mPB25ktldiaecTA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA:prompt-0010",
+    "source_metadata": {
+      "article_index": 164,
+      "article_title": "Vol.167 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745548538,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hbX1OubEmN7alYRjNtSbqA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0",
+    "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496226&idx=1&sn=a872da2387b00a55c625c2412ec526de&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.167 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

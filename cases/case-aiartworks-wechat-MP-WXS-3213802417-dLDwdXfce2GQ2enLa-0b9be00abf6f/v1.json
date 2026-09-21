@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCKL7cH7zicuicZFAiauRL6WMtPDnnJTVtXc0zL4nsg3MW7rSEx27T33MzKhkgiaYgdIFRaZ7evGDmibjGlp4Cz5bmQR0pnZCAohVM8/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBicI3MeH5urZ1anpvMnOyiaCXovcKDO9zqqyO7WlsoL18JxfictDCbbZtUkUibPUQVZNI8q7xQWa4xSWNoZaO7PWZQofic58OibwOtA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAUbUv7ibw9iaWX2wSVEb94BxGMGiaFrCBzUqGxcdm1iaiakI5eSEnPWpK3qebNYGX92Hhw2bfNtiaFOTkZKsLz80lYbhEicIawzwLQ8c/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dLDwdXfce2GQ2enLa-0b9be00abf6f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3854a47cc02b2166b75be7fbfe0e25678fb226091d6d50ad7dc99d42eda357e7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "og9pmia",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Ultra-realistic beauty editorial upper-body portrait of an pale skin european woman, visible pores, full face in frame, subtle rosacea and redness on the cheeks, realistic skin imperfections, dry natural lips, no makeup makeup look, minimal grooming, neutral expression, looking sideways, soft diffused daylight, luxury skincare campaign photography, macro skin detail, dermatology-level skin texture, shallow depth of field, muted beige background, natural color grading, high-end fashion magazine beauty shot, 85mm lens, f/2.8, RAW photo, ultra photorealistic, realistic subsurface scattering, extremely detailed skin, authentic imperfections, editorial skincare advertisement, luxury beauty campaign --ar 3:4 --profile og9pmia --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCKL7cH7zicuicZFAiauRL6WMtPDnnJTVtXc0zL4nsg3MW7rSEx27T33MzKhkgiaYgdIFRaZ7evGDmibjGlp4Cz5bmQR0pnZCAohVM8/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBicI3MeH5urZ1anpvMnOyiaCXovcKDO9zqqyO7WlsoL18JxfictDCbbZtUkUibPUQVZNI8q7xQWa4xSWNoZaO7PWZQofic58OibwOtA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAUbUv7ibw9iaWX2wSVEb94BxGMGiaFrCBzUqGxcdm1iaiakI5eSEnPWpK3qebNYGX92Hhw2bfNtiaFOTkZKsLz80lYbhEicIawzwLQ8c/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g:prompt-0001",
+    "source_metadata": {
+      "article_index": 21,
+      "article_title": "Vol.311-Midjourney | 6月官网热刷作品盘点",
+      "association_confidence": "high",
+      "createTime": 1782603024,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dLDwdXfce2GQ2enLaKvT0g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd",
+    "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509262&idx=1&sn=ef5ecdfd0f72b29d9b9c080947634478&chksm=960953f9aefa8beda69a73f9727ffeead0d74e1bbb09bc360bb96b8509d345bcc06fb4cefa77#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.311-Midjourney | 6月官网热刷作品盘点 · 提示词 2",
+  "version": "v1"
+}

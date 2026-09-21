@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqPQBI95d-nsSeSvN-8a71ccc54c63",
+  "fingerprint": "df17f5926ce17f04f0fb7b8b491b2368c545d3c6746d67c769135033eddd41fb",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "bs": "2",
+    "motion": "low",
+    "video": "1"
+  },
+  "prompt": "A female skydiver stepping out of the airplane door, wind blowing her hair and clothes, sunlight shining, expression of thrill and happiness, cinematic wide-angle, ultra realistic, 8K --ar 51:91 --bs 2 --motion low --video 1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q:prompt-0016",
+    "source_metadata": {
+      "article_index": 75,
+      "article_title": "Vol.256 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1757460651,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd",
+    "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd"
+  },
+  "source_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q:prompt-0016",
+  "status": "pending",
+  "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 17"
+}

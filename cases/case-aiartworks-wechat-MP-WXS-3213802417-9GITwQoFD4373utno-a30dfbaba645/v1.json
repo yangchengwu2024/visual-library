@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUsAiaCdUN6C8X5lNaaCT4MuV7gnGqX80Hhm1JTEZhGbcSLiasUmC2lC4A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9GITwQoFD4373utno-a30dfbaba645",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "28fb50f0397361ecdfefae74fcd036100525feb7e239c548c3f01eb2bf59847e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "wmgqxjx",
+    "raw": true,
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "\"portrait of Tom Hanks as Forrest Gump reimagined as the human embodiment of ChatGPT, wearing a futuristic version of his classic beige suit embedded with glowing neural networks, sitting calmly on a sleek sci-fi bench, surrounded by floating glowing dialogue bubbles, clean luminous cityscape background, warm cinematic lighting, highly detailed ultra-realistic style, elegant soft-glowing text ‘ChatGPT’ floating above him\" --ar 9:16 --raw --profile wmgqxjx --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUsAiaCdUN6C8X5lNaaCT4MuV7gnGqX80Hhm1JTEZhGbcSLiasUmC2lC4A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg:prompt-0001",
+    "source_metadata": {
+      "article_index": 159,
+      "article_title": "Vol.171 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745980255,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0",
+    "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

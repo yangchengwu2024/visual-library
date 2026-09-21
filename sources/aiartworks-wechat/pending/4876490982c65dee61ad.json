@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1704XfFBQoPnUx-1O-e710d60b1cd4",
+  "fingerprint": "af423a3d97a9abe6d251be7125045a86658d193e35c5364a1f09b542a2f60dcd",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "prompt": "江南可采莲，莲叶何田田，鱼戏莲叶间，鱼戏莲叶东，鱼戏莲叶西，鱼戏莲叶南，鱼戏莲叶北，动画风格，背景是中国古代传统建筑高清，安静的氛围，卡通风格，高清，皮克斯风格，--ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg:prompt-0015",
+    "source_metadata": {
+      "article_index": 325,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.22",
+      "association_confidence": "prompt_only",
+      "createTime": 1730429770,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486263&idx=1&sn=07e011e255fbe560a72ccf999b0d29ce&chksm=96a460948fe00112d0d02f70af52d5086d1d75f956734eb385bf08fe579fb96d7cd6bf67fb6a#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.22 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486263&idx=1&sn=07e011e255fbe560a72ccf999b0d29ce&chksm=96a460948fe00112d0d02f70af52d5086d1d75f956734eb385bf08fe579fb96d7cd6bf67fb6a#rd"
+  },
+  "source_id": "MP_WXS_3213802417_1704XfFBQoPnUx~1OBbKRg:prompt-0015",
+  "status": "pending",
+  "title": "Midjourney | 精选作品及提示 - Vol.22 · 提示词 16"
+}

@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAYa1EicRP2B6iaebgQ2TUSnYVa3ZIoicr2bxhxMTmib7j6qyxMQy1qNyc2hNKQicdKajLCgCiagSQB0Z2VXP3AmM5F9picoG3ziaKyhgE/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0YR006aXV7dKYCXC1-42b364307719",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "24ea070106731c61147f8b2dab9f06160a47917fcac49dd08bf42edc41efd460",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "29:41",
+    "hd": true,
+    "profile": "uiua2eg",
+    "sref": [
+      "699155475",
+      "2791842605::0.6",
+      "4020838595::0.6",
+      "1845388194::0.4",
+      "1837401645",
+      "109110881::0.4",
+      "845660713::0.4",
+      "2224703102::2"
+    ],
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "environment,The power transmission towers stretch along the mountains, and the lights from the distant hills illuminate villages and cities all the way --ar 29:41 --sref 699155475 2791842605::0.6 4020838595::0.6 1845388194::0.4 1837401645 109110881::0.4 845660713::0.4 2224703102::2 --profile uiua2eg --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAYa1EicRP2B6iaebgQ2TUSnYVa3ZIoicr2bxhxMTmib7j6qyxMQy1qNyc2hNKQicdKajLCgCiagSQB0Z2VXP3AmM5F9picoG3ziaKyhgE/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA:prompt-0005",
+    "source_metadata": {
+      "article_index": 7,
+      "article_title": "Vol.325-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1786750265,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0YR006aXV7dKYCXC1fU2sA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510994&idx=1&sn=97a3bfb9a60f805262757a2afee0587a&chksm=96b8a9dcfb0d16b4159d0777fff0359a8bae9afa0e15d181fde3602a7bc836bddcfb1023e87d#rd",
+    "title": "Vol.325-Midjourney 精选作品提示词与赏析 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510994&idx=1&sn=97a3bfb9a60f805262757a2afee0587a&chksm=96b8a9dcfb0d16b4159d0777fff0359a8bae9afa0e15d181fde3602a7bc836bddcfb1023e87d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.325-Midjourney 精选作品提示词与赏析 · 提示词 6",
+  "version": "v1"
+}

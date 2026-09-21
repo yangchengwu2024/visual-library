@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheKsEqDz77wbTf8yiagcZ6OgvxO5ympkbf7icsMHiafvUpo34PJolLwIDiakPg6pr49cz4gmh2VqC71VQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pS7V5JFZCpnwBDSQx-c1978d1640c1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d1d2284c54f737c0e1084b951ff6ce4dab5abcd071733a5c9f025b858637df9f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "profile": "vcaj5mk",
+    "stylize": "200",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A girl plays the piano in Antarctica on an ice floe, ultra realistic --ar 1:2 --profile vcaj5mk mcf8lec --stylize 200 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheKsEqDz77wbTf8yiagcZ6OgvxO5ympkbf7icsMHiafvUpo34PJolLwIDiakPg6pr49cz4gmh2VqC71VQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA:prompt-0006",
+    "source_metadata": {
+      "article_index": 178,
+      "article_title": "Vol.154 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744252250,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pS7V5JFZCpnwBDSQx7EYDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd",
+    "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495714&idx=1&sn=e61f1709379e300979b55a16236d0251&chksm=96cc9d40b9e26ee5d8528e464830ff14f649e45be8c82f23e5de32167567a715aea376913a25#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.154 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

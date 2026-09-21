@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevzPWbdnx3GfXg3DkucUEjE4K5IbxsYxX6OXgxtj4kEqZ3e6F8sTSK3LugpkdseAphytNJk9GVWQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BUPMtK-JZ-r-Y37aX-4ba0cc2b0203",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "381da39b4a59deaf42ba24aafa3d4342c6c47b775cff99790098ed54c8cd48ae",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "hufscvu",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "In a modern Chinese village in 2023, a modern Chinese Smiling happily beauty with long black hair and a graceful figure, dressed in a long-sleeved blouse and pencil skirt, riding a beautiful Beautiful python,She turns back and smiles, No one around --ar 9:16 --profile hufscvu --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevzPWbdnx3GfXg3DkucUEjE4K5IbxsYxX6OXgxtj4kEqZ3e6F8sTSK3LugpkdseAphytNJk9GVWQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 172,
+      "article_title": "Vol.160 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744857016,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+    "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

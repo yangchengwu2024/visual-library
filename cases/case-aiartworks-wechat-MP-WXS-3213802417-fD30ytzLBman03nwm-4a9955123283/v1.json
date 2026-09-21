@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXcwPw5J1SzT74ap1P2uGmt0TNUjmapFTDX6uyjmu1quQFoHhnwkdDEOBpl2HkeftgicwKUd95iaicg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_fD30ytzLBman03nwm-gQZw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-fD30ytzLBman03nwm-4a9955123283",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c9ac2a9c36e3c18a4b947f6e21971d967c7519b699fb73fb8e3cc3801ba752ec",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "xsjswqa",
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A whimsical scene of a clothesline with baby and handkerchiefs, and Teddy bear, hanging in the garden. A wooden ladder is placed nearby for setting up the laundry. The background features lush green grass under natural sunlight, creating a serene atmosphere. In front of one cloth lie flowers, adding to its charm. This photo captures the cottagecore style, evoking nostalgia while showcasing natural beauty. Photographed with a Canon EOS camera and macro lens. --ar 9:16 --profile xsjswqa --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheXcwPw5J1SzT74ap1P2uGmt0TNUjmapFTDX6uyjmu1quQFoHhnwkdDEOBpl2HkeftgicwKUd95iaicg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_fD30ytzLBman03nwm-gQZw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_fD30ytzLBman03nwm-gQZw:prompt-0001",
+    "source_metadata": {
+      "article_index": 115,
+      "article_title": "Vol.214 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1750116998,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_fD30ytzLBman03nwm-gQZw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498161&idx=1&sn=9f765e14182198d5e428f70343b23f52&scene=58&subscene=0",
+    "title": "Vol.214 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498161&idx=1&sn=9f765e14182198d5e428f70343b23f52&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.214 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

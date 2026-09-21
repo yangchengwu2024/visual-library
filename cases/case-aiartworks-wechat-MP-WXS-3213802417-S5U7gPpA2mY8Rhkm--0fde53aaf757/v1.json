@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShedOQMrxOnDA2m93TSpGuUcqj6oy8yUC1XWA2VBurXjmfO7xD3EAhETl7FsExV8ibFec2vOpfSVZhA/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_S5U7gPpA2mY8Rhkm-tGi5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-S5U7gPpA2mY8Rhkm--0fde53aaf757",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9a980074a8173fa22c3196d8542c2c9790e920c57dd54967ef46e948c4d7db7f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Exquisite Song Dynasty Gongbi painting, court lady in historical accuracy, [straight-collar ruqun with purple-mallow (#A656D9) silk shawl over golden-tortoiseshell (#DAA45A) beizi jacket], [lotus-shaped crown with jade buyao hairpin, pearl makeup accents], [holding kesi silk fan near Taihu rock], [bamboo shadows through lattice window, Ru kiln celadon on table], executed in Li Gongling's meticulous brushwork, silk scroll texture, mineral pigment layering, 0.3mm floating silk contour lines, composition referencing Moonlit Stroll on Jade Terrace, subtle ink washes creating dimensionality, oxidized color transitions mimicking aged silk, poetic inscription in Slender Gold calligraphy --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShedOQMrxOnDA2m93TSpGuUcqj6oy8yUC1XWA2VBurXjmfO7xD3EAhETl7FsExV8ibFec2vOpfSVZhA/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_S5U7gPpA2mY8Rhkm-tGi5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_S5U7gPpA2mY8Rhkm-tGi5w:prompt-0004",
+    "source_metadata": {
+      "article_index": 212,
+      "article_title": "Vol.128 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741573827,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_S5U7gPpA2mY8Rhkm-tGi5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494412&idx=1&sn=65c0d31e716ec26140f119039f6f4515&chksm=967e4f1adb6b585865a3f5106bbba9bbf7b2667aa22d70d0a89b6c98a8d71fb989a5c504bc2f#rd",
+    "title": "Vol.128 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494412&idx=1&sn=65c0d31e716ec26140f119039f6f4515&chksm=967e4f1adb6b585865a3f5106bbba9bbf7b2667aa22d70d0a89b6c98a8d71fb989a5c504bc2f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.128 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

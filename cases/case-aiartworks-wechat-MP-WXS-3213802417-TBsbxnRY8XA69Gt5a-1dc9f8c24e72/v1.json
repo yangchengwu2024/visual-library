@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBML7fic8xVF4libribtAxl3OL54ugBOicIIGQcmnA1AQ7qwI3vydVibB39mTrTsSUgroCLtkEQnV3y1icYX6b01S5sXIJJlgibRQymyQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TBsbxnRY8XA69Gt5a-1dc9f8c24e72",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "555e5008b6bc1225ad7405ef851f7aa70d293244321ec4108138d9f8ee315e64",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "close-up, hyperrealistic photo of various 'PASTEL PINK' turquoise and pastel-orange and bright-yellow and pastel-purple colored lignum-vitae flowers with indigenous Ocean motifs on a stem, Jocelyn Hobbie, lignum vitae with indigenous Yaka Art patterns. on a white background. Colorfull indigenous berber motifs, in the style of Jocelyn Hobbie, neon turquoise details, 4K, symmetrical motives, --ar 3:4 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBML7fic8xVF4libribtAxl3OL54ugBOicIIGQcmnA1AQ7qwI3vydVibB39mTrTsSUgroCLtkEQnV3y1icYX6b01S5sXIJJlgibRQymyQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww:prompt-0008",
+    "source_metadata": {
+      "article_index": 4,
+      "article_title": "Vol.328-Midjourney | 8月官网热刷作品盘点",
+      "association_confidence": "high",
+      "createTime": 1788132646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511036&idx=1&sn=e1e533ee4a3da992b583a0e1da1970c4&scene=58&subscene=0",
+    "title": "Vol.328-Midjourney | 8月官网热刷作品盘点 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511036&idx=1&sn=e1e533ee4a3da992b583a0e1da1970c4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.328-Midjourney | 8月官网热刷作品盘点 · 提示词 9",
+  "version": "v1"
+}

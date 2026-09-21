@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WD55SybpnVS13yyOicjYPM73jdxXV6SF6HoJVKvK2jlqUpqEPgFP42I6wOnzictqs0DA7SxGASvGibN4BlicBSP1E8tgS80Nk9EAkA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WLUQqft3iURH6Thmg-3baf930f7511",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b27135b533f825610b261125752c3936e359125311a6afaa76afc76cd9031f25",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "epic fantasy concept art, dramatic cinematic lighting, painterly digital illustration, hyper-detailed vast landscapes, towering fantastical architecture, volumetric cloudscapes, dramatic perspective, awe-inspiring scale, deep saturated cerulean and rich terracotta red palette, high contrast color grading, intense dramatic light rays, rich saturated tones, intricate environmental details, dramatic atmospheric haze, cinematic vertical composition, mythic fantasy atmosphere, textured brushwork, high contrast lighting, 8K ultra-detailed A lone knight on horseback stands on a rocky outcrop, overlooking a sprawling red-roofed city centered on a colossal spiral tower, a massive swirling vortex of deep blue clouds forming above the city, bright saturated blue sky peeking through the cloud ring, the knight's silhouette glowing in the intense golden sunlight, vast scale contrast, cinematic wide-angle view --ar 9:16 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WD55SybpnVS13yyOicjYPM73jdxXV6SF6HoJVKvK2jlqUpqEPgFP42I6wOnzictqs0DA7SxGASvGibN4BlicBSP1E8tgS80Nk9EAkA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw:prompt-0013",
+    "source_metadata": {
+      "article_index": 28,
+      "article_title": "Vol.305-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780357352,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd",
+    "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 14",
+  "version": "v1"
+}

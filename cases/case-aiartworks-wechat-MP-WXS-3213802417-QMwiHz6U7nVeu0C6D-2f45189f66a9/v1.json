@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZxWTvKUVQia3qTgiaUEtwJvRribvExOzOaj8hNBbIzzmn6gOATAgcVaszw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-2f45189f66a9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "55d5c25e5be5fa0aecd9adec6a02e0e9511fedd3d4cbb3fbf8511f03736d5333",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:64",
+    "profile": "6kpg67n",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "LACOSTE \" A fashion editorial for LACOSTE, featuring an alligator playing tennis with model on white background. The crocodile is holding the ball in its mouth and looks at her from side view. Style by Richard Avedon. Text logo reads \"LACOSTE\". Shot using Hasselblad H6D-400c Multi-Shot lens. Minimalistic. Soft light. pastell colors. With the text written as if it was graffiti on the wall. High resolution. Ultra detailed. --ar 51:64 --raw --profile 6kpg67n",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZxWTvKUVQia3qTgiaUEtwJvRribvExOzOaj8hNBbIzzmn6gOATAgcVaszw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw:prompt-0006",
+    "source_metadata": {
+      "article_index": 109,
+      "article_title": "Vol.220 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750635017,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QMwiHz6U7nVeu0C6DFXgBw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498484&idx=1&sn=ec7706928297086e1a789dd6a370d770&chksm=965a05455d03210509da1af8da9a7ca079909346590150cf063e340dd2503cad6a978d2d4182#rd",
+    "title": "Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498484&idx=1&sn=ec7706928297086e1a789dd6a370d770&chksm=965a05455d03210509da1af8da9a7ca079909346590150cf063e340dd2503cad6a978d2d4182#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,90 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBuJzCxnUJpI0Dx23MSZzl8ibtnNdwVGku5PnQKfHKpIW80QX3nTHHlS6zzv9u3qsCn56oSicqVb5j4SibdW3NEpzAkWtrvtRIVOo/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAAWt3McmcA4BlSTZ2Sfibv5HxFWC34T7MAvwPs0rkU7mzETEpI7XFxRYcNmYjgqb4OpZrGj10OEEicZuYfEqocaicibGAJL0hjxuo/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBSpvR5eUEoQW1hRykkM6ZLoRxIYv1QzibUkuNzzeucLMer2jYAicshUg1haMU3Y5mCBFyTPzjicu1rOnrz6GBfC8vp8xHeqpdiaDQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y5zMIG8iVWY7l6lwK-40bdaa30e855",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "25ea588741ecdd10cb3e18b6f9505e238e926ed2b08210317d0da7f2837c3ec9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "55",
+    "hd": true,
+    "profile": "baz585i",
+    "sref": [
+      "https://s.mj.run/cXntv6qhYp4",
+      "https://s.mj.run/iRMQHvWfd_8"
+    ],
+    "v": "8.1",
+    "weird": "45"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/SLN0kCF4i3M https://s.mj.run/pG45HdkM1dg https://s.mj.run/WC9DwRATOLs https://s.mj.run/mwkIr0f63II https://s.mj.run/iRMQHvWfd_8 My friends are always talking about random people they dont really know as if theyre best friends with them. I know it feels like you know these people when they like your stuff everyday but from the outside looking in it just seems really bizarre. Its almost like celebrity worship but with people you might have met once or you have a mutual friend with. The sad thing is people dont seem as interested in developing real friendships because theyre so distracted with illusion of a social life. It feels like we opened Pandora’s box. avant garde glow, neon, grief, alone grotesque but beautiful, hyper detailed, hyperrealism, Canon Eos R5. --chaos 55 --ar 3:4 --sref https://s.mj.run/cXntv6qhYp4 https://s.mj.run/iRMQHvWfd_8 --profile baz585i --weird 45 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBuJzCxnUJpI0Dx23MSZzl8ibtnNdwVGku5PnQKfHKpIW80QX3nTHHlS6zzv9u3qsCn56oSicqVb5j4SibdW3NEpzAkWtrvtRIVOo/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAAWt3McmcA4BlSTZ2Sfibv5HxFWC34T7MAvwPs0rkU7mzETEpI7XFxRYcNmYjgqb4OpZrGj10OEEicZuYfEqocaicibGAJL0hjxuo/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBSpvR5eUEoQW1hRykkM6ZLoRxIYv1QzibUkuNzzeucLMer2jYAicshUg1haMU3Y5mCBFyTPzjicu1rOnrz6GBfC8vp8xHeqpdiaDQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w:prompt-0009",
+    "source_metadata": {
+      "article_index": 10,
+      "article_title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑",
+      "association_confidence": "high",
+      "createTime": 1785886230,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+    "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 10",
+  "version": "v1"
+}

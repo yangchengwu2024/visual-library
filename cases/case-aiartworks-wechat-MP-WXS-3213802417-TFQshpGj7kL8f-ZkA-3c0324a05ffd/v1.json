@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39h04Ws62HO6ficcfibvEIvLFQ8ibukvsa1jiaSZGNacHLtFsOo3Zg3DVVXMA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TFQshpGj7kL8f-ZkA-3c0324a05ffd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d644152d70d41f41ca00c4fe65142c8850f002ce3b6e5cfcb1937f0e851e5abc",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "25",
+    "no": [
+      "yellow"
+    ],
+    "profile": "959wuh3",
+    "style": "raw",
+    "stylize": "150",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "round like the circles that you find in the windmills of your mind --no yellow --chaos 25 --style raw --profile 959wuh3 gsxsvz4 --stylize 150 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39h04Ws62HO6ficcfibvEIvLFQ8ibukvsa1jiaSZGNacHLtFsOo3Zg3DVVXMA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw:prompt-0014",
+    "source_metadata": {
+      "article_index": 204,
+      "article_title": "Vol.134 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742178659,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd",
+    "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

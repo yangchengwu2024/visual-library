@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hrWUXrhe8w9MZJI8d-9f4ff6590acb",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd037OYrjBXRTHiap6DvN7icY2iboSyTFcz3eHeMJia0tnmwWlgODbskibFPpVX9zGfKl4ZA3vb4rwSZBg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA:prompt-0011",
+      "source_metadata": {
+        "article_index": 54,
+        "article_title": "Vol.278 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1761867020,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 11,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_hrWUXrhe8w9MZJI8dJQERA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502267&idx=1&sn=21ff29860596f048a05328cc6be4f58c&chksm=961e3cec9547c5d1877349761d4aebe104143ae8cc9f8c492293668cf75ad96a47b5ad688880#rd",
+      "title": "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 12",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502267&idx=1&sn=21ff29860596f048a05328cc6be4f58c&chksm=961e3cec9547c5d1877349761d4aebe104143ae8cc9f8c492293668cf75ad96a47b5ad688880#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "title_aliases": [
+    "Vol.278 - Midjourney | 精选作品关键词提示 · 提示词 12"
+  ]
+}

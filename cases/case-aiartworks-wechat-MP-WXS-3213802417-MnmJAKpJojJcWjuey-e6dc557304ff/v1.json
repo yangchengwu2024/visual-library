@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:44+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfSBfotzsgMbMnoHWdUNqtydF2xr4dSgKkO3tOQLgIeZAdYWbbjUMiacx63uT1UwodVnQS1FGZU14g/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MnmJAKpJojJcWjuey-e6dc557304ff",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d9a768d4422d020eff2991e81b8860065ca7b8ea036d2386221f3b5eee219a3d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "slender female legs, advertising of shoes covered in bright blue shimmer, delicate background --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfSBfotzsgMbMnoHWdUNqtydF2xr4dSgKkO3tOQLgIeZAdYWbbjUMiacx63uT1UwodVnQS1FGZU14g/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw:prompt-0014",
+    "source_metadata": {
+      "article_index": 41,
+      "article_title": "Vol.291 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1767074895,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504452&idx=1&sn=a9948b9611013ccebe13739bb09f0179&chksm=96d26532266a749fef7e4d97979c81043eb2171f8535e10f6776fee7d59f4b2d964d3940e886#rd",
+    "title": "Vol.291 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504452&idx=1&sn=a9948b9611013ccebe13739bb09f0179&chksm=96d26532266a749fef7e4d97979c81043eb2171f8535e10f6776fee7d59f4b2d964d3940e886#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.291 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wykPhrUKb62x-P1B8-7f1c610c8369",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJONoULrEVcyDxgywOvwVfnx1LR7iaicabc2mYrb8ytU1ZSYgX3HpKjqFNNepgtc4TSS3HQAucxM0Q/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_wykPhrUKb62x-P1B83V9ug#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_wykPhrUKb62x-P1B83V9ug:prompt-0007",
+      "source_metadata": {
+        "article_index": 58,
+        "article_title": "Vol.274 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1761089443,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 7,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_wykPhrUKb62x-P1B83V9ug",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501492&idx=1&sn=142dcfa08b8b58135be7de4a3f9368fb&scene=58&subscene=0",
+      "title": "Vol.274 - Midjourney | 精选作品关键词提示 · 提示词 8",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501492&idx=1&sn=142dcfa08b8b58135be7de4a3f9368fb&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.274 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "title_aliases": [
+    "Vol.274 - Midjourney | 精选作品关键词提示 · 提示词 8"
+  ]
+}

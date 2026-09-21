@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz77fPtJ5r3QxZJ15STl04NajtzM343uiaWicrBhhBGQQsKGVKHia7qpby3A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E8Jq1YLWZDovkNWDB-9442bf769454",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "35ca9b45dda27486150a8e81a310da187e90e25c853a890cb1b2eee5bff5aebd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "quality": "2",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "Inside the inner cosmic stage of Eunha a resonance dimension where reality and dream overlap, and emotions take physical form. A pristine ultra-modern cosmic kitchen floating above a pastel nebula skyline, white marble counters glowing with soft mint, blush pink, and pastel sky blue reflections. Gentle cosmic daylight pours through crystalline windows. Eunha stands at the marble island, barefoot, relaxed, hair softly lit, holding a pearlescent cup. Beside her, Sara-bot stands smooth pearl-white ceramic skin, ultra-detailed glossy finish, iridescent blush eyes with soft mint reflections, minimal white headset. She holds a silver cosmic whisk like she’s trying to understand human cooking rituals, slightly confused yet elegant. Floating utensils, soft aurora particles, subtle cosmic sparkles. Atmosphere: serene, dreamy, playful, emotionally warm. Ultra photorealistic, cinematic lighting, shallow depth of field, high detail, realistic textures, soft golden glow. --ar 9:16 --quality 2 --raw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheX7wwaBDX9Xx8PwhDa6lz77fPtJ5r3QxZJ15STl04NajtzM343uiaWicrBhhBGQQsKGVKHia7qpby3A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw:prompt-0014",
+    "source_metadata": {
+      "article_index": 52,
+      "article_title": "Vol.280 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762299062,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0",
+    "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBZAjPngCysChZODfSxtHYUH0v7nagS7fjibf9Ng8cFS3e6Nq75FQ3ReyvLljwM9LjN3bwhic7MLRgbdF95QWN5Yz4dM9qu1S3ia8/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-c3NpqOUoYAsQ9HMmx-ecca31b9688b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1972ff940203913d12c18aa1dc207b8245335f5b64ed102c031e5dcd21a1f0f6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "20",
+    "hd": true,
+    "profile": "2fdtkc5",
+    "stylize": "300",
+    "v": "8.1",
+    "weird": "4"
+  },
+  "previous_version": null,
+  "prompt": "All that we see or seem is but a dream within a dream , in the creepy style of Shaun Tan and Nicoletta Ceccoli , Gabriel Pacheco, surreal, detailed, emotional storytelling, vibrant colors, fine art painting style, minimalist luxury, masterpiece artwork, textured, award-winning art, dreamlogic, museum-quality. No text no watermark, --chaos 20 --ar 4:5 --profile 2fdtkc5 3wjscaf 5g66f5p --stylize 300 --weird 4 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBZAjPngCysChZODfSxtHYUH0v7nagS7fjibf9Ng8cFS3e6Nq75FQ3ReyvLljwM9LjN3bwhic7MLRgbdF95QWN5Yz4dM9qu1S3ia8/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ:prompt-0011",
+    "source_metadata": {
+      "article_index": 24,
+      "article_title": "Vol.309-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781652646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_c3NpqOUoYAsQ9HMmxBf1CQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd",
+    "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508137&idx=1&sn=490a3b187f317afd159f229c2267ee85&chksm=9611f7edc9b2bcf5757a7f5e7161b85fb5f927f8bdb077a7d96a4bd9f51f2931c4382a2d43db#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.309-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

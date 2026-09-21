@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:08+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMTaN6zApz6c7DCUxIDkBUOyI1r8878rv3zzDqjxwwib2QtMm95xL4fTQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BpjwbBX8K1fYvZ6PI-ee17ef9e89ab",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "84f5483f2b43cbdfc3773453e85b7661c3e453334828c14c06173f9be2026f27",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "pqi75by",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "create a funny cartoon character there a beutiful woman dressed in a eastern bunny suite cycle on a green racing bicycle and ride slalom between eastern eggs, colorful candy world, low angle, motion blur, action picture, ar-- 9:16 --chaos 10 --ar 9:16 --profile pqi75by --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheEIPqBRJPSCxlNpCXNnxAMTaN6zApz6c7DCUxIDkBUOyI1r8878rv3zzDqjxwwib2QtMm95xL4fTQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ:prompt-0017",
+    "source_metadata": {
+      "article_index": 171,
+      "article_title": "Vol.161 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1744943421,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_BpjwbBX8K1fYvZ6PIzosvQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495961&idx=1&sn=c01ec6ad2cefb373ea375b8176943247&scene=58&subscene=0",
+    "title": "Vol.161 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495961&idx=1&sn=c01ec6ad2cefb373ea375b8176943247&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.161 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDl9gcHVYbRCQFZ5xno5wAsKG5cWD965ECgqWDJ30saJia5WYic0x8zLVMk7ECyUbnKn08AI3Lrdh6oe50fITBU9iaiaPNiccWCdjBs/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y5zMIG8iVWY7l6lwK-1c709b643d04",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5fd112459b23128f5a67a013dcd336e92953b2ab629b199a5e462e19085886d9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "raw": true,
+    "stylize": "750",
+    "v": "5.2"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/FKgYtw9mRFk , flesh based 3D Mandelbrot set, D=log(N/8), PI = atan2 (z / sqrt(x^3 + y^2) , φ = atan2 (y/x) , spandex fractal, mirror belly, chubby flesh, thick fat arms and body parts, exploded diagram, pastel colors, neon light, spandex, solid color background --ar 2:3 --raw --stylize 750 --v 5.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDl9gcHVYbRCQFZ5xno5wAsKG5cWD965ECgqWDJ30saJia5WYic0x8zLVMk7ECyUbnKn08AI3Lrdh6oe50fITBU9iaiaPNiccWCdjBs/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w:prompt-0011",
+    "source_metadata": {
+      "article_index": 10,
+      "article_title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑",
+      "association_confidence": "review",
+      "createTime": 1785886230,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y5zMIG8iVWY7l6lwKBPZ2w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0",
+    "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510794&idx=1&sn=ddd5e4d954e7466fa6dc547c9ab2fc7d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.322-Midjourney 精选作品 | 先锋实验艺术特辑 · 提示词 12",
+  "version": "v1"
+}

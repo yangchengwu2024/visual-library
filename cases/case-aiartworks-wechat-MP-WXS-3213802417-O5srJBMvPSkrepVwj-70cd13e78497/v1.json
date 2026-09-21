@@ -1,0 +1,77 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDe4icM5SDHLyqvQia3nyaB8STILIpO0ORznrMHpzTfWQI1ibnjKb3Ofp9Y3xqIS28GsqGAatN2eTwdvS3jsQFia2WLI71jDDfnYMg/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBcWibiaicOPGvnL1qOSpFeCO0Gibtn4ESPm7E8S1xvOzntwuiaib0z6uuQYVqDRVRhnd9FjkuAFrI6HufP2ajj4GibicEH11M5B4vEdibA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-O5srJBMvPSkrepVwj-70cd13e78497",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "261b25dba8ab40750a96a8e8c5d25df575fa629cbba41ed7059726599900b673",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "582b3xn",
+    "sref": [
+      "2303856729"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A rosy-cheeked toddler with wild copper ringlets and a matching fluffy golden retriever puppy sit side by side on a sunlit porch step, both caught in a perfectly synchronised enormous yawn, eyes scrunched shut and arms stretched wide. Both wear matching hand-sewn star-print pyjamas. A bowl of forgotten porridge sits cooling between them. Morning light turns their hair to spun gold. A sleepy cat watches from the windowsill above with resigned tolerance. --ar 3:4 --sref 2303856729 --profile 582b3xn u9cgys3 15hyn34 m1qxvf5 bkvaisn ovzurp3 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDe4icM5SDHLyqvQia3nyaB8STILIpO0ORznrMHpzTfWQI1ibnjKb3Ofp9Y3xqIS28GsqGAatN2eTwdvS3jsQFia2WLI71jDDfnYMg/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBcWibiaicOPGvnL1qOSpFeCO0Gibtn4ESPm7E8S1xvOzntwuiaib0z6uuQYVqDRVRhnd9FjkuAFrI6HufP2ajj4GibicEH11M5B4vEdibA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g:prompt-0002",
+    "source_metadata": {
+      "article_index": 30,
+      "article_title": "Vol.303-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1780044635,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506632&idx=1&sn=5c7f391eefd31291700111045b1b2592&chksm=965b8d543aa1d1c43d26ba896fde1a9ddcd1bc9dd9f24b46a5f4bcdd18781bc4d30a71b6e76c#rd",
+    "title": "Vol.303-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506632&idx=1&sn=5c7f391eefd31291700111045b1b2592&chksm=965b8d543aa1d1c43d26ba896fde1a9ddcd1bc9dd9f24b46a5f4bcdd18781bc4d30a71b6e76c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.303-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

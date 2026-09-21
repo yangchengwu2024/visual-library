@@ -1,0 +1,75 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDm0zNT1Mcs3vbiapuom7opNjwbhaescXcDbyu1hXcMNicav3bje1zoQCBqBDhNvVjADYlugcZalgRIaICfh36LSsFtCx3abBbl8/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBicyJd3miaEGibz8ncGMcRbIvXopTiag3AWrr9laaHaETdud8echUe4O8nCNzjJFmAtRhJ9zqr7Xpbvafy2wtv6yeQZHE9srpnMKM/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WLUQqft3iURH6Thmg-821a997fdbd4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "692ee3b8a935595dddb0d4455e4c4eefb32a7f9c005f0351cfa7e09b681075c3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "15",
+    "hd": true,
+    "profile": "26m6e8h",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "high fashion editorial portrait of \"ORBITAL DOLL\" sunglasses for the fictional brand ALIENS & OTHERS, futuristic couture eyewear inspired by vintage UFOs, beauty salon futurism, Juno Birch, Pierre Cardin and Courrèges space age aesthetics, oversized glossy sculptural sunglasses with inflated rounded contours and a floating orbital halo structure wrapping around the visor like Saturn rings, luxurious pink jelly plastic and chrome details, alien diva glamour, retrofuturistic beauty object, surreal but believable wearable design, elegant futuristic model with towering vintage space-age hairstyle, glossy latex styling, pastel makeup, cinematic studio lighting, ultra editorial fashion campaign, weird couture elegance, glamorous extraterrestrial aesthetic, soft analog grain, highly stylized 70s future fantasy, magazine cover energy, iconic silhouette, playful luxury, camp but sophisticated, futuristic plastic couture, photographed like an archival fashion campaign from another galaxy --chaos 15 --ar 9:16 --profile 26m6e8h r6u325l --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDm0zNT1Mcs3vbiapuom7opNjwbhaescXcDbyu1hXcMNicav3bje1zoQCBqBDhNvVjADYlugcZalgRIaICfh36LSsFtCx3abBbl8/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBicyJd3miaEGibz8ncGMcRbIvXopTiag3AWrr9laaHaETdud8echUe4O8nCNzjJFmAtRhJ9zqr7Xpbvafy2wtv6yeQZHE9srpnMKM/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw:prompt-0010",
+    "source_metadata": {
+      "article_index": 28,
+      "article_title": "Vol.305-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780357352,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 10,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WLUQqft3iURH6Thmg3Hwmw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd",
+    "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506752&idx=1&sn=90428f7a7553f0b2e1cc64b189bb3af2&chksm=96fb67aaa71bbc6cae388f4e253f8e297075277b4d30935ed0df9ef0ceb1ee9f1aaac25dca26#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.305-Midjourney 精选作品提示词与赏析 · 提示词 11",
+  "version": "v1"
+}

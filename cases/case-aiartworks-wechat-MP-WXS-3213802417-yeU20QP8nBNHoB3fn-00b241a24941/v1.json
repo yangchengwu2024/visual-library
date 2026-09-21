@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAa5FvrnVo7gTeIP1751ficnS6QVGmddickqPtAmsg4F1m6MQ3c0opibSnyg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-00b241a24941",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d2aa7a74e4e0eb00d75d6bfd6ab4a6712da21bd57bcfdce8e905ab20f321a999",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "czw5dn8",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "three small, delicate bird with red and white plumage perched on a thin branch adorned with vivid blue morning glory flowers. The bird has a tiny black beak and black eyes, giving it an adorable and gentle appearance. The branch extends over a calm body of water, reflecting the vibrant colors of the flowers and the surrounding greenery. Small patches of grass and vegetation emerge from the water, adding to the scene’s serene and picturesque beauty. The background is a soft, blurred green, providing a perfect contrast to the bird and flowers, making them stand out --ar 9:16 --raw --profile czw5dn8 6zd4ip9 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAa5FvrnVo7gTeIP1751ficnS6QVGmddickqPtAmsg4F1m6MQ3c0opibSnyg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA:prompt-0017",
+    "source_metadata": {
+      "article_index": 152,
+      "article_title": "Vol.177 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746585014,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yeU20QP8nBNHoB3fnt5gHA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496619&idx=1&sn=2ecbccf42b82483fbb01986acb6b934a&scene=58&subscene=0",
+    "title": "Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496619&idx=1&sn=2ecbccf42b82483fbb01986acb6b934a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5vqQmg5B9buhkYCoIrZz4VJcm9N7qj3sKvtqOzex39Scb1dwOsMVB8w/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAfE5VnDkLGEZCvmNqRfibs9RicPY3KAuGlMEKwciaJre0Pdar1OuAASBhg/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F-pXlZdwqzvC4xpuB-08d0ce8ac47d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "85ef2380ea47f4d69a68d5f744514297b6edf72212138214c5fef62acf8ec027",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A female dancer dressed in white Hanfu is performing, with black calligraphy strokes outlining the shape of an \"S\" on a clean background, presenting a high-end photography style that is simple and elegant, with a comprehensive perspective, symmetrical composition, studio lighting, elegant movements, and integrated elements of traditional Chinese culture, creating an ink painting like effect and beautiful dance moves. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShetbkM5zn6zmOoicOUNB4Na5vqQmg5B9buhkYCoIrZz4VJcm9N7qj3sKvtqOzex39Scb1dwOsMVB8w/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAfE5VnDkLGEZCvmNqRfibs9RicPY3KAuGlMEKwciaJre0Pdar1OuAASBhg/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA:prompt-0006",
+    "source_metadata": {
+      "article_index": 60,
+      "article_title": "Vol.271 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760484668,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 6,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd",
+    "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

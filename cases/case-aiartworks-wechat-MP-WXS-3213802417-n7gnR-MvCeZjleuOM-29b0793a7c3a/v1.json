@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpYjribxaSlbAExZGdyic47ibf4URZViawGiagI38PxI08J95YeyXA0VcOmmg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-29b0793a7c3a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ba81991b684c3bfed9feded6f3e401d3cac0609d7cf6d649bd67bc3eaa995ba6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "40",
+    "profile": "2sg1eu9",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "200",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "hyperrealistic photo, woman covered with hair like grass --chaos 40 --ar 9:16 --quality 2 --style raw --profile 2sg1eu9 --stylize 200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpYjribxaSlbAExZGdyic47ibf4URZViawGiagI38PxI08J95YeyXA0VcOmmg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg:prompt-0011",
+    "source_metadata": {
+      "article_index": 208,
+      "article_title": "Vol.131 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741833013,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494707&idx=1&sn=4de6ee65688eac19c83efed48248051d&scene=58&subscene=0",
+    "title": "Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494707&idx=1&sn=4de6ee65688eac19c83efed48248051d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

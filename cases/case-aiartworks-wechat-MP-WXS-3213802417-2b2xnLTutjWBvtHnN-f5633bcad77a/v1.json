@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkrKfy2VrLn401icps6y0cNNaWvFDY34UIeZYgHOtpmOb8bD1710Af6sQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2b2xnLTutjWBvtHnN-f5633bcad77a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9eda37d701650acca3f75b191f8e1ce03fba858b074b35caed639ad24d15dffe",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A simple character illustration polar bear full body,blue background,Doodle in the style of Keith Haring, sharpie illustration, bold lines and solid colors, simple details, minimalist --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnkrKfy2VrLn401icps6y0cNNaWvFDY34UIeZYgHOtpmOb8bD1710Af6sQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q:prompt-0009",
+    "source_metadata": {
+      "article_index": 275,
+      "article_title": "Vol.67 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735007432,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2b2xnLTutjWBvtHnNjrD5Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0",
+    "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490297&idx=1&sn=b77d623e6e5847a06f0260110a942cc9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.67 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

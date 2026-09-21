@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:34+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvPkyb631Sb2MCnmlpjd6kntTdRcv5pWI4A2wd3SbZSlXFOuxgeLcRuA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-f54e9d5f129e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6cc44f4f04c2a533ff002829399d1e5e485228ea301465f1cacb3f33f2385e77",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "30",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A dark, whimsical background inspired by the aesthetics of Tim Burton, with fantastical elements. The scene features twisted, gnarled trees with long, spiraling branches and exaggerated shadows. The sky is filled with swirling clouds under a large, glowing full moon, casting an eerie, dreamlike light. The landscape is dotted with crooked, whimsical houses, jagged hills, and oversized, surreal plants. There are floating lanterns, glowing mushrooms, and strange, mythical creatures lurking in the shadows. The ground is covered with winding pathways, peculiar flowers, and vines that curl unnaturally. The color palette consists of deep blacks, muted purples, and cold blues, with vibrant accents of glowing oranges and greens. The overall vibe is darkly enchanting, gothic, and playful. The composition is designed in a 4:5 ratio, with an open space large enough to fit four people into a fantastical, otherworldly photo montage --chaos 30 --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvPkyb631Sb2MCnmlpjd6kntTdRcv5pWI4A2wd3SbZSlXFOuxgeLcRuA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 331,
+      "article_title": "Midjourney | 精选作品及提示 - 万圣节特别版",
+      "association_confidence": "high",
+      "createTime": 1729909843,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_FS36pZrVxfd-ruOQTGRaaQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485950&idx=1&sn=73073d8efe0529bdd3f7182262dc794b&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485950&idx=1&sn=73073d8efe0529bdd3f7182262dc794b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 1",
+  "version": "v1"
+}

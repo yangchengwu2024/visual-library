@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmNCoygs8cD8gF15aIKlwmichyibohvc2eNxY5jicLFzD0gqoVbyibLFDlAA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hAHx-m2ZZb0w8TTcr-7a66c994b10d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c992d45ef4e1e0a99126093e940b5d80376c32f842bb3c3d6ffe8d9b22d0152f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "in a disney and pixar 3d style image, a 30-year-old woman with medium-length black hair and black eyes, wearing a yellow pajama, smiling warmly as she turns off a large ceiling light in a cozy room at night, while multiple glowing star-shaped lanterns start twinkling softly around the room --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdEK7b7gVMp2dSyVAxiaiciaNmNCoygs8cD8gF15aIKlwmichyibohvc2eNxY5jicLFzD0gqoVbyibLFDlAA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg:prompt-0006",
+    "source_metadata": {
+      "article_index": 120,
+      "article_title": "Vol.208 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749598239,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hAHx-m2ZZb0w8TTcrVvGAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497963&idx=1&sn=2464e49b63feb297c71ed019c6735a90&chksm=96e7a23581a0f08d2612c8b481f8942ab0ea4fe485da842331db31679fab9dd43f0fa27316d6#rd",
+    "title": "Vol.208 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497963&idx=1&sn=2464e49b63feb297c71ed019c6735a90&chksm=96e7a23581a0f08d2612c8b481f8942ab0ea4fe485da842331db31679fab9dd43f0fa27316d6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.208 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

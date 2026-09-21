@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06DianpokLicfI9Bobgl1NIoQGmT10icJHnHIMUCGoFbpzWr5AYbzl4icqMw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E3f-BPOFOT4IhoTUW-1bdfbec6090a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0198235c863fcc545231a6cc7c795bff6987636b052a546946f39c26a121821b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A stunning landscape--mountains, rivers, or clouds--appears inside an iced coffee glass. At first, it looks real, but it’s just the natural swirl of milk mixing with dark coffee, forming an accidental, fleeting scene. The glass is crystal clear, with ice floating on top and condensation forming on the sides. The milk moves organically, creating soft, fluid shapes that resemble valleys, peaks, or a dramatic sky. This landscape is not designed--just a perfect moment that happens for a second before fading away. --ar 2:3 --quality 2 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06DianpokLicfI9Bobgl1NIoQGmT10icJHnHIMUCGoFbpzWr5AYbzl4icqMw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig:prompt-0004",
+    "source_metadata": {
+      "article_index": 217,
+      "article_title": "Vol.124 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741141856,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494122&idx=1&sn=5cc4eaf157ecfc76c120ca45b391133e&chksm=964cfb89ca446664287f596b34da813f0458a5c04ef7da75b5faa50ee9186e2b58f2748f9dcf#rd",
+    "title": "Vol.124 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494122&idx=1&sn=5cc4eaf157ecfc76c120ca45b391133e&chksm=964cfb89ca446664287f596b34da813f0458a5c04ef7da75b5faa50ee9186e2b58f2748f9dcf#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.124 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

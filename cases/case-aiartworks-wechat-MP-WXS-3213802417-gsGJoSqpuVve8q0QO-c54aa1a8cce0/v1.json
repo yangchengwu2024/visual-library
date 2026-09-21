@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAoDCPTCKe2IVIfvbibGCokW2nLrl7qdk5a20FpoXJ5Hz0iapc1R9jl2CtOianCZuo9X4zOQnQR5FsObvUzTljVROLM21ibHGSQUbM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBOSA8vIRDb5pJoXvysGcQ2peCNjwEibvKicyalubWXMI49Cibzlbk3RLfGA1deiaWdM5HFpkFr1zhngG3CtDSRjV74CBicBW283ggM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB7WVhsIYyAsvBXtyjJx6v9g4wH7IB0zGoGNibjkhiaXqnuEIR5Er9brib1LJfIsZ8st88FZZx6wic8cia1ibK4f1Q4CulUNKfVfPCUI/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gsGJoSqpuVve8q0QO-c54aa1a8cce0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7b90bfa6b247888bb6ded113134274f7d4fc764eb73945d8ef7a164deff4fb6e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "An extreme close-up photograph capturing a rugged, weather-beaten American frontiersman with calloused, grimy hands, powerfully snapping a rusty, forged metal horse spur in two with intense exertion and a determined, gritty grimace. His distressed red leather jacket and shirt are sweat-drenched and worn. Sweat and dirt are visible on his skin. The setting is the besieged, burning, and battle-torn fortifications of San Antonio at night. The iconic Alamo mission structure is silhouetted against a chaotic sky with massive fires, thick smoke plumes, distant explosions, cannons, and tiny figures of distant soldiers engaging in combat. The cinematic quality is epic and intense. Strong volumetric lighting, dramatic high-contrast chiaroscuro lighting from multiple fire sources and a distant moon creates dynamic textures on the aged metal, rough leather, and grimy hands. Deep shadows and harsh light. Heavily textured film grain, realistic textures of torn leather, fractured metal, and grit. Photorealistic, dynamic composition, last stand atmosphere, raw power, extreme detail, masterwork. Shot on an ARRI Alexa. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAoDCPTCKe2IVIfvbibGCokW2nLrl7qdk5a20FpoXJ5Hz0iapc1R9jl2CtOianCZuo9X4zOQnQR5FsObvUzTljVROLM21ibHGSQUbM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBOSA8vIRDb5pJoXvysGcQ2peCNjwEibvKicyalubWXMI49Cibzlbk3RLfGA1deiaWdM5HFpkFr1zhngG3CtDSRjV74CBicBW283ggM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB7WVhsIYyAsvBXtyjJx6v9g4wH7IB0zGoGNibjkhiaXqnuEIR5Er9brib1LJfIsZ8st88FZZx6wic8cia1ibK4f1Q4CulUNKfVfPCUI/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg:prompt-0000",
+    "source_metadata": {
+      "article_index": 37,
+      "article_title": "Vol.295 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1777246268,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 0,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0",
+    "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

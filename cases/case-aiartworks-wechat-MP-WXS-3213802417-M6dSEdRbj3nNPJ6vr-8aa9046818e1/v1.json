@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqp4Hviamicq5sT3r2MVibuZ5yJeXZDicVPyKUSlDY0XqvdhZYb6y73UQeSxA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-M6dSEdRbj3nNPJ6vr-8aa9046818e1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4432be8f3528cb3e4f34e7edd3074e4c83184bbd1b643ef254cc5e9786e7cf5f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A black and white cat walks on a table in front of a vase of irises, a cozy living room with a wicker armchair, colorful bookshelves, pink walls, striped curtains in the style of Bracelets Jonesson, a pastel painting in the style of Henri Matisse, a watercolor painting in soft colors, an aesthetic atmosphere, a painting in the style of Ryo Takemasa. A pastel painting in the style of Henri Matisse, a cozy reading nook in a vintage-style home library with a plush pink armchair surrounded by tall bookshelves filled with colorful books. A furry cat sleeps on the chair, adding a sense of warmth and tranquility. Soft natural light shines in through the nearby windows, casting soft shadows and enhancing the warm atmosphere. Lush green indoor plants add a touch of nature, and a patterned rug scattered with books and tea cups completes the scene. A small wooden table holds a flickering candle and an open book. The painting was created in an expressive impressionist style with bold brushstrokes and bright colors --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqp4Hviamicq5sT3r2MVibuZ5yJeXZDicVPyKUSlDY0XqvdhZYb6y73UQeSxA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 207,
+      "article_title": "Vol.132 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741919433,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+    "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

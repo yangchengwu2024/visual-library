@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OlI8y2cgUKdBgvRAv1uFibfgk84tqof9YfOmlLcdI6zxq5zeGx5ec1Gw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Yr4IeCA9u0ASnyl8m-c3b2039a14d5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4e20581f5b97452bb74f63e029d31f671648d2fbf22fae69b31aa5cbef964eb9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The image is an abstract digital illustration of a red sun rising over a body of water. The sun is in the center of the image, with its bright red color standing out against the dark background. The water is a deep blue color, with wavy lines and curves that create a sense of depth and movement. The waves are also a lighter shade of blue, creating a contrast with the bright red of the sun. The overall mood of the illustration is peaceful and serene. --ar 2:3 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OlI8y2cgUKdBgvRAv1uFibfgk84tqof9YfOmlLcdI6zxq5zeGx5ec1Gw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g:prompt-0005",
+    "source_metadata": {
+      "article_index": 271,
+      "article_title": "Vol.71 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735357807,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Yr4IeCA9u0ASnyl8mhsN3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0",
+    "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490559&idx=1&sn=b62012ec3ee1f2d09014b4d931c3b10a&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.71 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

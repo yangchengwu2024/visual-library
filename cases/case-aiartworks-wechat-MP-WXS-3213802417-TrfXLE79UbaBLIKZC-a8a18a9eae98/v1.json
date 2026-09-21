@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5Tw8icxuvLoNAp4xRI5pUMicdnuIgnPSg0b3iaXU4mbPKql6iaMuMGzOfRVdA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TrfXLE79UbaBLIKZC-a8a18a9eae98",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8af88f4fb3d82206138fe95a293496283abe3259d1bd3af0ff663dc7d1f7c48c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "55",
+    "profile": "o68yss3",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "kingfisher perched on a lotus leaf, monumental view, Character modeling, Depth of field, Sound art, bold colors, Vintage Retro, volumetric lighting, Highly detailed --chaos 55 --ar 9:16 --style raw --profile o68yss3 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5Tw8icxuvLoNAp4xRI5pUMicdnuIgnPSg0b3iaXU4mbPKql6iaMuMGzOfRVdA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA:prompt-0005",
+    "source_metadata": {
+      "article_index": 241,
+      "article_title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示",
+      "association_confidence": "review",
+      "createTime": 1739068226,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492808&idx=1&sn=cbeab0119fab832ceb1cccf64cac2a1b&chksm=96a38f018537ef7d3c57e36d3b5419d66c131f72b20605791fb78dd2069d58f779672254fd90#rd",
+    "title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492808&idx=1&sn=cbeab0119fab832ceb1cccf64cac2a1b&chksm=96a38f018537ef7d3c57e36d3b5419d66c131f72b20605791fb78dd2069d58f779672254fd90#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 6",
+  "version": "v1"
+}

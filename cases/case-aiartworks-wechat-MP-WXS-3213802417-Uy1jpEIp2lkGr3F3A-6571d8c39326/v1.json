@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7IFHNaicuibUia4MejuazByTDsenC5ibelbEOxNKzSicNhpTVibrONBRCz9ZA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7srr4ImIXxfZ0qhxU7Jqbxbxk3lDApVxBibp7jjaaSw5bZAea6v28Ubw/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Uy1jpEIp2lkGr3F3A-6571d8c39326",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "949a769c28ceb135e0ded9c4c9a996723a2eb7b247b022ca92292e84a426a1d7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Close-up of a stunning fantasy cat face, entirely covered in sparkling dark sapphire and obsidian crystals, with glowing amber eyes that radiate intelligence and mystery. Hyper-detailed diamond-like texture across the fur, shimmering under soft cinematic lighting. The background is dark and dreamy, filled with glowing particles and gentle bokeh effects. Ultra-realistic, high contrast, elegant and majestic, fantasy digital art. --chaos 10 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7IFHNaicuibUia4MejuazByTDsenC5ibelbEOxNKzSicNhpTVibrONBRCz9ZA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ7srr4ImIXxfZ0qhxU7Jqbxbxk3lDApVxBibp7jjaaSw5bZAea6v28Ubw/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA:prompt-0011",
+    "source_metadata": {
+      "article_index": 132,
+      "article_title": "Vol.196 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748568647,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 11,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0",
+    "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

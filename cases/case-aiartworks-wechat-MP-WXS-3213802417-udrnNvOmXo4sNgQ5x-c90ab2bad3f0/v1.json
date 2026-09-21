@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6h11SicLC3UCv49XBtiafBxvaDFvGIyx2cIK4Ycty9j9MbwFTxILy2rNgA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-udrnNvOmXo4sNgQ5x-c90ab2bad3f0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fb20bae9b6340034f1f03912aa906926b5d7490e4561b4f520abb1e0d3179287",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "aodfyaf",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "balinese woman in the jungle, standing in a ethereal ring of fire, a realistic photo of FRONT FACING of a dancing woman from bali, wearing traditional Balinese dress, long-sleeved white lace blouse and bright yellow sash, patterned batik skirt with warm earth tones (red, orange, brown and cream), IN THE RAIN AND WET, WITH MIST AND SMOKE, standing frontA lone, massive golden tree grows at the center of a vast circular valley. As the sun rises, its branches stretch across the sky, absorbing light and releasing in perfect harmony.-realistic landscapes --ar 9:16 --profile aodfyaf --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe14icogAM6Uk6vREvuugK6h11SicLC3UCv49XBtiafBxvaDFvGIyx2cIK4Ycty9j9MbwFTxILy2rNgA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA:prompt-0010",
+    "source_metadata": {
+      "article_index": 161,
+      "article_title": "Vol.169 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745807946,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_udrnNvOmXo4sNgQ5xdJrDA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd",
+    "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496281&idx=1&sn=b940a9b3c9d10c7d6e2c1b8ef6f4def7&chksm=96f889f31a23ed4b70fe833580e54348ca628e0503521869cb07300924d8846041fbcb1665df#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.169 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

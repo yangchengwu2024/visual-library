@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:32+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflwpDWK9HrXgTaE8uibDbEibsrtU1KnsKQRictQZAMfZy9GLWbMJt8beyOibHdHx4zeufDHgCpiaeuhPA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YlbqYIOeuvH7Gp2In3liSg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YlbqYIOeuvH7Gp2In-556370e68e5b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "83aa1c17688fd077e28e951ffd54cfe2206f9889d4c3e01f95f3d2951e516a78",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:7",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "a polar bear made of ice with an oil rig and fire in the background, running on four legs, with smoke coming out from its mouth, carrying iceberg on its back, Offshore oil fields. It is set against an empty white background, creating a surreal effect. The composition features symmetrical elements and is captured through photography. This artwork presents a vivid depiction of nature's destruction, conveying both fear and sadness in the style of surrealism. --ar 5:7 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflwpDWK9HrXgTaE8uibDbEibsrtU1KnsKQRictQZAMfZy9GLWbMJt8beyOibHdHx4zeufDHgCpiaeuhPA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YlbqYIOeuvH7Gp2In3liSg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YlbqYIOeuvH7Gp2In3liSg:prompt-0013",
+    "source_metadata": {
+      "article_index": 319,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.28",
+      "association_confidence": "high",
+      "createTime": 1731205242,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YlbqYIOeuvH7Gp2In3liSg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486672&idx=1&sn=0e8538611bd9b0ed28dbc606b104d644&chksm=961395b4ce15acc438faab1cedb2e4ee453e45a23b8b9ec540033d2aa0812db54610c3ec6d75#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.28 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486672&idx=1&sn=0e8538611bd9b0ed28dbc606b104d644&chksm=961395b4ce15acc438faab1cedb2e4ee453e45a23b8b9ec540033d2aa0812db54610c3ec6d75#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.28 · 提示词 14",
+  "version": "v1"
+}

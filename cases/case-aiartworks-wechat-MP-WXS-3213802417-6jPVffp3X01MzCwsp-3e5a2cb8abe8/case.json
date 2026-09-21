@@ -1,0 +1,120 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6jPVffp3X01MzCwsp-3e5a2cb8abe8",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNQ0GpWEbR0wAP7FbIt6xtxJbxCm2GAJ2icomUMXibKiby6lctCaiaW6x22Q/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNxeUZmSTNnqAStDEb3oQ8ke3VKxpdHsXwdRtU0Slo6q2ugspSOfS1hQ/0?wx_fmt=jpeg&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNIslSYylzkXnzwbb5lpH80gKgkicyfjPfUG2ibr15iadJK2Sl5t6gRmHuw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzN0FCeA1jjaNYXiaOtk3DnIuIUW8yv5zlC0WewSgicYsUR3gO6cZQhZmFQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzN5CAd93fL8Lax0zSyvlYXo6ozWdHDs4jwRy0NCdxHqRlibQo4WgiaeSOQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNbgMmKfLBGQyS0MGgEdn9FsQdXzPjortffeuCk4MaDJIPASWnUGDKpA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzN3TgeBiatnYYxgXKPnEahhBH9VicBXCiaicE4DFme3TJL5V8AG0kKKibiaPVw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-6"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNSicKOA0TMstGRXXeEJORN2icLGbnXRNxZKBSgI0EanNyunKhiamg2VmDg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-7"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNdzd5ANUicJ8PuJgvm9lxXWONz9QI7CicTWdcusVwCZQcIV3ATeJTemvw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-8"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNMia44BPV1jvBX5CQibCILltbOQib9P5xqQ9jiaNjuTzsicYnu1ZAgy92OEA/0?wx_fmt=gif&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-9"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdDqmG0kyiaNOcekJgE13mia8lK9o3Wfc8mfEPYjGYPKw9wx0J123YVyKjrmFyWiagicGS5PnhZq3XLbw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-10"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheOhZXIcmB7UK4aKtNKGJHCGbY0xLO6mPjbnYDQx0TeeK9YOyfxJxh6MkrLTCWwS4yLRx0nr9DDmg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-11"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNjNf8RCicfRhwMsWaE2Bd0fqickpaNl9mtjf21MPbSpPDyg17NqdqQib0w/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg#image-12"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg:prompt-0017",
+      "source_metadata": {
+        "article_index": 82,
+        "article_title": "Vol.249 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1756078218,
+        "image_storage": "external_url",
+        "image_url_count": 13,
+        "prompt_index": 17,
+        "review_url_count": 3,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_6jPVffp3X01MzCwsp3CGsg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 10
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd",
+      "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 18",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499884&idx=1&sn=b0599a1dab9121d00060c709d37a1a17&chksm=96a64abe8f7539bc82792fb7d138b944ae5b0d362cc71704f89d86f314041ca6d373ca7dc600#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "title_aliases": [
+    "Vol.249 - Midjourney | 精选作品关键词提示 · 提示词 18"
+  ]
+}

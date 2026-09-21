@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD9M3uFd7wkkfqjlh5qFzLzMNBBibfQYdoPCd4zgiab488ubsFibKgjNOjcqCYKFHpPvxeIkPKSzJt3TEFB4LuPw4CUbIibFth86vA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDAVchiaTcXwg6kjJicAOuHge4ecYX0xz4Nn9iaOYjXsLerAtic2wfBpicniaYiaXb28SbpC4OicDZmGNP2ibViaoEAdcqeaJ4pXljrPLUiaY/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-109efec680d7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4e5b43644e1de64219cfebe435d845a6cb01ee4c5ae28d797c80f0a9f1e9d9db",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:6",
+    "chaos": "5",
+    "profile": "vogqbhz",
+    "raw": true,
+    "sref": [
+      "3758421140",
+      "220360",
+      "570495222"
+    ],
+    "stylize": "90",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A warped representation of a candle maker. He is depicted in the style of Johannes Vermeer with an optical illusion adding an element of surrealism that causes parts of the composition to be distorted. --chaos 5 --ar 5:6 --raw --sref 3758421140 220360 570495222 --profile vogqbhz --stylize 90 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD9M3uFd7wkkfqjlh5qFzLzMNBBibfQYdoPCd4zgiab488ubsFibKgjNOjcqCYKFHpPvxeIkPKSzJt3TEFB4LuPw4CUbIibFth86vA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDAVchiaTcXwg6kjJicAOuHge4ecYX0xz4Nn9iaOYjXsLerAtic2wfBpicniaYiaXb28SbpC4OicDZmGNP2ibViaoEAdcqeaJ4pXljrPLUiaY/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0005",
+    "source_metadata": {
+      "article_index": 35,
+      "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1777851036,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+    "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

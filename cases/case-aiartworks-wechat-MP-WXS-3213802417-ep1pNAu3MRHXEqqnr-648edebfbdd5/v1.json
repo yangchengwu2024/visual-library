@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefe5jzwJBAf6ppc5tt0QVI34KMwWfwm0ZfcfnPIhcqQRLQpRfKan8157kt4rbC2rK5uS9BTUVMmA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ep1pNAu3MRHXEqqnrgM4vQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ep1pNAu3MRHXEqqnr-648edebfbdd5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d1e191a1c8b82256add31fad9eb389a19820dcfeff2ba3a4875bbb6b7a09f472",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "plan view of eco-tech city inspired by incan architecture weaved into vibrant colored textiles, red is the dominant color, fabric texture is heavy --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefe5jzwJBAf6ppc5tt0QVI34KMwWfwm0ZfcfnPIhcqQRLQpRfKan8157kt4rbC2rK5uS9BTUVMmA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ep1pNAu3MRHXEqqnrgM4vQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ep1pNAu3MRHXEqqnrgM4vQ:prompt-0007",
+    "source_metadata": {
+      "article_index": 228,
+      "article_title": "Vol.115 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740191412,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ep1pNAu3MRHXEqqnrgM4vQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493537&idx=1&sn=aada2da53f4a5aefcf6f97ed124bcbf9&scene=58&subscene=0",
+    "title": "Vol.115 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493537&idx=1&sn=aada2da53f4a5aefcf6f97ed124bcbf9&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.115 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

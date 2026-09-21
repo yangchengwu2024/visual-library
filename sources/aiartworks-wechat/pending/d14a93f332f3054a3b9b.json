@@ -1,0 +1,55 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ciTELTRZo95HzWaHn-6f74a1637e9f",
+  "fingerprint": "b9ce3ec81c09b6b3abcb0b42b3b5425bae8c22a40ef08f15bad5a0731ea0ed8f",
+  "metadata": {
+    "model_family": "midjourney",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:7"
+  },
+  "prompt": "kraken attacking a sailboat in the sea with tentacles, hdr, low angle view --ar 4:7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 49,
+      "article_title": "Vol.283 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1762903843,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503403&idx=1&sn=17beb9c6fa53878107121d690a564932&scene=58&subscene=0",
+    "title": "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503403&idx=1&sn=17beb9c6fa53878107121d690a564932&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_ciTELTRZo95HzWaHntricQ:prompt-0013",
+  "status": "pending",
+  "title": "Vol.283 - Midjourney | 精选作品关键词提示 · 提示词 14"
+}

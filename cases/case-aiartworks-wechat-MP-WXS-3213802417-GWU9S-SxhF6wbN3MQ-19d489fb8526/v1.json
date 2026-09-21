@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBGPs5SLoEXByxwmZOI7I6XIngWj3XEfeCnMxmoeOLAJMHuyiapdcMiaY1zgUwSgMnchRCicE3Cu2WetOkgVf7icqyl6kLNdsNRN7I/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WChUZrE34D93jAW4dFlZXsFmLIlGTzk2BCROqItLG6alVHG1vpaPUveib1yQGxpuMLavibP3KRH2PjfYf8uHnBut2DlX73yyChp0/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-19d489fb8526",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "87f6cf76f6b7f125ab32bb0b330f895155c0f29c755020d5ea881a96fbaa5314",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "an illustration for the chinese fashion magazine front page, young African lady 25-year-old model standing near the leorard. model with a stylish glossy ponytail and chestnut eyebrows, glossy skin with a light hightiter , a chiseled Instagram model face, and a radiant smile. She stands in front of desert , keepeng her hands on a waist . She wears a sporty tennis white dress . Full-length shot, high resolution, sharp textures, crisp edges, cinematic golden hour light, Phase One IQ4 camera, vogue fashion style, long shot, Canon EF 50mm f/1.8 II --chaos 10 --ar 3:4 --raw --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBGPs5SLoEXByxwmZOI7I6XIngWj3XEfeCnMxmoeOLAJMHuyiapdcMiaY1zgUwSgMnchRCicE3Cu2WetOkgVf7icqyl6kLNdsNRN7I/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WChUZrE34D93jAW4dFlZXsFmLIlGTzk2BCROqItLG6alVHG1vpaPUveib1yQGxpuMLavibP3KRH2PjfYf8uHnBut2DlX73yyChp0/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0002",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 3",
+  "version": "v1"
+}

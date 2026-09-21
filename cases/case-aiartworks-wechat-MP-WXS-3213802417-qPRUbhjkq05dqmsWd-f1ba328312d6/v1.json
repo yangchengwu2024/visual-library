@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqPzqe9cdaLNHpcBfW4LvwiaD03NHRmcv4EfTMO5ib0r2QU2LTmUXYLE8qZY1TFmMwphgQosrKAicQg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qPRUbhjkq05dqmsWd-f1ba328312d6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ae807283012eaac00d35d2bfa7fc415167ed172ec31ceb1480d10db8548a98af",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "5",
+    "stylize": "75",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "hyperrealistic side-view profile photo of Marvel’s baby Danny Rand Iron Fist as a baby boy wearing a green martial arts costume with yellow trim and glowing dragon logo on chest wearing a yellow fabric mask covering his glowing eyes and punching with his yellow glowing hands as he fights in an ancient Tibetan temple in the style of live-action Marvel Cinematic Universe Secret Wars Netflix the Defenders Heroes for Hire --chaos 5 --stylize 75 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheqPzqe9cdaLNHpcBfW4LvwiaD03NHRmcv4EfTMO5ib0r2QU2LTmUXYLE8qZY1TFmMwphgQosrKAicQg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 218,
+      "article_title": "Vol.123 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741055424,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd",
+    "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDzwpWqqGG0qXuYgnphQCHaAqSicGdbLmQYnD4lib6Vd2CLJ0nsr6bjGs6xwCga1GVicMiaUVXkf28lJFO8xwW3dLEG4nlwml5lVp8/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1c24tQi9jbnvYAQ7r-fb97848f4df9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "49a12515b5862d62cb2f48b44e4ba437ad3dea7757d2b7f63e0115a3eca1ab6e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "hd": true,
+    "profile": "ou2n7ej",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "有风化侵蚀纹理和竖条纹肌理，宏伟尺度，极端尺寸对比，微小孤独的行人行走在蜿蜒起伏的深绿色草坡小路上，草坡间的蜿蜒小路，开阔荒野草原景观，航拍俯拍视角，鸟瞰超广角镜头，高度写实的摄影真实感，低饱和暗调氛围，侧逆光勾勒建筑边缘，清冷柔和的光影对比，静谧孤独的氛围感，简洁极简的构图，使用ARRI Alexa拍摄，8K超高细节，清晰锐利的对焦，极深的景深 --chaos 20 --ar 9:16 --profile ou2n7ej --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDzwpWqqGG0qXuYgnphQCHaAqSicGdbLmQYnD4lib6Vd2CLJ0nsr6bjGs6xwCga1GVicMiaUVXkf28lJFO8xwW3dLEG4nlwml5lVp8/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA:prompt-0011",
+    "source_metadata": {
+      "article_index": 1,
+      "article_title": "Vol.331-Midjourney 精选 | 科幻作品选辑",
+      "association_confidence": "review",
+      "createTime": 1789344088,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+    "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2ohBp2BLkzHhT68G38ES4PM1JhuBDmCX5YomiaB24adDckHTRHIqjhRg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_bh5qUXndPQ4y3~NrQGDsRg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-bh5qUXndPQ4y3-NrQ-6cdacc0613b8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fa36f414d389fd6af90f10d683ba555e2ce5c607b7d1c58a0af0e21f3b33a4dc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:20",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "3D rendering of a cute black cow with its head poking out of a wall, with majestic horns, clear fur, cute expression, white background, Pixar style, Disney style, 3D rendering, simple design, simple details, HD, high resolution, high details, best quality, high quality. --ar 9:20 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2ohBp2BLkzHhT68G38ES4PM1JhuBDmCX5YomiaB24adDckHTRHIqjhRg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_bh5qUXndPQ4y3~NrQGDsRg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_bh5qUXndPQ4y3~NrQGDsRg:prompt-0010",
+    "source_metadata": {
+      "article_index": 216,
+      "article_title": "Vol.126 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741314626,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_bh5qUXndPQ4y3~NrQGDsRg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494252&idx=1&sn=973a4e35b473b89547dda5c7f5d3fda2&scene=58&subscene=0",
+    "title": "Vol.126 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494252&idx=1&sn=973a4e35b473b89547dda5c7f5d3fda2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.126 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

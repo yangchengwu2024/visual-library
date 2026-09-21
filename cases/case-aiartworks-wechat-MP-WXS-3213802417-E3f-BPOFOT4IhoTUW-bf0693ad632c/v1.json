@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06rYEeJIWLia0fSmU41icwyatvhhY1shKhRA3r65ShcPMcAf663qgLnLsw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E3f-BPOFOT4IhoTUW-bf0693ad632c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9e56588eadafc36b3c4a3b6bb03320c5386b72f61c31a6b7ac7fa6d26fea3e2b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A man in the style of Armitage Funk strolls along an alleyway, his shadow stretching long on the wooden floorboards. He wears a hat and coat, holding a bag over his shoulder. Sunlight shines through the building windows, creating light rays that illuminate the street. The scene is reminiscent of film noir, with a sense of mystery and intrigue. --ar 2:3 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06rYEeJIWLia0fSmU41icwyatvhhY1shKhRA3r65ShcPMcAf663qgLnLsw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig:prompt-0002",
+    "source_metadata": {
+      "article_index": 217,
+      "article_title": "Vol.124 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741141856,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494122&idx=1&sn=5cc4eaf157ecfc76c120ca45b391133e&chksm=964cfb89ca446664287f596b34da813f0458a5c04ef7da75b5faa50ee9186e2b58f2748f9dcf#rd",
+    "title": "Vol.124 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494122&idx=1&sn=5cc4eaf157ecfc76c120ca45b391133e&chksm=964cfb89ca446664287f596b34da813f0458a5c04ef7da75b5faa50ee9186e2b58f2748f9dcf#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.124 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

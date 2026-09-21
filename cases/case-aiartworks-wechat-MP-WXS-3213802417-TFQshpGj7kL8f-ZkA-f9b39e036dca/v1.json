@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:13+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39hdBO1RGgupPqOWxEKUtJrl2OxLTf582ibz1KiciaYhdX4NmicIPqCgEjBvA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TFQshpGj7kL8f-ZkA-f9b39e036dca",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b8705bcf29cb4cff364ea2728275631a5c0ab9e2aedef5ceae828e05d25e70ed",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "n artistic blueprint of the matte gray 2022 BMW 540i with intricate details, displayed in an elegant frame on the wall. The car is depicted as if it's being built from its pieces and parts. It includes a detailed representation of each part, such as engine components, wheels, body panels, lights, windows, doors, and the trunk. Each piece has been colored to show their materials, like steel blue for metal or white for plastic. There's also text that says \"540i\". This design creates a sense of depth and realism. --ar 3:4 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheicA5LA8ZqItRg711SVE39hdBO1RGgupPqOWxEKUtJrl2OxLTf582ibz1KiciaYhdX4NmicIPqCgEjBvA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw:prompt-0016",
+    "source_metadata": {
+      "article_index": 204,
+      "article_title": "Vol.134 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1742178659,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TFQshpGj7kL8f~ZkAwVxiw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd",
+    "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494911&idx=1&sn=0ee802523d8fcd71f2b4ddc8bb1fa9e9&chksm=96358d8c662e3385611d4ddd4bc4a0f336b8402fce77a8d24bb5626cce2f5bd787444f5df225#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.134 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

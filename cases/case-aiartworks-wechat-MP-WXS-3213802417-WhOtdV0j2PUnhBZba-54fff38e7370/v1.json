@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibqbZgOv4nJ2WomMG3XBxsbO5bM0plia6smrL7TVKXAmnvMgvjvAEkPeA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WhOtdV0j2PUnhBZba-54fff38e7370",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8994c97951ce166fe02ef54db285da7218b3185806fa9f7e901818dd8c8c9eb4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "15",
+    "profile": "phjpkaw",
+    "stylize": "350",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Magazine cover. A vibrant, tropical smiling portrait showcasing dazzling, alien-inspired fashion with sparkling fiber optic bioluminescent details. The design features playful holes and spikes reminiscent of coral reefs and tropical flora, adorned in iridescent colors of turquoise and fuchsia. The color palette bursts with bright greens, sunny yellows, and shimmering golds, creating a lively and energetic atmosphere. Capture a close-up of a joyful, radiant smiling expression that exudes warmth and happiness, styled in a vivid duotone aesthetic. The imagery is influenced by the colorful artistry of Fernando Botero, Guillermo del Toro, and Beatriz Milhazes. --chaos 15 --ar 2:3 --profile phjpkaw --stylize 350 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibqbZgOv4nJ2WomMG3XBxsbO5bM0plia6smrL7TVKXAmnvMgvjvAEkPeA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ:prompt-0004",
+    "source_metadata": {
+      "article_index": 270,
+      "article_title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1735433475,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490600&idx=1&sn=8dc24886c554f289a41ea3260c863e35&scene=58&subscene=0",
+    "title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490600&idx=1&sn=8dc24886c554f289a41ea3260c863e35&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 5",
+  "version": "v1"
+}

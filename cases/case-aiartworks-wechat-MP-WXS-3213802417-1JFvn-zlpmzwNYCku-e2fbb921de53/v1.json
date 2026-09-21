@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcGfZwBgicORSAeANmWxVSiauOk0LnGvQMwnFGX2HtkhcZONePwl1WR9ibUARHvVBjxWYBn44e7QgKbA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1JFvn-zlpmzwNYCku-e2fbb921de53",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a2aefe6c1b427a56479b5c3bab4c835b6ca7d9d69732b0471e18d089f3a1d936",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "773hw7f",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A hyper-realistic first-person perspective of jockey riding a horse at full gallop, horse race, The horse’s ears and mane are centered in the frame, swaying from the speed, reins held tightly in gloved hands. The atmosphere is nostalgic, fast, and cinematic. Photographic clarity, --ar 9:16 --raw --profile 773hw7f --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcGfZwBgicORSAeANmWxVSiauOk0LnGvQMwnFGX2HtkhcZONePwl1WR9ibUARHvVBjxWYBn44e7QgKbA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw:prompt-0007",
+    "source_metadata": {
+      "article_index": 154,
+      "article_title": "Vol.175 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746412264,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496553&idx=1&sn=95b09582eb0735a570e107acce481d7e&chksm=965f04b295557e05849d88ff79d803b6a317e7f25179e018735d180d85ec6f0841ff3491d841#rd",
+    "title": "Vol.175 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496553&idx=1&sn=95b09582eb0735a570e107acce481d7e&chksm=965f04b295557e05849d88ff79d803b6a317e7f25179e018735d180d85ec6f0841ff3491d841#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.175 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

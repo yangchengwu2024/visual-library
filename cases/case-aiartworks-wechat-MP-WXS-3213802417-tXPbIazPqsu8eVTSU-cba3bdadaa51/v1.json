@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShda5kWficA2G6OXfYzWnwee0XAySHPdxEjVT21kfswTtDPvq0xAHeVle5zibkJj4pwYF2qCwJenLTIQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tXPbIazPqsu8eVTSU-cba3bdadaa51",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9df2f4257bdeb2a54cb55ab56f961fb086e1f13fbb82eae75bdf68836c0ba66e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "73:128",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A girl in an elegant golden dress stands on the water, her skirt illuminated by sparkling lights. The soft glow of fireflies creates a magical atmosphere around her as she gracefully walks through the shimmering waters. Her figure is reflected in the reflection, and the light reflects off the gown's intricate details, adding to its enchantment. This is an ultra-realistic photograph captured in high-resolution 16K. --ar 73:128 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShda5kWficA2G6OXfYzWnwee0XAySHPdxEjVT21kfswTtDPvq0xAHeVle5zibkJj4pwYF2qCwJenLTIQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 292,
+      "article_title": "Vol.53 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733540763,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd",
+    "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

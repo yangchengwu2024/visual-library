@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:53+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdDqmG0kyiaNOcekJgE13mia8RojJWDFicfMBu03g2HTSe27yx4ZLCfJticbxzZLctjnZOhgMXm13AHYA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NJwTF472hUEwqe-0s-b45c9a2a86ac",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b373df80e66af423d1f56cee426c1414b81e7fe45318dede62a869a4083b7853",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9"
+  },
+  "previous_version": null,
+  "prompt": "layered papercut diorama of a Korean herbalist gently peeling bark from a hwangchil tree in a forest, soft smoke rising and transforming into fluttering pages of the Donguibogam, revealing a traditional internal organs diagram (SinHyeongJangBuDo), herbal silhouettes of licorice, mugwort, angelica, and peony layered over the organs, silk-thread-like meridian lines flowing through the body, warm sepia and amber light, realistic handcrafted paper layers, glowing backlight, soft shadows, shadow box style, negative space for caption, --ar 16:9",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdDqmG0kyiaNOcekJgE13mia8RojJWDFicfMBu03g2HTSe27yx4ZLCfJticbxzZLctjnZOhgMXm13AHYA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg:prompt-0005",
+    "source_metadata": {
+      "article_index": 83,
+      "article_title": "Vol.248 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1755819018,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499848&idx=1&sn=8e0e2e1718c7a33d6ba3c5a8e36e172a&chksm=96067f19bd2dbd200ce5db64e55300fd1b04595632fcf40047ff560160a41fc7e225de99dfaa#rd",
+    "title": "Vol.248 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499848&idx=1&sn=8e0e2e1718c7a33d6ba3c5a8e36e172a&chksm=96067f19bd2dbd200ce5db64e55300fd1b04595632fcf40047ff560160a41fc7e225de99dfaa#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.248 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

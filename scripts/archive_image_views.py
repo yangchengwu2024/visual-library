@@ -8,6 +8,7 @@ from pathlib import Path
 from urllib.parse import quote, unquote, urlsplit
 
 SUFFIXES = {'.md', '.markdown', '.html', '.htm'}
+ALLOWED_REMOTE_IMAGE_HOSTS = {'mmbiz.qpic.cn'}
 
 
 def _sha(data):
@@ -243,7 +244,7 @@ def repair_snapshot(root, snapshot, resolver):
 
 
 def check_images(root, paths=None):
-    """Check all real image references. External URLs are explicit errors."""
+    """Check local image references and approved read-only source image URLs."""
     root = Path(root).resolve()
     paths = paths if paths is not None else (p for p in root.rglob('*') if p.suffix.lower() in SUFFIXES and '.git' not in p.parts)
     errors = []
@@ -260,6 +261,8 @@ def check_images(root, paths=None):
                 url = ref['url']
                 parsed = urlsplit(url)
                 if parsed.scheme == 'data' and re.match(r'^data:image/[^,]+,', url, re.I):
+                    continue
+                if parsed.scheme == 'https' and parsed.hostname in ALLOWED_REMOTE_IMAGE_HOSTS:
                     continue
                 if parsed.scheme or parsed.netloc:
                     errors.append({'path': str(path), 'reference': url, 'error': 'external'})

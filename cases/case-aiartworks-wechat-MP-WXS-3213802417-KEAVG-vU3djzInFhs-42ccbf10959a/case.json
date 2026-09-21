@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KEAVG-vU3djzInFhs-42ccbf10959a",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDwtAyfBeRsYLHXfJCXicFA1a9ibFGzk1DRibibeH8tCE93TVK0mLUMdRCVdRmibdsogzPO9FctTumF93VaXNiaPPmTnwbI90ntSkJ7A/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDGaOFPoPoia7icYO4MEAbdicnJ6Rnyh0lNcQG4DLJ4Wqf7gdzHk1kicQlOH65HjbnCEMOHc6Cq4UBFNDQVQ1aIyfAW2b3ldHk3pHM/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg:prompt-0000",
+      "source_metadata": {
+        "article_index": 6,
+        "article_title": "Vol.326-Midjourney 精选作品提示词与赏析",
+        "association_confidence": "high",
+        "createTime": 1787268652,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 0,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_KEAVG-vU3djzInFhsuo4Lg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511000&idx=1&sn=45e8026860fdb612e7bb4e0f895dab1d&chksm=969916e5fae8af973427766a8b77bbe6338927a55bce531c7dc61d3d34499e63ec2d5c53939f#rd",
+      "title": "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 1",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511000&idx=1&sn=45e8026860fdb612e7bb4e0f895dab1d&chksm=969916e5fae8af973427766a8b77bbe6338927a55bce531c7dc61d3d34499e63ec2d5c53939f#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 1",
+  "title_aliases": [
+    "Vol.326-Midjourney 精选作品提示词与赏析 · 提示词 1"
+  ]
+}

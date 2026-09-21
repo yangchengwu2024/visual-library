@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:15+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06SfxicNiabR85aicZ9Moblqe0yTQJ5Qvvq8ibvAQqwZQFiavhj8BvhmHYtpw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E3f-BPOFOT4IhoTUW-e233d1812560",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0b9a02c31bdcc44a8acf0985f484ded983a2c503fba7d2bca804372d2650f9b9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "43:93",
+    "no": [
+      "watermark"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Center side view A white Metallic Porsche 964 Carrera RS(perfectly shaped black wheels with delicate lines and no distortion whatsoever,Equipped with a large black rear wing.) parked near A minimalist, dark brick building facade with the words \"Audemars Piguet\" written above an open door leading to a high-end watch store displaying watches inside. In front of it is a modern white light on the wall next to it, a black and gold logo that says \"François\", a large window showing some pictures on display, and a glass sign that reads \"AP\". The lighting in the room creates a dramatic effect, with warm tones highlighting details like wooden floors and metal accents.The high-definition photograph captures a medium view of the whole car body,Day time,with ambient lighting,shot with a Hasselblad H6D-100c camera and Portra film.highly detailed 3D render, ultra realistic, volumetric lighting, cinematic composition, ray tracing, metallic paint reflections, HDR lighting, Unreal Engine 5 quality, Octane render, photorealism. --no watermark --ar 43:93 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06SfxicNiabR85aicZ9Moblqe0yTQJ5Qvvq8ibvAQqwZQFiavhj8BvhmHYtpw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig:prompt-0014",
+    "source_metadata": {
+      "article_index": 217,
+      "article_title": "Vol.124 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1741141856,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E3f~BPOFOT4IhoTUWnQXig",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494122&idx=1&sn=5cc4eaf157ecfc76c120ca45b391133e&chksm=964cfb89ca446664287f596b34da813f0458a5c04ef7da75b5faa50ee9186e2b58f2748f9dcf#rd",
+    "title": "Vol.124 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494122&idx=1&sn=5cc4eaf157ecfc76c120ca45b391133e&chksm=964cfb89ca446664287f596b34da813f0458a5c04ef7da75b5faa50ee9186e2b58f2748f9dcf#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.124 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

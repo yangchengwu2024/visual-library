@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUheg3f7Hy0ic1q55NYbsjyd8TCsr2iaia0AWAXEWCPwgicbr7Bk1Vlpyg7kg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-HqagCxPorX9k-ufUR-3bce7b2c7244",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "337b4432972da7cfd92f5705415f7963bf9297fff1e6f80a8a30e3fce2862ac3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic wide shot of a dark horizon with multiple silhouettes of reapers in various cultural forms standing apart, facing forward into the mist. Each wears distinct robes and tools from different cultures. The lighting shifts from warm orange on one side to deep blue on the other, symbolizing East and West. Fog rolls in beneath them. Symbolic, atmospheric, photorealistic --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUheg3f7Hy0ic1q55NYbsjyd8TCsr2iaia0AWAXEWCPwgicbr7Bk1Vlpyg7kg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg:prompt-0010",
+    "source_metadata": {
+      "article_index": 158,
+      "article_title": "Vol.172 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746057736,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0",
+    "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbzMdJ7908DKz8Hia18aRv4T9M9BE51RkWgAsYIldRlt4pHVCwcwibE67W134VzsDhakfTfibTAXf6Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-064v1TRULkSriXfKq-fb71e667dc41",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1c45ae3cedf258174728e32762d33c525eb5faad92403b22737b3413af2ecd71",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/Qy13B5OGekg Tiny woman steps into the light green, It has a pink pattern on it, A porcelain vase with a large hole in the belly of the bottle, It's like entering a fantasy world, sighing at the ingenuity of the ancients, The placket, cuffs, etc., are embroidered with gold patterns, The lower body is paired with a dark blue horse-faced skirt, The skirt is wide, The skirt is embroidered with a fine cloud water pattern, The strands are carefully combed into an intricate bun, There is a hosta on each side, The hairpin head is carved with a dragon and phoenix pattern, cinematic lighting, best quality, high details --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcbzMdJ7908DKz8Hia18aRv4T9M9BE51RkWgAsYIldRlt4pHVCwcwibE67W134VzsDhakfTfibTAXf6Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 269,
+      "article_title": "Vol.72 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735530145,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_064v1TRULkSriXfKqdG4yQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490665&idx=1&sn=b92042179daff5e2360f4796206bbf6e&scene=58&subscene=0",
+    "title": "Vol.72 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490665&idx=1&sn=b92042179daff5e2360f4796206bbf6e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.72 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

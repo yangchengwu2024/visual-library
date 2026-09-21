@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorb0wTlicTnr6Rxh8SaFUCFNu1v0vWictsWibynicerhlCUI0No5xo7ehS7w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zPzH-X-jZnFUlKJyXfFPEA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zPzH-X-jZnFUlKJyX-a8dc98bca166",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2883987470d778ec56cb719e6dcd2fbbbb6a43cab508f7be935217bcdce83090",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "cref": "https://s.mj.run/GweBMmJfBiw"
+  },
+  "previous_version": null,
+  "prompt": "A cute, white baby radish with a chubby body and green leaves on its head, wearing an all-white, tight-fitting jumpsuit, smiling and standing in a vegetable field, in the style of Disney and Pixar animation, character design, full-length portrait, with super details and best quality. --ar 3:4 --cref https://s.mj.run/GweBMmJfBiw",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorb0wTlicTnr6Rxh8SaFUCFNu1v0vWictsWibynicerhlCUI0No5xo7ehS7w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zPzH-X-jZnFUlKJyXfFPEA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zPzH-X-jZnFUlKJyXfFPEA:prompt-0015",
+    "source_metadata": {
+      "article_index": 300,
+      "article_title": "Vol.46 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732870836,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zPzH-X-jZnFUlKJyXfFPEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488299&idx=1&sn=d773c436d9a40fdc3945c14042555c68&scene=58&subscene=0",
+    "title": "Vol.46 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488299&idx=1&sn=d773c436d9a40fdc3945c14042555c68&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.46 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

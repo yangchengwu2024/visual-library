@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD8k0S69Vy4qPRU5IRH8NEU36l4xAcsxkOMDAlak2ZKHAKSFFIiag0mcetVykFK9pjKkeLEqosnnjWSb2ttYaK4tBoc6nJEUs1A/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCy04qsnEiaXUVA9hyDEDFSpibkVSyQkBgiaLYXFgrPgU4a1tYwf9eMjvmOGxN9ryduwAMurNasvTj1YVPdyfUicdbLEXfibRYaVgIs/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cHRLxsnxcPeR-iBwF-e19a9c80cb38",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "34daf10b7d0b8c3052af8c4e002fccdbf69b9fa1160d938ecf7565c14beb4fb4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "v7pefo1",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A head and shoulders oil-painting style portrait of a chimpanzee soldier in US khaki uniform, holds a hand grenade ready to throw and he pulls the pin from it with his teeth. The chimpanzee has a crazy look on its face with mouth partially open and teeth showing. A packet of Lucky Strikes cigarettes are tucked on to the outside of its camouflage helmet (on its left side), with rifle bullets (full metal jacket) tucked in behind it in a row. The fabric of the helmet is worn, dirty and slightly frayed. 'TEENAGE RAMPAGE' is written in graffiti style permanent marker pen. The uniform and the chimpanzee have seen action, so all is well worn and fatigued. The poster has a military recruitment poster feel about it, slightly crazy, painted in oil. Background behind the chimpanzee is painted in khaki (mostly flat) with some brush-strokes noticeable in the main figure and also the background. Ensure that there is a reasonable amount of space behind the chimpanzee, we want to see some of the painted khaki green background --ar 3:4 --profile v7pefo1 c4wzmki --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD8k0S69Vy4qPRU5IRH8NEU36l4xAcsxkOMDAlak2ZKHAKSFFIiag0mcetVykFK9pjKkeLEqosnnjWSb2ttYaK4tBoc6nJEUs1A/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCy04qsnEiaXUVA9hyDEDFSpibkVSyQkBgiaLYXFgrPgU4a1tYwf9eMjvmOGxN9ryduwAMurNasvTj1YVPdyfUicdbLEXfibRYaVgIs/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0009",
+    "source_metadata": {
+      "article_index": 34,
+      "article_title": "Vol.298 - Midjourney V8.1 HD 特辑",
+      "association_confidence": "review",
+      "createTime": 1778196671,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 9,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd",
+    "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 10",
+  "version": "v1"
+}

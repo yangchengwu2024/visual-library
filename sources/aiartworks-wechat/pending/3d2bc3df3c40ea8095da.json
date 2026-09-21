@@ -1,0 +1,58 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTBVsPvTXvfV-b-nu-570198cd6344",
+  "fingerprint": "16b7a97584e1ba5d5b2b66cba07b4f108f04a1195f26464ec90e36251e3b8d04",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "7",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "6rdzhpc",
+    "stylize": "750",
+    "v": "7"
+  },
+  "prompt": "eine Fliege fängt mit einem snappy einen Menschen --profile 6rdzhpc --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0009",
+    "source_metadata": {
+      "article_index": 153,
+      "article_title": "Vol.176 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1746498625,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd",
+    "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd"
+  },
+  "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0009",
+  "status": "pending",
+  "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 10"
+}

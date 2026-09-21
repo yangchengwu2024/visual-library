@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevjHSPwAo2dJF646Vg3GcicRvbwQIib69Ijxx4ia4Ru46NkPJ1z0kKV2IKWMmJP88vzaQibXbRmqJgZA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nq7PjJ5lUcn0GM6LN-efb08088c565",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b5b37c83b9a2f22a9ec835bda53e1bf8e81514e6b3ef90876a991385a9b98666",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "product photography, a wristwatch photography, silver watch with black strap against A dramatic tech vibe and luxurious visual featuring a bold red and black theme. slightly elevated shot, the watch have unique placement, The background is deep black, while vibrant red creating a striking contrast. The composition emphasizes symmetry, The lighting is focused --ar 4:5 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShevjHSPwAo2dJF646Vg3GcicRvbwQIib69Ijxx4ia4Ru46NkPJ1z0kKV2IKWMmJP88vzaQibXbRmqJgZA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw:prompt-0017",
+    "source_metadata": {
+      "article_index": 285,
+      "article_title": "Vol.59 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734143411,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nq7PjJ5lUcn0GM6LNXWhMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489298&idx=1&sn=ce35242604159da4a08800b6c8264182&chksm=96a9d286fcd2a852c4960fd2f5d95ac4426a45c8d8d475f57efc55ec6125f3e5ce89ab869ff3#rd",
+    "title": "Vol.59 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489298&idx=1&sn=ce35242604159da4a08800b6c8264182&chksm=96a9d286fcd2a852c4960fd2f5d95ac4426a45c8d8d475f57efc55ec6125f3e5ce89ab869ff3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.59 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

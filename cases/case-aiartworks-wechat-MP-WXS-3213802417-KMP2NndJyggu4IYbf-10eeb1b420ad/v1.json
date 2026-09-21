@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5mZPqhG6HI0McQHAuZjricPYt2ibbxzicM2fOJZXjmSSJ3Cy1NHjjyhTGw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KMP2NndJyggu4IYbf-10eeb1b420ad",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6b1287e32461c456a67b40ddff66da798540bbb6ed0b79cd86de90ac31b0ab31",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "3 huge balloon heads of different Asian women, each with a very different face and expression, with dead eyes and hair floating in distance in the air, hyper-realistic textures, in the city, cinematic view as a frame from an old Japanese movie, eerie mood, in the style of Beksinski --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfdzqLibF2zMR7JHwX8MzTia5mZPqhG6HI0McQHAuZjricPYt2ibbxzicM2fOJZXjmSSJ3Cy1NHjjyhTGw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA:prompt-0005",
+    "source_metadata": {
+      "article_index": 104,
+      "article_title": "Vol.225 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751239870,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KMP2NndJyggu4IYbfOEijA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd",
+    "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498726&idx=1&sn=0e73e5a01d115223eed51867a04b7118&chksm=961dd517c6d588680b5258a55190b32ac30964e44d7660f8592296c8151653d68cb5070a5f31#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.225 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

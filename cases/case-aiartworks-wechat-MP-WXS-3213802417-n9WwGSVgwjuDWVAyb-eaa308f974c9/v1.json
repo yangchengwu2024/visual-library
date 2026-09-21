@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqUjJVXI4FeKXfX04IlYFfhHCTXrBJCibNDiclgvR7WP9JQW8syAeFy2kMsEzk6q1lvWql4hzDjnAg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n9WwGSVgwjuDWVAyb-eaa308f974c9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8943bf574f7f191abc3731ee27a1962d37cc6f4d1387d1078377f07d55bef2c4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "stylize": "300"
+  },
+  "previous_version": null,
+  "prompt": "Ultra realistic close up Photo of a translucent swing on a clear night with beautiful moonlight. the swing is hanging from a big tree full of translucent soft blue flowers on a gorgeous serene beach with calm waves and crystal clear water. There are some clouds in the sky, creating an amazingly beautiful and colorful magical night sky. Mysterious atmosphere and fairy-tale atmosphere --ar 9:16 --raw --stylize 300",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfqUjJVXI4FeKXfX04IlYFfhHCTXrBJCibNDiclgvR7WP9JQW8syAeFy2kMsEzk6q1lvWql4hzDjnAg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg:prompt-0008",
+    "source_metadata": {
+      "article_index": 101,
+      "article_title": "Vol.228 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751844624,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd",
+    "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

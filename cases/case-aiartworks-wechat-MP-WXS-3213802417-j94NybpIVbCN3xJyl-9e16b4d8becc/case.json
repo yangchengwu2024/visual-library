@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-j94NybpIVbCN3xJyl-9e16b4d8becc",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBSheiaIFcBBmIaJeIKkaagpN1fN9ek8icYibRc3u0Qpg1ZXXV68p3L5x3eJNdiajQ4siajtbCDUFice8eWfxg/0?wx_fmt=gif&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_j94NybpIVbCN3xJylTvNCw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_j94NybpIVbCN3xJylTvNCw:prompt-0009",
+      "source_metadata": {
+        "article_index": 61,
+        "article_title": "Vol.270 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1760311858,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 9,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_j94NybpIVbCN3xJylTvNCw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500784&idx=1&sn=bcfd2f2b8657e787df3bfd3a5c67f497&chksm=967be1e92f18f0a3639365f1e6ba71b2bab277592f31db765bbc352eabe683b8666498a672a0#rd",
+      "title": "Vol.270 - Midjourney | 精选作品关键词提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500784&idx=1&sn=bcfd2f2b8657e787df3bfd3a5c67f497&chksm=967be1e92f18f0a3639365f1e6ba71b2bab277592f31db765bbc352eabe683b8666498a672a0#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.270 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "title_aliases": [
+    "Vol.270 - Midjourney | 精选作品关键词提示 · 提示词 10"
+  ]
+}

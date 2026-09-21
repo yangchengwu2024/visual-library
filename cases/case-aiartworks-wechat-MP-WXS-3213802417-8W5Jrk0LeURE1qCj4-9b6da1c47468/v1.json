@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7ODVPgnLK3Es1ksoicLcyFgbVmPeiblrSpZzJ5HAS00vCghNQZ0g3KmDqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8W5Jrk0LeURE1qCj4-9b6da1c47468",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "352b8299dbe30002c7572642aacf4c640854aafcac9854f9edf1f9dfd75904e9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "black cloaked knight with large wings, pointing a sword in hell, 1902 grainy photo,eerie,scary, --ar 2:3 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7ODVPgnLK3Es1ksoicLcyFgbVmPeiblrSpZzJ5HAS00vCghNQZ0g3KmDqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA:prompt-0009",
+    "source_metadata": {
+      "article_index": 280,
+      "article_title": "Vol.63 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734575449,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8W5Jrk0LeURE1qCj4A7gNA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489723&idx=1&sn=522134f09c6483c6bcd4ddb15f930bfb&scene=58&subscene=0",
+    "title": "Vol.63 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489723&idx=1&sn=522134f09c6483c6bcd4ddb15f930bfb&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.63 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

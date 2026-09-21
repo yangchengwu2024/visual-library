@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51d55dCUKsaTV1gNXrzzaKmCjIppPWicCI6xzpiaDxvkq4XibBNDNvTu5WIA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dvZyUGqFia9IqSyR6reicUuITGRVNGIruVt4ICrdyw3o6zHGySM4jCLJg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dD13dq3eCjaWcCbPX-9d8a62d32f34",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ac7432a32327eafc65d3dccb1f5a2e4e6b383a7eeb06958b76ab6a449fb8c838",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "3D rendered summer milk tea promotional poster, cartoon style blended with hand-drawn elements, central 3D transparent cup with layered mango and strawberry pulp, whipped cream and mint leaves on top, water droplets and ice cubes around the cup, dynamic splash of pearls and bubbles in the background, gradient sky-blue to mint background with flowing water texture, promotional text \"Summer Special! Buy 1 Get 1 Free 14:00-17:00\" in 3D cartoon font (Happy Go Lucky style) with orange-yellow gradient, handwritten slogan \"Double the Chill, Double the Joy!\" in mint green with ice crystal icons, brand logo (teacup icon + \"BobaZone\") in 3D frosted glass material placed at top-right corner, sunlight refraction effect on cream texture, 8K resolution, Octane Render, cinematic lighting. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51d55dCUKsaTV1gNXrzzaKmCjIppPWicCI6xzpiaDxvkq4XibBNDNvTu5WIA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcZgQKAJS7fhCRNAsibIic51dvZyUGqFia9IqSyR6reicUuITGRVNGIruVt4ICrdyw3o6zHGySM4jCLJg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg:prompt-0007",
+    "source_metadata": {
+      "article_index": 225,
+      "article_title": "Vol.117 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740450668,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_dD13dq3eCjaWcCbPXRbGMg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493728&idx=1&sn=aff8eaa2d5c992c3657e65026b221555&chksm=96e98fa7b33062dd85648f7a20087d8ebd2db3d33454771df87c6991618e989301c1e16592c2#rd",
+    "title": "Vol.117 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493728&idx=1&sn=aff8eaa2d5c992c3657e65026b221555&chksm=96e98fa7b33062dd85648f7a20087d8ebd2db3d33454771df87c6991618e989301c1e16592c2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.117 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

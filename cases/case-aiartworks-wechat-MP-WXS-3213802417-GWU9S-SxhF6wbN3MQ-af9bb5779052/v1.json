@@ -1,0 +1,84 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WANbtR2p0wdkqrGNgLskGDsiaBp2P7cgxaWn5BNww7AcE4zTqX0kcqFnmqdmbCIPAe6YxxshcaA3umsYFxwAba8ticibGdhekcAco/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBXpzjiccoYuibozZAmcQ3327jN0NHVX97G7R9D0QnjXF0Sa7jPPzaRIv6R3pl69HFWGxw6pRoWhWI3CicVPhmGe2UTIB6rCzGuPs/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDBRAiaPHIPxpic1UjtmkwoUQQaMcrjr8LHrdtrM24WE7K2PBicFNo6YAcYMh522aUhb61olc0DpGky8Kp32dd2xJIgSDjbnJicicC8/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-af9bb5779052",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b41b44c70c8dbd97abcdaadd9a72588a1070fa200d62282deea1632c4e23be3e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "5o7efy7",
+    "stylize": "0",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A cartoon illustration features three seagulls standing on a rock in the water, with their mouths wide open as if squawking. The seagulls are white with black wings and orange beaks and feet. They are positioned in a row, with the middle seagull slightly taller than the other two. The background consists of vertical light blue and white stripes. The word \"BEER!\" is written in bold, black letters multiple times around the seagulls, with some instances appearing in speech bubbles or with radiating lines to indicate sound. The overall style is simple and graphic, with bold outlines and flat colors. --ar 9:16 --profile 5o7efy7 --stylize 0 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WANbtR2p0wdkqrGNgLskGDsiaBp2P7cgxaWn5BNww7AcE4zTqX0kcqFnmqdmbCIPAe6YxxshcaA3umsYFxwAba8ticibGdhekcAco/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBXpzjiccoYuibozZAmcQ3327jN0NHVX97G7R9D0QnjXF0Sa7jPPzaRIv6R3pl69HFWGxw6pRoWhWI3CicVPhmGe2UTIB6rCzGuPs/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDBRAiaPHIPxpic1UjtmkwoUQQaMcrjr8LHrdtrM24WE7K2PBicFNo6YAcYMh522aUhb61olc0DpGky8Kp32dd2xJIgSDjbnJicicC8/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0010",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 10,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 11",
+  "version": "v1"
+}

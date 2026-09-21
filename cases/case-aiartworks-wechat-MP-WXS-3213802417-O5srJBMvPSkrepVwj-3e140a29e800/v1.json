@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDiboReiaTTUOshE3JqgSmvrT8bpAqFicnRibYLNLcK9ibibX3d34jlz6bXJq8lnpLBVcO1nLCqGkDia7FLNESreSIXDxp8pca6tjG2r4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDEx4xvPAUFtsVicYicY5xaMtxHXb2s07WC3h6IRyr9eq7TdjOP4q8icdIQ0yOibMSaichlFSibDicMRU6jCXVwE7HiaXJ1GS5yAs6IM74/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-O5srJBMvPSkrepVwj-3e140a29e800",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a4b252c4987c969d1df0f77ba0b2d7e12bb9c5a2c6fc863603d87e09280208c5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "5",
+    "hd": true,
+    "raw": true,
+    "stylize": "333",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "X-ray scan of of 19 year old Belorussian girl from the waist up, against an abstract background consisting of interlocking leaves forming a repeating pattern, by Casey Weldon & Roger Dean --chaos 5 --ar 2:3 --raw --stylize 333 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDiboReiaTTUOshE3JqgSmvrT8bpAqFicnRibYLNLcK9ibibX3d34jlz6bXJq8lnpLBVcO1nLCqGkDia7FLNESreSIXDxp8pca6tjG2r4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WDEx4xvPAUFtsVicYicY5xaMtxHXb2s07WC3h6IRyr9eq7TdjOP4q8icdIQ0yOibMSaichlFSibDicMRU6jCXVwE7HiaXJ1GS5yAs6IM74/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g:prompt-0006",
+    "source_metadata": {
+      "article_index": 30,
+      "article_title": "Vol.303-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1780044635,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 6,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_O5srJBMvPSkrepVwjC6Y-g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506632&idx=1&sn=5c7f391eefd31291700111045b1b2592&chksm=965b8d543aa1d1c43d26ba896fde1a9ddcd1bc9dd9f24b46a5f4bcdd18781bc4d30a71b6e76c#rd",
+    "title": "Vol.303-Midjourney 精选作品提示词与赏析 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506632&idx=1&sn=5c7f391eefd31291700111045b1b2592&chksm=965b8d543aa1d1c43d26ba896fde1a9ddcd1bc9dd9f24b46a5f4bcdd18781bc4d30a71b6e76c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.303-Midjourney 精选作品提示词与赏析 · 提示词 7",
+  "version": "v1"
+}

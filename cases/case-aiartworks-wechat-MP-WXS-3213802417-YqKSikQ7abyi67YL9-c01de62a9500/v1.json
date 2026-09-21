@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfKumIOlXGR8PGRHEaGA1Z4HGm2qrGwsz8dTnB8ib0klUUV7J2GGxicicJ3xNiaEOibD22qUKdqpfKDbkw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YqKSikQ7abyi67YL9-c01de62a9500",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bca2df75f3dbcbaa814925a01cfd913aa3fc0815a5c57425e4281b271e0192b0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "bgyc4yx",
+    "stylize": "200"
+  },
+  "previous_version": null,
+  "prompt": "Princess Jasmin and Aladin are riding in the clouds at night on the magic carpet and we see Jasmine kneeling behind Aladin, from behind, in a real-life photo realistic rendition of the classic adventure a point where they are on a magic carpet ride singing \"A Whole New World\". Aladin's costume is his refined, princely costume with fine white fabrics, wide legs and sleeves, and a feather plume in his turban. Jasmine's costume is refined with sheer fabrics in jewels and sequins with low-waisted, thin flowy, sheer, pants and a light blue tube top with a twist in the center, and a blue crown with a jewel. They are kneeling on the carpet, with Aladin in front, but viewed from behind, in an action pose flying above the city of Agraba in the clouds. Aladin is holding onto the front of the carpet like he's trying to steer it with his hands, but we may not be able to see his face. Jasmine is crouched low, trying not to fall off the flying carpet, looking over her shoulder toward the viewer with an expression of amazement and wonder. The whole scene has a dark tone to it, as if lit only by moonlight. Image Keywords: photorealistic, hyper-realistic, ultra high definition, realistic lighting, natural skin texture, true-to-life details, unretouched, uncanny realism, extreme detail, highly detailed skin pores, real camera depth of field, natural color grading, DSLR quality, cinematic realism, unfiltered realism, 8K resolution, lifelike textures, unsettlingly realistic, perfectly natural anatomy, no stylization, no CGI look, no cartoonish elements, photo taken with real camera, gritty realism, Canon EOS R5 photo, Leica lens realism, Nikon D850 style, shot on film, bokeh background, cinematic lens blur, photographic noise, natural vignette, ambient daylight only, handheld camera shake slight, clinical lighting, raw and unpolished, eerie familiarity Exclusions: no drawing, no painting, no illustration, no cartoon, no anime, no stylized art, no 3D render look, no digital art, no low detail, no smooth plastic skin, no over-saturation, no glossy finish, no unnatural proportions, no symmetry perfection, no unrealistic lighting --chaos 10 --ar 9:16 --profile bgyc4yx kf31prh --stylize 200",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfKumIOlXGR8PGRHEaGA1Z4HGm2qrGwsz8dTnB8ib0klUUV7J2GGxicicJ3xNiaEOibD22qUKdqpfKDbkw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg:prompt-0015",
+    "source_metadata": {
+      "article_index": 100,
+      "article_title": "Vol.229 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752019384,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0",
+    "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

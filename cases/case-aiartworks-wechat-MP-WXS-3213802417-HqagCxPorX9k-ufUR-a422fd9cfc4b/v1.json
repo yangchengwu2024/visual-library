@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhqDugekPiaGSNiaLGFpNWfmjF5L7GNmia5dfchhd2d42QozAvgW1tMDcQA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-HqagCxPorX9k-ufUR-a422fd9cfc4b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6bad6935df4d5126caa03629a434bdbdff6843ab351f0a2cc797ebd41c6b5adc",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "v8yiqkx",
+    "stylize": "750",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic still, ultra-realistic, film noir style, a dramatic and emotional wide-angle shot of a soccer stadium at night under pouring rain, stadium lights illuminating the scene from above creating dramatic shadows, center-field stands an 8-year-old boy (Bruno), slim, short blond hair styled into a mohawk, intense brown eyes looking upward with deep determination and hope, rain droplets dripping from his face, his soccer jersey soaked and sticking to his skin, capturing a powerful moment of internal struggle and courage. Background blurred slightly for depth, emphasizing Bruno sharply in detailed focus, vivid textures of rain and grass, emotional depth reminiscent of iconic sports movies, dramatic lighting, highly cinematic, emotional storytelling --ar 9:16 --profile v8yiqkx --stylize 750 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhqDugekPiaGSNiaLGFpNWfmjF5L7GNmia5dfchhd2d42QozAvgW1tMDcQA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg:prompt-0012",
+    "source_metadata": {
+      "article_index": 158,
+      "article_title": "Vol.172 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746057736,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0",
+    "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

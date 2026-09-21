@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShejsBsyMuPkFtTreEmicl5qm6SmHReofztF503frGquQqGHJxLIZRhWY03CRqFCgwPGn8vGV3FRkFg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MHcWZFNyoXNd5VSU9-f3e8b1b10fb3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "983cb1a3d6ae919bbf3055428d7e126b78dd4248c87a350c8e733c367e601255",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A jungle party and celebration. Different types of jungle plants and fun illustrations of animals. --ar 2:3 --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShejsBsyMuPkFtTreEmicl5qm6SmHReofztF503frGquQqGHJxLIZRhWY03CRqFCgwPGn8vGV3FRkFg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA:prompt-0013",
+    "source_metadata": {
+      "article_index": 117,
+      "article_title": "Vol.211 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749857457,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MHcWZFNyoXNd5VSU9egxIA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498067&idx=1&sn=a3f80f3e37e859ad65b41a0b50265266&chksm=963336b8f1b1b364def9e8ed744ed84fd6d8471210b51249426bf117a20b4778daf54bae9261#rd",
+    "title": "Vol.211 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498067&idx=1&sn=a3f80f3e37e859ad65b41a0b50265266&chksm=963336b8f1b1b364def9e8ed744ed84fd6d8471210b51249426bf117a20b4778daf54bae9261#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.211 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

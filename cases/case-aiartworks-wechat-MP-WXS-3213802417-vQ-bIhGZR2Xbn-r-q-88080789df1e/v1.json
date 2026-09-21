@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vhh7ne8JibfAC5DaeExo01rzUria79m4UEehlmgPmRvW0zxOVHiabRxEKQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-88080789df1e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e1cbe03f41589d7d6e9ff7cb072b869d559214f294d24935e34ee52557fcd893",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A photo of an orange cat with the text \"Who cares?\" written on it. The cat's face appears grumpy and sad. The background color is white. --ar 5:9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vhh7ne8JibfAC5DaeExo01rzUria79m4UEehlmgPmRvW0zxOVHiabRxEKQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg:prompt-0001",
+    "source_metadata": {
+      "article_index": 237,
+      "article_title": "Vol.107 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739413857,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493018&idx=1&sn=453d0a6bd2cb0420fed56a5c02f67a6b&scene=58&subscene=0",
+    "title": "Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493018&idx=1&sn=453d0a6bd2cb0420fed56a5c02f67a6b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

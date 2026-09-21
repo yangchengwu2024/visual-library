@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfJJldcteibibIMDebMqlBicH8dMJnZhKkgC3icYgzcXa3Ycr2wicDWslljdNiaA37vEHda7jhT28hxjw8w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yMTMX25QiaTiJB51m-84a55dd7cea8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2ca35de6c02cb56e2d0789a659b2ffe058897db9a4a29a414ddfa71457466ba0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "moz7t13",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Extremely high-altitude aerial view, almost from space, of ancient Egyptian pyramid construction in progress; vast desert landscape with partially built pyramids; tiny human figures and primitive scaffolding visible, illustrating the immense scale; massive stone blocks being maneuvered into place; long ramps extending from the pyramids; dust clouds rising from the activity; golden sunlight casting elongated shadows; cinematic realism, high detail --ar 9:16 --profile moz7t13 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfJJldcteibibIMDebMqlBicH8dMJnZhKkgC3icYgzcXa3Ycr2wicDWslljdNiaA37vEHda7jhT28hxjw8w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q:prompt-0005",
+    "source_metadata": {
+      "article_index": 150,
+      "article_title": "Vol.179 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746757814,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yMTMX25QiaTiJB51mEuC3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496696&idx=1&sn=f0b216ff203b97cd873f20f31023718b&chksm=96620faeb833eb4676efe3d222e726a3866e6b27ddba41f21fabd800529fddbb6de009d5f912#rd",
+    "title": "Vol.179 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496696&idx=1&sn=f0b216ff203b97cd873f20f31023718b&chksm=96620faeb833eb4676efe3d222e726a3866e6b27ddba41f21fabd800529fddbb6de009d5f912#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.179 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

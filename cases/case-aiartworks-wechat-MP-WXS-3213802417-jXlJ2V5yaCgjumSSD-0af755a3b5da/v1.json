@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:34+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzicCPgcfaFB2FgLkqC0rzPnlhX66giblFXPaZeEkibvlfZqDpRBmzmYTwA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-0af755a3b5da",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "beda4e0a2238e0be8b4623ae0b1d37c60d26912d383699c6905341d3afcb4a3a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Architekturfotografie von einem alten Tankstelle am Meer mit Palmen. Blaue Stunde mit Gegenlicht und Dunst. Das Neonschild der Tankstelle leuchtet dezent in rot. Fotografiert mit der digitalen Hasselblad im Stil einer Werbefotografie. Hohe Auflösung. Farben in den Tönen Gelb und zartem Blau. --ar 4:3 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzicCPgcfaFB2FgLkqC0rzPnlhX66giblFXPaZeEkibvlfZqDpRBmzmYTwA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw:prompt-0017",
+    "source_metadata": {
+      "article_index": 328,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.19",
+      "association_confidence": "high",
+      "createTime": 1730172637,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jXlJ2V5yaCgjumSSDp~cKw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486127&idx=1&sn=ff86883f4aadab35f5b44d56a23e2fc9&chksm=96e0f3a83309aaf6c2555ecb58f7bbc57f467f6996d74286a55be9381200eec74b4eb8c6a9f8#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.19 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486127&idx=1&sn=ff86883f4aadab35f5b44d56a23e2fc9&chksm=96e0f3a83309aaf6c2555ecb58f7bbc57f467f6996d74286a55be9381200eec74b4eb8c6a9f8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.19 · 提示词 18",
+  "version": "v1"
+}

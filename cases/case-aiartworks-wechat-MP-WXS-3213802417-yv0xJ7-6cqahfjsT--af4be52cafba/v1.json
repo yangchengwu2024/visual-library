@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxnTPpQGkQzicKiaW79Scnl5BJRLTdyKibEUtewYOmY87lvEOVwMtOc1RAw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxTP361mN38mGFeOA8RaCfnEFnelPoISCaD5jhnhpLzlkicGQfr0Qh9oA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--af4be52cafba",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0d17d905c20528953d2360403ddcb6465c15bcb509d2f6bef348815b57fb6da7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "1000"
+  },
+  "previous_version": null,
+  "prompt": "Niagara Falls,Real water is flowing.,A claymation-style, sculpted with rough fingerprints, hand-painted imperfections, and smudges. Set in a diorama of earthy textures and pastel backdrops, giving it a tangible, handmade feel. --ar 9:16 --stylize 1000",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxnTPpQGkQzicKiaW79Scnl5BJRLTdyKibEUtewYOmY87lvEOVwMtOc1RAw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxTP361mN38mGFeOA8RaCfnEFnelPoISCaD5jhnhpLzlkicGQfr0Qh9oA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA:prompt-0010",
+    "source_metadata": {
+      "article_index": 106,
+      "article_title": "Vol.223 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750894240,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 10,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yv0xJ7-6cqahfjsT~eN4mA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498669&idx=1&sn=d8a794fd5bca5b0b8cc6adf71b9c3d1b&scene=58&subscene=0",
+    "title": "Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498669&idx=1&sn=d8a794fd5bca5b0b8cc6adf71b9c3d1b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

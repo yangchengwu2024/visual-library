@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUS9ibuyg2t1xdbqjGM8yABnS3ibHQCJlmT7Thn22lpmERoichxaDe7dGrw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9GITwQoFD4373utno-6458133a2512",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8aa435eabf9b354a3fce765e7967f4a762aafd5ebaff779f3045591f236b5c2c",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Full-body 3D render of Hatsune Miku in her classic Project DIVA proportions. She is styled in an anime character design with realistic full-body proportions (not chibi). She wears shiny chrome holographic clothing, with pastel-toned skin. The figure is highly detailed with sharp, crisp reflections and vivid holographic effects. Lighting is soft and focused, enhancing the chrome surfaces without blurring edges. The background is a pure black void, emphasizing the sharp, glossy look of her outfit and elegant anime proportions. --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUS9ibuyg2t1xdbqjGM8yABnS3ibHQCJlmT7Thn22lpmERoichxaDe7dGrw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg:prompt-0005",
+    "source_metadata": {
+      "article_index": 159,
+      "article_title": "Vol.171 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745980255,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0",
+    "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

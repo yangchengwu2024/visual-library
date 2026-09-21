@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherBwWJjav3bcv3mGFicqyWtsWXAZJic0GYc1nj7ib9fYJeG2gc12cF7zic15ARbR3mShwvjdmgeCM3ibg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-EN60LA-iOMAJhTPuu-2c916d0825dd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "898a99e30779267f09abd1e9380c3956750f9296d5f7830b64d744bd25a13baf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "quality": "2",
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Magnificent green and gold cartoon style dragon with scales, wearing an imperial diadem, elongated body, majestic expression, purple background, scale texture, blender rendering, solid color background. Pixar style 3D rendering in Cinema 4D, clay animation character design, 20 million pixels. The overall composition is simple, the details are clear, the resolution is high, the three-dimensional sense is strong, and the unique statue series characteristics. High definition --chaos 10 --ar 9:16 --quality 2 --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSherBwWJjav3bcv3mGFicqyWtsWXAZJic0GYc1nj7ib9fYJeG2gc12cF7zic15ARbR3mShwvjdmgeCM3ibg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g:prompt-0002",
+    "source_metadata": {
+      "article_index": 236,
+      "article_title": "Vol.108 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1739500231,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_EN60LA-iOMAJhTPuuiRU5g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493068&idx=1&sn=a7342130eaea3dd29d6f3efd1699c30c&scene=58&subscene=0",
+    "title": "Vol.108 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493068&idx=1&sn=a7342130eaea3dd29d6f3efd1699c30c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.108 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

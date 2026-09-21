@@ -1,0 +1,78 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDQaQsyFppovu0kZsQsT1nBS2Ze3bEIrlDryOWuMHVNv3OVGJ73riako44wiaSw3FHwubTib3pQOShEGXzXUWjDicmEgzqvF6e0iaG8/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBh1a1yFZU7DPibGNKzCdIoGKvibGLQo9jPl1OAxYWPrZFOSMHrWibaWl21oyyhAvaduya1Iv9DWGogNdKjuDJuUJJFUQXCzzp6ibc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cHRLxsnxcPeR-iBwF-e6dfcb1eb948",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "665b5706732405b4d64ac96db5f90adf31a87aaeb4daf95c343cf7aae3aea8ed",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "73:128",
+    "hd": true,
+    "profile": "molroeh",
+    "raw": true,
+    "sref": [
+      "2721519038"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Logo, minimalist style shape, adorable cartoon characters of harlequins and jesters. solid pale background, simple design, high contrast, simple lines. Artfully designed and placed a logo of \"Yeye\". --ar 73:128 --raw --sref 2721519038 --profile molroeh --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDQaQsyFppovu0kZsQsT1nBS2Ze3bEIrlDryOWuMHVNv3OVGJ73riako44wiaSw3FHwubTib3pQOShEGXzXUWjDicmEgzqvF6e0iaG8/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBh1a1yFZU7DPibGNKzCdIoGKvibGLQo9jPl1OAxYWPrZFOSMHrWibaWl21oyyhAvaduya1Iv9DWGogNdKjuDJuUJJFUQXCzzp6ibc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0005",
+    "source_metadata": {
+      "article_index": 34,
+      "article_title": "Vol.298 - Midjourney V8.1 HD 特辑",
+      "association_confidence": "review",
+      "createTime": 1778196671,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd",
+    "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 6",
+  "version": "v1"
+}

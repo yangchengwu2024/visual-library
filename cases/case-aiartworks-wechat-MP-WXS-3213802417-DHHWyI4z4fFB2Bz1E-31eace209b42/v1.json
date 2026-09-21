@@ -1,0 +1,83 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwtjgURiaBhDHtdk0xg55G5SOrHH24zVhkib3MUoKuIdQptbhNE2NOhyOevo1NXD9bjt2QX060F9Wg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwtjgURiaBhDHtdk0xg55G5mqbs2pLAlMeanfyrNLUIQx0wg2WU4fMjW8cYSbibppgEAIqvSNFicR8Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwtjgURiaBhDHtdk0xg55G5KwD85W3fuAzwZ5QAxyJ0TYVibuiaSajonWc7ia1jh2ZaXEOmwIiaRneLDQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DHHWyI4z4fFB2Bz1E-31eace209b42",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "75a5dbc75a40f3e34d099f6d0947b77042e425a0ca8cedd43fcee63dbeb6fb59",
+  "model": "Midjourney",
+  "parameters": {
+    "chaos": "25",
+    "stylize": "350",
+    "weird": "1000"
+  },
+  "previous_version": null,
+  "prompt": "frontal camera shot of realistic 18th century young bandits face on black background --chaos 25 --stylize 350 --weird 1000",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwtjgURiaBhDHtdk0xg55G5SOrHH24zVhkib3MUoKuIdQptbhNE2NOhyOevo1NXD9bjt2QX060F9Wg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwtjgURiaBhDHtdk0xg55G5mqbs2pLAlMeanfyrNLUIQx0wg2WU4fMjW8cYSbibppgEAIqvSNFicR8Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcwtjgURiaBhDHtdk0xg55G5KwD85W3fuAzwZ5QAxyJ0TYVibuiaSajonWc7ia1jh2ZaXEOmwIiaRneLDQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw:prompt-0010",
+    "source_metadata": {
+      "article_index": 103,
+      "article_title": "Vol.226 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751412669,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 10,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DHHWyI4z4fFB2Bz1EB2ECw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498760&idx=1&sn=1756f4ba832b873943b97c132c2e17cf&chksm=96c568cc011683e956785fde60a0a1942dc1c3144a08f92870e3c64b7f20a16b8407169ef284#rd",
+    "title": "Vol.226 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498760&idx=1&sn=1756f4ba832b873943b97c132c2e17cf&chksm=96c568cc011683e956785fde60a0a1942dc1c3144a08f92870e3c64b7f20a16b8407169ef284#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.226 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

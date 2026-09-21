@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCQZj5V5YjFaoMEfzmKYbK7INvbsEtHkANoCsS9D4m8qmOOEYvEDyZSibeIIsT7qnU3twwosRPRJq4HDamBibdhoD1HQC54Xvhjg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCcrqcxtnEX54yHzaXrMTImqrILicktsIuwZltsI5UZ7HoUNia05gJZaexogwyy3BDsia0jLTz8vlhBjIc8LoZZPWuu2ldFdMykpY/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-349e7303f946",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a1c4a27bfb53da0bf886c6139ea338bd10f4cee15973f13bdb8a0201c57d4461",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "hd": true,
+    "preview": true,
+    "profile": "7k3qfl8",
+    "raw": true,
+    "sref": [
+      "1427697940"
+    ],
+    "stylize": "99",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A cat with an eyepatch working a desk job. in style of contemporary graphic design of a big prominent green wacky wordmark of the word \"CRUXY\" with the words , white and red and deep blue. simple pixel art illustration risograph, warm and cream color palette, 16-bit style, soft grain texture, warm analog mood --chaos 10 --ar 3:4 --raw --sref 1427697940 --profile 7k3qfl8 --stylize 99 --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCQZj5V5YjFaoMEfzmKYbK7INvbsEtHkANoCsS9D4m8qmOOEYvEDyZSibeIIsT7qnU3twwosRPRJq4HDamBibdhoD1HQC54Xvhjg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCcrqcxtnEX54yHzaXrMTImqrILicktsIuwZltsI5UZ7HoUNia05gJZaexogwyy3BDsia0jLTz8vlhBjIc8LoZZPWuu2ldFdMykpY/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q:prompt-0001",
+    "source_metadata": {
+      "article_index": 17,
+      "article_title": "Vol.315-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "high",
+      "createTime": 1783812654,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0NGbs4rkuoBDQkbUMi830Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0",
+    "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510208&idx=1&sn=94be1b43f5715f25a3d530cd37aea214&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 2",
+  "version": "v1"
+}

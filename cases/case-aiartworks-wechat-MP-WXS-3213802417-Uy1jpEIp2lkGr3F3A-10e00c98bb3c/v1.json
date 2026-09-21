@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ78cT07UTice5KRcXgBKcYT8xpe6UCibg9uNuFIyHpibYgnTtr6NJcr4r6Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Uy1jpEIp2lkGr3F3A-10e00c98bb3c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fadaddf9d681db5876a290dc9abbbf8c22cb81d9133ac8a404b8d674d8b3174c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "20",
+    "stylize": "200",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Bright saturated natural tones. World line drawing. Minimalist hand-drawn cityscape illustration. Front panorama. Line drawing of old white two-story building consisting of a single white brick. Square bricks with white delicate lattice windows and doors, antique tiles. On top of the building there are stylized vine plants with dense branches covering the bricks, embellished with painted leaves, the leaves are delicate and small, occupying 1/2 of the wall, you can see the shape and texture of the leaves, regularly and neatly arranged, with gradient transparent light green to bright green gradient. 2 pedestrians walking behind each other , appearing small as they pass through the doorway. The background is white. The overall feeling is neat, tidy, clean, healing, pleasant, exciting, masterpiece, artistic, with depth and texture. Sunlight, volumetric light. Excellent quality and fine details. --chaos 20 --ar 3:4 --stylize 200 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheibWYCgicarkj7dUNL8KaiaZ78cT07UTice5KRcXgBKcYT8xpe6UCibg9uNuFIyHpibYgnTtr6NJcr4r6Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA:prompt-0017",
+    "source_metadata": {
+      "article_index": 132,
+      "article_title": "Vol.196 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748568647,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0",
+    "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

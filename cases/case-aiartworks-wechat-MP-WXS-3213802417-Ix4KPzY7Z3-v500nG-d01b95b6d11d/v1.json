@@ -1,0 +1,80 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvukxNdu2K33iaMicxFgH5YzTRZztOYHfyJIgCBwZpkhIsLJlDFVXOVtrA/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvuTh6guTUQnlUb99wwJp9C7JViaLaAOexw0zxcUBkmIeAjEYmBrPHo2Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ix4KPzY7Z3-v500nG-d01b95b6d11d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c21a995c5cc846b250649d7db9ee76934b91ead05846f0a1239b88d234e1dde8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "personalize": "ixymx9k",
+    "sref": [
+      "787446871"
+    ],
+    "style": "raw",
+    "stylize": "500",
+    "sw": "50",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": ": 1) Consciousness-responsive digital mural in hi-tech metro station 2) Swirling colors and shapes morphing based on viewers' brainwaves 3) Collective consciousness visualization, blending multiple minds' input 4) Neural network patterns forming and dissolving across the wall 5) Dreamlike, constantly evolving atmosphere 6) Dynamic shot capturing the mural's response to a diverse crowd --chaos 10 --ar 3:4 --style raw --sref 787446871 --personalize ixymx9k --sw 50 --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvukxNdu2K33iaMicxFgH5YzTRZztOYHfyJIgCBwZpkhIsLJlDFVXOVtrA/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvuTh6guTUQnlUb99wwJp9C7JViaLaAOexw0zxcUBkmIeAjEYmBrPHo2Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg:prompt-0000",
+    "source_metadata": {
+      "article_index": 337,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.11",
+      "association_confidence": "review",
+      "createTime": 1729413891,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485467&idx=1&sn=0490720b3d3f5aaed4c93236abd82735&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.11 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485467&idx=1&sn=0490720b3d3f5aaed4c93236abd82735&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.11 · 提示词 1",
+  "version": "v1"
+}

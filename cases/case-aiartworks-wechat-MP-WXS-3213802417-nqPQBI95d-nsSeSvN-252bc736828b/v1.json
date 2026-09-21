@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhVeeBhUMPicFBWtlwBr6U1ooPQwZ6MrAG5EAV4a6DrWPl8zFbYAAggHQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqPQBI95d-nsSeSvN-252bc736828b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f9647ec257af00bd098447142e61810d9cf5cc8afe46da732aed389bc3ca401f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "k97gicd"
+  },
+  "previous_version": null,
+  "prompt": "ultra-realistic cinematic photo of a futuristic starship drifting in space, captured close-up on one of its thick-rimmed reinforced observation windows. Through the glass, the interior of a cluttered control and engineering room is visible a compact personal lab rather than a grand command center. Inside, a single engineer in a matte-silver exosuit sits among shelves crammed with circuit boards, glowing gadgets, and tangled fiber-optic cables. Dozens of translucent holographic displays hover around them, overlapping with layers of data streams and schematics. Bright desk lamps and glowing panels illuminate the chaos, casting reflections across metallic surfaces and haze inside the room. Scattered energy drink cans, retro sci-fi posters, and personal trinkets give the space a lived-in hacker’s den vibe. Outside the window, faint starlight and the silent curves of the starship’s hull frame the view, emphasizing the contrast between the cold vacuum of space and the intimate, obsessive interior world glimpsed through this single glowing portal. --ar 3:4 --profile k97gicd vwmaaag",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhVeeBhUMPicFBWtlwBr6U1ooPQwZ6MrAG5EAV4a6DrWPl8zFbYAAggHQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q:prompt-0007",
+    "source_metadata": {
+      "article_index": 75,
+      "article_title": "Vol.256 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1757460651,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd",
+    "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

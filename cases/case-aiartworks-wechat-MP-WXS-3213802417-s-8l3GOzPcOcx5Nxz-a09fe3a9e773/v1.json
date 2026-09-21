@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vn6Bs8dpwL9Lvoa61syELQmCWsCEr1w9Ko2yqHlf3CVficKAiaoXM1Fgg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-s-8l3GOzPcOcx5Nxz-a09fe3a9e773",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7d2634de90139539e955479d02efe8dfc3d7cc29794bf847e6384c624581a327",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ogbuyzo",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/xbo_EG9Irs4 A transitional frame capturing the moment between a dissolving futuristic city and the emergence of a giant geometric panda sculpture. The scene features floating fragments of glass-like building structures suspended in mid-air, reflecting scattered neon lights. The road has disintegrated into glowing geometric shapes, some with faint neon colors, others dark and matte. In the center of the frame, swirling threads of light converge, forming an abstract outline of the panda's head. The background is an otherworldly dark void, with ripples of light subtly undulating to give a sense of depth and motion. The atmosphere is surreal and immersive, combining elements of a fragmented cityscape and a new form materializing. --ar 9:16 --profile ogbuyzo --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzapLIcQose7ofe8OvpH5vn6Bs8dpwL9Lvoa61syELQmCWsCEr1w9Ko2yqHlf3CVficKAiaoXM1Fgg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw:prompt-0010",
+    "source_metadata": {
+      "article_index": 272,
+      "article_title": "Vol.70 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1735266618,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~s-8l3GOzPcOcx5NxzQMsw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd",
+    "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490460&idx=1&sn=d99ef3fe360d46214877201e40b0979b&chksm=96ed8116a57fd3d2200ffabd34ba2ab142c76ff7488c0ba1c13529f3a838060a70ad3fe867ef#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.70 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

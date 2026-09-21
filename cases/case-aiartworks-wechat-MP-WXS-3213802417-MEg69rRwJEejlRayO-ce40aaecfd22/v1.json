@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:07+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwjSvExnBhibRZuaKHdzhojvj8JpKiaHYT4U5eUicuHIUicXkSxwEddAjaxLQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MEg69rRwJEejlRayO-ce40aaecfd22",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "23764f3257d4dadd4e217cd66b6fe056dbc18607829739fb19ba3d9fa4e04f3f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true,
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "Create a visually stunning portrait of a transparent young Saudi teacher with elevated aesthetics. The right half of his body should be exquisitely crafted from intricate Arabic calligraphy, showcasing the beauty and complexity of the language. The left half should display a sophisticated double exposure effect, capturing poignant moments of teaching and his dedication as an educator. He is dressed in elegant traditional Saudi attire, featuring a white thobe and a red and white shemagh. The composition should be a masterful blend of culture, education, and artistry, emphasizing a high level of visual appeal and meaningfulness. --ar 9:16 --raw --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcicEL9VulZpFMqzsXEqnMwjSvExnBhibRZuaKHdzhojvj8JpKiaHYT4U5eUicuHIUicXkSxwEddAjaxLQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg:prompt-0019",
+    "source_metadata": {
+      "article_index": 168,
+      "article_title": "Vol.163 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745202015,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MEg69rRwJEejlRayOI6wQg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496056&idx=1&sn=6abd6f79712400ead67d2fd121b9d6a1&chksm=96178faf18f416252a154bc99acb341bee7f17c4e87ef49c40888c5f53c38baffc360021d778#rd",
+    "title": "Vol.163 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496056&idx=1&sn=6abd6f79712400ead67d2fd121b9d6a1&chksm=96178faf18f416252a154bc99acb341bee7f17c4e87ef49c40888c5f53c38baffc360021d778#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.163 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

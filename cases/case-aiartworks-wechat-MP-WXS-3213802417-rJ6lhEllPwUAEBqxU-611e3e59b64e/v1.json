@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:37+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd34xmh26xNRK1UxgfRJZ3QnVM7ia1Zm19lpWNZ8oLO92v4ZS6qh01TSSE5Yy166lvej9TkX3jpcicQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rJ6lhEllPwUAEBqxUvVtLQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rJ6lhEllPwUAEBqxU-611e3e59b64e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c6692cda0aead8fe894ea78e47d145da37eb7426801ef64796008b8b393a1d8c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Design concept sheet for fashion brand \"246 Interaction with Embroidery\", incorporating a model wearing a Sweatshirt with frill details, black and brown color scheme, over size, lace details, capturing intricate details in the digital rendering. front and back angle display, It includes full body shots of models showcasing different styles of outfits in the style of korea style. Emphasize the use of embroidery to enhance designs. --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd34xmh26xNRK1UxgfRJZ3QnVM7ia1Zm19lpWNZ8oLO92v4ZS6qh01TSSE5Yy166lvej9TkX3jpcicQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rJ6lhEllPwUAEBqxUvVtLQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rJ6lhEllPwUAEBqxUvVtLQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 346,
+      "article_title": "Midjourney | 官方精选作品及提示 - Vol.01",
+      "association_confidence": "high",
+      "createTime": 1728283445,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rJ6lhEllPwUAEBqxUvVtLQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484511&idx=1&sn=9910227ff39efcfb4c7d95ba614cf71f&chksm=966658f13250b5574fdead67f08e22658f8d4de8e6e0248305c29b8a40c8ecc3cff543086188#rd",
+    "title": "Midjourney | 官方精选作品及提示 - Vol.01 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484511&idx=1&sn=9910227ff39efcfb4c7d95ba614cf71f&chksm=966658f13250b5574fdead67f08e22658f8d4de8e6e0248305c29b8a40c8ecc3cff543086188#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 官方精选作品及提示 - Vol.01 · 提示词 10",
+  "version": "v1"
+}

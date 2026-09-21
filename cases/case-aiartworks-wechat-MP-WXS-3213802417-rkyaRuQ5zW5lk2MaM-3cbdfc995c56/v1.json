@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:50+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBmLF0fUFnlZDaicBvoaO8pIHAG5dGYiaH5FPcmFw8Zw7vT1NgGUZYuricA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rkyaRuQ5zW5lk2MaM-3cbdfc995c56",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9550be2848dfc4de715b52dd9d0699bb0d678ab4bf93c4d0b75d740ca4b7baba",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3"
+  },
+  "previous_version": null,
+  "prompt": "Character Art, Giant, Blue Skin, Blue Eyes, White Beard, Light Blue Skin, Viking Armor, White Furs, Brown Pants, Blizzard, Tundra Background, Stern Expression, Holding a Greataxe made of Ice. Scene is Brightly Illuminated, Balanced Exposure, High Contrast, No Dark Underexposed Areas, Full Body Portrait. --ar 2:3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShddCvo5uCSibHROCGjNvPERBmLF0fUFnlZDaicBvoaO8pIHAG5dGYiaH5FPcmFw8Zw7vT1NgGUZYuricA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q:prompt-0014",
+    "source_metadata": {
+      "article_index": 68,
+      "article_title": "Vol.263 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1758848961,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rkyaRuQ5zW5lk2MaMX9U4Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500477&idx=1&sn=8b84412e2502f9d65d4c775faa295270&chksm=962487a17484810da408fb6d672ce996d9c4c8cf83dd1304f9f296b70ecb72b6c0fa3d562621#rd",
+    "title": "Vol.263 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500477&idx=1&sn=8b84412e2502f9d65d4c775faa295270&chksm=962487a17484810da408fb6d672ce996d9c4c8cf83dd1304f9f296b70ecb72b6c0fa3d562621#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.263 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

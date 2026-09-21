@@ -1,0 +1,61 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8nhVU4AbWPFkYjdlP-3ac39485813f",
+  "fingerprint": "edfb1710d4a0ea70cdb93c4e375e886157e217a3fc566b07c84b8493b150cac9",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "hd": true,
+    "profile": "brqw24b",
+    "stylize": "250",
+    "v": "8.1"
+  },
+  "prompt": "soft pastel illustration of a cute sleeping baby curled up, minimalist line art style, blush pink and cream color palette, delicate watercolor texture, white background, simple and elegant, no text, centered composition, logo style --chaos 10 --ar 2:3 --profile brqw24b ipy2s7q 33pe3ra --stylize 250 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8nhVU4AbWPFkYjdlP6YuWg:prompt-0014",
+    "source_metadata": {
+      "article_index": 16,
+      "article_title": "Vol.316-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1784331067,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8nhVU4AbWPFkYjdlP6YuWg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510234&idx=1&sn=06a1738de3194d5f8bc4e73f41d3da26&chksm=96e35e9bbccece5a63c4afe9329d51e40c7b7f81718af1284ef9ded4d4c5d83e463a4ddb39bf#rd",
+    "title": "Vol.316-Midjourney 精选作品提示词与赏析 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510234&idx=1&sn=06a1738de3194d5f8bc4e73f41d3da26&chksm=96e35e9bbccece5a63c4afe9329d51e40c7b7f81718af1284ef9ded4d4c5d83e463a4ddb39bf#rd"
+  },
+  "source_id": "MP_WXS_3213802417_8nhVU4AbWPFkYjdlP6YuWg:prompt-0014",
+  "status": "pending",
+  "title": "Vol.316-Midjourney 精选作品提示词与赏析 · 提示词 15"
+}

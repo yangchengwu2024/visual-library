@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-afZEOp-KDimsggVn4-28153a5d72f9",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYcnczeTBibI7SUWd5SjFCaGmkOkoLhmyc9iaVDzsJ1iaHKD0r6T3NicUY2w/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1pLSXIr6zVtKNGuxjWyQYPzR7IK7U0IwtViagCYO679ZTTV2yjsTWQIqofudsQH1GS7sI2ibwsYsA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ:prompt-0013",
+      "source_metadata": {
+        "article_index": 67,
+        "article_title": "Vol.264 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1759102216,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 13,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_afZEOp~KDimsggVn4zqqwQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd",
+      "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 14",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500515&idx=1&sn=66e6a03379975f32e061f167f45f57f0&chksm=9601d81d7731592b9bf751217f7c45bd4970d46ae6c6cf457196ae2f3e60785415b5ad031f00#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "title_aliases": [
+    "Vol.264 - Midjourney | 精选作品关键词提示 · 提示词 14"
+  ]
+}

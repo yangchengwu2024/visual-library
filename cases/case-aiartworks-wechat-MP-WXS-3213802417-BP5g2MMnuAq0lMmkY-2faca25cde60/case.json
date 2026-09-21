@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BP5g2MMnuAq0lMmkY-2faca25cde60",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcX6PIqiaEa7D66OMrGdJeGgzBHZTHcML80qRjXfumIgmHGpF2FDgSeZsrLCFBJNqklrojOibYq2eiaQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw:prompt-0018",
+      "source_metadata": {
+        "article_index": 135,
+        "article_title": "Vol.193 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1748311396,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 18,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_BP5g2MMnuAq0lMmkYUh2yw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497283&idx=1&sn=82c9f0dcd7ee18682310b4504163da9a&chksm=96479c169670eb1176d19881a79fdb1012f03376f75a0780e51b6ef1e02eed21437c5c4c3463#rd",
+      "title": "Vol.193 - Midjourney | 精选作品关键词提示 · 提示词 19",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497283&idx=1&sn=82c9f0dcd7ee18682310b4504163da9a&chksm=96479c169670eb1176d19881a79fdb1012f03376f75a0780e51b6ef1e02eed21437c5c4c3463#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.193 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "title_aliases": [
+    "Vol.193 - Midjourney | 精选作品关键词提示 · 提示词 19"
+  ]
+}

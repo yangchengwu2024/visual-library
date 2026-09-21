@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:56+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfOvL6rc6g3aEIclZ6swxhTB65pnViaI4xpudT1gT4xVwuwRCACMELw37KmGZMNAOcFib84zOrDdEGg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfKumIOlXGR8PGRHEaGA1Z4fIicyAI2lXALbb5NCKORy5fIDfiaX1XjItGvU7emHcFNa8t6wtcUJibJQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YqKSikQ7abyi67YL9-ffc3a61dfd6f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "956aef1c6a84c240e9bd85f53c11c86a928de9a8b8091320583873c29eaeb2a3",
+  "model": "Midjourney",
+  "parameters": {
+    "quality": "2",
+    "stylize": "750"
+  },
+  "previous_version": null,
+  "prompt": "A photograph of a glowing spectral fist emerging from swirling dark smoke. The fist is translucent, radiating a soft blue light and displaying faint, intricate patterns resembling ancient runes. Wisps of smoke curl around the \"PHANTOM _FIST\", partially obscuring the background of a desolate, rocky landscape under a stormy, moonlit sky. The overall atmosphere evokes a sense of mystery and supernatural power. --quality 2 --stylize 750",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfOvL6rc6g3aEIclZ6swxhTB65pnViaI4xpudT1gT4xVwuwRCACMELw37KmGZMNAOcFib84zOrDdEGg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfKumIOlXGR8PGRHEaGA1Z4fIicyAI2lXALbb5NCKORy5fIDfiaX1XjItGvU7emHcFNa8t6wtcUJibJQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg:prompt-0010",
+    "source_metadata": {
+      "article_index": 100,
+      "article_title": "Vol.229 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1752019384,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 10,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YqKSikQ7abyi67YL9sXMhg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0",
+    "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498886&idx=1&sn=a29c3ad2de809099b9ed958017c4261d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.229 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

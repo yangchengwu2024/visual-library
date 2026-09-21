@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5Tw3vvyj4iaWZ5tsmvztcphVxMDdwoz2lFD1evekjshEEicfHxqPhO6SZgQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2XIb5gw8FW2Gr9V-x-c63af74310cb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "79ecb9b68ac10e1901886381f6390c497a17eeebcf88213f4319509e727375de",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:7",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a white space laboratory, a cyberwoman with long pink hair sits on an armchair in a white suit and headphones, pink wires are connected to her, a large capsule with pink bubbling liquid behind her back, hyperrealism, high detail, 3d render --ar 4:7 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5Tw3vvyj4iaWZ5tsmvztcphVxMDdwoz2lFD1evekjshEEicfHxqPhO6SZgQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A:prompt-0001",
+    "source_metadata": {
+      "article_index": 240,
+      "article_title": "Vol.104 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739154648,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2XIb5gw8FW2Gr9V-xAkw9A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd",
+    "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492823&idx=1&sn=05ee9636cd05e2d233690f4df417b4c1&chksm=961171b379ae960d255f080bbd6506a2a32a61a8d135e7664d832a426e0878a25be83e6aeeea#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.104 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

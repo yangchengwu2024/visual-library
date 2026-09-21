@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:40:21+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf834icUPrGLbZMWRfB6Q30LmEE5JMyf3dMucU9icoUJwlrOUiaB61VOGBk4kM4iaLRgWVxdHDicGVhicdg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf834icUPrGLbZMWRfB6Q30LIMgialhmQvESPwlB9baEoQ7xIicltfSMkSp1cgH5oicpvcbWvOIeyzoOQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gob9RTLv7drXsy3Nh-f0749a9e968c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b3db42d615cbd84727ad239dac203bf4a8c090d708e2d0618bd6e278acb9c72e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "sref": [
+      "https://s.mj.run/lOPPJZ6KgMc",
+      "https://s.mj.run/5jqf-9C-wrQ",
+      "https://s.mj.run/eFlQExcqSAg",
+      "https://s.mj.run/NbBq06ZkEZ0"
+    ],
+    "style": "raw",
+    "stylize": "50",
+    "sw": "60",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "hyperrealistic hyperdetailed surreal 32k avant-garde modern minimalist,creative and luxurious wide view vogue editorial of a model dressed in avant-garde modern saint laurent suit and leather gloves and dramatically posing with a horse in the middle of a clean minimalist studio background. luxury modern avant-garde brand editorial,soft warm sunkissed tones,stunning modern avant-garde and minimalist brand visuals.modern avant-garde art direction,minimalism,different perspectives,earth tones,creative saint laurent editorial,hyperrealistic hyperdetailed skin texture and facial features,a model with unconventional beauty,motion in blurr,high cheekbones,croocked nose,wide-set eyes, asymmetrical features, sharp jawline,avant-garde gold minimalist jewelry,models from different ethnicities,avant-garde dynamic photography,different close-ups,high resolution,mert&marcus, fine details,dazed and confused magazine,iconic imagery,midaction,32k,dslr,uhd,Photograph by Nick Knight --ar 3:4 --style raw --sref https://s.mj.run/lOPPJZ6KgMc https://s.mj.run/5jqf-9C-wrQ https://s.mj.run/eFlQExcqSAg https://s.mj.run/NbBq06ZkEZ0 --sw 60 --stylize 50 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf834icUPrGLbZMWRfB6Q30LmEE5JMyf3dMucU9icoUJwlrOUiaB61VOGBk4kM4iaLRgWVxdHDicGVhicdg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf834icUPrGLbZMWRfB6Q30LIMgialhmQvESPwlB9baEoQ7xIicltfSMkSp1cgH5oicpvcbWvOIeyzoOQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0015",
+    "source_metadata": {
+      "article_index": 255,
+      "article_title": "Vol.86 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1736908245,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd",
+    "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:16+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8eRl6QgJgfRAV6EZOaT2cXzbzll6uFeZIQOAaQRuGu2TpfWDo2x8xRw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_pEtOAcKP3UlPSyC6t-XMcQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-pEtOAcKP3UlPSyC6t-2e038465e0e8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e7286f0dd487a23209164ffd95dc5de320df02963b2a22ad45610f098b8f1924",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "sref": [
+      "https://s.mj.run/uYXpkhFh7fE",
+      "https://s.mj.run/RPQ39F1FPGg"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A close-up of a character's eyes in the darkness, with only one light source illuminating from above. The head is composed of two large eyes, which have white skin and white spots on the cheeks, giving it a unique characteristic. Her eyes are mysterious, making people feel a little scared when looking at them. All of these are high-resolution --ar 16:9 --sref https://s.mj.run/uYXpkhFh7fE https://s.mj.run/RPQ39F1FPGg --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfXiar1x3SpKHibiau9iaxcXAC8eRl6QgJgfRAV6EZOaT2cXzbzll6uFeZIQOAaQRuGu2TpfWDo2x8xRw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_pEtOAcKP3UlPSyC6t-XMcQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_pEtOAcKP3UlPSyC6t-XMcQ:prompt-0019",
+    "source_metadata": {
+      "article_index": 222,
+      "article_title": "Vol.120 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1740709867,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_pEtOAcKP3UlPSyC6t-XMcQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493851&idx=1&sn=bd883f6f19ad378c99a20efa8f94528c&scene=58&subscene=0",
+    "title": "Vol.120 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493851&idx=1&sn=bd883f6f19ad378c99a20efa8f94528c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.120 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

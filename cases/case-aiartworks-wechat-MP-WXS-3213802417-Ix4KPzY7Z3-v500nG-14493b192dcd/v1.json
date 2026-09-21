@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvDQQIrKttstBZKfu8LwRARD5wYsvJPPTBp8e9dVLm1kjJicrPQHlLl1w/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ix4KPzY7Z3-v500nG-14493b192dcd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4f375be5b8a5d19cb5322a36caeb8902ede64d8d79c0cf34377337dda3cac9b8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Create a 1960’s style sci-fi poster with beautiful high fashion women in the style of Helmut Newton rich orange colours --ar 2:3 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvDQQIrKttstBZKfu8LwRARD5wYsvJPPTBp8e9dVLm1kjJicrPQHlLl1w/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg:prompt-0002",
+    "source_metadata": {
+      "article_index": 337,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.11",
+      "association_confidence": "high",
+      "createTime": 1729413891,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ix4KPzY7Z3~v500nGzfSzg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485467&idx=1&sn=0490720b3d3f5aaed4c93236abd82735&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.11 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485467&idx=1&sn=0490720b3d3f5aaed4c93236abd82735&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.11 · 提示词 3",
+  "version": "v1"
+}

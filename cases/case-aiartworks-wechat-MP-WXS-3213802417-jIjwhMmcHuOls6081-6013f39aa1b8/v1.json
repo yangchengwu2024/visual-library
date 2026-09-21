@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:46+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShebuvic2RdwlG1snPMttaBVgApqFNXbD3xJAmaXdhczEJTqUriaAhZgyckU648L8gHicCic7TxiaGPT6qQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShebuvic2RdwlG1snPMttaBVg8riaWgNq0k2VVXzrvxL8fFbRYPkq1O0CKyuZtsO65UUlIAoIU19m1fg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc9tshF8QOJPIL81dw8iaiccHvD03ruLZbQu0eQZvpNiatjcOw5ZCcGBaEj0sCl65wzzuShCzzYVPucg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jIjwhMmcHuOls6081-6013f39aa1b8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e7f09ab693aac20fead3bcf9a8d7f4a81880f9f87da966da79f63a05f5bf2017",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "A viscous mutant blob slowly absorbs a man-- rendered as a hybrid of surrealism and retro-futurism, painted with the brushwork of Bob Ross and the surreal geometry of Escher. --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShebuvic2RdwlG1snPMttaBVgApqFNXbD3xJAmaXdhczEJTqUriaAhZgyckU648L8gHicCic7TxiaGPT6qQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShebuvic2RdwlG1snPMttaBVg8riaWgNq0k2VVXzrvxL8fFbRYPkq1O0CKyuZtsO65UUlIAoIU19m1fg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc9tshF8QOJPIL81dw8iaiccHvD03ruLZbQu0eQZvpNiatjcOw5ZCcGBaEj0sCl65wzzuShCzzYVPucg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw:prompt-0012",
+    "source_metadata": {
+      "article_index": 51,
+      "article_title": "Vol.281 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1762471852,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 12,
+      "review_url_count": 3,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jIjwhMmcHuOls6081WMZfw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502756&idx=1&sn=8bd6fbcb084ccedd28c1f56fce5e313f&scene=58&subscene=0",
+    "title": "Vol.281 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502756&idx=1&sn=8bd6fbcb084ccedd28c1f56fce5e313f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.281 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

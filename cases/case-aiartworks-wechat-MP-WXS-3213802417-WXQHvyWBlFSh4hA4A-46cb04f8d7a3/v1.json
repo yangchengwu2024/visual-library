@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:17+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdftwmG4D9Yk3fR5IFzpvC6K2Zvzkvjqc45bWZb6ETv8JH1kVpKNLZb9awpclaYGSJ1S7ovW0ROcw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WXQHvyWBlFSh4hA4A-46cb04f8d7a3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9ac0d84a6dda5dc5429736882047c4ceb2be86118f0b63dbc057bb31c13a3fc8",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "\"Create a whimsical collection of gummy bear-inspired objects in the shape of ballet pointe shoes, ballet tutu shoes, ballet skirt, a plant, a vintage car, and a love heart icon. Each item should have the shiny, translucent, and glossy texture of gummy candy, resembling Haribo gummy bears. The colors should be vibrant and bright like red, yellow, green, and orange, similar to the classic gummy candy colors. The ballet shoes and tutu should have soft, glossy ribbons and the plant should feature gummy-like, rounded leaves in various bright colors. The vintage car should have smooth, rounded edges and a shiny gummy texture, and the love icon should be a bright, glossy heart. Each object should be distinct and not overlap, arranged in a fun and playful way with a cheerful, candy-like aesthetic. The scene should evoke a sense of joy and whimsy, with a focus on the vibrant, gummy bear-inspired texture and colors. --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdftwmG4D9Yk3fR5IFzpvC6K2Zvzkvjqc45bWZb6ETv8JH1kVpKNLZb9awpclaYGSJ1S7ovW0ROcw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 230,
+      "article_title": "Vol.113 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1740018644,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 16,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WXQHvyWBlFSh4hA4ABOtwQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493394&idx=1&sn=b85ffbca9aee275e50f1f219daa1c123&scene=58&subscene=0",
+    "title": "Vol.113 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493394&idx=1&sn=b85ffbca9aee275e50f1f219daa1c123&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.113 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

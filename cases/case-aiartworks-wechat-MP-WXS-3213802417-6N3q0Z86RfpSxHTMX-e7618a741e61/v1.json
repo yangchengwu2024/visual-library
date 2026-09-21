@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:27+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybECYiakicEryS6u5wMBGcnic4iaiaofaKSDCianqxHK0yFwywobMyJeRGGWcA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6N3q0Z86RfpSxHTMX-e7618a741e61",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2f06010718449791fd3d283736d9b7d3157dc0607ad987d2eda35d9a510b2dc4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Event poster, Simplicity, The top half is blank, Youth culture, Container construction, Night crowds, Color jumps, Energetic, 8k --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShceK51YmYIZgE9GDTJ77OybECYiakicEryS6u5wMBGcnic4iaiaofaKSDCianqxHK0yFwywobMyJeRGGWcA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 287,
+      "article_title": "Vol.57 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1733970611,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6N3q0Z86RfpSxHTMX8ivHQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0",
+    "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489157&idx=1&sn=f8bfa7a715b4cffdd6dfc950be0387e6&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.57 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

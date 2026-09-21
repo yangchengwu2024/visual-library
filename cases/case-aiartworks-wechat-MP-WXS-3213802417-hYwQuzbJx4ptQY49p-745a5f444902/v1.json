@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUh5GfnxiaWCbsjq753NEnfibUSk6vASrxyge98iaL7ib2NvxzC8pJiagmz7Cw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-hYwQuzbJx4ptQY49p-745a5f444902",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "565b66caf6a8448d56712111ee2066bdef66b099fdabf6addeb40a833fbc0062",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "no": [
+      "watercolor,",
+      "paint",
+      "strokes,",
+      "canvas",
+      "texture,",
+      "grit,",
+      "grunge,",
+      "muted",
+      "colors,",
+      "faded"
+    ],
+    "raw": true,
+    "stylize": "1000",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Sharp focus polished digital illustration, stylized realism character design, ultra-smooth digital rendering, clean CG look. Subject: A cool anthropomorphic chimpanzee with expressive, intelligent eyes and hyper-detailed, clearly rendered dark fur texture. Action/Pose: Standing confidently on a city street, looking coolly towards the viewer. Setting: On a clean, sharply rendered New York City street, with iconic skyscrapers visible in the background, rendered with clear lines but slightly depth-blurred to keep focus on the character. The street and buildings should have a clean, almost CG look, avoiding gritty realism or painterly styles. Composition: Full body portrait, vertical orientation. Lighting: Bright yet soft urban daylight, creating clear forms and crisp details on the character and clothing, maintaining vivid color definition, avoiding washed-out tones. Atmosphere: Cool, confident, urban, stylish, playful. Color Palette: Natural chimp fur tones rendered with depth and clarity, contrasted with vibrant, clean streetwear colors (e.g., crisp denim blue, bright hoodie color, distinct baseball cap colors). Cityscape colors (greys, blues, browns) should be clear and defined, not muted or faded. Details: Wearing trendy, clean urban streetwear: a stylish baseball cap worn forwards or backwards with clear logo/details, a crisp hoodie or a sleek jacket, perhaps detailed jeans or cargo pants. Hyper-detailed fur rendering, expressive clear eyes. The street surface rendered cleanly, maybe with sharp, subtle reflections. Flawless, extremely smooth rendering style, almost plastic-like perfection on surfaces. Ultra-detailed, crisp rendering throughout. --no watercolor, paint strokes, canvas texture, grit, grunge, muted colors, faded --ar 2:3 --raw --stylize 1000 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUh5GfnxiaWCbsjq753NEnfibUSk6vASrxyge98iaL7ib2NvxzC8pJiagmz7Cw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ:prompt-0012",
+    "source_metadata": {
+      "article_index": 157,
+      "article_title": "Vol.173 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746151214,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_hYwQuzbJx4ptQY49pq~TqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0",
+    "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496424&idx=1&sn=55763fc39007d4a048139306c10c5aaf&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.173 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

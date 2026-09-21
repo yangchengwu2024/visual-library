@@ -1,0 +1,81 @@
+{
+  "archived_at": "2026-09-21T11:39:49+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOYGG1PP97LWsHgUJciayw71wiaP03woOZq5hzT4gntcQum8iciahQdvqKMI5hCyJtdXvwfvVpSRBmLg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WgyidFvuN-wghIFKz-2e701f3bb87d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1a63539e416de7e0a0809180d7c09ed274f8f3c353e1e419a7bef5ca30aabc01",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "17:26",
+    "chaos": "10",
+    "no": [
+      "text,",
+      "no",
+      "numbers,",
+      "no",
+      "logos,",
+      "no",
+      "devices,",
+      "no",
+      "tools,",
+      "no",
+      "insects,",
+      "no",
+      "jellyfish,",
+      "no",
+      "hands"
+    ],
+    "raw": true,
+    "weird": "240"
+  },
+  "previous_version": null,
+  "prompt": "flatbed scan style of biomorphic resin specimen for weight · bold, single specimen with bold shell walls, delicate edge shadow, laid directly on scanner glass, dust, hairline scratches, ruler ticks, gray calibration strip, taped label \"SPECIMEN\" (illegible), uneven apertures, clamp mark visible, hard top light flattening, subtle moiré, white border with scan edge shadow, archival tone --no text, no numbers, no logos, no devices, no tools, no insects, no jellyfish, no hands --chaos 10 --ar 17:26 --raw --weird 240",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdOYGG1PP97LWsHgUJciayw71wiaP03woOZq5hzT4gntcQum8iciahQdvqKMI5hCyJtdXvwfvVpSRBmLg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA:prompt-0006",
+    "source_metadata": {
+      "article_index": 64,
+      "article_title": "Vol.267 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1759707019,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WgyidFvuN-wghIFKzucmtA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500647&idx=1&sn=c638d3fece9412167af065227814bba5&scene=58&subscene=0",
+    "title": "Vol.267 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500647&idx=1&sn=c638d3fece9412167af065227814bba5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.267 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

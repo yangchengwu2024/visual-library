@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:01+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OhJcajsPBfzpQWSShsIvmhnTBNNUmTNzpnWr74E5bsrsAu57ibibbpgGw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-XrJXIk9OaYRAN6rHJ-45e70953c4b3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f06aa06f1337a1bd6bf7f103db1abf9f68c36c62c57df9ec2cbbc7c87e638a52",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "no": [
+      "lowres,",
+      "artifacts,",
+      "watermark,",
+      "blurry"
+    ],
+    "profile": "f8nu96v",
+    "quality": "2",
+    "tile": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A delicate embroidery-style pattern depicting white lotus flowers and green leaves with a water-ink wash effect on a soft pink background (converted from white). The flowing and organic shapes of the lotus elements, along with the subtle cloud-like patterns, create a tranquil and elegant scene, embodying the essence of traditional Chinese embroidery art. best quality, high detail --no lowres, artifacts, watermark, blurry --ar 2:3 --quality 2 --tile --profile f8nu96v --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShficEJyriaEu0rM6E0evoas8OhJcajsPBfzpQWSShsIvmhnTBNNUmTNzpnWr74E5bsrsAu57ibibbpgGw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w:prompt-0007",
+    "source_metadata": {
+      "article_index": 134,
+      "article_title": "Vol.194 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748394094,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_XrJXIk9OaYRAN6rHJ2Tt5w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd",
+    "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497320&idx=1&sn=4a2852f923a0acd22d2c1eda03ec635d&chksm=965c12de161540b6c59b1d12c3255beea2e46401db2d5c935d5ea18f505360ee90103c6dc202#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.194 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

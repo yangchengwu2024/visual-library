@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfE117FhE73rZ7KJICGXqLqkhlM44s29jVN2dtdMJTSIHZmYnztC5d04ibASOfCxrpotCKxTibXnwCQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_QgMJFgehzK5pExd9NN0AWA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-QgMJFgehzK5pExd9N-f77796cdfdd9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a8453a8eb3bfd3a06dfd067e740b9db70d84bc6c5e514138fa5eb769fcdfbda4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "linocut print, amatorculist, vibrant colors, dream, detailed linocut print style. The illustration is done in the style of Elizabeth Catlett blended with Keith Harring. It features bold lines, a strong use of color palette, and is full of charm and character; dream. --ar 3:4 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfE117FhE73rZ7KJICGXqLqkhlM44s29jVN2dtdMJTSIHZmYnztC5d04ibASOfCxrpotCKxTibXnwCQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_QgMJFgehzK5pExd9NN0AWA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_QgMJFgehzK5pExd9NN0AWA:prompt-0007",
+    "source_metadata": {
+      "article_index": 145,
+      "article_title": "Vol.183 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1747185819,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_QgMJFgehzK5pExd9NN0AWA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496866&idx=1&sn=1312385f36305a1ce1cbf210428aea71&scene=58&subscene=0",
+    "title": "Vol.183 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496866&idx=1&sn=1312385f36305a1ce1cbf210428aea71&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.183 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

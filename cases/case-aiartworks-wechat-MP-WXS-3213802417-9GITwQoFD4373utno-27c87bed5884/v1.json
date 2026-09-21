@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUoQjWOaINEQnibAoxNNTMqWARjL6jeoLWqVYXK3ZwRYPmYxgPia22E31w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUOM17HckZBHbibOp5gY53S1ut3knCop5kBTzMTPVaiaWTF4wPZs5BQDEA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9GITwQoFD4373utno-27c87bed5884",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0df25608be240a6bf15b261d04ba2384b4171a6e8e62869a617da4f393aaf3c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A portrait of a young woman with refined features, holding a large artichoke in front of her, partially covering the lower part of her face. The woman has smooth skin, dark hair neatly pulled back with a center parting, and minimalistic, elegant makeup that highlights her natural beauty. She is wearing large, luxurious rings with prominent purple gemstones encrusted with diamonds on the fingers of both hands. She is dressed in a dark green, sophisticated blazer with a deep neckline, emphasizing the elegance of her look. The background is a soft, solid gray-beige, creating a neutral and refined atmosphere. The composition focuses on the woman’s hands, the artichoke, and her face, with an emphasis on the contrast between the natural texture of the artichoke and the opulence of the jewelry. The style of the photograph is high fashion with surrealistic elements, reminiscent of glossy magazines, featuring soft, cinematic lighting that highlights details and textures --ar 9:16 --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUoQjWOaINEQnibAoxNNTMqWARjL6jeoLWqVYXK3ZwRYPmYxgPia22E31w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUOM17HckZBHbibOp5gY53S1ut3knCop5kBTzMTPVaiaWTF4wPZs5BQDEA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg:prompt-0013",
+    "source_metadata": {
+      "article_index": 159,
+      "article_title": "Vol.171 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1745980255,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 13,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0",
+    "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

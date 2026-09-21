@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:39:52+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQRLA2bw5qMZguStQhibd8ezHibr8YUhkaKo5YldmxQtKRcsrRLgW0MRKg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yyaNoAf-0ezSHtHh8-d2686b295c84",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f2287d3a7f1b80b5e93fa44357f1842e9362dd3d3b294e095a6b68e9626bbc56",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "vaatt5s",
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "an backlit silhouette of a handsome bearded man, siting on a chair, rim light, frontal shot, black background, dramatic award winning photography --ar 2:3 --profile vaatt5s hx4q7fd 8voalr3 --stylize 50",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQRLA2bw5qMZguStQhibd8ezHibr8YUhkaKo5YldmxQtKRcsrRLgW0MRKg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g:prompt-0008",
+    "source_metadata": {
+      "article_index": 81,
+      "article_title": "Vol.250 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1756251064,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd",
+    "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

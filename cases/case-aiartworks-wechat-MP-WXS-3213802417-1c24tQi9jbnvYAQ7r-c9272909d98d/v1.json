@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDmwPRJnUDkrdod6LiaPhvbp1dRBbY7FFrr7R55fSwSfXrjpBrxPGLDZsNekZichmEPea78T7QBqkS29ibyFqiakGzLSrCKnvS2fgc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD2nQTu59fOdYTGf73MIzpFWic4KA4ib2auLWia9fraTTQsDJL87ZhsXLk3HibU7bklEhMbahoJYFb29pU9mUxSsky2VcSEzM9aIeY/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1c24tQi9jbnvYAQ7r-c9272909d98d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d8773c10d0d4248f26c1305ff6f24773c852cf9fe67ea201f929ae7baa6043a7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "hd": true,
+    "profile": "s7ecder",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Black and white old daguerreotype of a retro futuristic Victorian art deco city scene. Distance, fog. --chaos 10 --ar 3:4 --raw --profile s7ecder --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDmwPRJnUDkrdod6LiaPhvbp1dRBbY7FFrr7R55fSwSfXrjpBrxPGLDZsNekZichmEPea78T7QBqkS29ibyFqiakGzLSrCKnvS2fgc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD2nQTu59fOdYTGf73MIzpFWic4KA4ib2auLWia9fraTTQsDJL87ZhsXLk3HibU7bklEhMbahoJYFb29pU9mUxSsky2VcSEzM9aIeY/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA:prompt-0005",
+    "source_metadata": {
+      "article_index": 1,
+      "article_title": "Vol.331-Midjourney 精选 | 科幻作品选辑",
+      "association_confidence": "review",
+      "createTime": 1789344088,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 5,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+    "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 6",
+  "version": "v1"
+}

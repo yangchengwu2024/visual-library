@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhhaYXqXoXy124hyK0yxf4SoGF9Pfj9WyHQEEGZC3Pz0MJcYz5iaRCEqg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-HqagCxPorX9k-ufUR-efb4f08aca48",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "48aebffd753053301a11f807c5fd3068f1b273612882896f1d29650bf505a8be",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "\"A 3D-rendered, blue-themed studio background featuring a smooth, glossy earth with simplified continents, on a soft, rounded platform with a smaller podium with a shorter height on the side The scene includes cute, 3D elements yellow stars with cute smiles, that softly glow The color palette is various shades of colorful blue, creating a soft, clean, and playful atmosphere. Lighting is bright yet diffused, with gentle highlights and soft shadows to enhance the smooth textures. --ar 3:4 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheTP2fFosJnX6dROAZzFhUhhaYXqXoXy124hyK0yxf4SoGF9Pfj9WyHQEEGZC3Pz0MJcYz5iaRCEqg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg:prompt-0018",
+    "source_metadata": {
+      "article_index": 158,
+      "article_title": "Vol.172 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746057736,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_HqagCxPorX9k-ufUR5Tcqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0",
+    "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496403&idx=1&sn=3c7ce858cc61642ff9758a8937504917&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.172 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

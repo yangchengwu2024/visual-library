@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WhOtdV0j2PUnhBZba-0d822aebff2e",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9IXYODmvxKuEA8aVpPhHibN9At4aLfNS90cwdNs41zwT0jpaHmicapE5AJfToN6OuYNbybBW8AkHA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ:prompt-0007",
+      "source_metadata": {
+        "article_index": 270,
+        "article_title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1735433475,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 7,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_WhOtdV0j2PUnhBZbarNynQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490600&idx=1&sn=8dc24886c554f289a41ea3260c863e35&scene=58&subscene=0",
+      "title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 8",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490600&idx=1&sn=8dc24886c554f289a41ea3260c863e35&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 8",
+  "title_aliases": [
+    "周末特别版 | Tantandf的多元融合风格 - Midjourney | 精选作品与提示 · 提示词 8"
+  ]
+}

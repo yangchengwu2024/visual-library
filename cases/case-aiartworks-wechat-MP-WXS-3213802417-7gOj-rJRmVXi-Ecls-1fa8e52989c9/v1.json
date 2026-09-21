@@ -1,0 +1,70 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcY2cZ8kdMCNia8ruTwyuy4SqBjWHiba5AWiafribDZhmQGBESUy7SKmCianAU56U4XrF4SaJrJvDxrkyw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_7gOj~rJRmVXi-EclsTAEUQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-7gOj-rJRmVXi-Ecls-1fa8e52989c9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f515024fc97c43217ba8d5989a49989477d23262f96c4c17064f07bf486de74f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "8",
+    "profile": "a94yg9a",
+    "quality": "2",
+    "sref": [
+      "2047727579"
+    ],
+    "stylize": "320",
+    "sw": "320",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A girl was sitting on the head of a huge octopus. The octopus was like a planet with corals of different colors and a big moon in the sky --chaos 8 --ar 2:3 --quality 2 --sref 2047727579 --profile a94yg9a --sw 320 --stylize 320 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcY2cZ8kdMCNia8ruTwyuy4SqBjWHiba5AWiafribDZhmQGBESUy7SKmCianAU56U4XrF4SaJrJvDxrkyw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_7gOj~rJRmVXi-EclsTAEUQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_7gOj~rJRmVXi-EclsTAEUQ:prompt-0003",
+    "source_metadata": {
+      "article_index": 245,
+      "article_title": "Vol.100 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1738722651,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_7gOj~rJRmVXi-EclsTAEUQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492585&idx=1&sn=6bb2bd4df443e33886e34be21601c1be&scene=58&subscene=0",
+    "title": "Vol.100 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492585&idx=1&sn=6bb2bd4df443e33886e34be21601c1be&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.100 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

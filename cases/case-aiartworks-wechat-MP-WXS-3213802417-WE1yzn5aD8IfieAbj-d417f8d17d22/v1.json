@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz9AWUWQC2bOtRasZMdoJS2CG3gDQKqQopdUt81TX17HobTQic8ku5Eqqg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WE1yzn5aD8IfieAbj-d417f8d17d22",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c28aca4bfd304d876eb962e0a87f86a39a15e082a874d643fd749a72bda5e342",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "te9gogc",
+    "style": "raw",
+    "stylize": "500",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Realistic photo, A stunning magical butterfly emerging from a cocoon, with large iridescent wings reflecting the colors of the rainbow. It gently hovers above glowing flowers in the enchanted forest, surrounded by a magical light. The image is captured with a 50mm lens, highlighting the intricate details of its shimmering wings --ar 9:16 --style raw --profile te9gogc --stylize 500 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz9AWUWQC2bOtRasZMdoJS2CG3gDQKqQopdUt81TX17HobTQic8ku5Eqqg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q:prompt-0002",
+    "source_metadata": {
+      "article_index": 180,
+      "article_title": "Vol.152 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744080373,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd",
+    "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

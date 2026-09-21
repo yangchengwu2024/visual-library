@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vRVpzibIy8RYOEnjUibxBUHSayuyWtlGicOOQibibtjtbibNsz3nrHbkaTPDA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-386cfc61a471",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a6b5b93f99bbe5b0861c57121c8e6cabd920bf2a77bc59fc7d7a5d7aa930c16d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "16:9",
+    "profile": "98dhuy9",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a flying island, a big bright puslating energy source in the center, monuments and buildings and nature on the island, minimalistic, surreal and isometric, blue silver and purple --ar 16:9 --profile 98dhuy9 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vRVpzibIy8RYOEnjUibxBUHSayuyWtlGicOOQibibtjtbibNsz3nrHbkaTPDA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg:prompt-0013",
+    "source_metadata": {
+      "article_index": 237,
+      "article_title": "Vol.107 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1739413857,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vQ~bIhGZR2Xbn-r~qz-Hfg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493018&idx=1&sn=453d0a6bd2cb0420fed56a5c02f67a6b&scene=58&subscene=0",
+    "title": "Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493018&idx=1&sn=453d0a6bd2cb0420fed56a5c02f67a6b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

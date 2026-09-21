@@ -1,0 +1,78 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheNHhZ2naB15MuQaPmkpOAjjmfqCibiciaOglyW169kW11Ymbt6LjiacpMNgDXtBeJUsCwwIsWZuljSaQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4NlHbftLZhnviaeKDeF71AHo6XZ7iakpqsoI3BOqAEanjnF6rLQ2dDr8JYH4atJiacdoyLrKiaeVbUA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vij3HRImwZNNLJJCt-a17e1856237f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b2e7bfea8dc51b669d0951c975febd58648f632cdabf9619243a83581feeabea",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "215:466",
+    "chaos": "10",
+    "profile": "6cfjvet",
+    "sref": [
+      "842338509"
+    ],
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "anime tale of a character. manga cosmic surreal fantasy, i can’t believe how beautiful it is --chaos 10 --ar 215:466 --style raw --sref 842338509 --profile 6cfjvet --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheNHhZ2naB15MuQaPmkpOAjjmfqCibiciaOglyW169kW11Ymbt6LjiacpMNgDXtBeJUsCwwIsWZuljSaQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4NlHbftLZhnviaeKDeF71AHo6XZ7iakpqsoI3BOqAEanjnF6rLQ2dDr8JYH4atJiacdoyLrKiaeVbUA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg:prompt-0007",
+    "source_metadata": {
+      "article_index": 194,
+      "article_title": "Vol.142 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1742956253,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 7,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vij3HRImwZNNLJJCtazEqg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495234&idx=1&sn=c3c7685c1d16cd0f7717e7e4216d38e9&chksm=96032407252b331021b1d1daead2e20818e68ee085812dcfec3ad6f8d886ceb1e0ad671766a4#rd",
+    "title": "Vol.142 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495234&idx=1&sn=c3c7685c1d16cd0f7717e7e4216d38e9&chksm=96032407252b331021b1d1daead2e20818e68ee085812dcfec3ad6f8d886ceb1e0ad671766a4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.142 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

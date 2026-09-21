@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:47+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZdpJKnSiadv3H2cYfh16zKG1CdsrBrqPnCcYYfzD2ZpzEusKhEdiaVQ1Q/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-2RSQYTKVxXbS28e-P-796c042342ef",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3f0b0c025069f50690194f31158c4d9023da7b316e8c27ca07f202ab27ff5b3a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "rotating camera shot around two 3D-scanned human figures sitting on the floor and reaching toward each other, surrounded by chaotic floating white data lines, constantly changing numbers, coordinates, and labels endless glitchy pop-up windows showing small photos and fragments of textures interface-style overlays and nodes, digital mapping aesthetic black background filled with sparse white particles, volumetric fog broken video signal from TouchDesigner, datamosh and glitch distortion effects, pixel flicker, compression artifacts real-time visual system, cyber-organic mood cinematic rotation around the figures, smooth camera orbit, dynamic lighting reflections experimental art installation, generative design style, hyper-detailed, surreal, data-driven composition, inspired by 3D photogrammetry and digital cartography --ar 51:91 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShf5kTLsd1gSRhpyayWvvNvZdpJKnSiadv3H2cYfh16zKG1CdsrBrqPnCcYYfzD2ZpzEusKhEdiaVQ1Q/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g:prompt-0009",
+    "source_metadata": {
+      "article_index": 55,
+      "article_title": "Vol.277 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1761694232,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_2RSQYTKVxXbS28e-PWsv3g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd",
+    "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502223&idx=1&sn=511ef05dbd968bcdc00c69fd8760d481&chksm=967cd30bccc92b768a8d5ef885626e9fe97afd85c743ad3eb54691e5c1099d59db2c9796220f#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.277 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}

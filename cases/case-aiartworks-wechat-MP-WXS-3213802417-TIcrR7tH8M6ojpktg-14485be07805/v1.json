@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5NxmgfMGDP1n8jiaibt00rsGQ7YaXkPZDSnLhyUzejEA2ickgqa0ekk3Yg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TIcrR7tH8M6ojpktg-14485be07805",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "971c1a1937e47815fd1543ed397a7b794143524df69b526833114750d4987ca3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "dhq2ejk",
+    "stylize": "400",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "3D cartoon Buddha statue, Cyberpunk. A Bodhisattva wearing Cyberpunk clothing. High-resolution, detailed facial features, detailed design, sports scene, dynamic composition, smooth movements, dynamic lighting. Made of transparent material, the whole body sparkles and is extremely ethereal, full of Zen spirit. It is of the flat-illustration style, vector style and Chinese style, with blank spaces left. Against a pink and gold background, the picture is very clean. --ar 9:16 --profile dhq2ejk --stylize 400 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShevLcchRzGSwBNkm4lAuVS5NxmgfMGDP1n8jiaibt00rsGQ7YaXkPZDSnLhyUzejEA2ickgqa0ekk3Yg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg:prompt-0020",
+    "source_metadata": {
+      "article_index": 181,
+      "article_title": "Vol.151 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743993036,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 20,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_TIcrR7tH8M6ojpktgWhheg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd",
+    "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 21",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495610&idx=1&sn=0eb599e5f62c176584c752bd60f546b5&chksm=96589ccf04961cc9b33beeffc6ef02b31bb6ede3ca6abf869d5bc96eb90999d56b5a443f4d8d#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.151 - Midjourney | 精选作品关键词提示 · 提示词 21",
+  "version": "v1"
+}

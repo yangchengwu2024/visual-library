@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:35+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheaDr2QmtYzvaESRNDgIBk4E3Gd53cWss2ds9qQxPSRhHSWIe1PG8Gibmzp5TOKXPyd6T08raYxMHA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1HSAxKR55JiTzi0hD-40880ac28d33",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f58dfbfe55505f70e68d1115294759d568596ccb9677711122d0d7a69582d83e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "20",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "fine art style, surreal background, close up, minimalistic, nature, female black skined human posed with a white snake, perfect face skin, pastel colours, bodies merged together, grey background, molded, melded, obscurity, ethereal, in the style of juno calypso and Gaetano Cellini, animalistic, ferocious, untamed, cinematic lighting, bright pastel colours, dramatic lighting, anatomy, ultra-detailed, alternative camera angles, high quality analogue photography, --chaos 20 --ar 3:4 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheaDr2QmtYzvaESRNDgIBk4E3Gd53cWss2ds9qQxPSRhHSWIe1PG8Gibmzp5TOKXPyd6T08raYxMHA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA:prompt-0013",
+    "source_metadata": {
+      "article_index": 332,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.16",
+      "association_confidence": "high",
+      "createTime": 1729823857,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1HSAxKR55JiTzi0hDEdOJA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485945&idx=1&sn=5500476e182927edf82dda7bee3759a0&chksm=96fb177b9212b026848accc60bf498d1c224c856bfc42600429aa4481566bde8a72ac4e50984#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.16 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485945&idx=1&sn=5500476e182927edf82dda7bee3759a0&chksm=96fb177b9212b026848accc60bf498d1c224c856bfc42600429aa4481566bde8a72ac4e50984#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.16 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-21T11:40:02+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBjIW7Ga6MVOYBuMRk6wgoiaEd3B2TXiaAaB873j9icotyJDyZKgJQAppaA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBmFDpqofPkcsv3qgm25uWotVNo3ECyEDnQrrMbVYib0OR2cWxpTl4KHQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-CaEitySavy9dlipNV-9ec791b72378",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0ccab5f02cdd144d6b72ad00030b58e38131aac3982f0cd2705070c0b77ad357",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "rajtoqh",
+    "raw": true,
+    "stylize": "650",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A white daisy-shaped balloon, with a light pink house, floating in the air, png cut, high resolution, bright light, high quality, perspective view, 4k, 3d rendering --raw --profile rajtoqh --stylize 650 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBjIW7Ga6MVOYBuMRk6wgoiaEd3B2TXiaAaB873j9icotyJDyZKgJQAppaA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfzNlo1NcThSpWTIgfdCcibBmFDpqofPkcsv3qgm25uWotVNo3ECyEDnQrrMbVYib0OR2cWxpTl4KHQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg:prompt-0019",
+    "source_metadata": {
+      "article_index": 136,
+      "article_title": "Vol.192 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1748226626,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_CaEitySavy9dlipNVn8lUg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497252&idx=1&sn=103a3318825f54c3950b2d84fc82012f&chksm=96b59a467893c6051984efefe1c1534d6c00ed1161d11a0a6734d4345c75cc6d474499658402#rd",
+    "title": "Vol.192 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497252&idx=1&sn=103a3318825f54c3950b2d84fc82012f&chksm=96b59a467893c6051984efefe1c1534d6c00ed1161d11a0a6734d4345c75cc6d474499658402#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.192 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

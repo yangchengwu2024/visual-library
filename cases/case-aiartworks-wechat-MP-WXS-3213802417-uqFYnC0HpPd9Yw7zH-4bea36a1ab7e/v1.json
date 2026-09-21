@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:25+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OUcBon8eSCiaxKt6lj7icjSRqQv2MwBuQZSDUWXpZy0cbssJWKI3rcC5Q/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-4bea36a1ab7e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bfa2ef212bd342fce8bd0ea2348417f7ffc1e656beac99bec199cc0378af6eaf",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Christmas wreath with red and gold ornaments on a dark blue background, front view, photorealistic, high resolution, very detailed, hyper-realistic, professional photography, soft lighting, soft shadows, high-key lighting, low contrast, clean, sharp focus, no grainy textures, no blur effect, natural colors, bright white background, flat lay, symmetrical composition, full-frame shot. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OUcBon8eSCiaxKt6lj7icjSRqQv2MwBuQZSDUWXpZy0cbssJWKI3rcC5Q/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA:prompt-0010",
+    "source_metadata": {
+      "article_index": 277,
+      "article_title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1734834474,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_uqFYnC0HpPd9Yw7zHF3xJA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd",
+    "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490166&idx=1&sn=eb8cdd4cb25ed0e8a3a602fdec616677&chksm=96df0020fc7db5845c29b1dafc057deefccdb184ab50c0c4098dce96727074114371258548b9#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:28+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WJFxibibOzXjMpetG7aiaDZvkUtXHUPAOF5zIsvl4AyibL7jj0kp2mkJ0SHZEctbibiaAG6n5FK1BL9g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kGQno-55w46v9UpUa-c3779c1cb407",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9a3eb94f78f6e0132c891e9435e528081aae86a623145dd74ebc1926acc8eba2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An alligator swimming in the water, seen from above on a grassy bank near an American river with its head out of the water, as if someone had removed its top and it was lying down in the shallow waters, in daylight, posted to Snapchat stories in spring 2018. --ar 9:16 --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WJFxibibOzXjMpetG7aiaDZvkUtXHUPAOF5zIsvl4AyibL7jj0kp2mkJ0SHZEctbibiaAG6n5FK1BL9g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog:prompt-0019",
+    "source_metadata": {
+      "article_index": 294,
+      "article_title": "Vol.51 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1733368413,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kGQno-55w46v9UpUafoSog",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488707&idx=1&sn=9771b7720698194b7958d83b03d39a69&chksm=960f82922eb1fc225fe2095ea477e431da2c8c612e8a0385dc02408b5f6ba16944f3dd414191#rd",
+    "title": "Vol.51 - Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488707&idx=1&sn=9771b7720698194b7958d83b03d39a69&chksm=960f82922eb1fc225fe2095ea477e431da2c8c612e8a0385dc02408b5f6ba16944f3dd414191#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.51 - Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdyibve0an51fgwv3lGydtvhlicvd7GWblmCVZuW7B5SnXtZ6x8Tgic7Mc5R0ZfO1J9oKEQrHWXyddlQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-39TNyPm5kUV-g21BA-bb75ac11b1cf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0ced2e482dc41d1ecc04f7b52582b5be215b0bf8fd8c2be6c6708eb2870d189",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "profile": "641w9r3",
+    "stylize": "1000"
+  },
+  "previous_version": null,
+  "prompt": "The Solar lion. A magnificent griffin with molten-gold fur and eyes that shine like twin suns sending radiant embers into the atmosphere, front view, looking in the camera. The landscape beneath glows with shifting plasma currents, amplifying the scene’s overwhelming sense of grandeur, power, and deep cosmic mystery. A hyper-realistic 8K image. cinematic trailer ultrarrealistic. Add specifics like colors, lighting, and textures. Add style and mood. --chaos 20 --ar 9:16 --profile 641w9r3 --stylize 1000",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdyibve0an51fgwv3lGydtvhlicvd7GWblmCVZuW7B5SnXtZ6x8Tgic7Mc5R0ZfO1J9oKEQrHWXyddlQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ:prompt-0003",
+    "source_metadata": {
+      "article_index": 102,
+      "article_title": "Vol.227 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751585451,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd",
+    "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

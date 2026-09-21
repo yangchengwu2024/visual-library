@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:39:51+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOh5iasibyatukGLsziaEWB28z8wz6p3rlxMuuD8mnibXWwe6qh5g87TjtuUA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nqPQBI95d-nsSeSvN-2636d934ebc9",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f1101970b9b6cbce5dae37234c155430a31d42d3a1265a1f7607dc94977ab3e1",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:8",
+    "chaos": "15",
+    "profile": "n9vsbv2",
+    "raw": true,
+    "stylize": "60"
+  },
+  "previous_version": null,
+  "prompt": "resh produce macro, water droplets on potato, detailed skin and reflection, clean background, Macro food freshness, Bell pepper with water droplets --chaos 15 --ar 5:8 --raw --profile n9vsbv2 --stylize 60",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOh5iasibyatukGLsziaEWB28z8wz6p3rlxMuuD8mnibXWwe6qh5g87TjtuUA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q:prompt-0008",
+    "source_metadata": {
+      "article_index": 75,
+      "article_title": "Vol.256 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1757460651,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nqPQBI95d~nsSeSvNcTn3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd",
+    "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500191&idx=1&sn=3b9da7031b32515d3ab107337bff2cc5&chksm=960aa334fd961c398d66756d237f47e52146734bfec27d696b4219979cf07130aee2c4266389#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.256 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

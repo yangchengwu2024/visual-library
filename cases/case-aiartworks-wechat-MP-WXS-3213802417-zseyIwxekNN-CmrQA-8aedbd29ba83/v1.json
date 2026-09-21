@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:39:41+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBlQexYPHzo9ibwkWg1BB00aQxAicRmnz0NWG3nD9mV1pAmUd8rVZuDPibpyfJicARW2u37FrCE0jg1RrmeVL0JXa5sIUyWze6fQMU/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zseyIwxekNN-CmrQA-8aedbd29ba83",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e7502a8330a39d3b1ca716ca4e13ca64caf7b7c0c4f60a50dd8366c503239152",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "preview": true,
+    "profile": "gp2tfpa",
+    "raw": true,
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "photorealistic dreamcore liminal space, viewed from inside an empty Japanese train carriage, looking out through a large rounded train window, dark quiet train interior, blue fabric seat edge, black window frame, faint overhead fluorescent reflections on the glass. Outside the window is an endless shallow crystal-clear sea with the sandy seabed visible below, completely silent and empty. Osaka Castle stands alone in the water, centered within the train window like a strange passing memory, architecturally accurate Osaka Castle with white plaster walls, green copper roofs, gold shachihoko ornaments, black accents, and stone base. No city, no land, no boats, no people. Calm turquoise water, soft reflection, vivid blue sky, sparse pastel pink clouds, nostalgic uncanny stillness, surreal but realistic, cinematic, quiet, suspended in time, not a tourist view, not a travel photo --ar 9:16 --raw --profile gp2tfpa --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBlQexYPHzo9ibwkWg1BB00aQxAicRmnz0NWG3nD9mV1pAmUd8rVZuDPibpyfJicARW2u37FrCE0jg1RrmeVL0JXa5sIUyWze6fQMU/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ:prompt-0009",
+    "source_metadata": {
+      "article_index": 19,
+      "article_title": "Vol.313-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1783294218,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zseyIwxekNN~CmrQAdd7cQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0",
+    "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510047&idx=1&sn=3888c9771c1eaa4fc1d191b6ed98b63e&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.313-Midjourney 精选作品提示词与赏析 · 提示词 10",
+  "version": "v1"
+}

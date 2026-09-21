@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBSibVZG6Bn1baLXqP9zEgANIx7vDzIuNcnujPyoSbicnBb2Zwib8sSBED5EkOZqFesfwuwd7U2wQv9jCiaPCjwHicRYkQic3EficZWW4/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_DfvWoda2hqeMUZ2-K0YSGQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DfvWoda2hqeMUZ2-K-4bc99f653801",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9e5782bbd326c9c1032d6ba9525058c287c6473c564ffac9b7e2ad181cc4a842",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "this oil painting features a simple white ghost with black eyes, appearing to float in a blue room. the ghost uses a stick and string with a tassel to interact with a black cat, which is standing on its hind legs with raised paws, attempting to catch the tassel. the room has dark blue walls and a lighter blue floor with white baseboards, rendered with a noticeable brushstroke texture throughout the artwork. --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBSibVZG6Bn1baLXqP9zEgANIx7vDzIuNcnujPyoSbicnBb2Zwib8sSBED5EkOZqFesfwuwd7U2wQv9jCiaPCjwHicRYkQic3EficZWW4/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_DfvWoda2hqeMUZ2-K0YSGQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DfvWoda2hqeMUZ2-K0YSGQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 22,
+      "article_title": "Vol.310-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1782257445,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 10,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DfvWoda2hqeMUZ2-K0YSGQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508460&idx=1&sn=4056b24fc5c7f35c82dc78a33d892c95&chksm=96f2c18caf4eb6e66fb5fdbde00d0f12fe56c2e7adf91423fd5b0d3d53fcf2a72ddc30c24cc8#rd",
+    "title": "Vol.310-Midjourney 精选作品提示词与赏析 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247508460&idx=1&sn=4056b24fc5c7f35c82dc78a33d892c95&chksm=96f2c18caf4eb6e66fb5fdbde00d0f12fe56c2e7adf91423fd5b0d3d53fcf2a72ddc30c24cc8#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.310-Midjourney 精选作品提示词与赏析 · 提示词 11",
+  "version": "v1"
+}

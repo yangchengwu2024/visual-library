@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:24+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdmWoxW2hWHjjW8D1Ndu8lFyTyObQQY5EXtJ4qr07rEV5uEFtFkej1eCUUydfF05le9XCsPfo1CBA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-37GI5UtPGFqUOagmh-7c9450a3c213",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "35349eb04afd2cb814d22c33cfb9033a055bdd95ca92355ecf395b34cc0c4ba7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "44",
+    "profile": "2pmbrfn",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "megalophobia tidal wave in open ocean, person on shore watching, realistic, atmospheric photograph --chaos 44 --ar 3:4 --profile 2pmbrfn --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdmWoxW2hWHjjW8D1Ndu8lFyTyObQQY5EXtJ4qr07rEV5uEFtFkej1eCUUydfF05le9XCsPfo1CBA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 273,
+      "article_title": "Vol.69 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735175988,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_37GI5UtPGFqUOagmh4pLqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490404&idx=1&sn=6166446c21ae7931fe676e3996645fb5&chksm=96789cd1e2902305e5779e50478be769054dc64323dfec20f92955041838b2ab7aa222bed8e6#rd",
+    "title": "Vol.69 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490404&idx=1&sn=6166446c21ae7931fe676e3996645fb5&chksm=96789cd1e2902305e5779e50478be769054dc64323dfec20f92955041838b2ab7aa222bed8e6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.69 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:39:58+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheIa6OQh0DQhDQgoblht81IiahHhAtunW72yKnE8GPe8p41dtrBznranZGBgibmxX2NbxxgEousjJyQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-nkM3miXPBvMg3xKIg-169c78b93349",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "bc10de1e577b1848c286dec5948ee9a6d3db89cd91eeaeced34cfd75e619df9d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "xyisw4f"
+  },
+  "previous_version": null,
+  "prompt": "a sleek silver sci-fi spaceship gliding above the clouds, hyper-aerodynamic shape like a blade, smooth mirror finish with soft sun reflections, floating in high-altitude daylight sky, ambient rim lighting, minimal surface detail, no weapons, elegant design like futuristic art installation, viewed from below at a 45-degree angle, photorealistic style, --ar 9:16 --profile xyisw4f",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheIa6OQh0DQhDQgoblht81IiahHhAtunW72yKnE8GPe8p41dtrBznranZGBgibmxX2NbxxgEousjJyQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q:prompt-0017",
+    "source_metadata": {
+      "article_index": 114,
+      "article_title": "Vol.215 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750203023,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_nkM3miXPBvMg3xKIgjUL1Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498202&idx=1&sn=d07ee46b7fc68db02a291ce27f423378&chksm=96407edf8593f3e4042609ae296e81ef24910c7f64fe666e95b90c2f601e3aadfe42f1bc2682#rd",
+    "title": "Vol.215 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498202&idx=1&sn=d07ee46b7fc68db02a291ce27f423378&chksm=96407edf8593f3e4042609ae296e81ef24910c7f64fe666e95b90c2f601e3aadfe42f1bc2682#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.215 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

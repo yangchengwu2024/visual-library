@@ -1,0 +1,99 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB5ib8319VMEvSUlLIUVRuJXuKGtCjOxnnsdJAicHH6WAHghRjqpxGdCYJLM92TMdQMb9NZv5UWtibJXNhElBfYfH9G0ngaB6zibeM/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB9FRjM0y5IIEa5w8sUYvIbrT2OEnF0aqTVzT3aUkOEovEiagXOjud8tVyqicthsTcHleCFXZibBNGtd4hZ4JZvJFvEMcuvZVMtPc/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCc10vDTSZ2nLftWBNUPMX2ia1iarOyMukQ5I6xiaA3XWbiapIwooQIYRGntvnuicy9wibvdbpngriaeaaXZviaVTNChf2t1By8Dz5jtPU/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDmE7va0jQE006Y5oRoVib0pmGlQ3spK3q1DEfVk5wXVqB1ibibRnAaebBicqia4FgqBw8NWibcfCRCokcNfsMV1ueqfMteuLDkkRRbU/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TBsbxnRY8XA69Gt5a-8f4da2f26aee",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2733df3a12fa005fd719fbb236ab57e32ddcbb721129c8abf3b5ef09d9e4a64d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "10",
+    "exp": "15",
+    "hd": true,
+    "profile": "axw3fby",
+    "sref": [
+      "2192081346"
+    ],
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "''''', full body --chaos 10 --ar 4:5 --exp 15 --sref 2192081346 --profile axw3fby m911cpz --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB5ib8319VMEvSUlLIUVRuJXuKGtCjOxnnsdJAicHH6WAHghRjqpxGdCYJLM92TMdQMb9NZv5UWtibJXNhElBfYfH9G0ngaB6zibeM/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WB9FRjM0y5IIEa5w8sUYvIbrT2OEnF0aqTVzT3aUkOEovEiagXOjud8tVyqicthsTcHleCFXZibBNGtd4hZ4JZvJFvEMcuvZVMtPc/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCc10vDTSZ2nLftWBNUPMX2ia1iarOyMukQ5I6xiaA3XWbiapIwooQIYRGntvnuicy9wibvdbpngriaeaaXZviaVTNChf2t1By8Dz5jtPU/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDmE7va0jQE006Y5oRoVib0pmGlQ3spK3q1DEfVk5wXVqB1ibibRnAaebBicqia4FgqBw8NWibcfCRCokcNfsMV1ueqfMteuLDkkRRbU/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww:prompt-0003",
+    "source_metadata": {
+      "article_index": 4,
+      "article_title": "Vol.328-Midjourney | 8月官网热刷作品盘点",
+      "association_confidence": "high",
+      "createTime": 1788132646,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 4
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511036&idx=1&sn=e1e533ee4a3da992b583a0e1da1970c4&scene=58&subscene=0",
+    "title": "Vol.328-Midjourney | 8月官网热刷作品盘点 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511036&idx=1&sn=e1e533ee4a3da992b583a0e1da1970c4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.328-Midjourney | 8月官网热刷作品盘点 · 提示词 4",
+  "version": "v1"
+}

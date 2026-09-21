@@ -1,0 +1,78 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBI4Yek1EkS6zGwu8sMiaVhYXo21P5MurOrialjrYX6icuN8ic3iahqHHx9rvw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KZLIuX-9-PlzxpJBHEoIKA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBIR9usWad7H3yKCVqibRGCjQKxzW8Ot4nn62s0Ys617eW8vT36mibIuX1w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_KZLIuX-9-PlzxpJBHEoIKA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-KZLIuX-9-PlzxpJBH-13c32dd6498d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b97381c3d55ee85a7f654af413e63e6429f771f6f30f34c95f82aa7997df2c0b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "sref": [
+      "136",
+      "124",
+      "24"
+    ],
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "nano particles, quantum realm zoom digital ribbon cable, error led beacon illuminated watercolor wisteria wyvern --ar 2:3 --sref 136 124 24 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBI4Yek1EkS6zGwu8sMiaVhYXo21P5MurOrialjrYX6icuN8ic3iahqHHx9rvw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KZLIuX-9-PlzxpJBHEoIKA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBIR9usWad7H3yKCVqibRGCjQKxzW8Ot4nn62s0Ys617eW8vT36mibIuX1w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_KZLIuX-9-PlzxpJBHEoIKA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_KZLIuX-9-PlzxpJBHEoIKA:prompt-0001",
+    "source_metadata": {
+      "article_index": 298,
+      "article_title": "周末特别版 | Antixian的精致幻想世界 - Midjourney | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1733058113,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_KZLIuX-9-PlzxpJBHEoIKA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488436&idx=1&sn=7c581d738a7373c87c2fd9544d26b9a8&chksm=9629c9b81c2d28bc5c831d66adea0ec88897700c302a829502127ad93e3ea17a310314f24897#rd",
+    "title": "周末特别版 | Antixian的精致幻想世界 - Midjourney | 精选作品与提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488436&idx=1&sn=7c581d738a7373c87c2fd9544d26b9a8&chksm=9629c9b81c2d28bc5c831d66adea0ec88897700c302a829502127ad93e3ea17a310314f24897#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Antixian的精致幻想世界 - Midjourney | 精选作品与提示 · 提示词 2",
+  "version": "v1"
+}

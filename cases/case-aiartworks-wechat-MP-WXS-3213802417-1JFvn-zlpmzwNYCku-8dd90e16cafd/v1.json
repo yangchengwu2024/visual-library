@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcGfZwBgicORSAeANmWxVSiau3avo091lCL9j2NHic5pGbbVURL3p7p4kjsTnAYdMFrGhWhcVejtmZBA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1JFvn-zlpmzwNYCku-8dd90e16cafd",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "676cd0ed0ab8554773a0dd0edfb9c810eaa7b500a102f66d9d009796803dd9d0",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "double exposure portrait of a 99-year-old British WWII veteran, deeply wrinkled face, wearing original 1940s battle uniform and helmet, solemn and reflective expression with a single tear rolling down his cheek, merged with a Dutch landscape featuring traditional windmills, calm canals, soft autumn light, distant smoke, a small waving Dutch flag, and a symbolic liberation flame glowing on the horizon, photorealistic, rich emotional depth, cinematic and storytelling composition --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcGfZwBgicORSAeANmWxVSiau3avo091lCL9j2NHic5pGbbVURL3p7p4kjsTnAYdMFrGhWhcVejtmZBA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw:prompt-0002",
+    "source_metadata": {
+      "article_index": 154,
+      "article_title": "Vol.175 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746412264,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1JFvn~zlpmzwNYCkuljIAw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496553&idx=1&sn=95b09582eb0735a570e107acce481d7e&chksm=965f04b295557e05849d88ff79d803b6a317e7f25179e018735d180d85ec6f0841ff3491d841#rd",
+    "title": "Vol.175 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496553&idx=1&sn=95b09582eb0735a570e107acce481d7e&chksm=965f04b295557e05849d88ff79d803b6a317e7f25179e018735d180d85ec6f0841ff3491d841#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.175 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

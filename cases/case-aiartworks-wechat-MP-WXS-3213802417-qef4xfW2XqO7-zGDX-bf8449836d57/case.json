@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qef4xfW2XqO7-zGDX-bf8449836d57",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdH23k4o0t1KQbibScKSnt0yqX4M31cMCA6icmNZ6qVZibOhBWjl7ZlicaX9S2ug1pDU9IIibm6FFByzicg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShdSx8lJy8ibDyA8mWic1QaALVkZByhsutk58UAIQAwpqj0br1MoRCqqhWicqpdua7r3P6Q4HWLr6o7wA/0?wx_fmt=gif&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ:prompt-0015",
+      "source_metadata": {
+        "article_index": 56,
+        "article_title": "Vol.276 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1761521416,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 15,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_qef4xfW2XqO7-zGDXHiiOQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502182&idx=1&sn=46a1746e881fc22211edeb95136cb043&chksm=96880c110684c2945c662c05190c70983b1aecebf833fb0b85cab483bccc83dcd8916308f107#rd",
+      "title": "Vol.276 - Midjourney | 精选作品关键词提示 · 提示词 16",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502182&idx=1&sn=46a1746e881fc22211edeb95136cb043&chksm=96880c110684c2945c662c05190c70983b1aecebf833fb0b85cab483bccc83dcd8916308f107#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.276 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "title_aliases": [
+    "Vol.276 - Midjourney | 精选作品关键词提示 · 提示词 16"
+  ]
+}

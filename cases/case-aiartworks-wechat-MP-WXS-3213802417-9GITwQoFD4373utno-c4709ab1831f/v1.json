@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:06+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUPshhvrCzbRLRrJEX10ccKmiauibpzMenk1a8Sa0NYKpIrribdqh9sZdVQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-9GITwQoFD4373utno-c4709ab1831f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c93d566c7fbf9f34bb535b7467bcce0606c748459031838c704bf8cca1f42e95",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A knight in dark dragon bone armor in a field of wheat, its rainy and a battle has just finished. The knight still has his helmet and he is just taking in the silence, give it an 80's anime vibe, The knight is striking a heroic pose, unreal engine 5, octane render, 8k, realistic textures, 8k, Night time --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheD4iaQ5aA4c8O34uDCNicKBUPshhvrCzbRLRrJEX10ccKmiauibpzMenk1a8Sa0NYKpIrribdqh9sZdVQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg:prompt-0004",
+    "source_metadata": {
+      "article_index": 159,
+      "article_title": "Vol.171 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1745980255,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_9GITwQoFD4373utnoV2sHg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0",
+    "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496360&idx=1&sn=4b1c53f6b998c1512087c7a585fd6d76&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.171 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

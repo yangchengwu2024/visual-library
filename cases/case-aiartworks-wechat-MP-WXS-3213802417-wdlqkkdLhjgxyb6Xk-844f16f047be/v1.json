@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:29+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBIRicNrvdIAuteNJf1xk5iaicQVkZt7geoDEbSc6AOfI5TtjDRPaZPicO4ew/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wdlqkkdLhjgxyb6Xk-844f16f047be",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7dd791df1edba907248b2ad0741f08b40950c3399f0c36e7ca8dd95f5e98568d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "stylize": "200",
+    "v": "6"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/AuDbGUsl9oA Long angle shot from side, Spiderman as cyberpunk mecha, with intricate details, futuristic cyberpunk style armor, full of lighting circuits, AI technology. Crouching on top of a very tall building, showing dynamic posture and readiness. Cyberpunk city background, depicting the futuristic cityscape with neon lights and towering skyscrapers. Hyperrealistic. Cinematic lighting, night city, color grading. --chaos 10 --ar 9:16 --stylize 200 --v 6",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdFhkbuPT0m5ia4SxM7BtNBIRicNrvdIAuteNJf1xk5iaicQVkZt7geoDEbSc6AOfI5TtjDRPaZPicO4ew/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw:prompt-0018",
+    "source_metadata": {
+      "article_index": 299,
+      "article_title": "Vol.47 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732933816,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wdlqkkdLhjgxyb6XklCCbw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488389&idx=1&sn=73bb34260b03325f48959d89b67691a1&chksm=968323ec52bdb4900c0436a799174bef5eb65b24e93d7064ebc3a437e216f3f49cce2aef8af5#rd",
+    "title": "Vol.47 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488389&idx=1&sn=73bb34260b03325f48959d89b67691a1&chksm=968323ec52bdb4900c0436a799174bef5eb65b24e93d7064ebc3a437e216f3f49cce2aef8af5#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.47 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

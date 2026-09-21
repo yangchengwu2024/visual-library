@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:40:14+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4Vt7JjEuqfpTbVlTCQXctiaIT1p90l8Y4KIpUCukxRuz0FdUJ6y783eBwQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-cb14cf236718",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2d28d4e7fb1a9e040ba51a7dab0805461c9aada7e745090264221afb4581868f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "sref": [
+      "987700834"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A high-contrast aerial photograph of pastel multi coloured people walking across a pedestrian crosswalk in an urban setting. The shot is taken from a high angle, emphasizing the bold geometric patterns of the zebra crossing, with elongated shadows stretching diagonally across the road. The pedestrians are bright cobalt clue colour in modern, stylish clothing, with a mix of business and casual attire. The composition is minimalist, with a dark asphalt background enhancing the contrast between the white stripes and the figures. The lighting is strong and directional, casting deep, crisp shadows. The image has a cinematic, timeless feel, reminiscent of fine art street photography. Shot with a full-frame DSLR, 85mm lens, f/5.6 aperture for moderate depth of field, ISO 100 for rich details, and a fast shutter speed of 1/500s to capture sharp movement. --chaos 20 --ar 9:16 --sref 987700834 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4Vt7JjEuqfpTbVlTCQXctiaIT1p90l8Y4KIpUCukxRuz0FdUJ6y783eBwQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA:prompt-0004",
+    "source_metadata": {
+      "article_index": 215,
+      "article_title": "Vol.127 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741401031,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Ud~JEhy1yZGGg1Y9wWfbVA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0",
+    "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494273&idx=1&sn=049f7877a61e0dedb25802b533a17204&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

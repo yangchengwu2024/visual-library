@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:39:54+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4KYxFkrQR7sIY6T0mD6Gia7BfRaibwiaicF4d8PYjdhoyDvIAfz9njWgLzw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-0540760f5b3e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "25118f59747642c2f72975e5fa53d498bed2c53e86369f679137b71a32d4ba55",
+  "model": "Midjourney",
+  "parameters": {
+    "q": "3"
+  },
+  "previous_version": null,
+  "prompt": "--q 3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4KYxFkrQR7sIY6T0mD6Gia7BfRaibwiaicF4d8PYjdhoyDvIAfz9njWgLzw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg:prompt-0023",
+    "source_metadata": {
+      "article_index": 87,
+      "article_title": "Midjourney 参数索引表 (2025.08)",
+      "association_confidence": "review",
+      "createTime": 1755214267,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 23,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_veka5mjkVktmWWssjsDYvg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=2&sn=37a450cda741a92f12681610a7f91337&chksm=96f05458e6ca5c6c1934d2b73059841c93c875228751a8e90b09dff45c89edb0c66e06c00e9e#rd",
+    "title": "Midjourney 参数索引表 (2025.08) · 提示词 24",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499634&idx=2&sn=37a450cda741a92f12681610a7f91337&chksm=96f05458e6ca5c6c1934d2b73059841c93c875228751a8e90b09dff45c89edb0c66e06c00e9e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney 参数索引表 (2025.08) · 提示词 24",
+  "version": "v1"
+}

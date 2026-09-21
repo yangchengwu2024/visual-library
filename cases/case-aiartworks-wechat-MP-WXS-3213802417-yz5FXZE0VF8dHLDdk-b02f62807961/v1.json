@@ -1,0 +1,99 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WB2Ve3ia7dj53j21cVY0wFxkFAa0As3pY6o91hwVlccic7bTB19URCLT6KfxjPR5eFeKTnNSGPhN5rqme2lMw4lGFZhsUDrnia0dk/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCPC4dMdLzdrpWIDgdWwGDJtIgFeC8yWJf043wYHGC4sm4nA3nBeLTCRlhnnP2gcg5gyDV93L0FQDoiad7z5tOtibEussUQFoEgk/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBRF4J2cXBRkxLtrmP3Lm1TtovqVUtclHCibYrzuE9UY2SIibbRxObGibyGTqNckQGkOdPV57VfMUkvQ7WAtT0NjOnHStfuTk59JQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDack3DjMMoxIZScsWdEapaEhwb00UK65dLoXBcUb7eiavPryfgxliaBniclPGia0IUHqBY4pd8Gdmic2KQer1SkV5KHnMYavpvAGzI/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-3"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yz5FXZE0VF8dHLDdk-b02f62807961",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dea79f34308a117a2cc382a7d289c804215a6de39bfda8565f039c398afe781b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "exp": "15",
+    "hd": true,
+    "profile": "iq1g7n7",
+    "sref": [
+      "791701054",
+      "2187836272"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Macro shot, liquid chrome panther emerging from black fluid, emitting magenta neon light, in the style of Jason Ebeyer --ar 1:2 --exp 15 --sref 791701054 2187836272 --profile iq1g7n7 ts7uhe3 ksjnzzh tfuv1p5 vzo8xld ujywqql --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WB2Ve3ia7dj53j21cVY0wFxkFAa0As3pY6o91hwVlccic7bTB19URCLT6KfxjPR5eFeKTnNSGPhN5rqme2lMw4lGFZhsUDrnia0dk/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCPC4dMdLzdrpWIDgdWwGDJtIgFeC8yWJf043wYHGC4sm4nA3nBeLTCRlhnnP2gcg5gyDV93L0FQDoiad7z5tOtibEussUQFoEgk/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBRF4J2cXBRkxLtrmP3Lm1TtovqVUtclHCibYrzuE9UY2SIibbRxObGibyGTqNckQGkOdPV57VfMUkvQ7WAtT0NjOnHStfuTk59JQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WDack3DjMMoxIZScsWdEapaEhwb00UK65dLoXBcUb7eiavPryfgxliaBniclPGia0IUHqBY4pd8Gdmic2KQer1SkV5KHnMYavpvAGzI/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg#image-3"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg:prompt-0003",
+    "source_metadata": {
+      "article_index": 29,
+      "article_title": "Vol.304-Midjourney | 5月官网热刷作品盘点",
+      "association_confidence": "high",
+      "createTime": 1780194989,
+      "image_storage": "external_url",
+      "image_url_count": 4,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_yz5FXZE0VF8dHLDdkd1BNg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 3
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd",
+    "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506661&idx=1&sn=55977b756c87568f9abbf8e8474e3800&chksm=960aae4dcc76cfeb69ecbe618fc710cce0970f142f849811e10e6d8e60bf77e297b3b1318bce#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.304-Midjourney | 5月官网热刷作品盘点 · 提示词 4",
+  "version": "v1"
+}

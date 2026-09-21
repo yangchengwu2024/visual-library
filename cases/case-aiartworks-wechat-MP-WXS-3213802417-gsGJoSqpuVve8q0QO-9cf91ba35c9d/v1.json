@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-09-21T11:39:43+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBESoBM9iaLsDgYl16pVrEJIwxbGd58HpTNNE0SMdW1n5KbJjCG5rsNHePJXsefagpJPWW29mC3n3dicXSC4wTxUSu1bn6r7MHyM/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WChIu8pDJ0Wtnvwiclu7g2ibFVo92sQgHRxAVe5031G0S7K2IjvPm3uKtl9jk05yWzmvElB03MFrUA483zcRtTrgia3RjzicoBrBRo/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBWmGnTiaNXibzL6iaC6bmvRHDhRv2mjicyVxV9r42aT4Lnz57g21yfMcz0SickQcITictcR7nIlw8sKZScfR5FJIvCPD9eOlib8gk8bY/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gsGJoSqpuVve8q0QO-9cf91ba35c9d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "309f66df163f34ab5e6186a2b53b72b28fff6b4aedbbf6083fad29033c33716a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "fcszmqt",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/vR53Ctwf8Hg",
+      "https://s.mj.run/o1uGNC-UVw8",
+      "https://s.mj.run/RAGeWpw0F20",
+      "https://s.mj.run/7o5XoeLLK4k",
+      "https://s.mj.run/yUJI2IKfSj8",
+      "https://s.mj.run/8oumkAYjnIU",
+      "https://s.mj.run/o4_a7aQfn5Q",
+      "https://s.mj.run/1A9fMRbEeUk"
+    ],
+    "sw": "800"
+  },
+  "previous_version": null,
+  "prompt": "Full body medium shot, dynamic capture of model walking naturally with back to the camera and slight sideways turn back, stepping posture, fully showing the back silhouette of the T-shirt, hair fluttering naturally with slight motion blur, relaxed and stretched body, no handheld items, no fixed facial feature restrictions Eye-level shot, medium telephoto lens, centered composition, ample negative space on the right side of the frame, shallow depth of field, clean and transparent picture Outfit: pure white oversize loose drop-shoulder short-sleeve T-shirt, minimalist basic style, no extra decoration on the body; dark brown and white gingham Bermuda shorts; gray slouchy mid-calf socks; black patent leather loafers with metal buckles Even and soft diffused studio fill light, shadowless studio lighting, no harsh shadows, low contrast, soft and clean light, natural skin texture Japanese retro preppy style, FUDGE fashion magazine aesthetic, cityboy outfit portrait, minimalist seamless pure white shadowless background, low saturation soft color palette, film grain texture, relaxed and healing atmosphere, handwritten English text \"Check Coat & Overalls!!\" on the upper right of the frame, vertical small Japanese text annotation on the lower left, magazine inner page layout design 8K UHD, ultra-high detail, moderate sharpness, natural skin tone, clear hair strand details, realistic portrait photography --ar 2:3 --raw --sref https://s.mj.run/vR53Ctwf8Hg https://s.mj.run/o1uGNC-UVw8 https://s.mj.run/RAGeWpw0F20 https://s.mj.run/7o5XoeLLK4k https://s.mj.run/yUJI2IKfSj8 https://s.mj.run/8oumkAYjnIU https://s.mj.run/o4_a7aQfn5Q https://s.mj.run/1A9fMRbEeUk --profile fcszmqt --sw 800",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBESoBM9iaLsDgYl16pVrEJIwxbGd58HpTNNE0SMdW1n5KbJjCG5rsNHePJXsefagpJPWW29mC3n3dicXSC4wTxUSu1bn6r7MHyM/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WChIu8pDJ0Wtnvwiclu7g2ibFVo92sQgHRxAVe5031G0S7K2IjvPm3uKtl9jk05yWzmvElB03MFrUA483zcRtTrgia3RjzicoBrBRo/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBWmGnTiaNXibzL6iaC6bmvRHDhRv2mjicyVxV9r42aT4Lnz57g21yfMcz0SickQcITictcR7nIlw8sKZScfR5FJIvCPD9eOlib8gk8bY/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg#image-2"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg:prompt-0012",
+    "source_metadata": {
+      "article_index": 37,
+      "article_title": "Vol.295 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1777246268,
+      "image_storage": "external_url",
+      "image_url_count": 3,
+      "prompt_index": 12,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0",
+    "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

@@ -1,0 +1,56 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-0ecd25203d38",
+  "fingerprint": "971455410ba3a136a142461c641ec625e74344b30ba685755124f4a4fabd742a",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "prompt": "white snake made of glowing pink light, wrapped around the body of Chinese woman, red background. Minimalist, front-view, surreal photography style, studio lighting effect, low-angle shot, close-up, exaggerated perspective, strong contrast between reality and fantasy, unique visual effects, in the style of surrealist photography --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q:prompt-0009",
+    "source_metadata": {
+      "article_index": 249,
+      "article_title": "Vol.92 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1737513108,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0",
+    "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491981&idx=1&sn=e8b1a7265d03fae9dce25a73279d95eb&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_0PxC7EogMN1Af0HICK-t8Q:prompt-0009",
+  "status": "pending",
+  "title": "Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 10"
+}

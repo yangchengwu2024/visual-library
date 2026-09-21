@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBiaqY706bnpwJa6QfibdBav7yvTK8xxuDapmnZ4Ac7TL05R2zCtdf5hmOpxGkdeTVuevY4YxCba2o845We4BGkIRZJIvS5tyWSA/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vNrP6Kx44Y9UMaVje-edd598eb5ab2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "53c93154613270339b7e91dd60767ae9bd952d72dc2d49673ad9abc3ac8c6638",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "raw": true,
+    "sref": [
+      "2979599935"
+    ],
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "graphic novel book cover, modern poster, red accents, minimalism. An ordinary-looking Chinese woman wearing a traditional cheongsam, mid-shot, holding a Chinese ceramic wine cup, rushing towards the camera inside a Chinese tavern. Plain asymmetrical face, slightly puffy cheeks, tired uneven eyes, heavy eyelids, slack facial muscles, mouth slightly open, blank unfocused stare, stiff and socially awkward expression, strangely dull and unsettling, completely unglamorous, no beauty-pose expression. dark ink tones with muted crimson accents, spacious composition, eerie cinematic atmosphere. --ar 3:4 --raw --sref 2979599935 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBiaqY706bnpwJa6QfibdBav7yvTK8xxuDapmnZ4Ac7TL05R2zCtdf5hmOpxGkdeTVuevY4YxCba2o845We4BGkIRZJIvS5tyWSA/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g:prompt-0002",
+    "source_metadata": {
+      "article_index": 0,
+      "article_title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天",
+      "association_confidence": "high",
+      "createTime": 1789687866,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+    "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 3",
+  "version": "v1"
+}

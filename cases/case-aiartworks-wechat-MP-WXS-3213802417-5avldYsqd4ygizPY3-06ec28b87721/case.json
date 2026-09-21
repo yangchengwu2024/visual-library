@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5avldYsqd4ygizPY3-06ec28b87721",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheZTheyg5nmwCYJlYB3ibj88xveAykBVcLoibLq79jzounlicADVQpS6JFNRQ9WIbzGnjtJXF8lq7Yyg/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA:prompt-0004",
+      "source_metadata": {
+        "article_index": 124,
+        "article_title": "Vol.204 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1749252680,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 4,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_5avldYsqd4ygizPY3A0mkA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd",
+      "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 5",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497773&idx=1&sn=d4107ed1d78754dd6ab1ddeb3f8ac15b&chksm=96664746aaf36378aa18c5cad181138f06cdf5fb31ed709dcbbcaea259d4495db082816000fe#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "title_aliases": [
+    "Vol.204 - Midjourney | 精选作品关键词提示 · 提示词 5"
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:26+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9xkVQISia5k9LK9pzDIZTZWZXQDGSnhJwE78rl9QYChEn3J14wuib4cgw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SdZ9AZ4Dg-VWtZWG9-493d9773f8d6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e7e364157f84db8bd91f2e6d9e8c9f02d9714b8237487190d10219186a98a8ad",
+  "model": "Midjourney",
+  "parameters": {
+    "style": "raw",
+    "stylize": "250",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Breaking bad brain cramston portrait, black and white --style raw --stylize 250 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9xkVQISia5k9LK9pzDIZTZWZXQDGSnhJwE78rl9QYChEn3J14wuib4cgw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w:prompt-0008",
+    "source_metadata": {
+      "article_index": 283,
+      "article_title": "Vol.60 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1734346460,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 8,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0",
+    "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

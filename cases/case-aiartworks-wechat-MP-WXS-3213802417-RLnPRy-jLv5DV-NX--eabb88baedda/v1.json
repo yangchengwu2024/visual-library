@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:40:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVMbLuCBmxpo9K7KBZjg0jEXPciaqTcCMZ0HS1S8FA31ib8iaNNwp2oxl4A/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RLnPRy-jLv5DV-NX--eabb88baedda",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ef8ddd2b672e7a750535a5362263f3b77a88108d41880addaf2c25087f2ee130",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "ultrarealistic shot of a woman sleepy about to fall on her bed, she is mid air --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShch5MNotScUIGKgw1LcmHWVMbLuCBmxpo9K7KBZjg0jEXPciaqTcCMZ0HS1S8FA31ib8iaNNwp2oxl4A/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 123,
+      "article_title": "Vol.205 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749345399,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RLnPRy~jLv5DV-NX-BpVOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd",
+    "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497858&idx=1&sn=118555e4c91142efcaae0a73efe6b69b&chksm=96c036afbd268296ab2d3fb04cbe86a79c653c866ac4039e5ac00033c17d9285da40fd10d4fd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.205 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

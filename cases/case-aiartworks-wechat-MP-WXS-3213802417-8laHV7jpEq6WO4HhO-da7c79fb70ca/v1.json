@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:40:19+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQQLibWY7XocKlIEM4Ib5pSwHQ8xqNlicaTS2J7beJleJzrLtXPRfltRxQr3H1rO8kL9KI8icLgt54g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_8laHV7jpEq6WO4HhOlp-lw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-8laHV7jpEq6WO4HhO-da7c79fb70ca",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9a011340366d379091bac80130059069f37bb7c1882c9775627388f6c26cad62",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a digital painting of a trailer park at night that is constructed of dozens of metal shipping containers converted into homes that are all stacked on top of one another-- it's reminiscent of Brazilian favelas landscape. It's a wide shot. And far in the distance is a giant, omionous, futuristic tower. It's thick and designed in the same aesthetic as a 90s, beige personal computer. Also pull inspiration from the futuristic design of the movie Chappie --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfQQLibWY7XocKlIEM4Ib5pSwHQ8xqNlicaTS2J7beJleJzrLtXPRfltRxQr3H1rO8kL9KI8icLgt54g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_8laHV7jpEq6WO4HhOlp-lw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_8laHV7jpEq6WO4HhOlp-lw:prompt-0017",
+    "source_metadata": {
+      "article_index": 244,
+      "article_title": "Vol.101 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1738809042,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 17,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_8laHV7jpEq6WO4HhOlp-lw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492634&idx=1&sn=59df33d9a2639f19c8b86cc115ce5725&scene=58&subscene=0",
+    "title": "Vol.101 - Midjourney | 精选作品关键词提示 · 提示词 18",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492634&idx=1&sn=59df33d9a2639f19c8b86cc115ce5725&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.101 - Midjourney | 精选作品关键词提示 · 提示词 18",
+  "version": "v1"
+}

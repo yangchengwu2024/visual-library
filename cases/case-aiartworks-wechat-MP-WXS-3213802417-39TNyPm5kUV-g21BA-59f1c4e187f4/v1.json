@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:39:57+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdyibve0an51fgwv3lGydtvhnkicicDAg6Rdc6qN1LCHq5ia22icuBn3S9xAHw6UAeUJZ3wg7tMpb6Xa7A/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-39TNyPm5kUV-g21BA-59f1c4e187f4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4854123613b56a78752c8d4ff479d7df3a5dd8edfa3fcccd21d4926bca8496ff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "36",
+    "exp": "50",
+    "profile": "dmz6ju2",
+    "sref": [
+      "https://s.mj.run/04wLEcB1VM4",
+      "https://s.mj.run/o4aqdZxT5q4"
+    ],
+    "sv": "4"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/4XtTGR1IMWI https://s.mj.run/Qgs5kGP3JyU A girl rides a bicycle through a forest of white trees, with leaves drawn with dots and white trunks drawn with colored linear illustrations. It uses the art style of German illustrator Karlotta Freier, with a New Yorker magazine feel. The ground is covered with green grass, with bright colors, light and shadow, and high-definition quality. --chaos 36 --ar 3:4 --exp 50 --sref https://s.mj.run/04wLEcB1VM4 https://s.mj.run/o4aqdZxT5q4 --profile dmz6ju2 --sv 4",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdyibve0an51fgwv3lGydtvhnkicicDAg6Rdc6qN1LCHq5ia22icuBn3S9xAHw6UAeUJZ3wg7tMpb6Xa7A/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ:prompt-0005",
+    "source_metadata": {
+      "article_index": 102,
+      "article_title": "Vol.227 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1751585451,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 5,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_39TNyPm5kUV~g21BAQ-aOQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd",
+    "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 6",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498793&idx=1&sn=5bf58ea59b2fcb504e01ebe1ad31b6e9&chksm=96fcbe0e922994496d373f70983770895154fa4710519a3f6574811ab6ddffabbb0a3cb1c647#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.227 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "version": "v1"
+}

@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:30+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcObsue7Zofg9D6VjyriaWlLXap1IBRLT2ibAlOwEKWdDoj5jORhn69xvWwUALnXttTMR2YYTYxfLpA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gqefcEU41oKfmLh6J-279076e0978a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "473785e17889508d8e37867ae729c970cb131595dbc655174b518c0429cd2fd0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "sref": [
+      "450675409"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "The cute calico cat Holding the yarn ball with his paws, he fluttered excitedly on the carpet in the living room. High resolution, illustration style, meticulous, simple lines, hand-drawn, bright colors, color contrast, cute cartoon design. It has crisp details and bright colors, painted using minimalist painting techniquesThe cute cat purrs on the sofa in the living room and enjoys delicious canned food in its dream. High resolution, illustration style, meticulous, simple lines, hand-drawn, bright colors, color contrast, cute cartoon design. It has crisp details and bright colors, painted using minimalist painting techniques --ar 9:16 --sref 450675409 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcObsue7Zofg9D6VjyriaWlLXap1IBRLT2ibAlOwEKWdDoj5jORhn69xvWwUALnXttTMR2YYTYxfLpA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ:prompt-0015",
+    "source_metadata": {
+      "article_index": 305,
+      "article_title": "Vol.41 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1732453234,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gqefcEU41oKfmLh6JfFMaQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487963&idx=1&sn=ac434ca95db232e7cb10cd8f6687072e&chksm=9662716ca5f0e95acaddadd9deb695daea8a2542077ab26ee443c3eae96ea52c3e34b06a5127#rd",
+    "title": "Vol.41 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487963&idx=1&sn=ac434ca95db232e7cb10cd8f6687072e&chksm=9662716ca5f0e95acaddadd9deb695daea8a2542077ab26ee443c3eae96ea52c3e34b06a5127#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.41 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

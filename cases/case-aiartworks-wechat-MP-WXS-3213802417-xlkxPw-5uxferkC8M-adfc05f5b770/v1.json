@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:20+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAtXoA2D8MS5tRSKNI1s1l1X49Q5Y9ABicQE3ygkTzzVia8cq8Xxhmg3WQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xlkxPw-5uxferkC8M-adfc05f5b770",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "69cd796a06d7f8a6664e2826a1263d1ed90c5f6fd434faf84c3187973280dea8",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "chaos": "10",
+    "profile": "w931un2",
+    "style": "raw",
+    "stylize": "450",
+    "v": "6.1",
+    "weird": "200"
+  },
+  "previous_version": null,
+  "prompt": "eat yellow snow, photo realistic, intricate, detailed, Bertien Van Manen style, HR, studio lighting, magazine photo, bright lights, Alex Prager style, Lise Sarfati style, 60s-70s, ultra realistic --chaos 10 --ar 4:3 --style raw --profile w931un2 --stylize 450 --weird 200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe2VibNqqico4CbIic2Q3X1ZKAtXoA2D8MS5tRSKNI1s1l1X49Q5Y9ABicQE3ygkTzzVia8cq8Xxhmg3WQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ:prompt-0012",
+    "source_metadata": {
+      "article_index": 250,
+      "article_title": "Vol.91 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1737426646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xlkxPw~5uxferkC8MAZuBQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0",
+    "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491980&idx=1&sn=07418b74429686e0d7b7ae2041477bc7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.91 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

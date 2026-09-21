@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TrfXLE79UbaBLIKZC-8044d404d827",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyqkFiaRh4u1S0bzQSzy5TwWarLTAl6ZcmzgUWmlKiauCKX1ECtPyrLwA4HCWysBoUX4FehR79k1uA/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA:prompt-0003",
+      "source_metadata": {
+        "article_index": 241,
+        "article_title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示",
+        "association_confidence": "high",
+        "createTime": 1739068226,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 3,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_~TrfXLE79UbaBLIKZC6NrA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 1
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492808&idx=1&sn=cbeab0119fab832ceb1cccf64cac2a1b&chksm=96a38f018537ef7d3c57e36d3b5419d66c131f72b20605791fb78dd2069d58f779672254fd90#rd",
+      "title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247492808&idx=1&sn=cbeab0119fab832ceb1cccf64cac2a1b&chksm=96a38f018537ef7d3c57e36d3b5419d66c131f72b20605791fb78dd2069d58f779672254fd90#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 4",
+  "title_aliases": [
+    "周末特别版 | Momsuca的高饱和视觉 - Midjoureny | 精选作品与提示 · 提示词 4"
+  ]
+}

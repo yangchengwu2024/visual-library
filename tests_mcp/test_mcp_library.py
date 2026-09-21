@@ -9,6 +9,7 @@ from pathlib import Path
 import sys
 import tempfile
 import unittest
+from unittest.mock import patch
 
 sys.dont_write_bytecode = True
 sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "scripts"))
@@ -165,6 +166,48 @@ class MCPLibraryTest(unittest.TestCase):
         create_server(self.root, COMMIT, REPOSITORY, snapshot_setup=received.append)
         self.assertEqual(len(received), 1)
         self.assertIsInstance(received[0], LibrarySnapshot)
+
+    def test_remote_asset_is_fetched_in_memory_without_snapshot_write(self):
+        remote_url = "https://mmbiz.qpic.cn/mmbiz_png/example/0?wx_fmt=png"
+        record = {
+            "source_id": "remote-one", "title": "Remote prompt", "prompt": "remote",
+            "category": "Other Use Cases", "source_url": "https://example.test/remote",
+            "model": "Midjourney", "parameters": {},
+            "assets": [{"remote_url": remote_url, "role": "output", "source_path": "remote#0"}],
+            "metadata": {"model_family": "midjourney", "review_status": "needs_review"},
+        }
+        library.import_records(self.root, [record], "remote-fixture", "r1")
+        case_id = library.stable_case_id("remote-fixture", "remote-one")
+        payload = io.BytesIO()
+        Image.new("RGB", (120, 60), "orange").save(payload, format="PNG")
+
+        class Headers:
+            def get_content_type(self):
+                return "image/png"
+
+        class Response:
+            headers = Headers()
+
+            def __enter__(self):
+                return self
+
+            def __exit__(self, *args):
+                return False
+
+            def geturl(self):
+                return remote_url
+
+            def read(self, limit):
+                return payload.getvalue()
+
+        before = self.files()
+        with patch("mcp_library.urlopen", return_value=Response()):
+            result = self.snapshot.get_case_image(case_id)
+        metadata = result.structuredContent
+        self.assertTrue(metadata["remote_fetch"])
+        self.assertEqual(metadata["original_url"], remote_url)
+        self.assertEqual(metadata["original_size"], [120, 60])
+        self.assertEqual(before, self.files())
 
 
 if __name__ == "__main__":

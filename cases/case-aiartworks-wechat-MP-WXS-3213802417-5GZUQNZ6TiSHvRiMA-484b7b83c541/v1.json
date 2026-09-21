@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:40+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCewiaUAZ9ZPOpPvNmXcfTkzldyUKMjmVGAj3aIfPhtyeaZr4E1JOibaA3icEchRNuEhsibpmStLU0o9P2GhrLcicFz3nRddYAN4vNQ/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5GZUQNZ6TiSHvRiMA-484b7b83c541",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3d5bb8ea02e9c32cb4a1a212ad58a90341ce600cd85ca55b798c20e5dccaa532",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "profile": "wyqud99",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/Nv9UJxlibEk",
+      "https://s.mj.run/u6sLNedx5JM",
+      "https://s.mj.run/f-RcgkLcn2M",
+      "https://s.mj.run/z6gA7-0lQUY"
+    ],
+    "stylize": "1000",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "super macro extreme closeup portrait woman in her 45's of uncanny beauty and style and her partner in conversation while eating and drinking wine casually having brunch of fine dining michelin star restaurant in paris . both bold gq vogue models captivating composition, multilayered composition, cinematic light, underexposed, atmospheric , moody, beautiful instagramm able cover photo shot. silent luxury, understated sophistication, opulent simplicity, design. minimalism, luxury, interior design, restaurant in paris, montmartre, sacre coeur, villa bois de boulogne, garden. olive green and teracotta, white. brass. big windows high ceilings, shallow depth of field. lifestyle. people gq, vogue, no sunglasses. wide angle. modern luxurious minimal design. breathtaking stunning extravagant daring bold design and photograph. beautiful garden. open kithcen, cooks, open bar, with centerpiece hanging from the ceiling --ar 2:3 --raw --sref https://s.mj.run/Nv9UJxlibEk https://s.mj.run/u6sLNedx5JM https://s.mj.run/f-RcgkLcn2M https://s.mj.run/z6gA7-0lQUY --profile wyqud99 4u5u2ra --stylize 1000 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCewiaUAZ9ZPOpPvNmXcfTkzldyUKMjmVGAj3aIfPhtyeaZr4E1JOibaA3icEchRNuEhsibpmStLU0o9P2GhrLcicFz3nRddYAN4vNQ/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg:prompt-0009",
+    "source_metadata": {
+      "article_index": 11,
+      "article_title": "Vol.321-Midjourney 精选作品 | Hello V8.2 !",
+      "association_confidence": "high",
+      "createTime": 1785627022,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5GZUQNZ6TiSHvRiMAAijrg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0",
+    "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510784&idx=1&sn=5eb7f530e26553aae4dbc0a6f8327641&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.321-Midjourney 精选作品 | Hello V8.2 ! · 提示词 10",
+  "version": "v1"
+}

@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-YkHSl6XfLw22pE799-5af7fce87665",
+  "fingerprint": "14537df28e14740387de11d6678138ccb4c20770dda659a7c89dd92be6fc0d3d",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:11",
+    "chaos": "44",
+    "personalize": "hsyhg5r",
+    "stylize": "500",
+    "v": "6.1"
+  },
+  "prompt": "An ultra-detailed, cinematic movie screenshot of a lone figure standing on sunlit rolling hills of a grassy field, gazing into the distance at a massive, dark portal opening in the bright sky. The sun casts long shadows across the landscape, but the portal emits dark, ominous, stormy vibes, contrasting sharply with the sunny surroundings. Dramatic lighting, high dynamic range, photorealistic rendering, atmospheric effects, epic composition, cinematic color grading --chaos 44 --ar 9:11 --personalize hsyhg5r --stylize 500 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_YkHSl6XfLw22pE799U7vuQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 320,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.27",
+      "association_confidence": "prompt_only",
+      "createTime": 1731130905,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_YkHSl6XfLw22pE799U7vuQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486606&idx=1&sn=4ce0ecc310c6886ca126bc1b02a03889&chksm=966043d245e418b82688a65d12dee71e407aaa004a8bc2a73ae594191f2cbde78bc89351b83e#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.27 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486606&idx=1&sn=4ce0ecc310c6886ca126bc1b02a03889&chksm=966043d245e418b82688a65d12dee71e407aaa004a8bc2a73ae594191f2cbde78bc89351b83e#rd"
+  },
+  "source_id": "MP_WXS_3213802417_YkHSl6XfLw22pE799U7vuQ:prompt-0001",
+  "status": "pending",
+  "title": "Midjourney | 精选作品及提示 - Vol.27 · 提示词 2"
+}

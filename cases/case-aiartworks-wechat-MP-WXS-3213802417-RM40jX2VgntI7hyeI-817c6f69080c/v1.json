@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcfuFvRiaHyUbgQ96OQuhKicaI1YaqusYVLKgR7SMJibd6iacYSrFrEMrNNsHlENGbQFAL7pchSfocCdQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RM40jX2VgntI7hyeI-817c6f69080c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6325fefdd268fd33f5e4deb5c52d1365f295dbb69f6d8540a8be0669461ae716",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "chaos": "100",
+    "personalize": "y78d341",
+    "sref": [
+      "https://s.mj.run/6JN42jxaiOA",
+      "https://s.mj.run/x-v4uF-QaOs",
+      "https://s.mj.run/ScAXhGcEKX4",
+      "https://s.mj.run/dvCXb5i_x_c"
+    ],
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A PlayStation 1 character portrait of a cosmic female Ancient Cosmic Goddess, artist by Peter Paul Rubens, ZBrush Weta Digital VFX Effect PlayStation 1 cosmic character design, shot by Nikon D800, 2492x1663, 4MP, ISO 100, 110mm, --chaos 100 --ar 4:5 --style raw --sref https://s.mj.run/6JN42jxaiOA https://s.mj.run/x-v4uF-QaOs https://s.mj.run/ScAXhGcEKX4 https://s.mj.run/dvCXb5i_x_c --personalize y78d341 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcfuFvRiaHyUbgQ96OQuhKicaI1YaqusYVLKgR7SMJibd6iacYSrFrEMrNNsHlENGbQFAL7pchSfocCdQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg:prompt-0014",
+    "source_metadata": {
+      "article_index": 338,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.10",
+      "association_confidence": "high",
+      "createTime": 1729338056,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RM40jX2VgntI7hyeI2uvVg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485285&idx=1&sn=1fa8ec060d868d5a1ef7d62d6dde63b2&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.10 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485285&idx=1&sn=1fa8ec060d868d5a1ef7d62d6dde63b2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.10 · 提示词 15",
+  "version": "v1"
+}

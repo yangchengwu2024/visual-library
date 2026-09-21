@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:42+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCexFe23uDro6sia3FNvShrE2ibbVsAVIHzWHpXdgBV0C6YoLoV7JHVl22Nv03bv9DTXA2s98GqP04QW6GYmQniaCmQqvT1iaXmJfQ/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vPFVyUmZkDO--qxwr-e62b60789cf1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "05f48e5d57dcc5adc1aaffc95ed513ccc357f3a0c1fe4ea2d8169652119d8e1c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "relax": true,
+    "stylize": "50",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "奇幻3D动画电影画面:明亮的夜色，紫色草原中央矗立着一棵白色大树，周围是茂密的白色大树林，2名可爱的2头身比例宇航员身穿白色宇航服，其中一名宇航员正顺着树干向上攀爬，另有宇航员站在树顶，手中捧着两颗硕大的发光天线。前景处有一座圆石搭建的小屋，屋舍配有门窗，门前一台敞篷月球车。整片场景笼罩在璀璨星空之下，地面泛着幽幽紫调，色彩对比鲜明。整体光线柔和，氛围梦幻，整体光线柔和，景致唯美动人。细节丰富、分辨率高、画质精良，奇幻世界。 --ar 9:16 --relax --stylize 50 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCexFe23uDro6sia3FNvShrE2ibbVsAVIHzWHpXdgBV0C6YoLoV7JHVl22Nv03bv9DTXA2s98GqP04QW6GYmQniaCmQqvT1iaXmJfQ/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag:prompt-0007",
+    "source_metadata": {
+      "article_index": 26,
+      "article_title": "Vol.307-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "review",
+      "createTime": 1781134251,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vPFVyUmZkDO-~qxwrMFyag",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0",
+    "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247507477&idx=1&sn=a515db0bf7c3544299982f31e1c923d5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.307-Midjourney 精选作品提示词与赏析 · 提示词 8",
+  "version": "v1"
+}

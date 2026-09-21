@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:40:04+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0VzpSmUzefrQBbvOxJFaibq9bhic1aIeXjtovmIWwU9HbwnPBPaA1jCK8A/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-kKdkmpDuiXSh4N6fl-cee79536d81f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "8af969f0db82fdde21834efb55ae8b4c5929e83c5dfc3eaa73c17819bdd71272",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "5",
+    "profile": "3coiz8m",
+    "stylize": "700",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Women with light skin, blue eyes and thoughtful expressions look directly at the viewer, wearing turtleneck sweaters and elaborate garments made of sheet music, appearing to be crafted and sewn from music sheets, giving a complex, intricate look and texture. Headpiece made of rolled music sheets, with strings and wire elements. The garment and headpiece are attached in a flowing, organic way. The posture is slightly angled, with the body angled towards the camera, and soft lighting creates a subtle atmosphere. Black and white tones, minimalist aesthetic, fashion photography. High contrast between the intricate details of the garments and the soft background, with a blurred background. Studio shot, detailed portrait close-up, emphasizing the texture and design of the clothing and headpiece, with muted tones. High resolution, intricate details, fashion surrealism. --chaos 5 --ar 3:4 --profile 3coiz8m --stylize 700 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdbZqicxrqQMh2jbiayKEB0VzpSmUzefrQBbvOxJFaibq9bhic1aIeXjtovmIWwU9HbwnPBPaA1jCK8A/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA:prompt-0000",
+    "source_metadata": {
+      "article_index": 149,
+      "article_title": "Vol.180 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1746844247,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_kKdkmpDuiXSh4N6fl2IGpA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd",
+    "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496730&idx=1&sn=c550dd8f78a9d36849e1d6b35dbc918f&chksm=9611b2c74e6e84e0df466388052a1dbe943c0544fe88eaa62d8f08f25f8d52fd7848f6cd3ab6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.180 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

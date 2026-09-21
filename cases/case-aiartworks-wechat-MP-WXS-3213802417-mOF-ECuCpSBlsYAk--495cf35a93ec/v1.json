@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:40:23+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63ITicoDAs60YOZiaibBgPr7eHBvlic292YJFytFfzMk3wzrvjD1Mc4kFHDlw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-mOF-ECuCpSBlsYAk--495cf35a93ec",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ed3235f5d2ecbe531fe0c257cd28728feba7b382b191b005f56e6d863e0cbe67",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "dw3kld7",
+    "sref": [
+      "1567159629"
+    ],
+    "stylize": "200",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A cute girl is sitting on top of an apple, with half the red and green apples surrounding her. The illustration style features soft edges and blurred details, with light pink as its main color tone. It uses flat illustrations to create a warm atmosphere, giving people feelings of joy. The girl is wearing . --ar 3:4 --sref 1567159629 --profile dw3kld7 --stylize 200 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdSheuibNiaC0viaLeV6gV63ITicoDAs60YOZiaibBgPr7eHBvlic292YJFytFfzMk3wzrvjD1Mc4kFHDlw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q:prompt-0015",
+    "source_metadata": {
+      "article_index": 267,
+      "article_title": "Vol.74 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1735698646,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_mOF~ECuCpSBlsYAk-vSX3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490772&idx=1&sn=a4162690c62b94cb24869ff53ff7b898&chksm=96313d502ce2470b007b26e9fa516d12b41c89e3cadee8b09f1278753f3dcee955b90752ce50#rd",
+    "title": "Vol.74 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247490772&idx=1&sn=a4162690c62b94cb24869ff53ff7b898&chksm=96313d502ce2470b007b26e9fa516d12b41c89e3cadee8b09f1278753f3dcee955b90752ce50#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.74 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

@@ -1,0 +1,59 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-blf0IU3ixlxlxAZbN-8eb3af629422",
+  "fingerprint": "dd596c24c9f00312cec06048165699198186c5175f7e80959baff9b792c576bf",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "6.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "prompt": "a beautiful Fairy sitting on a spicchio di luna. Full body, dynamic pose. Hight definizione. Cartoon style. Disney theme. 500mm. Children book style. In stile ad alta gamma dinamica, illustrazioni animate, daz3d, realismo esotico, scolpito, intensità da primo piano, caos intensità da primo piano 20 --ar 9:16 --style raw --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 314,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.33",
+      "association_confidence": "prompt_only",
+      "createTime": 1731640592,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487053&idx=1&sn=d2cdf46ad5a76bc8b71af39e64b5f246&chksm=96648a92da3148277acccca18827f53b18291cb7649e3ec8fc65ffe98c6cc3ef026962ea8847#rd"
+  },
+  "source_id": "MP_WXS_3213802417_blf0IU3ixlxlxAZbNh5xyQ:prompt-0001",
+  "status": "pending",
+  "title": "Midjourney | 精选作品及提示 - Vol.33 · 提示词 2"
+}

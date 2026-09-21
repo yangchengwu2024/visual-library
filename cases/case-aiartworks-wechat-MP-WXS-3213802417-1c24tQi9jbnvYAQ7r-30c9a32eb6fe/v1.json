@@ -1,0 +1,77 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAZJ2z5NssFFm7ud1rKdnbN8cFG4ibsicbCsfybx5pIv4Pbg39T2aEo3DPt7wy6a7mM6BNfMPdf5JyGDeQzeNDc846oD63dTRuj0/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDpSA9wemmVPLDToFoN0eSUb4uibAicJUGbk9AcMmlRRkicXvicmhhNibYslPZicTll3Oql2cWwZhvmsVzROWJLGwDSYKVMnrmR7M8RI/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-1c24tQi9jbnvYAQ7r-30c9a32eb6fe",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "46be76fbeeaf7ee37007de73fed34b86230a8c1f9e3d647dcf1ad381575daf13",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "20",
+    "hd": true,
+    "preview": true,
+    "profile": "gxvbrxq",
+    "v": "8.1",
+    "weird": "10"
+  },
+  "previous_version": null,
+  "prompt": "整体生物感要强:湿润的玻璃质光泽、活体组织的张力、正在呼吸的姿态、有机的不对称结构、屏幕碎片像长进肉里一样融合在线体上，线缆像血管，镜头群像额外的眼睛。它应该美丽但怪诞，悲伤并且像是活着的。 构图为电影感宽幅全身镜头，低机位街道视角，但距离足够远，必须完整看到从头到脚的全身。比例关系清楚，不要裁切头部或脚部，不要出现可读品牌标志，不要血腥。 情绪氛围:耀眼、悲伤、惊悚、白天公开发生的城市灾难。她看起来既因为被观看而兴奋，又因为害怕消失而恐惧。 风格:好莱坞级别VFX，虚幻五引擎渲染，高级动画 / 游戏电影级生物概念设计，真实明亮的白天阳光，精细的有机体与屏幕混合设计，完成度高的概念主视觉， --chaos 20 --ar 9:16 --profile gxvbrxq --weird 10 --hd --preview --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAZJ2z5NssFFm7ud1rKdnbN8cFG4ibsicbCsfybx5pIv4Pbg39T2aEo3DPt7wy6a7mM6BNfMPdf5JyGDeQzeNDc846oD63dTRuj0/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WDpSA9wemmVPLDToFoN0eSUb4uibAicJUGbk9AcMmlRRkicXvicmhhNibYslPZicTll3Oql2cWwZhvmsVzROWJLGwDSYKVMnrmR7M8RI/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA:prompt-0008",
+    "source_metadata": {
+      "article_index": 1,
+      "article_title": "Vol.331-Midjourney 精选 | 科幻作品选辑",
+      "association_confidence": "review",
+      "createTime": 1789344088,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 8,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_1c24tQi9jbnvYAQ7rB3dEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd",
+    "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511128&idx=1&sn=a702603051adb37596cc06b4b2c196cc&chksm=96c3897df2ec7f64f1e04cab7788fbfa2e1c61b08195a0f361cd12293fd56f1ead3470b8da3c#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.331-Midjourney 精选 | 科幻作品选辑 · 提示词 9",
+  "version": "v1"
+}

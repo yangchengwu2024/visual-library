@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:09+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz99xic9iah5VDqiaXdaDKzXJ434JkoyYVibjqBoV7x52RWrcFfI6TJKmWeDQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WE1yzn5aD8IfieAbj-4f4216aea790",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b83f633e917bf05917d3f475d72edf0385286b320ba251561ed8ee6e31a2e9c7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "profile": "beu4t45",
+    "stylize": "150",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "騰雲駕霧刺繡圖裡的中國龍，雄偉的生物以向上飛翔的姿態展現出來在黑色背景上，身體飾有金銀刺繡及細節繁複。龍的描繪具有中式奢華風格，採用金、銀、紅絲線，圖案精美。龍身十分修長。龍身有四隻腳，每條腳上有五個爪子。身體蜿蜒如同一條長蛇般扭曲，長著一條長長的尾巴，展示著華麗的鱗片。 --ar 1:2 --profile beu4t45 --stylize 150 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShffPNDWUsdBwGsEb2kwhzz99xic9iah5VDqiaXdaDKzXJ434JkoyYVibjqBoV7x52RWrcFfI6TJKmWeDQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q:prompt-0001",
+    "source_metadata": {
+      "article_index": 180,
+      "article_title": "Vol.152 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1744080373,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 1,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd",
+    "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

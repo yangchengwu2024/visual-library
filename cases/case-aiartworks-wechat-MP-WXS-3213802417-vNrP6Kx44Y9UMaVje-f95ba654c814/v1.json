@@ -1,0 +1,67 @@
+{
+  "archived_at": "2026-09-21T11:39:39+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBvfHhRIUvrVhgBYyVSPc8yAp4z4DfOhbABo3j6YNXQDia2ODJZHwvX5CHiac3JG3F7vm6K3yVtV7TsEbMyctnVZicnU85qCuc5PY/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-vNrP6Kx44Y9UMaVje-f95ba654c814",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "fc8c3da0629f5cc7b515c15df6c90e110ecdaaf6df921a34ec6900d31db290b4",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "e7bwcop",
+    "sref": [
+      "https://s.mj.run/GPDSm8ssa-c",
+      "https://s.mj.run/kDXPECCwbqo"
+    ],
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Endless metallic techno chains covered in brutal spikes, enormous interlocking steel links forming a constantly evolving mechanical organism, chains twisting, folding and spiraling into impossible structures, black chrome, gunmetal, razor-sharp thorns, industrial machinery, dark warehouse rave aesthetic, abstract cybernetic architecture, stroboscopic light, reflections moving across metal surfaces, deep shadows, hypnotic fractal-like motion, aggressive camera push-in, macro perspective, endless tunnel of chains, surreal mechanical nightmare, experimental electronic music visual, seamless loop, high contrast, cinematic --ar 9:16 --sref https://s.mj.run/GPDSm8ssa-c https://s.mj.run/kDXPECCwbqo --profile e7bwcop --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBvfHhRIUvrVhgBYyVSPc8yAp4z4DfOhbABo3j6YNXQDia2ODJZHwvX5CHiac3JG3F7vm6K3yVtV7TsEbMyctnVZicnU85qCuc5PY/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g:prompt-0004",
+    "source_metadata": {
+      "article_index": 0,
+      "article_title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天",
+      "association_confidence": "review",
+      "createTime": 1789687866,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_vNrP6Kx44Y9UMaVjeYKm7g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd",
+    "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511183&idx=1&sn=94566ca1f9bd5f36670f4b08dde5b215&chksm=96553a17516735dc8e3727322edf47ec4d25da73614f0cb58ab66de665b352da3315db76700a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.332-Midjourney 精选 | 超现实摄影、游牧美学及某年夏天 · 提示词 5",
+  "version": "v1"
+}

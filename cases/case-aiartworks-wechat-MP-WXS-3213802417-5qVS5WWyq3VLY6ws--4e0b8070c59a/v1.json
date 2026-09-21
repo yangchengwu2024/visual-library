@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:36+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJpx2z8W86iaz61qribuna1feeBkB7G6PwaOg0yZ9CrZEaFdje4AddTRVQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-5qVS5WWyq3VLY6ws--4e0b8070c59a",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "170a3d79f555a1958abae376f0cfb2754dcff667b995bc0d62f7e43000463996",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:1",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A detailed illustration of vibrant flowers in various colors, with intricate patterns and textures, set against an abstract background. The focus is on the delicate petals and leaves of each flower, creating a lively contrast between floral elements and dark tones. This artwork symbolizes growth, beauty, love, creativity, joy, happiness, harmony, or other positive emotions. It adds a touch of whimsy to any space it's placed in.,,in --ar 1:1 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJpx2z8W86iaz61qribuna1feeBkB7G6PwaOg0yZ9CrZEaFdje4AddTRVQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g:prompt-0013",
+    "source_metadata": {
+      "article_index": 341,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.05",
+      "association_confidence": "high",
+      "createTime": 1728876635,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_5qVS5WWyq3VLY6ws~37P6g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484957&idx=1&sn=fb7ebbbf791fe85f0135d18769f7273e&chksm=962498552ae17fd573f352a2dadc4972e570747012fb27da3c23e623fbfede46a3e623f70d63#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.05 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247484957&idx=1&sn=fb7ebbbf791fe85f0135d18769f7273e&chksm=962498552ae17fd573f352a2dadc4972e570747012fb27da3c23e623fbfede46a3e623f70d63#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.05 · 提示词 14",
+  "version": "v1"
+}

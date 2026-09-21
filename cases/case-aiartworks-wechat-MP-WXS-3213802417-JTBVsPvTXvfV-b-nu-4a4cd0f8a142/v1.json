@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:40:05+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59Icn5oZDT19kJpKwLTFTYN1IMZwGUWt7biadNrn4lrEk9FD5uKArPfgO0w/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JTBVsPvTXvfV-b-nu-4a4cd0f8a142",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "55a293d861d2ceb9f11450ed9684075aea7b32875880907d1eadfdf31bb1eba9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "j71u2qz",
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Create a delightful Pixar - style 3D animated illustration in a 9:16 aspect ratio with an image weight of 2. A lively group of animated characters are aboard a wooden roller coaster, brimming with excitement. On the left of the front row, a character sports a bright red cap emblazoned with an \"M\" logo, donning a vivid red shirt paired with blue overalls. With eyes wide as saucers and a startled expression plastered across its face, the character firmly grasps the safety bar, its fingertips paling from the intense grip, embodying the thrill of the ride. Beside this character is an elegant figure with long, flowing white - blonde braids. Dressed in a stunning, shimmering blue - green dress that shimmers like a precious gem, and complemented by spotless white gloves, the character gently holds its hands near its face, mouth slightly agape, capturing a perfect mix of surprise and exhilaration. In the background, various other animated characters come into view, each showcasing their own distinct expressions of surprise or pure elation, adding a dynamic and energetic touch to the scene. The wooden roller coaster track, exuding rustic charm, features intricate carvings and detailed textures, a testament to its craftsmanship. Above them, the sky stretches out in a clear, brilliant blue, enhancing the cheerful and adventurous ambiance of the illustration. --ar 9:16 --profile j71u2qz --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfo7wbsYHhXwrS0AgBd59Icn5oZDT19kJpKwLTFTYN1IMZwGUWt7biadNrn4lrEk9FD5uKArPfgO0w/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw:prompt-0003",
+    "source_metadata": {
+      "article_index": 153,
+      "article_title": "Vol.176 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1746498625,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JTBVsPvTXvfV~b~nuNtLCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd",
+    "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496583&idx=1&sn=a89bc0de04a19da2057d95401d9f41db&chksm=9660e36ad3c69665729277326debae6322d0dd94b878134d626f30b19dddef0ace5b6430c17a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.176 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

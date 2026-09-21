@@ -1,0 +1,60 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-yyaNoAf-0ezSHtHh8-a6c07a16e447",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdglCEkGUvycUAaykjBKINzVJMuWTaLwKMqdtBkMQZkzlH6HcuVOtoQLicywmAydmU532kVI2rGmw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g#image-0"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g:prompt-0003",
+      "source_metadata": {
+        "article_index": 81,
+        "article_title": "Vol.250 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1756251064,
+        "image_storage": "external_url",
+        "image_url_count": 1,
+        "prompt_index": 3,
+        "review_url_count": 1,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_yyaNoAf~0ezSHtHh8Q8m8g",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd",
+      "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 4",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499948&idx=1&sn=fd209ba020ef182ac47faeef3d6048ae&chksm=96ba56868a1430423628c0dc4f4cec5d039f1e1ab1ea0eae337dd1f5a2829193c624251bc595#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "title_aliases": [
+    "Vol.250 - Midjourney | 精选作品关键词提示 · 提示词 4"
+  ]
+}

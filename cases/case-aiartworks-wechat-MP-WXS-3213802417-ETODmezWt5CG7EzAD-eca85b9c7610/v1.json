@@ -1,0 +1,72 @@
+{
+  "archived_at": "2026-09-21T11:39:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOz7iaujafyBhcyRro8QDJFGJTs2y1fr46FPUH4oBlJKIlmMVZtRQictPw/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOmEoLPgU7J1bIPh0AbI4lCTwFON8VazFcHZibicIQ6qr6lSbcJRzETBFA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ETODmezWt5CG7EzAD-eca85b9c7610",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f7b7e2c3fb19f2706467d8261b6035808a76036fd911e70ccce9dc880dfefb52",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "h7o3pxj"
+  },
+  "previous_version": null,
+  "prompt": "Summer Christmas, beach waves, sea water, sunglasses, actual photos, sand, drinking snowman, enjoying snowman, warm nostalgic atmosphere, natural light atmosphere, vintage movie atmosphere --ar 2:3 --profile h7o3pxj",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOz7iaujafyBhcyRro8QDJFGJTs2y1fr46FPUH4oBlJKIlmMVZtRQictPw/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd3lHlbUZN05Gf6Ke4e4owOmEoLPgU7J1bIPh0AbI4lCTwFON8VazFcHZibicIQ6qr6lSbcJRzETBFA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA:prompt-0000",
+    "source_metadata": {
+      "article_index": 46,
+      "article_title": "Vol.286 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1763508615,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 0,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ETODmezWt5CG7EzADhaczA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd",
+    "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247503637&idx=1&sn=f3facfbe0e96294e36e866fa6e487a91&chksm=9686d2f56353bc5e5caa66f1dd94c87a02fad3e33c8df4f67d7fcc72e09c9dcfa68872967bbc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.286 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

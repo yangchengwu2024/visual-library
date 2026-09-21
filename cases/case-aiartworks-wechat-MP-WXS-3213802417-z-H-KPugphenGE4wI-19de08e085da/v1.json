@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:40:11+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsnXWDNRZ2d92d1kM6NQLUqNLgmJluRoFetvoicRZOYFMIJ83yPpRkpVQ/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-19de08e085da",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e51908f528c44e03bb3aa032ef2f8a1ae5ab30025a1cd7bb8ed2351477396b42",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ybzd48c",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A photo of an alien with green skin and frog-like features, wearing a Japanese school uniform, sitting at a desk in front view, surrounded by curious children, set against traditional classroom decor, taken during midday light with a wide-angle lens to capture everyone's focus on the alien, with a color film-like style --ar 9:16 --profile ybzd48c --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShc2YPibRRIlMpjpq5T9GzGRsnXWDNRZ2d92d1kM6NQLUqNLgmJluRoFetvoicRZOYFMIJ83yPpRkpVQ/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ:prompt-0012",
+    "source_metadata": {
+      "article_index": 192,
+      "article_title": "Vol.144 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1743129064,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_z~~H-KPugphenGE4wI9uuQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495309&idx=1&sn=b173cd1448429c9bde9e8c9f1d106fd2&scene=58&subscene=0",
+    "title": "Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495309&idx=1&sn=b173cd1448429c9bde9e8c9f1d106fd2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

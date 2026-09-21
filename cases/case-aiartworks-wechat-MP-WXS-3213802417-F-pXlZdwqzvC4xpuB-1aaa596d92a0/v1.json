@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:39:48+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAt5pk1G95P8dxplESvuFXYfVfvobUZXk2Ccw5OAXr5UD6Yicbgpl1Qgw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F-pXlZdwqzvC4xpuB-1aaa596d92a0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0b55250c4811aa08e2ba2c8a1916c0f4fcdf1e7fd94c7a68d66a19f7cf2ecff",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "profile": "sl6h4qt",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "A realistic illustration, zombie wearing cops uniform, trapped in barbed wire. background black, backlit, sunken eyes, bleak anime style, heavy detail. high saturation. --chaos 10 --ar 9:16 --raw --profile sl6h4qt",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcm8mpHianrzibX2H6Vcxd1aAt5pk1G95P8dxplESvuFXYfVfvobUZXk2Ccw5OAXr5UD6Yicbgpl1Qgw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA:prompt-0015",
+    "source_metadata": {
+      "article_index": 60,
+      "article_title": "Vol.271 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760484668,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 15,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd",
+    "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

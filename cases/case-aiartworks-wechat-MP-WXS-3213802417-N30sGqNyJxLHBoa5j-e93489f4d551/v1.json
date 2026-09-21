@@ -1,0 +1,73 @@
+{
+  "archived_at": "2026-09-21T11:39:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdtNCiaojhKmDwvsaZWeEIMR2Us80pdBTXFPCmDRVo8DqDCQVWUFOHlow/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N30sGqNyJxLHBoa5j-e93489f4d551",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "026e0e515c4cd1572a61c4a30fe03fa22dc125bc37d259a63406796efad8c067",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "vg7y6ad",
+    "sref": [
+      "https://s.mj.run/GeKOPjPUqPc",
+      "https://s.mj.run/q9aSdJGqm2o",
+      "https://s.mj.run/7_MgoRe8SFY",
+      "https://s.mj.run/3ZIUxFV3XwA",
+      "https://s.mj.run/0cYg0fEad_8",
+      "https://s.mj.run/_dOGF1FtuiA",
+      "https://s.mj.run/7cAHlOylgSM"
+    ],
+    "stylize": "250",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "小女孩三岁渐变荧光绿色波浪长发，荧光粉红色眼镜框，白色连衣裙，Heartwarming scene: father lifting laughing child like an airplane, low angle shot, child's arms outstretched, sunlight streaming through floating curtains, dynamic movement lines, watercolor and ink texture, style of Oliver Jeffers, pastel blue and cream background, Award-winning illustration, Van Gogh art, surrealism, masterpiece, art, Van Gogh's work, bizarre, abstract, fluorescent colors, children's book illustration, father's day children's book illustration, they are happy, smiling happily, colorful and rich, a three-year-old girl, pink glasses frame, summer, white gauze skirt, super cute, colorful and rich, advanced, cute and funny, very simple cartoon style, soft lighting, cute expressions, rich details, 3D Pixar quality, 3D Pixar quality, Thomas Kinkade style, Disney Pixar style, Disney Pixar style, cute retro cartoon mascot characters, 1950s screen printing style, extremely simplified shapes, chibi-like proportions, thick outlines, no facial details except dots and curves, line monochrome ink design. Modeled after old American restaurant signs. Perfect for matching with vintage T-shirts. --ar 9:16 --sref https://s.mj.run/GeKOPjPUqPc https://s.mj.run/q9aSdJGqm2o https://s.mj.run/7_MgoRe8SFY https://s.mj.run/3ZIUxFV3XwA https://s.mj.run/0cYg0fEad_8 https://s.mj.run/_dOGF1FtuiA https://s.mj.run/7cAHlOylgSM --profile vg7y6ad --stylize 250 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdtNCiaojhKmDwvsaZWeEIMR2Us80pdBTXFPCmDRVo8DqDCQVWUFOHlow/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw:prompt-0011",
+    "source_metadata": {
+      "article_index": 116,
+      "article_title": "Vol.212 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1749952875,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N30sGqNyJxLHBoa5jztVMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0",
+    "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498103&idx=1&sn=6fd59c2be11531f815e43b716cf47967&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.212 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}
