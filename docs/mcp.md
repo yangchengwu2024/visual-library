@@ -26,13 +26,13 @@
 
 ## 配置方式
 
-Python 3.12+与Git。创建独立虚拟环境并安装`requirements-mcp.txt`；把scripts中的serve_mcp.py、mcp_library.py、library.py、validate_archive.py、archive_image_views.py作为同一套安装文件保存。不要只复制入口而遗漏依赖脚本。
+Python 3.12+与Git。创建独立虚拟环境并安装`requirements-mcp.txt`；把scripts中的visual_library_mcp_gateway.py、serve_mcp.py、mcp_library.py、library.py、validate_archive.py、archive_image_views.py作为同一套安装文件保存。不要只复制入口而遗漏依赖脚本。
 
-Codex的MCP配置使用STDIO，command指向该虚拟环境Python，args为`["-B", "安装目录/scripts/serve_mcp.py"]`。启动超时建议180秒，工具超时60秒；enabled_tools仅包含上述四项。无需GitHub写入凭证（当前仓库公开）。
+Codex的MCP配置使用STDIO，command指向该虚拟环境Python，args为`["-B", "安装目录/scripts/visual_library_mcp_gateway.py"]`。gateway保持外层连接稳定，并在部署标记变化时替换内部`serve_mcp.py` worker、重放内部握手；启动超时建议180秒，工具超时60秒；enabled_tools仅包含上述四项。无需GitHub写入凭证（当前仓库公开）。
 
 先运行`serve_mcp.py --prepare-only`准备缓存；已有克隆可用`--seed <路径>`加速首次对象复制，仍会核对远端。`--offline`显式使用已有快照。准备参数只用于启动器，不是MCP写工具。
 
-配置保存在Codex使用的config.toml。首次安装或更换连接配置时，在设置→MCP servers中重启visual-library连接，再在新任务中验证；后续正常部署由连接自身在下一次工具调用前刷新。
+配置保存在Codex使用的config.toml。首次安装或更换连接配置时，需要让Codex加载一次新的gateway入口；后续正常部署由gateway在下一次工具调用前刷新，不再要求用户重启连接。
 
 ## 写入与上游维护
 
