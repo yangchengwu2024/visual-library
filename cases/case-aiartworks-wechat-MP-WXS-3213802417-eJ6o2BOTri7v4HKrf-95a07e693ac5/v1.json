@@ -1,0 +1,69 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAyWUEfDRtNUPBMP9v4Go5iahicF10j9mqwLJibwFJhblkFKTArHtvEOzMTjSwZGajDUeHdGs8FvtU4ytkqHibLJibpficRkhK8Cv6vc/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eJ6o2BOTri7v4HKrf-95a07e693ac5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6826afc86b9ee9b216341e802b4e121c3c4609467fb34bd61a653585ac2556a6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "fyobed6",
+    "sref": [
+      "https://s.mj.run/4E2N1_sPRvI",
+      "https://s.mj.run/7wdAF6siEyg",
+      "https://s.mj.run/MEtBiy_N2Ik",
+      "https://s.mj.run/gzm32AL_-_w"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/PPIynlbIxwA https://s.mj.run/Xr4sj8pZJDM https://s.mj.run/EedOGgF49RI minimalist stylized digital illustration, dark brown background, dark toned hand holding a luminous wide wine glass filled with vibrant pink and purple gradients, subtle glow, grainy texture, the glass gently rotating like a sommelier aerating wine, smooth swirling liquid motion, refined hypnotic gesture, sophisticated relaxed atmosphere, cinematic minimal animation --ar 9:16 --sref https://s.mj.run/4E2N1_sPRvI https://s.mj.run/7wdAF6siEyg https://s.mj.run/MEtBiy_N2Ik https://s.mj.run/gzm32AL_-_w --profile fyobed6 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAyWUEfDRtNUPBMP9v4Go5iahicF10j9mqwLJibwFJhblkFKTArHtvEOzMTjSwZGajDUeHdGs8FvtU4ytkqHibLJibpficRkhK8Cv6vc/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0003",
+    "source_metadata": {
+      "article_index": 347,
+      "article_title": "Vol.299 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1778558221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 3,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+    "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

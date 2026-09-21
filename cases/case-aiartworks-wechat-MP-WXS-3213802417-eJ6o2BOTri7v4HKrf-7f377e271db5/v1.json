@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WC3tYwOyAnFmvOEqS6Sk386TiaAHdkHiakXVibcX1uaWZOTtRymfelV0IOySDlJM4dFSHcGSibqzic6Nt0UP30l0gK7P9l8D4MlfiboQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eJ6o2BOTri7v4HKrf-7f377e271db5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "04e80f854408c7332021796f90605d927817f174dd0879456e16b19a2310f8f6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "hd": true,
+    "sref": [
+      "496991497"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Blue background. Surreal ultra realistic cinematic scene: a young man sits calmly on a white plastic chair in a dry open field. He wears a light beige textured suit, white shirt, red tie, dark sunglasses, and a mullet. He reads a newspaper actively burning bright orange flames, glowing embers, smoke trails rising. Expression: calm, indifferent. Above, a commercial airplane flies diagonally, heavily damaged, trailing thick black smoke with engine fire against a clean teal blue sky. Chaos in background vs. calm in foreground. Medium long shot, slightly low angle, subject centered. Cinematic teal orange color grading, natural lighting, soft shadows, high dynamic range. Ultra detailed textures: skin pores, fabric fibers, suit wrinkles, reflective sunglasses, paper, realistic fire and smoke physics. Dry grass field, shallow depth of field, bokeh, minimal wind. --ar 2:3 --sref 496991497 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WC3tYwOyAnFmvOEqS6Sk386TiaAHdkHiakXVibcX1uaWZOTtRymfelV0IOySDlJM4dFSHcGSibqzic6Nt0UP30l0gK7P9l8D4MlfiboQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0012",
+    "source_metadata": {
+      "article_index": 347,
+      "article_title": "Vol.299 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1778558221,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 12,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+    "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

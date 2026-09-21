@@ -1,0 +1,77 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCiathicgJCEh5xHQ7zXNhVW7h4sVZkFZ7K1CUyUvldwHQngbqGFugRf2ycG7WgfpPD6ccCgHgU4FibZId11ZMjgEr3icJqg2CAn48/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDaylAqyYpMqYGibzeKeDDowN1mU0bkm1fOTQkbWrBiaGtFoVvFadrctIliaJ5oxAhrPaELL91R8RoxpBjRrVwayxlibLV0iaSviaBW0/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eJ6o2BOTri7v4HKrf-1f753a859ac8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5d63cad02f1fe956b2889ef209e8182cca8df8a9c5b19e96ed76020ea037006a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "hd": true,
+    "profile": "qmhkqau",
+    "sref": [
+      "https://s.mj.run/0bjY8D8J69M"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/BxP8tU2EwgY https://s.mj.run/fGm3XfQy4PI https://s.mj.run/0bjY8D8J69M https://s.mj.run/UczfS_Wb2fo Kawaii j fashion outfit, one girl many accessories --ar 4:5 --sref https://s.mj.run/0bjY8D8J69M --profile qmhkqau --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCiathicgJCEh5xHQ7zXNhVW7h4sVZkFZ7K1CUyUvldwHQngbqGFugRf2ycG7WgfpPD6ccCgHgU4FibZId11ZMjgEr3icJqg2CAn48/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDaylAqyYpMqYGibzeKeDDowN1mU0bkm1fOTQkbWrBiaGtFoVvFadrctIliaJ5oxAhrPaELL91R8RoxpBjRrVwayxlibLV0iaSviaBW0/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0006",
+    "source_metadata": {
+      "article_index": 347,
+      "article_title": "Vol.299 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1778558221,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 6,
+      "review_url_count": 2,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+    "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

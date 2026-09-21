@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP061iafUvcU8JQL9kS9SMS2Ub4gU5sDBs3J0ZibicykAQJylhibPeiaibft725Q/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jtYC4vw5-Hr4NEjHv-d434ef2b50b4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d68baff71cc784dd37235ccc35eb2af59770d546742216f49624dadd6eeccfbb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A top-down view of a young woman standing on a city street, holding a large bouquet of fresh pink tulips in her hands. The tulips are lush and vibrant, with soft, delicate petals in varying shades of pastel pink and blush. The bouquet is full and slightly overflowing, with green stems and leaves adding contrast. She wears an elegant light-colored coat or a flowing dress, with her hair gently tousled by the breeze. The pavement beneath her is slightly blurred, with soft natural lighting casting a warm glow over the scene. The atmosphere is romantic and dreamy, capturing the essence of spring and urban elegance. --ar 3:4 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP061iafUvcU8JQL9kS9SMS2Ub4gU5sDBs3J0ZibicykAQJylhibPeiaibft725Q/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA:prompt-0013",
+    "source_metadata": {
+      "article_index": 350,
+      "article_title": "Vol.125 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741228245,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0",
+    "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

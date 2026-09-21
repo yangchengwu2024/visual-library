@@ -1,0 +1,61 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW17B9hVDSq0hibmYQgLuuiaicmNZ2sH3SXF4HjEWtdAcMZic1xVqOdq8icNDQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-swnE96nAFFRgt4YZX-9fa126b3fc8b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ffb011766af28f3a9a0de44e598c108cb5c2da560ee52be6565a962948a2db53",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3"
+  },
+  "previous_version": null,
+  "prompt": "we see a models hair swirling around her head, her her is fire red and is beautiful. Its scultped into a modern hair cut. She is back lit and in a dark room, only her hair is glowing with a reddish light. Photographic highly detailed, hi res. Very high end fashion photography. --ar 2:3",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW17B9hVDSq0hibmYQgLuuiaicmNZ2sH3SXF4HjEWtdAcMZic1xVqOdq8icNDQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA:prompt-0004",
+    "source_metadata": {
+      "article_index": 348,
+      "article_title": "Vol.273 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760916633,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0",
+    "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

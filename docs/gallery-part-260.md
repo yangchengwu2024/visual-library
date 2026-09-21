@@ -6,78 +6,9 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
+## Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 9 · v1
 
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-ce88c1b4125a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-ce88c1b4125a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vzs9v6T5ejJKUmNgvoDGd013CjkzB9RNRyt4pkDd6bF3HrGicITXCVKg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-a hd closeup macro shot of a unique futuristic modern generative design cyberpunk gothic style designed halberd axe polearm, intricate advanced metal craftsmanship, using many ornate techniques, Embossing, Engraving, Chasing, Filigree, Gilding, Engraving, Stamping, shiny polished steel, featuring large cutouts throughout the piece, product photography, studio lighting --chaos 100 --ar 1:2 --quality 2 --stylize 1000 --v 6.1
-```
-
-</details>
-
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1
-
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-cf139df2fc36/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-cf139df2fc36
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vLBj2p9rmn24YEG4OibuE91yzlwSBFREoaQZHURVdlrp4ZaTLSE6I1KQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-glitch poster, black and white, lines distorted into waves, no human faces, elegant logical organic composition --profile xtqtjeq --v 6.1
-```
-
-</details>
-
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1
-
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-da2725e9f61a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-da2725e9f61a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vBkuozhye786DRnDjBUAiaPX4PZrLQQBGYTvXVwwGYhIibOUOhEEUu2Zg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 19" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-a double exposure photography with an artistic full-frame red dalhia flower shot on a dark red wall. portrait of an asian woman looking on the right. side view. dark twisted hair --ar 5:6 --style raw --stylize 200 --v 6.1
-```
-
-</details>
-
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1
-
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-dc2a1907df16/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-dc2a1907df16
+- [Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--ca790e25de94/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--ca790e25de94
 
 原图文案例 · midjourney
 
@@ -87,20 +18,20 @@ a double exposure photography with an artistic full-frame red dalhia flower shot
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vbyzz6geEdxrjaNGrVsMBia1tYic49qzNIg4L8HgxyflxIlcoBs5AzUcg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 1" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzSomSSxz2SEw9PZUKzZzpUiceicTEkZvMCdntJKXHdjl3h9oJ88sJfYvA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.20 · 提示词 9" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Cute cartoon-style mobile phone wallpaper, featuring a swimming pool with water and floating toys in the middle. The background is blue with white ripples. Small animals, such as bear faces, duck heads, fish bodies, and rabbit ears, are layered on top of each other, adding a playful element to the scene. Soft lighting creates a warm atmosphere. The high-angle perspective showcases details, such as circular toy shapes and rippling waves. Bright colors enhance the color contrast. --ar 31:64 --style raw --stylize 50 --v 6.1
+Winter whipped cream hot coffee in a red mug with star shaped cookies and warm scarf --ar 2:3 --quality 2 --v 6.1
 ```
 
 </details>
 
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
+## Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 18 · v1
 
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-e1d81ac7d1e6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-e1d81ac7d1e6
+- [Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--dddcf3448b39/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--dddcf3448b39
 
 原图文案例 · midjourney
 
@@ -110,20 +41,20 @@ Cute cartoon-style mobile phone wallpaper, featuring a swimming pool with water 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5v0QrK11M7kUHgbWKh0DA6a6KHibptFwH5LwDRSrdXHYOEpic5RCssiaibQA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzVB5lkv27pATROTRvfYnDtiap5qZcoOib1wzcF2dlJjvOmY12uUxTKEjQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.20 · 提示词 18" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Epic shot, airliner flying over Dubai Emirates city --ar 9:16 --v 6.1
+A snowman wearing festive , holding presents in his hands and smiling happily, with a red background, holly leaves decorating the ground, surrounded by Christmas decorations, in warm tones and a watercolor style, with close-up shots, red as the main color tone, creating a lively and festive atmosphere, in hyperrealistic details and high resolution. --ar 60:61 --stylize 750 --v 6.1
 ```
 
 </details>
 
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1
+## Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 19 · v1
 
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-e501593713ea/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-e501593713ea
+- [Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--e73bc0f2f0a6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--e73bc0f2f0a6
 
 原图文案例 · midjourney
 
@@ -133,197 +64,20 @@ Epic shot, airliner flying over Dubai Emirates city --ar 9:16 --v 6.1
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vpgUaOnPjeFARcp7719CrND67bwx61pNxJ6X5R2pD2R7sbCbnc8ZUVQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzQ5hhOQibAvY2aEibHVKsmFldVicDFsL1T8lPrNRicsNkib7O3GCz9ELKIIg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.20 · 提示词 19" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-fascinating surreal --chaos 100 --ar 2:1 --style raw --stylize 750 --v 6.1
+Still life with ripe pumpkins autumn food --ar 2:3 --quality 2 --v 6.1
 ```
 
 </details>
 
-## Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1
+## Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 7 · v1
 
-- [Vol\.107 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-e84a4b57f3d4/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-vQ-bIhGZR2Xbn-r-q-e84a4b57f3d4
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheFkibHvuYoyODYP1rqsiam5vbBJ6QBdCtzUjSFoRt0OY2CHNmOp0VmfHBCgI7dia3B9GzycpxKqHbWA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.107 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-minimalist photography, expressionism, or surrealism, depending on the intended meaning. The blurred effect could symbolize fleeting moments, the passage of time, or an emotional state of chaos and conflict. The birds' movement could also be interpreted as a metaphor for freedom, struggle, or a dreamlike existence.A hyper-realistic and cinematic artwork of an astronaut in a pristine white spacesuit, playing a deep blue magenta cello in an alien landscape. The astronaut's helmet visor is dark and reflective, The environment is a vast alien field covered in crimson-magenta dark blue cosmic space, stars and galaxy contrasting beautifully against the astronaut's suit. A soft blue-toned fog rolls through the background, creating an ethereal and atmospheric effect. The cello, with its rich wooden texture and elegant curves, vibrates with unseen melodies, blending human artistry with cosmic solitude. The scene is bathed in soft, diffused light, enhancing the dreamlike ambiance. High detail, ultra-realistic textures, 8K resolution, cinematic lighting, volumetric mist, and a poetic, melancholic aesthetic. Inspired by surrealist sci-fi, fine art photography, and space exploration, Vaporwave. --ar 9:16 --weird 56 --v 6.1
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 17 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-00d0a8805b95/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-00d0a8805b95
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4ZpVRV4lpgX9gib8cNu9Wwbve0OXId3wibC87g2Pa9fm91Grms9kTVugg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 17" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcHPiaYFvQvDsWjicQVU0ticQStQ5MHb7r6aJQHgF60gLh9E9a10fjeVeMZC88eywghdUkTZbPDLtR4g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 17" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4VFrcGw7BVqMLtMDgY1mggXxYvvic6FRukrB5Fn8YaPBgVfdMibYlL2nA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---no
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 14 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-013ddb45f00e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-013ddb45f00e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb43Ncicu9FjLD2vRNXFiav7vWfWXnxrKPXHZibQaNpzYFOCibl593dWYeXzw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 14" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---niji
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 24 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 24 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-0540760f5b3e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-0540760f5b3e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4KYxFkrQR7sIY6T0mD6Gia7BfRaibwiaicF4d8PYjdhoyDvIAfz9njWgLzw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 24" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---q 3
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 19 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-05a74f10a794/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-05a74f10a794
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4VRvyblgBJUYjTerq939Jj7DI6p8hyJ4xUZRwvicgicQB25as5ia2viaib0Q/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 19" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---p /
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 42 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 42 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-0b5a891e9fdf/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-0b5a891e9fdf
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcHPiaYFvQvDsWjicQVU0ticQShmibt5WHdKibbBMq1SaDGjKuibWcicG1kXibgW5poHPrnCibl5FGTJRt2RWA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 42" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---stop
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 18 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-1592e8681839/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-1592e8681839
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4ZpVRV4lpgX9gib8cNu9Wwbve0OXId3wibC87g2Pa9fm91Grms9kTVugg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcHPiaYFvQvDsWjicQVU0ticQStQ5MHb7r6aJQHgF60gLh9E9a10fjeVeMZC88eywghdUkTZbPDLtR4g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4VFrcGw7BVqMLtMDgY1mggXxYvvic6FRukrB5Fn8YaPBgVfdMibYlL2nA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 18" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---no fruit, red table,
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 47 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 47 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-21164bf186ff/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-21164bf186ff
+- [Midjourney \| 精选作品及提示 - Vol\.20 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--eed70e3bd5c1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-ugbQK8JI2fcJ1xqd--eed70e3bd5c1
 
 原图文案例 · midjourney
 
@@ -333,216 +87,20 @@ minimalist photography, expressionism, or surrealism, depending on the intended 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb41xaJHSvId3RtosuQ1Snl4H1HHFXtAyNlrwAgSwHBEpkbaaR68u1MwA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 47" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4mKdQe3VHz7cCO2IDAX48nssQlrnASPT0Eoib78TZsfjV6MNYFzKlxUQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 47" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflIt0V0LjUibpFiaTibsPibpicFjDJ9hibTflUauvxyhnvEBicRCEhKCicf9SVJKtAj3PG7nVJUoclUN7BCw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.20 · 提示词 7" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
---sw 1000
+magine an elephant, reflection, --ar 9:16 --style raw --v 6.1
 ```
 
 </details>
 
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 35 · v1
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1
 
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 35 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-4f6041f70852/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-4f6041f70852
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4ghSWj9YcOibscsUfEbOfLZO0XnSqN2E3zSuTxuZ6f0yenibBMkpZSwicQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 35" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---s 750
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 5 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-5d2c7ca96a0b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-5d2c7ca96a0b
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcgTZWbqIXriaePUvibWwWSeCK44bF4wL34lLSczaInibjXtQ3lNLUsBTpw/0?wx_fmt=png" alt="Midjourney 参数索引表 (2025.08) · 提示词 5" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---ar 46:29
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 54 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 54 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-62a66c878170/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-62a66c878170
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb43Ncicu9FjLD2vRNXFiav7vWfWXnxrKPXHZibQaNpzYFOCibl593dWYeXzw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 54" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-如指定niji动漫模型，请使用 --niji 6 格式。（参见 --niji）
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 16 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-65f130098256/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-65f130098256
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb43Ncicu9FjLD2vRNXFiav7vWfWXnxrKPXHZibQaNpzYFOCibl593dWYeXzw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 16" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---niji 6
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 31 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 31 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-76de146a9fc8/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-76de146a9fc8
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4Cx4XcLCW9ZicdvV0AuDEMK8icjce4tNZm9SRIV9tSXuhWznM0WiadEibCQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 31" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4o7Q0CrxxhWQVNbDLyKYprBE7YxwU3crKSC7qwWnRA4sF3icVFn6odKw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 31" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---seed 4215312643
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 3 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-7f0a0a56376b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-7f0a0a56376b
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcgTZWbqIXriaePUvibWwWSeCK44bF4wL34lLSczaInibjXtQ3lNLUsBTpw/0?wx_fmt=png" alt="Midjourney 参数索引表 (2025.08) · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---ar 16:9
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 21 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 21 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-83ec8554f661/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-83ec8554f661
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4gxpicu3yOUdvLhTyUokiauzxyac1Fefsm8umFgeA7Wu1U4yEnvh39uAQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4kKOQ1eyMhBez80zNrp1vUCjZ2QwwkSFU2TVcKVRibpretibgsDibDglGQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 21" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---p codeA::2 codeB::5
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 26 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 26 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-840af9c6520d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-840af9c6520d
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4P8EwN0aNzYGyPx5Mj17vm7gsfdjl9vYewmZqIplNgsJVOTiaVuSjXEw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 26" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
---raw
-```
-
-</details>
-
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 40 · v1
-
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 40 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-9160f38d764f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-9160f38d764f
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-0b7ff36599db/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-0b7ff36599db
 
 原图文案例 · midjourney
 
@@ -552,24 +110,174 @@ minimalist photography, expressionism, or surrealism, depending on the intended 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4aM7v7u8czS6PpeIvGOHpP8XR1p24PQkXEZbGibsCT0sDVFh7EqWlPhQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 40" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4mKdQe3VHz7cCO2IDAX48nssQlrnASPT0Eoib78TZsfjV6MNYFzKlxUQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 40" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorPM6VIWS0vUOrJ2bItytaAQEFKm4LmIceib3btXweYuAhHjeuoo19WmA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 5" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
--sw 参数进行参考强度设置（详见 --sw）。
+In the living room, against a soft, blurred background of festive lights, the foreground is filled with towering piles of colorful, beautifully wrapped gift boxes in various shapes and sizes, stacked high like mountains. The gift boxes are adorned with elegant ribbons and bows in red, gold, green, and silver, creating a cheerful and cozy holiday scene. The floor is covered with plush carpets, and in the background, a luxurious Christmas tree stands, adorned with glittering gold and silver ornaments, colorful pendants, gold foil, and crystal snowflakes. The tree is decorated with white and colored fairy lights that emit a warm, magical glow, and at its top is a glittering star-shaped decorative light casting a soft golden glow. The scene is a close-up, with the towering piles of gifts filling the foreground and the beautifully decorated tree glowing softly in the background, creating a warm and festive atmosphere. --ar 9:16 --v 6.1
 ```
 
 </details>
 
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 4 · v1
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
 
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-93cdd0dbc9bc/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-93cdd0dbc9bc
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-10c361143fbf/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-10c361143fbf
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFbGzqxGKbN4Y7bhCXFR9IDCSYvGC0oDwXzujKICVwBxgHeyLqnrce8w/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A christmas sleigh being pulled by Santa Claus in reigns, and reindeer are sitting inside the sleigh. It says the words: "Happy Holidays Sherry" in a surreal cartoon style --ar 4:5 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-2c50a5fabed5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-2c50a5fabed5
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OU3ib6LArk3AUcQxobAtjonnbxTYcoTliagWT437icIuG9XzvrgSGx9zibA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Christmas night view of the village, there is snow on some houses and they glow from the inside, while other houses are without lights. The light falls in the form of stars through the beautiful sky, with twinkling white Christmas lights. A close-up of a cozy little house, with many small toy decorations and a Christmas tree decorated with colorful lights and bright colors. Photorealistic, high-resolution photography, with insanely detailed fine details and professional color grading. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-3129c92c9183/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-3129c92c9183
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorKzmARWevgdUASibRXJBAOqRo14SeVNebFchI45ObEXOrrTlRjdSV5AA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OjQlszyZ0ozRf3H2FxD1viaJJOE3bdqrmMiaTbYkgZoQDDUxH5NSzicCGg/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OxKR8VMkaVsUJKUp9ds4edGonYq7fM7SgEKAVviaN6mQglMATvicTnQMQ/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OY6u59xEWknA2Az8IbunB27YfMKicpGYDAhO0shaQSEgbUibhO8rxZzFw/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OU3ib6LArk3AUcQxobAtjonnbxTYcoTliagWT437icIuG9XzvrgSGx9zibA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Photo of a table setting with champagne glasses, candles, and Christmas decorations in red and gold colors. In the background is a modern cabin interior with large windows, creating a romantic evening vibe. The shot is taken from a low angle, capturing a cozy atmosphere with soft, natural lighting. The image has a professional, sharp focus. --ar 71:128 --style raw --stylize 250 --v 6.1 alice.bly
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 9 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-3fb0b62df9a5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-3fb0b62df9a5
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7Onz021vEWqNYZI2fyG2RbfR7Gm3ibM527JY5uF4QN2icMn4prlNCWudYg/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 9" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A cozy living room scene centered around a crackling fireplace with glowing embers, its mantle decorated with lush green garlands, pinecones, and twinkling golden fairy lights. Colorful Christmas stockings in red, green, and white, adorned with festive patterns and fluffy trim, hang neatly above the fireplace. A soft, warm glow bathes the room, highlighting a richly textured brick or stone fireplace. The floor features a plush rug, with a few wrapped gifts and a small tray of cookies and milk nearby, completing the festive ambiance. The scene is inviting, filled with warmth, holiday cheer, and a sense of magic. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-466b021b42df/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-466b021b42df
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfBlKsPvoNgafalem25V9ogibznTr5s4gDT5Uwwt4LPGCHZJlzhoFjRRuKDICRP4icB0Yfvem0UIVTQ/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 17" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+The wool felt style depicts a charming Christmas scene. A plush Santa Claus sits on a wooden sled filled with colorful Christmas gifts. In front of him was a huge plush reindeer with big antlers pulling a sled, and the background was a snowy scene under the pitch black night sky, with snowflakes gently falling. A huge full moon illuminated the entire scene from the top right corner, casting soft and warm light throughout the scene. The overall atmosphere is festive and comfortable, evoking the magic of Christmas. Sufficient blank space --ar 16:9 --stylize 550 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-4bea36a1ab7e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-4bea36a1ab7e
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OUcBon8eSCiaxKt6lj7icjSRqQv2MwBuQZSDUWXpZy0cbssJWKI3rcC5Q/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Christmas wreath with red and gold ornaments on a dark blue background, front view, photorealistic, high resolution, very detailed, hyper-realistic, professional photography, soft lighting, soft shadows, high-key lighting, low contrast, clean, sharp focus, no grainy textures, no blur effect, natural colors, bright white background, flat lay, symmetrical composition, full-frame shot. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-505e0ddd92b5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-505e0ddd92b5
 
 原图文案例 · midjourney
 
@@ -579,20 +287,181 @@ minimalist photography, expressionism, or surrealism, depending on the intended 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcAfHslicKB62e6NP5qlPLIcgTZWbqIXriaePUvibWwWSeCK44bF4wL34lLSczaInibjXtQ3lNLUsBTpw/0?wx_fmt=png" alt="Midjourney 参数索引表 (2025.08) · 提示词 4" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0nAbibgVkKGK1slJOuxK386RVpI9kZmic3lT2LNU3Bv6ibuibDE3mMf0icLQ/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 1" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
---ar 2:3
+santa claus with blue costume sitting in a electric room full of lights. many presents around on the floor --ar 16:9 --v 6.1
 ```
 
 </details>
 
-## Midjourney 参数索引表 \(2025\.08\) · 提示词 49 · v1
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 6 · v1
 
-- [Midjourney 参数索引表 \(2025\.08\) · 提示词 49 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-a2ba667cf63e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-veka5mjkVktmWWssj-a2ba667cf63e
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-5ce86cf4c580/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-5ce86cf4c580
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OMXTomPGRc5zAeFAhGt5Bsh6Cxsnyhvb67u0tfialxDIiaHsr7eB7JqRg/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 6" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Santa Claus in a traditional red suit holding a sack of gifts, with a snowy landscape in the background, high resolution, vertical orientation, phone wallpaper. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-7148223fc015/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-7148223fc015
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OY6u59xEWknA2Az8IbunB27YfMKicpGYDAhO0shaQSEgbUibhO8rxZzFw/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 15" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A luxurious Christmas feast, spread with traditional dishes, including a whole turkey on the table, surrounded by elegant plates of British lamb shank and Russian loin. In front is an Easter cake in red velvet with cream cheese filling, a bowl filled to the brim with salad. On top stand two glasses clinking champagne. The setting includes colorful decorations like evergreen branches and snowflakes, adding a festive ambiance to the scene. A basket brimming with wine bottles adds to its opulence. --ar 3:4 --style raw --stylize 250 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-9060d1874cac/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-9060d1874cac
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe1WJFxibibOzXjMpetG7aiaDZ26h5mvsgcrnAU61nS2v0lr9SelYS3a36cNNWVHTyfiaibZic566piaOqww/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 4" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+3D cartoon, happy Santa Claus peeking out of the red door with a Christmas present in his hand, in the style of Pixar, adorable eyes, lovely colorful soft background, matte finishing, Octane render, Unreal Engine v4 --ar 3:4 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-9276ef386943/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-9276ef386943
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OyTib1aEoUsWudOz1Yg1YvWzHsg4Kib9RHuadIj2rnztiayO8I3zQD3BZw/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 8" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Colorful Christmas cookies and sweets arranged on the screen: gingerbread men, stars, and Christmas trees decorated with icing, creating a delicious, sweet holiday atmosphere --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-9a224ad20e10/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-9a224ad20e10
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7OjQlszyZ0ozRf3H2FxD1viaJJOE3bdqrmMiaTbYkgZoQDDUxH5NSzicCGg/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A cute little girl wearing a Santa hat is lying on the floor, looking up at something while holding her chin with one hand, and next to her lies an exquisite green gift box wrapped in red ribbon paper. In front of her, there's a fireplace with warm light shining through the window. The background features Christmas decorations such as lights, garlands, and trees. --ar 3:4 --style raw --stylize 250 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-c231e7ffc6a0/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-c231e7ffc6a0
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxH5jserHXN59fmo1LAggBUGU69EjBhUaicJ92m5n5YCK5vT7kFyjz2oA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+red glitter background with gold ribbon --ar 2:3 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-d4098c1af64b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-d4098c1af64b
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxLs6DhibAERmnZXfxVlhPoKJLkgs0NHuFaN7pB71roMcCq3VEiboU8QkA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+3D christmas tree pixar style over red background --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-d4228e840aa7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-d4228e840aa7
 
 原图文案例 · midjourney
 
@@ -602,13 +471,140 @@ minimalist photography, expressionism, or surrealism, depending on the intended 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShef3iaoDGH9iaT19rl9WQYPb4icS6n5EXap6Zgu6yXlrAU0mTJIF0XWO33LMTFQhWBvtnib947u10NRmA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney 参数索引表 (2025.08) · 提示词 49" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7ODqzLcDgY9yibia8e7zU8KMpgPqa68Q3EanM4TyyCM6Y62PGsF9LeKzsQ/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 2" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
---tile
+Colorful Christmas presents wrapped with sparkling ribbons and lights, surrounded by magical snowflakes and twinkling lanterns --ar 9:16 --stylize 250 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-dc1c974edcab/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-dc1c974edcab
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7O4n1CM8VUjY0RLFj9oUSqkJ1eLicmgvEACVPiczBT78HUfDJFeJhJ9bpw/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 19" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A vibrant and colorful background with sparkling lights, stars, and decorations hanging from the tree, creating an enchanting atmosphere for a Christmas and New Year's celebration mobile wallpaper. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-eb5ed4c963a7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-eb5ed4c963a7
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxH5jserHXN59fmo1LAggBUGU69EjBhUaicJ92m5n5YCK5vT7kFyjz2oA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7O4n1CM8VUjY0RLFj9oUSqkJ1eLicmgvEACVPiczBT78HUfDJFeJhJ9bpw/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc5XcFpZbDIO69pEiaHXKY7Ow4WTP81yFVhYIicQOicB3EdrRc23NhCabkoFYvib5p52J4yawnNaHg3ag/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdf6UH5l08ufgtbhAs8pzOWNprhlwwdflr5lkPtRO33NFGsrSL9jZnFrpIfCOcSOCSecKTcGuotXg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A decorated Christmas tree with golden and red ornaments, surrounded by a cozy holiday scene with snow gently falling outside a frosty window. Soft, warm lights glow around the tree, creating a joyful Christmas atmosphere --ar 9:16 --stylize 250 --v 6.1 gneuro
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-edf77fdf4191/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-edf77fdf4191
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShff8ibNiatD1rqpS1JDQaF0VMzOsPXJAo7k7sYScEyaeS8klAZia8Wa4b1lyqMiaNWMWficR5zIzFJzX3w/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A realistic Christmas scene featuring a 2-year-old child walking beside a majestic reindeer on a festive fashion ramp. The child is dressed in a cozy, holiday-themed outfit with red and white accents, including a mini Santa hat and a tiny bell on their collar to match the reindeer’s festive harness. The reindeer sports a set of decorated antlers adorned with tiny ornaments and Christmas lights, creating a magical, glowing effect. The backdrop is a grand holiday-themed fashion show, complete with twinkling Christmas trees, snowflake projections, and warm, ambient lights along the ramp. The child holds a delicate, red-and-green patterned leash, walking confidently with a look of joy and wonder. The entire scene--the ramp, decorations, fashion show, and audience--is beautifully detailed, capturing the heartwarming spirit of Christmas. Every aspect is rendered with ultra-realistic precision, making it feel like a true holiday celebration. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## 周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1
+
+- [周末特别版 \| 圣诞预热主题 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-fa9fb91179cb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-uqFYnC0HpPd9Yw7zH-fa9fb91179cb
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdJ0z9hybvia2A72LMYZIZorKzmARWevgdUASibRXJBAOqRo14SeVNebFchI45ObEXOrrTlRjdSV5AA/0?wx_fmt=png" alt="周末特别版 | 圣诞预热主题 - Midjourney | 精选作品关键词提示 · 提示词 12" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A super cute baby cat with a smiling expression, wearing a hat with reindeer horns on its head and a red plush cape, imitating the appearance of a reindeer. The cat is standing next to a sleigh full of gifts, with a Christmas tree decorated with twinkling lights in the background, surrounded by soft artificial snow, the light is bright and soft, and the picture is full of festive atmosphere. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.30 · 提示词 3 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.30 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-ur7D78hGz-ULJQMS4-0243caeb3e8c/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-ur7D78hGz-ULJQMS4-0243caeb3e8c
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc3dtBvNGJ3UaficedldH5XXXRdPsBIICdntpHP2pWnia3Rb9ibHT6ZMUTkLFOacGwNoxCibV46LMzmYw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.30 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A FISH MADE FROM TOTAL TRANSPARENT GLASS, ON A PLAIN BACKROUND LIGHT REFLECTION OF THE BRITISH FLAG --ar 2:3 --style raw --personalize 1bbmibj --stylize 800 --v 6.1
 ```
 
 </details>

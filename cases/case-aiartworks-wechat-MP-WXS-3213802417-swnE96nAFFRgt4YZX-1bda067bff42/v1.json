@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW1mx29dWIDibhyxbUqWMVR8Q0RjWR3rR8fYA6vskicDz9oJ6phjSvfotZg/0?wx_fmt=jpeg&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-swnE96nAFFRgt4YZX-1bda067bff42",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2361a4153fbb420478961321a02d54a18e18e75e4a72f692298b40a1208c9d2e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10"
+  },
+  "previous_version": null,
+  "prompt": "Create an ultra-realistic, hyper-detailed, high-resolution (8K or higher, 16-bit HDR) image of a majestic Baobab tree. Capture the full tree from a slightly cinematic perspective, revealing its enormous trunk, detailed bark texture, and thick, sprawling branches. Place the tree in a natural savannah or African landscape with authentic grass, shrubs, and subtle distant trees. Use professional full-frame DSLR optics or a cinematic 50mm lens look for natural depth and bokeh. The lighting should be golden-hour soft sunlight with realistic global illumination, subtle volumetric rays filtering around the trunk and branches, and physically accurate reflections and shadows. Highlight the intricate textures of the bark, fine cracks, natural moss or lichen details, and the organic irregularities of the branches. Emphasize rich color gradients, perfect focus falloff, and true-to-life dynamic range. The background should feature a naturally blurred landscape with shallow depth of field (DOF 1.4-2.0 equivalent), atmospheric haze, and warm pastel tones. The composition must feel immersive, cinematic, and serene a professional ultra-photorealistic masterpiece that looks indistinguishable from a real 8K DSLR photograph. --chaos 10 --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW1mx29dWIDibhyxbUqWMVR8Q0RjWR3rR8fYA6vskicDz9oJ6phjSvfotZg/0?wx_fmt=jpeg&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA:prompt-0007",
+    "source_metadata": {
+      "article_index": 348,
+      "article_title": "Vol.273 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760916633,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 7,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0",
+    "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "version": "v1"
+}

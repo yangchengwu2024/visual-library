@@ -118,9 +118,9 @@ close-up shot inside elevator, female guest and male concierge, structured magen
 
 </details>
 
-## Vol\.301-Midjourney 精选作品提示词与赏析 · 提示词 15 · v1
+## Vol\.301-Midjourney 精选作品提示词与赏析 · 提示词 15 · v2
 
-- [Vol\.301-Midjourney 精选作品提示词与赏析 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-59ef6bd7dd32/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-59ef6bd7dd32
+- [Vol\.301-Midjourney 精选作品提示词与赏析 · 提示词 15 · v2](../cases/case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-59ef6bd7dd32/v2.md) — case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-59ef6bd7dd32
 
 原图文案例 · midjourney
 
@@ -131,10 +131,6 @@ close-up shot inside elevator, female guest and male concierge, structured magen
 **输出示例图**
 
 <img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAosliactrVXwFO9OEib7h76icLNo0PqLrMEWf2GNMic2htLrbicicjIaPBpgPLWX1zsZx6GaiagO9bcibMpaTR3HibiaEGwu7AZNvFAKibwA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 15" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WD8bGY35FvcAD1G5eicGAJXKVfRS3ySPo2ibyic3EgJLQK2oibibDhFOQibicTR9PwH4icO8D78sGz29OyprHVjdR9m9vSfo4yGYuxl3V8/0?wx_fmt=png&amp;from=appmsg" alt="Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 15" width="760">
 
 <details>
 <summary>展开完整提示词</summary>

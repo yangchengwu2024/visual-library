@@ -6,6 +6,563 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 18 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--d6ec78cdeae2/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--d6ec78cdeae2
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicxxPx8gAedOUQcn3efcGmtuAI8gNsiaq2CkxdrPIYDQkbnpFNeZ2y41w/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A wide-angle medium shot of a shadowy figure overlooking a burning cityscape, its glowing red eyes piercing through the smoke and flames, with intense heat and chaos focused in the center, colors and details fading to black at the edges, shot with a DJI Mavic Air 2, 28mm lens, vibrant colors with heavy vignetting --ar 3:4 --quality 2 --stylize 600
+```
+
+</details>
+
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 14 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--d7f21d2ca2fb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--d7f21d2ca2fb
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicdRrb8JEYI5vRaxUQksibxQDlOdknaoWic34crJaDhgYEXxaRQ7SgWibEw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5Tic1e9QE1nmy8icNXLmHUGt8qG3HNFDiciatkndhWgFib8pvxXNpfrxBzf3DQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicEe3NAicaq17Bdj09bKeYHht8gvA8YcUQwgUsrSxDRAicJ7juYfibic1VQw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 14" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicOhSD0aPhMztMA4tUh0b5KkslhNtrq0kGiaN6gufEcInYGoy2vbXjFEg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 14" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A low angle wide shot of a shadowy figure raising its arm defensively as a giant, demonic claw emerges from the darkness, the threat intensifying as the image fades completely into black at the edges, shot with a Sony A7R IV, telephoto lens, desaturated tones with heavy shadows --ar 2:3 --raw --profile h3mnd78 --stylize 700 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 9 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--e0aa0b24f7a1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--e0aa0b24f7a1
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicwbROExDNqWaBL9s3lyoFNMZZFDEcH5ThgAafm1FZcCCGnoytj6hmyg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 9" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+The design of the "Neon Phantom" conveys a blend of mysticism and high-tech, depicting the silhouette of a shadowy figure surrounded by glowing neon lines. The figure’s body appears almost invisible, as if it is walking between dimensions, and the neon lights in turquoise and violet seem to flow through its contours. Inside the figure’s head is a mechanical eye that glows coldly and analytically, creating a stark contrast with its seemingly ethereal form. The background is a mix of digital noise and distorted data patterns, enhancing the effect of an unseen presence. The text "Neon Phantom" is rendered in an ethereal, floating font that emphasizes the figure’s mysterious aura. --ar 5:6 --profile 6kr68v3 --stylize 800 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 3 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--f227b6c77de9/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--f227b6c77de9
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicEg9XUMFXl5KHW7EkZRWUEy2OaOddlC9mPSOqK4RXBwQ8okBnySr49A/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A photograph of a black cat with glowing green eyes, standing poised and alert in a mist-covered alley. The cat is in sharp focus, with the background blurred in a bokeh effect. Street lamps cast a dim, flickering light, creating long, eerie shadows on the cobblestone street. In the background, silhouettes of dilapidated buildings loom. Shadows are deep and mysterious, light sources are weak and scattered. Created Using: low-light photography, chiaroscuro lighting, gothic style, Canon EOS 5D, 50mm lens, high contrast, ethereal mist effects, urban decay, hd quality, natural look, 16k, cmyk, horror movie poster --ar 3:4 --sref https://s.mj.run/_9HzCZhQiNg --sw 800 --stylize 750 --v 6
+```
+
+</details>
+
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 16 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--f9506ae83df5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--f9506ae83df5
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicdRrb8JEYI5vRaxUQksibxQDlOdknaoWic34crJaDhgYEXxaRQ7SgWibEw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 16" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5Tic1e9QE1nmy8icNXLmHUGt8qG3HNFDiciatkndhWgFib8pvxXNpfrxBzf3DQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 16" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicEe3NAicaq17Bdj09bKeYHht8gvA8YcUQwgUsrSxDRAicJ7juYfibic1VQw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 16" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicOhSD0aPhMztMA4tUh0b5KkslhNtrq0kGiaN6gufEcInYGoy2vbXjFEg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 16" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A low angle wide shot of a shadowy figure raising its arm defensively as a giant, demonic claw emerges from the darkness, the threat intensifying as the image fades completely into black at the edges, shot with a Sony A7R IV, telephoto lens, desaturated tones with heavy shadows --chaos 20 --ar 2:3 --raw --profile h3mnd78 --stylize 700 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 7 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--fc6c61968b89/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--fc6c61968b89
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicURenHbBj0D7ZOrbwlLR9TBt7lhn19yUGibWRoXXxpHTytr6e75jsZEQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+https://s.mj.run/z2Bfs7_xRSo https://s.mj.run/b5Hes3QcPgg https://s.mj.run/xNStZwpCU94 https://s.mj.run/JJcMb_2QSUI A terrifying dark figure with glowing, blood-red eyes, emerging from the depths of thick, swirling smoke. The figure’s features are obscured, shrouded in shadow, with only its sharp, claw-like hands reaching forward ominously. The background is a dark, smoky void, with faint red light creating a sinister, ethereal glow around the figure. Atmospheric horror, chiaroscuro lighting, misty environment, ultra-realistic, high detail, HD quality --ar 2:3 --sref 402 --stylize 700 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 17 · v1
+
+- [周末特别版 \| Jankonejsc的暗黑狂想曲 \| 精选作品与提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--fe59e2fa4e09/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QBae-Yb7X36iAlBd--fe59e2fa4e09
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShd2R9xB761ER7nOrvNibj5TicMvN1qLOEtewCUsxW2kJgicKw0Wm4zhgbDYQictY4xxWNy2f6y9XDxicvQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Jankonejsc的暗黑狂想曲 | 精选作品与提示 · 提示词 17" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A dramatic portrait of a shadowy figure standing at the entrance of a narrow alley, surrounded by demonic shapes with sharp claws. The figure's red eyes burn through the darkness, casting a sinister glow on the twisted forms of the demons. The background is a chaotic mix of shadows and faint, distorted light, creating a sense of impending danger. The lighting is harsh, with deep contrasts emphasizing the menacing presence of the figure and the demons. Created Using: portrait photography, chiaroscuro lighting, abstract background design, Gothic influences, sharp contrasts, high-resolution capture, detailed textures --ar 2:3 --raw --profile w6n5eca --stylize 300
+```
+
+</details>
+
+## 周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 10 · v1
+
+- [周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-3e0c8c5871a7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-3e0c8c5871a7
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia1dPMJgXia2OV0Mnz67MyTywuS2CJVPrbLpnicHWQ7EhxFpnrh70lQCrw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaEIMibBQqFXTSfNSCWSZibuP8VvmLITIJiceobVxGOLicMY03Qsb6ozRd6Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iam9xrM71Ajueg9Z40yuXex4qVdalbZicCpib0Mba3UreC1uTQROw8AADw/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaODtHvW0JfZ0ziaTUUxvibAzqa5EqibwAEerBI3KnRwnp9jf5eOshT7e3g/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaRhyvHgWV8roHFqCqNJkq7zau475GKKafJ2QD3SQWsCt0hJJLEGAjxQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iat4yBrjwL9tiaVF0M8vlczR1qpDEJhuPFz4m454Qh7PNtuibzDwPmeSmA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia2bdP0wQ65J1VPvoAoaLVA4RX6uPibzLJYAUtr4y83PjfXBgGMxC8sYw/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaaKX2xe3MSwgtJf8weDWEtNjt7f5oUvBSfuZsICxulnCoNT0X4Cc1Mw/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 10" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Heed an anime manga cosmic surreal fantasy painted tale of a character. Misadventures will curse the ones who venture in for an evil witch lives there. Pay heed to the old tales. It may well be that they alone keep in memory what it was once needful for the wise to know, i can’t believe how beautiful it is. unique style. whimsical --chaos 10 --ar 4:5 --raw --sref 1567159629 680572301 --profile bheikqs --stylize 500 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 6 · v1
+
+- [周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-4cbc26867d77/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-4cbc26867d77
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaztP1gFk0PF1I1IWkicarQ5vfcXhAYXgF8h56iaaMZagka8eGviaYoPUTw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaYSDh6B1RsQZ68wOINJXb2w8zmbkowM9SbX2pPjgtUs04iangnbvlicKg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia9hYTYEyyrwVmSic4V2CrUeC9VVb708Vu5gOXZ2zhmwHOnRBfEicsQzibA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaM8bibQq89j5Mo8ib1TDrl2hEn3Q8bvSqo39NekyyqwpnsZ3VjOgNXcwg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaBYx5f6EN0M9xlfZMKDIbWicia0aFts0YrthGZuCEKh5nruclia58k92uA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaJicOZap0fAl4ibtGJMrLZDaaWmH1noUQvyjwcvxfMxPgNNuACqFq2ICQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaNMgCxWcSmRzFPIpBrlh52Vw9KZFHFfGRANObaVOicVKUwpp6cXdT06Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadiaia239DLFHqiamEgq6xqHXWibp1zNtDPoEicImFTZ3OPOmB5YVW2svFsA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadM4Qqvxh86lDyQbWv2y26a5UnTHwjt3RzNzu3JHTZa5Pr9vXoWPFow/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia07PY0p9Q2LajzflO0e2TJXFFatHkDqe5eDdn2vDQ9XfdpjbhicRESmg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iagGVnyTBVoW4Sucoy0nJ5RiaH5LQib8gPn6xicqBuiadG5BPrcWRm2OY8sg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 6" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Heed an anime manga cosmic surreal fantasy tale of a character. Misadventures will curse the ones who venture in for an evil witch lives there. Pay heed to the old tales. It may well be that they alone keep in memory what it was once needful for the wise to know, i can’t believe how beautiful it is. unique style. whimsical --chaos 10 --ar 4:5 --raw --sref 1567159629 680572301 --profile bheikqs --stylize 500 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 20 · v1
+
+- [周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-6c8591e4d968/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-6c8591e4d968
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaztP1gFk0PF1I1IWkicarQ5vfcXhAYXgF8h56iaaMZagka8eGviaYoPUTw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaYSDh6B1RsQZ68wOINJXb2w8zmbkowM9SbX2pPjgtUs04iangnbvlicKg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia9hYTYEyyrwVmSic4V2CrUeC9VVb708Vu5gOXZ2zhmwHOnRBfEicsQzibA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaM8bibQq89j5Mo8ib1TDrl2hEn3Q8bvSqo39NekyyqwpnsZ3VjOgNXcwg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaBYx5f6EN0M9xlfZMKDIbWicia0aFts0YrthGZuCEKh5nruclia58k92uA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaJicOZap0fAl4ibtGJMrLZDaaWmH1noUQvyjwcvxfMxPgNNuACqFq2ICQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaNMgCxWcSmRzFPIpBrlh52Vw9KZFHFfGRANObaVOicVKUwpp6cXdT06Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadiaia239DLFHqiamEgq6xqHXWibp1zNtDPoEicImFTZ3OPOmB5YVW2svFsA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadM4Qqvxh86lDyQbWv2y26a5UnTHwjt3RzNzu3JHTZa5Pr9vXoWPFow/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia07PY0p9Q2LajzflO0e2TJXFFatHkDqe5eDdn2vDQ9XfdpjbhicRESmg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iagGVnyTBVoW4Sucoy0nJ5RiaH5LQib8gPn6xicqBuiadG5BPrcWRm2OY8sg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 20" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Heed an anime manga cosmic surreal fantasy tale of a character. Misadventures will curse the ones who venture in for an evil witch lives there. Pay heed to the old tales. It may well be that they alone keep in memory what it was once needful for the wise to know, i can’t believe how beautiful it is --chaos 10 --ar 4:5 --raw --sref 1567159629 680572301 --profile bheikqs --stylize 500 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 17 · v1
+
+- [周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-a63361c0718b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-a63361c0718b
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaztP1gFk0PF1I1IWkicarQ5vfcXhAYXgF8h56iaaMZagka8eGviaYoPUTw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaYSDh6B1RsQZ68wOINJXb2w8zmbkowM9SbX2pPjgtUs04iangnbvlicKg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia9hYTYEyyrwVmSic4V2CrUeC9VVb708Vu5gOXZ2zhmwHOnRBfEicsQzibA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaM8bibQq89j5Mo8ib1TDrl2hEn3Q8bvSqo39NekyyqwpnsZ3VjOgNXcwg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaBYx5f6EN0M9xlfZMKDIbWicia0aFts0YrthGZuCEKh5nruclia58k92uA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaJicOZap0fAl4ibtGJMrLZDaaWmH1noUQvyjwcvxfMxPgNNuACqFq2ICQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaNMgCxWcSmRzFPIpBrlh52Vw9KZFHFfGRANObaVOicVKUwpp6cXdT06Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadiaia239DLFHqiamEgq6xqHXWibp1zNtDPoEicImFTZ3OPOmB5YVW2svFsA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadM4Qqvxh86lDyQbWv2y26a5UnTHwjt3RzNzu3JHTZa5Pr9vXoWPFow/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia07PY0p9Q2LajzflO0e2TJXFFatHkDqe5eDdn2vDQ9XfdpjbhicRESmg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iagGVnyTBVoW4Sucoy0nJ5RiaH5LQib8gPn6xicqBuiadG5BPrcWRm2OY8sg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 17" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Heed an anime manga cosmic surreal fantasy tale of a character. Misadventures will curse the ones who venture in for an evil witch lives there. Pay heed to the old tales. It may well be that they alone keep in memory what it was once needful for the wise to know, i can’t believe how beautiful it is --chaos 10 --ar 4:5 --raw --sref 842338509 --profile rrng6in ggjql1j
+```
+
+</details>
+
+## 周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 15 · v1
+
+- [周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-d39cd823a19a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-d39cd823a19a
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaztP1gFk0PF1I1IWkicarQ5vfcXhAYXgF8h56iaaMZagka8eGviaYoPUTw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaYSDh6B1RsQZ68wOINJXb2w8zmbkowM9SbX2pPjgtUs04iangnbvlicKg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia9hYTYEyyrwVmSic4V2CrUeC9VVb708Vu5gOXZ2zhmwHOnRBfEicsQzibA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaM8bibQq89j5Mo8ib1TDrl2hEn3Q8bvSqo39NekyyqwpnsZ3VjOgNXcwg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaBYx5f6EN0M9xlfZMKDIbWicia0aFts0YrthGZuCEKh5nruclia58k92uA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaJicOZap0fAl4ibtGJMrLZDaaWmH1noUQvyjwcvxfMxPgNNuACqFq2ICQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaNMgCxWcSmRzFPIpBrlh52Vw9KZFHFfGRANObaVOicVKUwpp6cXdT06Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadiaia239DLFHqiamEgq6xqHXWibp1zNtDPoEicImFTZ3OPOmB5YVW2svFsA/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iadM4Qqvxh86lDyQbWv2y26a5UnTHwjt3RzNzu3JHTZa5Pr9vXoWPFow/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6ia07PY0p9Q2LajzflO0e2TJXFFatHkDqe5eDdn2vDQ9XfdpjbhicRESmg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iagGVnyTBVoW4Sucoy0nJ5RiaH5LQib8gPn6xicqBuiadG5BPrcWRm2OY8sg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 15" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Heed an anime manga cosmic surreal fantasy tale of a character. Misadventures will curse the ones who venture in for an evil witch lives there. Pay heed to the old tales. there are green, blue and yellow, It may well be that they alone keep in memory what it was once needful for the wise to know, i can’t believe how beautiful it is --chaos 10 --ar 4:5 --raw --sref 842338509 --profile rrng6in ggjql1j
+```
+
+</details>
+
+## 周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 13 · v1
+
+- [周末特别版 \| 通往幻想世界的万能钥匙 \| 精选作品与提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-f459db3823ad/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QDkShjygfnEiS31Eb-f459db3823ad
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdvac8GVojyPKBp9GQIMe6iaoQKuiaqhibEmAsP1EmSXpKcq2WibS349gG1qH26HOKicnqII4U4Hw9hofg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 通往幻想世界的万能钥匙 | 精选作品与提示 · 提示词 13" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Heed a cosmic surreal fantasy illustration of an adventure of a man holding a shining star, surrounded by space background. There are green, blue and yellow. It may well be that they alone keep in memory what it was once needful for the wise to know. I can’t believe how beautiful it is. --chaos 10 --ar 4:5 --raw --sref 842338509 --profile rrng6in ggjql1j
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 18 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-1228967c0556/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-1228967c0556
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm64UmEhlIF0QWc7cBdhAnmry9k9zqa0thTkqoShJndUhPv2HU4xhBQ9Q/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+https://s.mj.run/G4f-PXaMOSI Men's and women's clothing, accessories, backpacks, shoes, white line draft, black background --ar 9:16 --style raw --stylize 0 --v 6
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 19 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-16603f791fc1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-16603f791fc1
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6MaeCkP2Yuq5G0UQo8fibcHN4g0Dba7u0TJ6gJ4xR9Wc71SmGUazzIpQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 19" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A sticker of a chibi mammoth with pink, purple and blue colors, a hand holding it, on top of a couch, high detail, realistic, Canon EOS R5 --ar 16:9 --stylize 750 --v 6
+```
+
+</details>
+
 ## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 3 · v1
 
 - [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-3242c8e7d7f4/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-3242c8e7d7f4
@@ -232,355 +789,6 @@ bauhaus styled poster, About Dali's Art Lecture, surrealism in the style of Dali
 
 ```text
 A glass door refrigerator full of various bottles and cans, including kittens, puppies, lambs, bear cubs, tiger cubs, leopard cubs, ducklings, etc. with bright colors and high contrast. The photo is taken from the front view, highlighting details such as labels on each animal cub. Bright indoor lighting creates an atmosphere filled with variety and freshness. --ar 29:64 --style raw --stylize 750 --v 6
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 1 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-b3475e77b7c1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-b3475e77b7c1
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6JYPPFCYP0QpsYzvFMSxJAQ5t3nEVxrviaibibbUeKmn9Y1p4MeSKWbtaA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 1" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6nK857rBVgJibRIgRic4Rbslne63ohCFJhxTUe04VDoj4iam2drZZ3YtvA/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 1" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A cheerful Indonesian female cartoon character with a bright smile, wearing a colorful headscarf, stands against a solid blue background. Rendered in Cinema 4D with Octane, the character is depicted in a full-body shot, showcasing her vibrant attire and playful expression. Her eyes sparkle with joy, and her pose exudes a sense of carefree happiness. The clean lines and smooth textures of the character's design contribute to a whimsical and charming aesthetic. --ar 9:16 --quality 2 --style raw --stylize 750 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 4 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-d13e21dd13ef/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-d13e21dd13ef
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6EOe4waeick981LkVeQfiaWMKyT3bEoAljV1jx4w6xeBW6gZDBXaHrcwA/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 4" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A piece of fresh mango is cut into small pieces, two workers push the cart near, the color is mainly yellow, mainly solid color, small fruit slices and workers close-up. Close up, high definition detail showing the texture of fruit slices, miniature food photography --ar 3:4 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 11 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-d53c7d5807b4/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-d53c7d5807b4
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6GBy2Ba9aufgNGetyqfiakuaWbZxLj4Y6pz30CVbdrJ5rP6M46gyqknw/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A photograph of a little girl standing in the middle of a softly lit room. The camera is positioned at a low angle, eye-level with the girl, using a 35mm lens to capture a wide view of the scene. From her feet upwards, the shadow projected onto the wall behind her transforms into the silhouette of an adult female superhero with her hair and cape dramatically flowing in the wind. The lighting is arranged to make the shadow sharp and prominent against the wall. The atmosphere is filled with warmth, hope, and strength, using soft, diffused light and gentle colors. --no logo --chaos 20 --ar 2:3 --stylize 250 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 14 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-dd87e34afce3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-dd87e34afce3
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6P79YVIaBRoJnYO1vnWqTAthrsSBFvabMzibCcutSu4GVibFdR1lDd9kg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 14" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-white swan in the lake, A feeling of depression, natural lighting, art, vintage, lo-fi, VHS home video, Walter Pfeiffe's art style --chaos 8 --ar 2:3 --style raw --sref 1078492728 3835717828 --personalize 4l5mkt4 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 9 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-eaab364c036d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-eaab364c036d
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6IeX4uBOj3DCX9E3d0iaJLMJ46SVqTeqpuxjdnNw6d1447JahV7auxdQ/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 9" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A Black jazz musician plays the trumpet, with a slow shutter speed against an intensely black background. Hyper-realistic, ghosting movement, blur, intentional camera movement, double exposure, black and white, --ar 1:1 --style raw --stylize 750 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 20 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-f38d56331607/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-f38d56331607
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShepDBK4SkspB8gaVDTribxm64FlicaviaO3s4r6cE2RA5icf3V8YRMSvOxBEUMMQyVq1j1zjxGXJL03Fg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 20" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-The 24-meter-tall cute hairy pig is lying in the beautiful American girl 's arms. It is very large and very tall. The girl wears modern clothes and has long hair exaggerated and adorable --ar 9:16 --style raw --stylize 200 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 6 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.13 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-fcd62942171e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QHHA5fMqz-2OmfvAM-fcd62942171e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShepDBK4SkspB8gaVDTribxm6jibotvnmlJYvZOwwnO5TGs2lhD6AJAmOE2Utnq9mp8GGM4wJ0CD5rEQ/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.13 · 提示词 6" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Collage of animals and abstract elements / New Chinese style Images of creative style / Hidden garden / Aesthetic experimentation / Geometric Chinese elements / Structuralist design with abstract lines --ar 3:4 --style raw --sref 1100065479 680572301 --personalize kzilt9y --stylize 750 --v 6.1
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-0d344fce070e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-0d344fce070e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZxOZF5mkf0HIKoRGenVSsZfNy9w5RMfdGUdRMzPyX7qryPK3Rj8PrdA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 15" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Cute plush horse, distinct mane, floating red blocks in the air, Chinese New Year atmosphere, with many red blocks flying around on a deep red background, adopting Pixar style, simple design, 3D rendering, cartoon characters, full body shooting, simple and clean pure color background, studio lighting, C4D modeling, octane rendering, rich details. --profile s9kzgop --stylize 750
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-1ba301c6fe0a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-1ba301c6fe0a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZGna2yMCp7zrCbGospq0yuib2CNYlKVnHxIG7Qia99boQMliaiaiaj2hTzwA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Echoes of a Benign Illuminated and Glowing Being --profile b25vy68
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-244882f389d5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-244882f389d5
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZWtXEWIKd6XOiaFicuZGOvxhoUpXiaiaRphNc0ic59hLD2GNjpVImZbUhWicQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-At night, A tropical island located in the center of the ocean, brown tung trees and volcanoes on the island, Volcanic eruption, orange magma at the top of the volcano, underwater coral reefs and tropical fish scenes, ultra-realistic photography., rich and perfect details, ultimate perfect details, 4k, --ar 9:16
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-246c0c8d3272/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-246c0c8d3272
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZs048ojMlsjNtqWoAjyTXuhoNP0VAqibJZIeiaEeyT4JumSx3JF1fTApw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 8" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Monochrome side view of a serene elderly Chinese woman in simple traditional clothing, pouring tea from a Yixing clay teapot. The setting is a minimalist kitchen that blends white-on-white design with subtle Chinese aesthetics, featuring 3D-simulated clay textures on shelves and appliances. Soft ambient light, clean shadows, a quiet moment of domesticity, neutral matte background, Canon EOS R5, 85mm f/1.2 lens, emotion-forward, pin-sharp focus on all elements, 8K. --ar 9:16 --exp 20 --raw --profile ktzq6ds --stylize 250
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-289338e4ce9f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-289338e4ce9f
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZxLNeEic8GoiafA3Owyc9niaStt0sSVM5rNZ3SZzRaLxWOuJm5eo2Nib58g/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 4" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A majestic Chinese dragon, its shimmering scales gleaming in the mist, with every intricate detail of its body visible, coiled gracefully across the snowy peaks of Mount Everest, its tail extending far beyond the coastline, surrounded by swirling clouds and mystical fog. The dragon's eyes glow with ancient wisdom, and the body subtly incorporates Ba Gua symbols along its scales, creating a mystical aura. Captured from a satellite perspective in outer space in ultra-realistic 8K resolution, with the rugged surface of Earth and continental plate textures clearly visible, wide-angle shot amplifying the dragon’s ethereal presence, enhanced with dramatic light and shadow effects that create depth and contrast, emphasizing the dragon's power and serene beauty --ar 9:16 --raw --stylize 250
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-2f45189f66a9/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-2f45189f66a9
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZxWTvKUVQia3qTgiaUEtwJvRribvExOzOaj8hNBbIzzmn6gOATAgcVaszw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-LACOSTE " A fashion editorial for LACOSTE, featuring an alligator playing tennis with model on white background. The crocodile is holding the ball in its mouth and looks at her from side view. Style by Richard Avedon. Text logo reads "LACOSTE". Shot using Hasselblad H6D-400c Multi-Shot lens. Minimalistic. Soft light. pastell colors. With the text written as if it was graffiti on the wall. High resolution. Ultra detailed. --ar 51:64 --raw --profile 6kpg67n
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-33118f0855cc/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-33118f0855cc
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZ04SM3Q8pTxwFgmI48qR3Q9cYGUJDSBn86fElB10hykj5tehYF0IZww/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Grim Reaper stands on a hill overlooking his cannabis crops holding his harvesting scythe --ar 9:16 --exp 60 --profile c6nkjv7
-```
-
-</details>
-
-## Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1
-
-- [Vol\.220 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-3e96933149c8/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-QMwiHz6U7nVeu0C6D-3e96933149c8
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfauOMoKRTozmjsZk1uJWuZB2NOj5L0QiaagP1DxtwUcdFsWUcak2rhaFYerkdw0Hy2KzeD5A0Fx1w/0?wx_fmt=png&amp;from=appmsg" alt="Vol.220 - Midjourney | 精选作品关键词提示 · 提示词 2" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A black convertible car, driving on the New York City Bridge at night with city lights in the background, is the artwork for an advertisement poster from the early 1980s. The car is a Ford. The rear lights and license plate of that era should be visible. --ar 9:16 --profile fe3uxq4
 ```
 
 </details>

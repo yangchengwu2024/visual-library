@@ -1,0 +1,60 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eJ6o2BOTri7v4HKrf-1dc2f5547bf1",
+  "fingerprint": "3bb5a84511e589543148fa38e1fd3f55492f02109d8fddfd625cdec0b3e5ed32",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "raw": true,
+    "stylize": "500",
+    "v": "8.1"
+  },
+  "prompt": "Vertical composition, a low angle shot of a massive, colossal 300-meter radio telescope antenna towering atop a jagged, snow-dusted mountain peak, formidable presence. In the immediate foreground, a solitary woman in a heavy, weathered extreme winter coat stands with her back to the camera, looking towards the massive structure. The sky is a natural, yet dramatic, fiery gold and deep red sunset burnished behind the dish, with thin, high-altitude cirrus clouds. Natural volumetric sun rays (God rays) filter through the intricate steel girders, lattice work, panels, feed horn, and complex cabling of the antenna. The metal is highly textured, showing years of weathering, rust, and frost accretion. High dynamic range, capturing both the bright sunset and the deep industrial details in shadow. Photorealistic, incredibly detailed, no painterly effect, complex industrial complexity, masterpiece, 8k cinematic composition --ar 9:16 --raw --stylize 500 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0001",
+    "source_metadata": {
+      "article_index": 347,
+      "article_title": "Vol.299 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1778558221,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+    "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0001",
+  "status": "pending",
+  "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 2"
+}

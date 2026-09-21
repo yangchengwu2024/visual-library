@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdUKX0QGhlaqZkYOMic4tQsZfTia9zjrS2S2f8s9EkPic2ltDKCvlkwCNWA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cqMQmWG9hAgF4IwNO-bbf691eeddd0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1896ba748cf55f81a797ea510f8f536b0213621d9924a8eaeb458da5555d1b28",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Korean pop music girl with a smile and playful expression in a photo of two members on a pink background. A member is holding a peace sign with one hand in front of their face, and both are wearing pink clothes and accessories. This photo is used for album cover style, fashion photography, high-definition, wide-angle, and high angle shooting --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdUKX0QGhlaqZkYOMic4tQsZfTia9zjrS2S2f8s9EkPic2ltDKCvlkwCNWA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ:prompt-0000",
+    "source_metadata": {
+      "article_index": 349,
+      "article_title": "Vol.213 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750030242,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 0,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498131&idx=1&sn=0fbd04042f35281f1fff63ff3ec8526c&scene=58&subscene=0",
+    "title": "Vol.213 - Midjourney | 精选作品关键词提示 · 提示词 1",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498131&idx=1&sn=0fbd04042f35281f1fff63ff3ec8526c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.213 - Midjourney | 精选作品关键词提示 · 提示词 1",
+  "version": "v1"
+}

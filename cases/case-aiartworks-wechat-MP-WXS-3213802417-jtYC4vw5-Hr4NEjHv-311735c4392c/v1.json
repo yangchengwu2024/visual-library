@@ -1,0 +1,62 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcWjvzkhtyoxd1MYksJQDv7vn7So6GBvc0XS99vAp91SCxQGBpycqTia5b226g7I1iahHwNNujPeyoQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jtYC4vw5-Hr4NEjHv-311735c4392c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "57469a80cf51be4d824347d083b7f200d749e5ba1ea52823b49c26ac1a14b167",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "46:93",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Abstract background of light trails from the speeding car on the highway, a fast road with glowing lights and a blue tunnel in space, with a motion blur effect. Vector illustration design. 2D vector digital art, vector graphic, flat, 3D rendering, 45-degree angle, high resolution, sharp focus, intricate details, hyper-realistic, hyper-detailed, high-quality, hyper-realistic, Octane render. --ar 46:93 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcWjvzkhtyoxd1MYksJQDv7vn7So6GBvc0XS99vAp91SCxQGBpycqTia5b226g7I1iahHwNNujPeyoQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA:prompt-0004",
+    "source_metadata": {
+      "article_index": 350,
+      "article_title": "Vol.125 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741228245,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0",
+    "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

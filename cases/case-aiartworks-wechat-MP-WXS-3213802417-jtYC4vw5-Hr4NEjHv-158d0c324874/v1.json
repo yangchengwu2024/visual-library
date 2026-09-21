@@ -1,0 +1,65 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06WXEibibTPJn3dQmz96OO6b2nrVicqFTQATznicTN5FsOLp2g1y2pyUyicSA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jtYC4vw5-Hr4NEjHv-158d0c324874",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "75796c9bd94c21f8cac0f700ba9e0c3270876088bf510bc33ca58b6c35f4fb2c",
+  "model": "Midjourney",
+  "parameters": {
+    "no": [
+      "red",
+      "lips"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "An ultra-realistic macro shot of a gigantic, beautiful female face being worked on by sculpt a face In white coats. Some of them stand on stepladders, carefully improving themselves, while others to improve their. On a white background . The stage has cinematic lighting that emphasizes depth and realism. Ultra-detailed and photorealistic images with 8K resolution, surround lighting and shallow depth of field provide ultra-precise focusing. The textures are incredibly realistic, with visible reflections and micro-details --no red lips --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06WXEibibTPJn3dQmz96OO6b2nrVicqFTQATznicTN5FsOLp2g1y2pyUyicSA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA:prompt-0011",
+    "source_metadata": {
+      "article_index": 350,
+      "article_title": "Vol.125 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1741228245,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0",
+    "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

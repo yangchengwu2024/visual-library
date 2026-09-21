@@ -1,0 +1,57 @@
+{
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eJ6o2BOTri7v4HKrf-90aff09e0d67",
+  "fingerprint": "62769fc52ff313ec6c815d5d6e8b6864f4c1f76b7ba018bbf1e0dd1d9b1dd094",
+  "metadata": {
+    "model_family": "midjourney",
+    "model_version": "8.1",
+    "record_type": "keyword_reference",
+    "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+    "review_status": "needs_review"
+  },
+  "missing_assets": [
+    {
+      "field": "assets",
+      "reason": "no reliable image association in automatic parser"
+    }
+  ],
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "c1487kr",
+    "v": "8.1"
+  },
+  "prompt": "Museum archive photograph of a single corroded vintage spanner, centred on bone white textured paper, laid flat, lit with soft raking light from upper left casting a subtle hard edged shadow. Directly overhead flat lay, square format. Overlaid with bold Peter Saville / Factory Records graphic design: thin black hairline border framing the composition, condensed sans serif label in the lower third reading \"SPECIMEN 001\" in stark black ink, small italic serif Latin classification line beneath it, and a single vivid red dot or square in the upper right corner. Mood is forensic, archival, slightly unsettling - Mark Dion cabinet of curiosities reinterpreted as a punk record sleeve. Limited palette: bone white, deep black, one accent red. High contrast, sharp focus throughout, no depth of field blur, no painterly softness. Print quality detail. --profile c1487kr --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0011",
+    "source_metadata": {
+      "article_index": 347,
+      "article_title": "Vol.299 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1778558221,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+    "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0"
+  },
+  "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0011",
+  "status": "pending",
+  "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 12"
+}

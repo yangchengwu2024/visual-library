@@ -1,0 +1,63 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShczhGuAakxcGwL9Cs4I4ETzougsjVTvT5INrTJibIia3S4v4ullwt9P4qlicdTh5X1Hv3iaXdGf9KtTXw/0?wx_fmt=gif&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-swnE96nAFFRgt4YZX-cb0a28801a70",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "ae844d563f640d3ce8e78da21852ac7d43d20d7d8b199d3f829d863faab4abb0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "bs": "1",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "hyperrealistic cinematic footage, POV shot inside a sports car, anthropomorphic white cat in the driver’s seat with black thug life sunglasses and a crazy wide grin, paws on the steering wheel, front view of the road through the windshield, the car speeding forward, pedestrians jumping out of the way in chaos, absurd humor but ultra photorealistic, cinematic motion blur, action movie chase scene --ar 51:91 --bs 1 --video 1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShczhGuAakxcGwL9Cs4I4ETzougsjVTvT5INrTJibIia3S4v4ullwt9P4qlicdTh5X1Hv3iaXdGf9KtTXw/0?wx_fmt=gif&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA:prompt-0014",
+    "source_metadata": {
+      "article_index": 348,
+      "article_title": "Vol.273 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1760916633,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 14,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0",
+    "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

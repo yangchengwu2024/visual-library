@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdSqHPiaIbufbOWAce50cGrdw8AAPRyOcIOlcXSoFQ6diaRPMnP1YsfKrA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cqMQmWG9hAgF4IwNO-9953aa0aa4f2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3e70af8412de7c226d97f945c056c565c22d7e6c5a31c05c40251b52001b47a5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "9fcx98b",
+    "raw": true,
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Vertical medium-full shot of a hyperrealistic female cyborg sitting upright on a green cushioned chair in a high-tech expo environment. She has a youthful and striking face with pale porcelain skin, large brown eyes, and glossy red lips. Her long blonde hair is styled into neat twin braids that fall forward over her armored shoulders. Her robotic body is clad in sleek dark pink armor with black accents, exposing inner mechanical joints, pistons, and glowing red panels across her midsection. A small American flag insignia is displayed prominently on the center of her chest plate. Her thighs and arms feature detailed actuators and metallic joint rings with embedded blue lights. She sits with precision posture, hands relaxed on her thighs. The background includes blurred attendees and bright expo lighting with banners and ceiling panels, suggesting a futuristic product showcase. Shot on ARRI Alexa 65. --ar 9:16 --raw --profile 9fcx98b --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdSqHPiaIbufbOWAce50cGrdw8AAPRyOcIOlcXSoFQ6diaRPMnP1YsfKrA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 349,
+      "article_title": "Vol.213 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750030242,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 6,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498131&idx=1&sn=0fbd04042f35281f1fff63ff3ec8526c&scene=58&subscene=0",
+    "title": "Vol.213 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498131&idx=1&sn=0fbd04042f35281f1fff63ff3ec8526c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.213 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

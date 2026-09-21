@@ -1,0 +1,71 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW1UwXby6gTx4OIRFBs0v37nuvUHicZJLRd6YNPd825QYibdiaicTqh7aibicSQ/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW15GxkAbTO2ACha2mdfFsV7FXCYiaqGF4GsbXWBSNQX35XrabJysp3j6g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-swnE96nAFFRgt4YZX-f6cb3bcc53ff",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c8e283fe179e544a16f80bbbe8f409a782e778c8965378a3d7c3902f1fe57965",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "3D animation, realistic, blue sky, three birds flying freely, stream flowing into lake --ar 9:16",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW1UwXby6gTx4OIRFBs0v37nuvUHicZJLRd6YNPd825QYibdiaicTqh7aibicSQ/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf2JpwUdYsXj9B2NiaZ6kUW15GxkAbTO2ACha2mdfFsV7FXCYiaqGF4GsbXWBSNQX35XrabJysp3j6g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA:prompt-0002",
+    "source_metadata": {
+      "article_index": 348,
+      "article_title": "Vol.273 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "high",
+      "createTime": 1760916633,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_swnE96nAFFRgt4YZXL54AA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 1
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0",
+    "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247501261&idx=1&sn=c378b57a2d568f4dcb0be97be5018847&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.273 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

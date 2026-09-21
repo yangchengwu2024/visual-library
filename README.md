@@ -1,11 +1,11 @@
 <!-- VISUAL-LIBRARY-GALLERY:START -->
 ![个人视觉资料库](assets/banner.svg)
 
-**7090 条资料 · 13 个分类 · 22 个模板**
+**7176 条资料 · 13 个分类 · 22 个模板**
 
 [打开完整画廊](docs/gallery.md) · [提示词模板](docs/templates.md)
 
-原图文案例 7081 · 风格参考 9。待复核 6558；缺少必要输入图 7。
+原图文案例 7167 · 风格参考 9。待复核 6644；缺少必要输入图 7。
 
 [按模型浏览](docs/models/index.md) · [艺术家、流派与材质](docs/topics/index.md) · [复核说明](docs/collection-status.md) · [PDF关键词补遗](docs/pdf-keywords.md)
 
@@ -33,7 +33,7 @@
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-document.md"><img src="assets/category-covers/document.jpg" alt="文档与出版物" width="220"></a><br><a href="docs/categories/cat-document.md"><strong>文档与出版物</strong></a><br><sub>11 条资料</sub><br>白皮书、手册、百科图鉴和出版页设计。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="docs/categories/cat-other.md"><img src="assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="docs/categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>6555 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
+<td width="33%" align="center" valign="top"><a href="docs/categories/cat-other.md"><img src="assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="docs/categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>6641 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
 <td width="33%" align="center" valign="top"></td>
 <td width="33%" align="center" valign="top"></td>
 </tr>

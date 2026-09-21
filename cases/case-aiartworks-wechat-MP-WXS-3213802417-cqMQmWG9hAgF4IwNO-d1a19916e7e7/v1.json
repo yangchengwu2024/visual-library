@@ -1,0 +1,64 @@
+{
+  "archived_at": "2026-09-21T11:54:59+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdv6RibWXVZSlOibHicGyTQ59AAIIibTE7B06edntMx361T0YzbW0wxsqwKg/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cqMQmWG9hAgF4IwNO-d1a19916e7e7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5940bd18fe185612146963b78c07b040febc3aa1e67d611891a0ea9ff4472995",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "7zh1y9c",
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "close up, hyperrealistic, rottweiler, snarling, mouth wide open, teeth bared, intense orange eyes, black and rust colored fur, dramatic lighting, dark background, sharp focus on the dog's face, detailed texture of fur, powerful expression, animal portrait, raw, primal, intense emotion. --ar 9:16 --profile 7zh1y9c --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcjn9p6GRTiazVicwjNv2twFdv6RibWXVZSlOibHicGyTQ59AAIIibTE7B06edntMx361T0YzbW0wxsqwKg/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ:prompt-0002",
+    "source_metadata": {
+      "article_index": 349,
+      "article_title": "Vol.213 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "review",
+      "createTime": 1750030242,
+      "image_storage": "external_url",
+      "image_url_count": 1,
+      "prompt_index": 2,
+      "review_url_count": 1,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cqMQmWG9hAgF4IwNORhoQQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498131&idx=1&sn=0fbd04042f35281f1fff63ff3ec8526c&scene=58&subscene=0",
+    "title": "Vol.213 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498131&idx=1&sn=0fbd04042f35281f1fff63ff3ec8526c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.213 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

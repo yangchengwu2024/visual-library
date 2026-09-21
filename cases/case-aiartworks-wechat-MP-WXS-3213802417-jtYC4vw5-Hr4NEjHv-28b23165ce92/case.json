@@ -1,0 +1,75 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jtYC4vw5-Hr4NEjHv-28b23165ce92",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcWjvzkhtyoxd1MYksJQDv7vn7So6GBvc0XS99vAp91SCxQGBpycqTia5b226g7I1iahHwNNujPeyoQ/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcWjvzkhtyoxd1MYksJQDv7QuJgudIHX0606OQHva1kqnEEMkmkiaOCePnJp19BiahibqxjibSUYPtB5w/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06MflGEN3L2OlS1TbiaV86poUB8FhKr35Jo8LtAx9eibu99XLbmBOJPgMw/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfyo7Ba5O6O2WZLXibCicJP06o9uGXI4QCnM4Eo2r2F2p1iaytGic7IMKtnvGmOvsuuHViad1q3GkvXq9g/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA#image-3"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA:prompt-0005",
+      "source_metadata": {
+        "article_index": 350,
+        "article_title": "Vol.125 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "high",
+        "createTime": 1741228245,
+        "image_storage": "external_url",
+        "image_url_count": 4,
+        "prompt_index": 5,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 4
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0",
+      "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 6",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 6",
+  "title_aliases": [
+    "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 6"
+  ]
+}

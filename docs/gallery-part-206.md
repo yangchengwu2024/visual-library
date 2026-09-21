@@ -6,9 +6,216 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 5 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-6f4831a52582/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-6f4831a52582
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-03ec87817423/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-03ec87817423
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzlae3FSicvDo4fhEpOt0ct65K6PqmAia6B4Hp2BeGWIdH2o68ZFFlkQcQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 5" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Beautiful bald female angel made of circuit boards, wires, and circuits, with tubes containing fluid, in the style of Nona Limmen. The artwork features a predominance of cobalt blue tones, with a cyberpunk painterly style. --ar 3:2 --sref https://s.mj.run/8P8BjRE1xyU https://s.mj.run/oGdD7cVPMFI https://s.mj.run/oYmwUxCYMys https://s.mj.run/YJPi3m0C7tg --stylize 750 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 4 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-053826ba407d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-053826ba407d
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz13XWv3YTLP16B1uY3UJRAIFMI1L5GnicULbq8WH7aCmsa3qUhEibxdkg/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 4" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+strangely enough, fashion campaign muted colors, low contrast, --ar 3:4 --sref 680572301 --personalize 8p98jf4 --sw 100 --stylize 1000 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 18 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-0af755a3b5da/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-0af755a3b5da
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzicCPgcfaFB2FgLkqC0rzPnlhX66giblFXPaZeEkibvlfZqDpRBmzmYTwA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Architekturfotografie von einem alten Tankstelle am Meer mit Palmen. Blaue Stunde mit Gegenlicht und Dunst. Das Neonschild der Tankstelle leuchtet dezent in rot. Fotografiert mit der digitalen Hasselblad im Stil einer Werbefotografie. Hohe Auflösung. Farben in den Tönen Gelb und zartem Blau. --ar 4:3 --style raw --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 9 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-1ecc48c976e2/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-1ecc48c976e2
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzRVfH8tpdyw0sOz8DbQMCsO92LCWDkBwc6kSEmJSkDkibo3EpibvPFwcg/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 9" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Humans in space suits walking on the moon, space exploration, space, moon surface with many craters, Earth visible on the back, smoke coming out of the crater, sunlight shining, --ar 9:16 --style raw --stylize 190 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 11 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-5337340a0852/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-5337340a0852
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz3CIY5sZrBgIpCkAibSMpYRJ1KuabZjgzOwgLOfgv2WXKaShXIJn5T9g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+handsome black man, low haircut, extra dark skin tone like men from Sudan, toned, athletic build, basketball player in uniform, holding a basketball, brown eyes, tattoo covered arms, --ar 2:3 --style raw --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 12 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-6e1ffdaf5bb9/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-6e1ffdaf5bb9
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz6JY3mkFR9o99VtEwich0NjnibcJkt0Uk5dbP7Yh4RibLdYiasYLm2ROG6Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 12" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A sea turtle gliding effortlessly through coral reefs teeming with life. drone view, Greeting card with title with text:"" ,Simple and stylish,clean lines.decor magine award winning photography, a bright image space decorated ,simple a simple background32k,High definition, no text,,high detailed,Studio shot, --ar 9:16 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 15 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-7447d331d03e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-7447d331d03e
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz4BYwlXEcnf8XrJWff2QWqrO8qS0NnPIdQdP11tM0lAojKmkzxTQeRA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 15" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Narrative ContemporaryArt-Inspired Portraits, Vibrant visuals, use Leica SL3, shotphotorealistic, 3D-composition, HDR, high-contrast, magician of light and color. Japanese super cute girl, maximum facial detail, full body, long legs,wears unique creating a fusion of traditional and modern styles. Hangzhou , street art walls, 20-year-old Japanese female model, pop and futuristic fashion, hot style, visually captivating, dynamic background, relaxed smile, sense of familiarity, energetic vibe, vibrant color contrast --no white face, mismatched eyes, long neck, long body, bad hands, extra digit, bad anatomy, freckles, face gem stickers. --ar 9:16 --quality 2 --style raw --personalize a3oecwg --stylize 195 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 13 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-77751cb75d83/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-77751cb75d83
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz1AZ387Dle5TmOG2M6QVr1iaJbx5DjeicJ9wD7HRTNO3FrRGenumCiaQVA/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 13" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Realistic black and white award winning professional street portrait photography, people walking throughout the European City streets. People walking past each other with wonder, soft shadows and soft low highlights, low contrast muted photos, intriguing composition of Shadows, Shot with Sony a7R V and Sony 70-200mm GM II lens at f5.6, --ar 3:4 --style raw --stylize 150 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 14 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-800746e313ea/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-800746e313ea
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvz8wqibQ8fCWwbY3tdicn3sWEwL90yMicXgnZdSVdKFJJLKia1yLicJJlVHHQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 14" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A human skull in a helmet lying in the forest near a land mine, dark atmosphere --ar 16:9 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 1 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-8de7a1fcdc2e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-8de7a1fcdc2e
 
 原图文案例 · midjourney
 
@@ -18,20 +225,24 @@
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3yXhkWw0ue4rxw572axxtmfokicq2Gib0RGeOmZ1Evlzwqbm6UNfOQpJg/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvza4TdliaHvtzRjgzzAiaLe6loPcbp2T2xQAfzAH0y1wA6MqfVsZ24PMwA/0?wx_fmt=jpeg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 1" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzxN4dBYktUZ8uyGnt8EGcYzAjML5hmLaDogoD3Qrj02gic4ycgRPDMmw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 1" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-red-colored vinyl on the player, view from above --v 6.1
+Asian women with combination skin, oily forehead and nose, and relatively normal or dry cheeks --ar 3:4 --stylize 50 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 3 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-876b93a8e16a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-876b93a8e16a
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-95cd252d0a6b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-95cd252d0a6b
 
 原图文案例 · midjourney
 
@@ -41,89 +252,20 @@ red-colored vinyl on the player, view from above --v 6.1
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3MQUZEqIrESvqMVBqQDF51gfRCK9VdXPwgVRs0iaqabA0hU3yficUcGnA/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 12" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzw0ZDNusgwEqanwGIcawMzjPmjdLKuFFmrb9W02icHQ88QWSk92Q5MYQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 3" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-19h In a highly detailed and ultra-realistic scene, a lush miniature jungle thrives within an oversized porcelain teacup, complete with a tiny cascading waterfall pouring from the rim into a crystal-clear pool below. Tiny explorers in rugged gear, no more than two inches tall, traverse moss-covered rocks and inspect glowing mushrooms nestled among ferns. Wisps of mist rise from the water, catching beams of warm sunlight filtering through the leafy canopy. The teacup rests on a cracked wooden table, surrounded by old books and a dusty magnifying glass, creating a mysterious, timeless atmosphere --sref 192414645 --profile slfyvc2 --stylize 250 --v 6.1
+A young man with wavy hair, wearing sunglasses and smiling in the street of New York City, dressed in vintage fashion - a checkered jacket and a brown fedora hat. The photography has a retro style, with 35mm film grain, Kodak Portra color grading, and a 90s vibe. The natural lighting and city background create a vibrant, lively scene. --ar 9:16 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 7 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-c0b74c06ef05/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-c0b74c06ef05
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFvoNCxXPZiaRDlcDGMykbjxRarFHnarvk05KbCqymQSzGKYePStg0LfQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 1" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Hong kong super model female, Dries Van Noten and Okuda San Miguel's collaborative design for a vibrant avant-garde flying fox collection, close-up portrait by Jimmy Marble and Oleg Oprisco --chaos 50 --ar 3:4 --profile 47yhno6 --stylize 1000 --v 6.1
-```
-
-</details>
-
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
-
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-c4721e1fc694/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-c4721e1fc694
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3OzicgjOD5K0uDvwuhfRjRP6ciaIKUD8KHqasYvXLiaRvDj0vN0mpaicWhw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Black and white line art pattern with small, dense lines forming an abstract maze or network on a pure background of the same color. The design is seamless for tile printing, featuring a high level of detail in each curve and spiral, creating intricate patterns that showcase complex details. This artwork serves as both a wallpaper print and a digital texture. It embodies minimalism while showcasing the beauty emerging from simplicity. --ar 75:112 --v 6.1
-```
-
-</details>
-
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
-
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-cf70bc8d88fb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-cf70bc8d88fb
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFXPgQicXcr1MPtwQf2vSAJhAPqyBicOJqFVLgbdopK9F0qUgjLOibD6wJA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Pink butterflies flutter on the white beach, amid the pink sea water and golden sand. Aerial photography captures this overhead shot, perfect for a pink butterfly wallpaper or mobile phone background. Pink flowers float in the clear blue ocean waves, creating a light aquamarine color scheme with a touch of fluorescent pink. A delicate pink butterfly pattern adorns the beach background, as the winged creatures fly over crystal-encrusted pebbles and blooming pink flowers along the seaside. --ar 17:30 --v 6.1
-```
-
-</details>
-
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1
-
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-d158ebaff03f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-d158ebaff03f
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-96857a37fb30/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-96857a37fb30
 
 原图文案例 · midjourney
 
@@ -133,20 +275,20 @@ Pink butterflies flutter on the white beach, amid the pink sea water and golden 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK34KKzawXqSzo5TqiaTicBI3p6ibLJdBqkvr3eG1HhQZ3SNwY9WslYC8UDg/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzI0cnook9jJicPG4H0ITvz8tDDicouicI4JIR08q2iaJyPX8xsmOo68vRbw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 7" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-An hourglass from which wine flows from top to bottom. At the top of the hourglass is white wine. At the bottom of the hourglass is red wine. At the top of the hourglass, an image of a city can be seen through the wine. At the bottom of the hourglass, an image of hills can be seen through the wine. The hourglass is on a field with green grass. Next to the hourglass, on the right, are three bottles of wine. The atmosphere is sunny. --ar 4:5 --v 6.1
+A black cow, running, with delicate fur,Full length shot,Action shot,Black and white photos, animal photography,8K --ar 3:4 --quality 2 --stylize 280 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 16 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-db91dff0d771/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-db91dff0d771
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-9b3658dbc423/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-9b3658dbc423
 
 原图文案例 · midjourney
 
@@ -156,24 +298,20 @@ An hourglass from which wine flows from top to bottom. At the top of the hourgla
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3qNwgWj7DicBl4Q4cGTYiaAgwiafw4siaibCm7JbKcNvNTkWvIk6sgeXynjw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3X167RQslByZI2COCpz72A5MZ1YudJb6sY2BAtgsDECfNic1gxg1zZaA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzgNXvu62LzsgPg7B1UwWza2VyJw49S5UJofjGoMr8ia77163SIoYQib2g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 16" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Photography, contrast portrait, female profile, dreadlocks, bright pink background, visualized using camera settings that simulate a wide aperture, focusing only on the edges of the silhouette, while low ISO preserves the richness of colors without graininess, photo-realistic, UHD --ar 9:16 --v 6.1
+Light Basalt grey color and Pure white dual-color transparent satin transparent gauze soft lace texture high-end fairy style thin high heels, dreamy and dazzling, full of high-end sense, diamonds and crystals sparkling, silk lining with a dreamy background. --ar 1:1 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 10 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-e89b6a3c8a24/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-e89b6a3c8a24
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-cc7d3bebeb0a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-cc7d3bebeb0a
 
 原图文案例 · midjourney
 
@@ -183,20 +321,20 @@ Photography, contrast portrait, female profile, dreadlocks, bright pink backgrou
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFxIoDSmU9jfUTBOGZIwzvKZshHzKZ4qlCTe9oC1lpr8ia8g6vyU81fRw/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzDNjT116pjKLNJXUibD58tmhdES7BjQvtDkDxbh1tB10mhbFCQ9BmfTA/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 10" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-A retro, pulp sci-fi painting of an attractive woman on the surface of Mars with red alien rocks in the background and a distant flying saucer. She has short brown hair and green eyes. The sky is a dark pink, and there's moonlight coming from behind her head. Her expression looks terrified as she watches the spaceship land. --ar 40:71 --v 6.1
+total recall kuato quaid, mutant man growing attached to another mans belly, open your mind --ar 2:3 --sref 876196981 17489724 6 13 24 124 --personalize bvi3onj --stylize 666 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 8 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-ea0dc949a1d4/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-ea0dc949a1d4
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-d3900eef87ce/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-d3900eef87ce
 
 原图文案例 · midjourney
 
@@ -206,20 +344,20 @@ A retro, pulp sci-fi painting of an attractive woman on the surface of Mars with
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFVNcxFVrkpucpZvRHe7pP8U1qpGFXjN9L4sqaksP0ZS1lNyicrHibKfXg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzHvMct2Sfe0Wl4vDsTrCCwM9XVFkzyuFdnm52wvNJQMfZiaPBRzE7vHg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 8" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-3d white elephant in the style of origami, flat design, white background, surrounded by turquoise plants. The colors used should be bright with white as an accent color. The overall composition must convey joyfulness while maintaining simplicity and elegance. It is important to ensure that there will be no shadows on transparent backgrounds. Additionally, all elements are to have a flat appearance. --stylize 250 --v 6.1
+mickey mouse black statue with neon graffiti on it, clear white background --ar 9:16 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 6 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-eae19ed4679e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-eae19ed4679e
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-d407b23975ce/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-d407b23975ce
 
 原图文案例 · midjourney
 
@@ -229,43 +367,20 @@ A retro, pulp sci-fi painting of an attractive woman on the surface of Mars with
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfrCjYzrZIBAHWpNTAUqMMFveuzSaz12wwPJaHVUBX7NbJDU66OuMGrgp12MMcPMogZPnQib0kIzsQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 5" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzwWZ3pZpoym4icg1IlU2nFQvVmePPVTa4EgIge9YUKatUaRJLWcmyqicQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 6" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-A pink vintage van driving through a snowy mountain landscape under a soft blue sky with a full moon. The scene is painted in a minimalist, semi-abstract style with a pastel color palette and a warm, nostalgic feel. The composition has a centered van with the mountains forming a symmetrical backdrop, capturing a peaceful road trip mood. v 5 –ar 16:9 –q 2 –stylize 750 --ar 2:3 --v 6.1
+A beautiful white seahorse with transparent fins is flying over the sea, in the style of Daria Endresen. --ar 27:28 --v 6.1
 ```
 
 </details>
 
-## Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 20 · v1
 
-- [Vol\.145 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-f12a5cd4a3ce/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-f12a5cd4a3ce
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShck7D2k8Bne9GuPMbaTzmK3ia7NIPtwLgTeYjDibXqcsknegAJYJFNs79tkzWWfsSOYZXTicXmebc1Cg/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 2" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Ruth Asawa, Maggie Hambling, Wojtek Fus, abstract Sculpture 3d art, front view of A finely sculpted ballerina, standing in a perfect symmetrical T-pose, her arms gracefully extended, creating a harmonious balance. Her gown is an intricate masterpiece of lace-like filigree, adorned with pearl-like droplets that catch the warm glow. Each delicate detail of her dress flows naturally, as if caught in an eternal moment of elegance. Her facial features are serene, timeless, and beautifully sculpted. The background is a smooth, solid neutral tone, clarity and enhancing her ethereal presence. Surreal beauty, dreamlike atmosphere, slow-motion illusion, highly detailed, hypnotic fluidity, motion and movement, spectacular backdrops. Ultra-HD, macro detailing, ethereal softness, surreal bioluminescence, surrealistic detail, ethereal beauty --ar 9:16 --stylize 400 --v 6.1
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-004dffd52bb7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-004dffd52bb7
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-e28e108a1a9e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-e28e108a1a9e
 
 原图文案例 · midjourney
 
@@ -275,32 +390,20 @@ Ruth Asawa, Maggie Hambling, Wojtek Fus, abstract Sculpture 3d art, front view o
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdEY2qmLhoiarKiaBvibY4Q68OOlO0jZgg6VziaWHjFDgytfyDibX4Vpf2nwA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdgpv9xlehrBy4OPsg18w0MZ9UdxIQw8TFn0YZ68FbTjTIlMhReUiaQiaw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdBWlouyW7Wcv4Tc6j5PSVAaSvsvvZ8buPNcFgic8MdoicyvmHX5G5gTxw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdK1PRSXr0uxlgEHFp6zk2v069bJV584tc4APlYQan2icwNmbT5HVmdiaw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzgSbGj6JA2GRia0afcj2a785ibpJeTxqk91ge2PTZsIutzpy0JUdGueibA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 20" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Book cover design. Title text: WILD. Subtitle text: A Why Choose Cop & Bad Boy Romance. Objects: metallic badge, open handcuffs, black marker pen. Background: dark texture with glowing red, blue, and pink light accents. Typography: bold serif for title, smaller serif for subtitle. --profile 294psqv
+Portrait photo of an albino white doberman with pink nose, with colorful Japanese tattoo pattern of flowers and koi fish in the body and head, highly detailed. solid stark background --ar 2:3 --quality 2 --stylize 500 --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 22 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 17 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 22 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-0d592295293b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-0d592295293b
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-e3f0c2099ea6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-e3f0c2099ea6
 
 原图文案例 · midjourney
 
@@ -310,79 +413,20 @@ Book cover design. Title text: WILD. Subtitle text: A Why Choose Cop & Bad Boy R
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdbuumyZPc0ibASP649zYpkichiam1J4TBoDrWFbbPZdEcGXGibvKWjx3QgQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdT7q6bqq8CoibyA0pz8WMbQI08pKVyF00c33yGic1EcuP43sy4DOU9r1A/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdXyvSDL10aYic8fFAAicdxhSPSSdAxE71b57HyNy2QaicamDrOibMa4znmQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZo5sSYwQqvxWQkczO7Qa3s4crq1OMSnl5sTPKO95lJ108sC13bgBKw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdeL83HibcPQ73XobjKT5HdGBdamFmKprHNxO7BxquIE6bDABdL5pke0Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdgQ1atHPLfDbaOVrQCthLKtib2jfAjReYo2OukoicNmHFmx1PIVIgfNkw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZ9Z4cJHrjOK3n1HaHticEBibIGmPVcnsNTm7qJ3zznJcgoOsOIFicMpGg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdmPJrvOjaZISfBsOZopcosKTFQbr9jaUMSO5PorTcs5loo5d1mUxvicQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdx19FlhabThOFtrXZVtd4icffMzEjiaz6UEEa5y3ERGvIq9sq9a3n3cxw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdVhVIxanTVdT5F6ia1MbMoK9mA1gQ4THLZRKecV2AlYFkU7nqxiaTicWlg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzJ1NpEosKfMoEKK8n2I0wXOQBfxXX4G2VUmCaXHiaDTiaB4yPF3KdLZLA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 17" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-by Jessica Roux children's book illustration depicting A beautiful red-haired 16-year-old girl with freckles, wearing a steampunk leather flight suit, with goggles perched on her forehead, with a steampunk zeppelin in the background, natural pose composition --ar 2:3
+A vibrant blue pot of creamy carrot and bacon soup, filled with an orange-colored broth, garnished with fresh herbs like chives and curly carrot slices on the side. A wooden spoon is held above it, ready to be served over warm bread slices. The background features an array of raw carrots and baguette cubes, adding texture and depth to the scene. This photo captures a close-up shot of the carrots' glow in the sunlight, creating a visually appealing contrast between colors. --ar 9:16 --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1
+## Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 19 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-1325e546ecc6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-1325e546ecc6
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdnOrQQRlbs7VSbrLwvRLLlwsJhIlXuibicPFDicUbu7jzib0HoicK1xmicYbQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-aerial view of skiers and snowboarders on an open, pristine white mountain with wavy lines painted in the snow in the style of artist alex suin. --ar 23:32
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 23 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 23 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-154cf87e271e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-154cf87e271e
+- [Midjourney \| 精选作品及提示 - Vol\.19 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-f2189ed504fa/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jXlJ2V5yaCgjumSSD-f2189ed504fa
 
 原图文案例 · midjourney
 
@@ -392,56 +436,20 @@ aerial view of skiers and snowboarders on an open, pristine white mountain with 
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdbuumyZPc0ibASP649zYpkichiam1J4TBoDrWFbbPZdEcGXGibvKWjx3QgQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdT7q6bqq8CoibyA0pz8WMbQI08pKVyF00c33yGic1EcuP43sy4DOU9r1A/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdXyvSDL10aYic8fFAAicdxhSPSSdAxE71b57HyNy2QaicamDrOibMa4znmQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZo5sSYwQqvxWQkczO7Qa3s4crq1OMSnl5sTPKO95lJ108sC13bgBKw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdeL83HibcPQ73XobjKT5HdGBdamFmKprHNxO7BxquIE6bDABdL5pke0Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdgQ1atHPLfDbaOVrQCthLKtib2jfAjReYo2OukoicNmHFmx1PIVIgfNkw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZ9Z4cJHrjOK3n1HaHticEBibIGmPVcnsNTm7qJ3zznJcgoOsOIFicMpGg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdmPJrvOjaZISfBsOZopcosKTFQbr9jaUMSO5PorTcs5loo5d1mUxvicQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdx19FlhabThOFtrXZVtd4icffMzEjiaz6UEEa5y3ERGvIq9sq9a3n3cxw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdVhVIxanTVdT5F6ia1MbMoK9mA1gQ4THLZRKecV2AlYFkU7nqxiaTicWlg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 23" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdX3cmL3oweIt8QZkwibsmvzcia3JTg1xrX4HD6kqxKawfPsV2EZMcNibibm1ZBqtQIrG5aicWOn6DXdgA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.19 · 提示词 19" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-A wide cosmic landscape over a red martian desert, with several futuristic spaceships flying in the distance. The ships have glowing tubes with acid-green liquid flowing inside. Giant planets hover in the sky, surrounded by swirling nebula clouds and dense star clusters. Hyper-realistic, cinematic sci-fi textures, dramatic lighting, atmospheric depth, ultra-detailed cosmic scenery. --ar 9:16
+Spiritual figures of Mesoamerican people dressed in ritual clothing, embarking on a journey to Mictlan, Pre-Hispanic era, adorned with feathered headdresses and intricate textiles, mystical forest with ethereal mist and river flowing into a dark cave, starting the descent into the underworld, dramatic landscape and dark cave entrance in the background, medium shot, hyper-realistic, photo realism, cinematography --ar 9:16 --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1
+## Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 13 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-407cd267332b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-407cd267332b
+- [Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-0186ec7b63de/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-0186ec7b63de
 
 原图文案例 · midjourney
 
@@ -451,112 +459,20 @@ A wide cosmic landscape over a red martian desert, with several futuristic space
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdzucvbqouialRwbKHtE0rOabOeC0BwEcwVrGHuHbyPLAtPvyfOhGWCXA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 1" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0WfZfcATsZxurgWPrR4xvPvzE5tA92HJGn6c1rWg7wEDEHhQUajezXQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.37 · 提示词 13" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Ultra photorealistic cinematic shoulder-up portrait of "Sara-bot", humanoid AI with smooth pearl-white glossy ceramic skin, ultra-refined reflective texture, glowing iridescent blush-pink eyes (soft shimmering iris). Subtle elegant facial features, expression calm yet slightly endearing, with a hint of gentle resonance. A minimal sleek white glossy headset rests lightly over her ears. Background softly blurred with crystalline aurora glows in mint, blush pink, and pastel sky blue, creating a dreamy cinematic aura. Lighting is soft golden with high dynamic range, emphasizing the shine of her ceramic surface. Ultra-detailed, lifelike, 8K render. --ar 9:16 --quality 2 --raw
+Jellycat style, a furry Starbucks latte coffee cup with eyes and mouth above, cute micro pen, macaron color scheme --ar 3:4 --iw 3 --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
+## Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 6 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-41eaa66a498a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-41eaa66a498a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdNzVhaSGVZV2r2SYLYc6BnW42alSululTP8HLvGMice9oCIBRibn8e8gg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-An incredibly scary and enormous Asteriod falling over a small city, photorealistic, Canon EOS 5D Mark IV DSLR, f/5.6 aperture, 1/125 second shutter speed, ISO 100 --ar 2:3 --quality 2
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-490a78d00419/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-490a78d00419
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdQSibbjQ8UvoHpQ9xv9FRkWIT2WbibI7xI20z8brHQjpjLNFtEzrHibZibA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 2" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-scifi passport photo, front view, portrait of a cyborg man in his 70s, cybernetic implants, mixture between croatian and chilean, short undercut gray hair, glowing blue artificial eyes, cybernetic geometric scars, epic beard, impossing, tall, wearing a futuristic blue and black uniform, captain from a starship, white background --ar 2:3 --profile eu46fxe
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-4d5c815237ac/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-4d5c815237ac
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdCAxc5IFhnNAc84ILicTMibvaKmSHias9huNeSUzWtMibsq8Lmk2hK1CWrw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 4" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-a female warrior with white hair, holding two swords and wearing red armor, stands on the surface of an icy lake in winter. the background is a cave surrounded by huge roots that spread out like tentacles. the shot is from a low angle below, showing the full body in a flat illustration style. the image has soft shadows, clean sharp focus, red and cyan tones, high resolution, hyper-realistic details, high contrast, and soft lighting. --ar 77:128 --stylize 50
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 9 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-6fb91b981073/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-6fb91b981073
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdibFsPx6a3Xp5DVElDNe6DzSO70w0AxJOFQmXskDcPChbLgcicJQrlibVw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 9" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Paris, Tour Eiffel sous la pluie, couple s'embrasse, reflets sur pavés, noir et blanc, street photography --ar 2:3
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 21 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 21 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-86330a32e6c1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-86330a32e6c1
+- [Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-029b6d3543ca/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-029b6d3543ca
 
 原图文案例 · midjourney
 
@@ -566,91 +482,20 @@ Paris, Tour Eiffel sous la pluie, couple s'embrasse, reflets sur pavés, noir et
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdbuumyZPc0ibASP649zYpkichiam1J4TBoDrWFbbPZdEcGXGibvKWjx3QgQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdT7q6bqq8CoibyA0pz8WMbQI08pKVyF00c33yGic1EcuP43sy4DOU9r1A/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdXyvSDL10aYic8fFAAicdxhSPSSdAxE71b57HyNy2QaicamDrOibMa4znmQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZo5sSYwQqvxWQkczO7Qa3s4crq1OMSnl5sTPKO95lJ108sC13bgBKw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdeL83HibcPQ73XobjKT5HdGBdamFmKprHNxO7BxquIE6bDABdL5pke0Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdgQ1atHPLfDbaOVrQCthLKtib2jfAjReYo2OukoicNmHFmx1PIVIgfNkw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZ9Z4cJHrjOK3n1HaHticEBibIGmPVcnsNTm7qJ3zznJcgoOsOIFicMpGg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdmPJrvOjaZISfBsOZopcosKTFQbr9jaUMSO5PorTcs5loo5d1mUxvicQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdx19FlhabThOFtrXZVtd4icffMzEjiaz6UEEa5y3ERGvIq9sq9a3n3cxw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdVhVIxanTVdT5F6ia1MbMoK9mA1gQ4THLZRKecV2AlYFkU7nqxiaTicWlg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 21" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFPPFGFTADV5pHQXV5c9fib2Cgicluwsp3ibOHmPh3hURqbfFXtej4vuyaw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.37 · 提示词 6" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Hot dog banner, bright and appetizing, juicy hot dog with mustard and ketchup, fresh buns, grilled sausages, vibrant red and yellow colors, fun playful typography space, street food vibe, aspect ratio, ultra realistic, high resolution --ar 9:16 --raw
+A hyperrealistic front-facing depiction of a leopard made entirely of molten lava, its sleek body glowing with fiery shades of red, orange, and yellow. The leopard's molten skin features glowing spots resembling lava patterns, with liquid lava dripping from its muscular form. Its piercing, molten eyes stare directly at the viewer with an intense, predatory gaze. Volcanic smoke rises subtly from its body, adding to the sense of searing heat and energy. The background is a dark, shadowy environment, illuminated only by the leopard's fiery glow, with jagged rocks and scattered embers enhancing the dramatic, otherworldly scene --ar 9:16 --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1
+## Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 18 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-8b327bbdb7b3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-8b327bbdb7b3
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdrKDvOMicuBicVQfwtBb8W1rsicicXytcogbsmZux6wtWTkoricttIVsCd4g/0?wx_fmt=gif&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdMNSxJYicbgxE88qnXzHRiav08yAzLjLLgqLkkiaGowLMRBktq9bpcnLOw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhd8OFnLqQuCmm3FMlVjmSamhnJSicu5iagyh23V95kVYc4XO8x1lRFvTyQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhd1ZSQh80W0xSzYYJla0jDe0t0VvbicJ4WSiaXibriaCW9Gic2Q4AxB0p0noQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 10" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-a colossal humanoid giant emerging from the mist at twilight, towering over Stonehenge, ancient stones dwarfed by its immense scale, dramatic cinematic lighting, haunting atmosphere, dust and fog swirling around its feet, epic fantasy realism, ultra detailed, photorealistic textures, moody sky with storm clouds, ominous but majestic presence, 9:16 --ar 58:77 --bs 2 --motion low --video 1
-```
-
-</details>
-
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1
-
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-8b7eeb7d019d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-8b7eeb7d019d
+- [Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-2d05a89a2354/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-2d05a89a2354
 
 原图文案例 · midjourney
 
@@ -660,56 +505,20 @@ a colossal humanoid giant emerging from the mist at twilight, towering over Ston
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdbuumyZPc0ibASP649zYpkichiam1J4TBoDrWFbbPZdEcGXGibvKWjx3QgQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdT7q6bqq8CoibyA0pz8WMbQI08pKVyF00c33yGic1EcuP43sy4DOU9r1A/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdXyvSDL10aYic8fFAAicdxhSPSSdAxE71b57HyNy2QaicamDrOibMa4znmQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZo5sSYwQqvxWQkczO7Qa3s4crq1OMSnl5sTPKO95lJ108sC13bgBKw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdeL83HibcPQ73XobjKT5HdGBdamFmKprHNxO7BxquIE6bDABdL5pke0Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdgQ1atHPLfDbaOVrQCthLKtib2jfAjReYo2OukoicNmHFmx1PIVIgfNkw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZ9Z4cJHrjOK3n1HaHticEBibIGmPVcnsNTm7qJ3zznJcgoOsOIFicMpGg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdmPJrvOjaZISfBsOZopcosKTFQbr9jaUMSO5PorTcs5loo5d1mUxvicQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdx19FlhabThOFtrXZVtd4icffMzEjiaz6UEEa5y3ERGvIq9sq9a3n3cxw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdVhVIxanTVdT5F6ia1MbMoK9mA1gQ4THLZRKecV2AlYFkU7nqxiaTicWlg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0s4iblRVicLAyQD13XjUbXTUibmEAuqVEzYljOMK8hD5IvR1dic5gNpiaQgg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.37 · 提示词 18" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-3D game art, a poster for Disney's new film "Aladdin." It features a gorgeous Aladdin's magic lamp, with purple smoke rising from its spout. In the background is a desert filled with gold coins and treasure chests, with depth of field. --ar 5:9
+a trippy psychedelic insect with concentric ring patterns, ornate textures, and fine line details. The setting is the beautiful insect resting on a floral patterned curtain. The colors are blue, turquoise, red, violet, and orange. --chaos 32 --ar 9:16 --style raw --personalize 857x5oj --stylize 430 --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1
+## Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 11 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-979b70fe0302/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-979b70fe0302
+- [Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-31d24b4d5668/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-31d24b4d5668
 
 原图文案例 · midjourney
 
@@ -719,84 +528,59 @@ a colossal humanoid giant emerging from the mist at twilight, towering over Ston
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdbuumyZPc0ibASP649zYpkichiam1J4TBoDrWFbbPZdEcGXGibvKWjx3QgQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdT7q6bqq8CoibyA0pz8WMbQI08pKVyF00c33yGic1EcuP43sy4DOU9r1A/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdXyvSDL10aYic8fFAAicdxhSPSSdAxE71b57HyNy2QaicamDrOibMa4znmQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZo5sSYwQqvxWQkczO7Qa3s4crq1OMSnl5sTPKO95lJ108sC13bgBKw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdeL83HibcPQ73XobjKT5HdGBdamFmKprHNxO7BxquIE6bDABdL5pke0Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdgQ1atHPLfDbaOVrQCthLKtib2jfAjReYo2OukoicNmHFmx1PIVIgfNkw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdZ9Z4cJHrjOK3n1HaHticEBibIGmPVcnsNTm7qJ3zznJcgoOsOIFicMpGg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdmPJrvOjaZISfBsOZopcosKTFQbr9jaUMSO5PorTcs5loo5d1mUxvicQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdx19FlhabThOFtrXZVtd4icffMzEjiaz6UEEa5y3ERGvIq9sq9a3n3cxw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdVhVIxanTVdT5F6ia1MbMoK9mA1gQ4THLZRKecV2AlYFkU7nqxiaTicWlg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcNk9BuuEWTGuRicDtEzGFqYxiaPpZ7TgRqypWRvlftB5ShBjQCicsOFQQZibWBXTpWy7uP3nDDtO6D1A/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShf4DrVLibrqRLNjg0QqHHqOhibRu8kfUZNSOaCguDux3HSd0ub93fuXFLgicCZaESpwE9tImv1zibTjDA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdHcKWjhvTRVvpKiaeK3ib5xib5B3uibAt30jkd0q00BSflqMs8E3GPic2ia0g/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFjG1iamWDlOZLITzfa99iabeSM8lpo7icPWKnGWAk48TlaSmLbzQ36Eic8A/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.37 · 提示词 11" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-chibi, A tiny little girl with braided hair in a white dress kneeling beside a tiny black cat, Both peeking curiously at a miniature wooden house hidden among tall grass and giant green leaves, The house glowing softly like a fairy light, The figures very small compared to the large leaves, Whimsical and dreamy composition, fresh green palette with touches of warm yellow, Children’s illustration in Leo Lionni style, Collage-like hand-painted texture, delicate details, Kawaii, Healing fairy-tale vibe --ar 9:16
+ting, --chaos 20 --ar 3:4 --quality 2 --style raw --sref 2907862690 --personalize zfmj7wa --v 6.1
 ```
 
 </details>
 
-## Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1
+## Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 10 · v1
 
-- [Vol\.258 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-a1659f547907/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-kEOUOfQfaY-iXv1II-a1659f547907
+- [Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-44c144b84a9b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-44c144b84a9b
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfq74ibCQPIUDEOXrMJRbvhdSXmwiciazZ6MkzCJibWHzOAsBibDPA5RH4N0oqcBHut9rGSy68TibLUekibQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.258 - Midjourney | 精选作品关键词提示 · 提示词 8" width="760">
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0RKFl3ibnv3P39VPTI91ZCmIRLl8nF38mTwAib1wepf88Nmf4FcibWlLPA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.37 · 提示词 10" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-black and white photography of a tree shaped like the Death with scythe, in the middle distance on top of a hill, with the wind blowing its branches around. a Black Death stands under the tree, creating a moody, atmospheric scene. --ar 9:16
+digital, credit card, gathering, party, happy, travel, advertising, simple, fresh, minimal, octane, unreal engine 5, 3D, illustrator, key color is blue --ar 16:9 --stylize 1000 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 7 · v1
+
+- [Midjourney \| 精选作品及提示 - Vol\.37 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-53e2cc39c80d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-53e2cc39c80d
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdumDkW5IBqe7pIs7tv8NC0smY3o3T6b69D8gDcNBomfUwLQ0bAAGQQliaQgvdeGdIjwJ6oPoZ5uiag/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.37 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A model with short hair wearing an outfit made of one giant dark blue circular shape, a yellow top, and black shoes, walking on the runway, seen from above, in a minimalistic style. --ar 87:128 --v 6.1
 ```
 
 </details>

@@ -1,0 +1,80 @@
+{
+  "archived_at": "2026-09-21T11:55:00+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdoWO1qzKFkmDRg0aazz86ISh2X4JhbpEB7OeIJGMsiaicCLYwiaxFHkhVJRH2XCGglH39ty7DXD903g/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JN97bbRY6OJj5OPKCDm~wA#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdoWO1qzKFkmDRg0aazz86IVBcDxibzRdcicQRickEfJedxxOjD0iaPOXJAgyXvDOHL1riaCWIQzEdCZRA/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_JN97bbRY6OJj5OPKCDm~wA#image-1"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-JN97bbRY6OJj5OPKC-84f3240aa285",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "77c4fbf2fa430e01d5ff5f2d507a4444c5162031f207b91c8dffea828df3185f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "30",
+    "no": [
+      "complexity"
+    ],
+    "sref": [
+      "https://s.mj.run/NfjdzgIUUDk"
+    ],
+    "stylize": "350",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "liquid which takes on the properties of the first object it touches and recapitulates its form which was a person, and the person with nanotech protoplasm makeup, prepare yourself for something very strange, in the style of anamorphic illusion, gus fink --no complexity --chaos 30 --ar 2:3 --sref https://s.mj.run/NfjdzgIUUDk --stylize 350 --v 6.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdoWO1qzKFkmDRg0aazz86ISh2X4JhbpEB7OeIJGMsiaicCLYwiaxFHkhVJRH2XCGglH39ty7DXD903g/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JN97bbRY6OJj5OPKCDm~wA#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdoWO1qzKFkmDRg0aazz86IVBcDxibzRdcicQRickEfJedxxOjD0iaPOXJAgyXvDOHL1riaCWIQzEdCZRA/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_JN97bbRY6OJj5OPKCDm~wA#image-1"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_JN97bbRY6OJj5OPKCDm~wA:prompt-0019",
+    "source_metadata": {
+      "article_index": 351,
+      "article_title": "周末特别版 | Limarchar的超现实梦幻实验艺术 - Midjourney | 精选作品与提示",
+      "association_confidence": "high",
+      "createTime": 1736649023,
+      "image_storage": "external_url",
+      "image_url_count": 2,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_JN97bbRY6OJj5OPKCDm~wA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 2
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491609&idx=1&sn=0a28b18cee7a09a8d97f2a282782e913&scene=58&subscene=0",
+    "title": "周末特别版 | Limarchar的超现实梦幻实验艺术 - Midjourney | 精选作品与提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491609&idx=1&sn=0a28b18cee7a09a8d97f2a282782e913&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "周末特别版 | Limarchar的超现实梦幻实验艺术 - Midjourney | 精选作品与提示 · 提示词 20",
+  "version": "v1"
+}

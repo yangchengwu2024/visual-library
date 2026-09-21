@@ -1,0 +1,65 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-eJ6o2BOTri7v4HKrf-39704356a1f2",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDVeZibVR1L0hQZEiaCtEibVoZoFxHibwJMYbRIIEEiaMCPqKoVib2CianmXvHx5dSUyWPBOTFiaF8Uus2C934PYE62ViaowVib6dCgSS6s0/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBgt4cHpRWw9ibic10EJqQQXhyGicaTInmlMouqmBIJYerLI5q0hW7KEfW1HRTtMMibbYnUq7xv0PqIIOxozNStXDq7LMg5km6Go94/0?wx_fmt=png&from=appmsg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w#image-1"
+        }
+      ],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w:prompt-0009",
+      "source_metadata": {
+        "article_index": 347,
+        "article_title": "Vol.299 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "review",
+        "createTime": 1778558221,
+        "image_storage": "external_url",
+        "image_url_count": 2,
+        "prompt_index": 9,
+        "review_url_count": 2,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_eJ6o2BOTri7v4HKrf4Wx1w",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+      "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505388&idx=1&sn=e652b99c80146231610781f029979b2b&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "title_aliases": [
+    "Vol.299 - Midjourney | 精选作品关键词提示 · 提示词 10"
+  ]
+}
