@@ -1,6 +1,7 @@
 """Launch the installed read-only MCP against a verified personal-repo snapshot."""
 import argparse
 import hashlib
+import importlib
 import json
 import os
 from pathlib import Path
@@ -33,6 +34,44 @@ def verify_snapshot(path, commit):
     archived = validate_archive.validate(path)
     if not result['ok'] or archived['status'] != 'PASS':
         raise ValueError('Snapshot archive validation failed')
+
+
+def attach_auto_refresh(snapshot, cache_root, repository_url):
+    """Refresh data and reload the installed library when deployment markers change.
+
+    The MCP process remains alive so the Codex connection does not need a manual
+    restart after a normal deployment. A marker is changed only after the remote
+    commit and verified cache are ready; a mismatch therefore fails visibly
+    instead of silently serving an old snapshot.
+    """
+    install_root = Path(__file__).resolve().parents[1]
+    data_marker = install_root / 'installed-commit.txt'
+    code_marker = install_root / 'installed-code-revision.txt'
+
+    def read_marker(path, fallback=''):
+        try:
+            return path.read_text(encoding='utf-8').strip()
+        except OSError:
+            return fallback
+
+    snapshot.set_code_revision(read_marker(code_marker, read_marker(data_marker, 'unknown')))
+
+    def refresh(current):
+        desired_data = read_marker(data_marker, current.commit)
+        desired_code = read_marker(code_marker, desired_data)
+        data_stale = desired_data and desired_data.lower() != current.commit
+        code_stale = desired_code and desired_code != current.code_revision
+        if data_stale:
+            refreshed, commit, status = prepare_snapshot(cache_root, repository_url, offline=False)
+            if commit.lower() != desired_data.lower():
+                raise RuntimeError('Deployment marker is not available on the configured remote main: ' + desired_data)
+            current.replace_snapshot(refreshed, commit, status)
+        if code_stale:
+            importlib.reload(library)
+        if data_stale or code_stale:
+            current.set_code_revision(desired_code)
+
+    snapshot.set_refresh_callback(refresh)
 
 
 def prepare_snapshot(cache_root, repository_url=DEFAULT_REPOSITORY, *, offline=False, seed=None):
@@ -98,6 +137,7 @@ def main():
         print(json.dumps({'snapshot': str(snapshot), 'commit': commit, 'snapshot_status': status}))
         return
     # Always run the installed code, never code from the downloaded data snapshot.
+    attach_auto_refresh(snapshot, args.cache_root, args.repository_url)
     from mcp_library import create_server
     server = create_server(snapshot, commit, args.repository_url.removesuffix('.git'), snapshot_status=status)
     server.run(transport='stdio')

@@ -133,6 +133,21 @@ class MCPLibraryTest(unittest.TestCase):
         self.assertEqual(catalog["taxonomy"]["aliases"]["人物"], "Characters")
         self.assertTrue(catalog["templates"]["templates"][0]["github_url"].endswith("docs/templates.md#portrait"))
 
+    def test_refresh_callback_can_replace_fixed_snapshot_without_restarting_server(self):
+        calls = []
+
+        def refresh(snapshot):
+            calls.append(snapshot.commit)
+            snapshot.replace_snapshot(self.root, "b" * 40, "fresh")
+            snapshot.set_code_revision("code-b")
+
+        self.snapshot.set_code_revision("code-a")
+        self.snapshot.set_refresh_callback(refresh)
+        result = self.snapshot.search_cases(["Warm"])
+        self.assertEqual(calls, [COMMIT])
+        self.assertEqual(result["commit"], "b" * 40)
+        self.assertEqual(result["server_code_revision"], "code-b")
+
     def test_sdk_exposes_only_four_readonly_tools(self):
         server = create_server(self.root, COMMIT, REPOSITORY)
         tools = asyncio.run(server.list_tools())
