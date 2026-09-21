@@ -69,5 +69,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "体育馆自拍：OpenAI 篮球品牌视觉",
+    "aliases": ["OpenAI 篮球", "体育馆品牌视觉", "绿色篮球人物照片"],
+    "description": "体育馆自拍场景：男子手持绿色 OpenAI 篮球，人物、运动场景和品牌物件共同构成视觉示例。",
+    "keywords": ["OpenAI", "篮球", "体育馆", "自拍", "品牌视觉", "人物照片"],
+    "effective_labels": {
+      "categories": ["摄影与写实"],
+      "styles": ["写实", "品牌"],
+      "scenes": ["运动", "科技"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看图片，主体为体育馆自拍、人物和绿色 OpenAI 篮球。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始文字直接描述人物、篮球和体育馆场景。"}
+    ]
+  }
 }

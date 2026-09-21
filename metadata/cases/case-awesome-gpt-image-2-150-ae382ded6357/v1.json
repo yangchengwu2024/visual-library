@@ -81,5 +81,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "TOKYO HIGHBALL 海滩饮品广告",
+    "aliases": ["高波球饮品广告", "柠檬冰饮产品图", "海滩饮品 KV"],
+    "description": "产品广告场景：TOKYO HIGHBALL 罐装饮品、柠檬冰饮和海滩背景，文案与产品由 prompt 直接规定。",
+    "keywords": ["TOKYO HIGHBALL", "饮品广告", "柠檬冰饮", "海滩", "产品摄影"],
+    "effective_labels": {
+      "categories": ["商品与电商"],
+      "styles": ["商品", "写实"],
+      "scenes": ["食品饮品", "海滩", "商业"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看图片，主体为 TOKYO HIGHBALL 罐和海滩饮品广告。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始文字规定产品、饮品、文案和场景，无指定包装输入图。"}
+    ]
+  }
 }

@@ -23,13 +23,54 @@ from datetime import datetime, timezone
 
 
 SCHEMA_VERSION = 1
+RETRIEVAL_STATUSES = {"unreviewed", "confirmed", "needs_validation", "rejected"}
+RETRIEVAL_LABEL_FIELDS = ("categories", "styles", "scenes", "materials", "techniques")
 METADATA_ENUMS = {
     "model_family": {"gpt-image", "nano-banana", "midjourney", "unknown"},
     "record_type": {"case", "style_reference", "keyword_reference"},
     "review_status": {"verified", "needs_review", "missing_inputs"},
 }
 METADATA_FIELDS = (*METADATA_ENUMS, "model_version", "artists", "movements", "materials",
-                   "techniques", "asset_roles", "review_note", "evidence")
+                   "techniques", "asset_roles", "review_note", "evidence", "retrieval")
+
+
+def _default_retrieval():
+    return {"status": "unreviewed", "title": "", "aliases": [], "description": "",
+            "keywords": [], "effective_labels": {}, "evidence": []}
+
+
+def _validate_retrieval(value):
+    if not isinstance(value, dict):
+        raise TypeError("metadata retrieval must be an object")
+    status = value.get("status", "unreviewed")
+    if status not in RETRIEVAL_STATUSES:
+        raise ValueError("Invalid retrieval status")
+    for field in ("title", "description"):
+        if field in value and value[field] is not None and not isinstance(value[field], str):
+            raise TypeError("retrieval " + field + " must be a string")
+    for field in ("aliases", "keywords"):
+        if field in value and (not isinstance(value[field], list) or
+                               not all(isinstance(item, str) for item in value[field])):
+            raise TypeError("retrieval " + field + " must be a list of strings")
+    labels = value.get("effective_labels", {})
+    if not isinstance(labels, dict):
+        raise TypeError("retrieval effective_labels must be an object")
+    unknown = set(labels) - set(RETRIEVAL_LABEL_FIELDS)
+    if unknown:
+        raise ValueError("Unknown effective label field: " + sorted(unknown)[0])
+    for field, values in labels.items():
+        if not isinstance(values, list) or not all(isinstance(item, str) for item in values):
+            raise TypeError("effective label " + field + " must be a list of strings")
+    evidence = value.get("evidence", [])
+    if not isinstance(evidence, list):
+        raise TypeError("retrieval evidence must be a list")
+    for item in evidence:
+        if not isinstance(item, dict):
+            raise TypeError("retrieval evidence entries must be objects")
+        for field in ("basis", "note", "checked_commit", "field", "value"):
+            if field in item and item[field] is not None and not isinstance(item[field], str):
+                raise TypeError("retrieval evidence " + field + " must be a string")
+    return value
 
 
 def _metadata_path(root, case_id, version):
@@ -59,6 +100,8 @@ def _validate_metadata(value):
     for field in ("model_version", "review_note"):
         if field in value and value[field] is not None and not isinstance(value[field], str):
             raise TypeError("metadata " + field + " must be a string or null")
+    if "retrieval" in value:
+        _validate_retrieval(value["retrieval"])
     return value
 
 
@@ -67,8 +110,9 @@ def _case_metadata(root, case_id, version, personal=None):
     result = {"model_family": "unknown", "model_version": None, "artists": [],
               "movements": [], "materials": [], "techniques": [], "record_type": "case",
               "asset_roles": [], "review_status": "needs_review", "review_note": "",
-              "evidence": []}
+              "evidence": [], "retrieval": _default_retrieval()}
     result.update({key: copy.deepcopy(value) for key, value in sidecar.items() if key in METADATA_FIELDS})
+    result["retrieval"] = _validate_retrieval(result.get("retrieval", _default_retrieval()))
     personal = _personal_for(root, case_id) if personal is None else personal
     corrections = personal.get("corrections", {})
     # Personal corrections are authoritative; importing sidecars never edits them.
@@ -89,12 +133,31 @@ def _source_references(evidence):
     return [{key: value for key, value in source.items() if key in fields} for source in evidence]
 
 
+def _light_retrieval(value):
+    value = _validate_retrieval(value or _default_retrieval())
+    return {
+        "status": value.get("status", "unreviewed"),
+        "title": value.get("title", ""),
+        "aliases": list(value.get("aliases", [])),
+        "description": value.get("description", ""),
+        "keywords": list(value.get("keywords", [])),
+        "effective_labels": copy.deepcopy(value.get("effective_labels", {})),
+        "evidence_count": len(value.get("evidence", [])),
+    }
+
+
 def _light_entry(root, entry):
     """Keep search/catalog records small; exact source evidence remains in show()."""
     item = {key: copy.deepcopy(value) for key, value in entry.items()
-            if key not in {"evidence", "asset_roles", "review_note", "prompt", "prompt_variants"}}
+            if key not in {"evidence", "asset_roles", "review_note", "prompt", "prompt_variants",
+                           "retrieval", "effective_labels"}}
     item["review_summary"] = " ".join(str(entry.get("review_note") or entry.get("review_summary") or "").split())[:240]
     item["source_evidence"] = _source_references(entry.get("source_evidence", []))
+    retrieval = entry.get("retrieval") or _default_retrieval()
+    if (retrieval.get("status") != "unreviewed" or retrieval.get("title") or retrieval.get("aliases") or
+            retrieval.get("description") or retrieval.get("keywords") or retrieval.get("effective_labels")):
+        item["retrieval"] = _light_retrieval(retrieval)
+        item["effective_labels"] = copy.deepcopy(retrieval.get("effective_labels", {}))
     metadata_path = _metadata_path(root, entry["case_id"], entry["version"])
     item["metadata_path"] = metadata_path.relative_to(root).as_posix() if metadata_path.is_file() else None
     item["detail_path"] = "cases/" + entry["case_id"] + "/" + entry["version"] + ".json"
@@ -275,6 +338,20 @@ def _classification(record, aliases):
     }
 
 
+def _effective_labels(entry, corrections=None):
+    """Return retrieval labels, preserving source fields separately in the entry."""
+    corrections = corrections or {}
+    retrieval = entry.get("retrieval") or _default_retrieval()
+    overrides = retrieval.get("effective_labels", {})
+    labels = {}
+    for field in RETRIEVAL_LABEL_FIELDS:
+        values = overrides[field] if field in overrides else entry.get(field, [])
+        if field in corrections:
+            values = corrections[field]
+        labels[field] = list(dict.fromkeys(str(item) for item in (values or [])))
+    return labels
+
+
 def _store_asset(root, asset):
     path = Path(asset["path"])
     data = path.read_bytes()
@@ -383,6 +460,20 @@ def _render_version(root, content):
              "资料类型：" + record_labels[metadata["record_type"]] + " · 复核状态：" + review_labels[metadata["review_status"]], ""]
     if metadata["review_note"]:
         lines += ["复核说明：" + metadata["review_note"], ""]
+    retrieval = metadata.get("retrieval", _default_retrieval())
+    if retrieval.get("title") or retrieval.get("description") or retrieval.get("effective_labels"):
+        lines += ["## 检索说明", "", "检索状态：`" + retrieval.get("status", "unreviewed") + "`"]
+        if retrieval.get("title"):
+            lines += ["检索标题：" + retrieval["title"]]
+        if retrieval.get("description"):
+            lines += ["检索描述：" + retrieval["description"]]
+        if retrieval.get("aliases"):
+            lines += ["检索别名：" + "、".join(retrieval["aliases"])]
+        if retrieval.get("keywords"):
+            lines += ["检索关键词：" + "、".join(retrieval["keywords"])]
+        if retrieval.get("effective_labels"):
+            lines += ["有效标签：" + json.dumps(retrieval["effective_labels"], ensure_ascii=False, sort_keys=True)]
+        lines += [""]
     lines += ["## 案例图片", ""]
     for number, asset in enumerate(content["assets"], 1):
         source_role = asset.get("role", "example")
@@ -451,16 +542,20 @@ def _rebuild(root):
         categories = corrections.get("categories", classification["categories"])
         styles = corrections.get("styles", classification["styles"])
         scenes = corrections.get("scenes", classification["scenes"])
-        entries.append({"case_id": header["case_id"], "title": header["title"],
-                        "title_aliases": header["title_aliases"], "version": current["version"],
-                        "versions": [{"version": v["version"], "changes": v["changes"], "path": "cases/" + header["case_id"] + "/" + v["version"] + ".json"} for v in versions],
-                        "categories": categories, "styles": styles, "scenes": scenes,
-                        "source_category": classification["source_category"], "source_tags": classification["source_tags"],
-                        "model": current.get("model"), "image_count": len(current["assets"]),
-                        "sources": sorted(set(p["source"] for p in header["source_aliases"])),
-                        "archived_at": current["archived_at"], "status": "complete",
-                        "source_evidence": _source_evidence(header, current["version"]),
-                        **_case_metadata(root, header["case_id"], current["version"], personal)})
+        entry = {"case_id": header["case_id"], "title": header["title"],
+                 "title_aliases": header["title_aliases"], "version": current["version"],
+                 "versions": [{"version": v["version"], "changes": v["changes"], "path": "cases/" + header["case_id"] + "/" + v["version"] + ".json"} for v in versions],
+                 "categories": categories, "styles": styles, "scenes": scenes,
+                 "source_category": classification["source_category"], "source_tags": classification["source_tags"],
+                 "model": current.get("model"), "image_count": len(current["assets"]),
+                 "sources": sorted(set(p["source"] for p in header["source_aliases"])),
+                 "archived_at": current["archived_at"], "status": "complete",
+                 "source_evidence": _source_evidence(header, current["version"]),
+                 **_case_metadata(root, header["case_id"], current["version"], personal)}
+        entry["effective_labels"] = _effective_labels(entry, corrections)
+        for field in RETRIEVAL_LABEL_FIELDS:
+            entry[field] = entry["effective_labels"][field]
+        entries.append(entry)
     catalog = {"schema_version": SCHEMA_VERSION, "case_count": len(entries),
                "cases": [_light_entry(root, entry) for entry in entries]}
     _write(root / "indexes" / "catalog.json", catalog)
@@ -509,6 +604,8 @@ def import_records(root, records, source, revision, *, lock=True, mode="snapshot
         raise TypeError("prompt must be the exact original string")
     for record in records:
         if "metadata" in record:
+            if "retrieval" in record["metadata"]:
+                raise ValueError("retrieval metadata is user-owned and cannot be supplied by an upstream import")
             _validate_metadata(record["metadata"])
         if "prompt_variants" in record and (not isinstance(record["prompt_variants"], dict) or
                 not all(isinstance(key, str) and isinstance(value, str) for key, value in record["prompt_variants"].items())):
@@ -659,6 +756,44 @@ def _personal_index(root):
     return result
 
 
+def _personal_for_version(personal, version):
+    """Keep text-bearing personal records scoped to the requested version.
+
+    Favorites are intentionally not filtered here: a case remains discoverable
+    through --favorites when any exact version is favorited, and the result
+    reports those exact favorite versions separately.
+    """
+    result = copy.deepcopy(personal)
+    for key in ("notes", "rewrites"):
+        result[key] = [item for item in result.get(key, [])
+                       if not item.get("version") or item.get("version") == version]
+    return result
+
+
+def _matching_fields(groups, fields):
+    """Return a weighted match for ANDed keyword groups across named fields."""
+    if not groups:
+        return 0, []
+    score = 0
+    matched = []
+    for group in groups:
+        candidates = [(weight, name) for name, value, weight in fields
+                      if any(term in str(value).casefold() for term in group)]
+        if not candidates:
+            return None
+        best = max(weight for weight, _ in candidates)
+        score += best
+        matched.extend(name for weight, name in candidates if weight == best)
+    return score, list(dict.fromkeys(matched))
+
+
+def _preferred_score(groups, values):
+    if not groups:
+        return 0
+    haystack = " ".join(str(value) for value in values).casefold()
+    return sum(12 for group in groups if any(term in haystack for term in group))
+
+
 def show(root, case_id, version=None):
     """Read exactly the requested version; no writes, network, or cache creation."""
     root = Path(root).resolve()
@@ -679,6 +814,13 @@ def show(root, case_id, version=None):
     content["available_versions"] = [p.stem for p in paths]
     content["personal"] = _personal_for(root, case_id)
     content.update(_case_metadata(root, case_id, version, content["personal"]))
+    classification = _classification({"category": header["classification"]["source_category"],
+                                      **header["classification"]["source_tags"]}, _alias_map(root))
+    corrections = content["personal"].get("corrections", {})
+    content["categories"] = corrections.get("categories", classification["categories"])
+    content["styles"] = corrections.get("styles", classification["styles"])
+    content["scenes"] = corrections.get("scenes", classification["scenes"])
+    content["effective_labels"] = _effective_labels(content, corrections)
     content["requested_case_id"] = requested_id
     content["requested_version"] = requested_version
     for asset in content["assets"]:
@@ -691,11 +833,13 @@ def show(root, case_id, version=None):
 
 
 def query(root, keywords=None, category=None, tags=None, limit=20, full_text=False, favorites=False, *,
-          model_family=None, artist=None, movement=None, material=None, record_type=None, review_status=None):
+          model_family=None, artist=None, movement=None, material=None, record_type=None, review_status=None,
+          preferred_tags=None):
     """Search light metadata by default; --full-text explicitly reads prompts.
 
     All keyword terms must match; category is exact after alias normalization.
-    All requested tags must occur in category/style/scene tags. No visual inference.
+    All requested tags must occur in effective category/style/scene labels. No visual inference.
+    preferred_tags only boost matching results; they do not exclude other cases.
     """
     root = Path(root)
     catalog = _read(root / "indexes" / "catalog.json", {"cases": []})
@@ -703,16 +847,19 @@ def query(root, keywords=None, category=None, tags=None, limit=20, full_text=Fal
     terms = keywords.split() if isinstance(keywords, str) else (keywords or [])
     groups = _keyword_groups(terms, aliases)
     required_tags = {_normalize(t, aliases).casefold() for t in _tags(tags)}
+    preferred_groups = _keyword_groups(_tags(preferred_tags), aliases)
     personal_records = _personal_index(root)
     result = []
     for entry in catalog["cases"]:
         entry = copy.deepcopy(entry)
-        personal = _personal_for(root, entry["case_id"], personal_records.get(entry["case_id"], []))
-        entry.update(_case_metadata(root, entry["case_id"], entry["version"], personal))
-        corrections = personal.get("corrections", {})
+        personal_all = _personal_for(root, entry["case_id"], personal_records.get(entry["case_id"], []))
+        personal = _personal_for_version(personal_all, entry["version"])
+        entry.update(_case_metadata(root, entry["case_id"], entry["version"], personal_all))
+        corrections = personal_all.get("corrections", {})
         for key in ("categories", "styles", "scenes"):
             if key in corrections:
                 entry[key] = corrections[key]
+        entry["effective_labels"] = _effective_labels(entry, corrections)
         # Read sidecar supplements even for catalogs created by an older release.
         if "source_evidence" not in entry:
             header = _read(_case_dir(root, entry["case_id"]) / "case.json", {})
@@ -720,33 +867,61 @@ def query(root, keywords=None, category=None, tags=None, limit=20, full_text=Fal
         entry["source_evidence"] = _source_references(entry["source_evidence"])
         filters = {"model_family": model_family, "artists": artist, "movements": movement,
                    "materials": material, "record_type": record_type, "review_status": review_status}
-        if any(value is not None and _normalize(value, aliases).casefold() not in
-               {_normalize(item, aliases).casefold() for item in _tags(entry.get(field))}
-               for field, value in filters.items()):
-            continue
-        values = entry["categories"] + entry["styles"] + entry["scenes"]
-        if category and _normalize(category, aliases).casefold() not in {x.casefold() for x in entry["categories"]}:
-            continue
-        if not required_tags.issubset({x.casefold() for x in values}):
-            continue
-        if favorites and not any(x.get("value", True) for x in personal["favorites"]):
-            continue
-        note_texts = [str(note.get("text", "")) for note in personal["notes"]]
-        haystack = " ".join([entry["case_id"], entry["title"], *entry["title_aliases"], *values, *entry["sources"], str(entry.get("model") or ""), *note_texts]).casefold()
-        haystack += " " + json.dumps({key: entry.get(key) for key in (*METADATA_FIELDS, "source_evidence")}, ensure_ascii=False).casefold()
-        if not _matches_keywords(haystack, groups):
-            if not full_text:
+        for field, value in filters.items():
+            if value is None:
                 continue
-            content = _read(_case_dir(root, entry["case_id"]) / (entry["version"] + ".json"))
-            prompt_text = " ".join([content["prompt"], *content.get("prompt_variants", {}).values()]).casefold()
-            if not _matches_keywords(haystack + " " + prompt_text, groups):
+            values = entry["effective_labels"].get(field, entry.get(field)) if field in RETRIEVAL_LABEL_FIELDS else entry.get(field)
+            if _normalize(value, aliases).casefold() not in {
+                    _normalize(item, aliases).casefold() for item in _tags(values)}:
+                break
+        else:
+            values = entry["effective_labels"]
+            effective_values = [item for field in RETRIEVAL_LABEL_FIELDS for item in values.get(field, [])]
+            if category and _normalize(category, aliases).casefold() not in {
+                    x.casefold() for x in values["categories"]}:
                 continue
-        item = _light_entry(root, entry)
-        item["matched_by"] = "text and source metadata; images not visually assessed"
-        if favorites:
-            item["favorite_versions"] = sorted(set(x["version"] for x in personal["favorites"] if x.get("value", True)))
-        result.append(item)
-    return result[:max(0, limit)]
+            if not required_tags.issubset({x.casefold() for x in effective_values}):
+                continue
+            if favorites and not any(x.get("value", True) for x in personal_all["favorites"]):
+                continue
+            retrieval = entry.get("retrieval") or _default_retrieval()
+            note_texts = [str(note.get("text", "")) for note in personal["notes"]]
+            fields = [
+                ("retrieval.title", retrieval.get("title", ""), 100),
+                ("retrieval.aliases", " ".join(retrieval.get("aliases", [])), 90),
+                ("retrieval.keywords", " ".join(retrieval.get("keywords", [])), 85),
+                ("retrieval.description", retrieval.get("description", ""), 75),
+                ("effective_labels", " ".join(effective_values), 60),
+                ("personal.notes", " ".join(note_texts), 45),
+                ("case_id", entry["case_id"], 35),
+                ("source.name", " ".join(entry.get("sources", [])), 20),
+                ("source.evidence", json.dumps(entry.get("source_evidence", []), ensure_ascii=False), 15),
+                ("metadata.evidence", json.dumps(entry.get("evidence", []), ensure_ascii=False), 10),
+            ]
+            if retrieval.get("status", "unreviewed") == "unreviewed":
+                fields.append(("source.title", " ".join([entry.get("title", ""), *entry.get("title_aliases", [])]), 25))
+            match = _matching_fields(groups, fields)
+            if match is None and full_text:
+                content = _read(_case_dir(root, entry["case_id"]) / (entry["version"] + ".json"))
+                prompt_text = " ".join([content["prompt"], *content.get("prompt_variants", {}).values()])
+                match = _matching_fields(groups, fields + [("prompt.full_text", prompt_text, 12)])
+            if match is None:
+                continue
+            score, matched_by = match
+            score += _preferred_score(preferred_groups, effective_values)
+            if preferred_groups and _preferred_score(preferred_groups, effective_values):
+                matched_by.append("preferred_tags")
+            if not matched_by:
+                matched_by = ["structured_filters"]
+            item = _light_entry(root, entry)
+            item["matched_by"] = list(dict.fromkeys(matched_by))
+            item["match_score"] = score
+            if favorites:
+                item["favorite_versions"] = sorted(set(x["version"] for x in personal_all["favorites"] if x.get("value", True)))
+            result.append((score, item))
+            continue
+    result.sort(key=lambda pair: (-pair[0], pair[1]["case_id"]))
+    return [item for _, item in result[:max(0, limit)]]
 
 
 def personal_note(root, case_id, text, version=None):
@@ -999,6 +1174,7 @@ def main(argv=None):
     q.add_argument("keywords", nargs="*")
     q.add_argument("--category")
     q.add_argument("--tag", action="append", default=[])
+    q.add_argument("--preferred-tag", action="append", default=[])
     q.add_argument("--limit", type=int, default=20)
     q.add_argument("--full-text", action="store_true")
     q.add_argument("--favorites", action="store_true")
@@ -1034,7 +1210,8 @@ def main(argv=None):
     if args.command == "query":
         result = query(args.root, args.keywords, args.category, args.tag, args.limit, args.full_text, args.favorites,
                        **{field: getattr(args, field) for field in
-                          ("model_family", "artist", "movement", "material", "record_type", "review_status")})
+                           ("model_family", "artist", "movement", "material", "record_type", "review_status")},
+                       preferred_tags=args.preferred_tag)
     elif args.command == "show":
         result = show(args.root, args.case_id, args.version)
     elif args.command == "validate":

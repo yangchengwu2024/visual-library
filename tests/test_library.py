@@ -113,6 +113,16 @@ class LibraryTest(unittest.TestCase):
         self.ingest(dict(changed, prompt="new content"), revision="r3")
         self.assertEqual(library.query(self.root, favorites=True)[0]["favorite_versions"], ["v1"])
 
+    def test_version_notes_do_not_leak_but_old_favorite_remains_findable(self):
+        self.ingest()
+        library.personal_note(self.root, self.get_id(), "old-only observation", "v1")
+        library.personal_favorite(self.root, self.get_id(), "v1")
+        self.ingest(dict(self.record, prompt="new version content"), revision="r2")
+        self.assertEqual(library.query(self.root, "old-only observation"), [])
+        favorites = library.query(self.root, favorites=True)
+        self.assertEqual(len(favorites), 1)
+        self.assertEqual(favorites[0]["favorite_versions"], ["v1"])
+
     def test_missing_assets_never_replace_complete_and_stable_retry(self):
         self.ingest()
         changed = dict(self.record, prompt="new incomplete content", missing_assets=["reference.png"])

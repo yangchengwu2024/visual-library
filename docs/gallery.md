@@ -23,12 +23,12 @@
 <td width="33%" align="center" valign="top"><a href="categories/cat-poster.md"><img src="../assets/category-covers/poster.jpg" alt="海报与排版" width="220"></a><br><a href="categories/cat-poster.md"><strong>海报与排版</strong></a><br><sub>90 条资料</sub><br>活动海报、封面、字体视觉和强排版画面。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="categories/cat-product.md"><img src="../assets/category-covers/product.jpg" alt="商品与电商" width="220"></a><br><a href="categories/cat-product.md"><strong>商品与电商</strong></a><br><sub>43 条资料</sub><br>商品图、详情页、包装卖点和商业广告。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-product.md"><img src="../assets/category-covers/product.jpg" alt="商品与电商" width="220"></a><br><a href="categories/cat-product.md"><strong>商品与电商</strong></a><br><sub>44 条资料</sub><br>商品图、详情页、包装卖点和商业广告。</td>
 <td width="33%" align="center" valign="top"><a href="categories/cat-brand.md"><img src="../assets/category-covers/brand.jpg" alt="品牌与标志" width="220"></a><br><a href="categories/cat-brand.md"><strong>品牌与标志</strong></a><br><sub>27 条资料</sub><br>Logo、VI、品牌触点和 Campaign 视觉系统。</td>
 <td width="33%" align="center" valign="top"><a href="categories/cat-architecture.md"><img src="../assets/category-covers/architecture.jpg" alt="建筑与空间" width="220"></a><br><a href="categories/cat-architecture.md"><strong>建筑与空间</strong></a><br><sub>12 条资料</sub><br>建筑表现、室内空间、城市地图和空间概念。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="categories/cat-photo.md"><img src="../assets/category-covers/photo.jpg" alt="摄影与写实" width="220"></a><br><a href="categories/cat-photo.md"><strong>摄影与写实</strong></a><br><sub>78 条资料</sub><br>人像、手机纪实、胶片质感和商业摄影。</td>
+<td width="33%" align="center" valign="top"><a href="categories/cat-photo.md"><img src="../assets/category-covers/photo.jpg" alt="摄影与写实" width="220"></a><br><a href="categories/cat-photo.md"><strong>摄影与写实</strong></a><br><sub>77 条资料</sub><br>人像、手机纪实、胶片质感和商业摄影。</td>
 <td width="33%" align="center" valign="top"><a href="categories/cat-illustration.md"><img src="../assets/category-covers/illustration.jpg" alt="插画与艺术" width="220"></a><br><a href="categories/cat-illustration.md"><strong>插画与艺术</strong></a><br><sub>80 条资料</sub><br>插画、艺术风格、材质实验和装饰画面。</td>
 <td width="33%" align="center" valign="top"><a href="categories/cat-character.md"><img src="../assets/category-covers/character.jpg" alt="人物与角色" width="220"></a><br><a href="categories/cat-character.md"><strong>人物与角色</strong></a><br><sub>31 条资料</sub><br>角色设定、动作参考、卡牌和 3D 玩具。</td>
 </tr>

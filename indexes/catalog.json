@@ -4174,9 +4174,22 @@
       "artists": [],
       "case_id": "case-awesome-gpt-image-2-143-1cad66916e41",
       "categories": [
-        "摄影与写实"
+        "商品与电商"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-143-1cad66916e41/v1.json",
+      "effective_labels": {
+        "categories": [
+          "商品与电商"
+        ],
+        "scenes": [
+          "商业",
+          "生活方式"
+        ],
+        "styles": [
+          "写实",
+          "商品"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -4188,12 +4201,42 @@
       "model_version": null,
       "movements": [],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "积木房屋广告",
+          "桌面产品场景",
+          "包装盒与人物"
+        ],
+        "description": "写实桌面场景：积木房屋、人物和包装盒共同构成产品/品牌方向的成品示例。",
+        "effective_labels": {
+          "categories": [
+            "商品与电商"
+          ],
+          "scenes": [
+            "商业",
+            "生活方式"
+          ],
+          "styles": [
+            "写实",
+            "商品"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "积木房屋",
+          "产品包装",
+          "桌面场景",
+          "人物",
+          "写实"
+        ],
+        "status": "confirmed",
+        "title": "桌面积木房屋与产品包装场景"
+      },
       "review_status": "verified",
       "review_summary": "实际查看：桌面积木房屋、人物及包装盒。已通读完整归档指令；图像为该创作方向的结果样例，文本未要求某张特定外部原图。",
       "scenes": [
-        "科技",
         "商业",
-        "社媒"
+        "生活方式"
       ],
       "source_category": "Photography & Realism",
       "source_evidence": [
@@ -4239,7 +4282,6 @@
       ],
       "status": "complete",
       "styles": [
-        "界面",
         "写实",
         "商品"
       ],
@@ -4267,6 +4309,26 @@
         "商品与电商"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-144-1f9e4524d928/v1.json",
+      "effective_labels": {
+        "categories": [
+          "商品与电商"
+        ],
+        "materials": [
+          "marble",
+          "glass",
+          "fabric",
+          "silk"
+        ],
+        "scenes": [
+          "商业",
+          "美妆"
+        ],
+        "styles": [
+          "商品",
+          "品牌",
+          "海报"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -4281,11 +4343,50 @@
       "model_version": null,
       "movements": [],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "面霜产品广告",
+          "丝绸大理石商品图",
+          "美妆品牌 KV"
+        ],
+        "description": "高级美妆产品广告：LUMIERE 金盖面霜置于丝绸和大理石底座上，强调材质、光泽与品牌氛围。",
+        "effective_labels": {
+          "categories": [
+            "商品与电商"
+          ],
+          "materials": [
+            "marble",
+            "glass",
+            "fabric",
+            "silk"
+          ],
+          "scenes": [
+            "商业",
+            "美妆"
+          ],
+          "styles": [
+            "商品",
+            "品牌",
+            "海报"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "LUMIERE",
+          "面霜",
+          "美妆",
+          "丝绸",
+          "大理石",
+          "金盖"
+        ],
+        "status": "confirmed",
+        "title": "LUMIERE 金盖面霜与丝绸大理石底座广告"
+      },
       "review_status": "verified",
       "review_summary": "LUMIERE 金盖面霜广告，丝绸及大理石底座明确。已实际看样图并阅读完整 prompt；复核资料关系与输入条件，不代表生成复现或逐项事实准确性验收。",
       "scenes": [
-        "科技",
-        "商业"
+        "商业",
+        "美妆"
       ],
       "source_category": "Products & E-commerce",
       "source_evidence": [
@@ -4330,9 +4431,9 @@
       ],
       "status": "complete",
       "styles": [
-        "海报",
         "商品",
-        "品牌"
+        "品牌",
+        "海报"
       ],
       "techniques": [],
       "title": "主题海报版式设计",
@@ -4864,6 +4965,20 @@
         "商品与电商"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-150-ae382ded6357/v1.json",
+      "effective_labels": {
+        "categories": [
+          "商品与电商"
+        ],
+        "scenes": [
+          "食品饮品",
+          "海滩",
+          "商业"
+        ],
+        "styles": [
+          "商品",
+          "写实"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -4876,12 +4991,44 @@
       "model_version": null,
       "movements": [],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "高波球饮品广告",
+          "柠檬冰饮产品图",
+          "海滩饮品 KV"
+        ],
+        "description": "产品广告场景：TOKYO HIGHBALL 罐装饮品、柠檬冰饮和海滩背景，文案与产品由 prompt 直接规定。",
+        "effective_labels": {
+          "categories": [
+            "商品与电商"
+          ],
+          "scenes": [
+            "食品饮品",
+            "海滩",
+            "商业"
+          ],
+          "styles": [
+            "商品",
+            "写实"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "TOKYO HIGHBALL",
+          "饮品广告",
+          "柠檬冰饮",
+          "海滩",
+          "产品摄影"
+        ],
+        "status": "confirmed",
+        "title": "TOKYO HIGHBALL 海滩饮品广告"
+      },
       "review_status": "verified",
       "review_summary": "已实际看图并阅读全文。TOKYO HIGHBALL罐、柠檬冰饮与海滩背景；完整文字规定产品及文案，无指定包装参考。 本次核对资料关系、图片角色和输入条件，不代表身份、事实或逐像素生成正确性验收。",
       "scenes": [
-        "科技",
-        "商业",
-        "食品饮品"
+        "食品饮品",
+        "海滩",
+        "商业"
       ],
       "source_category": "Products & E-commerce",
       "source_evidence": [
@@ -4927,9 +5074,8 @@
       ],
       "status": "complete",
       "styles": [
-        "海报",
-        "写实",
-        "商品"
+        "商品",
+        "写实"
       ],
       "techniques": [],
       "title": "品牌徽标设计图",
@@ -15348,6 +15494,19 @@
         "商品与电商"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-264-a7ce2d1f3930/v1.json",
+      "effective_labels": {
+        "categories": [
+          "商品与电商"
+        ],
+        "scenes": [
+          "商业",
+          "美妆"
+        ],
+        "styles": [
+          "商品",
+          "海报"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [],
@@ -15359,10 +15518,43 @@
         "Y2K"
       ],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "Y2K 化妆品广告",
+          "荧光彩妆",
+          "口红眼影产品图"
+        ],
+        "description": "面向 Z 世代的荧光粉绿 Y2K 彩妆广告，画面包含口红、眼影等产品和鲜艳商业视觉。",
+        "effective_labels": {
+          "categories": [
+            "商品与电商"
+          ],
+          "scenes": [
+            "商业",
+            "美妆"
+          ],
+          "styles": [
+            "商品",
+            "海报"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "Y2K",
+          "彩妆",
+          "化妆品",
+          "口红",
+          "眼影",
+          "荧光色"
+        ],
+        "status": "confirmed",
+        "title": "荧光粉绿 Y2K 彩妆产品广告"
+      },
       "review_status": "verified",
       "review_summary": "荧光粉绿Y2K化妆品广告，含口红眼影产品。已阅读全文并查看样图，图片为结果示例；未发现必须补充某一指定输入图片。",
       "scenes": [
-        "商业"
+        "商业",
+        "美妆"
       ],
       "source_category": "Products & E-commerce",
       "source_evidence": [
@@ -15404,7 +15596,8 @@
       ],
       "status": "complete",
       "styles": [
-        "商品"
+        "商品",
+        "海报"
       ],
       "techniques": [],
       "title": "美妆产品广告图",
@@ -24513,6 +24706,19 @@
         "摄影与写实"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-36-d8bb6074ff3a/v1.json",
+      "effective_labels": {
+        "categories": [
+          "摄影与写实"
+        ],
+        "scenes": [
+          "运动",
+          "科技"
+        ],
+        "styles": [
+          "写实",
+          "品牌"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -24524,12 +24730,43 @@
       "model_version": null,
       "movements": [],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "OpenAI 篮球",
+          "体育馆品牌视觉",
+          "绿色篮球人物照片"
+        ],
+        "description": "体育馆自拍场景：男子手持绿色 OpenAI 篮球，人物、运动场景和品牌物件共同构成视觉示例。",
+        "effective_labels": {
+          "categories": [
+            "摄影与写实"
+          ],
+          "scenes": [
+            "运动",
+            "科技"
+          ],
+          "styles": [
+            "写实",
+            "品牌"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "OpenAI",
+          "篮球",
+          "体育馆",
+          "自拍",
+          "品牌视觉",
+          "人物照片"
+        ],
+        "status": "confirmed",
+        "title": "体育馆自拍：OpenAI 篮球品牌视觉"
+      },
       "review_status": "verified",
       "review_summary": "体育馆自拍男子手持绿色 OpenAI 篮球，文字直接给定人物与场景。已实际看样图并阅读完整 prompt；复核资料关系与输入条件，不代表生成复现或逐项事实准确性验收。",
       "scenes": [
-        "科技",
-        "商业",
-        "社媒"
+        "运动",
+        "科技"
       ],
       "source_category": "Photography & Realism",
       "source_evidence": [
@@ -35651,6 +35888,20 @@
         "人物与角色"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-473-7b4b6261b32a/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "科技",
+          "游戏"
+        ],
+        "styles": [
+          "角色设定",
+          "概念艺术",
+          "写实"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -35668,12 +35919,44 @@
         "brutalist"
       ],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "游戏角色设定板",
+          "角色三视",
+          "环境概念设定",
+          "Rogue Viper"
+        ],
+        "description": "四区游戏概念板，包含角色三视、角色表情/装备与环境设定。",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "科技",
+            "游戏"
+          ],
+          "styles": [
+            "角色设定",
+            "概念艺术",
+            "写实"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "游戏",
+          "角色设定",
+          "角色三视",
+          "概念设定板",
+          "环境设定"
+        ],
+        "status": "confirmed",
+        "title": "ROGUE VIPER 游戏角色概念设定板"
+      },
       "review_status": "verified",
       "review_summary": "ROGUE VIPER 四区游戏概念板，角色三视和环境参考均是输出内容。已实际看样图并阅读完整 prompt；复核资料关系与输入条件，不代表生成复现或逐项事实准确性验收。",
       "scenes": [
         "科技",
-        "商业",
-        "食品饮品"
+        "游戏"
       ],
       "source_category": "Characters & People",
       "source_evidence": [
@@ -35719,8 +36002,8 @@
       ],
       "status": "complete",
       "styles": [
-        "界面",
-        "海报",
+        "角色设定",
+        "概念艺术",
         "写实"
       ],
       "techniques": [],
@@ -39534,6 +39817,19 @@
         "人物与角色"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "科技",
+          "游戏"
+        ],
+        "styles": [
+          "角色设定",
+          "概念艺术"
+        ]
+      },
       "effective_status": "needs_review",
       "image_count": 1,
       "materials": [
@@ -39552,12 +39848,42 @@
         "brutalist"
       ],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "角色设定表",
+          "角色概念图",
+          "Brutalist Freestyle"
+        ],
+        "description": "角色设定输出包含轮廓、护甲、帽衫和表情表，但原始 prompt 依赖上传角色参考图；当前归档没有该输入图，复用时需要替换为自己的角色参考。",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "科技",
+            "游戏"
+          ],
+          "styles": [
+            "角色设定",
+            "概念艺术"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "角色设定",
+          "概念图",
+          "角色参考图",
+          "三视/表情表",
+          "brutalist"
+        ],
+        "status": "needs_validation",
+        "title": "Brutalist Freestyle 角色设定表（需要角色参考图）"
+      },
       "review_status": "needs_review",
       "review_summary": "原文对上传角色的轮廓/护甲/帽衫有具体保持要求，现存仅角色设定输出。可换自己的设计参考复用，但原角色输入尚不能确认。 审核只涉及资料输入要求/资产角色，不包含重新生图、身份一致性或像素复现验证。",
       "scenes": [
         "科技",
-        "商业",
-        "教育"
+        "游戏"
       ],
       "source_category": "Characters & People",
       "source_evidence": [
@@ -39603,9 +39929,8 @@
       ],
       "status": "complete",
       "styles": [
-        "界面",
-        "海报",
-        "写实"
+        "角色设定",
+        "概念艺术"
       ],
       "techniques": [
         "linework"
@@ -39633,6 +39958,24 @@
         "插画与艺术"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.json",
+      "effective_labels": {
+        "categories": [
+          "插画与艺术"
+        ],
+        "scenes": [
+          "旅行",
+          "城市"
+        ],
+        "styles": [
+          "插画",
+          "手绘",
+          "编辑"
+        ],
+        "techniques": [
+          "linework",
+          "limited palette"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -39644,12 +39987,48 @@
       "model_version": null,
       "movements": [],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "单色旅行手账",
+          "黑色马克笔旅行插画",
+          "蓝色点缀涂鸦"
+        ],
+        "description": "编辑式旅行手账插画：黑色马克笔线稿、宽松留白和单一蓝色点缀，地点和地标以可替换文本表达。",
+        "effective_labels": {
+          "categories": [
+            "插画与艺术"
+          ],
+          "scenes": [
+            "旅行",
+            "城市"
+          ],
+          "styles": [
+            "插画",
+            "手绘",
+            "编辑"
+          ],
+          "techniques": [
+            "linework",
+            "limited palette"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "旅行手账",
+          "黑色线稿",
+          "马克笔",
+          "蓝色点缀",
+          "编辑插画",
+          "留白"
+        ],
+        "status": "confirmed",
+        "title": "黑色线稿与单一蓝色点缀的旅行手账插画"
+      },
       "review_status": "verified",
       "review_summary": "Paris 黑色旅行涂鸦配少量蓝色，地点为可替换文本。已实际看样图并阅读完整 prompt；复核资料关系与输入条件，不代表生成复现或逐项事实准确性验收。",
       "scenes": [
-        "科技",
-        "商业",
-        "教育"
+        "旅行",
+        "城市"
       ],
       "source_category": "Illustration & Art",
       "source_evidence": [
@@ -39695,11 +40074,14 @@
       ],
       "status": "complete",
       "styles": [
-        "界面",
-        "写实",
-        "插画"
+        "插画",
+        "手绘",
+        "编辑"
       ],
-      "techniques": [],
+      "techniques": [
+        "linework",
+        "limited palette"
+      ],
       "title": "单色点缀旅行手账插画",
       "title_aliases": [
         "单色点缀旅行手账插画"
@@ -41246,6 +41628,18 @@
         "摄影与写实"
       ],
       "detail_path": "cases/case-awesome-gpt-image-2-53-387a742f4f09/v1.json",
+      "effective_labels": {
+        "categories": [
+          "摄影与写实"
+        ],
+        "scenes": [
+          "科技",
+          "商业"
+        ],
+        "styles": [
+          "写实"
+        ]
+      },
       "effective_status": "complete",
       "image_count": 1,
       "materials": [
@@ -41259,12 +41653,42 @@
         "Y2K"
       ],
       "record_type": "case",
+      "retrieval": {
+        "aliases": [
+          "街机维修",
+          "街机机柜",
+          "街机修理",
+          "arcade repair"
+        ],
+        "description": "写实摄影场景：男子跪地打开街机机柜维修，金属机体，暗场闪光灯。",
+        "effective_labels": {
+          "categories": [
+            "摄影与写实"
+          ],
+          "scenes": [
+            "科技",
+            "商业"
+          ],
+          "styles": [
+            "写实"
+          ]
+        },
+        "evidence_count": 2,
+        "keywords": [
+          "街机",
+          "维修",
+          "男子",
+          "写实摄影",
+          "暗场闪光灯"
+        ],
+        "status": "confirmed",
+        "title": "暗场闪光灯下维修街机的男子"
+      },
       "review_status": "verified",
       "review_summary": "男子跪地修理街机，打开机柜与暗场闪光灯环境明确。已实际看样图并阅读完整 prompt；复核资料关系与输入条件，不代表生成复现或逐项事实准确性验收。",
       "scenes": [
         "科技",
-        "商业",
-        "社媒"
+        "商业"
       ],
       "source_category": "Photography & Realism",
       "source_evidence": [
@@ -41310,9 +41734,7 @@
       ],
       "status": "complete",
       "styles": [
-        "界面",
-        "写实",
-        "品牌"
+        "写实"
       ],
       "techniques": [],
       "title": "室内空间渲染图",

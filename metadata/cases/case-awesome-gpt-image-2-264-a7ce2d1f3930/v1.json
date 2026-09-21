@@ -69,5 +69,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "荧光粉绿 Y2K 彩妆产品广告",
+    "aliases": ["Y2K 化妆品广告", "荧光彩妆", "口红眼影产品图"],
+    "description": "面向 Z 世代的荧光粉绿 Y2K 彩妆广告，画面包含口红、眼影等产品和鲜艳商业视觉。",
+    "keywords": ["Y2K", "彩妆", "化妆品", "口红", "眼影", "荧光色"],
+    "effective_labels": {
+      "categories": ["商品与电商"],
+      "styles": ["商品", "海报"],
+      "scenes": ["商业", "美妆"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看图片，主体为荧光粉绿 Y2K 彩妆广告。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始 prompt 明确 Z 世代、Y2K、荧光色和彩妆产品。"}
+    ]
+  }
 }

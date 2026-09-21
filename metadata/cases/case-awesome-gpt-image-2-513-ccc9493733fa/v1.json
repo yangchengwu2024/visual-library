@@ -69,5 +69,22 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "黑色线稿与单一蓝色点缀的旅行手账插画",
+    "aliases": ["单色旅行手账", "黑色马克笔旅行插画", "蓝色点缀涂鸦"],
+    "description": "编辑式旅行手账插画：黑色马克笔线稿、宽松留白和单一蓝色点缀，地点和地标以可替换文本表达。",
+    "keywords": ["旅行手账", "黑色线稿", "马克笔", "蓝色点缀", "编辑插画", "留白"],
+    "effective_labels": {
+      "categories": ["插画与艺术"],
+      "styles": ["插画", "手绘", "编辑"],
+      "scenes": ["旅行", "城市"],
+      "techniques": ["linework", "limited palette"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看黑色旅行涂鸦和少量蓝色点缀。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始 prompt 明确马克笔线稿、留白、单一强调色和旅行地点占位符。"}
+    ]
+  }
 }

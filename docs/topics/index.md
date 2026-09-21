@@ -1012,6 +1012,10 @@
 
 - [纸艺风格 Emoji 图标 · v1](../../cases/case-jamez-awesome-gpt4o-images-52-38c70ceb2352/v1.md) — jamez-awesome-gpt4o-images \#52 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
+### limited palette · 1
+
+- [单色点缀旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
+
 ### line art · 10
 
 - [插画艺术创作图 · v1](../../cases/case-awesome-gpt-image-2-43-df5abf7f8325/v1.md) — awesome-gpt-image-2 \#43 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -1030,7 +1034,7 @@
 - [可爱角色设定表 · v1](../../cases/case-awesome-gpt-image-2-372-a2019220dc21/v1.md) — awesome-gpt-image-2 \#372 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [赛博黑客角色设定表 · v1](../../cases/case-awesome-gpt-image-2-439-085cb12f9f61/v1.md) — awesome-gpt-image-2 \#439 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
-### linework · 14
+### linework · 15
 
 - [试卷上的涂鸦巨龙 · v1](../../cases/case-awesome-gpt-image-2-196-e8fa61348f74/v1.md) — awesome-gpt-image-2 \#196 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [绘制金瓶梅知识图谱 · v1](../../cases/case-awesome-gpt-image-2-214-9ec6da41bda7/v1.md) — awesome-gpt-image-2 \#214 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
@@ -1044,6 +1048,7 @@
 - [巴黎秋季时装插画 · v1](../../cases/case-awesome-gpt-image-2-458-c464c6274fcf/v1.md) — awesome-gpt-image-2 \#458 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [单色水彩城市旅行海报 · v1](../../cases/case-awesome-gpt-image-2-497-03eba575ec25/v1.md) — awesome-gpt-image-2 \#497 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [Brutalist Freestyle 角色设定表 · v1](../../cases/case-awesome-gpt-image-2-512-a85add6ba440/v1.md) — awesome-gpt-image-2 \#512 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [单色点缀旅行手账插画 · v1](../../cases/case-awesome-gpt-image-2-513-ccc9493733fa/v1.md) — awesome-gpt-image-2 \#513 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [儿童故事书手绘头像 · v1](../../cases/case-awesome-gpt-image-2-522-567a152e8aad/v1.md) — awesome-gpt-image-2 \#522 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [粗粝手绘搭档肖像海报 · v1](../../cases/case-awesome-gpt-image-2-539-c5c77f1cba30/v1.md) — awesome-gpt-image-2 \#539 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 

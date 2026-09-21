@@ -69,5 +69,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "桌面积木房屋与产品包装场景",
+    "aliases": ["积木房屋广告", "桌面产品场景", "包装盒与人物"],
+    "description": "写实桌面场景：积木房屋、人物和包装盒共同构成产品/品牌方向的成品示例。",
+    "keywords": ["积木房屋", "产品包装", "桌面场景", "人物", "写实"],
+    "effective_labels": {
+      "categories": ["商品与电商"],
+      "styles": ["写实", "商品"],
+      "scenes": ["商业", "生活方式"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看图片，主体为桌面积木房屋、人物和包装盒。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始指令围绕成品场景与包装表达，不是单独徽标设计。"}
+    ]
+  }
 }

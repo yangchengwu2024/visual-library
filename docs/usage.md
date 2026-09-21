@@ -6,7 +6,7 @@
 
 ## 查看资料
 
-**[🖼️ 进入画廊总览](../docs/gallery.md)** · [全部案例第 1 册](../docs/gallery-part-1.md) · [提示词模板](../docs/templates.md)
+**[🖼️ 进入画廊总览](../docs/gallery.md)** · [全部案例第 1 册](../docs/gallery-part-1.md) · [提示词模板](../docs/templates.md) · [参考选择方法](methods/index.md)
 
 画廊总览提供分类目录和分册入口。点击案例标题即可查看本仓库保存的图片、完整提示词和版本，不需要打开独立网站。
 
@@ -26,16 +26,21 @@ cd visual-library
 python -B scripts/library.py query 人像 --limit 5
 python -B scripts/library.py query 复古 暖色 --full-text --limit 5
 python -B scripts/library.py query --category 人物与角色 --limit 5
+python -B scripts/library.py query --tag 商品与电商 --preferred-tag 玻璃 --limit 5
 python -B scripts/library.py show <案例编号> --version v1
 ```
 
 默认查询轻量元数据；关键词不够时使用 `--full-text` 查完整提示词。显示结果包含案例 ID 和版本，图片指向本仓库内文件。查询和展示不写入资料库。当前案例数量见索引中的 `case_count`，模板见 [模板索引](../indexes/templates.json)。
+
+默认查询轻量元数据；`--tag` 是必须满足的条件，`--preferred-tag` 只提高排序，不会排除其他案例。关键词不够时使用 `--full-text` 查当前版本完整提示词。结果中的 `matched_by` 会说明命中的检索层。
 
 ## 分类
 
 沿用来源的 13 个导航分类：UI 与界面、图表与信息可视化、海报与排版、商品与电商、品牌与标志、建筑与空间、摄影与写实、插画与艺术、人物与角色、场景与叙事、历史与古风题材、文档与出版物、其他应用场景。
 
 分类、风格、场景分别保存，保留原始标签，常用中英文同义词可用于检索。来源关键词标签只是检索线索，不代表已经逐图核验。个人修正放在 `personal/`，不改写原始提示词。
+
+来源关键词标签只是检索线索，不代表已经逐图核验。经过图片、prompt 或已有核查记录确认后，可在版本 sidecar 中增加 `retrieval.title`、`retrieval.description`、`retrieval.keywords` 和 `retrieval.effective_labels`；这些有效字段用于普通检索，来源字段仍可回查。
 
 ## 收藏、备注与改写
 
@@ -58,6 +63,7 @@ python -B scripts/library.py query --favorites
 - `indexes/`：可重建的轻量索引。
 - `docs/`：自动生成的画廊总览、分类目录、案例分册与模板入口。
 - `personal/`：收藏、备注和个人修正，与上游资料独立。
+- `metadata/cases/<id>/vN.json` 中的 `retrieval`：按版本保存的自有检索标题、描述、关键词、有效标签和核查依据；上游同步不能覆盖。
 
 完全一样的内容不重复生成版本；同一案例的提示词或图像等实质变化追加 v2、v3。旧版本保留，指定 v1 不会替换成最新版。不同来源参数不明时不强行合并；相似图文交给 Codex 看图读文后决定，可先查看候选：
 

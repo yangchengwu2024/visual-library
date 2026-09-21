@@ -130,5 +130,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "ROGUE VIPER 游戏角色概念设定板",
+    "aliases": ["游戏角色设定板", "角色三视", "环境概念设定", "Rogue Viper"],
+    "description": "四区游戏概念板，包含角色三视、角色表情/装备与环境设定。",
+    "keywords": ["游戏", "角色设定", "角色三视", "概念设定板", "环境设定"],
+    "effective_labels": {
+      "categories": ["人物与角色"],
+      "styles": ["角色设定", "概念艺术", "写实"],
+      "scenes": ["科技", "游戏"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看图片，主体为游戏角色概念板和环境设定。"},
+      {"basis": "image_review", "field": "effective_labels.scenes", "value": "游戏", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "纠正来源场景标签中的食品饮品误导。"}
+    ]
+  }
 }

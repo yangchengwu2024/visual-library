@@ -155,5 +155,21 @@
       ],
       "additional_asset_paths": []
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "needs_validation",
+    "title": "Brutalist Freestyle 角色设定表（需要角色参考图）",
+    "aliases": ["角色设定表", "角色概念图", "Brutalist Freestyle"],
+    "description": "角色设定输出包含轮廓、护甲、帽衫和表情表，但原始 prompt 依赖上传角色参考图；当前归档没有该输入图，复用时需要替换为自己的角色参考。",
+    "keywords": ["角色设定", "概念图", "角色参考图", "三视/表情表", "brutalist"],
+    "effective_labels": {
+      "categories": ["人物与角色"],
+      "styles": ["角色设定", "概念艺术"],
+      "scenes": ["科技", "游戏"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看角色设定输出。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始 prompt 明确要求使用上传角色参考图；该输入未随归档保存。"}
+    ]
+  }
 }

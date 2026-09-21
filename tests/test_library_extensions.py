@@ -104,7 +104,8 @@ class LibraryExtensionsTest(unittest.TestCase):
         self.assertEqual(shown["assets"][0]["source_role"], "example")
         self.assertEqual(len(library.query(self.root, "Collage")), 1)
         self.assertEqual(len(library.query(self.root, "primary-evidence")), 2)
-        self.assertIn("not visually assessed", library.query(self.root)[0]["matched_by"])
+        self.assertEqual(library.query(self.root)[0]["matched_by"], ["structured_filters"])
+        self.assertEqual(library.query(self.root, "required input"), [])
 
     def test_legacy_catalog_reads_new_sidecar_without_rebuild(self):
         self.ingest([self.record])
@@ -184,6 +185,60 @@ class LibraryExtensionsTest(unittest.TestCase):
         self.assertFalse(self.root.exists())
         with self.assertRaises(ValueError):
             self.ingest([self.record], mode="partial")
+
+    def test_retrieval_sidecar_and_effective_labels_drive_search(self):
+        self.ingest([self.record])
+        retrieval = {
+            "status": "confirmed",
+            "title": "Distinct retrieval title",
+            "aliases": ["retrieval alias"],
+            "description": "A checked visual description.",
+            "keywords": ["checked keyword"],
+            "effective_labels": {
+                "categories": ["Products"],
+                "styles": ["Warm"],
+                "scenes": ["Food"],
+                "materials": ["Glass"],
+            },
+            "evidence": [{"basis": "image_review", "note": "fixture evidence"}],
+        }
+        library._write(library._metadata_path(self.root, self.case_id, "v1"), {"retrieval": retrieval})
+        library.rebuild(self.root)
+        shown = library.show(self.root, self.case_id, "v1")
+        self.assertEqual(shown["retrieval"]["title"], "Distinct retrieval title")
+        self.assertEqual(shown["effective_labels"]["categories"], ["Products"])
+        self.assertEqual(library.query(self.root, "retrieval alias")[0]["case_id"], self.case_id)
+        self.assertEqual(library.query(self.root, category="Products")[0]["case_id"], self.case_id)
+        self.assertEqual(library.query(self.root, tags=["Food"])[0]["case_id"], self.case_id)
+        self.assertEqual(library.query(self.root, material="Glass")[0]["case_id"], self.case_id)
+
+    def test_upstream_cannot_write_or_replace_retrieval_sidecar(self):
+        self.ingest([self.record])
+        retrieval = {"status": "confirmed", "title": "Protected title", "keywords": ["protected"]}
+        path = library._metadata_path(self.root, self.case_id, "v1")
+        library._write(path, {"retrieval": retrieval})
+        before = path.read_bytes()
+        with self.assertRaises(ValueError):
+            self.ingest([dict(self.record, metadata={"retrieval": retrieval})], revision="r2", mode="append")
+        self.assertEqual(path.read_bytes(), before)
+        self.ingest([dict(self.record, metadata={"review_status": "verified"})], revision="r3", mode="append")
+        self.assertEqual(library.show(self.root, self.case_id, "v1")["retrieval"]["title"], "Protected title")
+
+    def test_review_notes_are_not_default_keyword_content(self):
+        metadata = {"review_status": "needs_review", "review_note": "This phrase is only a diagnostic note"}
+        self.ingest([dict(self.record, metadata=metadata)])
+        self.assertEqual(library.query(self.root, "diagnostic note"), [])
+        self.assertEqual(library.query(self.root, review_status="needs_review")[0]["case_id"], self.case_id)
+
+    def test_preferred_tags_boost_without_filtering(self):
+        first = dict(self.record, styles=["Warm"])
+        second = dict(self.record, source_id="8", title="Cool portrait", styles=["Cool"])
+        self.ingest([first, second])
+        result = library.query(self.root, preferred_tags=["Warm"])
+        self.assertEqual(len(result), 2)
+        self.assertEqual(result[0]["case_id"], self.case_id)
+        self.assertIn("preferred_tags", result[0]["matched_by"])
+        self.assertEqual(len(library.query(self.root, tags=["Warm"])), 1)
 
     def test_prompt_variants_version_search_and_group_preserve_originals(self):
         first_variants = {"original": self.record["prompt"], "en": "English archival phrase\r\nKeep ``` formatting.  "}

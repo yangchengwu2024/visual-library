@@ -82,5 +82,21 @@
         ]
       }
     }
-  ]
+  ],
+  "retrieval": {
+    "status": "confirmed",
+    "title": "暗场闪光灯下维修街机的男子",
+    "aliases": ["街机维修", "街机机柜", "街机修理", "arcade repair"],
+    "description": "写实摄影场景：男子跪地打开街机机柜维修，金属机体，暗场闪光灯。",
+    "keywords": ["街机", "维修", "男子", "写实摄影", "暗场闪光灯"],
+    "effective_labels": {
+      "categories": ["摄影与写实"],
+      "styles": ["写实"],
+      "scenes": ["科技", "商业"]
+    },
+    "evidence": [
+      {"basis": "image_review", "field": "retrieval.title", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "已查看图片，实际主体为男子维修街机。"},
+      {"basis": "prompt_review", "field": "retrieval.description", "checked_commit": "9b386cfbe51d5ddb46b92409ccf406966c273cc5", "note": "原始 prompt 明确街机机柜、金属部件和暗场闪光灯。"}
+    ]
+  }
 }
