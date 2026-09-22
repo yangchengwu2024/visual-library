@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:21+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-y-EvUmrF-n1m24aw--f3977c26cd30",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "807d60b0b63376c0b802a8935f04b15bc053f69d4c4c7a278ef6c1498c9bdc9a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A beautiful Korean teacher wearing a white, tight-fitting dress and high heels, with a mask on her face, teaching in front of a blackboard with students around her. bright classroom, photo-realistic, Canon. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA:prompt-0001",
+    "source_metadata": {
+      "article_index": 329,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.18",
+      "association_confidence": "prompt_only",
+      "createTime": 1730083151,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_y-EvUmrF-n1m24aw--XgaA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486080&idx=1&sn=c540eeacbca8f589e372ba3bae82e3d5&chksm=966567f5515475eabd62295e47be1274e9a767b57dd97dcf2f985350b72c74196d1da7f99212#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.18 · 提示词 2",
+  "version": "v1"
+}

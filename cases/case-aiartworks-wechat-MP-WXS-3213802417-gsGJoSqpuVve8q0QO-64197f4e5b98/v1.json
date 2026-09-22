@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:02+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-gsGJoSqpuVve8q0QO-64197f4e5b98",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "7b9bfb5cbc2e7ecce9ec30a655ae06a1d31525c0a59de493dadf9492355a875b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "an old 65-year-old mafia boss, obese, sitting in a chair, smoking a cigar, expression grinning mischieviously, background luxurious Italian home, cinematic, 4K --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg:prompt-0011",
+    "source_metadata": {
+      "article_index": 37,
+      "article_title": "Vol.295 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1777246268,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_gsGJoSqpuVve8q0QO-lewg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0",
+    "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504988&idx=1&sn=41d9de23579d5a406ee06f196310a733&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.295 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

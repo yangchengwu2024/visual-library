@@ -1,0 +1,54 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-22cc7ae41d76",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0008",
+      "source_metadata": {
+        "article_index": 35,
+        "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "prompt_only",
+        "createTime": 1777851036,
+        "image_storage": "external_url",
+        "image_url_count": 0,
+        "prompt_index": 8,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+      "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 9",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "title_aliases": [
+    "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 9"
+  ]
+}

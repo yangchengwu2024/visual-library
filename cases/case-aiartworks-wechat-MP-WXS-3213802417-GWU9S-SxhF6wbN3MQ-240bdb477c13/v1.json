@@ -1,0 +1,59 @@
+{
+  "archived_at": "2026-09-22T02:14:01+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-GWU9S-SxhF6wbN3MQ-240bdb477c13",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3126a40cd1d3136243948891b7660e62d7474e967c81e83b38a986b300dc7dcd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "hd": true,
+    "no": [
+      "blonde,",
+      "door",
+      "key"
+    ],
+    "profile": "t7tmlx3",
+    "raw": true,
+    "stylize": "75",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "Editorial fashion photograph: elegant young woman, vivid copper red hair, fair freckled skin, green eyes, glowy clean girl makeup, soft natural lip. Bent fully forward at the waist in a deep collapsed fold, torso drooping toward the ground, head hanging completely limp, arms dangling loose and lifeless. A large clockwork winding mechanism of soft padded golden fabric screwed into her upper back - a double looped figure eight turn handle (shaped like the number 8) on a threaded shaft, like a wind up toy or music box winder, with small felt gear cogs at its base, clearly silhouetted against open sky. NOT a door key. A quilted rich red fabric briefcase hangs from one limp hand. Wearing an oversized sky blue tailored blazer and baby pink wide leg trousers. Framed by a few giant plush felted wool flowers in rich red, drooping heavily. Balanced, unbusy composition. Color palette: ~30% rich red, 20% sky blue, 16% baby pink, 12% cream, remainder soft muted pastels. Clear saturated blue sky, soft warm low light, long gentle shadows. Shot on medium format film, Kodak Portra 400, fine grain, cinematic contemporary elegance, hyperreal yet dreamy. --no blonde, door key --ar 4:5 --raw --profile t7tmlx3 --stylize 75 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA:prompt-0011",
+    "source_metadata": {
+      "article_index": 20,
+      "article_title": "Vol.312-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1783048144,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_GWU9S-SxhF6wbN3MQXNOiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd",
+    "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247509691&idx=1&sn=dfb65d80263e47b6898a35e73f2d5e1b&chksm=96a3c965957cb80d2538555e399767cf48a451a1ede8dec369c0fd50f1d8956817f4a2edd815#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.312-Midjourney 精选作品提示词与赏析 · 提示词 12",
+  "version": "v1"
+}

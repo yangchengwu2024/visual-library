@@ -692,6 +692,8 @@ def import_records(root, records, source, revision, *, lock=True, mode="snapshot
                 case_id, _ = _resolve(root, case_id)
             assets, missing = [], list(record.get("missing_assets") or [])
             record_metadata = record.get("metadata") or {}
+            if record_metadata.get("record_type", "case") == "keyword_reference":
+                missing = [item for item in missing if item.get("field") != "assets"]
             for asset in record.get("assets", []):
                 try:
                     stored, shared = _store_asset(root, asset)

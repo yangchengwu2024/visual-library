@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-22T02:14:12+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-rV2xv2NAUC8ICZClV-7d88f0d21413",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "981ed9aada4636bd260c0a0974659e5c4a28a43589ed14b62004c19df396b32c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "10",
+    "stylize": "300",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "High-angle medium shot illustration in style of hiroshi nagai, a girl with long black hair in a white dress, centrally positioned, gently opening a dark brown wooden window. The window is surrounded by a dense wall of vibrant red roses with green leaves. Soft warm yellow-orange light emanates from the blurred interior. Strong contrast between the woman's white dress and the deep red roses. Symmetrical composition, shallow to medium depth of field. Natural light on the roses, warm indoor light highlighting the woman. Intimate and slightly romantic mood, The windows blend seamlessly into the stunning, extremely dense and vibrant backdrop of blooming red roses, A textured, almost three-dimensional crimson wall is formed, Rich green leaves can be glimpsed, Adds depth and visual complexity to the floral tapestry, There is a strong contrast between the organic, overflowing natural beauty of the flowers and the structured geometry of the windows, The composition is relatively symmetrical, The window is located near the center of the frame, Her action of opening the window catches the viewer's eye, The main body of the interior is highlighted, It captures the stillness of a woman and a flower --chaos 10 --ar 3:4 --stylize 300 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg:prompt-0018",
+    "source_metadata": {
+      "article_index": 163,
+      "article_title": "Vol.168 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1745634624,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 18,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_rV2xv2NAUC8ICZClV0b6cg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd",
+    "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 19",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496235&idx=1&sn=9417fcbc08f70cd6fe8f80a54d403ba5&chksm=966066d39d2011e2de01b4cef829b306b99d6f4af9cfd1aad874230cff6f5467b4f139bab0f6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.168 - Midjourney | 精选作品关键词提示 · 提示词 19",
+  "version": "v1"
+}

@@ -1,0 +1,59 @@
+{
+  "archived_at": "2026-09-22T02:14:14+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-k89y1s4hKvu7wUiLL-85d1778f237f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4c85d573784f24489f5652e1e2847abff5115b5577fd34227aec796cfc55834e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "no": [
+      "Direct",
+      "depiction",
+      "of",
+      "the",
+      "lion's",
+      "coat"
+    ],
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Portrait of a lion formed entirely of flames, walking directly towards the camera near the edge of a volcanic crater. The landscape is filled with flowing red-hot lava, with thick smoke rising from the erupting volcano in the distance. The flames take the shape of a lion, with the outline of the lion being unstable and uncertain, like the flickering of fire. The flames and the surrounding scenery are depicted in a realistic photographic style, with the light from the flames casting dramatic shadows on the rocky ground and illuminating the volcanic landscape. The fiery lion is the central focus, walking through the fiery, chaotic environment, surrounded by the molten lava and intense heat. The atmosphere should feel fierce and awe-inspiring, capturing the power of both the lion and the erupting volcano. The camera should be set to create a realistic depth of field, emphasizing the dynamic contrast between the lion and the fiery eruption in the background. --no Direct depiction of the lion's coat --ar 9:16 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ:prompt-0014",
+    "source_metadata": {
+      "article_index": 191,
+      "article_title": "Vol.145 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1743215455,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~k89y1s4hKvu7wUiLLLPoQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd",
+    "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495321&idx=1&sn=597afba5e4c67fe37d5dabcd8203e1f2&chksm=96348b8b9a2fed3cb9fd6c3b890f77593bacc36548d019cd9c14196bcebb511916fb924b0b86#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.145 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

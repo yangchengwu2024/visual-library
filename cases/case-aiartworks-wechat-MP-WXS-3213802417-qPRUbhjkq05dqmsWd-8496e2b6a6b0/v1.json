@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-09-22T02:14:15+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qPRUbhjkq05dqmsWd-8496e2b6a6b0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e72919956b72446488cc56f2a36f0f8635de1e11d9e21b38df751f4d055a4ffb",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "profile": "ub543co",
+    "sref": [
+      "2891571760",
+      "531168650"
+    ],
+    "stylize": "1000",
+    "sw": "100",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Movement, Moving forward in speed of light, surreal --ar 2:3 --sref 2891571760 531168650 --profile ub543co --sw 100 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 218,
+      "article_title": "Vol.123 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1741055424,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qPRUbhjkq05dqmsWdqZsqQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd",
+    "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494077&idx=1&sn=18916741f742c2200586d6308dca93a6&chksm=96718c01aaf5bfa09b62bfc044e1801ee47c862d5e3b9bf576a06826e06dc3cffbe4867814f7#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.123 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

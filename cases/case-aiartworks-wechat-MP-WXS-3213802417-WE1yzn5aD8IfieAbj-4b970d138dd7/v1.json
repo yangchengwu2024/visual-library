@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:13+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-WE1yzn5aD8IfieAbj-4b970d138dd7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f25f94723c5ad7fa6af67cb74ce0f63d67315e11e14f102e530c679b084d778c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "xjzqh7f",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "realistic crocodile underwater with open jaws, split view waterline, penguins standing on the ice above the surface, arctic landscape, clear separation of underwater and above-water scene, dramatic lighting, cold color tones, photorealism, highly detailed nature scene --ar 9:16 --profile xjzqh7f --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q:prompt-0014",
+    "source_metadata": {
+      "article_index": 180,
+      "article_title": "Vol.152 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744080373,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_WE1yzn5aD8IfieAbjkef3Q",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd",
+    "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495639&idx=1&sn=78f94241ee5673964b2a1c482faf3115&chksm=96541f220054dbbb47cc96056d1187e1c79813ff4fd364887f1d970320edd249635f648ec932#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.152 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

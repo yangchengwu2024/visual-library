@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-09-22T02:14:13+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-u-nF7Ef9yxPwRWrFz-edd58b429d07",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "30a0ef0d36b7ad27e5b300104a61cfac40827f33b6845dd97cc21643818373e5",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "40",
+    "no": [
+      "bioluminescence"
+    ],
+    "profile": "hrvgnlw",
+    "quality": "2",
+    "stylize": "900",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Hyper-realistic, cinematic photography. A vast biomechanical landscape stretches in all directions, dominated by towering mushroom structures with layered caps and ribbed undersides. The ground is uneven, covered in pulsing mycelium networks fused with remnants of old machinery. Between the fungal structures, patches of vivid green growth emerge--moss-like textures, broad-leaved alien plants, and creeping vines reclaiming the surface. Cracks in the ground give way to glowing roots and sprouting vegetation. Dust hangs in the air, mixing with pollen and mist. Above, a colossal mushroom spacecraft hovers silently. Its surface is fractured and aged, covered in scarred fungal plating and rusted biomechanical segments. Thick tendrils extend from its underside, loosely connected to the city’s highest towers. The ship’s shadow glides over a slowly regenerating world. Ultra-detailed textures, atmospheric diffusion, sharp lighting, ray-traced shadows. --no bioluminescence --chaos 40 --ar 9:16 --quality 2 --profile hrvgnlw --stylize 900 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw:prompt-0014",
+    "source_metadata": {
+      "article_index": 188,
+      "article_title": "Vol.146 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1743474638,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_u~nF7Ef9yxPwRWrFzePUUw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495414&idx=1&sn=c7609670a592aafaac299f44252233c3&chksm=967001a03f082a470eca2bab1f42687d62bbe810140bc8628b4e058f95718d36432ddfa0e3a6#rd",
+    "title": "Vol.146 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495414&idx=1&sn=c7609670a592aafaac299f44252233c3&chksm=967001a03f082a470eca2bab1f42687d62bbe810140bc8628b4e058f95718d36432ddfa0e3a6#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.146 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:04+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-j94NybpIVbCN3xJyl-e376e67caad4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "029e96aebf8aadf4a8f347ad22250f5a9dbe2c0a0ba22b21f9d2db0c2bc08a81",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2"
+  },
+  "previous_version": null,
+  "prompt": "**happy tree friends scenes everything is reflecting and there are intricate old objects arranged so that the light reflects colors sunset 1E073D 5600E3 5A1BA0 61DFFF 7F29FF 93D2F7 956AEB D679F5 F53CFF backlight blue brynnt weeddale colorful people pink purple 190058 panoramic view reflecting the light very busy dominant color orange color photography The pattern of light that appears when light is on a window and light shines through it, casting a pattern on the face. cinematic, movie scene. in shot only the shadow it casts, rain caustics --ar 1:2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_j94NybpIVbCN3xJylTvNCw:prompt-0003",
+    "source_metadata": {
+      "article_index": 61,
+      "article_title": "Vol.270 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1760311858,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 3,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_j94NybpIVbCN3xJylTvNCw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500784&idx=1&sn=bcfd2f2b8657e787df3bfd3a5c67f497&chksm=967be1e92f18f0a3639365f1e6ba71b2bab277592f31db765bbc352eabe683b8666498a672a0#rd",
+    "title": "Vol.270 - Midjourney | 精选作品关键词提示 · 提示词 4",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500784&idx=1&sn=bcfd2f2b8657e787df3bfd3a5c67f497&chksm=967be1e92f18f0a3639365f1e6ba71b2bab277592f31db765bbc352eabe683b8666498a672a0#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.270 - Midjourney | 精选作品关键词提示 · 提示词 4",
+  "version": "v1"
+}

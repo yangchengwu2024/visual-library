@@ -1,11 +1,11 @@
 <!-- VISUAL-LIBRARY-GALLERY:START -->
 ![个人视觉资料库](assets/banner.svg)
 
-**7192 条资料 · 13 个分类 · 22 个模板**
+**7605 条资料 · 13 个分类 · 22 个模板**
 
 [打开完整画廊](docs/gallery.md) · [提示词模板](docs/templates.md)
 
-原图文案例 7183 · 风格参考 9。待复核 6660；缺少必要输入图 7。
+原图文案例 7178 · 风格参考 9 · 关键词资料 418。待复核 7058；缺少必要输入图 7。
 
 [按模型浏览](docs/models/index.md) · [艺术家、流派与材质](docs/topics/index.md) · [复核说明](docs/collection-status.md) · [PDF关键词补遗](docs/pdf-keywords.md)
 
@@ -33,7 +33,7 @@
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-document.md"><img src="assets/category-covers/document.jpg" alt="文档与出版物" width="220"></a><br><a href="docs/categories/cat-document.md"><strong>文档与出版物</strong></a><br><sub>11 条资料</sub><br>白皮书、手册、百科图鉴和出版页设计。</td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="docs/categories/cat-other.md"><img src="assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="docs/categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>6657 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
+<td width="33%" align="center" valign="top"><a href="docs/categories/cat-other.md"><img src="assets/category-covers/other.jpg" alt="其他应用场景" width="220"></a><br><a href="docs/categories/cat-other.md"><strong>其他应用场景</strong></a><br><sub>7070 条资料</sub><br>创意实验、特殊任务、混合玩法和实用场景。</td>
 <td width="33%" align="center" valign="top"></td>
 <td width="33%" align="center" valign="top"></td>
 </tr>
@@ -43,14 +43,14 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCAxI5mHGGia2vtkSYRagtqQJo90sicrd9fMm0nbArMJF3j5HfMOfQWvYSVnOVNKeWXWTNd9LsBo1dDKhomYQibZibXelOaFBEia0zg/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246/v1.md"><strong>Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAebPuybYFj12Tbr5oaeOg2G09681icrGN6K2iaTJVTWXvOS4f9VS3SWRMTl9JwYxvh23PlJxyIQHxxdcicR98YFZXqZkFH8U1Plw/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2/v1.md"><strong>Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAInYO8xupS4c4y9KMSmGYuPmMAZcbMD7ug5qEZIeYWuDTacjoc1lhvYVCCAfakhvFZJYoiceXTpdmV41Qp4887Hwm5cJY6icLNo/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 13" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c/v1.md"><strong>Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 13 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zPzH-X-jZnFUlKJyX-a6941e73ce6e/v1.md"><strong>Vol.46 - Midjourney | 精选作品关键词提示 · 提示词 10 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zPzH-X-jZnFUlKJyX-a6941e73ce6e</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-e03d0ff059c5/v1.md"><strong>Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 12 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-e03d0ff059c5</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-4352807076b3/v1.md"><strong>Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 5 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-4352807076b3</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7XIibRRveg9WIMSy5lZP1hvSrBwlvhpWkwTgXaibjQbfSc4WNkBrzNcKA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0/v1.md"><strong>Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799/v1.md"><img src="https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCGPBkc1akp4S2MgBgmIPLQLL26pKCQlNicG3IWyBZAduGoBibjCSnC7afL4q6pW7rmJsUG3lQ3XQVANIFntNTlRb8J99toxLW3M/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799/v1.md"><strong>Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764/v1.md"><img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAiciaaY3PKyMMk6AgxWO2icIGOPmLDH3Cianc6fiah99B2Ey2hV7je2oia0dI7lnncHa1aDJag5xjDPyCjDyzmGV5u72n8avtrHt2Fs/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 6" width="220"></a><br><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764/v1.md"><strong>Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 6 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764</sub><br><sub>原图文案例 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-0441b5b1c03c/v1.md"><strong>Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 10 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-0441b5b1c03c</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-baee5a5e8983/v1.md"><strong>Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 15 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-baee5a5e8983</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-594ea28a7fa5/v1.md"><strong>Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 9 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-594ea28a7fa5</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
 </tr>
 </table>
 

@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-09-22T02:14:09+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SjttH-Oj600woHMjy-a34a94e06429",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3abda3f2241a5e4bb27e30a4e3aee4052adc42e2a95d203ffe7c941150d73a7f",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "ue3dc63",
+    "raw": true,
+    "sref": [
+      "3905903484"
+    ],
+    "stylize": "300",
+    "sv": "4",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Cinematic, Medium Group Shot, a squad of agents in tactical gear exchanging signals under dim blue light inside an airlock, tense expression, Static camera --ar 9:16 --raw --sref 3905903484 --profile ue3dc63 --sv 4 --stylize 300 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ:prompt-0016",
+    "source_metadata": {
+      "article_index": 118,
+      "article_title": "Vol.210 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1749771081,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 16,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SjttH-Oj600woHMjyWISsQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd",
+    "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 17",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498030&idx=1&sn=2aeff505d8a7acd2876411d9ed888b2c&chksm=9685d588ab7cab3c4a93975b60e8d202df795e9ef057c26148b24909c1fd05bcc598aa1a917a#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.210 - Midjourney | 精选作品关键词提示 · 提示词 17",
+  "version": "v1"
+}

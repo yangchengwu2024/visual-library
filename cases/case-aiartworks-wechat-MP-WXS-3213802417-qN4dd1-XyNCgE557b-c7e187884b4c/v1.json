@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:07+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qN4dd1-XyNCgE557b-c7e187884b4c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "21527a2707d7523f2cc67d2edd111e46645cd15ba2add6c195ee6ff5c17856b3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5"
+  },
+  "previous_version": null,
+  "prompt": "a surreal and dramatic composition of multiple human hands in expressive, fluid poses, surrounded by flowing translucent red and white fabrics, soft and diffused lighting, long exposure motion blur, ethereal and theatrical mood, dreamlike surreal photography, deep shadows, high contrast, inspired by contemporary performance art and dance, experimental photography, --ar 4:5",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qN4dd1-XyNCgE557b4~CUw:prompt-0022",
+    "source_metadata": {
+      "article_index": 92,
+      "article_title": "Vol.240 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1754263821,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 22,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qN4dd1-XyNCgE557b4~CUw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499356&idx=1&sn=da44ad2dc0b3ed8f5c101cd16484fec5&scene=58&subscene=0",
+    "title": "Vol.240 - Midjourney | 精选作品关键词提示 · 提示词 23",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499356&idx=1&sn=da44ad2dc0b3ed8f5c101cd16484fec5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.240 - Midjourney | 精选作品关键词提示 · 提示词 23",
+  "version": "v1"
+}

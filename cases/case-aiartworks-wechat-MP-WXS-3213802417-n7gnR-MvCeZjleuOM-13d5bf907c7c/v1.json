@@ -1,0 +1,68 @@
+{
+  "archived_at": "2026-09-22T02:14:14+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-13d5bf907c7c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b71ae0945d8d7818153a16b42a3defda4f4ede2d557aa8ef33e19f29998bddc9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "p857rct",
+    "sref": [
+      "https://s.mj.run/7iNFrBSw3eE",
+      "https://s.mj.run/XCfcQqhEd0c",
+      "https://s.mj.run/4JaNV6-lpDs",
+      "https://s.mj.run/wQwLwcikIAM",
+      "https://s.mj.run/OdKo8UgVVeI",
+      "https://s.mj.run/aqcZiUjUbhM",
+      "https://s.mj.run/n9Ew_LsaNgE",
+      "https://s.mj.run/qIpuT4nYRPQ",
+      "https://s.mj.run/U6xNu-xSlss",
+      "https://s.mj.run/TQuLe5GDZI8",
+      "https://s.mj.run/A1lBafzdJOk",
+      "https://s.mj.run/jJlPjYa8kLQ",
+      "https://s.mj.run/WNklLslELFs",
+      "https://s.mj.run/nyHPmUD9PQE"
+    ],
+    "stylize": "350",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A image of a panther getting a head massage. The panther is laying in a relaxed position, silhouette hands massaging their temple. There is a soft glow around the hands. --ar 3:4 --sref https://s.mj.run/7iNFrBSw3eE https://s.mj.run/XCfcQqhEd0c https://s.mj.run/4JaNV6-lpDs https://s.mj.run/wQwLwcikIAM https://s.mj.run/OdKo8UgVVeI https://s.mj.run/aqcZiUjUbhM https://s.mj.run/n9Ew_LsaNgE https://s.mj.run/qIpuT4nYRPQ https://s.mj.run/U6xNu-xSlss https://s.mj.run/TQuLe5GDZI8 https://s.mj.run/A1lBafzdJOk https://s.mj.run/jJlPjYa8kLQ https://s.mj.run/WNklLslELFs https://s.mj.run/nyHPmUD9PQE --profile p857rct --stylize 350 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg:prompt-0008",
+    "source_metadata": {
+      "article_index": 208,
+      "article_title": "Vol.131 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1741833013,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_n7gnR~MvCeZjleuOMtlIDg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494707&idx=1&sn=4de6ee65688eac19c83efed48248051d&scene=58&subscene=0",
+    "title": "Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494707&idx=1&sn=4de6ee65688eac19c83efed48248051d&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

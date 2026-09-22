@@ -1,0 +1,58 @@
+{
+  "archived_at": "2026-09-22T02:14:00+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-4352807076b3",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "92292a18c71c205687d6c91a53fec47cb936454a79a14b737b338285b36e1755",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "100",
+    "hd": true,
+    "profile": "yhyl835",
+    "raw": true,
+    "seed": "3973592168",
+    "sref": [
+      "3384405777"
+    ],
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "a surreal high-fashion editorial photograph, a colossal white rhinoceros walking directly behind an elegant female fashion model, the rhino is impossibly gigantic, monumental scale, enormous horn dominating the composition, ivory white textured skin, the woman wearing a dramatic floor-length vivid red couture suit with flowing fabric, extreme size contrast between human and animal, minimalist white salt desert, clear deep blue sky, low-angle camera, full body fashion photography, clean geometric composition, strong red and white color contrast, hyperrealistic animal skin texture, sculptural lighting, crisp sunlight, subtle shadows, surreal yet believable, luxury fashion campaign, avant-garde editorial, cinematic realism, ultra detailed, elegant and uncanny, no clutter, no vegetation --chaos 100 --ar 3:4 --seed 3973592168 --raw --sref 3384405777 --profile yhyl835 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zBlTkrjT5YRjaoEcx18hgA:prompt-0004",
+    "source_metadata": {
+      "article_index": 3,
+      "article_title": "Vol.329-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1788478252,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zBlTkrjT5YRjaoEcx18hgA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511070&idx=1&sn=ce481dd10ecc5be2e6fc98af11052007&scene=58&subscene=0",
+    "title": "Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511070&idx=1&sn=ce481dd10ecc5be2e6fc98af11052007&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

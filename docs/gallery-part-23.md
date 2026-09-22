@@ -56,6 +56,25 @@ only a few Horse walking street roads white background, minimalistic, origami st
 
 </details>
 
+## Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
+
+- [Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--4d07dfbf8a23/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--4d07dfbf8a23
+
+关键词资料 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+已提取原始提示词，但当前没有可靠的正文图片配对。
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+all characters frozen except one slowly turning head, motion blur glitch trails, background stuck in time, figure breaking animation rules, dark aura leaking from character outline, VHS corruption intensifying, liminal void behind scene, cursed presence emerging --ar 9:16 --raw
+```
+
+</details>
+
 ## Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1
 
 - [Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--610cccb0a3ad/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--610cccb0a3ad
@@ -221,6 +240,25 @@ POV SHOT of a warrior being chased by a colousus gigantic cyberpunk centipede mo
 
 ```text
 A close-up of a woman's tongue and lips, licking the petals of a rose. The background is white. In the style of fashion photography, with a Y2K aesthetic, in pastel pink colors. The woman's mouth is on her tongue. A single poppy lies next to it. The poppy has no visible petals or stem --chaos 20 --ar 3:4 --raw --profile 8qmagde
+```
+
+</details>
+
+## Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 6 · v1
+
+- [Vol\.292 - Midjourney \| 精选作品关键词提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--b583c386c364/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417--TksEfIXdHvYWme0--b583c386c364
+
+关键词资料 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+已提取原始提示词，但当前没有可靠的正文图片配对。
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+een zeer gedetaillieerde fluid artwork met kleuren voornamelijk wit, maar ook oranje, licht oranje en beetje zwart. Maak een heel minimalistisch en chic ontwerp. --ar 20:33 --raw --stylize 50
 ```
 
 </details>
@@ -579,52 +617,6 @@ studio-lit front-facing close-up showing full lips in frame, naturally plump lip
 
 ```text
 https://s.mj.run/0aScunHiUIk https://s.mj.run/zGWcjCb98go Scene Time / Setting: night interceptor cockpit in low-orbit departure corridor Action: three pilots seated and flying the craft Tone: focused, mission-ready, cinematic Ultra-realistic vertical rear-angle shot inside a single-deck flight cabin. Foreground: **three identical flight seats in a straight row (left, centre, right), all at the same height and distance from the consoles**. Each seat’s five-point safety harness is clearly buckled across the occupant’s torso. Pilots: identical matte-white and forest-green composite armour; articulated black under-suit; **solid green helmets with seamless onyx-black visors** that reflect console lights; faint surface scratches and dust catch rim light. Consoles: basalt-textured panels with glowing **cyan-teal holographic glyphs**; secondary rows of muted amber screens; narrow red warning strips. Canopy: wide panoramic glass; outside, star-dense void with scattered metallic debris and faint blue nebulae. Lighting: cool moon-blue key from the starscape; contrasting warm amber instrument wash; subtle red accent LEDs. Soft interior haze yields gentle volumetric rays. Depth of field: razor focus on seat harness buckles and armour details; forward consoles fall to bloom for cinematic depth. Shot on ARRI Alexa 65, 40 mm anamorphic, T-1.8, natural chromatic aberration, high-dynamic-range texture fidelity. --chaos 25 --ar 9:16 --raw --sref https://s.mj.run/iqElZkZzJAc --oref https://s.mj.run/Xuzk1lyuz3E --ow 1000 --stylize 500
-```
-
-</details>
-
-## Vol\.224 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1
-
-- [Vol\.224 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-67614e58ca97/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-67614e58ca97
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcz3YCrxtJ5SQOuqX8Zobguujz9nlqnW37vZ2FVsO0W6RjWDp6XjqtwEIicMAbUqhXKp4vXc5BFFNA/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-portrait of a female astronaut, short brown hair, wearing a black and blue form-fitting futuristic space suit, looking directly at the viewer, cyberpunk sci-fi hologram aesthetic, translucent visual static and digital glitch textures, blue-tinted scanlines, cinematic lighting, slight chromatic aberration, soft volumetric glow, gritty blade runner-style tech ambiance, high resolution, dramatic contrast, portrait orientation, 8 bit nes video game --ar 9:16 --sref https://s.mj.run/ELaUUK8F5Hc https://s.mj.run/YA9h0neNNAM
-```
-
-</details>
-
-## Vol\.224 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
-
-- [Vol\.224 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-8678dca804a5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417--Z-uUhJ0iSnBX0AoV-8678dca804a5
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcz3YCrxtJ5SQOuqX8ZobguGjeAlQ6fiaOxwOAUvPeWP1Nics7IKKFkqQDRiaT1CNIiaL4g86Ghta7PQQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.224 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-hyper realistic sea turtle coming out of a beautiful wave in the ocean with palm trees on a shore background --ar 9:16
 ```
 
 </details>

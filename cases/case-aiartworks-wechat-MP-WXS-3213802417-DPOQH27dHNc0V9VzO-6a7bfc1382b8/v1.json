@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:01+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-6a7bfc1382b8",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d7f7cfc229a9c63b45b241b5c873944cbbadfe16e926afec8b2c09114745194e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:8",
+    "profile": "qdgteqc",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "abstract contemporary mixed media painting, deconstructed Chinese calligraphy energy transformed into ocean tide data flow, monumental black gestural strokes like tidal movement, weathered texture, erosion traces, translucent uv resin layers, mineral pigments, acrylic texture, scraped surface, cracked plaster, fossil-like details, layered sediment, flowing ink energy, empty breathing space, cold gray blue palette, black and off-white contrast, subtle metallic particles, contemporary eastern aesthetics, post-digital landscape, archaeological future relic, museum quality contemporary art, highly textured surface, non decorative, raw and poetic, atmospheric depth, Chinese spiritual rhythm without literal symbols --ar 5:8 --profile qdgteqc tg6npk8 --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A:prompt-0004",
+    "source_metadata": {
+      "article_index": 32,
+      "article_title": "Vol.301-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1779147050,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0",
+    "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-09-22T02:36:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDBeLjic6kzWfd97ZTzygKtfK57aXldj4JibsZyIMsHh6ia1iceO5EJSG6NAy4eXnAiaOLUosxY9dg47wZy7TlDLgibOAibQAP2UKibeP4/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764",
+  "changes": [
+    "asset bytes, order, or roles changed"
+  ],
+  "fingerprint": "ae1bd5dc5da755e2334c978e3ecbb5dd8ecdcd12f2d9e6e6140fe6f0682ca9a7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "v": "8.2"
+  },
+  "previous_version": "v1",
+  "prompt": "Humorous sophisticated editorial illustration: \"AI detection nose.\" Oversized anatomically recognizable black dog nose integrated into a compact AI scanning device housing; nose is the dominant central sensor. Four simple geometric data objects in a curved sequence, lower left to upper right. Three objects identical: white with thin black outlines. One object orange #f58232 with a different internal shape, pulled slightly upward out of sequence. Three short curved scent lines between nose and orange object: one orange, two thin black outlines. Strict isometric orthographic construction: no perspective, vertical edges perfectly vertical, depth edges at exactly 30 degrees, consistent extrusion depths, clean geometric overlaps. Colors: white #ffffff (~55%), black #000000 (~25%), orange #f58232 (~20%). Hard edged shadows projecting lower right, light source upper left. Minimalist editorial vector style, thin precise contours, flat color, hard edges. Portrait 3:4, scene fills 75% canvas. No dog body, text, gradients, glow, or decorative symbols. --ar 3:4 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDBeLjic6kzWfd97ZTzygKtfK57aXldj4JibsZyIMsHh6ia1iceO5EJSG6NAy4eXnAiaOLUosxY9dg47wZy7TlDLgibOAibQAP2UKibeP4/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "manual-boundary-review-Vol333-20260922",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0005",
+    "source_metadata": {
+      "association_confidence": "manual_boundary_checked",
+      "image_storage": "external_url",
+      "manual_boundary_nodes": true,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5",
+  "version": "v2"
+}

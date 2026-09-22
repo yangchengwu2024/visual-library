@@ -1,0 +1,57 @@
+{
+  "archived_at": "2026-09-22T02:14:08+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-wvnpr6wZZXcYSyzpL-82b4d8829b12",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "caf0296639bcdb9739e946b69a85428c4e3aad39052439c52e1e1373ad204a69",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "20",
+    "oref": "https://s.mj.run/RlQk9b2JwW0",
+    "ow": "750",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/HXQWZuWAwgM"
+    ],
+    "stylize": "50"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/RlQk9b2JwW0 <image link> Create a professional architectural sheet design for a modern building, incorporating all elements of the attached concept. The main design idea is based on the Arabic script of the word 'مصباح' (Misbah), with the structure inspired by the proportions and principles of the Thuluth calligraphy style. The design includes the architectural volume, detailed process sketches, and visual representations of different styles (e.g., Toiaw Ito, Material Expressionism, John Pawson, and Futuristic Digital Style). The sheet should be suitable for architectural competitions, presenting clear and concise information. It must include floor plans, elevations, sections, and 3D renders of the building, all organized with professional graphical elements. The layout should have precise typography, appropriate use of space, and a minimalist design approach that reflects the architectural essence of the concept. --chaos 20 --ar 2:3 --raw --sref https://s.mj.run/HXQWZuWAwgM --oref https://s.mj.run/RlQk9b2JwW0 --ow 750 --stylize 50",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ:prompt-0013",
+    "source_metadata": {
+      "article_index": 93,
+      "article_title": "Vol.239 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1754004650,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_wvnpr6wZZXcYSyzpLhw2YQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499307&idx=1&sn=54c6d46a697c30ccaf4a23cbc257d832&scene=58&subscene=0",
+    "title": "Vol.239 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499307&idx=1&sn=54c6d46a697c30ccaf4a23cbc257d832&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.239 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,28 @@
+[
+  {
+    "created_at": "2026-09-22T02:37:55+00:00",
+    "decision": "explicit group-variant command",
+    "prior_source_mappings": {
+      "sources/aiartworks-wechat/state.json": {
+        "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0003": {
+          "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48",
+          "upstream_present": true,
+          "version": "v1"
+        }
+      }
+    },
+    "source_case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48",
+    "target_case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc",
+    "versions": {
+      "v1": "v3"
+    }
+  },
+  {
+    "decision": "manual boundary correction for Vol.333 Chinese prompt variant",
+    "source_case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48",
+    "target_case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc",
+    "versions": {
+      "v1": "v4"
+    }
+  }
+]

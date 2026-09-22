@@ -1,0 +1,54 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-dNiBvwrdR4qabGNmD-a611626ca5bf",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw:prompt-0001",
+      "source_metadata": {
+        "article_index": 13,
+        "article_title": "Vol.319-Midjourney 精选作品提示词与赏析",
+        "association_confidence": "prompt_only",
+        "createTime": 1785195029,
+        "image_storage": "external_url",
+        "image_url_count": 0,
+        "prompt_index": 1,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_dNiBvwrdR4qabGNmD64FKw",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd",
+      "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 2",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247510535&idx=1&sn=f2fa719d2599a2519456d279fab407a5&chksm=96ece9b6cf11f66aae1cfb5faa594c1412380bfe4d55d570dceb15c1e43a0fb1945d30c4ba7d#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 2",
+  "title_aliases": [
+    "Vol.319-Midjourney 精选作品提示词与赏析 · 提示词 2"
+  ]
+}

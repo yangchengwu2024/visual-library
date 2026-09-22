@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-22T02:14:01+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-33b745f32981",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "2cc06449f49da1f1aa5cd393e39bcc7a2cfe3a8c00c14c58bc2c7c3913ac137c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "pj2figr",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "An illustration in a charming, traditional colored pencil style, showing a pastoral farm landscape. The upper section features a quiet and open sky with soft, cotton-like blue and white clouds. Below the sky, the landscape begins with distant rolling cornfields and farm buildings, rendered in greens and yellows. In the middle section, a large plowed field with deep-brown furrow lines turns into golden-yellow ready-to-harvest sections. A classic red tractor is actively plowing a row in the mid-field, with a driver visible. Near the foreground, on a dusty path bordering the yellow field, a small family of walking chickens--a hen, a rooster, and several chicks--are pecking and walking together, leaving tiny tracks. The overall color palette is warm, earthy, and pleasant, with visible colored pencil texture and cross-hatching throughout. The style is detailed, warm, and inviting. --ar 3:4 --profile pj2figr fyt4rhw --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0006",
+    "source_metadata": {
+      "article_index": 35,
+      "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1777851036,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+    "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:06+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SM4rdgvIxPdTK9L8n-422412fefb43",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "33e3e7ef7c08b8f8dbde72778f5350ec170bbd8c77784635945c98ca13f1b88c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "51:91",
+    "motion": "low",
+    "video": "1"
+  },
+  "previous_version": null,
+  "prompt": "A close-up, slightly low-angle shot capturing a single, vibrant red poppy blooming resiliently through a thick blanket of pristine white snow. The flower is beautifully composed on the right third of the frame. Its petals are saturated and delicate against the crystalline snow. At the base of the flower, a few green shoots or blades of grass are peeking through. The background is a soft-focus bokeh of a winter forest under an overcast sky. Gentle, soft snowflakes are dreamily falling through the air. The lighting is soft and diffused, creating a serene, melancholic, yet hopeful mood with no harsh shadows. The style should be ultra-realistic, highly detailed, professional photography, with a cool color palette that emphasizes the warmth of the red flower. --ar 51:91 --motion low --video 1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw:prompt-0013",
+    "source_metadata": {
+      "article_index": 77,
+      "article_title": "Vol.254 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1757028640,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd",
+    "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

@@ -1,0 +1,56 @@
+{
+  "archived_at": "2026-09-22T02:14:02+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Weq2zpG-0LsKy40K7-44728c561a1d",
+  "changes": [
+    "asset bytes, order, or roles changed"
+  ],
+  "fingerprint": "6a30795660efc54e1b1f98aebee5d6e6b0226e83c8424501779bfa4ef96ed6f2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "chaos": "10",
+    "profile": "6bz5f7o",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/1WnRaWEdtnU"
+    ],
+    "v": "8.1"
+  },
+  "previous_version": "v1",
+  "prompt": "Create a collage using pictures and letters that repeatedly spell out \"NOISE\". Use halftone styling. add grit and texture. --chaos 10 --ar 2:3 --raw --sref https://s.mj.run/1WnRaWEdtnU --profile 6bz5f7o esef2ul --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w:prompt-0014",
+    "source_metadata": {
+      "article_index": 35,
+      "article_title": "Vol.297 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1777851036,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Weq2zpG-0LsKy40K7aIq~w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd",
+    "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505124&idx=1&sn=0b53ad35b87fdde547022ef15134e015&chksm=962366b67026e8b982adb89d42c157f91343a4aa0c3e7b23a6e16c40ac98d0dba0fedf291754#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.297 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v2"
+}

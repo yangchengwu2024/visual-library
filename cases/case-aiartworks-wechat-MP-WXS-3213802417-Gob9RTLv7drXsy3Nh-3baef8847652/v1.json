@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:17+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gob9RTLv7drXsy3Nh-3baef8847652",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f0f5a9e1d7898bcf035e751d9e51e00b582a827a682e37b495c559c1310822f7",
+  "model": "Midjourney",
+  "parameters": {
+    "profile": "ynhsc38",
+    "stylize": "750",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A couture runway concept infused with bold, sculptural knitwear and a futuristic Y3K aesthetic. A striking young Chinese model poses in a minimalist studio, captured in the style of VOGUE–full body, cinematic, hyper-realistic fashion photography. Her avant-garde attire features dramatic, cohesive shapes crafted entirely from textured, sculptural knit materials, seamlessly integrated with hyper-realistic simulated prints, dynamic flowing lines, and curved surfaces. The design emphasizes a strong, voluminous structure, with large, flowing contours that form a single, unified silhouette, blending complex layers and material contrasts.The oversized knitted elements, inspired by jellyfish forms, organic waves, and fluid aquatic shapes, harmoniously wrap around the body. The jellyfish-inspired designs feature elegant, undulating tentacle-like shapes extending outward from the shoulders and chest, evoking the marine creature’s ethereal curves and dynamic movement. Dynamic 3D virtual modeling enhances the garment’s complexity, adding fluid, abstract forms and intricate textures that cascade into delicate, open-knit patterns to contrast denser knit areas.The material palette juxtaposes soft, matte knit fabrics with reflective, glossy surfaces, amplifying visual depth and dimension. The flowing lines and curved surfaces of the design are highlighted by professional studio lighting, enhancing bold contours, layered textures, and the dynamic interplay of matte and glossy finishes. Captured in ultra-detailed, this cohesive design pushes the boundaries of high-fashion knitwear, blending artistry, innovation, and futuristic techniques into an immersive visionary presentation.––style raw ––quality 2 ––stylize 1000 ––video --profile ynhsc38 --stylize 750 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA:prompt-0002",
+    "source_metadata": {
+      "article_index": 255,
+      "article_title": "Vol.86 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1736908245,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 2,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gob9RTLv7drXsy3NhjzWFA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd",
+    "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491795&idx=1&sn=3acf9ef6668ae5f9be18d2b88c5b27c0&chksm=9692a3e37a045aa5d5d3ec4b9ae5c64485ab64dc6ec834e807ea86343f3e8af436b6b8474a76#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.86 - Midjourney | 精选作品关键词提示 · 提示词 3",
+  "version": "v1"
+}

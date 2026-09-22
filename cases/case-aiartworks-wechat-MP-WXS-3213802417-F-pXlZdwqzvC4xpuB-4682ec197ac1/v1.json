@@ -1,0 +1,54 @@
+{
+  "archived_at": "2026-09-22T02:14:04+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-F-pXlZdwqzvC4xpuB-4682ec197ac1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "156c1c21feb157882c1b13ad67bc7dc12dace0432c20c3e9cbddfd3423b8d297",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "1:2",
+    "raw": true,
+    "sref": [
+      "https://s.mj.run/1cxE8WN63S8",
+      "https://s.mj.run/TukmVbukMZI"
+    ]
+  },
+  "previous_version": null,
+  "prompt": "ultra-realistic robotic statue of Fudō Myō-ō, fierce expression, surrounded by stylized flames of light, cybernetic armor with glowing red highlights, ancient Buddhist symbolism fused with futuristic mech aesthetics, mechanical sword and binding cables, matte black and bronze materials, cinematic lighting with visible texture and detail, god-like mechanical aura, minimal background, photo-realism, inspired by Jason Scarce mech realism style --ar 1:2 --raw --sref https://s.mj.run/1cxE8WN63S8 https://s.mj.run/TukmVbukMZI",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA:prompt-0027",
+    "source_metadata": {
+      "article_index": 60,
+      "article_title": "Vol.271 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1760484668,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 27,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_F~pXlZdwqzvC4xpuBmh4bA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd",
+    "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 28",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500919&idx=1&sn=fa3ac6461ff35af0b1d91b243f15f5f8&chksm=96954b1e047e31c6bb20f8ff5c50418d2f45eae37eb0c47dd1a007dc1f550989c56bb1fd3d42#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.271 - Midjourney | 精选作品关键词提示 · 提示词 28",
+  "version": "v1"
+}

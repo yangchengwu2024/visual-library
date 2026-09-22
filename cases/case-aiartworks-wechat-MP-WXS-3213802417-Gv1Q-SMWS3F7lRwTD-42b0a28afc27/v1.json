@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:05+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Gv1Q-SMWS3F7lRwTD-42b0a28afc27",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "83c0fad859b23832faa96a253cd9b71ac43e5faf0ace730bbb7e57d7e49dad31",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "cu8nwu8",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "a quiet cold mountain valley, a funeral taking place in the distance, mourners in black, you standing far behind, holding an old childhood photo, the sky glowing softly, a translucent female spirit emerging in the light, fading away while looking at you, a hiking permit lying on the ground with a name and birthday on it, ethereal atmosphere, cinematic composition, surreal emotional realism, soft lighting, mist, shallow depth of field, --ar 9:16 --raw --profile cu8nwu8",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA:prompt-0014",
+    "source_metadata": {
+      "article_index": 74,
+      "article_title": "Vol.257 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1757633415,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Gv1Q-SMWS3F7lRwTDjl4LA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0",
+    "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500228&idx=1&sn=9e77950abb0c4b4017f670fd9758be75&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.257 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

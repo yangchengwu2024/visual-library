@@ -1,6 +1,6 @@
 {
   "model_family": "midjourney",
   "record_type": "case",
-  "review_note": "自动增量提取；尚未逐图人工核验。",
-  "review_status": "needs_review"
+  "review_note": "人工检查 Vol.333 原始 HTML 的案例边界与输出图；排除了作者栏、知识说明图和参考作品。",
+  "review_status": "verified"
 }

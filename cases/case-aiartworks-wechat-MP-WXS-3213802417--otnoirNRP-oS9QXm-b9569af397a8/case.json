@@ -1,0 +1,54 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417--otnoirNRP-oS9QXm-b9569af397a8",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA:prompt-0007",
+      "source_metadata": {
+        "article_index": 206,
+        "article_title": "Vol.133 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "prompt_only",
+        "createTime": 1742005826,
+        "image_storage": "external_url",
+        "image_url_count": 0,
+        "prompt_index": 7,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_-otnoirNRP-oS9QXmBRbpA",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494783&idx=1&sn=5ade4c46a30ec4a7de70f1f9830afa66&chksm=96947716253760c45cfbbba1e79fec15475edb27054b76f13c6d5554df5f9d2c2862ba68bb1c#rd",
+      "title": "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 8",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494783&idx=1&sn=5ade4c46a30ec4a7de70f1f9830afa66&chksm=96947716253760c45cfbbba1e79fec15475edb27054b76f13c6d5554df5f9d2c2862ba68bb1c#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 8",
+  "title_aliases": [
+    "Vol.133 - Midjourney | 精选作品关键词提示 · 提示词 8"
+  ]
+}

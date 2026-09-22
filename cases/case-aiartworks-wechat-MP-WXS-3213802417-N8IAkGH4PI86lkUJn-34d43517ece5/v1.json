@@ -1,0 +1,53 @@
+{
+  "archived_at": "2026-09-22T02:14:04+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-N8IAkGH4PI86lkUJn-34d43517ece5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "91a2bbc2251e3568f6f9742ae54d4b165d5c53275c7922be8d70a0e4c4afe0c6",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3",
+    "sref": [
+      "55594279"
+    ],
+    "stylize": "300"
+  },
+  "previous_version": null,
+  "prompt": "I know Jodorowsky couldn't make Dune. --ar 2:3 --sref 55594279 --stylize 300",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA:prompt-0011",
+    "source_metadata": {
+      "article_index": 63,
+      "article_title": "Vol.268 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1759879860,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_N8IAkGH4PI86lkUJnOXeiA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd",
+    "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500692&idx=1&sn=b826005b070f9aeea9fc29172bae5e0b&chksm=963be22ee2556a91b02bfd08a1dce38d7abdaf30feeb28add42426ee18560c05b90c567e6f65#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.268 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

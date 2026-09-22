@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:08+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-PO6h2W3-FdgxLdIF2-a28a085da7ef",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "522a572f89acdd696033c2621db77399389e0f250e23f5999929d96cd525a2fd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "stylize": "750"
+  },
+  "previous_version": null,
+  "prompt": "close-up of woman's face covered in various vibrant stickers with the words \"Pop Me\" blowing a pink gum bubble with her mouth. gum bubble is also covered in stickers. glossy photo. cheeky style. fisheye effect --ar 9:16 --stylize 750",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_PO6h2W3-FdgxLdIF2kl3Fw:prompt-0001",
+    "source_metadata": {
+      "article_index": 96,
+      "article_title": "Vol.233 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1752795061,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_PO6h2W3-FdgxLdIF2kl3Fw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499056&idx=1&sn=783d4bc8fdd02919efaa48951ac088c5&chksm=96f5505e4b37581645cc397b236877a49691dc98635d6f8dc64085042c6c42ce04706fb42398#rd",
+    "title": "Vol.233 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499056&idx=1&sn=783d4bc8fdd02919efaa48951ac088c5&chksm=96f5505e4b37581645cc397b236877a49691dc98635d6f8dc64085042c6c42ce04706fb42398#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.233 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

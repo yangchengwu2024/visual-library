@@ -1,0 +1,53 @@
+{
+  "archived_at": "2026-09-22T02:14:00+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-uP4pZN0qhroUHP-87-efa4b6a5eae0",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "4a61f5d47c078fc7cad8634eab4b09678b74db120621ee7ef628772447bc5a81",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "chaos": "50",
+    "profile": "2hpvnh8",
+    "stylize": "250",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "a colorful, abstract floral photograph with a strong motion blur effect. the image is filled with blended washes of pink, yellow, blue, and green from various flowers and stems. written across the middle of the frame in a white serif font are the lowercase words \"more art merch coming soon\". the overall atmosphere is light and whimsical. a small, circular white logo is located in the bottom right corner. --chaos 50 --ar 3:4 --profile 2hpvnh8 --stylize 250 --v 8.2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_uP4pZN0qhroUHP-87osoMw:prompt-0008",
+    "source_metadata": {
+      "article_index": 2,
+      "article_title": "Vol.330-Midjourney 精选 | 复古三杰：合成器波、蒸汽波与喷枪艺术",
+      "association_confidence": "prompt_only",
+      "createTime": 1788910227,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_uP4pZN0qhroUHP-87osoMw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511090&idx=1&sn=9dbdedab95ac454895057871075df092&scene=58&subscene=0",
+    "title": "Vol.330-Midjourney 精选 | 复古三杰：合成器波、蒸汽波与喷枪艺术 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511090&idx=1&sn=9dbdedab95ac454895057871075df092&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.330-Midjourney 精选 | 复古三杰：合成器波、蒸汽波与喷枪艺术 · 提示词 9",
+  "version": "v1"
+}

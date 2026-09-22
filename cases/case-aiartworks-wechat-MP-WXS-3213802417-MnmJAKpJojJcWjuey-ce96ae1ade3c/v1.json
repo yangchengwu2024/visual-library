@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:02+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-MnmJAKpJojJcWjuey-ce96ae1ade3c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "6419932c149efeddf01c40b99c4ff781cf4429ee68fc6b8eb4b150ade8944192",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "Autumn and winter French retro minimalist style, made of silk satin and pure cotton, featuring a vintage artistic dress with a light pink-blue bluebell pattern, French embroidery, and beadwork. Adorned with pearls, light pink-blue crystal beads, crystals, sequins, and metallic threads, with white pearl crystal hem and edges. The design is minimalist with hollow-out details, creative concepts, elegant temperament, an artistic atmosphere, and low saturation colors. --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw:prompt-0004",
+    "source_metadata": {
+      "article_index": 41,
+      "article_title": "Vol.291 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1767074895,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_MnmJAKpJojJcWjuey14ufw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504452&idx=1&sn=a9948b9611013ccebe13739bb09f0179&chksm=96d26532266a749fef7e4d97979c81043eb2171f8535e10f6776fee7d59f4b2d964d3940e886#rd",
+    "title": "Vol.291 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247504452&idx=1&sn=a9948b9611013ccebe13739bb09f0179&chksm=96d26532266a749fef7e4d97979c81043eb2171f8535e10f6776fee7d59f4b2d964d3940e886#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.291 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

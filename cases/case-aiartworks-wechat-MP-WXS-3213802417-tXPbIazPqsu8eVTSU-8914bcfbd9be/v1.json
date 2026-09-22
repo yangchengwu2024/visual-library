@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:19+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-tXPbIazPqsu8eVTSU-8914bcfbd9be",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "a88ff7b1da7823ea9661d5969dd3be2d8c290261cd33b76ec6c9d76a3da258b7",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:3",
+    "stylize": "150",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a woman meets a giant spider in a pastel airy greenhouse garden protecting an egg behind them --ar 4:3 --stylize 150 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ:prompt-0006",
+    "source_metadata": {
+      "article_index": 292,
+      "article_title": "Vol.53 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1733540763,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_tXPbIazPqsu8eVTSU27ykQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd",
+    "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488946&idx=1&sn=c9c02e7397d64bf59d59e09016030997&chksm=9653505d1a106b0ce3a7f8a49e6faf6d2fe4a38d3272b496397e9bdf803fae701300f31343d2#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.53 - Midjourney | 精选作品关键词提示 · 提示词 7",
+  "version": "v1"
+}

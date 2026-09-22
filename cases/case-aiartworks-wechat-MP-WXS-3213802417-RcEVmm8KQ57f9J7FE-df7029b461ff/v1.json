@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:11+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-RcEVmm8KQ57f9J7FE-df7029b461ff",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "813e4de0927dd37e33e3861685bea9c1ca1e0c3395606323eab094da5c705200",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Ultra-realistic; 4K; high-resolution; full-body; vertical 9:16 composition A colossal Filipino king with a pure Philippine Eagle head (no human facial features), a powerful muscular human body, and massive outstretched eagle wings walks slowly and powerfully toward the camera. He wears a modernized Filipino military uniform inspired by traditional indigenous patterns: deep blue fabric with intricate gold embroidery of anahaw leaves, sarimanok motifs, and tribal weaving designs; structured shoulders; a broad golden sash; ornate cuffs; high-polished combat boots with ethnic detailing. A traditional salakot-style golden crown rests atop his head, and the eagle’s sharp beak and feather textures are rendered with striking clarity. Enormous eagle wings spread majestically from his back, each feather’s detail and three-dimensional form revealed in high resolution. His intense eagle eyes stare directly forward, and his full-body presence dominates the frame. Beside him, a graceful Filipino queen walks like a runway model: a modern Filipiniana gown in ivory and deep blue with gold floral embroidery; a flowing silk cape; a traditional peineta hair ornament; she gazes elegantly at the camera. They walk together through a majestic Spanish-colonial palace inspired by Malacañang: white Capiz-paneled windows, ornate columns, and high wooden ceilings; under bright, warm tropical lighting. Cinematic; regal; majestic; the king represents the Philippines’ guardian spirit, the Philippine Eagle. --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_RcEVmm8KQ57f9J7FEQVinA:prompt-0014",
+    "source_metadata": {
+      "article_index": 160,
+      "article_title": "Vol.170 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1745893838,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_RcEVmm8KQ57f9J7FEQVinA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496317&idx=1&sn=58e10f86d7551ad8aa5c0012eb14db77&chksm=96ab9c0cc52308bfaa947ef5a8ee83e9267ea00d19105c541ad687f2c9e4baaea46cd767d745#rd",
+    "title": "Vol.170 - Midjourney | 精选作品关键词提示 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247496317&idx=1&sn=58e10f86d7551ad8aa5c0012eb14db77&chksm=96ab9c0cc52308bfaa947ef5a8ee83e9267ea00d19105c541ad687f2c9e4baaea46cd767d745#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.170 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "version": "v1"
+}

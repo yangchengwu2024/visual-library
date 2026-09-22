@@ -1,0 +1,7 @@
+{
+  "model_family": "midjourney",
+  "model_version": "7.0",
+  "record_type": "keyword_reference",
+  "review_note": "已提取原始提示词，但当前没有可靠的正文图片配对。",
+  "review_status": "needs_review"
+}

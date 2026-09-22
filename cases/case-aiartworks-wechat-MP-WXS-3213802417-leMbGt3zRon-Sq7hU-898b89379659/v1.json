@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:06+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-leMbGt3zRon-Sq7hU-898b89379659",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "835eb30e687013f4a5e34ba7e153274b8d09a8bb2da49f86a768bb0ea3b3ed6c",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "This commercial product promotional poster exudes a futuristic and technological feel. The predominant color palette is pink, creating a high-end, stylish, and refreshing visual atmosphere, imbued with a youthful and modern aesthetic. The bottle itself is the central subject, surrounded by flowing, luminous ribbons and translucent bubbles, creating a light, dreamy, and vibrant atmosphere, highlighting the product's purity and technological attributes. The overall style leans towards e-commerce beauty and nutrition and health promotions, with a blurred and layered background that emphasizes the product's central focus. The main element is a brown, transparent glass bottle capped with a pink metal cap and a pink product label. The label features a simple design with linear strokes and flowing geometric patterns. The front displays the words \"Fish Collagen Drink,\" the capacity \"50mL,\" and the brand logo \"yep,\" highlighting the product's functional attributes. The bottle's tilted angle creates a sense of floating, focusing the visual emphasis on the label, creating a strong visual impact. The background is a soft pink and white gradient, accented with a virtual halo and starry dots. The image is dotted with translucent bubbles of varying sizes, some with a water-like reflective texture, while others intertwine with flowing light bands, creating a hydrating, nourishing, and light quality. Flowing translucent light bands wind beneath and around the bottle, entwined like a ribbon fused with liquid and light and shadow, with a rippled texture reminiscent of mirrored refraction. The overall visual experience presents a sense of fluidity and futuristic technology. The overall composition is prominently centered, with the bottle slightly to the right of the center of the image. The surrounding bubbles and light bands imbue the image with a sense of movement and layering, --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg:prompt-0013",
+    "source_metadata": {
+      "article_index": 85,
+      "article_title": "Vol.246 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1755473450,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_leMbGt3zRon~Sq7hUhp4Lg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd",
+    "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499751&idx=1&sn=af35b716425a5cb5fd13e7d595fb7fd0&chksm=9615fc9ced7a3919fbe74c0c503973d7b0ac48229be419880859466e6984dc3584b0bb2423e3#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.246 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

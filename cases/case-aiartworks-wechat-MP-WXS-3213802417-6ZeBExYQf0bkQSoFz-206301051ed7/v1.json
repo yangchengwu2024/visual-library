@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:17+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-6ZeBExYQf0bkQSoFz-206301051ed7",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "61dd7cd4193a4d98da238ec099cea64082a07046920c702b70e2af257a62742a",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A stained glass figurine in the shape of A cute and magical baby crab with a shiny, translucent icy shell and big sparkling blue eyes, sitting on a frosty surface with delicate ice crystals. The crab has a cheerful expression, with soft pink cheeks and glowing highlights that enhance its charm. The background is a soft, blurred icy scene with glowing light reflections, creating a whimsical and enchanting winter atmosphere. Highly detailed, vibrant, and adorable, with a focus on icy textures and a warm, magical feel.with delicate texture and color variations, stained-glass window. Scenic elements: stained glass, oil painting style, stained glass light shining through stained glass window, stained glass art. White background --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_6ZeBExYQf0bkQSoFzMjb9g:prompt-0019",
+    "source_metadata": {
+      "article_index": 251,
+      "article_title": "Vol.90- Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1737340233,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 19,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_6ZeBExYQf0bkQSoFzMjb9g",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491978&idx=1&sn=39ac5851dc1ecf46defc742760b73bd7&scene=58&subscene=0",
+    "title": "Vol.90- Midjourney | 精选作品关键词提示 · 提示词 20",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247491978&idx=1&sn=39ac5851dc1ecf46defc742760b73bd7&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.90- Midjourney | 精选作品关键词提示 · 提示词 20",
+  "version": "v1"
+}

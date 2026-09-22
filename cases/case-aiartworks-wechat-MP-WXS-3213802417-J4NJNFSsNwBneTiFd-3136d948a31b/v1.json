@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:04+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-J4NJNFSsNwBneTiFd-3136d948a31b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "c69457672446beaf16466f61630a0c3232f766c508a9f4400f319e11bcf79965",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "13tugaw"
+  },
+  "previous_version": null,
+  "prompt": "A very detailed, plush, felted boy playing the piano In a huge tree hole study in the forests with his pet:curly dog.The sunlight shines on him from the top of the tree hole.the background is forests. Adorable and lovely! --ar 9:16 --profile 13tugaw",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw:prompt-0015",
+    "source_metadata": {
+      "article_index": 66,
+      "article_title": "Vol.265 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1759275078,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 15,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_J4NJNFSsNwBneTiFdn-Mtw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0",
+    "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500564&idx=1&sn=ea1c93bfdf3a4bfc6663581ec0d0eba2&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.265 - Midjourney | 精选作品关键词提示 · 提示词 16",
+  "version": "v1"
+}

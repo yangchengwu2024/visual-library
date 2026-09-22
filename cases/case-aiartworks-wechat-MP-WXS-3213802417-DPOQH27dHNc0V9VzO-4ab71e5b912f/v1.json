@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-22T02:14:01+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-DPOQH27dHNc0V9VzO-4ab71e5b912f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "dc4ef78ebfd99131b576dd26895d4ae8f2ab10be42bac322576d600f27e3ed6e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:7",
+    "hd": true,
+    "profile": "uurc4mm",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "a girl sewing together giant clouds with bright pink thread while sitting on a rooftop above a city of toy buildings, strange creatures watching from windows, rainbow rain leaking upward into the sky, layered collage textures, whimsical surrealism, extreme vivid colors, anime-realistic illustration --ar 5:7 --profile uurc4mm --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A:prompt-0006",
+    "source_metadata": {
+      "article_index": 32,
+      "article_title": "Vol.301-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1779147050,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 6,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_DPOQH27dHNc0V9VzOIMy5A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0",
+    "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 7",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247506444&idx=1&sn=52125e61202ce32798aeb55e247d8464&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.301-Midjourney 精选作品提示词与赏析 · 提示词 7",
+  "version": "v1"
+}

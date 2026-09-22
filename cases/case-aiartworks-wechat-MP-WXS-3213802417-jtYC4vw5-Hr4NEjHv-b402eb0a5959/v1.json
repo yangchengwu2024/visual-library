@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:22+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jtYC4vw5-Hr4NEjHv-b402eb0a5959",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "1a0afc972c768540a1dc0c4afdcba575f79027eee2fad9558dc70cba07422b0e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A high-contrast black and white aerial photograph of people walking across a pedestrian crosswalk in an urban setting. The shot is taken from a high angle, emphasizing the bold geometric patterns of the zebra crossing, with elongated shadows stretching diagonally across the road. The pedestrians are dressed in modern, stylish clothing, with a mix of business and casual attire. The composition is minimalist, with a dark asphalt background enhancing the contrast between the white stripes and the figures. The lighting is strong and directional, casting deep, crisp shadows. The image has a cinematic, timeless feel, reminiscent of fine art street photography. Shot with a full-frame DSLR, 85mm lens, f/5.6 aperture for moderate depth of field, ISO 100 for rich details, and a fast shutter speed of 1/500s to capture sharp movement. --ar 4:5 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA:prompt-0008",
+    "source_metadata": {
+      "article_index": 350,
+      "article_title": "Vol.125 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1741228245,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jtYC4vw5-Hr4NEjHvzvUBA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0",
+    "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494204&idx=1&sn=cb219f6339f419b0e04bcb438537fd4f&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.125 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

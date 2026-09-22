@@ -1,0 +1,54 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ur7D78hGz-ULJQMS4-c83d3b823ab9",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_ur7D78hGz-ULJQMS4O9Edg:prompt-0001",
+      "source_metadata": {
+        "article_index": 317,
+        "article_title": "Midjourney | 精选作品及提示 - Vol.30",
+        "association_confidence": "prompt_only",
+        "createTime": 1731378039,
+        "image_storage": "external_url",
+        "image_url_count": 0,
+        "prompt_index": 1,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_ur7D78hGz-ULJQMS4O9Edg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486799&idx=1&sn=ac478cbf71bfd9b4dcf058deed0d237d&scene=58&subscene=0",
+      "title": "Midjourney | 精选作品及提示 - Vol.30 · 提示词 2",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247486799&idx=1&sn=ac478cbf71bfd9b4dcf058deed0d237d&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Midjourney | 精选作品及提示 - Vol.30 · 提示词 2",
+  "title_aliases": [
+    "Midjourney | 精选作品及提示 - Vol.30 · 提示词 2"
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-22T02:14:20+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-f96d1926ca11",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "5bfc59e2cad5cf2e382fe97216867df08e1e155320d0a510601b9dffb3d1aea3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:7",
+    "quality": "2",
+    "stylize": "1000",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Surreal melting clock draped over a gnarled, barren tree branch, with the clock face distorted and numbers flowing like liquid. The background features a moody sky with swirling dark clouds and hints of twilight colors--deep purples, blues, and soft oranges. Vivid butterflies in various sizes and colors flutter around the clock, contrasting with the starkness of the scene. The scene is illuminated by dramatic lighting, casting long shadows and highlighting the texture of the tree bark and the fluidity of the melting clock. High detail, hyper-realistic style, capturing every intricate detail of the clock's surface and the delicate wings of the butterflies. 8K resolution, cinematic composition --ar 4:7 --quality 2 --stylize 1000 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jjKAVyvbepf9Fs381d52Fw:prompt-0008",
+    "source_metadata": {
+      "article_index": 310,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.37",
+      "association_confidence": "prompt_only",
+      "createTime": 1731988824,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jjKAVyvbepf9Fs381d52Fw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487308&idx=1&sn=d3e7eccc02bc66efd6f0402b6114af04&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.37 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487308&idx=1&sn=d3e7eccc02bc66efd6f0402b6114af04&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.37 · 提示词 9",
+  "version": "v1"
+}

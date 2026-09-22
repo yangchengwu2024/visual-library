@@ -1,0 +1,53 @@
+{
+  "archived_at": "2026-09-22T02:14:01+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-cHRLxsnxcPeR-iBwF-c3abf79e7344",
+  "changes": [
+    "asset bytes, order, or roles changed"
+  ],
+  "fingerprint": "a0d095f133ee363a62d3975cb9d00a29b3acb60edc50b37a181b43a9cf4876ca",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "hd": true,
+    "profile": "1cjjg44",
+    "stylize": "80",
+    "v": "8.1"
+  },
+  "previous_version": "v1",
+  "prompt": "Wide cinematic shot of the ancient world before the flood, ordinary people in the foreground and 3 very tall realistic warriors in the background, around 2 meters tall, huge but fully human, not gigantic, natural anatomy, broad shoulders, early civilization, moody sky, biblical realism, grounded fantasy atmosphere, ultra realistic, highly detailed, realistic lighting, 4k --ar 9:16 --profile 1cjjg44 --stylize 80 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg:prompt-0014",
+    "source_metadata": {
+      "article_index": 34,
+      "article_title": "Vol.298 - Midjourney V8.1 HD 特辑",
+      "association_confidence": "prompt_only",
+      "createTime": 1778196671,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 14,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_cHRLxsnxcPeR-iBwFuekAg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd",
+    "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247505302&idx=1&sn=ee23c114b8c4a2b0cc65375eca256e19&chksm=962405af1078cb690002b8f265924d745ed17c6d66cbdc361866dd27942605361e23c833fead#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.298 - Midjourney V8.1 HD 特辑 · 提示词 15",
+  "version": "v2"
+}

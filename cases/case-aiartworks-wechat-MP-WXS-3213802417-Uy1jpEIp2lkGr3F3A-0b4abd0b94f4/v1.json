@@ -1,0 +1,52 @@
+{
+  "archived_at": "2026-09-22T02:14:10+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-Uy1jpEIp2lkGr3F3A-0b4abd0b94f4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "334b78cb32ffe69ca314c57b69a140b2ad2339a44dc433a448bbc0928683be69",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "a9pvqz3",
+    "stylize": "50",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "A scroll unrolling from the top left corner to form an illustration of glowing mountains and rivers, rendered in high-definition with intricate details. The background is black and white chinese ink color, creating a mysterious atmosphere. A beam of light illuminates part of it, adding depth to the scene. High resolution, surreal style, bright colors, wide-angle lens, soft lighting effects, floating effect, and fantasy. --ar 3:4 --profile a9pvqz3 --stylize 50 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA:prompt-0012",
+    "source_metadata": {
+      "article_index": 132,
+      "article_title": "Vol.196 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1748568647,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_Uy1jpEIp2lkGr3F3AlxjRA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0",
+    "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247497400&idx=1&sn=5e018ec705021189c57915812a10d79c&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.196 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

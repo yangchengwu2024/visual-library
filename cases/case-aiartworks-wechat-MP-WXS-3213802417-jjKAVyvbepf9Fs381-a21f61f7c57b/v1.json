@@ -1,0 +1,55 @@
+{
+  "archived_at": "2026-09-22T02:14:20+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-jjKAVyvbepf9Fs381-a21f61f7c57b",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "61c0546127f4344767cc22e44dc373819824952a40fd071601733e7015cdae8e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "cref": "https://s.mj.run/3LcCMj_lr34",
+    "cw": "0",
+    "sref": [
+      "https://s.mj.run/sitnkb9ncaU"
+    ],
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Realistic photography of black Mahakala in Tibetan,black coloured face and skin,Wearing a black dress,close-up,Angry face, tiger's teeth leaking out, Wearing a crown of five Buddha's treasures,vivid detailing, 8k resolution, detailed depiction of the Jambhala, clear contrast between light and shadow,Clean,new,Surrealism --ar 9:16 --sref https://s.mj.run/sitnkb9ncaU --cref https://s.mj.run/3LcCMj_lr34 --cw 0 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_jjKAVyvbepf9Fs381d52Fw:prompt-0001",
+    "source_metadata": {
+      "article_index": 310,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.37",
+      "association_confidence": "prompt_only",
+      "createTime": 1731988824,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_jjKAVyvbepf9Fs381d52Fw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487308&idx=1&sn=d3e7eccc02bc66efd6f0402b6114af04&scene=58&subscene=0",
+    "title": "Midjourney | 精选作品及提示 - Vol.37 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247487308&idx=1&sn=d3e7eccc02bc66efd6f0402b6114af04&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.37 · 提示词 2",
+  "version": "v1"
+}

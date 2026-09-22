@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:12+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BUPMtK-JZ-r-Y37aX-3bf616aa324d",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e562666892d328afffbaa1bce2ae2d1f3690adbbf7b7ec7d5a6cfdb3fa3080d2",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "7"
+  },
+  "previous_version": null,
+  "prompt": "Demon Slayer's Kanroji Mitsuri has large light leafy green eyes, often red cheeks, a mole under each eye, three long cherry-pink twists, grass-green tresses, and snow-white feathered weave, with a highly detailed, fair skin with real skin texture, real, clear, and crystalline texture to the lips, and a realistic artistic style and cinematic Composition. Ultra-realistic style, 3D,CG quality, well lit, close-ups, professional color grading and composition, CGI, fantasy style, fine details, high quality, 4K resolution, Unreal Engine 5 --ar 9:16 --v 7",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0010",
+    "source_metadata": {
+      "article_index": 172,
+      "article_title": "Vol.160 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1744857016,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 10,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+    "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 11",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "version": "v1"
+}

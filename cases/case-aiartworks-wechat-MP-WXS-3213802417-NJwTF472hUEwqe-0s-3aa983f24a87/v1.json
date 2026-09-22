@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:06+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-NJwTF472hUEwqe-0s-3aa983f24a87",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "9a9abe492acb8d3ef401dfab61cf27df7892e803895d7fa4579cbfdccafb6afd",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "raw": true
+  },
+  "previous_version": null,
+  "prompt": "POV approaching haunted circus entrance, sinister clown leaning over weathered wooden ticket booth, one hand extending a torn yellow carnival ticket directly toward the camera, above the tent a crooked vintage wooden sign clearly reads \"FREAK SHOW\" in bold distressed circus lettering, red and blue striped tent doors in background, cinematic horror lighting with exaggerated German Expressionist shadows, hyperrealistic gritty detail, photoreal textures, unsettling horror carnival atmosphere, clear readable text --ar 9:16 --raw",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg:prompt-0012",
+    "source_metadata": {
+      "article_index": 83,
+      "article_title": "Vol.248 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1755819018,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 12,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_NJwTF472hUEwqe-0s7sKWg",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499848&idx=1&sn=8e0e2e1718c7a33d6ba3c5a8e36e172a&chksm=96067f19bd2dbd200ce5db64e55300fd1b04595632fcf40047ff560160a41fc7e225de99dfaa#rd",
+    "title": "Vol.248 - Midjourney | 精选作品关键词提示 · 提示词 13",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499848&idx=1&sn=8e0e2e1718c7a33d6ba3c5a8e36e172a&chksm=96067f19bd2dbd200ce5db64e55300fd1b04595632fcf40047ff560160a41fc7e225de99dfaa#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.248 - Midjourney | 精选作品关键词提示 · 提示词 13",
+  "version": "v1"
+}

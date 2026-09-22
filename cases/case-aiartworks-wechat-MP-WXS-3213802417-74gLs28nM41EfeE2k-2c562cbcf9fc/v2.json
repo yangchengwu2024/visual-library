@@ -1,0 +1,84 @@
+{
+  "archived_at": "2026-09-22T02:36:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBa32c9nG3cyOc9srIOO1ZSzSSwIG4rBYiaLFxuBx6fULMd7VRTsnibHIJhddpzS2To2XiagTiarXLYSkTUhZjwYoKGmlAB3pDHibME/0?wx_fmt=png&from=appmsg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc",
+  "changes": [
+    "original prompt variants changed",
+    "asset bytes, order, or roles changed"
+  ],
+  "fingerprint": "a783757862acdcdb28aff8ce01774e074a300713a3e8431e4bfe84fcd0b040b9",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "10",
+    "hd": true,
+    "no": [
+      "blurry,",
+      "deformed",
+      "anatomy,",
+      "extra",
+      "limbs,",
+      "bad",
+      "hands,",
+      "low",
+      "resolution,",
+      "watermark"
+    ],
+    "profile": "ysedja4",
+    "raw": true,
+    "sref": [
+      "7146872134",
+      "8236913494",
+      "5310548438",
+      "6616672792",
+      "5218071977"
+    ],
+    "stylize": "80",
+    "v": "8.2"
+  },
+  "previous_version": "v1",
+  "prompt": "Traditional Chinese Peking opera actress in ornate costume and intricate headdress, Detailed silk embroidery, pearl and gemstone ornaments, ink wash texture, fine brushwork, crisp details, high resolution, photorealistic, cinematic film still, 35mm photography, 8k resolution, sharp focus --no blurry, deformed anatomy, extra limbs, bad hands, low resolution, watermark --chaos 10 --ar 9:16 --raw --sref 7146872134 8236913494 5310548438 6616672792 5218071977 --profile ysedja4 3cgk8th 3c2icqo zuut4ir k6tc957 cujdkyq q6icoq6 --stylize 80 --hd --v 8.2",
+  "prompt_variants": {
+    "zh": "身着华丽戏服、头戴繁复头饰的传统京剧女演员，精致丝绸刺绣，珍珠与宝石饰物，水墨质感，工笔笔法，细节锐利，高分辨率，照片写实风格，电影静帧画面，35 毫米摄影，8K 分辨率，焦点清晰 --no 模糊、人体结构扭曲、多余肢体、手部崩坏、低分辨率、水印"
+  },
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBa32c9nG3cyOc9srIOO1ZSzSSwIG4rBYiaLFxuBx6fULMd7VRTsnibHIJhddpzS2To2XiagTiarXLYSkTUhZjwYoKGmlAB3pDHibME/0?wx_fmt=png&from=appmsg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "manual-boundary-review-Vol333-20260922",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0002",
+    "source_metadata": {
+      "association_confidence": "manual_boundary_checked",
+      "image_storage": "external_url",
+      "manual_boundary_nodes": true,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3",
+  "version": "v2"
+}

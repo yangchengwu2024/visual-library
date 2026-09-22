@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:21+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-ZxvqyuzKY8gTctrlZ-7b13d61e85bf",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "883ad529543beb8e5b9e0e71203c1a2ad952f83ddb34f68a8e64fadb69939f7e",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "style": "raw",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "In the cold winter, there is still green grass on which lies an orange maple leaf covered with frost and ice crystals. The background of the photo has light blue color tones. This scene captures a serene moment of nature in wintertime, in the style of high-resolution photography. --ar 9:16 --style raw --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ:prompt-0001",
+    "source_metadata": {
+      "article_index": 333,
+      "article_title": "Midjourney | 精选作品及提示 - Vol.15",
+      "association_confidence": "prompt_only",
+      "createTime": 1729737668,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_ZxvqyuzKY8gTctrlZYtMtQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd",
+    "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247485882&idx=1&sn=bee5884682d2068a40405f7bc1762d54&chksm=9679e2bcd49ed12696b40fbc6097ded4b306e440a054b8728eca2a28fb3ea4037cc1ce41f5c4#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Midjourney | 精选作品及提示 - Vol.15 · 提示词 2",
+  "version": "v1"
+}

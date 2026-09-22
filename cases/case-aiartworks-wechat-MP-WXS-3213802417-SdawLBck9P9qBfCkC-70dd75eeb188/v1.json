@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:08+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SdawLBck9P9qBfCkC-70dd75eeb188",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "90fe71646eb3132e1173052cbf4b4776379f62e0935ea9bbb74bde12d5059d4d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "2:3"
+  },
+  "previous_version": null,
+  "prompt": "Beautiful girl with a messy bun hairstyle holding pink peonies, in the style of a pencil drawing, black and white drawing, soft pastel coloring page, white background, high resolution, high detail, high quality, high definition, hyper-realistic, hyper-detailed, hyper-realism, hyper-realistic photography, hyper-clear --ar 2:3",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SdawLBck9P9qBfCkC3geEA:prompt-0004",
+    "source_metadata": {
+      "article_index": 107,
+      "article_title": "Vol.222 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1750807840,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SdawLBck9P9qBfCkC3geEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498620&idx=1&sn=588484ecca13c0661c43fd779c847e04&scene=58&subscene=0",
+    "title": "Vol.222 - Midjourney | 精选作品关键词提示 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498620&idx=1&sn=588484ecca13c0661c43fd779c847e04&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.222 - Midjourney | 精选作品关键词提示 · 提示词 5",
+  "version": "v1"
+}

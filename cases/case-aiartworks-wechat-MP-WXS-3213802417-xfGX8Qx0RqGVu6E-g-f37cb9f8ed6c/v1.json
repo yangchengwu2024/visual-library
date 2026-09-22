@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:15+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-xfGX8Qx0RqGVu6E-g-f37cb9f8ed6c",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "525f6e2b6b79fb3c1eaa97637965bbb4c9e3b4c8e60d975f12b563362a095b2b",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a cat Abstract design using circular dots arranged in a dynamic yet minimalistic composition, geometric style, monochromatic color scheme, clean lines, suitable for 5x5cm canvas, high contrast, sharp edges, modern aesthetic --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 224,
+      "article_title": "Vol.118 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1740537018,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_xfGX8Qx0RqGVu6E~gFJqPQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd",
+    "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247493750&idx=1&sn=2dab71036cd9e86f8f59c2ac6fdbb813&chksm=9619ab99b4fe065cc72979c247a7f03b672d83685afbdba02c57a759aa19e0db56b36553a46e#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.118 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

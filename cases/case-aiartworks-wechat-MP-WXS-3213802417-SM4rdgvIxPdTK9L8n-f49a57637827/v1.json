@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:06+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SM4rdgvIxPdTK9L8n-f49a57637827",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "0caa800b10e352086cc29fe5ca636cae49a3f1a2e0acb6664b4d60bcc4f7a734",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "iw": "1.5"
+  },
+  "previous_version": null,
+  "prompt": "2-3 archaeologists working together in the desert, carefully sweeping sand with brushes, wearing realistic fieldwork outfits, hats and gloves, professional archaeological excavation scene, authentic tools, baseball cap, realistic sand and sunlight, highly detailed, cinematic composition, ultra-realistic photography style, top View, natural colors, back view of character, Reduce dust, 8k --ar 3:4 --iw 1.5",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw:prompt-0011",
+    "source_metadata": {
+      "article_index": 77,
+      "article_title": "Vol.254 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1757028640,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SM4rdgvIxPdTK9L8n6a8nw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd",
+    "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247500097&idx=1&sn=73216b9b8bd57677faeca4dad68c7162&chksm=9600e49a8fa6f0db88d9cd1bc0c4d3543e89bdabd56a3b621bfe4efdd6df80b5bf261d3c62bd#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.254 - Midjourney | 精选作品关键词提示 · 提示词 12",
+  "version": "v1"
+}

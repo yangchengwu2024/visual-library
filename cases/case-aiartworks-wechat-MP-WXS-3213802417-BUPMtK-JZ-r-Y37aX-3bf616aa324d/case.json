@@ -1,0 +1,54 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-BUPMtK-JZ-r-Y37aX-3bf616aa324d",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ:prompt-0010",
+      "source_metadata": {
+        "article_index": 172,
+        "article_title": "Vol.160 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "prompt_only",
+        "createTime": 1744857016,
+        "image_storage": "external_url",
+        "image_url_count": 0,
+        "prompt_index": 10,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_~BUPMtK~JZ-r-Y37aXzGAQ",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+      "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 11",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495923&idx=1&sn=be529ad80f340986d06f0505519d6660&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 11",
+  "title_aliases": [
+    "Vol.160 - Midjourney | 精选作品关键词提示 · 提示词 11"
+  ]
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:14+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-M6dSEdRbj3nNPJ6vr-e3c400c910f1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "aac0dbcc707c7f2baf073ce10727c4f64acd377866455cba9446db09fa1504ef",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "a high performance car driving through salt flats. There are coloured lakes and features within the salt flats that are lifted by exuberant unusual colours not in line with the normal colours of a landscape. The salt lakes are stepp.ed and structured like paddy fields which creates odd mc escher esque horizon lines. bobbly red hills in the distance like richard moss. there is biolumesence in some of the water which adds colour but illuminates the environment. --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ:prompt-0008",
+    "source_metadata": {
+      "article_index": 207,
+      "article_title": "Vol.132 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1741919433,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_M6dSEdRbj3nNPJ6vrG8ZfQ",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0",
+    "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247494757&idx=1&sn=2c09176fe376819dd502f49d8742f6df&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.132 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

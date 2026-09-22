@@ -1,0 +1,55 @@
+{
+  "archived_at": "2026-09-22T02:14:19+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-SdZ9AZ4Dg-VWtZWG9-45c22ed59a35",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "939204fadd201eb385ba4e74651e62ed6efc457ebc18cefc06ba91fb46345b37",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "sref": [
+      "3846329097"
+    ],
+    "stylize": "800",
+    "v": "6.1",
+    "weird": "50"
+  },
+  "previous_version": null,
+  "prompt": "https://s.mj.run/RoJEfLFL35g https://s.mj.run/igu_1nSx1cA https://s.mj.run/93GcXptcRKU A surreal transitional scene with a tall city tower and surrounding buildings starting to distort and fold like mirrored surfaces. The tower’s structure stretches downwards, merging smoothly with emerging roads marked with yellow lines and lane markers. The top portions of the buildings and the tower begin to blur and elongate, creating a wave-like motion towards the frame’s center. In the central area, faint outlines of a few yellow taxis are starting to emerge from the structure, as if growing out of the distorted architecture. Cinematic dusk lighting with reflections on the buildings, showing a dreamy blend of urban elements with surreal morphing effects. --ar 9:16 --sref 3846329097 --stylize 800 --weird 50 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w:prompt-0001",
+    "source_metadata": {
+      "article_index": 283,
+      "article_title": "Vol.60 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1734346460,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 1,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_SdZ9AZ4Dg~VWtZWG9Y3a1w",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0",
+    "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247489520&idx=1&sn=acdd0880c67e2f100ed0c00195c6a3f8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.60 - Midjourney | 精选作品关键词提示 · 提示词 2",
+  "version": "v1"
+}

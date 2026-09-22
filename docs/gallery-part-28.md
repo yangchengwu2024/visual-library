@@ -6,6 +6,102 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
+## Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 2 · v1
+
+- [Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-349e7303f946/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-349e7303f946
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCQZj5V5YjFaoMEfzmKYbK7INvbsEtHkANoCsS9D4m8qmOOEYvEDyZSibeIIsT7qnU3twwosRPRJq4HDamBibdhoD1HQC54Xvhjg/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 2" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCcrqcxtnEX54yHzaXrMTImqrILicktsIuwZltsI5UZ7HoUNia05gJZaexogwyy3BDsia0jLTz8vlhBjIc8LoZZPWuu2ldFdMykpY/0?wx_fmt=jpeg" alt="Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 2" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A cat with an eyepatch working a desk job. in style of contemporary graphic design of a big prominent green wacky wordmark of the word "CRUXY" with the words , white and red and deep blue. simple pixel art illustration risograph, warm and cream color palette, 16-bit style, soft grain texture, warm analog mood --chaos 10 --ar 3:4 --raw --sref 1427697940 --profile 7k3qfl8 --stylize 99 --hd --preview --v 8.1
+```
+
+</details>
+
+## Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 5 · v1
+
+- [Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-51884c9dc2b0/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-51884c9dc2b0
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WD7PhANANjxyIUrlQbiatYaC51yiaMnpgZvxTSRQIHJR8JGT1xDb1S589bibCicBMNrSxCbFCJtutTtO7LCxBLke6jiaHiaMgaJKGlJg/0?wx_fmt=jpeg" alt="Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 5" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Minimalist fashion editorial photography. A female model is leaning against a white cracked plaster sculptural structure, with an open and relaxed pose. She wears a terracotta-orange sleeveless dress and black flip-flops. The background features a pure deep blue sky with no clouds. Strong natural midday sunlight creates hard, crisp shadows. High contrast composition with complementary blue and orange color scheme. The environment feels like a sculptural architectural space with Mediterranean modernist aesthetics. The scene is minimal, clean, and highly stylized, resembling a luxury fashion magazine cover. The overall mood is cinematic, refined, and artistic. Editorial fashion photography, brutalist sculpture environment, surreal minimalism, sculptural pose, high contrast natural light, crisp shadows, luxury campaign aesthetic, ultra high resolution, clean composition. --ar 3:4 --raw --profile 1ql7d1v
+```
+
+</details>
+
+## Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 13 · v1
+
+- [Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-557e4564b16d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-557e4564b16d
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WBpNWDbE5fYjAnogXU8dic73G6SjI3icLUsXlOf51qPNNTeEJ7XLmAFKSFGn7oumxalQgolfGzK0nzN2ttKXWEHjtbBydxuHz2Vo/0?wx_fmt=jpeg" alt="Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 13" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+cinematic stills archive сверху надпись "TomatoRocket" --ar 3:4 --raw --sref 3814143451 --stylize 150 --v 8.1
+```
+
+</details>
+
+## Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 16 · v1
+
+- [Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-78c551f0f026/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-78c551f0f026
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCSA7Br2iaSkicapUtfWDo0qRV6lgGWK4x2pgUy9f4jPWA0mEntYbYCLy4DlZgfAjrKNGIQC2uvibZakAvDg84HcHLMPRR6G2qdDQ/0?wx_fmt=jpeg" alt="Vol.315-Midjourney 精选作品提示词与赏析 · 提示词 16" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Ufo and Aristotle --ar 3:4 --sref 1402017000 --hd --v 8.1
+```
+
+</details>
+
 ## Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 9 · v1
 
 - [Vol\.315-Midjourney 精选作品提示词与赏析 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-78eb9c14f583/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0NGbs4rkuoBDQkbUM-78eb9c14f583
@@ -179,6 +275,25 @@ East Asian female idol, soft wavy blonde hair, retro Y2K school inspired outfit,
 
 ```text
 the new normal, manga mania --chaos 40 --ar 2:3 --sref 3165465498 --profile gbbrugz 5fddqvk qimz1yw yqgyz3g 8k66rnn --hd --preview --v 8.1
+```
+
+</details>
+
+## Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1
+
+- [Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-0ecd25203d38/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-0ecd25203d38
+
+关键词资料 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+已提取原始提示词，但当前没有可靠的正文图片配对。
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+white snake made of glowing pink light, wrapped around the body of Chinese woman, red background. Minimalist, front-view, surreal photography style, studio lighting effect, low-angle shot, close-up, exaggerated perspective, strong contrast between reality and fantasy, unique visual effects, in the style of surrealist photography --v 6.1
 ```
 
 </details>
@@ -482,133 +597,6 @@ A red rose with a woman's face, red lips, and eyes closed in the center of it, w
 
 ```text
 long medial philturm,natural lips,natural,medical meterials, laser treatment , the front face,women,taper lips --ar 2:3 --v 6.1
-```
-
-</details>
-
-## Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
-
-- [Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-c67430f593c8/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-c67430f593c8
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnIibrvQ01mV5nT2J1KbC5WhBglJ4JAMTaWc2XLdVt3soLia7tKfPSqSLCg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A black kitten with a blue, glowing butterfly in a jar, surrounded by fireflies, in a fantasy art style, against a dark background with a glowing light, evoking a sense of fantasy and cuteness. --ar 2:3 --v 6.1
-```
-
-</details>
-
-## Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
-
-- [Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-cba5f9deaa83/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-cba5f9deaa83
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLFXdsyc5JBYddBHjhaPohr09ia7Wfj57UFVyXicFic78gedu90RobITEJg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Ultra-high definition, Lego blocks, roads, cars, traffic lights --ar 16:9 --v 6.1
-```
-
-</details>
-
-## Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1
-
-- [Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-e023ece561aa/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-e023ece561aa
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLpDAXHSnj0oicCOLC6l2cvkqmxUxIP6O7KgEH4yXgSmV4bl3tVIfmzBw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 15" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A collection of colorful plates, including round bowls with bird patterns, rectangular serving dishes, small cakes in the style of Impressionism, rococo details, vintage look, still life photography, aerial view, dark background, photo taken from above, eye-level shot. --ar 11:12 --v 6.1
-```
-
-</details>
-
-## Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1
-
-- [Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-e7fb29c9d006/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-e7fb29c9d006
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnIhpxlzvyq9Ey7gcQvHxkFicJZKFdMfpfj4QbyIRPUmBKyysyrxPSbg7g/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 1" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A fluffy baby otter floating on its back in a calm, crystal-clear lake, surrounded by soft water lilies and shimmering sunlight. The otter is holding a small pink flower in its tiny paws, looking up with wide, curious eyes. Gentle ripples form around it, and the scene is bathed in warm, golden tones of a serene sunset. The background fades into soft-focus reeds and glowing fireflies. --ar 9:16 --v 6.1
-```
-
-</details>
-
-## Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1
-
-- [Vol\.92 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-ea4094403383/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-0PxC7EogMN1Af0HIC-ea4094403383
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLcYeQibd155Fvp5U5QhbEZvLbReM3U540cZFAicXOiafEdzvbYwOdM2LhQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdicJ9fJJBp6kxWljiaibm4PnIeTUyKbySBDKSEvkdeib2LGaQyrec2AnVTaymlXklAhyEXywhyFpBZAQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaL2s0dKHfgou9Tr1JPp2FRHo5dITFicrs9R3fYiaAg0XSBia5TcCaL8lSRg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShchfXXdJYvuiaMoBmJVkicmiaLymeIyKHCbL48qWXn0pKR7iavqiahU2BNPsFlqjDHxKNRcUhLJ9chPrrQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.92 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-whitehaired fashion blogger neville stefanie, in the style of graphic linework, wäinö aaltonen, catherine hyde, joyful and optimistic, salon kei, frontal perspective, dark white and black --ar 47:64 --stylize 250 --v 5.2
 ```
 
 </details>

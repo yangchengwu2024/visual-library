@@ -1,0 +1,54 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-n9WwGSVgwjuDWVAyb-b66878ee44f1",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [],
+      "attribution": "AIArtWorks（微信公众号）",
+      "revision": "account-MP_WXS_3213802417-archive-20260921",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg:prompt-0014",
+      "source_metadata": {
+        "article_index": 101,
+        "article_title": "Vol.228 - Midjourney | 精选作品关键词提示",
+        "association_confidence": "prompt_only",
+        "createTime": 1751844624,
+        "image_storage": "external_url",
+        "image_url_count": 0,
+        "prompt_index": 14,
+        "review_url_count": 0,
+        "source_account": "AIArtWorks",
+        "source_review_id": "MP_WXS_3213802417_n9WwGSVgwjuDWVAyb9mydg",
+        "source_type": "wechat_public_account",
+        "upload_candidate_url_count": 0
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd",
+      "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 15",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247498848&idx=1&sn=b4a1134ef7b2e32824fd28fef8f9e126&chksm=9649cb3a354bab32b291fd31ecb40ad4eaaf6ea0d01ab01a09eb3d77b2bc42b758e5b4099791#rd",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 15",
+  "title_aliases": [
+    "Vol.228 - Midjourney | 精选作品关键词提示 · 提示词 15"
+  ]
+}

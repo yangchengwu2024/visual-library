@@ -1,0 +1,82 @@
+{
+  "archived_at": "2026-09-22T02:14:00+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-iIRMssRfxtkfhxZab-ab1f18b2af9f",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "29d16e6b8b950d9a4139af3462d955fab727b6d95a8414507999a1b24b355992",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "chaos": "28",
+    "hd": true,
+    "no": [
+      "people,",
+      "cars,",
+      "exposed",
+      "infrastructure,",
+      "outside,",
+      "daylight,",
+      "miniature",
+      "houses,",
+      "sky,",
+      "aerial",
+      "view,",
+      "elevated",
+      "view,",
+      "bird's-eye",
+      "view,",
+      "top-down",
+      "view,",
+      "furniture,",
+      "statues,",
+      "chandeliers,",
+      "paintings,",
+      "plants,",
+      "props"
+    ],
+    "profile": "iyothp5",
+    "sref": [
+      "https://s.mj.run/Fx7OYvYLrgg",
+      "https://s.mj.run/yFS5K-eDypo"
+    ],
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "POV handheld phone camera, standing human eye height, stepping out an open door onto a narrow balcony on a colossal McMansion style highrise inside a gigantic enclosed backrooms residential megastructure. Door frame and partial open door visible at frame edge. Balcony railing in immediate foreground. Looking outward: vast labyrinth below of damp carpet, fake lawns, narrow residential passages, courtyard pockets, endless stacked suburban architecture. Enormous McMansion facades - faux stone, beige stucco, vinyl siding, bay windows, shutters, gables, garage sections, covered entries - rising hundreds of floors. Countless balconies, bridges, staircases, suspended corridors filling vertical space. Fluorescent ceiling grids far overhead. Stained yellow backrooms surfaces visible in deep distant gaps. Empty, silent, dreamlike liminal suburbia. Overwhelming enclosed scale, dense recursive architecture. Flat fluorescent ambient lighting, soft omnidirectional illumination. No flashlight, spotlight, hotspot, harsh foreground glow, or heavy vignette. --no people, cars, exposed infrastructure, outside, daylight, miniature houses, sky, aerial view, elevated view, bird's-eye view, top-down view, furniture, statues, chandeliers, paintings, plants, props --chaos 28 --ar 9:16 --sref https://s.mj.run/Fx7OYvYLrgg https://s.mj.run/yFS5K-eDypo --profile iyothp5 --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A:prompt-0004",
+    "source_metadata": {
+      "article_index": 5,
+      "article_title": "Vol.327-Midjourney 精选作品提示词与赏析",
+      "association_confidence": "prompt_only",
+      "createTime": 1787700637,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 4,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_iIRMssRfxtkfhxZabS2W6A",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd",
+    "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 5",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511024&idx=1&sn=9ad97a75c9f1bf93889e60cdc0b932f6&chksm=96a69e250a9ced992481e91fac7781e9c375f5719622df9b0f62e8a80e780c24d117441ae4cc#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.327-Midjourney 精选作品提示词与赏析 · 提示词 5",
+  "version": "v1"
+}

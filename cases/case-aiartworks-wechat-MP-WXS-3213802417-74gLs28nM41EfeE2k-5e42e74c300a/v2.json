@@ -1,0 +1,58 @@
+{
+  "archived_at": "2026-09-22T02:36:18+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBqraKZyQMh5RTfhWibNMyNNPU1IUd69na16opghicCPBtBoic7odiaJa3DagnCcnibd9AaAm6wmwkJsUrhmP4R0QgicuZpAID9nJGmk/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5e42e74c300a",
+  "changes": [
+    "asset bytes, order, or roles changed"
+  ],
+  "fingerprint": "795210f3131d9cfbefdf3baf39b6bf15e0763ae2413b21d1f7895a59679b33e0",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "profile": "osgvmh9",
+    "v": "8.1"
+  },
+  "previous_version": "v1",
+  "prompt": "A high-fidelity commercial studio photo featuring a real, perfectly crafted tuna maki roll wearing a tiny, miniature 3D-printed red retro headphone on its sides. The object is shrunken and centered on a flat solid white canvas, surrounded by a massive safety border with zero shadows stretching to the edges. Sharp focus, rich hyper-detailed photo textures of the nori seaweed and tuna, vibrant saturated colors. Clean graphic typography reading \"CRISP & FRESH\" and Japanese kanji \"新鮮\" integrated tightly below the maki roll. No cropping, perfect self-contained layout --ar 3:4 --profile osgvmh9 --hd --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WBqraKZyQMh5RTfhWibNMyNNPU1IUd69na16opghicCPBtBoic7odiaJa3DagnCcnibd9AaAm6wmwkJsUrhmP4R0QgicuZpAID9nJGmk/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      }
+    ],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "manual-boundary-review-Vol333-20260922",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0008",
+    "source_metadata": {
+      "association_confidence": "manual_boundary_checked",
+      "image_storage": "external_url",
+      "manual_boundary_nodes": true,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8",
+  "version": "v2"
+}

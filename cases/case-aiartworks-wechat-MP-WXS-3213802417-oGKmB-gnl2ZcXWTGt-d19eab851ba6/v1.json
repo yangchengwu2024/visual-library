@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:14+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-oGKmB-gnl2ZcXWTGt-d19eab851ba6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b776609951c36d56cfa2cdd7e8039471ece4410a9c4cf40d8efffa9aa95cc09d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:8",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "A stylish young woman sits elegantly in a modern armchair in the middle of a vast field covered in soft, light green grass. She is visible in full height, showcasing her confident and fashionable posture. Her outfit is chic and well-tailored, emphasizing her sophisticated style. Surrounding her are numerous pink rams with fluffy, textured wool, creating a beautiful contrast with the pastel tones of the landscape. The sky above is a delicate, soft blue, adding to the serene and harmonious atmosphere. The colors are gentle, pure, and perfectly balanced. The image is highly realistic, with meticulous attention to lighting, textures, and composition, resulting in a modern, stylish, and visually captivating scene. Photorealistic, cinematic lighting, 4K resolution, ultra-detailed 8K --ar 5:8 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_oGKmB~gnl2ZcXWTGtCh3lA:prompt-0008",
+    "source_metadata": {
+      "article_index": 195,
+      "article_title": "Vol.140 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1742783441,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 8,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_oGKmB~gnl2ZcXWTGtCh3lA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495174&idx=1&sn=df141034c83c123e1e7897e64fea27fb&chksm=96c80b047dd4f27f60d1da83ba9de5e43c9f2a59334ac71a1d688bcf47da5110a4e674222318#rd",
+    "title": "Vol.140 - Midjourney | 精选作品关键词提示 · 提示词 9",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247495174&idx=1&sn=df141034c83c123e1e7897e64fea27fb&chksm=96c80b047dd4f27f60d1da83ba9de5e43c9f2a59334ac71a1d688bcf47da5110a4e674222318#rd"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.140 - Midjourney | 精选作品关键词提示 · 提示词 9",
+  "version": "v1"
+}

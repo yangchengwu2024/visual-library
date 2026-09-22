@@ -1,0 +1,51 @@
+{
+  "archived_at": "2026-09-22T02:14:00+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-TBsbxnRY8XA69Gt5a-2b99ac6aaee4",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "3dc94129e4f8b25633a86b8f9e9230589169e92f3a2089759eff683037688530",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "profile": "pvay55j",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Minimalist editorial studio scene, seamless white background, wide shot, full side view of a single white bed. A young Asian woman, mid 20s, long straight black hair, lying flat on her back, hands folded on stomach, eyes closed, calm expression. Wearing white over ear headphones, fitted light blue short sleeve top, soft white satin neck scarf, beige gray plaid midi skirt, white socks, beige chunky lace up shoes. Clean white bedding and pillow. White three drawer bedside cabinet on the left with a small retro blue alarm clock on top, cable hanging down. Deep navy blue rug under the bed. Notebook on the floor near the bed. Tissue box with crumpled tissues in front left corner. Long black cables loosely scattered on the floor. Black CRT style monitor on the right with a small clear fish tank on top. Soft diffused lighting, spacious negative space, quiet surreal mood, contemporary fashion editorial photography, clean minimal set design. --ar 9:16 --profile pvay55j --v 8.2",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww:prompt-0011",
+    "source_metadata": {
+      "article_index": 4,
+      "article_title": "Vol.328-Midjourney | 8月官网热刷作品盘点",
+      "association_confidence": "prompt_only",
+      "createTime": 1788132646,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 11,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_~TBsbxnRY8XA69Gt5asXww",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511036&idx=1&sn=e1e533ee4a3da992b583a0e1da1970c4&scene=58&subscene=0",
+    "title": "Vol.328-Midjourney | 8月官网热刷作品盘点 · 提示词 12",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511036&idx=1&sn=e1e533ee4a3da992b583a0e1da1970c4&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.328-Midjourney | 8月官网热刷作品盘点 · 提示词 12",
+  "version": "v1"
+}

@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:03+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-E8Jq1YLWZDovkNWDB-517ce9120db5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "026e53f705cbc602056fccbc030c6013eb594596a422c15a46c045abe420931d",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16"
+  },
+  "previous_version": null,
+  "prompt": "The story is set in Liaozhai, featuring ghost marriages. Many brides, dressed in red ancient wedding gowns and wearing red veils, float in the air, some descending, some ascending, creating a sense of ethereal beauty. Their red skirts sway in the wind, their faces obscured. The overall effect is ghostly, eerie, and hand-drawn --ar 9:16",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw:prompt-0013",
+    "source_metadata": {
+      "article_index": 52,
+      "article_title": "Vol.280 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1762299062,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 13,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_E8Jq1YLWZDovkNWDBT~dZw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0",
+    "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247502536&idx=1&sn=23e33f6549d47bf9169ee07bd18a4fd8&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.280 - Midjourney | 精选作品关键词提示 · 提示词 14",
+  "version": "v1"
+}

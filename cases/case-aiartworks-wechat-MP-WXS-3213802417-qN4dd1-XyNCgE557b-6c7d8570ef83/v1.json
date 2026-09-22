@@ -1,0 +1,49 @@
+{
+  "archived_at": "2026-09-22T02:14:07+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-qN4dd1-XyNCgE557b-6c7d8570ef83",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "096ab0e6b9fe37d339a1504b3841102e73432018f2fe394c7c12e3b8486e89a3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "4:5"
+  },
+  "previous_version": null,
+  "prompt": "vintage film photo of 2 army mates smiling in 1960s --ar 4:5",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_qN4dd1-XyNCgE557b4~CUw:prompt-0020",
+    "source_metadata": {
+      "article_index": 92,
+      "article_title": "Vol.240 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1754263821,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 20,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_qN4dd1-XyNCgE557b4~CUw",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499356&idx=1&sn=da44ad2dc0b3ed8f5c101cd16484fec5&scene=58&subscene=0",
+    "title": "Vol.240 - Midjourney | 精选作品关键词提示 · 提示词 21",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247499356&idx=1&sn=da44ad2dc0b3ed8f5c101cd16484fec5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.240 - Midjourney | 精选作品关键词提示 · 提示词 21",
+  "version": "v1"
+}

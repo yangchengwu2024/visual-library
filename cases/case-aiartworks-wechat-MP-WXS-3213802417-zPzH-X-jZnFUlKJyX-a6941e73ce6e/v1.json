@@ -1,0 +1,50 @@
+{
+  "archived_at": "2026-09-22T02:14:20+00:00",
+  "assets": [],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-zPzH-X-jZnFUlKJyX-a6941e73ce6e",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "b0a226b8c68de9f1cc8949756cafe1b8d8d77140a968e6aba3f084511ed8221b",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "9:16",
+    "v": "6.1"
+  },
+  "previous_version": null,
+  "prompt": "Mythical beasts from the \"Classic of Mountains and Seas\", shot in the style of an Eastern fantasy movie, with CGI (Computer-Generated Imagery) technology, presenting a sense of realism. --ar 9:16 --v 6.1",
+  "provenance": {
+    "asset_sources": [],
+    "attribution": "AIArtWorks（微信公众号）",
+    "revision": "account-MP_WXS_3213802417-archive-20260921",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验，仅保留来源链接和原始提示词。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_zPzH-X-jZnFUlKJyXfFPEA:prompt-0009",
+    "source_metadata": {
+      "article_index": 300,
+      "article_title": "Vol.46 - Midjourney | 精选作品关键词提示",
+      "association_confidence": "prompt_only",
+      "createTime": 1732870836,
+      "image_storage": "external_url",
+      "image_url_count": 0,
+      "prompt_index": 9,
+      "review_url_count": 0,
+      "source_account": "AIArtWorks",
+      "source_review_id": "MP_WXS_3213802417_zPzH-X-jZnFUlKJyXfFPEA",
+      "source_type": "wechat_public_account",
+      "upload_candidate_url_count": 0
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488299&idx=1&sn=d773c436d9a40fdc3945c14042555c68&scene=58&subscene=0",
+    "title": "Vol.46 - Midjourney | 精选作品关键词提示 · 提示词 10",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247488299&idx=1&sn=d773c436d9a40fdc3945c14042555c68&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.46 - Midjourney | 精选作品关键词提示 · 提示词 10",
+  "version": "v1"
+}
