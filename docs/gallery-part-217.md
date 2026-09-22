@@ -6,6 +6,378 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 19 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-01b3a7cf5442/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-01b3a7cf5442
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5CHpBeNkW7ibUWE5L34bTlgCZEnd58ibAcloNib7OEoHCyRkHrmKIicnUWw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 19" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+skinny, A girl fused with a flower --ar 4:5 --profile xoecxrs --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 3 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-13d1d45f5476/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-13d1d45f5476
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5icicMWQ0Qw8Mkxqa9NbDJ0eanjNa6Vk8LJhkaZPPOnQQ4ic5c29KC9JNg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, Present a bouquet of flowers, happy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 9 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-2c7cd337637c/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-2c7cd337637c
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss500iaayV9VUCMBdBiaJAfYxYAXv8v1tFcibl2atDUdICzaQGNHdTgGibZfg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 9" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, minimalist dress, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 18 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-336863bebc8f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-336863bebc8f
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5E4ia7LFsTP3tx4CGksCwQbibeon5g9f0wUIOX8UF1Y4uXwFCvRta2WXA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+isometric art, The Cthulhu Mythos, horror, pareidolia, vivid colors melting glossy illustration, ethereal glow, pop manga, thin, skinny, magical girl, extreme close-up eye, devil king is infesting her head, profile, full body, A feminine and cute pose , crazy Smile, her eyes are very large, sparkling colorful her gradient eyes, confused, Magical Girl Costumes, transparent background, extreme close-up face, --ar 4:5 --profile 8bprtm4 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 2 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-39b54a3e317b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-39b54a3e317b
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss55n62bGguEEdJXbnXRCAmE5GVicrfMAicsgRX4UU5xza7ib3cHp10k1quA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 2" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, Sleeping on floating clouds, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 8 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-5049b38b36ff/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-5049b38b36ff
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss575LcJMWLY8Rc5RqqiaSga95aw6iaGC5XaELUscTVZ6qrIVlNeC2oSKsQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 8" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, profile, Ectoplasm from the mouth, minimalist dress, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 12 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-6c2b40d13e5a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-6c2b40d13e5a
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5c80uZodRlNJQLXa4maSaicv2ERFpU2scHlMpnMCRgOI7dbGKcRHSPyQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 12" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A high school girl with a stern look on her face, plopped down on her classroom desk and sleeping, Character Concept Art,Mysterious,Glowing, beautiful detail backgrounds, shading,blink-and-you-miss-it detail,elaborate background, 8k --ar 4:5 --sref https://s.mj.run/Yo4BJj5cOd8 --sw 50 --cref https://s.mj.run/Yo4BJj5cOd8 --cw 0 --stylize 200 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 11 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-71d36cb65713/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-71d36cb65713
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5OicezYVdmZzZ7XDwTTGyqnnCvRyNHM76iahAZroArOtD98EGgVWSkLlQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+bold, edgy anime illustration style, pop, pastel colors melting glossy illustration, ethereal glow, pop manga, woman, her eyes are very large, sparkling colorful her gradient eyes, full body shot, white solid color background, --ar 9:16 --sref 2393812499 171 2356 5639489 --sw 100 --stylize 750 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 10 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-7b4bf5619932/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-7b4bf5619932
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5WQ6nR2noO4xc1urvTcAu08tQh61j5acvn6o58G5MRPC7Hia3iaQfr9kw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 10" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, upside down, devil wing, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 6 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-86503ac0f7ab/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-86503ac0f7ab
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5DVccTNnNe2hbBzjVxCPZSNoe9PwMmMfrlOpT2rhZroLPbovStD6ajg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 6" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 3952736743 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 17 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-8a1a7f46c057/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-8a1a7f46c057
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5evkzlQzVmUyraPhcHvVwsxwyYyBWlJECTKBGzqgbd6PdBmuFmf96bA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 17" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+The Cthulhu Mythos, horror, pareidolia, multicolored melting glossy illustration, ethereal glow, manga, thin, skinny, cute girl and her lover is Cthulhu (fictional divinity created by H.P. Lovecraft), infesting body, She and Cthulhu are in trouble, Cthulhu coil about her in his tentacle, full body, feminine pose , crazy Smile, her eyes are very large, sparkling colorful her gradient eyes, confused, white solid color background, --ar 4:5 --sref 4156764656 171 --sw 100 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 14 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-8cd9c6fdc011/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-8cd9c6fdc011
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5fHxC6pEEpPMur1Bsr81LbrQCXP50YDM2iaWibCQR7udYWLsQQl7FIgCA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 14" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, 3D render, skinny, woman, idle, Dresses with sailor-suit motifs, idle pose, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 843439977 171 --profile f5x8nn3 xoecxrs rh57hw7 --sw 20 --stylize 750 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 15 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-8ea79ffa8d0f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-8ea79ffa8d0f
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5fibqgkdbicZQnTOfjAEpzMkopC3ahCEuG4TkREqcphfOKgbcHZtcrhXQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss550wUnibey3LDLfKmAnoWj01VWTRpf9GYWScH0x1lNXqpumyadVTG8lA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 15" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+flowers tail, beautiful woman, white minimalist dress, skinny, thin, translucent, --no text --ar 4:5 --style raw --sref 843439977 --profile xoecxrs --sw 500 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 4 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-918bad94e4ce/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-918bad94e4ce
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5aY2fFo47InyYVxo2FD03LDicjXFyVoEZDHYqib8x6YPUeoKuslbYZZ1A/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 4" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, girl, make a peace sign (esp. when having one's picture taken), profile, wink, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, 3D render, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 7 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-978947b0d5c4/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-978947b0d5c4
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5ibl7bQZs9n95v79u5IDDZ3Z8gO0sWj0N05h7hY16JK8om3oKDqupVSQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+minimalism art, flat design illustration, simple illustration, skinny, A girl playing on the guitar, crazy smile, crazy eyes, pastel colors glossy illustration, ethereal glow, sparkling colorful her gradient eyes, --ar 4:5 --sref 4008036137 171 --profile xoecxrs --sw 40 --stylize 1000 --niji 6
+```
+
+</details>
+
+## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 20 · v1
+
+- [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-cdb0df98daa1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-cdb0df98daa1
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc8Tg092XJ1LPpQGblT6ss5D00zd2sKrbTIiaZGPnpKaDxuWVP9ubKYmRicQ0EeZIzWUGW5z3c9rvDw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Umeda的二次元少女变奏曲 - Midjoureny | 精选作品与提示 · 提示词 20" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+skinny, Whole Bone Girl, Offer a bouquet of flowers --ar 4:5 --profile xoecxrs --stylize 1000 --niji 6
+```
+
+</details>
+
 ## 周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 1 · v1
 
 - [周末特别版 \| Umeda的二次元少女变奏曲 - Midjoureny \| 精选作品与提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-d0643ba8434d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-mSSYY2vBk6vOs5-v0-d0643ba8434d
@@ -213,374 +585,6 @@ Deep blue ocean,Whale gracefully leaping out of the water,Whale tail raised high
 
 ```text
 A close-up photo of a glittering iridescent palm leaf on a pink background with crystals and diamonds scattered around. The beauty is soft, dreamy and ethereal with metallic tones of purple, pink and blue shimmering. --ar 3:4 --sref 2348226196 --stylize 1000 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 18 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-5b850b2b0fa3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-5b850b2b0fa3
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfroiceU414gd7LKFNgEKPYmWha8OYz2adbD5ZUfDZcAqRuKJwHicom6ne3wfzZnrEiahQzVNLp14ghw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 18" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A true, direct top-down view, from above the scene, looking perfectly straight down at a 90-degree angle like a floorplan or board game of a snowy coastal landscape in a fantasy setting. The scene captures a snow-covered shoreline Further from the shore, a massive stone cliff rises, and a spectacularly detailed carving of an octopus face is sculpted directly into the cliffside rock. The landscape is rugged, with patches of snow, grey metamorphic rock, . The octopus carving is intricately detailed, adding a mysterious and captivating element to the scene. The perspective is perfectly vertical, capturing the scene in stunning, photorealistic detail.Vray, VFX, unreal 5 engine, naturecore, wintercore, mountaincore, snowcore --ar 1:1 --stylize 750 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 4 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-663aadb82b9b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-663aadb82b9b
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfroiceU414gd7LKFNgEKPYmO4FNgTKdv0SahZ8QrLUI40N5A1nEJzZ4Ssh25vIdntb0S41vhM9L8A/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 4" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-In a simple and clean background, a 3D animated style character combines SpongeBob and Venom, with the left half being SpongeBob and the right half being Venom. SpongeBob represents the yellow element, and Venom symbolizes drugs, with gambling elements such as playing cards and chips incorporated into the background. The character presents a strong contrast and tension, with the yellow and black combination creating a dramatic visual impact. The background remains simple to emphasize the character, with a straightforward composition focusing on the fusion of yellow and black, evoking both a lively and dangerous atmosphere. --ar 3:4 --style raw --stylize 250 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 20 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-7e5f360c3e95/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-7e5f360c3e95
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicvtTe16hN8xycV2nV2b1B04a3dGU3wdxlcqUg5VNdo96zoDvUrRYkCA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 20" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A cute little fluffy poodle puppy sitting at a desk, wearing a cozy green sweater with a cartoon design, The puppy holds a black pen in its mouth, looking focused and playful as it works on its homework in an open notebook. The desk is organized with a few playful items, including colorful books, a small desk lamp, and a toy on the side. The background is a warm and cozy children's room, adding a friendly and charming ambiance. High detail, realistic fur texture, cute and charming atmosphere, 4K resolution --ar 9:16 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 3 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-808fe0598b41/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-808fe0598b41
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicAmEoicp6F3dBKP79TqSGuoZYGHtA4quFsET1Droh2vejBncNxSslnsA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-realistic underwater photo of a scuba diver swimming in front of the edge of the Mariana Trench --ar 9:16 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 11 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-811dd5ff266e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-811dd5ff266e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOic5mkYaoUQkuwtqSHeKicssQSficzOto2icicwhWkmnkibJwClorO8hB7ibpPw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Photo of a silver car driving fast through the city, with motion blur, at night, in dark color tones, with a dark aesthetic, high resolution, and high contrast. Image from Unsplash. --ar 13:16 --personalize v35svbx --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 13 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-8804662894a7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-8804662894a7
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOic2zJ50rRyLria0Q5ibVAK0FxpVEJoB6jTOsgXa4h3Ix3Rjf4RM4PybSZg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 13" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Fashion Photography, a Chinese girl wearing a white shirt, black short skirt, and black stockings, dressed in flat leather shoes, cute and playful, caf é, Vivian Chow, Angie Chiu, strong light, high contrast, 8k, super details, by Coco Chanel. --ar 9:16 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 12 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-8fb4e8986c90/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-8fb4e8986c90
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicr3Qic9IhKsJrtd9udyiaNT2pPEHUEgW2w9B9T6TUwhJNgkfrWdY05J1w/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 12" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Many steampunk-style mechanical animals | Standing in the woods on the shore of the rocky island | There are mechanical rabbits | Mechanical griffins | Mechanical lions | Mechanical buffaloes, etc. | They vary in size | Some are very huge | Some are very small | Side by side Standing together｜Taking a group photo｜Bright light｜Close-up front view｜Disney animated movie style --ar 16:9 --stylize 250 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 17 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-a31b58a36bb0/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-a31b58a36bb0
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOiczYURFZIiap4L7Y1LR6WYuwWicZrXpt2JnNPAt4hAF84Nev0A88O5ZoZQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-British Shorthair, close shot, --ar 3:4 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 5 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-b2a42c8bf729/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-b2a42c8bf729
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicNkP1u3UVMVmFbRNq6eArgPHXibcDvL5icz3dBOFEvtQ68QvlyFHXKRWA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 5" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-animal Illustration Design --ar 3:4 --sref 4169 --stylize 1000 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 9 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-b3d84cd21116/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-b3d84cd21116
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicd8LMA1Q9VytIwud8wX6gYXvGuxszbOVp3o4YcPlQzoAbcz2EkUestg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 9" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-The Egyptian Sphinx has transformed into a fat brown cat, being filmed with an iPhone. --ar 9:16 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 6 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-c0ca44900f09/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-c0ca44900f09
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicgyRCQACHDMeMssw2xtjHRCn9F6u51O8e5jep5aq7bwGBF4sUDiczRXg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 6" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-The Future View of Shibuya in 100 Years,realistic,high-quality,cyberpunk,A vibrant nighttime scene of Shibuya in Tokyo, featuring the famous Shibuya 109 building in the center, surrounded by brightly lit billboards and colorful neon signs, with busy streets and crosswalks filled with movement and light trails, creating a dynamic and energetic atmosphere, under a clear dark sky. --ar 9:16 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 7 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-ce458d670031/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-ce458d670031
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOicpgmYVz6Jojfg8zygibUotu7Z6UBEWCDGzz8lyXVfgzfw865gEppTToQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Next to famous rivers and ancient sites, there is a clear river. The mountaintop is shrouded in clouds and mist, beside the mountain there is a study, where children read, laugh, and play inside, steam wave. --ar 3:4 --v 6.1
-```
-
-</details>
-
-## Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 16 · v1
-
-- [Midjourney \| 精选作品及提示 - Vol\.26 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-e29ff17d1728/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-muZ4oZosrl3TxyOVf-e29ff17d1728
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdjMfQNMZMAVPXFOBGT0ZOiczibW4JmfboOLAaCZKyeDAlvro7YwzOib9QLBHZtf5FjskIdbr3vSbWyg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.26 · 提示词 16" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Interesting background, ultra clear resolution, strong balance, surreal and ethereal vibe, expressive power, interesting composition. Strange circumstances. Very unique elements. A group of kids on the astral projection highway. Esoteric. --chaos 50 --ar 3:4 --style raw --sref https://s.mj.run/NjBTORuw2_w https://s.mj.run/lqNwsX7ehlI https://s.mj.run/VoV-vbcsgF0 https://s.mj.run/Ip0Gp74I7ws https://s.mj.run/s0Cu5YCVgBQ --personalize aklm81e yfwdqmx 2yp4y81 y8ti43e 6eykwgw uei4lod w26aoeb --stylize 900 --v 6.1
-```
-
-</details>
-
-## Vol\.131 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1
-
-- [Vol\.131 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-0fe5f4c3dc46/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-0fe5f4c3dc46
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpdLhB9gPj7lYIrBYb110TsanBicmlD4lbkM4ichtKpK9kNCYK4mjswyZw/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 2" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-piggy bank smashed into a million pieces, white background, negative space, white space --v 6.1
-```
-
-</details>
-
-## Vol\.131 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
-
-- [Vol\.131 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-29568f920794/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-29568f920794
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpm5HHO0Dl0iaOQdQO8MJI1Z8SbvtbqIGyvHGHb88SMf9Bwt0qsewAVUg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-abstract conceptual expressionism of architectural detailing expressing nuanced mechanical marvel of chronometer automatic watch lensed through language vyshyvanka embroidery dress in a mesmerizing bouquet of extravagant, surreal flowers with intricate petals and delicate details. Each bloom features a unique blend of colours, from soft pastels to iridescent hues, with subtle metallic or translucent accents. The composition is elegant and dreamy, with flowing organic shapes, exotic textures, and a touch of fantasy. The flowers appear to glow softly under ambient light, evoking a luxurious and ethereal atmosphere. Ultra-detailed, hyper-realistic, and artistically inspired by botanical illustrations, fine art, and digital surrealism. Soft focus background with a painterly or cinematic touch. :1 I love how our discussions continue, and I do see there is an overarching major theme worth attention. Shivers. Also major wonder how much music can change, a whole different heartful living perspective. Oh my. Do I have to get back to the origins of that big story and take the weight. How shuddering strong that thought is and yet it keeps coming up as not to be ignored. bbrrrhh. Huoh. Do tell, is that really so, in all of it? oh God. :D This both hilarious, amazing, bs and scary and yet living for it, living for all that is still and now! So beautiful, and what tragic aesthetic contrast with shades of deepest depth and highlights of golden cherish there is to being into one who fathoms it true and all real, experiencing it as it is revealed, yet, surely all just a story, no tears, no tears. ah. be there. I'm here, we are - and to see witness the whole unfold and may may may there be on the storm of brightest left onward guiding wake, path worth growth and nurturing saving transcend, or whatever, yeah. systems nominal, emotional, navigating, humane, some more, connected, clear onward, as we can and know. such self-aware smirk with a range of all one can express New day, new week, plenty to do, new energy. The world is storming, we are heading on our own little course. Becoming content with what all is, there is of course yearning for so much more when there has been so little, but maybe things will go just right. Work, health, physical and mental well-being, meditation, prayer, reading, creativity, friends, all that to come, time to turn focus from far horizons to immediates at hand and be present. This going to go as good life should go. Let's roll - now with music! --chaos 80 --ar 59:79 --style raw --sref 743551225 --profile trx8lq4 --stylize 450 --v 6.1
-```
-
-</details>
-
-## Vol\.131 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1
-
-- [Vol\.131 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-29b0793a7c3a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-n7gnR-MvCeZjleuOM-29b0793a7c3a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShefU2edSYick62ibJpD6EEyqpYjribxaSlbAExZGdyic47ibf4URZViawGiagI38PxI08J95YeyXA0VcOmmg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.131 - Midjourney | 精选作品关键词提示 · 提示词 12" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-hyperrealistic photo, woman covered with hair like grass --chaos 40 --ar 9:16 --quality 2 --style raw --profile 2sg1eu9 --stylize 200 --v 6.1
 ```
 
 </details>

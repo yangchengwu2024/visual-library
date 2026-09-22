@@ -1,0 +1,66 @@
+{
+  "archived_at": "2026-09-22T01:50:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCOTEiclSrzvf9WzZicNu8XycgFcciaSk1S9YsJJdJ8nOlzoy84E0EIzVE1qcvaxC7qbTvXW7hxqEoz2Dk0TKdKP18gkDw7WYOh0M/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5a705dbf65eb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "efafff939dc8ebd7b0ccce9c4e59591b92dd3dc9f3e1ed97e42a72dcff3e150a",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "sref": [
+      "https://s.mj.run/aU3usgSuAfk",
+      "https://s.mj.run/IS0uJxCJqPo",
+      "https://s.mj.run/v9Pe4XD8r8g",
+      "https://s.mj.run/zKsiUCZ6oNc",
+      "https://s.mj.run/dVcl3JMIwiM",
+      "https://s.mj.run/MTKrQkn48GU",
+      "https://s.mj.run/tYECemAMy_s",
+      "https://s.mj.run/Va62LvGbeQo"
+    ],
+    "sw": "350",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "A lone astronaut in a neon-lit cyberpunk jungle, melancholic, soft VHS bloom, live-action science fiction film frame --ar 3:4 --sref https://s.mj.run/aU3usgSuAfk https://s.mj.run/IS0uJxCJqPo https://s.mj.run/v9Pe4XD8r8g https://s.mj.run/zKsiUCZ6oNc https://s.mj.run/dVcl3JMIwiM https://s.mj.run/MTKrQkn48GU https://s.mj.run/tYECemAMy_s https://s.mj.run/Va62LvGbeQo --sw 350 --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCOTEiclSrzvf9WzZicNu8XycgFcciaSk1S9YsJJdJ8nOlzoy84E0EIzVE1qcvaxC7qbTvXW7hxqEoz2Dk0TKdKP18gkDw7WYOh0M/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      }
+    ],
+    "attribution": "WeChat public account（微信公众号）",
+    "revision": "scheduled-20260922-095042",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0013",
+    "source_metadata": {
+      "association_confidence": "high",
+      "image_storage": "external_url",
+      "source_account": "",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 14",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 14",
+  "version": "v1"
+}

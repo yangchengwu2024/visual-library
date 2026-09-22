@@ -1,5 +1,5 @@
 {
-  "case_count": 7176,
+  "case_count": 7192,
   "cases": [
     {
       "archived_at": "2026-09-21T11:40:13+00:00",
@@ -49596,6 +49596,918 @@
             "initial archive"
           ],
           "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-70wJNfWN1G4cdImXm-fe52582acb77/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 5,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0007",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-0cec9f514a6b",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-0cec9f514a6b/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-0cec9f514a6b/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0006",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-0cec9f514a6b/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-1c3bb7565cfc",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-1c3bb7565cfc/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 4,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-1c3bb7565cfc/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0011",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-1c3bb7565cfc/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-218cf6ad9cf7",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-218cf6ad9cf7/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 3,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-218cf6ad9cf7/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0010",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-218cf6ad9cf7/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 5,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0002",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 1,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0001",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:44+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-521957fa1807",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-521957fa1807/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-521957fa1807/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0000",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 1",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 1",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 1"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-521957fa1807/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5a705dbf65eb",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5a705dbf65eb/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 1,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5a705dbf65eb/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0013",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 14",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 14",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 14"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5a705dbf65eb/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5e42e74c300a",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5e42e74c300a/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5e42e74c300a/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0008",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 9",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 9",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 9"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5e42e74c300a/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 5,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0003",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 4",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 4",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 4"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-5ea367784b48/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0005",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 6",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 6",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 6"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-8528d3930764/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 3,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0015",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 4,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0004",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 5"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-c0ffd814f4c0/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 1,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0012",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 13",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 13",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 13"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-d86d7af7501c/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 3,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0014",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-09-22T01:50:45+00:00",
+      "artists": [],
+      "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246",
+      "categories": [
+        "其他应用场景"
+      ],
+      "detail_path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246/v1.json",
+      "effective_status": "needs_review",
+      "image_count": 7,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246/v1.json",
+      "model": "Midjourney",
+      "model_family": "midjourney",
+      "model_version": null,
+      "movements": [],
+      "record_type": "case",
+      "review_status": "needs_review",
+      "review_summary": "自动增量提取；尚未逐图人工核验。",
+      "scenes": [],
+      "source_category": "Other Use Cases",
+      "source_evidence": [
+        {
+          "revision": "scheduled-20260922-095042",
+          "source": "aiartworks-wechat",
+          "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0009",
+          "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10",
+      "sources": [
+        "aiartworks-wechat"
+      ],
+      "status": "complete",
+      "styles": [],
+      "techniques": [],
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10",
+      "title_aliases": [
+        "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246/v1.json",
           "version": "v1"
         }
       ]

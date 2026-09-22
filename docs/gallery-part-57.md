@@ -443,140 +443,196 @@ In the same office environment, a beautiful Chinese female employee dressed in c
 
 </details>
 
-## Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 1 · v1
+## Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8 · v1
 
-- [Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-08c1a5d2fed9/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-08c1a5d2fed9
+- [Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+自动增量提取；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFTvuujWubFOdS0JLib6rCYlOCagKyQmb4Yfsp64ymibcymrlEEm0ZW70Q/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.38 · 提示词 1" width="760">
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBLNnhB162SgHNzIcmdy4oKicqvXLOoLDiadea6vZQicCdLibvEiaLiaLrlo4ia1ibkPMNWSz4uoIgpfic5TDOwEDBsbeNqaAXXwicXohHo4/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAexDwflj7f90ZdXpAm0o0gHy1ycNPlqc1G9onWDwApLcjxjc8l5uh1JImiavxJGNSt06E0X6QC3kgHqBs9jHIugOQqFoibvIO2c/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBLAdtib9YWsRa2JAUGWSsWJJ8z8kBLjSpkvxWYB0z22ichUnA3xL4YQyPSRDHv5rwx998mBbRvF0XV2j7Mk33ceicAtTKZreSV5s/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCIkbpPzicDYCFrJu0699I32D7gNTLic4jqfPxtJx5aBgKul6Z9I50BMneUpFOdq2q91t2HODWYjia6oiaicvHLdGJYemmFopjH8v68/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCQ0zuCfS8B6j6Lt8tyqBkJ0rNUfia3JBLxzwVG2RZzZNVwmMibdWicBkfM5wYAgYAPBKepJmWgJtOtMx4WjaGB6v6CCMYckeXIlE/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Multiple pose sheet asset Portrait photography, VR blue mask human figure, looking at Bella, on orange background. Futuristic, minimalist style with high contrast. Shallow depth of field --ar 2:3 --personalize o4ja3t4 --stylize 250 --v 6.1
+A modern rendition of 'The Temptation of Saint Anthony' featuring a giant papier mache sculpture of a clown's head in the Ah-Shi-Sle-Pah desert. --ar 5:6 --raw --sref 72946716 --profile y26u4fj --stylize 1000 --v 8.1
 ```
 
 </details>
 
-## Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 3 · v1
+## Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7 · v1
 
-- [Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-1f72eb1a1cb6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-1f72eb1a1cb6
+- [Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-0cec9f514a6b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-0cec9f514a6b
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+自动增量提取；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheAWELhgMLicSswPy8icLCjF8R5ShLwYmVsLDKoMNrjjjN42p1dJ70FvNK1PVYnXKuia5DbBTMuaXGdw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.38 · 提示词 3" width="760">
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDDSkdDWLfjjuC1icdPrameu0icydianHOjXiaQY7QzsZZn2pWW5Evrzuqy5iaJCrpoElLLibG9T9EiaNVZVbKo0ypxicLwZZNpWVMOaj4/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBLNnhB162SgHNzIcmdy4oKicqvXLOoLDiadea6vZQicCdLibvEiaLiaLrlo4ia1ibkPMNWSz4uoIgpfic5TDOwEDBsbeNqaAXXwicXohHo4/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 7" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Giant dark cat destroying city, people are running and escaping, Japanese anime movie scene, live-action, human-size perspective, cinematic, in the style of Wes Anderson. The show was taken with a Leica M6 f/2.8. --ar 16:9 --v 6.1
+红绿报纸 --chaos 40 --ar 9:16 --profile e66zwv1 gvgre9a nrq1i3w --v 8.2
 ```
 
 </details>
 
-## Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 6 · v1
+## Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12 · v1
 
-- [Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-48381c47ba70/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-48381c47ba70
+- [Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-1c3bb7565cfc/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-1c3bb7565cfc
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+自动增量提取；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheAWELhgMLicSswPy8icLCjF84BdLT8q2XCDibczByZBgYYT4t5aCqHkDVs3NKbeq4kwpLUibpNXW3ib5g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.38 · 提示词 6" width="760">
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCAAdcyvPGnWDxVQia1Ccd4pdxkmyHQGPGSdavO5eJot6ug1gIEPaDD9CGIKQlfqoB8CQ2AuR0zr3sDoiaCh31YNQy36qVQllvuQ/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCvdCbOUL1XgjYNChQGWB712QmWricPFxnDFn637hiacR47vB8T3z302MQCxfcsuEgLoMDnjCP1GgaX8ISU0xH4g0xyxXB1SbW5A/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCLKia1NwTj4MfiaAokiaasMw6nvfzAFpRYxp1cBlnJT9RDarQhQDyeV1v5OanOhAiaUAFFKySrEgNXbiaNmwtKcEEyM9IFztUPL1zE/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCbxZw2WyDE0ae7sIqO4XRHMqqicM7HXtREFzdw1XpnIg4UhKEB2wIujhrPBiatQpDPUFUeq7rUlGXVRibegwFPMSbtSVOqd6WVew/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 12" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-pure cosmetics brand, glossy skin, Gen z, diversity group, Sci-fi, Tim Walker --ar 3:4 --v 5.2
+Photography of a scared man crouching down on a windowsill on the ground level of a window of a building in Paris. Below the widow on the street aggressive geese stand looking up at the man, hissing. --ar 5:6 --raw --profile r5p5dnh --stylize 50 --v 8.1
 ```
 
 </details>
 
-## Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 7 · v1
+## Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11 · v1
 
-- [Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-4d984c14e919/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-4d984c14e919
+- [Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-218cf6ad9cf7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-218cf6ad9cf7
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+自动增量提取；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFWWmiarxhlCgicibL3fbxHL6V0PBTUzS1Dz2zKGf2vLQSGibvd0d9dybA2g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.38 · 提示词 7" width="760">
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDibiaGO15O1UicsbrspQdCgcVP5R3YFdwFUSIWabiajE29INVERnEaZqJJ1ZtVCMbYgziabZP1QXUq8kFFKf1RsOclbmFImIR4Esm0/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCAAdcyvPGnWDxVQia1Ccd4pdxkmyHQGPGSdavO5eJot6ug1gIEPaDD9CGIKQlfqoB8CQ2AuR0zr3sDoiaCh31YNQy36qVQllvuQ/0?wx_fmt=jpeg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCvdCbOUL1XgjYNChQGWB712QmWricPFxnDFn637hiacR47vB8T3z302MQCxfcsuEgLoMDnjCP1GgaX8ISU0xH4g0xyxXB1SbW5A/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 11" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-Old grandmother, weird looking laughing sitting on an old chair with a huge white skinny creature standing next to her, post soviet furniture, photo took on iphone, sent to reddit --ar 9:16 --style raw --stylize 150 --v 6.1
+a foto of a hippie nazgul (colorful hooded cloak with flower pattern) sits on a kid's trike with a helicopter rotor, which is pedal driven. he makes great effort to make the rotor spin, the trike is about to lift off. in the background is a peaceful landscape with a high mountain spire in the center which has a psychedelic coloured glowing circle wit a retina sitting on its top. --chaos 25 --ar 3:4 --profile t8qfm6h ygbcky6 8e1nze1 t2uep6r --stylize 20 --v 8.2
 ```
 
 </details>
 
-## Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 8 · v1
+## Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3 · v1
 
-- [Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-517b72a7bc9a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-517b72a7bc9a
+- [Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2c562cbcf9fc
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+自动增量提取；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QFciaxXScE1DNGPufySevP725HwFpJ5pm6c37tTS2nuwthWwq3zLjeO9g/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.38 · 提示词 8" width="760">
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBa32c9nG3cyOc9srIOO1ZSzSSwIG4rBYiaLFxuBx6fULMd7VRTsnibHIJhddpzS2To2XiagTiarXLYSkTUhZjwYoKGmlAB3pDHibME/0?wx_fmt=png&amp;from=appmsg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheMgB7RcCY3GszrRZGS8Qr7XIibRRveg9WIMSy5lZP1hvSrBwlvhpWkwTgXaibjQbfSc4WNkBrzNcKA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WAiciaaY3PKyMMk6AgxWO2icIGOPmLDH3Cianc6fiah99B2Ey2hV7je2oia0dI7lnncHa1aDJag5xjDPyCjDyzmGV5u72n8avtrHt2Fs/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WCc10vDTSZ2nLftWBNUPMX2ia1iarOyMukQ5I6xiaA3XWbiapIwooQIYRGntvnuicy9wibvdbpngriaeaaXZviaVTNChf2t1By8Dz5jtPU/0?wx_fmt=png&amp;from=appmsg" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDBeLjic6kzWfd97ZTzygKtfK57aXldj4JibsZyIMsHh6ia1iceO5EJSG6NAy4eXnAiaOLUosxY9dg47wZy7TlDLgibOAibQAP2UKibeP4/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 3" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-The warm winter landscape woven woven, weaving objects with wool, the details of the knitted fabrics are rich in details, and look like wool or wool.The scene brings a sense of art.The picture is simple and simple, with modern art style.Cute, magic, super detail, high resolution, empty scene, large perspective, ultra wide angle, white in the middle, --ar 3:2 --style raw --stylize 750 --v 6.1
+Traditional Chinese Peking opera actress in ornate costume and intricate headdress, Detailed silk embroidery, pearl and gemstone ornaments, ink wash texture, fine brushwork, crisp details, high resolution, photorealistic, cinematic film still, 35mm photography, 8k resolution, sharp focus --no blurry, deformed anatomy, extra limbs, bad hands, low resolution, watermark --chaos 10 --ar 9:16 --raw --sref 7146872134 8236913494 5310548438 6616672792 5218071977 --profile ysedja4 3cgk8th 3c2icqo zuut4ir k6tc957 cujdkyq q6icoq6 --stylize 80 --hd --v 8.2
 ```
 
 </details>
 
-## Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 10 · v1
+## Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2 · v1
 
-- [Midjourney \| 精选作品及提示 - Vol\.38 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-53fc91e429f3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-77KoRc3b6g0mfa2Bz-53fc91e429f3
+- [Vol\.333-Midjourney 精选 \| 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb
 
 原图文案例 · midjourney
 
 **待复核：尚无补充核查，不代表必要输入已齐全**
 
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+自动增量提取；尚未逐图人工核验。
 
 **输出示例图**
 
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfcsSzZ63BvlF0X2gqP63QF7mSKGjmLEnCdkITt5YbcBlWC1tFdJ8JJaKwqMUQHGg1xXe4C59IDlw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - Vol.38 · 提示词 10" width="760">
+<img src="https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WA3W6HPYVyTZDoy9psiaibuFgibw9biaD2yF8hKKYwToVEjZ8wtFsRjKOGHHw22auaxh00JlPjvkH0YF8IZb2ft6meicJYe3yEobNX8/0?wx_fmt=png" alt="Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2" width="760">
 
 <details>
 <summary>展开完整提示词</summary>
 
 ```text
-A walking robot rooster, full body, wearing colorful goggles and headgear, wearing Louis Vuitton style leather, high-end luxury colors, Louis Vuitton patterns, a combination of white and gold, perfect details, ultra- rich texture, surreal. Grey background --ar 9:16 --style raw --personalize 5quoqf9 --stylize 950 --v 6.1
+Macro isolated designer art toy asset, flat seamless solid pure white background, zero shadows. A luxury collectible 2.5 head tall chibi Weeping Willow fairy figurine floating in a delicate S curve breeze posture. One tiny hand touches a dangling golden hairpin bead near her ear; the other softly holds her fluttering translucent silk ribbon hem. Head tilted, serene closed eyes, quiet contemplation. Open front capelet with flowing wing sleeves in semi translucent frosted willow green sea glass resin. Tiny 18k polished gold filigree hairpin. Wispy bangs and sculptural coiled topknots in matte ivory porcelain frame chubby cheeks. Lower body flares into a puffy bell shaped skirt in layered translucent celadon glass with fine petal ribs. Macro sharp focus, soft jade green glass translucency, delicate specular highlights on gold jewelry, even ambient studio lighting. --no plant stem, stem, stalk, branch, vine, support pole, floor, ground, shadow, shadows, cast shadow, drop shadow, reflection, floor reflection, gradient, texture, real human, photo of human --ar 3:4 --raw --profile yat1w8c --hd --v 8.2
 ```
 
 </details>

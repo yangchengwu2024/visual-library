@@ -6,6 +6,378 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cb8ad12817aa/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cb8ad12817aa
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9giauBALjpesiatOsbCu6sxRqKiaghrrpGVr0SibXsWkPiaVQicpJblMfgYcA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A highly realistic butterfly with delicate wings sitting on a detailed, vibrant flower. The background features softly blurred greenery with hints of beige and golden sunlight. Color palette includes emerald green, white, and gold highlights. Realistic and minimalistic aesthetic --v 6.1
+```
+
+</details>
+
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cd96f59fde68/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cd96f59fde68
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdiaTeOCUmBfY6TKBc4gzAnksa8Rfhxl7WZwia51NrXicE2ZxlsnVNE3rVdyRwJbUW3WjRuvnnlOlxkw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+un escargot styléen noir et blanc, avec des lignes géométriques, style by marie france guillen, --ar 1:1 --profile w9kqsnn --v 6.1
+```
+
+</details>
+
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cdbca8a14f1b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-cdbca8a14f1b
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxUiaETLHb8l2UCtF2iaaXRSZzF48YphzH9QSfCll1PAicXSKRcjVyicSFeg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Black-and-white screenshot from the movie "The Houdini Llama," depicting a black-and-white, photorealistic alpaca with hair made of fluffy cotton being sneezed at by an empty washing machine in front of it, laughing maniacally. Photonegative refractograph. --ar 3:4 --v 6.1
+```
+
+</details>
+
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-ddd3e1803c54/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-ddd3e1803c54
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheSn1ZGVFUv4d9KicfYMpVXxrsd9yPRrIvibwnZQvhuhw5vG0g7ZyYnt0mLQia4zwJ56M5FaoulCibJVg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 1" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+fashion magazine cover a caucasian woman with black sunglasses and full make up. kissing lips. colorful --ar 1:2 --v 6.1
+```
+
+</details>
+
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-e15234d76f0a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-e15234d76f0a
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9RMdmyfia6FCoUNkTscFhwXHhSHiaBhWVWKYzibx9bsHvFbL3vLqkp0Xnw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+sheep --ar 9:16 --quality 2 --style raw --sref 969519240 --personalize c6so3sz --sw 500 --stylize 500 --v 6.1
+```
+
+</details>
+
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-e26585f90aeb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-e26585f90aeb
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShfUdEdIIyibaeOviaWibd4rde6WpBmplMl47Nk0eOOemMdZicOuiby3x2CcxlI1Pufvy38PCgwmRXibMvdA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+movie scene photography background fairy tale cute princess white swan --quality 2 --stylize 750 --v 6.1
+```
+
+</details>
+
+## Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1
+
+- [Vol\.66 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-f27505bef06f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UD72wO4O-5yUTbbGN-f27505bef06f
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheN8jm5oPSolknQibYhqic8V9NlicUjpiceFicPjAQjaFvWbK1l5NBicK7DkE72gQPypZgVr4BgfuzoGrSA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.66 - Midjourney | 精选作品关键词提示 · 提示词 19" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+An sweet little cute humanoid robot sitting at a laptop coding between total chaos. Funny, cute, meme, very detailed, colorful and hyperrealistic. Messy home, trash, cables and junk. --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-00b3b07acef6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-00b3b07acef6
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4Vt8LxTGwApl0licYqECIoic8GOib41VuD4bsibJ9kSY5WzskUdDkiclMA0OSw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 2" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+In the city, a white long-haired Angora cat standing on a rooftop, looking down at the bustling street below. Realistic style, taken with an old-fashioned camera --ar 9:16 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-2f94c0d5e55e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-2f94c0d5e55e
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ23D3aYeEiaibqNyCo0MrSW7svAyukqxwpY9iaErmaXALGVCD6F2U9cgJFw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A realistic image of an eagle with very, very bright red eyes that shine in absolute darkness. Its background is black (specifically for photography). Its beak is also golden and shining. The eagle's head is a dark red color that emits a faint light in the darkness --ar 9:16 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-51d612caa2ae/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-51d612caa2ae
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtfmqTCTcbrsIeGsqVQAwZkWv5Otan2I5CxuvQqIa6Y7ibYo9XiafHN1kg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+purple flower blooming in cracked asphalt street in a destroyed city --ar 9:16 --quality 2 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-5d9fc4407d2d/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-5d9fc4407d2d
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ24jDQ4dccC9Df1jrWePUIdtqHuQdNx1DiaXxyNTs5BNiaoxMiaSqsLDU2A/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 4" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+The hyper-realistic, female cyborg, bright fashion makeup, playing on futuristic piano steampunk style, cinematic, fashion evening dress, Victorian style, lace details, opulent palace inspired a history museum, gilded mirrors, futuristic details, sunset shines, soft, melancholic atmosphere, otherworldly colors. High-definition rendering, with attention to light, shadows, and reflections. scifiart. High-quality 8K render, ultra-sharp focus, rich textures. --chaos 5 --ar 9:16 --sref https://s.mj.run/4jvk4XmtrTw --cref https://s.mj.run/K7bb-_eAzvw --cw 50 --weird 300 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-65913afd23ca/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-65913afd23ca
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2rm5pzwvTuibsr8NvUYQ0jkq2ibJMQA8YAHFeIHe9ojibntyVEYELFyhGw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 15" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Salon styling, photo style, dull pink hair color, medium shot, medium hair, beautiful Japanese woman, 25 years old, natural makeup, straight hair, white wall background --ar 3:4 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-71918f914b06/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-71918f914b06
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtkRX1ic0KqbRqDFogFib4paSMNeBFQ6mDdW2Fm7fbDVlC1XGJ8Kv9ILYg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Hyper realistic photo, fashion Vogue subject shoot of five transparent ice cubes with different flowers and herbs inside standing on top of each other chaotically. White backgroung, creative dramatic studio lighting --chaos 20 --stylize 350 --weird 600 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-76016ec17385/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-76016ec17385
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2VZZ3uJF4Es4stnJKb4aBogGG8LibJbflQYC7ISX9CvCiaXbovuw1KBYw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 8" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtRYh3ndsicg1UM8j6OPXUoM99icfj8Jg0JTiaJsPjEvVO7Ze1GSXfsKKMQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 8" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+3D orange and white ribbon in the shape of an "8" with small flowers. --profile g2nn8bj --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-7cdafeca5e90/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-7cdafeca5e90
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtcXY5NapYT30HIEahsVnQWnHenY75wuzI02Gah4iaDwkGkHH7BWhO4DA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Minimalist sci-fi scene in white, grey, and deep black. A geometric spaceship hovers near a lone astronaut in a sleek white suit, their visor reflecting a holographic star map. Matte-white modular habitats and floating platforms loom against a starless cosmos. Stark contrasts, retro-futuristic elegance, celestial silence --ar 4:5 --v 6.1
+```
+
+</details>
+
+## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1
+
+- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-81e4866815b1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-81e4866815b1
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShe9CYReWcfTY9nhNN2Tw4VtgWBkF6PJHkTUAlgNGDl7adjdrF91Ln3KIDDkoEZB8T6Pibq65RxmRqg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A fashion magazine photo of a mexican young female wearing black shiny leggings, with her hair in a high ponytail and makeup, posing on the ground, with a white background, in the style of David LaChapelle, a full-body shot, looking at the camera, in a sitting pose, wearing black shoes, and with long legs. --ar 95:128 --style raw --v 6.1
+```
+
+</details>
+
 ## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1
 
 - [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-9bdc1fc7f7db/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-9bdc1fc7f7db
@@ -209,374 +581,6 @@ Black and white realistic photography of tousands of tall electric towers connec
 
 ```text
 A high-contrast aerial photograph of pastel multi coloured people walking across a pedestrian crosswalk in an urban setting. The shot is taken from a high angle, emphasizing the bold geometric patterns of the zebra crossing, with elongated shadows stretching diagonally across the road. The pedestrians are bright cobalt clue colour in modern, stylish clothing, with a mix of business and casual attire. The composition is minimalist, with a dark asphalt background enhancing the contrast between the white stripes and the figures. The lighting is strong and directional, casting deep, crisp shadows. The image has a cinematic, timeless feel, reminiscent of fine art street photography. Shot with a full-frame DSLR, 85mm lens, f/5.6 aperture for moderate depth of field, ISO 100 for rich details, and a fast shutter speed of 1/500s to capture sharp movement. --chaos 20 --ar 9:16 --sref 987700834 --v 6.1
-```
-
-</details>
-
-## Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 6 · v1
-
-- [Vol\.127 - Midjourney \| 精选作品关键词提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-d5ee83470e6e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-Ud-JEhy1yZGGg1Y9w-d5ee83470e6e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdlM599TibdLyy2mh2BVQXJ2F9uXtJopnnH0ewGLAMu0yExStQR6Of2xZSZXZzFcq6X5l0iaf1SjGyw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.127 - Midjourney | 精选作品关键词提示 · 提示词 6" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A round goose yellow moon shines on the small boat on the sea surface, with several clouds surrounding it. The shimmering sea surface and the silhouette of an isolated island below the moon create a serene scenery with ultra-high definition and 8k ultra-high resolution, creating a super realistic scene. Realistic photography, realistic photography. --ar 9:16 --v 6.1
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 3 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-15a5f916fae7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-15a5f916fae7
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZlZIuLHKkDeKgv3120YH1RCBMjVgJQBtqStXbxgKR5LptGWXib0JXJyg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-3cm tall clay figurine wearing straw hat pushing wooden cart, 5cm bamboo leaves piled high, fresh bamboo leaves, glutinous rice in a wooden bowl, braised pork, salted egg yolks, cotton threads arranged on a woven bamboo plate, warm golden lights, soft brushstrokes, scenes of reunion and joy, warm sunset lighting, tilt-shift blur, 8k, UHD --ar 9:16 --exp 25 --raw --stylize 180 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 7 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-3d1eb29c5135/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-3d1eb29c5135
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZl4G3O155MV6aPnYyp2GkkmD2DBiaibyRDwsjI8dukU89Whs8nOnpVGpA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Bird's-eye view of a minimalist illustration in macaron pastel palette (mint green, powder pink, buttercup yellow), soft swirling water ripples tracing a flowing river with distinct banks. A wooden boat holds a giant triangular rice dumpling wrapped in bamboo leaves and a fisherman wearing douli hat, light reflections dancing on water surface. Ethereal peach blossom forest and traditional Chinese pavilion with curved eaves in the distance, clean geometric shapes with gradient blending, strategic use of white space to enhance luminosity, candy-colored wash effect --no shadows, heavy textures, dark tones --ar 9:16 --stylize 720 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 12 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-3d3b19d08678/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-3d3b19d08678
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZLLskkH4qVduarGNGOGJ4ErAWQMWNGN4dBZWiczcjGme9tRcuXhYlpdQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 12" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A picture of the Dragon Boat Festival, a scene of a dragon boat racing on the water. The characters are very dynamic, with a drummer beating the drums and six characters paddling in neat and powerful hands. The background is a rolling river surrounded by clouds and mist. The surging waves increase the sense of tension and excitement. The cute characters exaggerated facial features and a large head-to-body ratio. The colors are bright and full, with the main color being yellow-green, creating a warm and joyful festival atmosphere. The lines are simple and smooth, without complex shadows and highlights. Flat, vector, festival mood. --ar 9:16 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 17 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-4748b6050c4a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-4748b6050c4a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZO6GCz0XPy65zKs1bpKUR64kFqLFtwaOjc1oS0EricZKahibAKkD2lDeQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Dragon Boat Festival posters, traditional Chinese ink painting composition, and paper-based style, featuring several Loong Boat, Zongzi, and festival decorations, are elegant and classic, with harmonious colors, precise Zongzi shapes, and detailed Loong Boat shapes. The left and right sides can be seamlessly spliced --ar 2:1 --profile 3is8t8v --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 20 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-4b7d73e0dc3c/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-4b7d73e0dc3c
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZls8oNDtHME0rtGvuucygic3smB1bjQ5jnexUJiaFgKVR0DN8hNR5UpPQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 20" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Top-down view, 3D cartoon-style Dragon Boat Festival illustration. In the center, a vibrant dragon boat with a rounded, expressive dragon head at the front and a golden dragon tail at the back. The boat body features detailed red, green, and gold fish-scale textures. Three young people (two men and one woman) in colorful traditional Hanfu are sitting joyfully on the boat, laughing and holding wine cups as if sharing happy stories. The boat is decorated with traditional festive foods like zongzi and plum wine. The clear, reflective water surface is scattered with lotus flowers and lily pads. Golden fish swim gently beneath the surface. Bright, translucent color palette, soft sunlight, cheerful and festive atmosphere. High detail, 3D rendering, soft lighting, ultra-clean composition, cute Chinese national style (Guochao), perfect for seasonal promotion poster or e-commerce banner. POP MART blind box,clay material, C4D style,3D animation style character design,rich colors, hd mod, glowwave, simple, clays, 3d, blender, oc render, in by pop mart, blind box toy, c4d, Disney Style, Matte, 8k, uhd no strong sunlight --ar 2:3 --iw 2 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 9 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-4df7e94be292/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-4df7e94be292
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZ1dO1gib44oSI9v2JbVtMPF9LAD0AuBb9RIPAqV50ib8AHDJDt3s0OYfw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 9" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A Dragon Boat Festival poster featuring elements of dragon boats and zongzi, in ultra-high definition, meeting the requirements for a promotional poster. --ar 9:16 --quality 2 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 14 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-639aad3af0a0/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-639aad3af0a0
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZtlMOnRVnjJtwO3RBLS3ehE4r53MOPGG1ds4bcAicrX42xBGQxiaPXS8Q/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 14" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-The Q-style cartoon dragon boat race features colorful dragon boats. Children are rowing vigorously, and a banner reading "Happy Dragon Boat Festival" is floating in the sky. The scene is full of dynamic energy. --ar 3:4 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 1 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-6752833524b0/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-6752833524b0
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZWGrrxaAbJPnIF9f2D0KlqB4x4oQyDgXmrg3OSRs6wMWGaxHK2nxtGw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 1" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A group of cartoon Chinese children are racing in dragon boats, 3D rendering, Pixar style --ar 3:2 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 5 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-6a893594be7a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-6a893594be7a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZ3SPnb3LVuRHDzBx2sLtFamKRicwK3RFSjWotHXZJWHgibA8VlhSpe4Xg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 5" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-This is a poster celebrating the traditional Chinese festival Dragon Boat Festival. It is an illustration style with a bright and soft color scheme. The background is Zongzi Mountain with red ropes tied to it, using anthropomorphic techniques to compare the mountains to Zongzi. In the center of the picture is a river with a dragon boat moored on the river. The dragon boat carries little rabbits in red costumes paddling on the boat. Their movements are in unison, further highlighting the festive atmosphere. --ar 9:16 --exp 50 --sref 1836765429 --profile 29poq4o --sv 4 --sw 1000 --stylize 1000 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 11 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-877b034a570a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-877b034a570a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZibL8ibxhEvFa60fTiamEFtUpuVrYLCgAmWwedtDicn7mF6feTBiaKXPLAkA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A toy car with a small zongzi on the roof --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 19 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-8924df201818/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-8924df201818
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZrUSM6fHrkJ7Gic9CVTQNYdWia655zBnUYf8tq1jtiaeicR4JoHUXD3MribQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 19" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Dragon Boat Festival poster. The main body is a three-dimensional dragon boat charging in the river, and the waves in the river splash. The head of the dragon boat has the appearance of a unicorn and the tail of a dragon. Inside the dragon boat are two humanoid rice dumplings rowing the dragon boat, with excited and happy expressions. Dragon Boat Festival elements such as rice dumplings, mugwort, and salted eggs float in the river. On both sides of the river are ancient architectural streets, and there are crowds cheering and cheering. The rolling mountains with green gradient colors on the background. --chaos 5 --ar 3:4 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 13 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-93aff4f096c4/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-93aff4f096c4
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZC0nia19NBD39vNINJcEkdsa2so7AK5YDQwfgLuw8002HuJr2T2AlFiaQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 13" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-国潮插画（端午主题）主视觉为龙舟竞渡场景，龙头以红、黄、绿三色渲染，龙舟上划桨人物身着运动服饰，岸边奔跑人物展现活力；背景深蓝色搭配水波纹与层叠粽叶纹饰，主题配色：深蓝（主色）、翡翠绿（粽叶）、纯白（瓶身基底）、明黄（字体/龙鳞）、朱红（龙头/人物服饰）。 --ar 3:4 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 10 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-a03722ca702c/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-a03722ca702c
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZ2kTXoy9cOuwMImrSrWGicgeLMpqxF5CszOItuq2sxE8PiaQgFSX2iaW3A/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 10" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-realistic close-up of two zongzi on a wooden plate, one whole and one unwrapped, glutinous rice with tender pork belly and salted egg yolk inside, wrapped in bamboo leaves tied with delicate nuohe grass string, steam rising, warm soft lighting, shallow depth of field, festive Chinese atmosphere, captured like Canon 5D Mark III food photography, vertical layout --no Square-shaped zongzi,Cylindrical zongzi --ar 9:16 --stylize 300 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 2 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-b8c3de85dbc5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-b8c3de85dbc5
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZcF7hH9Xm6gpIsR3lqBOhbTPbNmKiaq5rLBqpaXTsP7sIQh6UU2uNvMw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 2" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A cute 3D cartoon zongzi character with a smiling face, wrapped in shiny green bamboo leaves, sitting on a lotus leaf floating on calm water, a tiny wooden boat beside it with a halved boiled egg and more zongzi, soft dreamy lighting, pastel colors, stylized background with soft green hills, highly detailed, Pixar-style render --ar 9:16 --v 7
-```
-
-</details>
-
-## 周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 6 · v1
-
-- [周末特别版 \| 端午元素专题 \| 精选作品与提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-c7f337a4f28e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-UtGgbZiN9BP49G5e9-c7f337a4f28e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexSZFbt9eiaWPZ84vibu8ibyZWAyGfzfBXsSWKtnwOe0j8UslZ8Igr5Zk13b0HZvr2y8ShUItFwM3Tw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 端午元素专题 | 精选作品与提示 · 提示词 6" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-a zongzi, clean background, detailed and realistic, traditional Chinese food, wrapped in bamboo leaves, 3D render --ar 1:1 --v 7
 ```
 
 </details>

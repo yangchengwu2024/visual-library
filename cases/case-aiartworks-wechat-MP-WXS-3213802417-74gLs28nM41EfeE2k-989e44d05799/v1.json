@@ -1,0 +1,74 @@
+{
+  "archived_at": "2026-09-22T01:50:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCGPBkc1akp4S2MgBgmIPLQLL26pKCQlNicG3IWyBZAduGoBibjCSnC7afL4q6pW7rmJsUG3lQ3XQVANIFntNTlRb8J99toxLW3M/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WB8zrZXPgJ1iaAaoicmJcbEqfz6wDPKzl3NZWv2OMD1MQGLEiclx0pRzHqia42ufMFia9ICQRnFJmTYrHqTx78viaswXHcfHrlibNqU0A/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA6pkXNLTlCib8ZL1apujich0sCncVYxTCUuV09ribOkBAz2TcKSZR86fichsau5ibHLlphkShKIx1USlYKnicqnls0lFIMrc2MCBF24/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-989e44d05799",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "d0a23c55adf2a0910434e5d84e0c3c7d7b937b7d7b8ce213974706642b5312ab",
+  "model": "Midjourney",
+  "parameters": {
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "four obese elderly men helping each other climb out of a small rowboat onto a narrow wooden dock --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCGPBkc1akp4S2MgBgmIPLQLL26pKCQlNicG3IWyBZAduGoBibjCSnC7afL4q6pW7rmJsUG3lQ3XQVANIFntNTlRb8J99toxLW3M/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WB8zrZXPgJ1iaAaoicmJcbEqfz6wDPKzl3NZWv2OMD1MQGLEiclx0pRzHqia42ufMFia9ICQRnFJmTYrHqTx78viaswXHcfHrlibNqU0A/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WA6pkXNLTlCib8ZL1apujich0sCncVYxTCUuV09ribOkBAz2TcKSZR86fichsau5ibHLlphkShKIx1USlYKnicqnls0lFIMrc2MCBF24/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+      }
+    ],
+    "attribution": "WeChat public account（微信公众号）",
+    "revision": "scheduled-20260922-095042",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0015",
+    "source_metadata": {
+      "association_confidence": "high",
+      "image_storage": "external_url",
+      "source_account": "",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 16",
+  "version": "v1"
+}

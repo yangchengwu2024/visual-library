@@ -6,6 +6,466 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
+## Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 22 · v1
+
+- [Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 22 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-d165f657e154/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-d165f657e154
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQrdfeTR9ASmFQ9KK0kbcCr5rzJ0D0jRm9FgN4JqE2poo2ssGYLYibYqA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQ6eqicw3IIZoQqqbwH0nju75bcR0zLqpiaexWJKnSBQiauOtkyA7x9JxDw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bZDoMzU5YQ0rksIAuOtmPofFRicvAk8sicXplu69BDYBLonViaBKlhVp4Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQMtrznbgtdcBN5zlIWqSptBnCE1yy85HKRsu8uGx5e86PTich6okicQ7w/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bEOnBXsflZicbLQNUScQwUXprZpONEE866yQCHSuZnLicbaK5NuoRLPibw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bhP5RBcjrof4eByG7XrYNwhibVwf1JUpb5AqcXG3iaz1IkeWA9Cv4YqbQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bVwUjV0JIE5XicpASszfjKoZ82rlg9erRicvfRcjU2q4asAXzc05PSIWQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9b7FgTngKB4l9nKGmpYDs78NH7mjM7gRIPLBbmBwkicKHAAMsgsqSn3kg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bvptBbTIYxicSeEIp4LekZPDsqPnMkz3P7N5gKhUxVFk4aSWxCRPnYnQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bhfMghm4MsFvkLP5wFMqOX53kUFtYuCH2icDGj7nfialEWNiaC6Yo7DS3g/0?wx_fmt=gif&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcdglCEkGUvycUAaykjBKINeNHAutiaMORiae21OpTutX8rOS4EtfLxWZvqxw2eF2kcR6CAaYjueU9g/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdkFZaiajHCPxoeGg9icvvkzNH01ZQoTrOx9Y7nlXNMbm84Ua2Tkgg1Xq1sp1HZSGgUfpYp65Y9Mh7Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9buzCQNzGE3iadCVl5STD5JKRRrsc9wVBsJypHcGGKNpicM3Yj7Gg2TqHA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 22" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Green meadow with 1 white baby rabbit, 1 baby squirrel, 1 yellow baby duck and 1 striped baby cat running around, small pond, flock of white butterflies, small barn in the background, trees, clouds and pink sky, colored pencil drawing style, expressive painterly brushstrokes with visible texture, Bright, warm spring day atmosphere, whimsical storybook charm, vibrant impressionist style with bold color contrasts, soft pastel background tones of desaturated pinks and purples, natural, dreamy mood inspired by floral impressionism and children's illustrations, textured canvas effect --ar 9:16
+```
+
+</details>
+
+## Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 9 · v1
+
+- [Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-ed73d7c7fd27/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-ed73d7c7fd27
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bHyGFkQSMZrxeWibYnaaAADfsSNva92htVJfs2DW32RW2MRMpRnnpn8g/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 9" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create a 35mm cinematic photo-realistic image the iconic teletubbies hill transformed into a rotting mound of flesh and grass, the sun a grotesque screaming baby face melting in the sky, uncanny valley surrealism, nightmare fuel Use Hasselblad X2D 100C camera, cinematic lighting, dark atmosphere. Emphasize creepy, nightmare fuel, highly detailed sharp focus, dynamic angle, and dramatic lighting. Ensure ultra high definition, cinematic shot with gruesome horror theme. Use panavision cinemascope, sharp focus, fine details, 8k OLED resolution, HDR, 35mm film look and realism for gothic noir style look --chaos 10 --ar 9:16
+```
+
+</details>
+
+## Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
+
+- [Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-eeb942f348dd/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-eeb942f348dd
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bqdfjzt98NqU1CNtEMnNsJ4ZMGeUibG8zlN872dV8zvQ195y1EaoPYyg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Close-up of a man's foot in black pants kicking open a white hotel room door, door slightly ajar, breaking into a luxurious hotel room, polished interior, elegant furniture. Very strong black and white comic book style, Sin City aesthetic, thick bold lines, extremely high contrast shadows, stylized and expressive. --ar 9:16 --stylize 750
+```
+
+</details>
+
+## Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 27 · v1
+
+- [Vol\.251 - Midjourney \| 精选作品关键词提示 · 提示词 27 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-ef37fcf87040/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-F4aata2F5DwzXZ-DM-ef37fcf87040
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQrdfeTR9ASmFQ9KK0kbcCr5rzJ0D0jRm9FgN4JqE2poo2ssGYLYibYqA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQ6eqicw3IIZoQqqbwH0nju75bcR0zLqpiaexWJKnSBQiauOtkyA7x9JxDw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bZDoMzU5YQ0rksIAuOtmPofFRicvAk8sicXplu69BDYBLonViaBKlhVp4Q/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcblsPUGuFNP9K6jNYbc8IQMtrznbgtdcBN5zlIWqSptBnCE1yy85HKRsu8uGx5e86PTich6okicQ7w/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bEOnBXsflZicbLQNUScQwUXprZpONEE866yQCHSuZnLicbaK5NuoRLPibw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bhP5RBcjrof4eByG7XrYNwhibVwf1JUpb5AqcXG3iaz1IkeWA9Cv4YqbQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bVwUjV0JIE5XicpASszfjKoZ82rlg9erRicvfRcjU2q4asAXzc05PSIWQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9b7FgTngKB4l9nKGmpYDs78NH7mjM7gRIPLBbmBwkicKHAAMsgsqSn3kg/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bvptBbTIYxicSeEIp4LekZPDsqPnMkz3P7N5gKhUxVFk4aSWxCRPnYnQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_gif/nJnY3ibQBShc22WicA9G6lx3PctpmhOB9bhfMghm4MsFvkLP5wFMqOX53kUFtYuCH2icDGj7nfialEWNiaC6Yo7DS3g/0?wx_fmt=gif&amp;from=appmsg" alt="Vol.251 - Midjourney | 精选作品关键词提示 · 提示词 27" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Close-up portrait of a goddess bathed in Sedona’s crystal vortex light, wearing a flowing pastel rainbow dress. Her serene smile reflects divine energy, surrounded by glowing prisms and mystical aura. Spiritual, radiant, oil-painting style, pastel tones. --ar 9:16 --profile e8rakzh
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 18 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-0d75b5f00a05/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-0d75b5f00a05
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvpRYdQPWDOiaa6zaI6VRQMibrp4mE89zEtQrMZic0zRibRtDGuibJbwtYsgQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 18" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvuHDrp5wOykY0E348VhBdlWwApPriaQma3ekuhWtw6vV4nw644esP5IA/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+a background inspired on day of the dead with cinematic lighting --ar 4:5 --v 5.2
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 2 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-1b8a506b119e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-1b8a506b119e
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJicib4XicTu5ibGic3kLiaY4GkicmBym6qjCOk9ticQEogSicFsIHx4sWRiaxxqgg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 2" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A group of children dressed in Halloween costumes, smiling and posing next to pumpkins on a table. The background is decorated with colorful decorations for a Halloween party. High-resolution photography, a detailed photo, a stock photo. --ar 9:16 --stylize 750 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 11 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-2fe7ebfabcdc/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-2fe7ebfabcdc
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvdj0JDDlbyYwAlaCH7nGGia6yFt1LLnicKEgicDWuPzb6ic4YkdyQGOjWwQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Abstract contempory art, portrait of a whimsical jester in a cheerful but spooky pose, striped leggings, fine art plain background, , vivid dark n colours, abstract oil painting, thick brushstrokes, in the style of Leonid Afremov --ar 8:11 --personalize 8bce3kq --stylize 750 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 9 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-35fc50aa21d1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-35fc50aa21d1
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheG3bJPQXic47fAszQX8MEEvN5E3TbiaDsmXReGq9mnzG3zBl6oDTOUWCpcq0O4RXia9jseZVPPXT4uQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 9" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+pitch black background. Halloween. Emojis. Busy. Horror. Graphic. 2D. Red accents, subtle yellow accents. 4k. HD. --ar 9:16 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 16 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-4d335a9b73fd/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-4d335a9b73fd
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvEHqBqzeQX9icpcwMfjAVLMRTM3hvibCEJu3tFwfWpWdXxAvksJ9aJYWg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 16" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+a 3D object an old toy box from which a scary clown comes out front face to the camera --v 6
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 4 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-51f5050db4a5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-51f5050db4a5
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJLRy8GnibEcSFQ487Bexh93Hs3RFDU4CwZxpiboDdic8aMmWYVam3338uQ/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 4" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Salem's Lot, a witch with reflective amber eyes and long slender fingers tipped in claws, standing beside a bubbling cauldron, green foggy light illuminating, 1970’s Kodachrome film, 50mm camera --chaos 10 --ar 2:3 --style raw --personalize c2zljam --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 3 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-529beec25fcb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-529beec25fcb
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJNMNErWWGOppN3tX7GiaqjTKxiaHKxu3pcpJL4dFvYYDGLWMrUTxOU2RA/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Salem's Lot, a shadow ghoul with reflective blue eyes and long slender fingers tipped in claws, perched in a gnarled old tree looking for its next victim, green foggy light illuminating, 1970’s Kodachrome film, 50mm camera --chaos 10 --ar 2:3 --style raw --personalize c2zljam --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 7 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-531718f1e509/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-531718f1e509
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcfuFvRiaHyUbgQ96OQuhKicae6yVv9o3z5g1zAfS5e5ic4weQ2tNGboNIY9A1mZzJLdic5k5MyLpicylg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Orange pumpkin, for Halloween, with brightly glowing eyes, dynamic lighting, realistic 3D rendering, no background --ar 4:3 --style raw --stylize 300 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 10 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-61d0d52205c7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-61d0d52205c7
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcuKia6YxmtJz0eicRpFPQHXDwdicNnID4kUG4jomFPvjiaYLwtKAkOKQXhnJH7EgCPmr1a3n67Kq2DYg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 10" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A whimsical Halloween background featuring happy pumpkins, ghosts, and witches, with the center open for copy. --ar 1:1 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 17 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-82e98c3a3c27/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-82e98c3a3c27
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvFStkGftFwSfzOuDib6GqwWKRvMzSho8OfnRjb9sU8ObEU0XtricBjzicg/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 17" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A background of a empty green caterpillar rollercoaster with red and yellow seats. They look happy as they go down a big drop at a high speed. In front is an amusement park background with wooden rides and a red theme. --ar 4:5 --v 6
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 19 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-90a91e8f3865/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-90a91e8f3865
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShez1N8oXlRdYbmlU3bdOvrJ4vjldFYcQMOVUWic5RaibbghqrQObENnbbzqMbbj9NBIXMrw86TLJekw/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 19" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShdNhhvVIwZia8Ws8yVYaWlorRpmcSIYttkVonpIiazR4kE39kEmAxo6fAC2c4jzWmGSBEk3ekelC9fQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 19" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Kali face, thied eye in forehead, tongue, mouth open, mad eyesornaments head, ear and necklace. Black and white style --ar 2:3 --stylize 0 --v 6.1
+```
+
+</details>
+
+## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 12 · v1
+
+- [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-a08bbb419e1b/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-a08bbb419e1b
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShdRn8yMOnurPzCKV1VgCWmvciaVSiapHu4jria924QQ4f0VoiaxFfyLcGJ1s80dUK1ea3UYe1MXKZgo1A/0?wx_fmt=png&amp;from=appmsg" alt="Midjourney | 精选作品及提示 - 万圣节特别版 · 提示词 12" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Create a vibrant, cartoon-style poster celebrating halloween. Thea man on a motocross bike wearing a motorcycle helmet full of joy and energy. Add fun, 3D effects to enhance the playful and celebratory mood of halloween. The poster should be with bright colors and a festive atmosphere, pixar style, 3d rendering --ar 4:5 --v 6.1
+```
+
+</details>
+
 ## Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 13 · v1
 
 - [Midjourney \| 精选作品及提示 - 万圣节特别版 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-a4007347a361/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FS36pZrVxfd-ruOQT-a4007347a361
@@ -209,386 +669,6 @@ close up monochromatic, ferocious, exposed fangs, high contrast silhouetted, ros
 
 ```text
 jack quaid, hughie from the boys, in a black suit, graphic silhouette style, cinematic, low camera angle, monochromatic, dynamic energy, full body running, wide cinematic shot, indistinct red background, soft black spray-paint overspray, grungy aesthetic --chaos 20 --ar 9:16 --stylize 900 --niji 5
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 20 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-3f44f59f460c/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-3f44f59f460c
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibmicRNgtcVOoV3sbbpRuXlibBJaEkywkBrVp7wj2C30pQbtDq5xzL62OA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 20" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Futuristic spiderman graffiti artist vandal, full body black streetwear, mural artwork, backlit, los angeles midnight, bright turquoise& pink neon lights, photorealistic 8K --ar 9:16 --style expressive --stylize 750 --niji 5
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 15 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-49da3ab18f1e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-49da3ab18f1e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibZ81YqRIkic8fV5CmO9R6OUnMfyyXkPfBXZiagCUIticyyx4ZicO3azOclQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 15" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibYiaat0RlxlOicnzfD2WYHwl6HCaJxocyGXicoZxq1aQeAL9THJI9pJgcg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 15" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-silhouetted individual, streetwear, letterman jacket, red Nike jordans, red 3D printed wolf mask, backlit lighting from single light source, sitting in in a stool in a red room, with wolf carvings and markings on the wall behind, cinematic, low camera angle, vhs, distortion, --ar 9:16 --stylize 950 --v 6
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 4 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-4f95ffcdbdcb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-4f95ffcdbdcb
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibhWNUBaScNVIobtzCibVsLsNZ8p1qC7YohbY5nAmS3jpwgs9biciaWhEAw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 4" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-fatoe robotech mecha graffiti --chaos 40 --ar 9:16 --style raw --profile l5ohkyn --stylize 600 --niji 6
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 2 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-5cca5bfa6c48/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-5cca5bfa6c48
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEiboiaPue30T9ic52vPfLJInZ50CfTtNyDQS7x43yesAnXOHmUycJAOvbQA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 2" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-monochromatic paper collage, typographic, menacing, dia de los muertas, luchador, lucha libre sk8, skater, skateboarder, poster, spray paint soft overspray, neon, pink, turquoise, white, and beige color palette --chaos 45 --ar 9:16 --style raw --profile odupuv7 --stylize 700 --niji 6
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 1 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-606bda74b145/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-606bda74b145
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibRF8AG10DIXdZlrWxnhQKBMV9HE2GgX49nicyZryLY6Bdxicv3VlGhaQQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 1" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-monochromatic textured paper collage, typographic, menacing, gundam poster, spray paint soft overspray, neon, pink, turquoise, white, and beige color palette --chaos 45 --ar 9:16 --style raw --profile odupuv7 --stylize 700 --v 6.1
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 6 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-6ea67f852abe/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-6ea67f852abe
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibvzFhrAWWwE4wFDtl7icLnLWBwribNfrYcL9lKURWH6lnWtR55ic6E9TSA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 6" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-executive assassin girl, eye patch --chaos 40 --ar 9:16 --style raw --profile z8jjdmz --stylize 500 --niji 6
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 19 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-72373e1eb441/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-72373e1eb441
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibzFwxXOkUgyyib6jneuUlhxnwfsq2OlOlUsayHTdjct3btusibfxf0IXA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 19" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-menacing portrait of The Thing from Marvel’s Fantastic Four, cinematic, square & rectangular orange brick, rock texture, superhero, sci-fi, low camera angle, dynamic blue energy --ar 9:16 --style expressive --niji 5
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 11 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-964b1cee9749/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-964b1cee9749
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibVgF9soYmqOoI5LYaB0MFib18gtXPfWLPses63EruHgh6BKp6KKDprwg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 11" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-gangsta sanrio hello kitty in los angeles white background --chaos 20 --ar 9:16 --stylize 600 --niji 5
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 10 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-97f404ca4172/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-97f404ca4172
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibhkIBPGXibJMfOiaAwrickiaVlyAOlKcX9PxXLfkAjbPYCPAlb6aZgK3iaXg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 10" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibAV3GqQW60QY2wfhAEQ4ria0hTSjBEe4ueq9icjFq0c8y5iatQXbib0tVZg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 10" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Black painted, black silhouette of a menacing heroic mexican luchador with intricate ornate black, pink and rose-gold lucha face mask, pfp, set against a light pink colored background, soft spray paint overspray --chaos 20 --ar 9:16 --style raw --stylize 400 --weird 300 --v 6.1
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 17 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-aff28195293a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-aff28195293a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibG1x9TwFWcEEG24T9aBeRb9icWPc5Fn0icC8IsAiaU2qvD5pOKOsDZlBcA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Archangel Michael vanquishing Lucifer sculpted by Herbert Gerhard, in a halftone texture pop style art, with graffit sraypaint overspray, pink and black against white background, dynamic pink energy --ar 9:16 --stylize 750 --v 5.2
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 3 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-ca4ece985a14/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-ca4ece985a14
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibHBbmJyXrcbA8RPMxPWvPX5fqYZ2ynvCsoIHtLFWMZTg2zdcibYiavx7Q/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-spiderman, graffiti, soft spray paint overspray, abstract typographic poster, textured, collage paper ink strokes and, abstract 3d objects, monochromatic, --chaos 45 --ar 9:16 --style raw --profile dd16jhl --stylize 700 --v 6.1
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 13 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-cc7e28cdcaf0/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-cc7e28cdcaf0
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibicuia4QwIPzVGPpBQvhIg5Z752oUVJ91A2h5kDtO5CmgArj76ZEEpMrw/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 13" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-akira, riding red motorcycle, mospeda, genesis climber, black helmeted rider in red jacket and pants. --chaos 20 --ar 9:16 --stylize 700 --niji 5
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 18 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-d693e10431d3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-d693e10431d3
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibiauK5Z2DJ1DEMtcZicSwwDdDOwBPKpDjWPbEicxfjaSm7KRTMMggUaibxg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 18" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-menacing, vintage Star Wars, The Mandalorian, matte black armored, bounty hunter, jetpack, sci-fi western, low camera angle, dynamic red energy, black saber --ar 9:16 --quality 5 --style expressive --niji 5
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 5 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-e5b4e1c1fef9/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-e5b4e1c1fef9
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibc2qWiaZvr31a1zTqrEmvHA974mtIsnDPf9IC2NCibADh1owePV6IibibYQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 5" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-assassin, jack-o-lantern, executive suit, silhouette --chaos 40 --ar 9:16 --style raw --profile dv1cxf3 --stylize 600 --weird 200 --niji 6
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 9 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-f8be320ecbfa/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-f8be320ecbfa
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibhkIBPGXibJMfOiaAwrickiaVlyAOlKcX9PxXLfkAjbPYCPAlb6aZgK3iaXg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 9" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibAV3GqQW60QY2wfhAEQ4ria0hTSjBEe4ueq9icjFq0c8y5iatQXbib0tVZg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 9" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Black painted, black silhouette of a menacing heroic mexican luchador with intricate ornate black, pink and rose-gold lucha face mask, pfp, set against a light pink colored background, soft spray paint overspray --ar 9:16 --stylize 250 --v 5.2
-```
-
-</details>
-
-## 周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 7 · v1
-
-- [周末特别版 \| Fatoe的漫画狂想 - Midjoureny \| 精选作品与提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-fa8d23138eb7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-FSIyZ11p47XcG4g6n-fa8d23138eb7
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheJO7BiaYJZXd4WWXh9WIuEibPIlrGL2c0oQmYpOsqicjVMSnc4lVF6qj0iaI0jUAwc88JCoW59G5vspQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | Fatoe的漫画狂想 - Midjoureny | 精选作品与提示 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-devil rider --chaos 40 --ar 9:16 --style raw --profile z8jjdmz --stylize 550 --niji 6
 ```
 
 </details>

@@ -6,6 +6,378 @@
 
 本册 25 条资料。标题链接固定到所示版本。
 
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 6 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 6 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-128cfb2844f1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-128cfb2844f1
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8rnMrAyiblmd4h0JBFSTQsoEBnPah5yO97uuGhIdpJibdbUHicDSQL2qBQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 6" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Photograph of a beautiful mulatto woman, very beautiful and maternal with very light eyes, she is holding a beautiful baby in her arms, he looks like her, she looks like his mother, she hugs him very affectionately and sweetly, it is a very tender and maternal image of Mother's Day, blurred background mugo green and brown, excellent details, photographic quality, masterpiece, --ar 9:16 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 15 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-1a3f2941cfa6/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-1a3f2941cfa6
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8ZtWHY7F1FxMOd79hyeOYkjLpEqDmADIRUyzNXHKBWUljzCJxxhb4Rg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 15" width="760">
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8tiagIibQBzFXYuf5AIWEwl9q9DahIlHnibCD7cjSPDwsGdxG2YhOxqVMQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 15" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Full-body photograph of a 3-year-old child sitting on the grass after falling while running in a sunlit park, his loving, hijab-wearing Turkish mother kneeling in front of him, gently touching his head with a warm, supportive smile, the child looking up at his mother with a joyful expression, lush greenery and soft light filtering through trees in the background, no body deformities, ultra-high resolution, natural skin tones, Canon EOS R5, f/1.8, 85mm, sharp focus, soft bokeh --ar 3:4 --raw --profile qytktio --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 12 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-267289ee3af7/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-267289ee3af7
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8lRIodUcUbTuyhiacFlVqstbBoicibZeMySopEmNyLfc8eZjuvcNh0QU4Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 12" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A beautiful woman with blonde hair and blue eyes is holding her baby boy in the style of stock photography. She is wearing light pink and looking at him lovingly as he smiles back up close to her face. A mother gently caresses her baby's head, on soft blue background, photo-realistic, isolated on transparent background --ar 3:2 --profile 8d25oem --stylize 150 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 11 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 11 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-3d6ae33ff860/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-3d6ae33ff860
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKX6J1GA2icyaT6FcQK62F3iciatoiacMPnUrsOFwOA3OBYFou1U17OkobUA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 11" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A heartwarming 1980s home scene: a young mother, wearing casual retro clothes, gently holding her newborn baby, smiling warmly while gazing at the baby, cozy living room background with soft ambient lighting, vintage furniture, realistic skin texture, cinematic photo-realistic style, ultra-detailed, shallow depth of field, warm color grading, emotional close-up --ar 9:16 --profile 2kzgh1i --stylize 0 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 3 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-4f860f274e41/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-4f860f274e41
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKa0uzS55nVGBH8iaCmKhAkR68d7QsuWsHuAGgcTfoLmic3QiaSFBPLEZnw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 3" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+mama --profile dfm21pz --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 17 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-54c1695379cb/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-54c1695379cb
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh8zcraDqt7rNicXiciaBg9yGaObIYMEJMezMrfibV2xlhft9VNQG7YicJXRwQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 17" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+4k photo of a future timeline where a mother standing with her hybrid daughter with extra large eyes, unity consciousness, grounded, glowing, quietly powerful, Galactic Earth, ocean landscape at sunset, rainbow rays of light, ultrarealistic, super detailed, ultra detailed, ray tracing, rtx, photorealistic, --ar 4:5 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 19 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-62fe1464458f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-62fe1464458f
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh885JnmWm27eH4CnrsAcNfFMFaib3xGicgHDm8XlafcnN0ibzHQqVicCaeVw/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 19" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A joyful and tender moment between a europeean mother and her daughter, the little girl have 7 years old, in summer, genuine smiles, look at the photographer, close natural connection, photographed with a Canon 5D, 100mm lens, soft bokeh, shallow depth of field, warm natural light, lifestyle family photography, professional composition, high-resolution photo, --ar 2:3 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 5 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-65715c47069e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-65715c47069e
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKda12k01E8lbgEkbG7Bx7GMTux1mFgrOnriclNAwtS2lcSr7hknLQ89Q/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 5" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Warm colors, silhouette, young Chinese couple, white knitted sweater. The wife leans against the man, and the man holds the baby above his head with both hands. Warm and cozy, cinematic composition, full shot. --ar 9:16 --stylize 750 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 7 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-77fd6cb05c18/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-77fd6cb05c18
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKjm4ibg2EfPxIMlBP85Klpv0IT8lxQ0Il5ypzlUokpgyrhzfrWuTYqXQ/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 7" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A heartwarming black and white studio portrait of a smiling pregnant woman standing in profile, gently holding her baby bump. She wears a simple white top and jeans. Her young toddler son, also in a white top and jeans, is standing in front of her, reaching up to kiss her belly. The moment captures the emotional bond between mother and child, with a minimalist studio background, soft lighting, and a timeless, editorial feel. Shot on Sony A7 III camera. --ar 2:3 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 2 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 2 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-7d1dd4a6841e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-7d1dd4a6841e
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKK6NR5IfE5oVrnX4YrQSZibDFQIWicthkLicKl1PsHMChmPj5QkQcafLsrw/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 2" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Close-up image of a pregnant person gently holding their belly with both hands, warm natural skin tones, soft directional lighting creating gentle shadows, minimal dark background, serene and intimate atmosphere, celebrating pregnancy and the human form, photorealistic, fine art editorial style --chaos 5 --ar 3:4 --raw --profile zgx462d --stylize 0 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 20 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-801bd0f4dfca/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-801bd0f4dfca
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKicwRgNMbAKiaje0qyQHEXHPtWXUq1KiabTxl3DS5LTWvgCnrXxkibK3t2Q/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 20" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Black and white editorial photography, close-up of an elderly woman cooking in a traditional kitchen, only showing her hands, cooking pot, and her upper body. Sunlight rays shining through the window, thin cooking smoke in the air, classic 1950s Bukittinggi, Padang, Indonesia, authentic atmosphere, soft light, grainy texture, cinematic framing --ar 9:16 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 4 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 4 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-85c898b8d09f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-85c898b8d09f
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBSheia4g75ygxwS35mhhc7Kjh88uRX2cyGWciadpThCW89Fd2ibhHPicj52rxExlx1icO3JsKf3GevxjdlrQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 4" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+close-up photograph of an adult hand wearing a delicate ring and a linked bracelet gently holding a tiny baby's hand tightly gripping a finger, soft lighting, neutral warm gradient background, intimate moment. --chaos 20 --raw --profile zybkerf --stylize 300 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 10 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 10 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-a996c7a468bd/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-a996c7a468bd
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKK6rRFaOUS7BSq9S3azrhrt6Gunny9WjIEkymKA2Z0YOWfskKzZQHPpg/0?wx_fmt=jpeg&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 10" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A tired African woman in her mid-30s, wearing a faded patterned wrapper and simple headscarf, sits on a small stool outside a closed-down tailoring shop. An old sewing machine gathers dust beside her. Her face is weary, staring at a pile of unpaid bills in her hand. Two young African children, boy and girl (around 8 years old), stand nearby in slightly worn school uniforms, looking worried. The setting is a dusty, sun-bleached street. Cinematic sunlight casting long afternoon shadows, captured on a Canon EOS R5, photorealistic, emotional atmosphere. --ar 9:16 --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 18 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 18 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-b32d874f278c/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-b32d874f278c
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKK5YdTJKSKZrrlBNzqcwHvjStcMbiaoECqSQsR0VBnGocrEAiczIKTic7Lg/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 18" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+Chinese mother in her 30s with her 5-year-old son, standing together in warm embrace, wearing casual modern clothing, soft facial features, natural expression, clean white background, studio lighting, high detail portrait photography, 8k resolution, realistic style, warm color tones, minimalistic composition, focus on maternal love and family bond --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 13 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-bf48b42f6bc3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-bf48b42f6bc3
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKP2J2PnGu2v2uH4BVdljnE9ruxqdEHRoKYUgENYefic4N149HHvSgqJA/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 13" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A hyper-realistic 4K night scene in a forest road, where a crashed car is smoking slightly in the background. A tired-looking woman kneels beside a newborn baby she gently lays into a soft bush. Her face is full of tears and desperation. In the background, glowing tiger eyes appear through the dark trees. Realistic photo style, Canon EOS 5D Mark IV, 85mm lens, f/2.0, natural lighting --ar 9:16 --raw --v 7
+```
+
+</details>
+
+## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 1 · v1
+
+- [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 1 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-e3a5b6044827/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-e3a5b6044827
+
+原图文案例 · midjourney
+
+**待复核：尚无补充核查，不代表必要输入已齐全**
+
+自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
+
+**输出示例图**
+
+<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShcecXSQcACjl6pMe6hOkLKKEgtG2wqfibUNicnNBQOL5MSxq4o1Ip9AvrVpKwvC2wZsUcUMomhJD3hQ/0?wx_fmt=png&amp;from=appmsg" alt="周末特别版 | 母亲节专题 | 精选作品与提示 · 提示词 1" width="760">
+
+<details>
+<summary>展开完整提示词</summary>
+
+```text
+A heartwarming poster for Mother's Day, featuring an malaysian mother and daughter hugging each other in front of a table with pink carnation decorations. This poster captures both the love between generations and flowers as symbols of beauty and joy. Cinematic lighting, high-resolution photography, insanely detailed, fine details, stock photo. --ar 5:8 --raw --v 7
+```
+
+</details>
+
 ## 周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 9 · v1
 
 - [周末特别版 \| 母亲节专题 \| 精选作品与提示 · 提示词 9 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-ee6a449ddc46/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yXr3sVjHGQRGViuRN-ee6a449ddc46
@@ -217,382 +589,6 @@ porcelain koi with blue and white floral patterns swimming in clear blue water, 
 
 ```text
 Amsterdam skyline, canals and bridges, swirling brushstrokes, vibrant blues and yellows, starry night sky, post-impressionist style, style of Van Gogh's Starry Night --ar 2:3 --profile q7k1bgj --stylize 250 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 19 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-603c746a20ed/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-603c746a20ed
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaIGwlswQhicNNt3ia0GWnWpic2HzaC1OoIkRCHg7IzLySzTfwv6RaQvI8A/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 19" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-https://s.mj.run/CL4Dy4OdxGU https://s.mj.run/WG3ukVlnV5c Cute doodle styles, Thick line drawings, In the center of the forest is a large alien UFO, huge colorful cartoon explosion bursting outward, fragments of ship flying through the air, surprised aliens and shocked expressions watching, a simple line drawing in black, tall, skinny monster with one eye and two arms, cute cartoonish designs, minimalistic drawings, and a playful use of texture --ar 16:9 --sref https://s.mj.run/3D4bXE_WAIw https://s.mj.run/0TqqRNNoePI https://s.mj.run/TiczqaeYmE0 https://s.mj.run/Sk8_J1T87-Q https://s.mj.run/bApkalOkVac https://s.mj.run/CL4Dy4OdxGU --profile jryden7 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-789d3f551a15/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-789d3f551a15
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaiaUf8omzb8BENPpbLSsqFa2jpsmjYRLCIFWt5sTxUJzvJEcr58Sicuuw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 15" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A photo-realistic editorial fashion photo of a Japanese female model in a modern jacket and pants set inspired by juni-hitoe colors, plum, green, and scarlet tones layered subtly, standing in a bright white studio, one hand gently touching her chin, soft friendly gaze, light reflecting on smooth fabric, calm and elegant expression --ar 9:16 --raw --profile wpzlkaz --stylize 1000 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 12 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-7a50855f2752/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-7a50855f2752
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaEO6vSSxia4VGL5cQny78zMHXrEdXlWWlHb8ibv0DcXxXoKEEySzNISkQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 12" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-illustration. A barrel of monkeys wearing red ties. Americana, Use leading lines, rule of thirds. --stylize 750 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 20 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-85f7e24608b3/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-85f7e24608b3
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAa8b3DyiagXwyhjgOHU2oF5IuzLtrm8ofXAz0ibsBb5w3flD02Kq2tOwpw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAa2jggFksHI3H18zQC5E80xOuGj7iahYTZpSVQw0tlicRdsaVlAbqAOMibA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 20" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Miku Hatsune,3D cartoon --ar 9:16 --stylize 300 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-8648cc5ab0c1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-8648cc5ab0c1
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaPxWdGvW9vFswdjkNGmbjWXaCyTwa4tzlB1F3ia2QUYIpmCsPZibnicVng/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A dramatic 3D animated scene of a teenage boy in agrey hoodie** with "Street Surf" written across it,sprinting** through a dimly lit urban alley. The boy’s expression showspanic** andfocus** as he runs, with hissneakers** slapping the wet pavement. Behind him, achubby, overweight police officer** in a navy-blue uniform is chasing him with determination, showing a sense ofvictory**. The camera focuses on both characters with a dramatic, low-angle shot, emphasizing the tension of the chase. In thebackground**, the boy suddenlyfalls face-first onto the wet ground**, sprawled out in anatural tengkurap position** with his arms and legs bent in a realistic way. Hisgrey hoodie** is dirtied from the fall, and his expression showsshock and pain**. Theheadline "Street Surf"** is displayed in bold, large letters across the top of the thumbnail, adding an urban and rebellious feel. The alley is gritty, withgraffiti on the walls**, scattereddebris**, andyellow streetlamps** casting long shadows on the wet pavement, enhancing the dramatic atmosphere. The composition is intense, with both characters in the foreground and the background slightly blurred to create focus on the chase and fall. --ar 9:16 --profile 65puq6v --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-a0e564f6b27a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-a0e564f6b27a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaqNjlIrJw1yd3sZApTdczYtWiaZVjEWqcpicvQpf1OJ6VJCVGJCMI7lFw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A photorealistic DSLR photo capturing a heartwarming Mother's Day breakfast scene. On a cozy dining table under soft morning sunlight, a homemade omelette is served on a plate. The omelette is decorated with a heart shape and the words "Mother's Day" written with red ketchup. A smiling Japanese high school girl with a short haircut and sparkling eyes proudly presents the breakfast to her mother, a graceful woman in her early 40s with a warm, gentle smile. Natural lighting, realistic textures, detailed food presentation, family warmth, cozy and emotional atmosphere, --stylize 750 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 14 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-aa0bac4914d1/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-aa0bac4914d1
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaBu4CAaUEF7A7ibIyEhTdhG6dNuNglu1I9MNeXbicpiaAYUv09d9RF9wtQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 14" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Skeleton runner wearing a business suit sprinting across the finish line in a marathon, eerie and surreal atmosphere, urban street setting, cheering crowd in the background, dynamic motion of running, sunny day with a clear sky, smooth motion for video, 9:16 aspect ratio, cinematic lighting, highly detailed, realistic --ar 9:16 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 16 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-b125c145fb54/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-b125c145fb54
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaQsACd25D7kNCbHfWpRwhBo17icMhx3Pib0grEHqibHHIXMEDI58OwLibIQ/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 16" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Scenic stylistic image including a man and woman holding hands, symbolizing new beginnings and hope during dystopian times, using vibrant and deep jewel tones for iPad wallpaper --ar 3:4 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 17 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-b481789a3b5f/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-b481789a3b5f
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAa24tgiaWTsLibj0oWwdtsBf7PsUibibXT6N1wa0GvVrYxtosBLibsDge4QsA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 17" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Menger Sponge --stylize 750 --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-cb43a5d68a42/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-cb43a5d68a42
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAaPQltgp402b7W3NkVKakzdqlAnZic9wYAZodWKGRaRhZqQooDFstsTiaA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-A high-resolution, advertising-inspired shot of a chicken burger floating in the air, featuring layers of crispy chicken, fresh lettuce, cheese, and a sesame bun. Beside the burger, a sleek, fully visible sauce bottle stands upright, sharply focused to emphasize its glossy texture and vibrant label. The background showcases dynamic movement with swirling tomatoes and red chilies, adding energy and spice to the composition. Behind, intense flames create a bold, fiery atmosphere. Cinematic lighting with professional color grading enhances the rich tones and textures. The burger and sauce bottle are the primary focal points, with the lively background softly blurred for depth, capturing an intense, high-impact commercial visual." This should create a dynamic, vibrant look with the sauce bottle in sharp focus and energetic background elements. Let me know if you'd like to adjust anything! --v 7
-```
-
-</details>
-
-## Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1
-
-- [Vol\.177 - Midjourney \| 精选作品关键词提示 · 提示词 8 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-df44f7c3a3e5/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yeU20QP8nBNHoB3fn-df44f7c3a3e5
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShexb4HyORB8B13tia5YdUvAarNuNK44uFiaMgY8BvcreibjyNEl0Ex4Up8Zibvtj444vvNsImyFgbu5uA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.177 - Midjourney | 精选作品关键词提示 · 提示词 8" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Some paintings of ancient-style beauties in ultra-realistic style, such as the beauty dancing gracefully in the magnificent palace in the picture, with a top view composition, soft light, elegant atmosphere, wearing a gorgeous embroidered red silk dress, showing noble temperament, and a gentle and charming mood. Another example is the beauty sitting idly in the peaceful garden, with a close-up composition, bright light, exquisite style, wearing a pale green gauze dress, and the hair strands fluttering with the wind, with a carefree mood. --ar 9:16 --stylize 50 --v 7
-```
-
-</details>
-
-## Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1
-
-- [Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 7 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--062386213b7e/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--062386213b7e
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_jpg/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxW6qlE4McRnmFHgrJE2kweOWp7jMZbYY6ia6swUZNU1pPBxwACdVibyyA/0?wx_fmt=jpeg&amp;from=appmsg" alt="Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 7" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-Lionel Messi riding a small vintage moped through a dense forest, wearing a pink Inter Miami CF football shirt, looking over his shoulder with a panicked expression as he escapes from a massive, roaring bear chasing him. The bear is mid-sprint, claws out, mouth open. . Dust and leaves fly up from the forest floor. The lighting is dramatic and cinematic, with golden sunlight piercing through trees and a sense of intense motion. Photorealistic, dynamic composition, high detail, 8k --ar 9:16 --raw --stylize 300
-```
-
-</details>
-
-## Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1
-
-- [Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 3 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--0f93e9f3e0f9/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--0f93e9f3e0f9
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxh4ghsKGA5dviaAnb6f2ak52JfPRCBwbJISN0PRU3iaoSicmh7q9UUBMYA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 3" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-create an image of a beautiful chinese woman with curly hair in the old style fashion of 1930 shanghai, singing in a jazz band. front view, 8k quality, lighting candlight, color palette green and orang --ar 9:16
-```
-
-</details>
-
-## Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1
-
-- [Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 13 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--19eae2ef8b32/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--19eae2ef8b32
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxPEx5zIiakWa6DFRpG7sEwpyDLrnV2jR5K8icj90KT6rXo3B3Rlyk6tzA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxFgrw7LgiaxNQKIGqhIVibPEpXFGAOYAiaZicj0lr6xMk6e9DwIbGS6cPpA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 13" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-персонаж белый KAWS показывает лайк рукой, черный фон --stylize 750
-```
-
-</details>
-
-## Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1
-
-- [Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 5 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--20568b35ea74/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--20568b35ea74
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动从公众号原始 HTML 建立的高置信提示词—图片候选；尚未逐图人工核验。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHxbdyTpVEW8HvdK0zJZ1H7UeExhxDHlCrTZGz14RpnNbDXwdlcb2sJVw/0?wx_fmt=png&amp;from=appmsg" alt="Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 5" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-medium shot of a large terracotta army in front of a dark background, low sunlight hitting the statues, porous detailed texture, detailed and crisp, chiaroscuro style photo, artistic masterpiece, --chaos 18 --ar 3:4 --quality 2 --raw --profile jebhbwv
-```
-
-</details>
-
-## Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1
-
-- [Vol\.223 - Midjourney \| 精选作品关键词提示 · 提示词 15 · v1](../cases/case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--215f179cf20a/v1.md) — case-aiartworks-wechat-MP-WXS-3213802417-yv0xJ7-6cqahfjsT--215f179cf20a
-
-原图文案例 · midjourney
-
-**待复核：尚无补充核查，不代表必要输入已齐全**
-
-自动提取到提示词附近的图片，但图片—提示词关系仍需人工确认。
-
-**输出示例图**
-
-<img src="https://mmbiz.qpic.cn/sz_mmbiz_png/nJnY3ibQBShflQ19cv6rqW3ntX4X68lHx4uMhH6AO3f8RsvfDP5yTiayDZ1zcp63q0N573jcrOm1OzR5wT2CyvXA/0?wx_fmt=png&amp;from=appmsg" alt="Vol.223 - Midjourney | 精选作品关键词提示 · 提示词 15" width="760">
-
-<details>
-<summary>展开完整提示词</summary>
-
-```text
-lifelike velociraptor sprinting across dusty desert plain, motion blur, dynamic low angle, sharp focus on claws and eyes, hyperreal style --ar 9:16 --raw
 ```
 
 </details>

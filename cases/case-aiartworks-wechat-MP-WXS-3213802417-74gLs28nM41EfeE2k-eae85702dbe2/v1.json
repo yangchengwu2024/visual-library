@@ -1,0 +1,76 @@
+{
+  "archived_at": "2026-09-22T01:50:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAebPuybYFj12Tbr5oaeOg2G09681icrGN6K2iaTJVTWXvOS4f9VS3SWRMTl9JwYxvh23PlJxyIQHxxdcicR98YFZXqZkFH8U1Plw/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCYHMBoK5rELGB2G2Pbicp1EA474ScGktco00ph9JiavNNaRlJe8HrmmLbH6m3o51xF4YSxibpW4TlKBDCWhDSm0A6fRicjfy7Hgj4/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCGPBkc1akp4S2MgBgmIPLQLL26pKCQlNicG3IWyBZAduGoBibjCSnC7afL4q6pW7rmJsUG3lQ3XQVANIFntNTlRb8J99toxLW3M/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-eae85702dbe2",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "847a4f5c57b166bf204e84f0b22e036920d88d0b935aefdafab79fac8e453e68",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "profile": "8ox7eud",
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "группа ангелов летят над застывшим озером, погода новооодняя, снег хлопьями, new york nature, ангелы с короткой стрижкой и стильно уложенными волосами --ar 3:4 --profile 8ox7eud --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WAebPuybYFj12Tbr5oaeOg2G09681icrGN6K2iaTJVTWXvOS4f9VS3SWRMTl9JwYxvh23PlJxyIQHxxdcicR98YFZXqZkFH8U1Plw/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCYHMBoK5rELGB2G2Pbicp1EA474ScGktco00ph9JiavNNaRlJe8HrmmLbH6m3o51xF4YSxibpW4TlKBDCWhDSm0A6fRicjfy7Hgj4/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCGPBkc1akp4S2MgBgmIPLQLL26pKCQlNicG3IWyBZAduGoBibjCSnC7afL4q6pW7rmJsUG3lQ3XQVANIFntNTlRb8J99toxLW3M/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+      }
+    ],
+    "attribution": "WeChat public account（微信公众号）",
+    "revision": "scheduled-20260922-095042",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0014",
+    "source_metadata": {
+      "association_confidence": "high",
+      "image_storage": "external_url",
+      "source_account": "",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 15",
+  "version": "v1"
+}

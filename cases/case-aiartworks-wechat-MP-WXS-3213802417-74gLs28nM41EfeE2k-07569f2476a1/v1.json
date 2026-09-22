@@ -1,0 +1,101 @@
+{
+  "archived_at": "2026-09-22T01:50:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBLNnhB162SgHNzIcmdy4oKicqvXLOoLDiadea6vZQicCdLibvEiaLiaLrlo4ia1ibkPMNWSz4uoIgpfic5TDOwEDBsbeNqaAXXwicXohHo4/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAexDwflj7f90ZdXpAm0o0gHy1ycNPlqc1G9onWDwApLcjxjc8l5uh1JImiavxJGNSt06E0X6QC3kgHqBs9jHIugOQqFoibvIO2c/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBLAdtib9YWsRa2JAUGWSsWJJ8z8kBLjSpkvxWYB0z22ichUnA3xL4YQyPSRDHv5rwx998mBbRvF0XV2j7Mk33ceicAtTKZreSV5s/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCIkbpPzicDYCFrJu0699I32D7gNTLic4jqfPxtJx5aBgKul6Z9I50BMneUpFOdq2q91t2HODWYjia6oiaicvHLdGJYemmFopjH8v68/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-3"
+    },
+    {
+      "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCQ0zuCfS8B6j6Lt8tyqBkJ0rNUfia3JBLxzwVG2RZzZNVwmMibdWicBkfM5wYAgYAPBKepJmWgJtOtMx4WjaGB6v6CCMYckeXIlE/0?wx_fmt=jpeg",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-4"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-07569f2476a1",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "46986065fb35b836af5a92246304c9131d333297ac991769de7a58adfcc6d3b3",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "5:6",
+    "profile": "y26u4fj",
+    "raw": true,
+    "sref": [
+      "72946716"
+    ],
+    "stylize": "1000",
+    "v": "8.1"
+  },
+  "previous_version": null,
+  "prompt": "A modern rendition of 'The Temptation of Saint Anthony' featuring a giant papier mache sculpture of a clown's head in the Ah-Shi-Sle-Pah desert. --ar 5:6 --raw --sref 72946716 --profile y26u4fj --stylize 1000 --v 8.1",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WBLNnhB162SgHNzIcmdy4oKicqvXLOoLDiadea6vZQicCdLibvEiaLiaLrlo4ia1ibkPMNWSz4uoIgpfic5TDOwEDBsbeNqaAXXwicXohHo4/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAexDwflj7f90ZdXpAm0o0gHy1ycNPlqc1G9onWDwApLcjxjc8l5uh1JImiavxJGNSt06E0X6QC3kgHqBs9jHIugOQqFoibvIO2c/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBLAdtib9YWsRa2JAUGWSsWJJ8z8kBLjSpkvxWYB0z22ichUnA3xL4YQyPSRDHv5rwx998mBbRvF0XV2j7Mk33ceicAtTKZreSV5s/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCIkbpPzicDYCFrJu0699I32D7gNTLic4jqfPxtJx5aBgKul6Z9I50BMneUpFOdq2q91t2HODWYjia6oiaicvHLdGJYemmFopjH8v68/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-3"
+      },
+      {
+        "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WCQ0zuCfS8B6j6Lt8tyqBkJ0rNUfia3JBLxzwVG2RZzZNVwmMibdWicBkfM5wYAgYAPBKepJmWgJtOtMx4WjaGB6v6CCMYckeXIlE/0?wx_fmt=jpeg",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-4"
+      }
+    ],
+    "attribution": "WeChat public account（微信公众号）",
+    "revision": "scheduled-20260922-095042",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0007",
+    "source_metadata": {
+      "association_confidence": "high",
+      "image_storage": "external_url",
+      "source_account": "",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 8",
+  "version": "v1"
+}

@@ -1,0 +1,83 @@
+{
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-f2b02a71f246",
+  "classification": {
+    "categories": [
+      "其他应用场景"
+    ],
+    "scenes": [],
+    "source_category": "Other Use Cases",
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "styles": [],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_png/BcwWuR022WCAxI5mHGGia2vtkSYRagtqQJo90sicrd9fMm0nbArMJF3j5HfMOfQWvYSVnOVNKeWXWTNd9LsBo1dDKhomYQibZibXelOaFBEia0zg/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WC052Ldx1AnX0slfoxCxou9z8jE0QmCR6XtEayZ8sM03YDomJp9zic3RnSHnHFpKyiaG321vHlE8jhsKNuic12c5VomUgDmXg4Zicg/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-1"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WBDdIbHVSHyLYRCtax3iczLqxXMxQLZPoYKCUmDNTWvTqD5V0KT2CTUQFaPkKUjA9VJetoxkqJic3P9mKeZ2Uoe7ZnXEBoCL466M/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-2"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/sz_mmbiz_jpg/BcwWuR022WAE4y6pUMvNo96f3glerQRHicLAlmI7LwYG9WccDUvoEzkQvBWTBc6vJ4x2xXJUicsu0bAPRicBxBIFpoS6FedS3icSlbImjGNrCIg/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-3"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WAicHcPjKhicVfbyZye3m4ia6clhw6UvSKEmsrywC7Sgy3icYay3zv58bZ7UlbfoZZRueBiaa3ZicGx2BKPyLEhCzp04EB9Twa2hXOrQ/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-4"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_jpg/BcwWuR022WCUwDERibwVjCKfZfocslOdvcBHGr4KWtJkmO0iaMUHjdOo76rkkpBZ0Ad8fyQbl5IXjyhrPGokXvoLobia0sHe3QvwUkibfgic76XA/0?wx_fmt=jpeg",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-5"
+        },
+        {
+          "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WDibiaGO15O1UicsbrspQdCgcVP5R3YFdwFUSIWabiajE29INVERnEaZqJJ1ZtVCMbYgziabZP1QXUq8kFFKf1RsOclbmFImIR4Esm0/0?wx_fmt=png",
+          "role": "output",
+          "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-6"
+        }
+      ],
+      "attribution": "WeChat public account（微信公众号）",
+      "revision": "scheduled-20260922-095042",
+      "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+      "source": "aiartworks-wechat",
+      "source_category": "Other Use Cases",
+      "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0009",
+      "source_metadata": {
+        "association_confidence": "high",
+        "image_storage": "external_url",
+        "source_account": "",
+        "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+        "source_type": "wechat_public_account"
+      },
+      "source_tags": {
+        "scenes": [],
+        "styles": []
+      },
+      "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+      "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10",
+      "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+      "version": "v1"
+    }
+  ],
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10",
+  "title_aliases": [
+    "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 10"
+  ]
+}

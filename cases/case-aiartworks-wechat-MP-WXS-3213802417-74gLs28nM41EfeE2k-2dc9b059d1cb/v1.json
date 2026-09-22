@@ -1,0 +1,86 @@
+{
+  "archived_at": "2026-09-22T01:50:45+00:00",
+  "assets": [
+    {
+      "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WA3W6HPYVyTZDoy9psiaibuFgibw9biaD2yF8hKKYwToVEjZ8wtFsRjKOGHHw22auaxh00JlPjvkH0YF8IZb2ft6meicJYe3yEobNX8/0?wx_fmt=png",
+      "role": "output",
+      "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+    }
+  ],
+  "case_id": "case-aiartworks-wechat-MP-WXS-3213802417-74gLs28nM41EfeE2k-2dc9b059d1cb",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "f70adae86bd860ca1e22152a3666c4c231e3811f503e9f3838ebd62642145577",
+  "model": "Midjourney",
+  "parameters": {
+    "ar": "3:4",
+    "hd": true,
+    "no": [
+      "plant",
+      "stem,",
+      "stem,",
+      "stalk,",
+      "branch,",
+      "vine,",
+      "support",
+      "pole,",
+      "floor,",
+      "ground,",
+      "shadow,",
+      "shadows,",
+      "cast",
+      "shadow,",
+      "drop",
+      "shadow,",
+      "reflection,",
+      "floor",
+      "reflection,",
+      "gradient,",
+      "texture,",
+      "real",
+      "human,",
+      "photo",
+      "of",
+      "human"
+    ],
+    "profile": "yat1w8c",
+    "raw": true,
+    "v": "8.2"
+  },
+  "previous_version": null,
+  "prompt": "Macro isolated designer art toy asset, flat seamless solid pure white background, zero shadows. A luxury collectible 2.5 head tall chibi Weeping Willow fairy figurine floating in a delicate S curve breeze posture. One tiny hand touches a dangling golden hairpin bead near her ear; the other softly holds her fluttering translucent silk ribbon hem. Head tilted, serene closed eyes, quiet contemplation. Open front capelet with flowing wing sleeves in semi translucent frosted willow green sea glass resin. Tiny 18k polished gold filigree hairpin. Wispy bangs and sculptural coiled topknots in matte ivory porcelain frame chubby cheeks. Lower body flares into a puffy bell shaped skirt in layered translucent celadon glass with fine petal ribs. Macro sharp focus, soft jade green glass translucency, delicate specular highlights on gold jewelry, even ambient studio lighting. --no plant stem, stem, stalk, branch, vine, support pole, floor, ground, shadow, shadows, cast shadow, drop shadow, reflection, floor reflection, gradient, texture, real human, photo of human --ar 3:4 --raw --profile yat1w8c --hd --v 8.2",
+  "provenance": {
+    "asset_sources": [
+      {
+        "remote_url": "https://mmbiz.qpic.cn/mmbiz_png/BcwWuR022WA3W6HPYVyTZDoy9psiaibuFgibw9biaD2yF8hKKYwToVEjZ8wtFsRjKOGHHw22auaxh00JlPjvkH0YF8IZb2ft6meicJYe3yEobNX8/0?wx_fmt=png",
+        "role": "output",
+        "source_path": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g#image-0"
+      }
+    ],
+    "attribution": "WeChat public account（微信公众号）",
+    "revision": "scheduled-20260922-095042",
+    "rights": "公开公众号来源；传播和再分发权利未独立核验。",
+    "source": "aiartworks-wechat",
+    "source_category": "Other Use Cases",
+    "source_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g:prompt-0001",
+    "source_metadata": {
+      "association_confidence": "high",
+      "image_storage": "external_url",
+      "source_account": "",
+      "source_review_id": "MP_WXS_3213802417_74gLs28nM41EfeE2kMCC1g",
+      "source_type": "wechat_public_account"
+    },
+    "source_tags": {
+      "scenes": [],
+      "styles": []
+    },
+    "source_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0",
+    "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2",
+    "upstream_url": "https://mp.weixin.qq.com/s?__biz=MzIxMzgwMjQxNw==&mid=2247511196&idx=1&sn=ff822e3ac31070597fe8b7e2b6d37fb5&scene=58&subscene=0"
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "Vol.333-Midjourney 精选 | 决定性瞬间、大地艺术与苍蝇把戏 · 提示词 2",
+  "version": "v1"
+}
