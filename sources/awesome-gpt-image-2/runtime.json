@@ -1,7 +1,8 @@
 {
-  "checked_revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+  "checked_revision": "b93c18ad45397c828fcc39a1ed347830433b3de4",
   "scope_fingerprint": "9a70689492dd9a6b80203fbff578ef05906a733796626fc489b07282bcc8f9a2",
   "pending": 0,
-  "paused": false,
-  "applied_revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3"
+  "paused": true,
+  "applied_revision": "0dc09c46c8a30b1fdd89c18cc78a894dac2104e3",
+  "error": "KeyError: 'path'"
 }
