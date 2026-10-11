@@ -44,6 +44,9 @@ def asset_index(root):
             if len(sources) != len(body['assets']):
                 continue
             for source, asset in zip(sources, body['assets']):
+                # Remote-only assets have no archived bytes to reuse.
+                if asset.get('remote_url'):
+                    continue
                 file = root/asset['path']
                 if not file.is_file():
                     continue
