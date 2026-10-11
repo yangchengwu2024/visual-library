@@ -1,0 +1,96 @@
+{
+  "case_id": "case-face-references-commons-tony-leung-line-adf2120829bd",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "角色头像"
+    ],
+    "source_category": "Characters",
+    "source_tags": {
+      "scenes": [
+        "角色头像"
+      ],
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ]
+    },
+    "styles": [
+      "面貌线稿",
+      "脸部参考"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "face_reference",
+          "source_path": "tony-leung_line_512_q85.jpg"
+        },
+        {
+          "role": "line_master",
+          "source_path": "tony-leung_line_v1.png"
+        }
+      ],
+      "attribution": "Runawaymo — https://commons.wikimedia.org/wiki/File:Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)；AI 正面提线、缩小及压缩，衍生线稿同许可。",
+      "license": "CC BY-SA 4.0",
+      "revision": "manual-2026-10-12-v1",
+      "source": "face-references-commons",
+      "source_category": "Characters",
+      "source_id": "tony-leung-line",
+      "source_metadata": {
+        "actual_model": null,
+        "author": "Runawaymo",
+        "derivative_bytes": 27486,
+        "derivative_sha256": "ea80206b7b52dae2c21014409b471037f88c3f6749057a10a9a428c9d8fabda0",
+        "derivative_size": [
+          341,
+          512
+        ],
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "master_bytes": 1544064,
+        "master_sha256": "39cfda06c86197e58656db94d72d60e80c79427f4db234384479f7b7cb247f03",
+        "master_size": [
+          1024,
+          1536
+        ],
+        "method": "image_gen",
+        "modifications": "AI-assisted frontal line reconstruction; proportionate resize and JPEG compression. Derivatives distributed under the original CC BY-SA license.",
+        "pose_note": "由倾斜／偏侧照片近似重建正面，非原生正面测量",
+        "processing": {
+          "encoding": "JPEG",
+          "long_edge": 512,
+          "optimize": true,
+          "quality": 85,
+          "resampling": "Pillow LANCZOS, proportional resize",
+          "seconds": 0.034632
+        },
+        "source_case_id": "case-face-references-commons-tony-leung-photo-b1ac890bf1b0",
+        "source_sha256": "43a555af8a1bb8da0f8c3db331108a61cbe26bc60a6b7ee93a4b060153997396",
+        "source_version": "v1",
+        "visual_review": "成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。"
+      },
+      "source_tags": {
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg",
+      "title": "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。",
+      "upstream_url": null,
+      "version": "v1"
+    }
+  ],
+  "title": "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。",
+  "title_aliases": [
+    "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。"
+  ]
+}

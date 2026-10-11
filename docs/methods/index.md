@@ -4,5 +4,6 @@
 
 - [单品广告：暖金材质与荧光 Y2K 多品广告](product-visual-selection.md)
 - [角色设定：概念板与输入依赖](character-sheet-selection.md)
+- [面貌线稿参考：准备、收录与实际取图](face-references.md)
 
-每个判断都链接到具体案例和版本；使用时仍应先查看图片、完整 prompt、复核状态和输入要求。
+每个判断都链接到具体案例和版本；使用时先查看图片、来源、复核状态和输入要求；图文案例还应读取完整 prompt。

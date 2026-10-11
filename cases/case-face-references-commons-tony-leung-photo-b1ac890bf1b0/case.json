@@ -1,0 +1,65 @@
+{
+  "case_id": "case-face-references-commons-tony-leung-photo-b1ac890bf1b0",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "面貌出处"
+    ],
+    "source_category": "Characters",
+    "source_tags": {
+      "scenes": [
+        "面貌出处"
+      ],
+      "styles": [
+        "照片"
+      ]
+    },
+    "styles": [
+      "照片"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_photo",
+          "source_path": "File:Tony Leung at Shanghai International Film Festival 2026 01.jpg"
+        }
+      ],
+      "attribution": "Runawaymo — https://commons.wikimedia.org/wiki/File:Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg — CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0)；原始照片字节未修改。",
+      "license": "CC BY-SA 4.0",
+      "revision": "manual-2026-10-12-v1",
+      "source": "face-references-commons",
+      "source_category": "Characters",
+      "source_id": "tony-leung-photo",
+      "source_metadata": {
+        "author": "Runawaymo",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "file_title": "File:Tony Leung at Shanghai International Film Festival 2026 01.jpg",
+        "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+        "rights_note": "许可覆盖图片版权；来源的人物权利提示另按实际用途保留。",
+        "source_sha256": "43a555af8a1bb8da0f8c3db331108a61cbe26bc60a6b7ee93a4b060153997396"
+      },
+      "source_tags": {
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "source_url": "https://commons.wikimedia.org/wiki/File:Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg",
+      "title": "梁朝伟 来源照片",
+      "upstream_url": null,
+      "version": "v1"
+    }
+  ],
+  "title": "梁朝伟 来源照片",
+  "title_aliases": [
+    "梁朝伟 来源照片"
+  ]
+}

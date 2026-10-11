@@ -12,6 +12,8 @@
 
 四个工具：`search_cases`（关键词/类别/标签/偏好标签/全文/来源证据/收藏）、`get_case`（指定版本的完整原文和来源）、`get_case_image`（实际图片内容与原图链接）、`list_catalog`（分类、别名与模板）。关键词和必须标签为组合匹配，偏好标签只提高排序，`include_source` 才会加入来源证据文本；不能把它称为视觉语义搜索。已支持model_family、artist、movement、material、record_type、review_status筛选，并显示资料类型、复核状态、有效标签和命中字段。
 
+面貌线稿可通过用途和有效标签检索，新 `image_reference` 与旧案例中的适用图片都可取用，按案例ID、版本和图片索引读取实际图片。没有实际提示词的图片参考保留空值；生成式提线的完整实际提示词随详情读取。源图、处理与取图说明见[面貌线稿参考资料](methods/face-references.md)。
+
 检索先返回轻量结果，再按ID和版本读取图文。每条结果带自有仓库commit；后续传入expected_commit可防重连后换快照。默认最新版本只指当前快照内的最新完整版本，指定不存在的vN会报错，不回退。
 
 ## 数据与程序

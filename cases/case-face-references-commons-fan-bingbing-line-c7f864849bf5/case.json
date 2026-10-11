@@ -1,0 +1,96 @@
+{
+  "case_id": "case-face-references-commons-fan-bingbing-line-c7f864849bf5",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "角色头像"
+    ],
+    "source_category": "Characters",
+    "source_tags": {
+      "scenes": [
+        "角色头像"
+      ],
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ]
+    },
+    "styles": [
+      "面貌线稿",
+      "脸部参考"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "face_reference",
+          "source_path": "fan-bingbing_line_512_q85.jpg"
+        },
+        {
+          "role": "line_master",
+          "source_path": "fan-bingbing_line_v1.png"
+        }
+      ],
+      "attribution": "Georges Biard — https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)；AI 正面提线、缩小及压缩，衍生线稿同许可。",
+      "license": "CC BY-SA 3.0",
+      "revision": "manual-2026-10-12-v1",
+      "source": "face-references-commons",
+      "source_category": "Characters",
+      "source_id": "fan-bingbing-line",
+      "source_metadata": {
+        "actual_model": null,
+        "author": "Georges Biard",
+        "derivative_bytes": 23262,
+        "derivative_sha256": "588b9b827cc06d073173b018e0970121d66efa360c98bf8e251c1e558fba5951",
+        "derivative_size": [
+          341,
+          512
+        ],
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "master_bytes": 1535561,
+        "master_sha256": "64a60ea049f1dbd108bb773d6fef32b6c7f8b0fab74be25e23fe49c5342e84af",
+        "master_size": [
+          1024,
+          1536
+        ],
+        "method": "image_gen",
+        "modifications": "AI-assisted frontal line reconstruction; proportionate resize and JPEG compression. Derivatives distributed under the original CC BY-SA license.",
+        "pose_note": "由倾斜／偏侧照片近似重建正面，非原生正面测量",
+        "processing": {
+          "encoding": "JPEG",
+          "long_edge": 512,
+          "optimize": true,
+          "quality": 85,
+          "resampling": "Pillow LANCZOS, proportional resize",
+          "seconds": 0.056252
+        },
+        "source_case_id": "case-face-references-commons-fan-bingbing-photo-946c0f218ee6",
+        "source_sha256": "b8bb2a2979321355feb16b6e4fa363c4c13bcc249a3b31b7d7feae01112d41c8",
+        "source_version": "v1",
+        "visual_review": "上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。"
+      },
+      "source_tags": {
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "source_url": "https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg",
+      "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+      "upstream_url": null,
+      "version": "v1"
+    }
+  ],
+  "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+  "title_aliases": [
+    "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。"
+  ]
+}

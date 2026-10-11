@@ -1,0 +1,96 @@
+{
+  "case_id": "case-face-references-commons-gong-li-line-9e210fce53ab",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "角色头像"
+    ],
+    "source_category": "Characters",
+    "source_tags": {
+      "scenes": [
+        "角色头像"
+      ],
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ]
+    },
+    "styles": [
+      "面貌线稿",
+      "脸部参考"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "face_reference",
+          "source_path": "gong-li_line_512_q85.jpg"
+        },
+        {
+          "role": "line_master",
+          "source_path": "gong-li_line_v1.png"
+        }
+      ],
+      "attribution": "Georges Biard — https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)；AI 正面提线、缩小及压缩，衍生线稿同许可。",
+      "license": "CC BY-SA 3.0",
+      "revision": "manual-2026-10-12-v1",
+      "source": "face-references-commons",
+      "source_category": "Characters",
+      "source_id": "gong-li-line",
+      "source_metadata": {
+        "actual_model": null,
+        "author": "Georges Biard",
+        "derivative_bytes": 26544,
+        "derivative_sha256": "2325eaa7f9ea24ccc42b7edb7494ab426afe3ea71d130eba911b99484fc4a786",
+        "derivative_size": [
+          341,
+          512
+        ],
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "master_bytes": 1537514,
+        "master_sha256": "51a4227c6b861e819c694ceed5c1928f7ed8c02f4c35705c7122c114114ecf0f",
+        "master_size": [
+          1024,
+          1536
+        ],
+        "method": "image_gen",
+        "modifications": "AI-assisted frontal line reconstruction; proportionate resize and JPEG compression. Derivatives distributed under the original CC BY-SA license.",
+        "pose_note": "由倾斜／偏侧照片近似重建正面，非原生正面测量",
+        "processing": {
+          "encoding": "JPEG",
+          "long_edge": 512,
+          "optimize": true,
+          "quality": 85,
+          "resampling": "Pillow LANCZOS, proportional resize",
+          "seconds": 0.033752
+        },
+        "source_case_id": "case-face-references-commons-gong-li-photo-12316cd82442",
+        "source_sha256": "b31e452ff1cc00dab133bfc686e07d18478045f187f2c431b31b16b4a19fb9e6",
+        "source_version": "v1",
+        "visual_review": "颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。"
+      },
+      "source_tags": {
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg",
+      "title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+      "upstream_url": null,
+      "version": "v1"
+    }
+  ],
+  "title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+  "title_aliases": [
+    "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。"
+  ]
+}

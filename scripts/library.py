@@ -28,7 +28,7 @@ RETRIEVAL_STATUSES = {"unreviewed", "confirmed", "needs_validation", "rejected"}
 RETRIEVAL_LABEL_FIELDS = ("categories", "styles", "scenes", "materials", "techniques")
 METADATA_ENUMS = {
     "model_family": {"gpt-image", "nano-banana", "midjourney", "unknown"},
-    "record_type": {"case", "style_reference", "keyword_reference"},
+    "record_type": {"case", "style_reference", "keyword_reference", "image_reference"},
     "review_status": {"verified", "needs_review", "missing_inputs"},
 }
 METADATA_FIELDS = (*METADATA_ENUMS, "model_version", "artists", "movements", "materials",
@@ -502,7 +502,8 @@ def _render_version(root, content):
                      "known model changed": "模型信息变化", "generation parameters changed": "生成参数变化",
                      "explicitly grouped variant; unknown parameters do not establish identical content": "归入关联版本，未知参数不能认定完全相同"}
     changes = "；".join(change_labels.get(x, x) for x in content["changes"])
-    record_labels = {"case": "案例", "style_reference": "风格参考", "keyword_reference": "关键词参考"}
+    record_labels = {"case": "案例", "style_reference": "风格参考", "keyword_reference": "关键词参考",
+                     "image_reference": "图片参考"}
     review_labels = {"verified": "已复核", "needs_review": "未补充复核 / 待复核", "missing_inputs": "缺少必要输入"}
     role_labels = {"input": "输入参考图", "input_reference": "输入参考图", "reference": "参考图",
                    "output": "输出效果图", "example": "来源示例图", "unknown": "角色待复核"}
@@ -540,7 +541,8 @@ def _render_version(root, content):
         image_ref = ("../../" + asset["path"] if asset.get("path") else asset.get("remote_url"))
         if image_ref:
             lines += ["![案例图片 " + str(number) + "](" + image_ref + ")", ""]
-    lines += ["## 完整提示词", "", fence + "text", prompt, fence, ""]
+    if prompt.strip():
+        lines += ["## 完整提示词", "", fence + "text", prompt, fence, ""]
     for language, variant in content.get("prompt_variants", {}).items():
         if variant == prompt:
             continue
@@ -615,7 +617,7 @@ def _rebuild(root):
         entry["title"] = _display_title(entry)
         entries.append(entry)
     catalog = {"schema_version": SCHEMA_VERSION, "case_count": len(entries),
-               "cases": [_light_entry(root, entry) for entry in entries]}
+               "cases": [_light_entry(root, entry) for entry in sorted(entries, key=lambda item: item["case_id"])]}
     _write(root / "indexes" / "catalog.json", catalog)
     import importlib.util
     spec = importlib.util.spec_from_file_location("visual_library_gallery", Path(__file__).with_name("gallery.py"))
@@ -701,7 +703,8 @@ def import_records(root, records, source, revision, *, lock=True, mode="snapshot
                     summary["shared_assets"] += int(shared)
                 except (OSError, ValueError, KeyError) as exc:
                     missing.append({"source_path": asset.get("source_path"), "reason": type(exc).__name__ + ": " + str(exc)})
-            if not record.get("prompt", "").strip():
+            if (record_metadata.get("record_type", "case") != "image_reference"
+                    and not record.get("prompt", "").strip()):
                 missing.append({"field": "prompt", "reason": "missing original prompt"})
             if not assets and record_metadata.get("record_type", "case") != "keyword_reference":
                 missing.append({"field": "assets", "reason": "no locally available images"})
@@ -1050,8 +1053,9 @@ def validate(root):
             if content["case_id"] != path.parent.name or content["version"] != path.stem:
                 errors.append(str(path.relative_to(root)) + ": identity mismatch")
             record_type = _case_metadata(root, content["case_id"], content["version"]).get("record_type", "case")
-            if content.get("status") != "complete" or not content["prompt"].strip() or (
-                    record_type != "keyword_reference" and not content["assets"]):
+            if (content.get("status") != "complete"
+                    or (record_type != "image_reference" and not content["prompt"].strip())
+                    or (record_type != "keyword_reference" and not content["assets"])):
                 errors.append(str(path.relative_to(root)) + ": invalid complete record")
             if content["fingerprint"] != _fingerprint(content):
                 errors.append(str(path.relative_to(root)) + ": content fingerprint mismatch")

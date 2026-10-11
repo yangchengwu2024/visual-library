@@ -7617,11 +7617,17 @@
 - [城市冰箱贴 · v1](../../cases/case-picotrex-nano-banana-selected-pro-case35-794ac658a42b/v1.md) — case-picotrex-nano-banana-selected-pro-case35-794ac658a42b — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 - [人物纸艺剪纸 · v1](../../cases/case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393/v1.md) — case-picotrex-nano-banana-selected-pro-case51-a2cb6bcef393 — 原图文案例；已记录补充核查结果；以详情中的输入要求为准
 
-### 尚未标注 · 5
+### 尚未标注 · 11
 
 - [雅致图案四款时尚单品设计 · v1](../../cases/case-awesome-gpt-image-2-216-2cfcd55d2b8f/v1.md) — awesome-gpt-image-2 \#216 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [街头炫瓶男模 · v1](../../cases/case-awesome-gpt-image-2-322-fe2ecd094f21/v1.md) — awesome-gpt-image-2 \#322 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [彩色按钮时尚 Campaign · v1](../../cases/case-awesome-gpt-image-2-412-153ba2a0cd43/v1.md) — awesome-gpt-image-2 \#412 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [企鹅造型包装结构板 · v1](../../cases/case-awesome-gpt-image-2-475-3597dcf846af/v1.md) — awesome-gpt-image-2 \#475 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
 - [Guadalajara 复古电影旅行海报 · v1](../../cases/case-awesome-gpt-image-2-515-d0b2a41614fd/v1.md) — awesome-gpt-image-2 \#515 — 原图文案例；待复核：尚无补充核查，不代表必要输入已齐全
+- [范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。 · v1](../../cases/case-face-references-commons-fan-bingbing-line-c7f864849bf5/v1.md) — case-face-references-commons-fan-bingbing-line-c7f864849bf5 — 图片参考；已记录补充核查结果；以详情中的输入要求为准
+- [范冰冰 来源照片 · v1](../../cases/case-face-references-commons-fan-bingbing-photo-946c0f218ee6/v1.md) — case-face-references-commons-fan-bingbing-photo-946c0f218ee6 — 图片参考；已记录补充核查结果；以详情中的输入要求为准
+- [巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。 · v1](../../cases/case-face-references-commons-gong-li-line-9e210fce53ab/v1.md) — case-face-references-commons-gong-li-line-9e210fce53ab — 图片参考；已记录补充核查结果；以详情中的输入要求为准
+- [巩俐 来源照片 · v1](../../cases/case-face-references-commons-gong-li-photo-12316cd82442/v1.md) — case-face-references-commons-gong-li-photo-12316cd82442 — 图片参考；已记录补充核查结果；以详情中的输入要求为准
+- [梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。 · v1](../../cases/case-face-references-commons-tony-leung-line-adf2120829bd/v1.md) — case-face-references-commons-tony-leung-line-adf2120829bd — 图片参考；已记录补充核查结果；以详情中的输入要求为准
+- [梁朝伟 来源照片 · v1](../../cases/case-face-references-commons-tony-leung-photo-b1ac890bf1b0/v1.md) — case-face-references-commons-tony-leung-photo-b1ac890bf1b0 — 图片参考；已记录补充核查结果；以详情中的输入要求为准
 

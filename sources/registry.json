@@ -161,6 +161,27 @@
       "policy": "manual_only",
       "adapter": null,
       "reason": "User-selected AIArtWorks public-account archive. Prompt records retain exact source text and approved WeChat image URLs; image rights and visual pairing remain explicitly marked for review."
+    },
+    {
+      "id": "face-references-commons",
+      "url": "https://commons.wikimedia.org",
+      "policy": "manual_only",
+      "scope": {
+        "kind": "selected",
+        "ids": [
+          "fan-bingbing-photo",
+          "fan-bingbing-line",
+          "gong-li-photo",
+          "gong-li-line",
+          "tony-leung-photo",
+          "tony-leung-line"
+        ]
+      },
+      "approval": {
+        "date": "2026-10-12",
+        "basis": "User authorized this face-reference archive implementation and autonomous execution; manually selected file-level CC BY-SA photographs and disclosed AI derivatives only.",
+        "review": "sources/face-references-commons/source-review.json"
+      }
     }
   ]
 }

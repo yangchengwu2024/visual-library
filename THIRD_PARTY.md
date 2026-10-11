@@ -13,3 +13,7 @@
 - Ezagor-dev/awesome-midjourney-prompts：仅8条，保存来源CC0-1.0声明与README。逐图作者/生成日志未披露，明示为来源声明，不作为独立权属保证。
 
 每个来源的source-review.json与固定commit下的upstream/manifest.json可回查原文、许可和下载摘要；原图文权利属于相应权利人。此项目不把第三方素材统一改标为自有原创或保证商业使用。公开范围不清的PDF与未选来源不因本次技术接入自动获得转载权限。
+
+## 面貌参考首批（2026-10-12）
+
+`face-references-commons` 手动收录三张照片与三条 AI 提线记录。范冰冰、巩俐照片作者 Georges Biard，CC BY-SA 3.0；梁朝伟照片作者 Runawaymo，CC BY-SA 4.0。每条记录保留原文件页、作者、许可链接及实际处理说明；生成线稿、母版和压缩版采用其来源的同一 CC BY-SA 许可。来源与处理清单见 [source-review](sources/face-references-commons/source-review.json)。来源许可不替代人物肖像等用途条件，也不表示人物或摄影作者认可本项目。

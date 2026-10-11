@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-10-11T16:16:06+00:00",
+  "assets": [
+    {
+      "bytes": 26544,
+      "path": "images/2325eaa7f9ea24ccc42b7edb7494ab426afe3ea71d130eba911b99484fc4a786.jpg",
+      "role": "face_reference",
+      "sha256": "2325eaa7f9ea24ccc42b7edb7494ab426afe3ea71d130eba911b99484fc4a786",
+      "source_path": "gong-li_line_512_q85.jpg"
+    },
+    {
+      "bytes": 1537514,
+      "path": "images/51a4227c6b861e819c694ceed5c1928f7ed8c02f4c35705c7122c114114ecf0f.png",
+      "role": "line_master",
+      "sha256": "51a4227c6b861e819c694ceed5c1928f7ed8c02f4c35705c7122c114114ecf0f",
+      "source_path": "gong-li_line_v1.png"
+    }
+  ],
+  "case_id": "case-face-references-commons-gong-li-line-9e210fce53ab",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "e3633ac315e365939aa0c3c559d6b9c8b2a0ed20f039f09fa39bdf4137d273d0",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "将照片中占主体的唯一人物提炼为独立的平视正面面貌结构线稿，供虚构角色设计取用。保留这张照片的脸型长宽、颧侧、下颌和下巴，眉形、眉眼关系、眼裂大小与眼距、鼻梁鼻尖鼻翼、嘴宽和唇形的可辨差异。将照片的偏侧或倾斜姿态近似重建为端正正面，左右五官来自同一面貌。表情自然，嘴唇闭合，嘴角轻微上扬。人物年龄感依照片保留，五官保持自然成人比例。\n只画完整脸、双耳、简洁头部外轮廓、颈和极少量肩线。眉眼鼻唇和脸侧边界用干净细黑线，鼻子和颊侧只用必要结构线，眼睛画眼睑、虹膜与瞳孔。全幅纯白底，脸部纯白，以轮廓和稀疏结构线表达。头发只用贴头的一条外轮廓与发际线表示，完整露出眉眼和两侧脸型。省略发束细丝、妆容纹理、睫毛密集刻画、肤色、灰阶、明暗、排线、摄影背景、首饰、帽子、服装细节、麦克风、其他人物和文字。\n2:3竖幅，头位于画面中央，头部最高处上方保留约10%白色空间，完整显示双耳和下巴。纯单人面貌结构线描，无文字、logo、水印。\n本张需特别保留的关系：较宽的颧侧与饱满面颊，舒展下颌，自然弧眉，细长眼裂、上眼睑弧度平顺，鼻尖圆润、鼻翼较舒展，嘴宽与饱满唇形。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "face_reference",
+        "source_path": "gong-li_line_512_q85.jpg"
+      },
+      {
+        "role": "line_master",
+        "source_path": "gong-li_line_v1.png"
+      }
+    ],
+    "attribution": "Georges Biard — https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)；AI 正面提线、缩小及压缩，衍生线稿同许可。",
+    "license": "CC BY-SA 3.0",
+    "revision": "manual-2026-10-12-v1",
+    "source": "face-references-commons",
+    "source_category": "Characters",
+    "source_id": "gong-li-line",
+    "source_metadata": {
+      "actual_model": null,
+      "author": "Georges Biard",
+      "derivative_bytes": 26544,
+      "derivative_sha256": "2325eaa7f9ea24ccc42b7edb7494ab426afe3ea71d130eba911b99484fc4a786",
+      "derivative_size": [
+        341,
+        512
+      ],
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "master_bytes": 1537514,
+      "master_sha256": "51a4227c6b861e819c694ceed5c1928f7ed8c02f4c35705c7122c114114ecf0f",
+      "master_size": [
+        1024,
+        1536
+      ],
+      "method": "image_gen",
+      "modifications": "AI-assisted frontal line reconstruction; proportionate resize and JPEG compression. Derivatives distributed under the original CC BY-SA license.",
+      "pose_note": "由倾斜／偏侧照片近似重建正面，非原生正面测量",
+      "processing": {
+        "encoding": "JPEG",
+        "long_edge": 512,
+        "optimize": true,
+        "quality": 85,
+        "resampling": "Pillow LANCZOS, proportional resize",
+        "seconds": 0.033752
+      },
+      "source_case_id": "case-face-references-commons-gong-li-photo-12316cd82442",
+      "source_sha256": "b31e452ff1cc00dab133bfc686e07d18478045f187f2c431b31b16b4a19fb9e6",
+      "source_version": "v1",
+      "visual_review": "颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。"
+    },
+    "source_tags": {
+      "scenes": [
+        "角色头像"
+      ],
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ]
+    },
+    "source_url": "https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg",
+    "title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+    "upstream_url": null
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+  "version": "v1"
+}

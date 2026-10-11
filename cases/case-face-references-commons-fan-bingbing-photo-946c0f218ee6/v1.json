@@ -1,0 +1,58 @@
+{
+  "archived_at": "2026-10-11T16:16:06+00:00",
+  "assets": [
+    {
+      "bytes": 58379,
+      "path": "images/b8bb2a2979321355feb16b6e4fa363c4c13bcc249a3b31b7d7feae01112d41c8.jpg",
+      "role": "source_photo",
+      "sha256": "b8bb2a2979321355feb16b6e4fa363c4c13bcc249a3b31b7d7feae01112d41c8",
+      "source_path": "File:Fan Bingbing.jpg"
+    }
+  ],
+  "case_id": "case-face-references-commons-fan-bingbing-photo-946c0f218ee6",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "89e183cfc6be86f8fef85bc9609a574f30b08e81aa7197cab4943b6e12e9b0a1",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "source_photo",
+        "source_path": "File:Fan Bingbing.jpg"
+      }
+    ],
+    "attribution": "Georges Biard — https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)；原始照片字节未修改。",
+    "license": "CC BY-SA 3.0",
+    "revision": "manual-2026-10-12-v1",
+    "source": "face-references-commons",
+    "source_category": "Characters",
+    "source_id": "fan-bingbing-photo",
+    "source_metadata": {
+      "author": "Georges Biard",
+      "download_url": "https://upload.wikimedia.org/wikipedia/commons/1/19/Fan_Bingbing.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "file_title": "File:Fan Bingbing.jpg",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "rights_note": "许可覆盖图片版权；来源的人物权利提示另按实际用途保留。",
+      "source_sha256": "b8bb2a2979321355feb16b6e4fa363c4c13bcc249a3b31b7d7feae01112d41c8"
+    },
+    "source_tags": {
+      "scenes": [
+        "面貌出处"
+      ],
+      "styles": [
+        "照片"
+      ]
+    },
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg",
+    "title": "范冰冰 来源照片",
+    "upstream_url": null
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "范冰冰 来源照片",
+  "version": "v1"
+}

@@ -1,0 +1,94 @@
+{
+  "archived_at": "2026-10-11T16:16:06+00:00",
+  "assets": [
+    {
+      "bytes": 23262,
+      "path": "images/588b9b827cc06d073173b018e0970121d66efa360c98bf8e251c1e558fba5951.jpg",
+      "role": "face_reference",
+      "sha256": "588b9b827cc06d073173b018e0970121d66efa360c98bf8e251c1e558fba5951",
+      "source_path": "fan-bingbing_line_512_q85.jpg"
+    },
+    {
+      "bytes": 1535561,
+      "path": "images/64a60ea049f1dbd108bb773d6fef32b6c7f8b0fab74be25e23fe49c5342e84af.png",
+      "role": "line_master",
+      "sha256": "64a60ea049f1dbd108bb773d6fef32b6c7f8b0fab74be25e23fe49c5342e84af",
+      "source_path": "fan-bingbing_line_v1.png"
+    }
+  ],
+  "case_id": "case-face-references-commons-fan-bingbing-line-c7f864849bf5",
+  "changes": [
+    "initial archive"
+  ],
+  "fingerprint": "16ab6915851beadd9f77bd7e1cce6da721a27546fd4c1d4653da13d38a2c7a05",
+  "model": null,
+  "parameters": null,
+  "previous_version": null,
+  "prompt": "将照片中占主体的唯一人物提炼为独立的平视正面面貌结构线稿，供虚构角色设计取用。保留这张照片的脸型长宽、颧侧、下颌和下巴，眉形、眉眼关系、眼裂大小与眼距、鼻梁鼻尖鼻翼、嘴宽和唇形的可辨差异。将照片的偏侧或倾斜姿态近似重建为端正正面，左右五官来自同一面貌。表情自然，嘴唇闭合，嘴角轻微上扬。人物年龄感依照片保留，五官保持自然成人比例。\n只画完整脸、双耳、简洁头部外轮廓、颈和极少量肩线。眉眼鼻唇和脸侧边界用干净细黑线，鼻子和颊侧只用必要结构线，眼睛画眼睑、虹膜与瞳孔。全幅纯白底，脸部纯白，以轮廓和稀疏结构线表达。头发只用贴头的一条外轮廓与发际线表示，完整露出眉眼和两侧脸型。省略发束细丝、妆容纹理、睫毛密集刻画、肤色、灰阶、明暗、排线、摄影背景、首饰、帽子、服装细节、麦克风、其他人物和文字。\n2:3竖幅，头位于画面中央，头部最高处上方保留约10%白色空间，完整显示双耳和下巴。纯单人面貌结构线描，无文字、logo、水印。\n本张需特别保留的关系：舒展的上半脸、较窄且收束的下颌与小下巴，细弧眉，较大的杏仁眼、清楚的上眼睑轮廓，小巧鼻尖，唇弓清楚、较饱满下唇。",
+  "provenance": {
+    "asset_sources": [
+      {
+        "role": "face_reference",
+        "source_path": "fan-bingbing_line_512_q85.jpg"
+      },
+      {
+        "role": "line_master",
+        "source_path": "fan-bingbing_line_v1.png"
+      }
+    ],
+    "attribution": "Georges Biard — https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)；AI 正面提线、缩小及压缩，衍生线稿同许可。",
+    "license": "CC BY-SA 3.0",
+    "revision": "manual-2026-10-12-v1",
+    "source": "face-references-commons",
+    "source_category": "Characters",
+    "source_id": "fan-bingbing-line",
+    "source_metadata": {
+      "actual_model": null,
+      "author": "Georges Biard",
+      "derivative_bytes": 23262,
+      "derivative_sha256": "588b9b827cc06d073173b018e0970121d66efa360c98bf8e251c1e558fba5951",
+      "derivative_size": [
+        341,
+        512
+      ],
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "master_bytes": 1535561,
+      "master_sha256": "64a60ea049f1dbd108bb773d6fef32b6c7f8b0fab74be25e23fe49c5342e84af",
+      "master_size": [
+        1024,
+        1536
+      ],
+      "method": "image_gen",
+      "modifications": "AI-assisted frontal line reconstruction; proportionate resize and JPEG compression. Derivatives distributed under the original CC BY-SA license.",
+      "pose_note": "由倾斜／偏侧照片近似重建正面，非原生正面测量",
+      "processing": {
+        "encoding": "JPEG",
+        "long_edge": 512,
+        "optimize": true,
+        "quality": 85,
+        "resampling": "Pillow LANCZOS, proportional resize",
+        "seconds": 0.056252
+      },
+      "source_case_id": "case-face-references-commons-fan-bingbing-photo-946c0f218ee6",
+      "source_sha256": "b8bb2a2979321355feb16b6e4fa363c4c13bcc249a3b31b7d7feae01112d41c8",
+      "source_version": "v1",
+      "visual_review": "上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。"
+    },
+    "source_tags": {
+      "scenes": [
+        "角色头像"
+      ],
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ]
+    },
+    "source_url": "https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg",
+    "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+    "upstream_url": null
+  },
+  "schema_version": 1,
+  "status": "complete",
+  "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+  "version": "v1"
+}

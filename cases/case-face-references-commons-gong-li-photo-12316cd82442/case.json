@@ -1,0 +1,65 @@
+{
+  "case_id": "case-face-references-commons-gong-li-photo-12316cd82442",
+  "classification": {
+    "categories": [
+      "人物与角色"
+    ],
+    "scenes": [
+      "面貌出处"
+    ],
+    "source_category": "Characters",
+    "source_tags": {
+      "scenes": [
+        "面貌出处"
+      ],
+      "styles": [
+        "照片"
+      ]
+    },
+    "styles": [
+      "照片"
+    ],
+    "tag_evidence": "source-provided; no independent visual verification"
+  },
+  "schema_version": 1,
+  "source_aliases": [
+    {
+      "asset_sources": [
+        {
+          "role": "source_photo",
+          "source_path": "File:Gong Li Cannes 2016.jpg"
+        }
+      ],
+      "attribution": "Georges Biard — https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg — CC BY-SA 3.0 (https://creativecommons.org/licenses/by-sa/3.0)；原始照片字节未修改。",
+      "license": "CC BY-SA 3.0",
+      "revision": "manual-2026-10-12-v1",
+      "source": "face-references-commons",
+      "source_category": "Characters",
+      "source_id": "gong-li-photo",
+      "source_metadata": {
+        "author": "Georges Biard",
+        "download_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Gong_Li_Cannes_2016.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+        "file_title": "File:Gong Li Cannes 2016.jpg",
+        "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+        "rights_note": "许可覆盖图片版权；来源的人物权利提示另按实际用途保留。",
+        "source_sha256": "b31e452ff1cc00dab133bfc686e07d18478045f187f2c431b31b16b4a19fb9e6"
+      },
+      "source_tags": {
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "source_url": "https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg",
+      "title": "巩俐 来源照片",
+      "upstream_url": null,
+      "version": "v1"
+    }
+  ],
+  "title": "巩俐 来源照片",
+  "title_aliases": [
+    "巩俐 来源照片"
+  ]
+}

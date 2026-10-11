@@ -1,11 +1,11 @@
 <!-- VISUAL-LIBRARY-GALLERY:START -->
 ![个人视觉资料库](assets/banner.svg)
 
-**7605 条资料 · 13 个分类 · 22 个模板**
+**7611 条资料 · 13 个分类 · 22 个模板**
 
 [打开完整画廊](docs/gallery.md) · [提示词模板](docs/templates.md)
 
-原图文案例 7178 · 风格参考 9 · 关键词资料 418。待复核 7058；缺少必要输入图 7。
+原图文案例 7178 · 风格参考 9 · 关键词资料 418 · 图片参考 6。待复核 7058；缺少必要输入图 7。
 
 [按模型浏览](docs/models/index.md) · [艺术家、流派与材质](docs/topics/index.md) · [复核说明](docs/collection-status.md) · [PDF关键词补遗](docs/pdf-keywords.md)
 
@@ -25,7 +25,7 @@
 <tr>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-photo.md"><img src="assets/category-covers/photo.jpg" alt="摄影与写实" width="220"></a><br><a href="docs/categories/cat-photo.md"><strong>摄影与写实</strong></a><br><sub>77 条资料</sub><br>人像、手机纪实、胶片质感和商业摄影。</td>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-illustration.md"><img src="assets/category-covers/illustration.jpg" alt="插画与艺术" width="220"></a><br><a href="docs/categories/cat-illustration.md"><strong>插画与艺术</strong></a><br><sub>79 条资料</sub><br>插画、艺术风格、材质实验和装饰画面。</td>
-<td width="33%" align="center" valign="top"><a href="docs/categories/cat-character.md"><img src="assets/category-covers/character.jpg" alt="人物与角色" width="220"></a><br><a href="docs/categories/cat-character.md"><strong>人物与角色</strong></a><br><sub>31 条资料</sub><br>角色设定、动作参考、卡牌和 3D 玩具。</td>
+<td width="33%" align="center" valign="top"><a href="docs/categories/cat-character.md"><img src="assets/category-covers/character.jpg" alt="人物与角色" width="220"></a><br><a href="docs/categories/cat-character.md"><strong>人物与角色</strong></a><br><sub>37 条资料</sub><br>角色设定、动作参考、卡牌和 3D 玩具。</td>
 </tr>
 <tr>
 <td width="33%" align="center" valign="top"><a href="docs/categories/cat-scene.md"><img src="assets/category-covers/scene.jpg" alt="场景与叙事" width="220"></a><br><a href="docs/categories/cat-scene.md"><strong>场景与叙事</strong></a><br><sub>22 条资料</sub><br>分镜、故事场景、直播画面和世界观叙事。</td>
@@ -43,14 +43,14 @@
 
 <table>
 <tr>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zPzH-X-jZnFUlKJyX-a6941e73ce6e/v1.md"><strong>Vol.46 - Midjourney | 精选作品关键词提示 · 提示词 10 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zPzH-X-jZnFUlKJyX-a6941e73ce6e</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-e03d0ff059c5/v1.md"><strong>Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 12 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-e03d0ff059c5</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-4352807076b3/v1.md"><strong>Vol.329-Midjourney 精选作品提示词与赏析 · 提示词 5 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zBlTkrjT5YRjaoEcx-4352807076b3</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-face-references-commons-tony-leung-photo-b1ac890bf1b0/v1.md"><img src="images/43a555af8a1bb8da0f8c3db331108a61cbe26bc60a6b7ee93a4b060153997396.jpg" alt="梁朝伟 来源照片" width="220"></a><br><a href="cases/case-face-references-commons-tony-leung-photo-b1ac890bf1b0/v1.md"><strong>梁朝伟 来源照片 · v1</strong></a><br><sub>case-face-references-commons-tony-leung-photo-b1ac890bf1b0</sub><br><sub>图片参考 · unknown</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-face-references-commons-tony-leung-line-adf2120829bd/v1.md"><img src="images/39cfda06c86197e58656db94d72d60e80c79427f4db234384479f7b7cb247f03.png" alt="梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。" width="220"></a><br><a href="cases/case-face-references-commons-tony-leung-line-adf2120829bd/v1.md"><strong>梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。 · v1</strong></a><br><sub>case-face-references-commons-tony-leung-line-adf2120829bd</sub><br><sub>图片参考 · unknown</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-face-references-commons-gong-li-photo-12316cd82442/v1.md"><img src="images/b31e452ff1cc00dab133bfc686e07d18478045f187f2c431b31b16b4a19fb9e6.jpg" alt="巩俐 来源照片" width="220"></a><br><a href="cases/case-face-references-commons-gong-li-photo-12316cd82442/v1.md"><strong>巩俐 来源照片 · v1</strong></a><br><sub>case-face-references-commons-gong-li-photo-12316cd82442</sub><br><sub>图片参考 · unknown</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
 </tr>
 <tr>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-0441b5b1c03c/v1.md"><strong>Vol.49 - Midjourney | 精选作品关键词提示 · 提示词 10 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-zABRJgCSJjITgZZG6-0441b5b1c03c</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-baee5a5e8983/v1.md"><strong>Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 15 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-baee5a5e8983</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
-<td width="33%" align="center" valign="top"><a href="cases/case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-594ea28a7fa5/v1.md"><strong>Vol.144 - Midjourney | 精选作品关键词提示 · 提示词 9 · v1</strong></a><br><sub>case-aiartworks-wechat-MP-WXS-3213802417-z-H-KPugphenGE4wI-594ea28a7fa5</sub><br><sub>关键词资料 · midjourney</sub><br><sub>待复核：尚无补充核查，不代表必要输入已齐全</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-face-references-commons-gong-li-line-9e210fce53ab/v1.md"><img src="images/51a4227c6b861e819c694ceed5c1928f7ed8c02f4c35705c7122c114114ecf0f.png" alt="巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。" width="220"></a><br><a href="cases/case-face-references-commons-gong-li-line-9e210fce53ab/v1.md"><strong>巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。 · v1</strong></a><br><sub>case-face-references-commons-gong-li-line-9e210fce53ab</sub><br><sub>图片参考 · unknown</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-face-references-commons-fan-bingbing-photo-946c0f218ee6/v1.md"><img src="images/b8bb2a2979321355feb16b6e4fa363c4c13bcc249a3b31b7d7feae01112d41c8.jpg" alt="范冰冰 来源照片" width="220"></a><br><a href="cases/case-face-references-commons-fan-bingbing-photo-946c0f218ee6/v1.md"><strong>范冰冰 来源照片 · v1</strong></a><br><sub>case-face-references-commons-fan-bingbing-photo-946c0f218ee6</sub><br><sub>图片参考 · unknown</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
+<td width="33%" align="center" valign="top"><a href="cases/case-face-references-commons-fan-bingbing-line-c7f864849bf5/v1.md"><img src="images/64a60ea049f1dbd108bb773d6fef32b6c7f8b0fab74be25e23fe49c5342e84af.png" alt="范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。" width="220"></a><br><a href="cases/case-face-references-commons-fan-bingbing-line-c7f864849bf5/v1.md"><strong>范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。 · v1</strong></a><br><sub>case-face-references-commons-fan-bingbing-line-c7f864849bf5</sub><br><sub>图片参考 · unknown</sub><br><sub>已记录补充核查结果；以详情中的输入要求为准</sub></td>
 </tr>
 </table>
 

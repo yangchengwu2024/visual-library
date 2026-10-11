@@ -134,6 +134,26 @@ class MCPLibraryTest(unittest.TestCase):
         self.assertEqual(catalog["taxonomy"]["aliases"]["人物"], "Characters")
         self.assertTrue(catalog["templates"]["templates"][0]["github_url"].endswith("docs/templates.md#portrait"))
 
+    def test_image_reference_without_prompt_is_retrieved_at_exact_commit(self):
+        record = copy.deepcopy(self.record)
+        record.update(source_id="face-reference", title="Face line reference", prompt="",
+                      metadata={"record_type": "image_reference", "review_status": "verified"},
+                      source_metadata={"source_record": "portrait-one", "method": "line extraction",
+                                       "processing": {"long_edge": 512, "quality": 85}})
+        library.import_records(self.root, [record], "fixture", "r3", mode="append")
+        case_id = library.stable_case_id("fixture", "face-reference")
+        result = self.snapshot.search_cases(record_type="image_reference")
+        self.assertEqual(result["commit"], COMMIT)
+        self.assertEqual([(x["case_id"], x["version"]) for x in result["cases"]], [(case_id, "v1")])
+        content = self.snapshot.get_case(case_id, "v1", COMMIT)["case"]
+        self.assertEqual((content["prompt"], content["record_type"]), ("", "image_reference"))
+        provenance = next(x for x in content["source_aliases"] if x.get("source_metadata"))
+        self.assertEqual(provenance["source_metadata"], record["source_metadata"])
+        image = self.snapshot.get_case_image(case_id, "v1", expected_commit=COMMIT)
+        self.assertEqual(image.structuredContent["sha256"], hashlib.sha256(self.source.read_bytes()).hexdigest())
+        with self.assertRaisesRegex(ValueError, "commit mismatch"):
+            self.snapshot.get_case_image(case_id, "v1", expected_commit="b" * 40)
+
     def test_refresh_callback_can_replace_fixed_snapshot_without_restarting_server(self):
         calls = []
 

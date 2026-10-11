@@ -1,0 +1,48 @@
+{
+  "asset_roles": [
+    {
+      "index": 0,
+      "reason": "用于角色设计的512 JPEG面貌起点",
+      "role": "reference"
+    },
+    {
+      "index": 1,
+      "reason": "生成式提线母版，供回查与重新派生规格",
+      "role": "output"
+    }
+  ],
+  "model_family": "unknown",
+  "record_type": "image_reference",
+  "retrieval": {
+    "aliases": [
+      "范冰冰"
+    ],
+    "description": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+    "effective_labels": {
+      "categories": [
+        "人物与角色"
+      ],
+      "scenes": [
+        "角色头像"
+      ],
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ]
+    },
+    "evidence": [
+      {
+        "basis": "image_review",
+        "note": "原图和线稿均实际查看；线稿为近似正面重建，有可辨差异。"
+      }
+    ],
+    "keywords": [
+      "面貌线稿",
+      "脸部参考",
+      "正面"
+    ],
+    "status": "confirmed",
+    "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。"
+  },
+  "review_status": "verified"
+}

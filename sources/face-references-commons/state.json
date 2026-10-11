@@ -1,0 +1,38 @@
+{
+  "last_success_revision": null,
+  "mappings": {
+    "fan-bingbing-line": {
+      "case_id": "case-face-references-commons-fan-bingbing-line-c7f864849bf5",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "fan-bingbing-photo": {
+      "case_id": "case-face-references-commons-fan-bingbing-photo-946c0f218ee6",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "gong-li-line": {
+      "case_id": "case-face-references-commons-gong-li-line-9e210fce53ab",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "gong-li-photo": {
+      "case_id": "case-face-references-commons-gong-li-photo-12316cd82442",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "tony-leung-line": {
+      "case_id": "case-face-references-commons-tony-leung-line-adf2120829bd",
+      "upstream_present": true,
+      "version": "v1"
+    },
+    "tony-leung-photo": {
+      "case_id": "case-face-references-commons-tony-leung-photo-b1ac890bf1b0",
+      "upstream_present": true,
+      "version": "v1"
+    }
+  },
+  "pending_count": 0,
+  "schema_version": 1,
+  "source": "face-references-commons"
+}

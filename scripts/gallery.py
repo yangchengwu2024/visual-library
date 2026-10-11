@@ -118,7 +118,8 @@ def _cards(cards):
 
 
 
-RECORD_LABELS = {"case": "原图文案例", "style_reference": "风格参考", "keyword_reference": "关键词资料"}
+RECORD_LABELS = {"case": "原图文案例", "style_reference": "风格参考", "keyword_reference": "关键词资料",
+                 "image_reference": "图片参考"}
 
 
 def _record_label(entry):
@@ -253,10 +254,12 @@ def _case_section(entry, content, document):
         lines += [_text(entry["review_note"]), ""]
     for asset in content.get("local_assets", []):
         role = {"input": "输入参考图", "output": "输出示例图", "example": "示例图", "reference": "风格参考图"}.get(asset.get("role"), "图片角色尚未确认")
+        if entry.get("record_type") == "image_reference" and asset.get("role") == "reference":
+            role = "参考图"
         image_ref = asset.get("path") or asset.get("remote_url")
         lines += ["**" + role + "**", "", _image(image_ref, document, title, 760), ""]
     prompt = content.get("prompt")
-    if isinstance(prompt, str):
+    if isinstance(prompt, str) and prompt.strip():
         fence = "`" * max(3, max((len(match.group(0)) + 1 for match in re.finditer(r"`+", prompt)), default=3))
         lines += ["<details>", "<summary>\u5c55\u5f00\u5b8c\u6574\u63d0\u793a\u8bcd</summary>", "",
                   fence + "text", prompt, fence, "", "</details>", ""]

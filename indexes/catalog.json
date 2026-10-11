@@ -1,5 +1,5 @@
 {
-  "case_count": 7605,
+  "case_count": 7611,
   "cases": [
     {
       "archived_at": "2026-09-21T11:39:44+00:00",
@@ -454946,6 +454946,618 @@
             "initial archive"
           ],
           "path": "cases/case-ezagor-awesome-midjourney-prompts-wolf-cubs-coloring-book-273825875da9/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-10-11T16:16:06+00:00",
+      "artists": [],
+      "case_id": "case-face-references-commons-fan-bingbing-line-c7f864849bf5",
+      "categories": [
+        "人物与角色"
+      ],
+      "detail_path": "cases/case-face-references-commons-fan-bingbing-line-c7f864849bf5/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "effective_status": "complete",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-face-references-commons-fan-bingbing-line-c7f864849bf5/v1.json",
+      "model": null,
+      "model_family": "unknown",
+      "model_version": null,
+      "movements": [],
+      "record_type": "image_reference",
+      "retrieval": {
+        "aliases": [
+          "范冰冰"
+        ],
+        "description": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "角色头像"
+          ],
+          "styles": [
+            "面貌线稿",
+            "脸部参考"
+          ]
+        },
+        "evidence_count": 1,
+        "keywords": [
+          "面貌线稿",
+          "脸部参考",
+          "正面"
+        ],
+        "status": "confirmed",
+        "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。"
+      },
+      "review_status": "verified",
+      "review_summary": "",
+      "scenes": [
+        "角色头像"
+      ],
+      "source_category": "Characters",
+      "source_evidence": [
+        {
+          "revision": "manual-2026-10-12-v1",
+          "source": "face-references-commons",
+          "source_id": "fan-bingbing-line",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg",
+          "upstream_url": null,
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "source_title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+      "sources": [
+        "face-references-commons"
+      ],
+      "status": "complete",
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ],
+      "techniques": [],
+      "title": "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。",
+      "title_aliases": [
+        "范冰冰 面貌线稿｜上半脸舒展、下颌收束、小下巴，较大杏仁眼，小鼻尖，清楚唇弓；侧分发型线仍较多。"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-face-references-commons-fan-bingbing-line-c7f864849bf5/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-10-11T16:16:06+00:00",
+      "artists": [],
+      "case_id": "case-face-references-commons-fan-bingbing-photo-946c0f218ee6",
+      "categories": [
+        "人物与角色"
+      ],
+      "detail_path": "cases/case-face-references-commons-fan-bingbing-photo-946c0f218ee6/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "effective_status": "complete",
+      "image_count": 1,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-face-references-commons-fan-bingbing-photo-946c0f218ee6/v1.json",
+      "model": null,
+      "model_family": "unknown",
+      "model_version": null,
+      "movements": [],
+      "record_type": "image_reference",
+      "retrieval": {
+        "aliases": [
+          "范冰冰"
+        ],
+        "description": "范冰冰 来源照片",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "面貌出处"
+          ],
+          "styles": [
+            "照片"
+          ]
+        },
+        "evidence_count": 1,
+        "keywords": [
+          "来源照片"
+        ],
+        "status": "confirmed",
+        "title": "范冰冰 来源照片"
+      },
+      "review_status": "verified",
+      "review_summary": "",
+      "scenes": [
+        "面貌出处"
+      ],
+      "source_category": "Characters",
+      "source_evidence": [
+        {
+          "revision": "manual-2026-10-12-v1",
+          "source": "face-references-commons",
+          "source_id": "fan-bingbing-photo",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Fan_Bingbing.jpg",
+          "upstream_url": null,
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "source_title": "范冰冰 来源照片",
+      "sources": [
+        "face-references-commons"
+      ],
+      "status": "complete",
+      "styles": [
+        "照片"
+      ],
+      "techniques": [],
+      "title": "范冰冰 来源照片",
+      "title_aliases": [
+        "范冰冰 来源照片"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-face-references-commons-fan-bingbing-photo-946c0f218ee6/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-10-11T16:16:06+00:00",
+      "artists": [],
+      "case_id": "case-face-references-commons-gong-li-line-9e210fce53ab",
+      "categories": [
+        "人物与角色"
+      ],
+      "detail_path": "cases/case-face-references-commons-gong-li-line-9e210fce53ab/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "effective_status": "complete",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-face-references-commons-gong-li-line-9e210fce53ab/v1.json",
+      "model": null,
+      "model_family": "unknown",
+      "model_version": null,
+      "movements": [],
+      "record_type": "image_reference",
+      "retrieval": {
+        "aliases": [
+          "巩俐"
+        ],
+        "description": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "角色头像"
+          ],
+          "styles": [
+            "面貌线稿",
+            "脸部参考"
+          ]
+        },
+        "evidence_count": 1,
+        "keywords": [
+          "面貌线稿",
+          "脸部参考",
+          "正面"
+        ],
+        "status": "confirmed",
+        "title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。"
+      },
+      "review_status": "verified",
+      "review_summary": "",
+      "scenes": [
+        "角色头像"
+      ],
+      "source_category": "Characters",
+      "source_evidence": [
+        {
+          "revision": "manual-2026-10-12-v1",
+          "source": "face-references-commons",
+          "source_id": "gong-li-line",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg",
+          "upstream_url": null,
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "source_title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+      "sources": [
+        "face-references-commons"
+      ],
+      "status": "complete",
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ],
+      "techniques": [],
+      "title": "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。",
+      "title_aliases": [
+        "巩俐 面貌线稿｜颧侧较宽、饱满面颊、舒展下颌，细长眼裂，鼻翼舒展、唇形饱满；长发轮廓及脸侧小痣保留。"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-face-references-commons-gong-li-line-9e210fce53ab/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-10-11T16:16:06+00:00",
+      "artists": [],
+      "case_id": "case-face-references-commons-gong-li-photo-12316cd82442",
+      "categories": [
+        "人物与角色"
+      ],
+      "detail_path": "cases/case-face-references-commons-gong-li-photo-12316cd82442/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "effective_status": "complete",
+      "image_count": 1,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-face-references-commons-gong-li-photo-12316cd82442/v1.json",
+      "model": null,
+      "model_family": "unknown",
+      "model_version": null,
+      "movements": [],
+      "record_type": "image_reference",
+      "retrieval": {
+        "aliases": [
+          "巩俐"
+        ],
+        "description": "巩俐 来源照片",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "面貌出处"
+          ],
+          "styles": [
+            "照片"
+          ]
+        },
+        "evidence_count": 1,
+        "keywords": [
+          "来源照片"
+        ],
+        "status": "confirmed",
+        "title": "巩俐 来源照片"
+      },
+      "review_status": "verified",
+      "review_summary": "",
+      "scenes": [
+        "面貌出处"
+      ],
+      "source_category": "Characters",
+      "source_evidence": [
+        {
+          "revision": "manual-2026-10-12-v1",
+          "source": "face-references-commons",
+          "source_id": "gong-li-photo",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Gong_Li_Cannes_2016.jpg",
+          "upstream_url": null,
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "source_title": "巩俐 来源照片",
+      "sources": [
+        "face-references-commons"
+      ],
+      "status": "complete",
+      "styles": [
+        "照片"
+      ],
+      "techniques": [],
+      "title": "巩俐 来源照片",
+      "title_aliases": [
+        "巩俐 来源照片"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-face-references-commons-gong-li-photo-12316cd82442/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-10-11T16:16:07+00:00",
+      "artists": [],
+      "case_id": "case-face-references-commons-tony-leung-line-adf2120829bd",
+      "categories": [
+        "人物与角色"
+      ],
+      "detail_path": "cases/case-face-references-commons-tony-leung-line-adf2120829bd/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "effective_status": "complete",
+      "image_count": 2,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-face-references-commons-tony-leung-line-adf2120829bd/v1.json",
+      "model": null,
+      "model_family": "unknown",
+      "model_version": null,
+      "movements": [],
+      "record_type": "image_reference",
+      "retrieval": {
+        "aliases": [
+          "梁朝伟"
+        ],
+        "description": "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "角色头像"
+          ],
+          "styles": [
+            "面貌线稿",
+            "脸部参考"
+          ]
+        },
+        "evidence_count": 1,
+        "keywords": [
+          "面貌线稿",
+          "脸部参考",
+          "正面"
+        ],
+        "status": "confirmed",
+        "title": "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。"
+      },
+      "review_status": "verified",
+      "review_summary": "",
+      "scenes": [
+        "角色头像"
+      ],
+      "source_category": "Characters",
+      "source_evidence": [
+        {
+          "revision": "manual-2026-10-12-v1",
+          "source": "face-references-commons",
+          "source_id": "tony-leung-line",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg",
+          "upstream_url": null,
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [
+          "角色头像"
+        ],
+        "styles": [
+          "面貌线稿",
+          "脸部参考"
+        ]
+      },
+      "source_title": "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。",
+      "sources": [
+        "face-references-commons"
+      ],
+      "status": "complete",
+      "styles": [
+        "面貌线稿",
+        "脸部参考"
+      ],
+      "techniques": [],
+      "title": "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。",
+      "title_aliases": [
+        "梁朝伟 面貌线稿｜成熟男性，浓眉、窄长眼裂、较宽鼻翼、舒展嘴宽、偏薄上唇和较宽下颌；眼下与鼻唇沟纹理线偏多。"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-face-references-commons-tony-leung-line-adf2120829bd/v1.json",
+          "version": "v1"
+        }
+      ]
+    },
+    {
+      "archived_at": "2026-10-11T16:16:06+00:00",
+      "artists": [],
+      "case_id": "case-face-references-commons-tony-leung-photo-b1ac890bf1b0",
+      "categories": [
+        "人物与角色"
+      ],
+      "detail_path": "cases/case-face-references-commons-tony-leung-photo-b1ac890bf1b0/v1.json",
+      "effective_labels": {
+        "categories": [
+          "人物与角色"
+        ],
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "effective_status": "complete",
+      "image_count": 1,
+      "materials": [],
+      "metadata_path": "metadata/cases/case-face-references-commons-tony-leung-photo-b1ac890bf1b0/v1.json",
+      "model": null,
+      "model_family": "unknown",
+      "model_version": null,
+      "movements": [],
+      "record_type": "image_reference",
+      "retrieval": {
+        "aliases": [
+          "梁朝伟"
+        ],
+        "description": "梁朝伟 来源照片",
+        "effective_labels": {
+          "categories": [
+            "人物与角色"
+          ],
+          "scenes": [
+            "面貌出处"
+          ],
+          "styles": [
+            "照片"
+          ]
+        },
+        "evidence_count": 1,
+        "keywords": [
+          "来源照片"
+        ],
+        "status": "confirmed",
+        "title": "梁朝伟 来源照片"
+      },
+      "review_status": "verified",
+      "review_summary": "",
+      "scenes": [
+        "面貌出处"
+      ],
+      "source_category": "Characters",
+      "source_evidence": [
+        {
+          "revision": "manual-2026-10-12-v1",
+          "source": "face-references-commons",
+          "source_id": "tony-leung-photo",
+          "source_url": "https://commons.wikimedia.org/wiki/File:Tony_Leung_at_Shanghai_International_Film_Festival_2026_01.jpg",
+          "upstream_url": null,
+          "version": "v1"
+        }
+      ],
+      "source_tags": {
+        "scenes": [
+          "面貌出处"
+        ],
+        "styles": [
+          "照片"
+        ]
+      },
+      "source_title": "梁朝伟 来源照片",
+      "sources": [
+        "face-references-commons"
+      ],
+      "status": "complete",
+      "styles": [
+        "照片"
+      ],
+      "techniques": [],
+      "title": "梁朝伟 来源照片",
+      "title_aliases": [
+        "梁朝伟 来源照片"
+      ],
+      "version": "v1",
+      "versions": [
+        {
+          "changes": [
+            "initial archive"
+          ],
+          "path": "cases/case-face-references-commons-tony-leung-photo-b1ac890bf1b0/v1.json",
           "version": "v1"
         }
       ]
