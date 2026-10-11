@@ -114,6 +114,34 @@
       "title": "90 年代公寓场景参考板",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-381",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case381.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "381",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Product"
+        ]
+      },
+      "source_url": "https://x.com/Iancu_ai/status/2051287273581203888",
+      "title": "90 年代公寓场景参考板",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-381",
+      "version": "v1"
     }
   ],
   "title": "90 年代公寓场景参考板",

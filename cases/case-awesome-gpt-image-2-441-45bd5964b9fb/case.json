@@ -114,6 +114,34 @@
       "title": "WILDCAMP 巨型帐篷广告海报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-441",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case441.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "441",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Strength04_X/status/2056258909334306897",
+      "title": "WILDCAMP 巨型帐篷广告海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-441",
+      "version": "v1"
     }
   ],
   "title": "WILDCAMP 巨型帐篷广告海报",

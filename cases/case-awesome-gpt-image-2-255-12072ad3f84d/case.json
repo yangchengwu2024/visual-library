@@ -94,6 +94,30 @@
       "title": "瑜伽裤女主播展示身材曲线",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-255",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case255.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "255",
+      "source_tags": {
+        "scenes": [
+          "Travel"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/joshesye/status/2044796366950703316",
+      "title": "瑜伽裤女主播展示身材曲线",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-255",
+      "version": "v1"
     }
   ],
   "title": "瑜伽裤女主播展示身材曲线",

@@ -104,6 +104,32 @@
       "title": "橙红渐变中的孤独剪影",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-273",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case273.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "273",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Photography"
+        ]
+      },
+      "source_url": "https://x.com/iam_miharbi/status/2045151354679665101",
+      "title": "橙红渐变中的孤独剪影",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-273",
+      "version": "v1"
     }
   ],
   "title": "橙红渐变中的孤独剪影",

@@ -99,6 +99,31 @@
       "title": "写实摄影风格创作",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-56",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case56.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "56",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/danieldmai",
+      "title": "写实摄影风格创作",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-56",
+      "version": "v1"
     }
   ],
   "title": "写实摄影风格创作",

@@ -114,6 +114,34 @@
       "title": "奢华个人色彩档案信息图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-364",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case364.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "364",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Realistic"
+        ]
+      },
+      "source_url": "https://x.com/meng_dagg695/status/2049822844918575586",
+      "title": "奢华个人色彩档案信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-364",
+      "version": "v1"
     }
   ],
   "title": "奢华个人色彩档案信息图",

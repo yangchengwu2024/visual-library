@@ -114,6 +114,34 @@
       "title": "西方艺术演进像素博物馆",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-215",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case215.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "215",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Poster",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/GeekCatX/status/2046172416716759171",
+      "title": "西方艺术演进像素博物馆",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-215",
+      "version": "v1"
     }
   ],
   "title": "西方艺术演进像素博物馆",

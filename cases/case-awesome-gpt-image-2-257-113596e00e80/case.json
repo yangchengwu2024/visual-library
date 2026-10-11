@@ -99,6 +99,31 @@
       "title": "抖音汉服美女直播带货截图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-257",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case257.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "UI & Interfaces",
+      "source_id": "257",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/joshesye/status/2044796366950703316",
+      "title": "抖音汉服美女直播带货截图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-257",
+      "version": "v1"
     }
   ],
   "title": "抖音汉服美女直播带货截图",

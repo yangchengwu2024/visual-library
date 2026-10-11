@@ -114,6 +114,34 @@
       "title": "品牌奶茶 KV 概念海报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-459",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case459.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "459",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Education"
+        ],
+        "styles": [
+          "Poster",
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2057739678485495885",
+      "title": "品牌奶茶 KV 概念海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-459",
+      "version": "v1"
     }
   ],
   "title": "品牌奶茶 KV 概念海报",

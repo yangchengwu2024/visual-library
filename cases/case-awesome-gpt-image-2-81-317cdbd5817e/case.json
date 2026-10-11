@@ -109,6 +109,33 @@
       "title": "写实摄影风格图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-81",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case81.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "81",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Story"
+        ],
+        "styles": [
+          "Infographic",
+          "Realistic",
+          "3D"
+        ]
+      },
+      "source_url": "https://x.com/HumanOS_v2",
+      "title": "写实摄影风格图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-81",
+      "version": "v1"
     }
   ],
   "title": "写实摄影风格图",

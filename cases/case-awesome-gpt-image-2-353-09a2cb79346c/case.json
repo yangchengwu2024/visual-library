@@ -114,6 +114,34 @@
       "title": "品牌口红推荐报告信息图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-353",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case353.jpg"
+        }
+      ],
+      "revision": "5cb9109ca2d29476f8e34dbc0cdb43607bdd3f77",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Charts & Infographics",
+      "source_id": "353",
+      "source_tags": {
+        "scenes": [
+          "Commerce",
+          "Food",
+          "Story"
+        ],
+        "styles": [
+          "UI",
+          "Infographic",
+          "Poster"
+        ]
+      },
+      "source_url": "https://x.com/liyue_ai/status/2048667226195317219",
+      "title": "品牌口红推荐报告信息图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-353",
+      "version": "v1"
     }
   ],
   "title": "品牌口红推荐报告信息图",
