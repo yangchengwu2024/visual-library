@@ -118,6 +118,30 @@
       "title": "亚马逊详情图设计",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-178",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case178.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "178",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Products"
+        ]
+      },
+      "source_url": "https://x.com/xin_pai88825/status/2046576100592201946",
+      "title": "亚马逊详情图设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-178",
+      "version": "v1"
     }
   ],
   "title": "亚马逊详情图设计",

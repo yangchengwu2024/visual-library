@@ -130,6 +130,32 @@
       "title": "建筑空间场景图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-50",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case50.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "50",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Fashion",
+          "Story"
+        ],
+        "styles": [
+          "Architecture"
+        ]
+      },
+      "source_url": "https://x.com/nomen_machine",
+      "title": "建筑空间场景图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-1.md#case-50",
+      "version": "v1"
     }
   ],
   "title": "建筑空间场景图",

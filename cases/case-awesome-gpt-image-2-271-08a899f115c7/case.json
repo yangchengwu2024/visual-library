@@ -118,6 +118,30 @@
       "title": "人物角色设定图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-271",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case271.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Characters & People",
+      "source_id": "271",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/tsubaki_ew/status/2045259289993048284",
+      "title": "人物角色设定图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-271",
+      "version": "v1"
     }
   ],
   "title": "人物角色设定图",

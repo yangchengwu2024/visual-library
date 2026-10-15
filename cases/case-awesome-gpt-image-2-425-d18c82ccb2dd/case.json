@@ -142,6 +142,34 @@
       "title": "黑白时尚人像拼贴海报",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-425",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case425.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "425",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Fashion"
+        ],
+        "styles": [
+          "Poster",
+          "Realistic",
+          "Character"
+        ]
+      },
+      "source_url": "https://x.com/XSydneyFan/status/2054054476429009086",
+      "title": "黑白时尚人像拼贴海报",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-425",
+      "version": "v1"
     }
   ],
   "title": "黑白时尚人像拼贴海报",

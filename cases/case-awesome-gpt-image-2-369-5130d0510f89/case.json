@@ -118,6 +118,30 @@
       "title": "明洞旅游区域地图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-369",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case369.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "369",
+      "source_tags": {
+        "scenes": [
+          "Travel"
+        ],
+        "styles": [
+          "Architecture"
+        ]
+      },
+      "source_url": "https://x.com/so_ainsight/status/2050354639036654048",
+      "title": "明洞旅游区域地图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-369",
+      "version": "v1"
     }
   ],
   "title": "明洞旅游区域地图",

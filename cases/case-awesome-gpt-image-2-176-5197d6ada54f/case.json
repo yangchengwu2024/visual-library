@@ -118,6 +118,30 @@
       "title": "苏轼被贬首日朋友圈曝光",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-176",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case176.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "History & Classical Themes",
+      "source_id": "176",
+      "source_tags": {
+        "scenes": [
+          "Social"
+        ],
+        "styles": [
+          "UI"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2046585220393324553",
+      "title": "苏轼被贬首日朋友圈曝光",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-176",
+      "version": "v1"
     }
   ],
   "title": "苏轼被贬首日朋友圈曝光",

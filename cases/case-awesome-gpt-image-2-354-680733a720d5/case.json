@@ -130,6 +130,32 @@
       "title": "Logo 与品牌身份系统提示词合集",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-354",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case354.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "354",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/wanerfu/status/2048659924822184026",
+      "title": "Logo 与品牌身份系统提示词合集",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-354",
+      "version": "v1"
     }
   ],
   "title": "Logo 与品牌身份系统提示词合集",

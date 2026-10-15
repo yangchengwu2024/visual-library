@@ -118,6 +118,30 @@
       "title": "雅致图案四款时尚单品设计",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-216",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case216.png"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "216",
+      "source_tags": {
+        "scenes": [
+          "Fashion"
+        ],
+        "styles": [
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/aiehon_aya/status/2046348182301683954",
+      "title": "雅致图案四款时尚单品设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-216",
+      "version": "v1"
     }
   ],
   "title": "雅致图案四款时尚单品设计",

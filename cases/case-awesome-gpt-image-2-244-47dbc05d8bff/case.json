@@ -136,6 +136,33 @@
       "title": "杜蕾斯茶颜悦色联名海报设计",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-244",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case244.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "244",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Social"
+        ],
+        "styles": [
+          "Poster",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+      "title": "杜蕾斯茶颜悦色联名海报设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-244",
+      "version": "v1"
     }
   ],
   "title": "杜蕾斯茶颜悦色联名海报设计",

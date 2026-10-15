@@ -118,6 +118,30 @@
       "title": "马斯克专属篆刻印章设计",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-245",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case245.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Other Use Cases",
+      "source_id": "245",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Other Use Cases"
+        ]
+      },
+      "source_url": "https://x.com/akokoi1/status/2045693939584516441",
+      "title": "马斯克专属篆刻印章设计",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-245",
+      "version": "v1"
     }
   ],
   "title": "马斯克专属篆刻印章设计",

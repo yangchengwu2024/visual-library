@@ -136,6 +136,33 @@
       "title": "工业橡胶管品牌造型渲染",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-516",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case516.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Brand & Logos",
+      "source_id": "516",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce"
+        ],
+        "styles": [
+          "Realistic",
+          "Product",
+          "Brand"
+        ]
+      },
+      "source_url": "https://x.com/Just_sharon7/status/2077034244988150062",
+      "title": "工业橡胶管品牌造型渲染",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-516",
+      "version": "v1"
     }
   ],
   "title": "工业橡胶管品牌造型渲染",

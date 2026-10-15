@@ -118,6 +118,30 @@
       "title": "宅男必看绝美二次元少女",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-202",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case202.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Photography & Realism",
+      "source_id": "202",
+      "source_tags": {
+        "scenes": [
+          "Creative"
+        ],
+        "styles": [
+          "Photography"
+        ]
+      },
+      "source_url": "https://x.com/joshesye/status/2046596222505361866",
+      "title": "宅男必看绝美二次元少女",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-202",
+      "version": "v1"
     }
   ],
   "title": "宅男必看绝美二次元少女",

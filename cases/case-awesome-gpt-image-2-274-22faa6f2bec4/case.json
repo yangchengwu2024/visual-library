@@ -136,6 +136,33 @@
       "title": "成都吃货暴走手绘美食地图",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-274",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case274.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Architecture & Spaces",
+      "source_id": "274",
+      "source_tags": {
+        "scenes": [
+          "Tech",
+          "Commerce",
+          "Food"
+        ],
+        "styles": [
+          "UI",
+          "Illustration"
+        ]
+      },
+      "source_url": "https://x.com/Panda20230902/status/2045396918965285111",
+      "title": "成都吃货暴走手绘美食地图",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-274",
+      "version": "v1"
     }
   ],
   "title": "成都吃货暴走手绘美食地图",

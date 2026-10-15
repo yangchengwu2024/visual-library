@@ -118,6 +118,30 @@
       "title": "健身蛋白粉电商详情页",
       "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-194",
       "version": "v1"
+    },
+    {
+      "asset_sources": [
+        {
+          "role": "source_example",
+          "source_path": "data/images/case194.jpg"
+        }
+      ],
+      "revision": "63e6176fa01be51c000108dacd72716d3e46784b",
+      "source": "awesome-gpt-image-2",
+      "source_category": "Products & E-commerce",
+      "source_id": "194",
+      "source_tags": {
+        "scenes": [
+          "Tech"
+        ],
+        "styles": [
+          "Products"
+        ]
+      },
+      "source_url": "https://x.com/MrLarus/status/2046544209117634735",
+      "title": "健身蛋白粉电商详情页",
+      "upstream_url": "https://github.com/freestylefly/awesome-gpt-image-2/blob/main/docs/gallery-part-2.md#case-194",
+      "version": "v1"
     }
   ],
   "title": "健身蛋白粉电商详情页",
